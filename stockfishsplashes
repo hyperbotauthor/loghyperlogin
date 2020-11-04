@@ -4,19 +4,12 @@
   "username": "stockfishsplashes",
   "profileUrl": "https://lichess.org/@/stockfishsplashes",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfishsplashes\",\"username\":\"stockfishsplashes\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1460,\"rd\":445,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2087,\"rd\":463,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2083,\"rd\":265,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604369070468,\"profile\":{\"country\":\"AQ\",\"location\":\"lichess.org\",\"bio\":\"bot of @Jonathanchen,\\r\\nactive every day ;0\"},\"seenAt\":1604500208114,\"playTime\":{\"total\":355,\"tv\":45},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/stockfishsplashes\",\"playing\":\"https://lichess.org/oxoOJR5y/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":8,\"rated\":6,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfishsplashes\",\"username\":\"stockfishsplashes\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1460,\"rd\":445,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2087,\"rd\":463,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1926,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2033,\"rd\":231,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1676,\"rd\":300,\"prog\":0,\"prov\":true}},\"createdAt\":1604369070468,\"profile\":{\"country\":\"AQ\",\"location\":\"lichess.org\",\"bio\":\"bot of @Jonathanchen,\\r\\nactive every day on multi-variant stockfish 12\"},\"seenAt\":1604503383963,\"playTime\":{\"total\":1493,\"tv\":45},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/stockfishsplashes\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":12,\"rated\":9,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":7,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfishsplashes",
     "username": "stockfishsplashes",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
-      },
       "atomic": {
         "games": 2,
         "rating": 1460,
@@ -31,10 +24,24 @@
         "prog": 0,
         "prov": true
       },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1926,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
-        "games": 3,
-        "rating": 2083,
-        "rd": 265,
+        "games": 4,
+        "rating": 2033,
+        "rd": 231,
         "prog": 0,
         "prov": true
       },
@@ -53,9 +60,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1676,
+        "rd": 300,
         "prog": 0,
         "prov": true
       }
@@ -64,31 +71,30 @@
     "profile": {
       "country": "AQ",
       "location": "lichess.org",
-      "bio": "bot of @Jonathanchen,\r\nactive every day ;0"
+      "bio": "bot of @Jonathanchen,\r\nactive every day on multi-variant stockfish 12"
     },
-    "seenAt": 1604500208114,
+    "seenAt": 1604503383963,
     "playTime": {
-      "total": 355,
+      "total": 1493,
       "tv": 45
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/stockfishsplashes",
-    "playing": "https://lichess.org/oxoOJR5y/white",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 8,
-      "rated": 6,
-      "ai": 2,
+      "all": 12,
+      "rated": 9,
+      "ai": 3,
       "draw": 1,
       "drawH": 1,
-      "loss": 3,
-      "lossH": 3,
-      "win": 4,
-      "winH": 2,
+      "loss": 4,
+      "lossH": 4,
+      "win": 7,
+      "winH": 4,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
