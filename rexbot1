@@ -1,0 +1,88 @@
+{
+  "id": "rexbot1",
+  "displayName": "Rexbot1",
+  "username": "Rexbot1",
+  "profileUrl": "https://lichess.org/@/Rexbot1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rexbot1\",\"username\":\"Rexbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1547,\"rd\":295,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":2036,\"rd\":130,\"prog\":-25,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2165,\"rd\":106,\"prog\":125}},\"createdAt\":1602536578308,\"profile\":{\"country\":\"_lichess\",\"location\":\"lichess.org\",\"bio\":\"Bot of @LRex. Test me if you want by challenging me!\\r\\n\\r\\nI play Bullet, Blitz and Rapid and I can do Casual or Rated. My goal is to reach 3000 rating in any time control one day, but hopefully rapid as that is my highest rating so far, and I am over 2000 rated in it. Highest level of Stockfish I have beaten = 6\",\"firstName\":\"L Rex's\",\"lastName\":\"bot\",\"fideRating\":3000},\"seenAt\":1604521882356,\"playTime\":{\"total\":12634,\"tv\":2450},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Rexbot1\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":70,\"rated\":41,\"ai\":15,\"draw\":9,\"drawH\":9,\"loss\":17,\"lossH\":14,\"win\":44,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rexbot1",
+    "username": "Rexbot1",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 1547,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 19,
+        "rating": 2036,
+        "rd": 130,
+        "prog": -25,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 2165,
+        "rd": 106,
+        "prog": 125
+      }
+    },
+    "createdAt": 1602536578308,
+    "profile": {
+      "country": "_lichess",
+      "location": "lichess.org",
+      "bio": "Bot of @LRex. Test me if you want by challenging me!\r\n\r\nI play Bullet, Blitz and Rapid and I can do Casual or Rated. My goal is to reach 3000 rating in any time control one day, but hopefully rapid as that is my highest rating so far, and I am over 2000 rated in it. Highest level of Stockfish I have beaten = 6",
+      "firstName": "L Rex's",
+      "lastName": "bot",
+      "fideRating": 3000
+    },
+    "seenAt": 1604521882356,
+    "playTime": {
+      "total": 12634,
+      "tv": 2450
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Rexbot1",
+    "nbFollowing": 1,
+    "nbFollowers": 4,
+    "count": {
+      "all": 70,
+      "rated": 41,
+      "ai": 15,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 17,
+      "lossH": 14,
+      "win": 44,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
