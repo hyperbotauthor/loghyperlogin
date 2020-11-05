@@ -1,0 +1,83 @@
+{
+  "id": "spideychess0108",
+  "displayName": "spideychess0108",
+  "username": "spideychess0108",
+  "profileUrl": "https://lichess.org/@/spideychess0108",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"spideychess0108\",\"username\":\"spideychess0108\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1916,\"rd\":189,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1538,\"rd\":297,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2028,\"rd\":108,\"prog\":10}},\"createdAt\":1604378866069,\"profile\":{\"bio\":\"Hi!\\r\\naccepting challenges in blitz rapid and classical\\r\\nmy creator is @l_0-0_l\"},\"seenAt\":1604576620781,\"playTime\":{\"total\":20087,\"tv\":4154},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/spideychess0108\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":39,\"rated\":27,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":21,\"lossH\":16,\"win\":16,\"winH\":16,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "spideychess0108",
+    "username": "spideychess0108",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1916,
+        "rd": 189,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1538,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 15,
+        "rating": 2028,
+        "rd": 108,
+        "prog": 10
+      }
+    },
+    "createdAt": 1604378866069,
+    "profile": {
+      "bio": "Hi!\r\naccepting challenges in blitz rapid and classical\r\nmy creator is @l_0-0_l"
+    },
+    "seenAt": 1604576620781,
+    "playTime": {
+      "total": 20087,
+      "tv": 4154
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/spideychess0108",
+    "nbFollowing": 2,
+    "nbFollowers": 2,
+    "count": {
+      "all": 39,
+      "rated": 27,
+      "ai": 5,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 21,
+      "lossH": 16,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
