@@ -1,0 +1,146 @@
+{
+  "id": "jonathanchen",
+  "displayName": "JonathanChen",
+  "username": "JonathanChen",
+  "profileUrl": "https://lichess.org/@/JonathanChen",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jonathanchen\",\"username\":\"JonathanChen\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":24,\"rating\":1124,\"rd\":105,\"prog\":30},\"antichess\":{\"games\":133,\"rating\":1231,\"rd\":53,\"prog\":29},\"atomic\":{\"games\":2020,\"rating\":1781,\"rd\":45,\"prog\":-20},\"racingKings\":{\"games\":47,\"rating\":1307,\"rd\":76,\"prog\":-24},\"ultraBullet\":{\"games\":2796,\"rating\":1638,\"rd\":45,\"prog\":2},\"blitz\":{\"games\":230,\"rating\":1204,\"rd\":46,\"prog\":18},\"kingOfTheHill\":{\"games\":49,\"rating\":1296,\"rd\":79,\"prog\":27},\"crazyhouse\":{\"games\":59,\"rating\":1361,\"rd\":72,\"prog\":78},\"threeCheck\":{\"games\":130,\"rating\":1430,\"rd\":55,\"prog\":21},\"bullet\":{\"games\":893,\"rating\":1546,\"rd\":45,\"prog\":2},\"correspondence\":{\"games\":23,\"rating\":1349,\"rd\":99,\"prog\":30},\"horde\":{\"games\":22,\"rating\":1179,\"rd\":112,\"prog\":197,\"prov\":true},\"puzzle\":{\"games\":926,\"rating\":2014,\"rd\":73,\"prog\":0},\"classical\":{\"games\":20,\"rating\":1051,\"rd\":103,\"prog\":62},\"rapid\":{\"games\":127,\"rating\":1117,\"rd\":55,\"prog\":14}},\"createdAt\":1592518628018,\"profile\":{\"country\":\"AQ\",\"location\":\"arc-tick-uh\",\"bio\":\"https://i.imgur.com/9HXDKO2.png https://i.imgur.com/9HXDKO2.png\",\"firstName\":\"Jonathan\",\"lastName\":\"Chen\",\"links\":\"lichess.org/@/JonathanChen\\r\\nFishrandom.io\\r\\nSurviv.io\"},\"seenAt\":1604612031963,\"playTime\":{\"total\":619323,\"tv\":5064},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/JonathanChen\",\"playing\":\"https://lichess.org/zbCpe7yC/black\",\"nbFollowing\":127,\"nbFollowers\":55,\"completionRate\":100,\"count\":{\"all\":7935,\"rated\":6596,\"ai\":928,\"draw\":148,\"drawH\":135,\"loss\":4249,\"lossH\":3446,\"win\":3538,\"winH\":3426,\"bookmark\":55,\"playing\":4,\"import\":3,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jonathanchen",
+    "username": "JonathanChen",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 24,
+        "rating": 1124,
+        "rd": 105,
+        "prog": 30
+      },
+      "antichess": {
+        "games": 133,
+        "rating": 1231,
+        "rd": 53,
+        "prog": 29
+      },
+      "atomic": {
+        "games": 2020,
+        "rating": 1781,
+        "rd": 45,
+        "prog": -20
+      },
+      "racingKings": {
+        "games": 47,
+        "rating": 1307,
+        "rd": 76,
+        "prog": -24
+      },
+      "ultraBullet": {
+        "games": 2796,
+        "rating": 1638,
+        "rd": 45,
+        "prog": 2
+      },
+      "blitz": {
+        "games": 230,
+        "rating": 1204,
+        "rd": 46,
+        "prog": 18
+      },
+      "kingOfTheHill": {
+        "games": 49,
+        "rating": 1296,
+        "rd": 79,
+        "prog": 27
+      },
+      "crazyhouse": {
+        "games": 59,
+        "rating": 1361,
+        "rd": 72,
+        "prog": 78
+      },
+      "threeCheck": {
+        "games": 130,
+        "rating": 1430,
+        "rd": 55,
+        "prog": 21
+      },
+      "bullet": {
+        "games": 893,
+        "rating": 1546,
+        "rd": 45,
+        "prog": 2
+      },
+      "correspondence": {
+        "games": 23,
+        "rating": 1349,
+        "rd": 99,
+        "prog": 30
+      },
+      "horde": {
+        "games": 22,
+        "rating": 1179,
+        "rd": 112,
+        "prog": 197,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 926,
+        "rating": 2014,
+        "rd": 73,
+        "prog": 0
+      },
+      "classical": {
+        "games": 20,
+        "rating": 1051,
+        "rd": 103,
+        "prog": 62
+      },
+      "rapid": {
+        "games": 127,
+        "rating": 1117,
+        "rd": 55,
+        "prog": 14
+      }
+    },
+    "createdAt": 1592518628018,
+    "profile": {
+      "country": "AQ",
+      "location": "arc-tick-uh",
+      "bio": "https://i.imgur.com/9HXDKO2.png https://i.imgur.com/9HXDKO2.png",
+      "firstName": "Jonathan",
+      "lastName": "Chen",
+      "links": "lichess.org/@/JonathanChen\r\nFishrandom.io\r\nSurviv.io"
+    },
+    "seenAt": 1604612031963,
+    "playTime": {
+      "total": 619323,
+      "tv": 5064
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/JonathanChen",
+    "playing": "https://lichess.org/zbCpe7yC/black",
+    "nbFollowing": 127,
+    "nbFollowers": 55,
+    "completionRate": 100,
+    "count": {
+      "all": 7935,
+      "rated": 6596,
+      "ai": 928,
+      "draw": 148,
+      "drawH": 135,
+      "loss": 4249,
+      "lossH": 3446,
+      "win": 3538,
+      "winH": 3426,
+      "bookmark": 55,
+      "playing": 4,
+      "import": 3,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
