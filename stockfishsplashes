@@ -4,16 +4,16 @@
   "username": "stockfishsplashes",
   "profileUrl": "https://lichess.org/@/stockfishsplashes",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfishsplashes\",\"username\":\"stockfishsplashes\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1460,\"rd\":445,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2087,\"rd\":463,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1926,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2033,\"rd\":231,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1676,\"rd\":300,\"prog\":0,\"prov\":true}},\"createdAt\":1604369070468,\"profile\":{\"country\":\"AQ\",\"location\":\"lichess.org\",\"bio\":\"bot of @Jonathanchen,\\r\\nactive every day on multi-variant stockfish 12\"},\"seenAt\":1604503383963,\"playTime\":{\"total\":1493,\"tv\":45},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/stockfishsplashes\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":12,\"rated\":9,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":7,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfishsplashes\",\"username\":\"stockfishsplashes\",\"online\":false,\"perfs\":{\"atomic\":{\"games\":7,\"rating\":2050,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2087,\"rd\":463,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1492,\"rd\":489,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1926,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2033,\"rd\":231,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1676,\"rd\":300,\"prog\":0,\"prov\":true}},\"createdAt\":1604369070468,\"profile\":{\"country\":\"AQ\",\"location\":\"lichess.org\",\"bio\":\"bot of @Jonathanchen,\\r\\nactive every day on multi-variant stockfish 12\"},\"seenAt\":1604549248600,\"playTime\":{\"total\":2496,\"tv\":613},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/stockfishsplashes\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":18,\"rated\":15,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":7,\"win\":10,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfishsplashes",
     "username": "stockfishsplashes",
-    "online": true,
+    "online": false,
     "perfs": {
       "atomic": {
-        "games": 2,
-        "rating": 1460,
-        "rd": 445,
+        "games": 7,
+        "rating": 2050,
+        "rd": 196,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1492,
+        "rd": 489,
         "prog": 0,
         "prov": true
       },
@@ -73,10 +73,10 @@
       "location": "lichess.org",
       "bio": "bot of @Jonathanchen,\r\nactive every day on multi-variant stockfish 12"
     },
-    "seenAt": 1604503383963,
+    "seenAt": 1604549248600,
     "playTime": {
-      "total": 1493,
-      "tv": 45
+      "total": 2496,
+      "tv": 613
     },
     "language": "en-US",
     "title": "BOT",
@@ -84,15 +84,15 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 12,
-      "rated": 9,
+      "all": 18,
+      "rated": 15,
       "ai": 3,
       "draw": 1,
       "drawH": 1,
-      "loss": 4,
-      "lossH": 4,
-      "win": 7,
-      "winH": 4,
+      "loss": 7,
+      "lossH": 7,
+      "win": 10,
+      "winH": 7,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
