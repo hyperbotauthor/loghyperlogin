@@ -1,0 +1,89 @@
+{
+  "id": "firechess100",
+  "displayName": "firechess100",
+  "username": "firechess100",
+  "profileUrl": "https://lichess.org/@/firechess100",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"firechess100\",\"username\":\"firechess100\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":21,\"rating\":1944,\"rd\":145,\"prog\":58,\"prov\":true},\"puzzle\":{\"games\":855,\"rating\":1772,\"rd\":78,\"prog\":-7},\"bullet\":{\"games\":195,\"rating\":1522,\"rd\":45,\"prog\":39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603253306381,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1604630939997,\"playTime\":{\"total\":31711,\"tv\":91},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/firechess100\",\"nbFollowing\":2,\"nbFollowers\":0,\"completionRate\":97,\"count\":{\"all\":348,\"rated\":216,\"ai\":132,\"draw\":7,\"drawH\":6,\"loss\":229,\"lossH\":106,\"win\":112,\"winH\":104,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "firechess100",
+    "username": "firechess100",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 21,
+        "rating": 1944,
+        "rd": 145,
+        "prog": 58,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 855,
+        "rating": 1772,
+        "rd": 78,
+        "prog": -7
+      },
+      "bullet": {
+        "games": 195,
+        "rating": 1522,
+        "rd": 45,
+        "prog": 39
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1603253306381,
+    "profile": {
+      "country": "_lichess"
+    },
+    "seenAt": 1604630939997,
+    "playTime": {
+      "total": 31711,
+      "tv": 91
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/firechess100",
+    "nbFollowing": 2,
+    "nbFollowers": 0,
+    "completionRate": 97,
+    "count": {
+      "all": 348,
+      "rated": 216,
+      "ai": 132,
+      "draw": 7,
+      "drawH": 6,
+      "loss": 229,
+      "lossH": 106,
+      "win": 112,
+      "winH": 104,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
