@@ -1,0 +1,84 @@
+{
+  "id": "prathamshetty_bot",
+  "displayName": "Prathamshetty_BOT",
+  "username": "Prathamshetty_BOT",
+  "profileUrl": "https://lichess.org/@/Prathamshetty_BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"prathamshetty_bot\",\"username\":\"Prathamshetty_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":35,\"rating\":2136,\"rd\":77,\"prog\":6},\"bullet\":{\"games\":57,\"rating\":1902,\"rd\":64,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1416,\"rd\":385,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2277,\"rd\":395,\"prog\":0,\"prov\":true}},\"createdAt\":1604144046296,\"profile\":{\"bio\":\"A bot running on stockfish. \\r\\nCreator/owner is @Prathamshetty.\\r\\nAll variants any time limit.\\r\\nBut you should only challenge.\\r\\nMake sure you follow me and my creator/owner @Prathamshetty.\\r\\n\\r\\nbye...........\\r\\nhave a good day.......\",\"links\":\"https://www.chesskid.com/me/profile\"},\"seenAt\":1604749524762,\"playTime\":{\"total\":27263,\"tv\":9985},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Prathamshetty_BOT\",\"playing\":\"https://lichess.org/bhdJugXi/black\",\"nbFollowing\":3,\"nbFollowers\":16,\"count\":{\"all\":188,\"rated\":103,\"ai\":22,\"draw\":15,\"drawH\":15,\"loss\":52,\"lossH\":33,\"win\":121,\"winH\":118,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "prathamshetty_bot",
+    "username": "Prathamshetty_BOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 35,
+        "rating": 2136,
+        "rd": 77,
+        "prog": 6
+      },
+      "bullet": {
+        "games": 57,
+        "rating": 1902,
+        "rd": 64,
+        "prog": -2
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1416,
+        "rd": 385,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2277,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604144046296,
+    "profile": {
+      "bio": "A bot running on stockfish. \r\nCreator/owner is @Prathamshetty.\r\nAll variants any time limit.\r\nBut you should only challenge.\r\nMake sure you follow me and my creator/owner @Prathamshetty.\r\n\r\nbye...........\r\nhave a good day.......",
+      "links": "https://www.chesskid.com/me/profile"
+    },
+    "seenAt": 1604749524762,
+    "playTime": {
+      "total": 27263,
+      "tv": 9985
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Prathamshetty_BOT",
+    "playing": "https://lichess.org/bhdJugXi/black",
+    "nbFollowing": 3,
+    "nbFollowers": 16,
+    "count": {
+      "all": 188,
+      "rated": 103,
+      "ai": 22,
+      "draw": 15,
+      "drawH": 15,
+      "loss": 52,
+      "lossH": 33,
+      "win": 121,
+      "winH": 118,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
