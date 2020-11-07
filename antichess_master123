@@ -1,0 +1,86 @@
+{
+  "id": "antichess_master123",
+  "displayName": "Antichess_Master123",
+  "username": "Antichess_Master123",
+  "profileUrl": "https://lichess.org/@/Antichess_Master123",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"antichess_master123\",\"username\":\"Antichess_Master123\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1579,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604234695904,\"profile\":{\"country\":\"AQ\",\"bio\":\"The Chess Bot !\\r\\nCreated : 1.11.2020 Time : 12:46 By \\\"Rakieta2021\\\"\"},\"seenAt\":1604772991401,\"playTime\":{\"total\":669,\"tv\":0},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Antichess_Master123\",\"playing\":\"https://lichess.org/8oL03bed/white\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":5,\"rated\":4,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "antichess_master123",
+    "username": "Antichess_Master123",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1579,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604234695904,
+    "profile": {
+      "country": "AQ",
+      "bio": "The Chess Bot !\r\nCreated : 1.11.2020 Time : 12:46 By \"Rakieta2021\""
+    },
+    "seenAt": 1604772991401,
+    "playTime": {
+      "total": 669,
+      "tv": 0
+    },
+    "language": "pl-PL",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Antichess_Master123",
+    "playing": "https://lichess.org/8oL03bed/white",
+    "nbFollowing": 3,
+    "nbFollowers": 2,
+    "count": {
+      "all": 5,
+      "rated": 4,
+      "ai": 1,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 5,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
