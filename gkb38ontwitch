@@ -1,0 +1,90 @@
+{
+  "id": "gkb38ontwitch",
+  "displayName": "GKB38OnTwitch",
+  "username": "GKB38OnTwitch",
+  "profileUrl": "https://lichess.org/@/GKB38OnTwitch",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"gkb38ontwitch\",\"username\":\"GKB38OnTwitch\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1778,\"rd\":208,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":2703,\"rd\":164,\"prog\":4,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1857,\"rd\":301,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604858336333,\"profile\":{\"bio\":\"GKB38's account on twitch when he is streaming. twitch.tv/gkbchess\"},\"seenAt\":1604869932583,\"playTime\":{\"total\":1524,\"tv\":114},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/GKB38OnTwitch\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":10,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "gkb38ontwitch",
+    "username": "GKB38OnTwitch",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 1778,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 12,
+        "rating": 2703,
+        "rd": 164,
+        "prog": 4,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1857,
+        "rd": 301,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604858336333,
+    "profile": {
+      "bio": "GKB38's account on twitch when he is streaming. twitch.tv/gkbchess"
+    },
+    "seenAt": 1604869932583,
+    "playTime": {
+      "total": 1524,
+      "tv": 114
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/GKB38OnTwitch",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "count": {
+      "all": 10,
+      "rated": 4,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 6,
+      "lossH": 6,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
