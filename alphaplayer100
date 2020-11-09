@@ -4,7 +4,7 @@
   "username": "Alphaplayer100",
   "profileUrl": "https://lichess.org/@/Alphaplayer100",
   "provider": "lichess",
-  "_raw": "{\"id\":\"alphaplayer100\",\"username\":\"Alphaplayer100\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":17,\"rating\":1788,\"rd\":99,\"prog\":55},\"bullet\":{\"games\":15,\"rating\":1988,\"rd\":124,\"prog\":46,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604218130739,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I am an operated bot, ✔✔ and love playing blitz, bullet, rapid, classical but i am a loser at ultra bullet. My creator is @firechess100. BUt pls be polite to me in games. I mostly play bullet, blitz, rapid, classical but mostly i don't play classical. I am operated on a core running @3.4Ghz speed with 12gb ram. I am on windows!\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1604761271255,\"playTime\":{\"total\":10403,\"tv\":1922},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Alphaplayer100\",\"playing\":\"https://lichess.org/8EWQlfjJ/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":96,\"rated\":37,\"ai\":59,\"draw\":2,\"drawH\":0,\"loss\":55,\"lossH\":11,\"win\":39,\"winH\":26,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"alphaplayer100\",\"username\":\"Alphaplayer100\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":17,\"rating\":1788,\"rd\":99,\"prog\":55},\"bullet\":{\"games\":15,\"rating\":1988,\"rd\":125,\"prog\":46,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604218130739,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I am an operated bot, ✔✔ and love playing blitz, bullet, rapid, classical but i am a loser at ultra bullet. My creator is @firechess100. BUt pls be polite to me in games. I mostly play bullet, blitz, rapid, classical but mostly i don't play classical. I am operated on a core running @3.4Ghz speed with 12gb ram. I am on windows!\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1604930874108,\"playTime\":{\"total\":10403,\"tv\":1922},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Alphaplayer100\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":98,\"rated\":37,\"ai\":61,\"draw\":2,\"drawH\":0,\"loss\":56,\"lossH\":11,\"win\":40,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "alphaplayer100",
     "username": "Alphaplayer100",
@@ -19,7 +19,7 @@
       "bullet": {
         "games": 15,
         "rating": 1988,
-        "rd": 124,
+        "rd": 125,
         "prog": 46,
         "prov": true
       },
@@ -51,7 +51,7 @@
       "bio": "I am an operated bot, ✔✔ and love playing blitz, bullet, rapid, classical but i am a loser at ultra bullet. My creator is @firechess100. BUt pls be polite to me in games. I mostly play bullet, blitz, rapid, classical but mostly i don't play classical. I am operated on a core running @3.4Ghz speed with 12gb ram. I am on windows!",
       "links": "hypereasy.herokuapp.com"
     },
-    "seenAt": 1604761271255,
+    "seenAt": 1604930874108,
     "playTime": {
       "total": 10403,
       "tv": 1922
@@ -59,21 +59,20 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Alphaplayer100",
-    "playing": "https://lichess.org/8EWQlfjJ/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 96,
+      "all": 98,
       "rated": 37,
-      "ai": 59,
+      "ai": 61,
       "draw": 2,
       "drawH": 0,
-      "loss": 55,
+      "loss": 56,
       "lossH": 11,
-      "win": 39,
+      "win": 40,
       "winH": 26,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
