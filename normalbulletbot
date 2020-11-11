@@ -1,0 +1,95 @@
+{
+  "id": "normalbulletbot",
+  "displayName": "NormalBulletBot",
+  "username": "NormalBulletBot",
+  "profileUrl": "https://lichess.org/@/NormalBulletBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"normalbulletbot\",\"username\":\"NormalBulletBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":72,\"rating\":2342,\"rd\":57,\"prog\":15},\"atomic\":{\"games\":111,\"rating\":2000,\"rd\":49,\"prog\":32},\"racingKings\":{\"games\":3,\"rating\":2289,\"rd\":255,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":622,\"rating\":2294,\"rd\":45,\"prog\":2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1987,\"rd\":353,\"prog\":0,\"prov\":true}},\"createdAt\":1524769359065,\"profile\":{\"bio\":\"rated standard bullet games against bots and humans\"},\"seenAt\":1605112328169,\"playTime\":{\"total\":137140,\"tv\":55492},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NormalBulletBot\",\"nbFollowing\":0,\"nbFollowers\":64,\"count\":{\"all\":1056,\"rated\":825,\"ai\":2,\"draw\":245,\"drawH\":245,\"loss\":351,\"lossH\":349,\"win\":460,\"winH\":460,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "normalbulletbot",
+    "username": "NormalBulletBot",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 72,
+        "rating": 2342,
+        "rd": 57,
+        "prog": 15
+      },
+      "atomic": {
+        "games": 111,
+        "rating": 2000,
+        "rd": 49,
+        "prog": 32
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 2289,
+        "rd": 255,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 622,
+        "rating": 2294,
+        "rd": 45,
+        "prog": 2
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1987,
+        "rd": 353,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1524769359065,
+    "profile": {
+      "bio": "rated standard bullet games against bots and humans"
+    },
+    "seenAt": 1605112328169,
+    "playTime": {
+      "total": 137140,
+      "tv": 55492
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/NormalBulletBot",
+    "nbFollowing": 0,
+    "nbFollowers": 64,
+    "count": {
+      "all": 1056,
+      "rated": 825,
+      "ai": 2,
+      "draw": 245,
+      "drawH": 245,
+      "loss": 351,
+      "lossH": 349,
+      "win": 460,
+      "winH": 460,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
