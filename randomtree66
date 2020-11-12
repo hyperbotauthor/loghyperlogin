@@ -4,7 +4,7 @@
   "username": "RandomTree66",
   "profileUrl": "https://lichess.org/@/RandomTree66",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1438,\"rd\":418,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605141839672,\"playTime\":{\"total\":4788,\"tv\":2191},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"playing\":\"https://lichess.org/4X7KAzlS/black\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":7,\"rated\":1,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1438,\"rd\":418,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605146028216,\"playTime\":{\"total\":8431,\"tv\":2191},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"playing\":\"https://lichess.org/cRLhGf4Q/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":8,\"rated\":2,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree66",
     "username": "RandomTree66",
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1748,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -47,27 +47,27 @@
       }
     },
     "createdAt": 1603924693813,
-    "seenAt": 1605141839672,
+    "seenAt": 1605146028216,
     "playTime": {
-      "total": 4788,
+      "total": 8431,
       "tv": 2191
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomTree66",
-    "playing": "https://lichess.org/4X7KAzlS/black",
+    "playing": "https://lichess.org/cRLhGf4Q/white",
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 7,
-      "rated": 1,
+      "all": 8,
+      "rated": 2,
       "ai": 3,
       "draw": 1,
       "drawH": 1,
       "loss": 3,
       "lossH": 2,
-      "win": 3,
-      "winH": 1,
+      "win": 4,
+      "winH": 2,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
