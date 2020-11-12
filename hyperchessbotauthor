@@ -1,0 +1,83 @@
+{
+  "id": "hyperchessbotauthor",
+  "displayName": "hyperchessbotauthor",
+  "username": "hyperchessbotauthor",
+  "profileUrl": "https://lichess.org/@/hyperchessbotauthor",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hyperchessbotauthor\",\"username\":\"hyperchessbotauthor\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":1859,\"rd\":64,\"prog\":19},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603109931581,\"profile\":{\"bio\":\"author of https://lichess.org/@/chesshyperbot\\r\\nstraw poll https://listrawpoll.herokuapp.com/\\r\\nHyper Bot https://github.com/hyperchessbot/hyperbot#create-your-own-hyper-bot\\r\\nHyper Easy https://hypereasy.herokuapp.com\"},\"seenAt\":1605140285733,\"playTime\":{\"total\":4464,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/hyperchessbotauthor\",\"nbFollowing\":0,\"nbFollowers\":6,\"completionRate\":95,\"count\":{\"all\":37,\"rated\":37,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":18,\"lossH\":18,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hyperchessbotauthor",
+    "username": "hyperchessbotauthor",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 37,
+        "rating": 1859,
+        "rd": 64,
+        "prog": 19
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1603109931581,
+    "profile": {
+      "bio": "author of https://lichess.org/@/chesshyperbot\r\nstraw poll https://listrawpoll.herokuapp.com/\r\nHyper Bot https://github.com/hyperchessbot/hyperbot#create-your-own-hyper-bot\r\nHyper Easy https://hypereasy.herokuapp.com"
+    },
+    "seenAt": 1605140285733,
+    "playTime": {
+      "total": 4464,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/hyperchessbotauthor",
+    "nbFollowing": 0,
+    "nbFollowers": 6,
+    "completionRate": 95,
+    "count": {
+      "all": 37,
+      "rated": 37,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 18,
+      "lossH": 18,
+      "win": 18,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
