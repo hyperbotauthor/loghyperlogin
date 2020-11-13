@@ -4,11 +4,11 @@
   "username": "RandomTree66",
   "profileUrl": "https://lichess.org/@/RandomTree66",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1339,\"rd\":307,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605233180016,\"playTime\":{\"total\":19668,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":18,\"rated\":6,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":8,\"win\":7,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1733,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605280949496,\"playTime\":{\"total\":20219,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":20,\"rated\":7,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":8,\"win\":9,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree66",
     "username": "RandomTree66",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 2,
@@ -39,17 +39,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1339,
-        "rd": 307,
+        "games": 3,
+        "rating": 1733,
+        "rd": 269,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1603924693813,
-    "seenAt": 1605233180016,
+    "seenAt": 1605280949496,
     "playTime": {
-      "total": 19668,
+      "total": 20219,
       "tv": 6086
     },
     "language": "en-US",
@@ -58,15 +58,15 @@
     "nbFollowing": 1,
     "nbFollowers": 4,
     "count": {
-      "all": 18,
-      "rated": 6,
+      "all": 20,
+      "rated": 7,
       "ai": 3,
       "draw": 2,
       "drawH": 2,
       "loss": 9,
       "lossH": 8,
-      "win": 7,
-      "winH": 5,
+      "win": 9,
+      "winH": 7,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
