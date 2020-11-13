@@ -1,0 +1,102 @@
+{
+  "id": "lolobot",
+  "displayName": "Lolobot",
+  "username": "Lolobot",
+  "profileUrl": "https://lichess.org/@/Lolobot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lolobot\",\"username\":\"Lolobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":42,\"rating\":2217,\"rd\":69,\"prog\":-79},\"antichess\":{\"games\":2,\"rating\":1444,\"rd\":424,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":2042,\"rd\":341,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":57,\"rating\":1900,\"rd\":64,\"prog\":-6},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":40,\"rating\":2025,\"rd\":72,\"prog\":-66}},\"createdAt\":1603166221589,\"profile\":{\"country\":\"_pirate\",\"location\":\"lololand\",\"bio\":\"I beat stockfish level 8, Lolo! Heres the link https://lichess.org/7dyRLEh7/black#172\\r\\nChallenge me when I am online\\r\\ncreated by @rishabha\\r\\nWill be permanently blocked if farming\",\"firstName\":\"lo\",\"lastName\":\"lo\",\"fideRating\":3000,\"uscfRating\":3000,\"links\":\"@rishabha\"},\"seenAt\":1605301382006,\"playTime\":{\"total\":69562,\"tv\":23972},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lolobot\",\"nbFollowing\":4,\"nbFollowers\":21,\"count\":{\"all\":250,\"rated\":150,\"ai\":15,\"draw\":26,\"drawH\":26,\"loss\":121,\"lossH\":108,\"win\":103,\"winH\":101,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lolobot",
+    "username": "Lolobot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 42,
+        "rating": 2217,
+        "rd": 69,
+        "prog": -79
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1444,
+        "rd": 424,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 2042,
+        "rd": 341,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 57,
+        "rating": 1900,
+        "rd": 64,
+        "prog": -6
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 40,
+        "rating": 2025,
+        "rd": 72,
+        "prog": -66
+      }
+    },
+    "createdAt": 1603166221589,
+    "profile": {
+      "country": "_pirate",
+      "location": "lololand",
+      "bio": "I beat stockfish level 8, Lolo! Heres the link https://lichess.org/7dyRLEh7/black#172\r\nChallenge me when I am online\r\ncreated by @rishabha\r\nWill be permanently blocked if farming",
+      "firstName": "lo",
+      "lastName": "lo",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "links": "@rishabha"
+    },
+    "seenAt": 1605301382006,
+    "playTime": {
+      "total": 69562,
+      "tv": 23972
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Lolobot",
+    "nbFollowing": 4,
+    "nbFollowers": 21,
+    "count": {
+      "all": 250,
+      "rated": 150,
+      "ai": 15,
+      "draw": 26,
+      "drawH": 26,
+      "loss": 121,
+      "lossH": 108,
+      "win": 103,
+      "winH": 101,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
