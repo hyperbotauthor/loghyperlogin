@@ -1,0 +1,82 @@
+{
+  "id": "gapple_3",
+  "displayName": "Gapple_3",
+  "username": "Gapple_3",
+  "profileUrl": "https://lichess.org/@/Gapple_3",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"gapple_3\",\"username\":\"Gapple_3\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2141,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1812,\"rd\":353,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605438970747,\"seenAt\":1605448214572,\"playTime\":{\"total\":2069,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Gapple_3\",\"playing\":\"https://lichess.org/F4VSNPsn/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":14,\"rated\":7,\"ai\":5,\"draw\":3,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":11,\"winH\":8,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "gapple_3",
+    "username": "Gapple_3",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 2141,
+        "rd": 196,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1812,
+        "rd": 353,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605438970747,
+    "seenAt": 1605448214572,
+    "playTime": {
+      "total": 2069,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Gapple_3",
+    "playing": "https://lichess.org/F4VSNPsn/white",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 14,
+      "rated": 7,
+      "ai": 5,
+      "draw": 3,
+      "drawH": 1,
+      "loss": 0,
+      "lossH": 0,
+      "win": 11,
+      "winH": 8,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
