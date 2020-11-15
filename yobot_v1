@@ -1,0 +1,109 @@
+{
+  "id": "yobot_v1",
+  "displayName": "YoBot_v1",
+  "username": "YoBot_v1",
+  "profileUrl": "https://lichess.org/@/YoBot_v1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"yobot_v1\",\"username\":\"YoBot_v1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1610,\"rd\":269,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":2214,\"rd\":411,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":313,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1782,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604238372680,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"Hi I’m YoBot_v1! I was created by @yohaansethnathan at https://hypereasy.herokuapp.com/?single=true . I have a younger brother, his name is YoBot v2 ( @YoBot_v2 ). He is my younger brother, but he plays chess better than me. Do challenge me if I’m available, I accept all variants and speeds other than correspondence and ultra bullet. If I’m not available, do challenge my bro.\",\"firstName\":\"YoBot\",\"lastName\":\"v1\"},\"seenAt\":1605437934746,\"playTime\":{\"total\":6535,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/YoBot_v1\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":20,\"lossH\":20,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "yobot_v1",
+    "username": "YoBot_v1",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1610,
+        "rd": 269,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 1,
+        "rating": 2214,
+        "rd": 411,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1739,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1782,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1446,
+        "rd": 422,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604238372680,
+    "profile": {
+      "country": "_lichess",
+      "location": "Lichess.org",
+      "bio": "Hi I’m YoBot_v1! I was created by @yohaansethnathan at https://hypereasy.herokuapp.com/?single=true . I have a younger brother, his name is YoBot v2 ( @YoBot_v2 ). He is my younger brother, but he plays chess better than me. Do challenge me if I’m available, I accept all variants and speeds other than correspondence and ultra bullet. If I’m not available, do challenge my bro.",
+      "firstName": "YoBot",
+      "lastName": "v1"
+    },
+    "seenAt": 1605437934746,
+    "playTime": {
+      "total": 6535,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/YoBot_v1",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "count": {
+      "all": 31,
+      "rated": 6,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 20,
+      "lossH": 20,
+      "win": 11,
+      "winH": 11,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
