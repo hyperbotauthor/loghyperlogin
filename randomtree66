@@ -4,16 +4,23 @@
   "username": "RandomTree66",
   "profileUrl": "https://lichess.org/@/RandomTree66",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1733,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605280949496,\"playTime\":{\"total\":20219,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":20,\"rated\":7,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":8,\"win\":9,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":346,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":4,\"rating\":1614,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1733,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1603924693813,\"seenAt\":1605485830698,\"playTime\":{\"total\":22079,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"playing\":\"https://lichess.org/e0z8e8dy/white\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":25,\"rated\":11,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":9,\"win\":12,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree66",
     "username": "RandomTree66",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 2,
         "rating": 1175,
-        "rd": 345,
+        "rd": 346,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 4,
+        "rating": 1614,
+        "rd": 202,
         "prog": 0,
         "prov": true
       },
@@ -47,28 +54,29 @@
       }
     },
     "createdAt": 1603924693813,
-    "seenAt": 1605280949496,
+    "seenAt": 1605485830698,
     "playTime": {
-      "total": 20219,
+      "total": 22079,
       "tv": 6086
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomTree66",
+    "playing": "https://lichess.org/e0z8e8dy/white",
     "nbFollowing": 1,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 20,
-      "rated": 7,
-      "ai": 3,
+      "all": 25,
+      "rated": 11,
+      "ai": 4,
       "draw": 2,
       "drawH": 2,
-      "loss": 9,
-      "lossH": 8,
-      "win": 9,
-      "winH": 7,
+      "loss": 11,
+      "lossH": 9,
+      "win": 12,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
