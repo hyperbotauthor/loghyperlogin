@@ -4,7 +4,7 @@
   "username": "Champion-Robot",
   "profileUrl": "https://lichess.org/@/Champion-Robot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"champion-robot\",\"username\":\"Champion-Robot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2183,\"rd\":174,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":21,\"rating\":2222,\"rd\":91,\"prog\":31},\"bullet\":{\"games\":12,\"rating\":2266,\"rd\":135,\"prog\":35,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2424,\"rd\":289,\"prog\":0,\"prov\":true}},\"createdAt\":1604323659282,\"profile\":{\"country\":\"IR\",\"bio\":\"https://imgur.com/4rJnAPb\",\"firstName\":\"\\uD83E\\uDD16Champion\",\"lastName\":\"Robot\\uD83E\\uDD16\"},\"seenAt\":1605112250497,\"playTime\":{\"total\":13086,\"tv\":189},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Champion-Robot\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":64,\"rated\":40,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":28,\"lossH\":28,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"champion-robot\",\"username\":\"Champion-Robot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2183,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":21,\"rating\":2222,\"rd\":93,\"prog\":31},\"bullet\":{\"games\":13,\"rating\":2233,\"rd\":127,\"prog\":2,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2255,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1604323659282,\"profile\":{\"country\":\"IR\",\"bio\":\"https://imgur.com/4rJnAPb\",\"firstName\":\"\\uD83E\\uDD16Champion\",\"lastName\":\"Robot\\uD83E\\uDD16\"},\"seenAt\":1605630383284,\"playTime\":{\"total\":14430,\"tv\":189},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Champion-Robot\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":69,\"rated\":42,\"ai\":2,\"draw\":10,\"drawH\":10,\"loss\":33,\"lossH\":31,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "champion-robot",
     "username": "Champion-Robot",
@@ -20,21 +20,21 @@
       "antichess": {
         "games": 5,
         "rating": 2183,
-        "rd": 174,
+        "rd": 175,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 21,
         "rating": 2222,
-        "rd": 91,
+        "rd": 93,
         "prog": 31
       },
       "bullet": {
-        "games": 12,
-        "rating": 2266,
-        "rd": 135,
-        "prog": 35,
+        "games": 13,
+        "rating": 2233,
+        "rd": 127,
+        "prog": 2,
         "prov": true
       },
       "correspondence": {
@@ -52,9 +52,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2424,
-        "rd": 289,
+        "games": 3,
+        "rating": 2255,
+        "rd": 226,
         "prog": 0,
         "prov": true
       }
@@ -66,9 +66,9 @@
       "firstName": "🤖Champion",
       "lastName": "Robot🤖"
     },
-    "seenAt": 1605112250497,
+    "seenAt": 1605630383284,
     "playTime": {
-      "total": 13086,
+      "total": 14430,
       "tv": 189
     },
     "language": "en-US",
@@ -77,13 +77,13 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 64,
-      "rated": 40,
-      "ai": 0,
+      "all": 69,
+      "rated": 42,
+      "ai": 2,
       "draw": 10,
       "drawH": 10,
-      "loss": 28,
-      "lossH": 28,
+      "loss": 33,
+      "lossH": 31,
       "win": 26,
       "winH": 26,
       "bookmark": 0,
