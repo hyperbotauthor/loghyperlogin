@@ -4,7 +4,7 @@
   "username": "Prathamshetty",
   "profileUrl": "https://lichess.org/@/Prathamshetty",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prathamshetty\",\"username\":\"Prathamshetty\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1495,\"rd\":208,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":35,\"rating\":1184,\"rd\":75,\"prog\":-19},\"atomic\":{\"games\":2,\"rating\":1279,\"rd\":264,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":1553,\"rd\":177,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":12,\"rating\":965,\"rd\":170,\"prog\":-6,\"prov\":true},\"blitz\":{\"games\":766,\"rating\":1284,\"rd\":45,\"prog\":16},\"kingOfTheHill\":{\"games\":1,\"rating\":1607,\"rd\":275,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":13,\"rating\":1727,\"rd\":177,\"prog\":13,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1204,\"rd\":130,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1113,\"rd\":70,\"prog\":10},\"correspondence\":{\"games\":40,\"rating\":1562,\"rd\":73,\"prog\":20},\"horde\":{\"games\":1,\"rating\":1337,\"rd\":294,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1736,\"rating\":1975,\"rd\":67,\"prog\":-71},\"classical\":{\"games\":98,\"rating\":1223,\"rd\":52,\"prog\":-20},\"rapid\":{\"games\":314,\"rating\":1383,\"rd\":45,\"prog\":23}},\"createdAt\":1588391553058,\"profile\":{\"country\":\"IN\",\"location\":\"PLAYING CHESS IN\",\"bio\":\"Chess is my blood, cells, most loving game in the world,  family and most wantedly IT IS MY LIFE...................................\\r\\nAnd guys meet my bot @Prathamshetty_BOT.\\r\\n1. Any variants\\r\\n2. Any Time Limit.\\r\\nAnd make sure you join my two team:\\r\\n1. https://lichess.org/team/chess-world-war-1st .\\r\\n2. https://lichess.org/team/chess-masters-asia .\",\"lastName\":\"PRATHAM SHETTY\",\"fideRating\":2280,\"links\":\"https://www.chess.com/member/pratham_shetty\\r\\nhttps://lichess.org/@/Prathamshetty\"},\"seenAt\":1604749258411,\"playTime\":{\"total\":399148,\"tv\":735},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Prathamshetty\",\"nbFollowing\":2,\"nbFollowers\":22,\"completionRate\":93,\"count\":{\"all\":1875,\"rated\":1373,\"ai\":132,\"draw\":102,\"drawH\":95,\"loss\":964,\"lossH\":902,\"win\":809,\"winH\":746,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prathamshetty\",\"username\":\"Prathamshetty\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1495,\"rd\":208,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":36,\"rating\":1167,\"rd\":74,\"prog\":-51},\"atomic\":{\"games\":2,\"rating\":1279,\"rd\":265,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":1553,\"rd\":178,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":12,\"rating\":965,\"rd\":171,\"prog\":-6,\"prov\":true},\"blitz\":{\"games\":832,\"rating\":1336,\"rd\":45,\"prog\":8},\"kingOfTheHill\":{\"games\":1,\"rating\":1607,\"rd\":275,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":13,\"rating\":1727,\"rd\":178,\"prog\":13,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1204,\"rd\":131,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":33,\"rating\":1135,\"rd\":70,\"prog\":15},\"correspondence\":{\"games\":40,\"rating\":1562,\"rd\":74,\"prog\":20},\"horde\":{\"games\":1,\"rating\":1337,\"rd\":294,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1760,\"rating\":1989,\"rd\":65,\"prog\":-60},\"classical\":{\"games\":107,\"rating\":1230,\"rd\":50,\"prog\":6},\"rapid\":{\"games\":325,\"rating\":1405,\"rd\":46,\"prog\":22}},\"createdAt\":1588391553058,\"profile\":{\"country\":\"IN\",\"location\":\"Bangalore\",\"bio\":\"Hello respected brother/sister, sir/ma'am,\\r\\nPlease make sure you see my study:\\r\\nhttps://lichess.org/study/D4w93URW\",\"firstName\":\"Pratham\",\"lastName\":\"Shetty\",\"fideRating\":2280,\"links\":\"https://www.chess.com/member/pratham_shetty\\r\\nhttps://lichess.org/@/Prathamshetty\"},\"seenAt\":1605585874993,\"playTime\":{\"total\":434256,\"tv\":735},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Prathamshetty\",\"nbFollowing\":2,\"nbFollowers\":23,\"completionRate\":100,\"count\":{\"all\":2010,\"rated\":1462,\"ai\":140,\"draw\":104,\"drawH\":97,\"loss\":1014,\"lossH\":952,\"win\":892,\"winH\":821,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prathamshetty",
     "username": "Prathamshetty",
@@ -18,37 +18,37 @@
         "prov": true
       },
       "antichess": {
-        "games": 35,
-        "rating": 1184,
-        "rd": 75,
-        "prog": -19
+        "games": 36,
+        "rating": 1167,
+        "rd": 74,
+        "prog": -51
       },
       "atomic": {
         "games": 2,
         "rating": 1279,
-        "rd": 264,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 7,
         "rating": 1553,
-        "rd": 177,
+        "rd": 178,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
         "games": 12,
         "rating": 965,
-        "rd": 170,
+        "rd": 171,
         "prog": -6,
         "prov": true
       },
       "blitz": {
-        "games": 766,
-        "rating": 1284,
+        "games": 832,
+        "rating": 1336,
         "rd": 45,
-        "prog": 16
+        "prog": 8
       },
       "kingOfTheHill": {
         "games": 1,
@@ -60,27 +60,27 @@
       "crazyhouse": {
         "games": 13,
         "rating": 1727,
-        "rd": 177,
+        "rd": 178,
         "prog": 13,
         "prov": true
       },
       "threeCheck": {
         "games": 10,
         "rating": 1204,
-        "rd": 130,
+        "rd": 131,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 32,
-        "rating": 1113,
+        "games": 33,
+        "rating": 1135,
         "rd": 70,
-        "prog": 10
+        "prog": 15
       },
       "correspondence": {
         "games": 40,
         "rating": 1562,
-        "rd": 73,
+        "rd": 74,
         "prog": 20
       },
       "horde": {
@@ -91,54 +91,55 @@
         "prov": true
       },
       "puzzle": {
-        "games": 1736,
-        "rating": 1975,
-        "rd": 67,
-        "prog": -71
+        "games": 1760,
+        "rating": 1989,
+        "rd": 65,
+        "prog": -60
       },
       "classical": {
-        "games": 98,
-        "rating": 1223,
-        "rd": 52,
-        "prog": -20
+        "games": 107,
+        "rating": 1230,
+        "rd": 50,
+        "prog": 6
       },
       "rapid": {
-        "games": 314,
-        "rating": 1383,
-        "rd": 45,
-        "prog": 23
+        "games": 325,
+        "rating": 1405,
+        "rd": 46,
+        "prog": 22
       }
     },
     "createdAt": 1588391553058,
     "profile": {
       "country": "IN",
-      "location": "PLAYING CHESS IN",
-      "bio": "Chess is my blood, cells, most loving game in the world,  family and most wantedly IT IS MY LIFE...................................\r\nAnd guys meet my bot @Prathamshetty_BOT.\r\n1. Any variants\r\n2. Any Time Limit.\r\nAnd make sure you join my two team:\r\n1. https://lichess.org/team/chess-world-war-1st .\r\n2. https://lichess.org/team/chess-masters-asia .",
-      "lastName": "PRATHAM SHETTY",
+      "location": "Bangalore",
+      "bio": "Hello respected brother/sister, sir/ma'am,\r\nPlease make sure you see my study:\r\nhttps://lichess.org/study/D4w93URW",
+      "firstName": "Pratham",
+      "lastName": "Shetty",
       "fideRating": 2280,
       "links": "https://www.chess.com/member/pratham_shetty\r\nhttps://lichess.org/@/Prathamshetty"
     },
-    "seenAt": 1604749258411,
+    "seenAt": 1605585874993,
     "playTime": {
-      "total": 399148,
+      "total": 434256,
       "tv": 735
     },
     "language": "en-GB",
     "url": "https://lichess.org/@/Prathamshetty",
     "nbFollowing": 2,
-    "nbFollowers": 22,
-    "completionRate": 93,
+    "nbFollowers": 23,
+    "completionRate": 100,
     "count": {
-      "all": 1875,
-      "rated": 1373,
-      "ai": 132,
-      "draw": 102,
-      "drawH": 95,
-      "loss": 964,
-      "lossH": 902,
-      "win": 809,
-      "winH": 746,
-      "bookmark": 2,
+      "all": 2010,
+      "rated": 1462,
+      "ai": 140,
+      "draw": 104,
+      "drawH": 97,
+      "loss": 1014,
+      "lossH": 952,
+      "win": 892,
+      "winH": 821,
+      "bookmark": 1,
       "playing": 0,
       "import": 0,
       "me": 0
