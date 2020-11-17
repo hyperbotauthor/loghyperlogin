@@ -4,7 +4,7 @@
   "username": "Gapple_Classical",
   "profileUrl": "https://lichess.org/@/Gapple_Classical",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gapple_classical\",\"username\":\"Gapple_Classical\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1313,\"rd\":275,\"prog\":0,\"prov\":true}},\"createdAt\":1605455945314,\"seenAt\":1605504506190,\"playTime\":{\"total\":1796,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Gapple_Classical\",\"playing\":\"https://lichess.org/7OK6UOIS/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":5,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gapple_classical\",\"username\":\"Gapple_Classical\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":2163,\"rd\":162,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1313,\"rd\":275,\"prog\":0,\"prov\":true}},\"createdAt\":1605455945314,\"profile\":{\"bio\":\"i now have a better bot somehow\"},\"seenAt\":1605593708671,\"playTime\":{\"total\":17043,\"tv\":5467},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Gapple_Classical\",\"playing\":\"https://lichess.org/fIzf2k0p/white\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":19,\"rated\":12,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":8,\"lossH\":8,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gapple_classical",
     "username": "Gapple_Classical",
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 10,
+        "rating": 2163,
+        "rd": 162,
         "prog": 0,
         "prov": true
       },
@@ -47,27 +47,30 @@
       }
     },
     "createdAt": 1605455945314,
-    "seenAt": 1605504506190,
+    "profile": {
+      "bio": "i now have a better bot somehow"
+    },
+    "seenAt": 1605593708671,
     "playTime": {
-      "total": 1796,
-      "tv": 0
+      "total": 17043,
+      "tv": 5467
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Gapple_Classical",
-    "playing": "https://lichess.org/7OK6UOIS/black",
-    "nbFollowing": 1,
-    "nbFollowers": 1,
+    "playing": "https://lichess.org/fIzf2k0p/white",
+    "nbFollowing": 2,
+    "nbFollowers": 3,
     "count": {
-      "all": 5,
-      "rated": 2,
+      "all": 19,
+      "rated": 12,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 2,
-      "winH": 2,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 8,
+      "lossH": 8,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
