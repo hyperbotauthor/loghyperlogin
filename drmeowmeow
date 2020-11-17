@@ -1,0 +1,83 @@
+{
+  "id": "drmeowmeow",
+  "displayName": "DrMeowMeow",
+  "username": "DrMeowMeow",
+  "profileUrl": "https://lichess.org/@/DrMeowMeow",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"drmeowmeow\",\"username\":\"DrMeowMeow\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":53,\"rating\":2066,\"rd\":53,\"prog\":21},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1800,\"rd\":253,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2702,\"rd\":156,\"prog\":0,\"prov\":true}},\"createdAt\":1605139171510,\"profile\":{\"bio\":\"Open to all challenges. Not currently accepting rated.\"},\"seenAt\":1605629326035,\"playTime\":{\"total\":34476,\"tv\":9176},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DrMeowMeow\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":199,\"rated\":66,\"ai\":4,\"draw\":15,\"drawH\":15,\"loss\":66,\"lossH\":62,\"win\":118,\"winH\":118,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "drmeowmeow",
+    "username": "DrMeowMeow",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 53,
+        "rating": 2066,
+        "rd": 53,
+        "prog": 21
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1800,
+        "rd": 253,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2702,
+        "rd": 156,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605139171510,
+    "profile": {
+      "bio": "Open to all challenges. Not currently accepting rated."
+    },
+    "seenAt": 1605629326035,
+    "playTime": {
+      "total": 34476,
+      "tv": 9176
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/DrMeowMeow",
+    "nbFollowing": 2,
+    "nbFollowers": 7,
+    "count": {
+      "all": 199,
+      "rated": 66,
+      "ai": 4,
+      "draw": 15,
+      "drawH": 15,
+      "loss": 66,
+      "lossH": 62,
+      "win": 118,
+      "winH": 118,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
