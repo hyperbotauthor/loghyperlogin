@@ -4,7 +4,7 @@
   "username": "howTobebest",
   "profileUrl": "https://lichess.org/@/howTobebest",
   "provider": "lichess",
-  "_raw": "{\"id\":\"howtobebest\",\"username\":\"howTobebest\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2351,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2284,\"rd\":122,\"prog\":-120,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2393,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1605701772715,\"seenAt\":1605722675815,\"playTime\":{\"total\":9653,\"tv\":950},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/howTobebest\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":24,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"howtobebest\",\"username\":\"howTobebest\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2351,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2284,\"rd\":122,\"prog\":-120,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2393,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1605701772715,\"seenAt\":1605722799135,\"playTime\":{\"total\":9653,\"tv\":950},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/howTobebest\",\"playing\":\"https://lichess.org/pWXwkZyA/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":24,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "howtobebest",
     "username": "howTobebest",
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1605701772715,
-    "seenAt": 1605722675815,
+    "seenAt": 1605722799135,
     "playTime": {
       "total": 9653,
       "tv": 950
@@ -55,6 +55,7 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/howTobebest",
+    "playing": "https://lichess.org/pWXwkZyA/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
@@ -68,7 +69,7 @@
       "win": 25,
       "winH": 25,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
