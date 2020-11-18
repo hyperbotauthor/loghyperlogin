@@ -4,7 +4,7 @@
   "username": "StarAriyan890",
   "profileUrl": "https://lichess.org/@/StarAriyan890",
   "provider": "lichess",
-  "_raw": "{\"id\":\"starariyan890\",\"username\":\"StarAriyan890\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1483,\"rd\":476,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1687,\"rd\":185,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1452,\"rd\":436,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604243064911,\"profile\":{\"country\":\"CD\",\"location\":\"\\uD83D\\uDD1E\\uD83D\\uDD1E\\uD83D\\uDD1E\"},\"seenAt\":1605510069715,\"playTime\":{\"total\":17132,\"tv\":200},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/StarAriyan890\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":55,\"rated\":15,\"ai\":32,\"draw\":1,\"drawH\":0,\"loss\":41,\"lossH\":16,\"win\":13,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"starariyan890\",\"username\":\"StarAriyan890\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1483,\"rd\":476,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1687,\"rd\":185,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1761,\"rd\":164,\"prog\":-8,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1604243064911,\"profile\":{\"country\":\"CD\",\"location\":\"\\uD83D\\uDD1E\\uD83D\\uDD1E\\uD83D\\uDD1E\"},\"seenAt\":1605696591245,\"playTime\":{\"total\":17849,\"tv\":352},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/StarAriyan890\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":66,\"rated\":23,\"ai\":33,\"draw\":2,\"drawH\":1,\"loss\":48,\"lossH\":22,\"win\":16,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "starariyan890",
     "username": "StarAriyan890",
@@ -32,10 +32,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 1452,
-        "rd": 436,
-        "prog": 0,
+        "games": 13,
+        "rating": 1761,
+        "rd": 164,
+        "prog": -8,
         "prov": true
       },
       "correspondence": {
@@ -65,10 +65,10 @@
       "country": "CD",
       "location": "🔞🔞🔞"
     },
-    "seenAt": 1605510069715,
+    "seenAt": 1605696591245,
     "playTime": {
-      "total": 17132,
-      "tv": 200
+      "total": 17849,
+      "tv": 352
     },
     "language": "en-GB",
     "title": "BOT",
@@ -76,15 +76,15 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 55,
-      "rated": 15,
-      "ai": 32,
-      "draw": 1,
-      "drawH": 0,
-      "loss": 41,
-      "lossH": 16,
-      "win": 13,
-      "winH": 7,
+      "all": 66,
+      "rated": 23,
+      "ai": 33,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 48,
+      "lossH": 22,
+      "win": 16,
+      "winH": 10,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
