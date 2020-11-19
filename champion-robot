@@ -4,7 +4,7 @@
   "username": "Champion-Robot",
   "profileUrl": "https://lichess.org/@/Champion-Robot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"champion-robot\",\"username\":\"Champion-Robot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2183,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":21,\"rating\":2222,\"rd\":93,\"prog\":31},\"bullet\":{\"games\":16,\"rating\":2210,\"rd\":118,\"prog\":-21,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2255,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1604323659282,\"profile\":{\"country\":\"IR\",\"bio\":\"https://imgur.com/4rJnAPb\",\"firstName\":\"\\uD83E\\uDD16Champion\",\"lastName\":\"Robot\\uD83E\\uDD16\"},\"seenAt\":1605800332946,\"playTime\":{\"total\":16144,\"tv\":550},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Champion-Robot\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":83,\"rated\":45,\"ai\":4,\"draw\":10,\"drawH\":10,\"loss\":46,\"lossH\":42,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"champion-robot\",\"username\":\"Champion-Robot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2183,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":21,\"rating\":2222,\"rd\":93,\"prog\":31},\"bullet\":{\"games\":20,\"rating\":2131,\"rd\":109,\"prog\":-100},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2255,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1604323659282,\"profile\":{\"country\":\"IR\",\"bio\":\"https://imgur.com/4rJnAPb\",\"firstName\":\"\\uD83E\\uDD16Champion\",\"lastName\":\"Robot\\uD83E\\uDD16\"},\"seenAt\":1605802785585,\"playTime\":{\"total\":16669,\"tv\":550},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Champion-Robot\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":91,\"rated\":49,\"ai\":5,\"draw\":10,\"drawH\":10,\"loss\":51,\"lossH\":46,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "champion-robot",
     "username": "Champion-Robot",
@@ -31,11 +31,10 @@
         "prog": 31
       },
       "bullet": {
-        "games": 16,
-        "rating": 2210,
-        "rd": 118,
-        "prog": -21,
-        "prov": true
+        "games": 20,
+        "rating": 2131,
+        "rd": 109,
+        "prog": -100
       },
       "correspondence": {
         "games": 0,
@@ -66,9 +65,9 @@
       "firstName": "🤖Champion",
       "lastName": "Robot🤖"
     },
-    "seenAt": 1605800332946,
+    "seenAt": 1605802785585,
     "playTime": {
-      "total": 16144,
+      "total": 16669,
       "tv": 550
     },
     "language": "en-US",
@@ -77,15 +76,15 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 83,
-      "rated": 45,
-      "ai": 4,
+      "all": 91,
+      "rated": 49,
+      "ai": 5,
       "draw": 10,
       "drawH": 10,
-      "loss": 46,
-      "lossH": 42,
-      "win": 27,
-      "winH": 27,
+      "loss": 51,
+      "lossH": 46,
+      "win": 30,
+      "winH": 30,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
