@@ -4,7 +4,7 @@
   "username": "RandomTree66",
   "profileUrl": "https://lichess.org/@/RandomTree66",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1367,\"rd\":385,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":346,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":10,\"rating\":1269,\"rd\":122,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1354,\"rd\":123,\"prog\":-23,\"prov\":true}},\"createdAt\":1603924693813,\"booster\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, this is a dummy robot, feel free to challenge. Make sure to check out my sister, @RandomTree77, who is stronger than me!\"},\"seenAt\":1605751286086,\"playTime\":{\"total\":51889,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"playing\":\"https://lichess.org/WkORIXPr/black\",\"nbFollowing\":2,\"nbFollowers\":6,\"count\":{\"all\":60,\"rated\":33,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":43,\"lossH\":40,\"win\":15,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree66\",\"username\":\"RandomTree66\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1367,\"rd\":385,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1175,\"rd\":346,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":10,\"rating\":1269,\"rd\":122,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1816,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1354,\"rd\":124,\"prog\":-23,\"prov\":true}},\"createdAt\":1603924693813,\"booster\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, this is a dummy robot, feel free to challenge. Make sure to check out my sister, @RandomTree77, who is stronger than me!\"},\"seenAt\":1605801447113,\"playTime\":{\"total\":56549,\"tv\":6086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree66\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":61,\"rated\":34,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":44,\"lossH\":41,\"win\":15,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree66",
     "username": "RandomTree66",
@@ -55,7 +55,7 @@
       "rapid": {
         "games": 13,
         "rating": 1354,
-        "rd": 123,
+        "rd": 124,
         "prog": -23,
         "prov": true
       }
@@ -66,29 +66,28 @@
       "country": "_lichess",
       "bio": "Hello, this is a dummy robot, feel free to challenge. Make sure to check out my sister, @RandomTree77, who is stronger than me!"
     },
-    "seenAt": 1605751286086,
+    "seenAt": 1605801447113,
     "playTime": {
-      "total": 51889,
+      "total": 56549,
       "tv": 6086
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomTree66",
-    "playing": "https://lichess.org/WkORIXPr/black",
     "nbFollowing": 2,
-    "nbFollowers": 6,
+    "nbFollowers": 7,
     "count": {
-      "all": 60,
-      "rated": 33,
+      "all": 61,
+      "rated": 34,
       "ai": 7,
       "draw": 2,
       "drawH": 2,
-      "loss": 43,
-      "lossH": 40,
+      "loss": 44,
+      "lossH": 41,
       "win": 15,
       "winH": 11,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
