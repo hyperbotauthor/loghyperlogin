@@ -1,0 +1,91 @@
+{
+  "id": "catfischxiistcentury",
+  "displayName": "CatfischXIIstCentury",
+  "username": "CatfischXIIstCentury",
+  "profileUrl": "https://lichess.org/@/CatfischXIIstCentury",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"catfischxiistcentury\",\"username\":\"CatfischXIIstCentury\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1500,\"rd\":239,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1648,\"rd\":108,\"prog\":35},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2163,\"rd\":208,\"prog\":0,\"prov\":true}},\"createdAt\":1605554156033,\"profile\":{\"bio\":\"@Catfish007 bot\"},\"seenAt\":1605867928679,\"playTime\":{\"total\":11402,\"tv\":2034},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CatfischXIIstCentury\",\"playing\":\"https://lichess.org/34cOXMtH/black\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":63,\"rated\":24,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":21,\"win\":38,\"winH\":37,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "catfischxiistcentury",
+    "username": "CatfischXIIstCentury",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1500,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 18,
+        "rating": 1648,
+        "rd": 108,
+        "prog": 35
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2163,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605554156033,
+    "profile": {
+      "bio": "@Catfish007 bot"
+    },
+    "seenAt": 1605867928679,
+    "playTime": {
+      "total": 11402,
+      "tv": 2034
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/CatfischXIIstCentury",
+    "playing": "https://lichess.org/34cOXMtH/black",
+    "nbFollowing": 2,
+    "nbFollowers": 4,
+    "count": {
+      "all": 63,
+      "rated": 24,
+      "ai": 2,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 22,
+      "lossH": 21,
+      "win": 38,
+      "winH": 37,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
