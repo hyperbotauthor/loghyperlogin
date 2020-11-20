@@ -4,25 +4,73 @@
   "username": "Botzer",
   "profileUrl": "https://lichess.org/@/Botzer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botzer\",\"username\":\"Botzer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605650665629,\"seenAt\":1605722104287,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Botzer\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botzer\",\"username\":\"Botzer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1732,\"rd\":215,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":8,\"rating\":2411,\"rd\":160,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1451,\"rd\":438,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2217,\"rd\":433,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1451,\"rd\":442,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1733,\"rd\":387,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1631,\"rd\":193,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1482,\"rd\":484,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":112,\"rating\":2551,\"rd\":45,\"prog\":7},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1650,\"rd\":316,\"prog\":0,\"prov\":true}},\"createdAt\":1605650665629,\"profile\":{\"country\":\"US\",\"location\":\"North Virginia\",\"bio\":\"My name comes from bot + patzer = botzer. But, this bot is not a botzer nor a patzer. :D\\r\\nhttps://imgur.com/BEIgrRe\\r\\nI play any variant and any time control. (Except ultrabullet,  correspondence, and unlimited)\\r\\nhttps://imgur.com/BEIgrRe \\r\\nChange log: Botzer v1.0.1 : Switched from Stockfish 11 to Stockfish 12.\",\"firstName\":\"Bot +\",\"lastName\":\"Patzer = Botzer\",\"fideRating\":3000},\"seenAt\":1605905872994,\"playTime\":{\"total\":14866,\"tv\":3525},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Botzer\",\"nbFollowing\":21,\"nbFollowers\":22,\"count\":{\"all\":170,\"rated\":143,\"ai\":0,\"draw\":52,\"drawH\":52,\"loss\":39,\"lossH\":39,\"win\":79,\"winH\":79,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botzer",
     "username": "Botzer",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 4,
+        "rating": 1732,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 8,
+        "rating": 2411,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1451,
+        "rd": 438,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 2217,
+        "rd": 433,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1451,
+        "rd": 442,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1733,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 9,
+        "rating": 1631,
+        "rd": 193,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1482,
+        "rd": 484,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 112,
+        "rating": 2551,
+        "rd": 45,
+        "prog": 7
       },
       "correspondence": {
         "games": 0,
@@ -32,40 +80,49 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1650,
+        "rd": 316,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1605650665629,
-    "seenAt": 1605722104287,
+    "profile": {
+      "country": "US",
+      "location": "North Virginia",
+      "bio": "My name comes from bot + patzer = botzer. But, this bot is not a botzer nor a patzer. :D\r\nhttps://imgur.com/BEIgrRe\r\nI play any variant and any time control. (Except ultrabullet,  correspondence, and unlimited)\r\nhttps://imgur.com/BEIgrRe \r\nChange log: Botzer v1.0.1 : Switched from Stockfish 11 to Stockfish 12.",
+      "firstName": "Bot +",
+      "lastName": "Patzer = Botzer",
+      "fideRating": 3000
+    },
+    "seenAt": 1605905872994,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 14866,
+      "tv": 3525
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Botzer",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 21,
+    "nbFollowers": 22,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 170,
+      "rated": 143,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 52,
+      "drawH": 52,
+      "loss": 39,
+      "lossH": 39,
+      "win": 79,
+      "winH": 79,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
