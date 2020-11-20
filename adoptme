@@ -4,11 +4,11 @@
   "username": "Adoptme",
   "profileUrl": "https://lichess.org/@/Adoptme",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adoptme\",\"username\":\"Adoptme\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2261,\"rd\":224,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":34,\"rating\":2943,\"rd\":106,\"prog\":13}},\"createdAt\":1605770574518,\"seenAt\":1605850364816,\"playTime\":{\"total\":30055,\"tv\":16008},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Adoptme\",\"nbFollowing\":0,\"nbFollowers\":7,\"count\":{\"all\":61,\"rated\":39,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":5,\"lossH\":5,\"win\":54,\"winH\":54,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adoptme\",\"username\":\"Adoptme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2261,\"rd\":224,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":34,\"rating\":2943,\"rd\":106,\"prog\":13}},\"createdAt\":1605770574518,\"seenAt\":1605854008865,\"playTime\":{\"total\":31194,\"tv\":16008},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Adoptme\",\"nbFollowing\":0,\"nbFollowers\":7,\"count\":{\"all\":62,\"rated\":39,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":5,\"lossH\":5,\"win\":55,\"winH\":55,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adoptme",
     "username": "Adoptme",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -46,9 +46,9 @@
       }
     },
     "createdAt": 1605770574518,
-    "seenAt": 1605850364816,
+    "seenAt": 1605854008865,
     "playTime": {
-      "total": 30055,
+      "total": 31194,
       "tv": 16008
     },
     "language": "en-US",
@@ -57,15 +57,15 @@
     "nbFollowing": 0,
     "nbFollowers": 7,
     "count": {
-      "all": 61,
+      "all": 62,
       "rated": 39,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
       "loss": 5,
       "lossH": 5,
-      "win": 54,
-      "winH": 54,
+      "win": 55,
+      "winH": 55,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
