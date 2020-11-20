@@ -4,7 +4,7 @@
   "username": "LolCheckmategg",
   "profileUrl": "https://lichess.org/@/LolCheckmategg",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lolcheckmategg\",\"username\":\"LolCheckmategg\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1635,\"rd\":157,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1812,\"rd\":280,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1660,\"rd\":148,\"prog\":-58,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1209,\"rd\":351,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1169,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1685,\"rd\":331,\"prog\":0,\"prov\":true}},\"createdAt\":1600810525315,\"seenAt\":1605897893535,\"playTime\":{\"total\":7725,\"tv\":385},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LolCheckmategg\",\"playing\":\"https://lichess.org/PDO8SxbC/white\",\"nbFollowing\":0,\"nbFollowers\":13,\"count\":{\"all\":48,\"rated\":43,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":20,\"lossH\":20,\"win\":24,\"winH\":24,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lolcheckmategg\",\"username\":\"LolCheckmategg\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1635,\"rd\":157,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1746,\"rd\":396,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1812,\"rd\":280,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1660,\"rd\":148,\"prog\":-58,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1209,\"rd\":351,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1169,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1894,\"rd\":306,\"prog\":0,\"prov\":true}},\"createdAt\":1600810525315,\"seenAt\":1605903579815,\"playTime\":{\"total\":8359,\"tv\":385},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LolCheckmategg\",\"playing\":\"https://lichess.org/PDO8SxbC/white\",\"nbFollowing\":1,\"nbFollowers\":13,\"count\":{\"all\":51,\"rated\":46,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":21,\"lossH\":21,\"win\":25,\"winH\":25,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lolcheckmategg",
     "username": "LolCheckmategg",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1746,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -67,35 +67,35 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 1685,
-        "rd": 331,
+        "games": 6,
+        "rating": 1894,
+        "rd": 306,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1600810525315,
-    "seenAt": 1605897893535,
+    "seenAt": 1605903579815,
     "playTime": {
-      "total": 7725,
+      "total": 8359,
       "tv": 385
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LolCheckmategg",
     "playing": "https://lichess.org/PDO8SxbC/white",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 13,
     "count": {
-      "all": 48,
-      "rated": 43,
+      "all": 51,
+      "rated": 46,
       "ai": 0,
-      "draw": 4,
-      "drawH": 4,
-      "loss": 20,
-      "lossH": 20,
-      "win": 24,
-      "winH": 24,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 21,
+      "lossH": 21,
+      "win": 25,
+      "winH": 25,
       "bookmark": 3,
       "playing": 1,
       "import": 0,
