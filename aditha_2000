@@ -1,0 +1,81 @@
+{
+  "id": "aditha_2000",
+  "displayName": "Aditha_2000",
+  "username": "Aditha_2000",
+  "profileUrl": "https://lichess.org/@/Aditha_2000",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"aditha_2000\",\"username\":\"Aditha_2000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":997,\"rd\":331,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1604,\"rd\":115,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605685576067,\"seenAt\":1605875001725,\"playTime\":{\"total\":1152,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Aditha_2000\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":80,\"count\":{\"all\":10,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "aditha_2000",
+    "username": "Aditha_2000",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 997,
+        "rd": 331,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 1604,
+        "rd": 115,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605685576067,
+    "seenAt": 1605875001725,
+    "playTime": {
+      "total": 1152,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Aditha_2000",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 80,
+    "count": {
+      "all": 10,
+      "rated": 10,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 6,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
