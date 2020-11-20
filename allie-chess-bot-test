@@ -1,0 +1,91 @@
+{
+  "id": "allie-chess-bot-test",
+  "displayName": "allie-chess-bot-test",
+  "username": "allie-chess-bot-test",
+  "profileUrl": "https://lichess.org/@/allie-chess-bot-test",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"allie-chess-bot-test\",\"username\":\"allie-chess-bot-test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2310,\"rd\":160,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1487,\"rd\":481,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":492,\"prog\":0,\"prov\":true}},\"createdAt\":1605816131876,\"profile\":{\"bio\":\"check out my awesome owner @chessnycdylans\\r\\nand bot friends @gkb38streamteam and @rexbot1\",\"firstName\":\"hugh\",\"lastName\":\"jass\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":5,\"links\":\"github.com/allie\"},\"seenAt\":1605908358453,\"playTime\":{\"total\":2583,\"tv\":324},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/allie-chess-bot-test\",\"playing\":\"https://lichess.org/py0iOy5c/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "allie-chess-bot-test",
+    "username": "allie-chess-bot-test",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 6,
+        "rating": 2310,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1487,
+        "rd": 481,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2249,
+        "rd": 492,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605816131876,
+    "profile": {
+      "bio": "check out my awesome owner @chessnycdylans\r\nand bot friends @gkb38streamteam and @rexbot1",
+      "firstName": "hugh",
+      "lastName": "jass",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 5,
+      "links": "github.com/allie"
+    },
+    "seenAt": 1605908358453,
+    "playTime": {
+      "total": 2583,
+      "tv": 324
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/allie-chess-bot-test",
+    "playing": "https://lichess.org/py0iOy5c/black",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 9,
+      "rated": 9,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 5,
+      "winH": 5,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
