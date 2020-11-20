@@ -4,7 +4,7 @@
   "username": "aivdd_bot",
   "profileUrl": "https://lichess.org/@/aivdd_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aivdd_bot\",\"username\":\"aivdd_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1589,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1876,\"rd\":199,\"prog\":0,\"prov\":true}},\"createdAt\":1604712216942,\"profile\":{\"country\":\"_lichess\",\"bio\":\"BOT running on https://hypereasy.herokuapp.com/. I play all variants. guess who is my owner!(hint unscramble aivdd\"},\"seenAt\":1605286730647,\"playTime\":{\"total\":5601,\"tv\":4041},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/aivdd_bot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":12,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aivdd_bot\",\"username\":\"aivdd_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1589,\"rd\":172,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1876,\"rd\":200,\"prog\":0,\"prov\":true}},\"createdAt\":1604712216942,\"profile\":{\"country\":\"_lichess\",\"bio\":\"BOT running on https://hypereasy.herokuapp.com/. I play all variants. guess who is my owner!(hint unscramble aivdd\"},\"seenAt\":1605891907340,\"playTime\":{\"total\":5601,\"tv\":4041},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/aivdd_bot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":12,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aivdd_bot",
     "username": "aivdd_bot",
@@ -13,7 +13,7 @@
       "blitz": {
         "games": 5,
         "rating": 1589,
-        "rd": 171,
+        "rd": 172,
         "prog": 0,
         "prov": true
       },
@@ -41,7 +41,7 @@
       "rapid": {
         "games": 6,
         "rating": 1876,
-        "rd": 199,
+        "rd": 200,
         "prog": 0,
         "prov": true
       }
@@ -51,7 +51,7 @@
       "country": "_lichess",
       "bio": "BOT running on https://hypereasy.herokuapp.com/. I play all variants. guess who is my owner!(hint unscramble aivdd"
     },
-    "seenAt": 1605286730647,
+    "seenAt": 1605891907340,
     "playTime": {
       "total": 5601,
       "tv": 4041
