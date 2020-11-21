@@ -4,16 +4,16 @@
   "username": "hookedonbots",
   "profileUrl": "https://lichess.org/@/hookedonbots",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"seenAt\":1605910450639,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1483,\"rd\":476,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"seenAt\":1605919677048,\"playTime\":{\"total\":31,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"playing\":\"https://lichess.org/9wtwKdaH/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hookedonbots",
     "username": "hookedonbots",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1483,
+        "rd": 476,
         "prog": 0,
         "prov": true
       },
@@ -47,28 +47,29 @@
       }
     },
     "createdAt": 1605910417016,
-    "seenAt": 1605910450639,
+    "seenAt": 1605919677048,
     "playTime": {
-      "total": 0,
+      "total": 31,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/hookedonbots",
+    "playing": "https://lichess.org/9wtwKdaH/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 1,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 1,
+      "lossH": 1,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
