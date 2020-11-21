@@ -1,0 +1,81 @@
+{
+  "id": "register12345678910",
+  "displayName": "Register12345678910",
+  "username": "Register12345678910",
+  "profileUrl": "https://lichess.org/@/Register12345678910",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"register12345678910\",\"username\":\"Register12345678910\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605966595615,\"seenAt\":1605966985605,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Register12345678910\",\"playing\":\"https://lichess.org/i4u8IJh0/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "register12345678910",
+    "username": "Register12345678910",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605966595615,
+    "seenAt": 1605966985605,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/Register12345678910",
+    "playing": "https://lichess.org/i4u8IJh0/white",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 0,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
