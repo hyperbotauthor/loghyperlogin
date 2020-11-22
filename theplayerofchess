@@ -4,7 +4,7 @@
   "username": "ThePlayerOfChess",
   "profileUrl": "https://lichess.org/@/ThePlayerOfChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theplayerofchess\",\"username\":\"ThePlayerOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true}},\"createdAt\":1606003789124,\"profile\":{\"bio\":\"Hi I am @ThPlayerOfChess challenge I prefer bullet or hyperbullet but a thing works my friends are @TheBotOfChess and @ThePersonOfChess I am also @Lolcheckmateggs older brother I’m much harder to beat\"},\"seenAt\":1606067720534,\"playTime\":{\"total\":286,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThePlayerOfChess\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theplayerofchess\",\"username\":\"ThePlayerOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true}},\"createdAt\":1606003789124,\"profile\":{\"bio\":\"Hi I am @ThPlayerOfChess challenge I prefer bullet or hyperbullet but a thing works my friends are @TheBotOfChess and @ThePersonOfChess I am also @Lolcheckmateggs older brother I’m much harder to beat\"},\"seenAt\":1606070221375,\"playTime\":{\"total\":286,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThePlayerOfChess\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theplayerofchess",
     "username": "ThePlayerOfChess",
@@ -50,7 +50,7 @@
     "profile": {
       "bio": "Hi I am @ThPlayerOfChess challenge I prefer bullet or hyperbullet but a thing works my friends are @TheBotOfChess and @ThePersonOfChess I am also @Lolcheckmateggs older brother I’m much harder to beat"
     },
-    "seenAt": 1606067720534,
+    "seenAt": 1606070221375,
     "playTime": {
       "total": 286,
       "tv": 0
@@ -59,7 +59,7 @@
     "title": "BOT",
     "url": "https://lichess.org/@/ThePlayerOfChess",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
       "all": 1,
       "rated": 1,
