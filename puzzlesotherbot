@@ -4,7 +4,7 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2130,\"rd\":372,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2298,\"rd\":388,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"include increment\"},\"seenAt\":1605999789147,\"playTime\":{\"total\":4189,\"tv\":518},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/2hOyrlFA/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2130,\"rd\":372,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1373,\"rd\":327,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2298,\"rd\":388,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"include increment\"},\"seenAt\":1606081775915,\"playTime\":{\"total\":4250,\"tv\":518},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1373,
+        "rd": 327,
         "prog": 0,
         "prov": true
       },
@@ -50,29 +50,28 @@
     "profile": {
       "bio": "include increment"
     },
-    "seenAt": 1605999789147,
+    "seenAt": 1606081775915,
     "playTime": {
-      "total": 4189,
+      "total": 4250,
       "tv": 518
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/puzzlesotherbot",
-    "playing": "https://lichess.org/2hOyrlFA/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 8,
-      "rated": 6,
+      "all": 9,
+      "rated": 7,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
+      "loss": 5,
+      "lossH": 5,
       "win": 4,
       "winH": 4,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
