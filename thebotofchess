@@ -4,7 +4,7 @@
   "username": "TheBotOfChess",
   "profileUrl": "https://lichess.org/@/TheBotOfChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thebotofchess\",\"username\":\"TheBotOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605981005381,\"seenAt\":1605987822235,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBotOfChess\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thebotofchess\",\"username\":\"TheBotOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1495,\"rd\":494,\"prog\":0,\"prov\":true}},\"createdAt\":1605981005381,\"profile\":{\"bio\":\"I am @tksbhmRonald 's second bot and I am a little more difficult to beat.\",\"firstName\":\"rgnehZ\",\"lastName\":\"dlanoroM\"},\"seenAt\":1606004002755,\"playTime\":{\"total\":891,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBotOfChess\",\"playing\":\"https://lichess.org/oafsbIAe/white\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":1,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":2,\"win\":2,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thebotofchess",
     "username": "TheBotOfChess",
@@ -39,36 +39,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1495,
+        "rd": 494,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1605981005381,
-    "seenAt": 1605987822235,
+    "profile": {
+      "bio": "I am @tksbhmRonald 's second bot and I am a little more difficult to beat.",
+      "firstName": "rgnehZ",
+      "lastName": "dlanoroM"
+    },
+    "seenAt": 1606004002755,
     "playTime": {
-      "total": 0,
+      "total": 891,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheBotOfChess",
-    "nbFollowing": 0,
+    "playing": "https://lichess.org/oafsbIAe/white",
+    "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 6,
+      "rated": 1,
+      "ai": 4,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
+      "loss": 4,
+      "lossH": 2,
+      "win": 2,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
