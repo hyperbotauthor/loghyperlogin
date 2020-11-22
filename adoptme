@@ -4,16 +4,16 @@
   "username": "Adoptme",
   "profileUrl": "https://lichess.org/@/Adoptme",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adoptme\",\"username\":\"Adoptme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1486,\"rd\":480,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1472,\"rd\":460,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2261,\"rd\":224,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":47,\"rating\":2878,\"rd\":94,\"prog\":-72}},\"createdAt\":1605770574518,\"seenAt\":1605884615336,\"playTime\":{\"total\":44417,\"tv\":21162},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Adoptme\",\"nbFollowing\":0,\"nbFollowers\":8,\"count\":{\"all\":83,\"rated\":55,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":13,\"win\":67,\"winH\":67,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adoptme\",\"username\":\"Adoptme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1966,\"rd\":246,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1472,\"rd\":460,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2261,\"rd\":224,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":54,\"rating\":2748,\"rd\":88,\"prog\":-167}},\"createdAt\":1605770574518,\"seenAt\":1606038865572,\"playTime\":{\"total\":55048,\"tv\":24687},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Adoptme\",\"playing\":\"https://lichess.org/Cq1QNgSv/black\",\"nbFollowing\":0,\"nbFollowers\":11,\"count\":{\"all\":104,\"rated\":65,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":21,\"lossH\":21,\"win\":77,\"winH\":77,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adoptme",
     "username": "Adoptme",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1486,
-        "rd": 480,
+        "games": 5,
+        "rating": 1966,
+        "rd": 246,
         "prog": 0,
         "prov": true
       },
@@ -46,35 +46,36 @@
         "prov": true
       },
       "rapid": {
-        "games": 47,
-        "rating": 2878,
-        "rd": 94,
-        "prog": -72
+        "games": 54,
+        "rating": 2748,
+        "rd": 88,
+        "prog": -167
       }
     },
     "createdAt": 1605770574518,
-    "seenAt": 1605884615336,
+    "seenAt": 1606038865572,
     "playTime": {
-      "total": 44417,
-      "tv": 21162
+      "total": 55048,
+      "tv": 24687
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Adoptme",
+    "playing": "https://lichess.org/Cq1QNgSv/black",
     "nbFollowing": 0,
-    "nbFollowers": 8,
+    "nbFollowers": 11,
     "count": {
-      "all": 83,
-      "rated": 55,
+      "all": 104,
+      "rated": 65,
       "ai": 0,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 13,
-      "lossH": 13,
-      "win": 67,
-      "winH": 67,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 21,
+      "lossH": 21,
+      "win": 77,
+      "winH": 77,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
