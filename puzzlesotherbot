@@ -4,23 +4,23 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2130,\"rd\":372,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1373,\"rd\":327,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"include increment\"},\"seenAt\":1606149786780,\"playTime\":{\"total\":10667,\"tv\":864},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":11,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":5,\"lossH\":5,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2207,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1908,\"rd\":181,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"No Human has beat me yet!\"},\"seenAt\":1606160333983,\"playTime\":{\"total\":11599,\"tv\":913},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/JnqVtWDb/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":20,\"rated\":16,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":7,\"lossH\":5,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 2130,
-        "rd": 372,
+        "games": 4,
+        "rating": 2207,
+        "rd": 300,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1373,
-        "rd": 327,
+        "games": 4,
+        "rating": 1908,
+        "rd": 181,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2221,
+        "rd": 474,
         "prog": 0,
         "prov": true
       },
@@ -48,30 +48,31 @@
     },
     "createdAt": 1605400714850,
     "profile": {
-      "bio": "include increment"
+      "bio": "No Human has beat me yet!"
     },
-    "seenAt": 1606149786780,
+    "seenAt": 1606160333983,
     "playTime": {
-      "total": 10667,
-      "tv": 864
+      "total": 11599,
+      "tv": 913
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/puzzlesotherbot",
+    "playing": "https://lichess.org/JnqVtWDb/white",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 13,
-      "rated": 11,
-      "ai": 0,
+      "all": 20,
+      "rated": 16,
+      "ai": 2,
       "draw": 2,
       "drawH": 2,
-      "loss": 5,
+      "loss": 7,
       "lossH": 5,
-      "win": 6,
-      "winH": 6,
+      "win": 11,
+      "winH": 11,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
