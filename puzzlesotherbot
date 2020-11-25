@@ -4,7 +4,7 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2207,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1894,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":390,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"No Human has beat me yet!\"},\"seenAt\":1606326898822,\"playTime\":{\"total\":12790,\"tv\":1383},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/dxaNChrT/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":29,\"rated\":22,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":6,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2207,\"rd\":300,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":2322,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1894,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":390,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"No Human has beat me yet!\"},\"seenAt\":1606330997391,\"playTime\":{\"total\":12891,\"tv\":1383},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/fHAK3DCT/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":32,\"rated\":24,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":7,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
@@ -14,6 +14,13 @@
         "games": 4,
         "rating": 2207,
         "rd": 300,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 2322,
+        "rd": 269,
         "prog": 0,
         "prov": true
       },
@@ -50,27 +57,27 @@
     "profile": {
       "bio": "No Human has beat me yet!"
     },
-    "seenAt": 1606326898822,
+    "seenAt": 1606330997391,
     "playTime": {
-      "total": 12790,
+      "total": 12891,
       "tv": 1383
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/puzzlesotherbot",
-    "playing": "https://lichess.org/dxaNChrT/black",
+    "playing": "https://lichess.org/fHAK3DCT/black",
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 29,
-      "rated": 22,
+      "all": 32,
+      "rated": 24,
       "ai": 3,
       "draw": 2,
       "drawH": 2,
-      "loss": 9,
-      "lossH": 6,
-      "win": 18,
-      "winH": 18,
+      "loss": 10,
+      "lossH": 7,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
