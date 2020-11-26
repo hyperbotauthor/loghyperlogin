@@ -4,12 +4,26 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2207,\"rd\":300,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":2322,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1894,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":390,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"No Human has beat me yet!\"},\"seenAt\":1606330997391,\"playTime\":{\"total\":12891,\"tv\":1383},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/fHAK3DCT/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":32,\"rated\":24,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":7,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":4,\"rating\":2413,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2076,\"rd\":461,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":2207,\"rd\":300,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1493,\"rd\":491,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1894,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":390,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"No Human has beat me yet!\"},\"seenAt\":1606423745778,\"playTime\":{\"total\":13256,\"tv\":1383},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":38,\"rated\":30,\"ai\":3,\"draw\":3,\"drawH\":3,\"loss\":14,\"lossH\":11,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
     "online": true,
     "perfs": {
+      "atomic": {
+        "games": 4,
+        "rating": 2413,
+        "rd": 196,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 2076,
+        "rd": 461,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 4,
         "rating": 2207,
@@ -17,10 +31,10 @@
         "prog": 0,
         "prov": true
       },
-      "atomic": {
+      "threeCheck": {
         "games": 2,
-        "rating": 2322,
-        "rd": 269,
+        "rating": 1493,
+        "rd": 491,
         "prog": 0,
         "prov": true
       },
@@ -57,29 +71,28 @@
     "profile": {
       "bio": "No Human has beat me yet!"
     },
-    "seenAt": 1606330997391,
+    "seenAt": 1606423745778,
     "playTime": {
-      "total": 12891,
+      "total": 13256,
       "tv": 1383
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/puzzlesotherbot",
-    "playing": "https://lichess.org/fHAK3DCT/black",
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 32,
-      "rated": 24,
+      "all": 38,
+      "rated": 30,
       "ai": 3,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 10,
-      "lossH": 7,
-      "win": 20,
-      "winH": 20,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 14,
+      "lossH": 11,
+      "win": 21,
+      "winH": 21,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
