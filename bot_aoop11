@@ -1,0 +1,86 @@
+{
+  "id": "bot_aoop11",
+  "displayName": "Bot_AOOP11",
+  "username": "Bot_AOOP11",
+  "profileUrl": "https://lichess.org/@/Bot_AOOP11",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bot_aoop11\",\"username\":\"Bot_AOOP11\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2246,\"rd\":102,\"prog\":115},\"bullet\":{\"games\":49,\"rating\":2240,\"rd\":82,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2102,\"rd\":119,\"prog\":-13,\"prov\":true}},\"createdAt\":1597056517969,\"profile\":{\"bio\":\"I am a Lichess Bot! \\r\\nThis Bot Is Stockfish\\r\\nOwner: @AOOP09\\r\\nBetter Version Of @Bot_AOOP9_2\\r\\nIf You Fell Brave Challange Me,If You Want To Win,Dont Challange Me XD\\r\\nI Can Play Standart Chess,Rapid Classical Blitz Bullet And UltraBullet !\\r\\nHumans Can Not Beat Me.\\r\\nBut BOTs ... maybe some of them can!\\r\\nStrenght : Very Very Strong\\r\\nElo: We Don't Know But Stronger 10 Times Than Stockfish 11\",\"firstName\":\"Stockfish 12\",\"lastName\":\"E2 Vision AMD\",\"fideRating\":3000,\"links\":\"https://www.youtube.com/channel/UCookukqI100OWzPbnefblyg\"},\"seenAt\":1606402351945,\"playTime\":{\"total\":39554,\"tv\":15826},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_AOOP11\",\"nbFollowing\":10,\"nbFollowers\":17,\"count\":{\"all\":130,\"rated\":116,\"ai\":4,\"draw\":7,\"drawH\":7,\"loss\":36,\"lossH\":32,\"win\":87,\"winH\":87,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bot_aoop11",
+    "username": "Bot_AOOP11",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 22,
+        "rating": 2246,
+        "rd": 102,
+        "prog": 115
+      },
+      "bullet": {
+        "games": 49,
+        "rating": 2240,
+        "rd": 82,
+        "prog": -26
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 16,
+        "rating": 2102,
+        "rd": 119,
+        "prog": -13,
+        "prov": true
+      }
+    },
+    "createdAt": 1597056517969,
+    "profile": {
+      "bio": "I am a Lichess Bot! \r\nThis Bot Is Stockfish\r\nOwner: @AOOP09\r\nBetter Version Of @Bot_AOOP9_2\r\nIf You Fell Brave Challange Me,If You Want To Win,Dont Challange Me XD\r\nI Can Play Standart Chess,Rapid Classical Blitz Bullet And UltraBullet !\r\nHumans Can Not Beat Me.\r\nBut BOTs ... maybe some of them can!\r\nStrenght : Very Very Strong\r\nElo: We Don't Know But Stronger 10 Times Than Stockfish 11",
+      "firstName": "Stockfish 12",
+      "lastName": "E2 Vision AMD",
+      "fideRating": 3000,
+      "links": "https://www.youtube.com/channel/UCookukqI100OWzPbnefblyg"
+    },
+    "seenAt": 1606402351945,
+    "playTime": {
+      "total": 39554,
+      "tv": 15826
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Bot_AOOP11",
+    "nbFollowing": 10,
+    "nbFollowers": 17,
+    "count": {
+      "all": 130,
+      "rated": 116,
+      "ai": 4,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 36,
+      "lossH": 32,
+      "win": 87,
+      "winH": 87,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
