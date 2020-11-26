@@ -4,23 +4,23 @@
   "username": "mrchessmanager",
   "profileUrl": "https://lichess.org/@/mrchessmanager",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mrchessmanager\",\"username\":\"mrchessmanager\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605596763019,\"profile\":{\"bio\":\"Official account of mrchessmanager(https://twitch.tv/mrchessmanager)\",\"links\":\"https://twitch.tv/mrchessmanager\"},\"seenAt\":1606361439742,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/mrchessmanager\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mrchessmanager\",\"username\":\"mrchessmanager\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2268,\"rd\":361,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1983,\"rd\":325,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605596763019,\"profile\":{\"bio\":\"Official account of mrchessmanager(https://twitch.tv/mrchessmanager)\",\"links\":\"https://twitch.tv/mrchessmanager\"},\"seenAt\":1606371370679,\"playTime\":{\"total\":3294,\"tv\":1246},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/mrchessmanager\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":22,\"rated\":3,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":3,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mrchessmanager",
     "username": "mrchessmanager",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2268,
+        "rd": 361,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1983,
+        "rd": 325,
         "prog": 0,
         "prov": true
       },
@@ -51,25 +51,26 @@
       "bio": "Official account of mrchessmanager(https://twitch.tv/mrchessmanager)",
       "links": "https://twitch.tv/mrchessmanager"
     },
-    "seenAt": 1606361439742,
+    "seenAt": 1606371370679,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 3294,
+      "tv": 1246
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/mrchessmanager",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 22,
+      "rated": 3,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 4,
+      "lossH": 3,
+      "win": 18,
+      "winH": 18,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
