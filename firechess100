@@ -4,30 +4,36 @@
   "username": "firechess100",
   "profileUrl": "https://lichess.org/@/firechess100",
   "provider": "lichess",
-  "_raw": "{\"id\":\"firechess100\",\"username\":\"firechess100\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":21,\"rating\":1944,\"rd\":145,\"prog\":58,\"prov\":true},\"puzzle\":{\"games\":855,\"rating\":1772,\"rd\":78,\"prog\":-7},\"bullet\":{\"games\":195,\"rating\":1522,\"rd\":45,\"prog\":39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603253306381,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1604630939997,\"playTime\":{\"total\":31711,\"tv\":91},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/firechess100\",\"nbFollowing\":2,\"nbFollowers\":0,\"completionRate\":97,\"count\":{\"all\":348,\"rated\":216,\"ai\":132,\"draw\":7,\"drawH\":6,\"loss\":229,\"lossH\":106,\"win\":112,\"winH\":104,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"firechess100\",\"username\":\"firechess100\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":40,\"rating\":1682,\"rd\":93,\"prog\":-240},\"puzzle\":{\"games\":881,\"rating\":1830,\"rd\":82,\"prog\":66},\"ultraBullet\":{\"games\":4,\"rating\":1300,\"rd\":189,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":281,\"rating\":1484,\"rd\":51,\"prog\":-21},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603253306381,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I am firechess100 and have created 2 bots- @Alphaplayer100 and @Deepmind100. You can challenge them when they are active\\uD83D\\uDE02\\uD83D\\uDE02\\uD83D\\uDE02\\uD83D\\uDE02\\uD83D\\uDE0E\\uD83D\\uDE0E. Challenges will be accepted only when they are active and mostly they are sleepy.\",\"firstName\":\"firechess100\"},\"seenAt\":1606481000937,\"playTime\":{\"total\":46351,\"tv\":91},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/firechess100\",\"nbFollowing\":3,\"nbFollowers\":0,\"completionRate\":97,\"count\":{\"all\":471,\"rated\":325,\"ai\":145,\"draw\":12,\"drawH\":11,\"loss\":307,\"lossH\":171,\"win\":152,\"winH\":144,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "firechess100",
     "username": "firechess100",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 21,
-        "rating": 1944,
-        "rd": 145,
-        "prog": 58,
-        "prov": true
+        "games": 40,
+        "rating": 1682,
+        "rd": 93,
+        "prog": -240
       },
       "puzzle": {
-        "games": 855,
-        "rating": 1772,
-        "rd": 78,
-        "prog": -7
+        "games": 881,
+        "rating": 1830,
+        "rd": 82,
+        "prog": 66
+      },
+      "ultraBullet": {
+        "games": 4,
+        "rating": 1300,
+        "rd": 189,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
-        "games": 195,
-        "rating": 1522,
-        "rd": 45,
-        "prog": 39
+        "games": 281,
+        "rating": 1484,
+        "rd": 51,
+        "prog": -21
       },
       "correspondence": {
         "games": 0,
@@ -53,28 +59,30 @@
     },
     "createdAt": 1603253306381,
     "profile": {
-      "country": "_lichess"
+      "country": "_lichess",
+      "bio": "I am firechess100 and have created 2 bots- @Alphaplayer100 and @Deepmind100. You can challenge them when they are active😂😂😂😂😎😎. Challenges will be accepted only when they are active and mostly they are sleepy.",
+      "firstName": "firechess100"
     },
-    "seenAt": 1604630939997,
+    "seenAt": 1606481000937,
     "playTime": {
-      "total": 31711,
+      "total": 46351,
       "tv": 91
     },
     "language": "en-US",
     "url": "https://lichess.org/@/firechess100",
-    "nbFollowing": 2,
+    "nbFollowing": 3,
     "nbFollowers": 0,
     "completionRate": 97,
     "count": {
-      "all": 348,
-      "rated": 216,
-      "ai": 132,
-      "draw": 7,
-      "drawH": 6,
-      "loss": 229,
-      "lossH": 106,
-      "win": 112,
-      "winH": 104,
+      "all": 471,
+      "rated": 325,
+      "ai": 145,
+      "draw": 12,
+      "drawH": 11,
+      "loss": 307,
+      "lossH": 171,
+      "win": 152,
+      "winH": 144,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
