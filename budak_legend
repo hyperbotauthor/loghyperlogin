@@ -1,0 +1,88 @@
+{
+  "id": "budak_legend",
+  "displayName": "Budak_Legend",
+  "username": "Budak_Legend",
+  "profileUrl": "https://lichess.org/@/Budak_Legend",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"budak_legend\",\"username\":\"Budak_Legend\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":1516,\"rd\":74,\"prog\":100},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606305486472,\"profile\":{\"country\":\"MY\",\"location\":\"???????????????\",\"bio\":\"Hello,please follow me and join my team.\\r\\nhttps://lichess.org/team/malaysian-tournament-club\\r\\nhttps://lichess.org/team/international-tournament-club\\r\\nhttps://lichess.org/team/chesstournamentclub\",\"firstName\":\"???????? ????\",\"lastName\":\"???? ?????\",\"links\":\"Chess.com\"},\"seenAt\":1606436651873,\"playTime\":{\"total\":5986,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Budak_Legend\",\"nbFollowing\":8,\"nbFollowers\":5,\"completionRate\":100,\"count\":{\"all\":24,\"rated\":24,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "budak_legend",
+    "username": "Budak_Legend",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 24,
+        "rating": 1516,
+        "rd": 74,
+        "prog": 100
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1606305486472,
+    "profile": {
+      "country": "MY",
+      "location": "???????????????",
+      "bio": "Hello,please follow me and join my team.\r\nhttps://lichess.org/team/malaysian-tournament-club\r\nhttps://lichess.org/team/international-tournament-club\r\nhttps://lichess.org/team/chesstournamentclub",
+      "firstName": "???????? ????",
+      "lastName": "???? ?????",
+      "links": "Chess.com"
+    },
+    "seenAt": 1606436651873,
+    "playTime": {
+      "total": 5986,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Budak_Legend",
+    "nbFollowing": 8,
+    "nbFollowers": 5,
+    "completionRate": 100,
+    "count": {
+      "all": 24,
+      "rated": 24,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 8,
+      "lossH": 8,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
