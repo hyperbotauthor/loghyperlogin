@@ -4,16 +4,16 @@
   "username": "Fire_Inferno",
   "profileUrl": "https://lichess.org/@/Fire_Inferno",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fire_inferno\",\"username\":\"Fire_Inferno\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606436992222,\"seenAt\":1606444212061,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Fire_Inferno\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fire_inferno\",\"username\":\"Fire_Inferno\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1701,\"rd\":279,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606436992222,\"profile\":{\"country\":\"MY\",\"location\":\"Selangor\",\"bio\":\"Please follow me\",\"firstName\":\"???????? ????\",\"lastName\":\"???? ?????\"},\"seenAt\":1606455215967,\"playTime\":{\"total\":803,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Fire_Inferno\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fire_inferno",
     "username": "Fire_Inferno",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1701,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
@@ -47,26 +47,33 @@
       }
     },
     "createdAt": 1606436992222,
-    "seenAt": 1606444212061,
+    "profile": {
+      "country": "MY",
+      "location": "Selangor",
+      "bio": "Please follow me",
+      "firstName": "???????? ????",
+      "lastName": "???? ?????"
+    },
+    "seenAt": 1606455215967,
     "playTime": {
-      "total": 0,
+      "total": 803,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Fire_Inferno",
     "nbFollowing": 1,
-    "nbFollowers": 1,
+    "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 2,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 2,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
