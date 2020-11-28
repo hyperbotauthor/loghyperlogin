@@ -4,7 +4,7 @@
   "username": "CodingChess",
   "profileUrl": "https://lichess.org/@/CodingChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"codingchess\",\"username\":\"CodingChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2050,\"rd\":83,\"prog\":113},\"bullet\":{\"games\":101,\"rating\":2227,\"rd\":65,\"prog\":-4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":469,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1483,\"rd\":476,\"prog\":0,\"prov\":true}},\"createdAt\":1604974570782,\"profile\":{\"bio\":\"My owner is @Vertonghen\\r\\nYou can send me all sorts of weird messages and requests to join your team.\",\"firstName\":\"Coding\",\"lastName\":\"Chess\",\"fideRating\":602},\"seenAt\":1606542479787,\"playTime\":{\"total\":18811,\"tv\":2844},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CodingChess\",\"nbFollowing\":2,\"nbFollowers\":6,\"count\":{\"all\":161,\"rated\":132,\"ai\":16,\"draw\":2,\"drawH\":2,\"loss\":28,\"lossH\":20,\"win\":131,\"winH\":123,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"codingchess\",\"username\":\"CodingChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2050,\"rd\":83,\"prog\":113},\"bullet\":{\"games\":101,\"rating\":2227,\"rd\":65,\"prog\":-4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":469,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2232,\"rd\":466,\"prog\":0,\"prov\":true}},\"createdAt\":1604974570782,\"profile\":{\"bio\":\"My owner is @Vertonghen\\r\\nYou can send me all sorts of weird messages and requests to join your team.\",\"firstName\":\"Coding\",\"lastName\":\"Chess\",\"fideRating\":602},\"seenAt\":1606546716949,\"playTime\":{\"total\":19321,\"tv\":2844},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CodingChess\",\"playing\":\"https://lichess.org/NrvS8Y8x/white\",\"nbFollowing\":2,\"nbFollowers\":6,\"count\":{\"all\":162,\"rated\":133,\"ai\":16,\"draw\":2,\"drawH\":2,\"loss\":28,\"lossH\":20,\"win\":132,\"winH\":124,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "codingchess",
     "username": "CodingChess",
@@ -37,9 +37,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1483,
-        "rd": 476,
+        "games": 3,
+        "rating": 2232,
+        "rd": 466,
         "prog": 0,
         "prov": true
       }
@@ -51,28 +51,29 @@
       "lastName": "Chess",
       "fideRating": 602
     },
-    "seenAt": 1606542479787,
+    "seenAt": 1606546716949,
     "playTime": {
-      "total": 18811,
+      "total": 19321,
       "tv": 2844
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/CodingChess",
+    "playing": "https://lichess.org/NrvS8Y8x/white",
     "nbFollowing": 2,
     "nbFollowers": 6,
     "count": {
-      "all": 161,
-      "rated": 132,
+      "all": 162,
+      "rated": 133,
       "ai": 16,
       "draw": 2,
       "drawH": 2,
       "loss": 28,
       "lossH": 20,
-      "win": 131,
-      "winH": 123,
+      "win": 132,
+      "winH": 124,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
