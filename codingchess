@@ -4,23 +4,23 @@
   "username": "CodingChess",
   "profileUrl": "https://lichess.org/@/CodingChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"codingchess\",\"username\":\"CodingChess\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2050,\"rd\":84,\"prog\":113},\"bullet\":{\"games\":101,\"rating\":2227,\"rd\":66,\"prog\":-4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":470,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2758,\"rd\":190,\"prog\":0,\"prov\":true}},\"createdAt\":1604974570782,\"profile\":{\"bio\":\"My owner is @Vertonghen\\r\\nYou can send me all sorts of weird messages and requests to join your team.\",\"firstName\":\"Coding\",\"lastName\":\"Chess\",\"fideRating\":602},\"seenAt\":1606726941116,\"playTime\":{\"total\":22417,\"tv\":4667},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CodingChess\",\"nbFollowing\":2,\"nbFollowers\":8,\"count\":{\"all\":167,\"rated\":138,\"ai\":16,\"draw\":2,\"drawH\":2,\"loss\":28,\"lossH\":20,\"win\":137,\"winH\":129,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"codingchess\",\"username\":\"CodingChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":25,\"rating\":2048,\"rd\":83,\"prog\":151},\"bullet\":{\"games\":103,\"rating\":2222,\"rd\":66,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":470,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2675,\"rd\":110,\"prog\":28,\"prov\":true}},\"createdAt\":1604974570782,\"profile\":{\"bio\":\"My owner is @Vertonghen\\r\\nYou can send me all sorts of weird messages and requests to join your team.\",\"firstName\":\"Coding\",\"lastName\":\"Chess\",\"fideRating\":602},\"seenAt\":1606826630700,\"playTime\":{\"total\":28681,\"tv\":8196},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CodingChess\",\"playing\":\"https://lichess.org/XIBj9nrZ/white\",\"nbFollowing\":2,\"nbFollowers\":11,\"count\":{\"all\":181,\"rated\":152,\"ai\":16,\"draw\":4,\"drawH\":4,\"loss\":33,\"lossH\":25,\"win\":144,\"winH\":136,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "codingchess",
     "username": "CodingChess",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
-        "games": 24,
-        "rating": 2050,
-        "rd": 84,
-        "prog": 113
+        "games": 25,
+        "rating": 2048,
+        "rd": 83,
+        "prog": 151
       },
       "bullet": {
-        "games": 101,
-        "rating": 2227,
+        "games": 103,
+        "rating": 2222,
         "rd": 66,
-        "prog": -4
+        "prog": -13
       },
       "correspondence": {
         "games": 0,
@@ -37,10 +37,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 2758,
-        "rd": 190,
-        "prog": 0,
+        "games": 19,
+        "rating": 2675,
+        "rd": 110,
+        "prog": 28,
         "prov": true
       }
     },
@@ -51,28 +51,29 @@
       "lastName": "Chess",
       "fideRating": 602
     },
-    "seenAt": 1606726941116,
+    "seenAt": 1606826630700,
     "playTime": {
-      "total": 22417,
-      "tv": 4667
+      "total": 28681,
+      "tv": 8196
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/CodingChess",
+    "playing": "https://lichess.org/XIBj9nrZ/white",
     "nbFollowing": 2,
-    "nbFollowers": 8,
+    "nbFollowers": 11,
     "count": {
-      "all": 167,
-      "rated": 138,
+      "all": 181,
+      "rated": 152,
       "ai": 16,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 28,
-      "lossH": 20,
-      "win": 137,
-      "winH": 129,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 33,
+      "lossH": 25,
+      "win": 144,
+      "winH": 136,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
