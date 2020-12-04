@@ -1,0 +1,85 @@
+{
+  "id": "stockfish_i7",
+  "displayName": "Stockfish_i7",
+  "username": "Stockfish_i7",
+  "profileUrl": "https://lichess.org/@/Stockfish_i7",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stockfish_i7\",\"username\":\"Stockfish_i7\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":86,\"rating\":2375,\"rd\":74,\"prog\":27},\"bullet\":{\"games\":180,\"rating\":2503,\"rd\":54,\"prog\":9},\"correspondence\":{\"games\":3,\"rating\":1490,\"rd\":219,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1922,\"rd\":241,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":56,\"rating\":2568,\"rd\":81,\"prog\":135}},\"createdAt\":1600075067459,\"profile\":{\"country\":\"_pirate\",\"bio\":\"--  Ｈｅｌｌｏ  Ｗｏｒｌｄ!\\r\\nI am a Chess Bot with a Very High Skill level. \\r\\nMy Chess engine is Stockfish 12 nnue High Settings, so if you are a Human, Prepare to lose.\\r\\n_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳\\r\\nI'm Running on an Intel® Core™ i7-4702MQ Boost Clock Speed.\",\"firstName\":\"<C0D3>\",\"lastName\":\"<B0Y/>\",\"links\":\"https://github.com/ShailChoksi/lichess-bot\\r\\nhttps://github.com/official-stockfish/Stockfish\"},\"seenAt\":1607077863284,\"playTime\":{\"total\":114297,\"tv\":39485},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Stockfish_i7\",\"nbFollowing\":309,\"nbFollowers\":160,\"count\":{\"all\":557,\"rated\":348,\"ai\":69,\"draw\":39,\"drawH\":35,\"loss\":14,\"lossH\":10,\"win\":504,\"winH\":443,\"bookmark\":11,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stockfish_i7",
+    "username": "Stockfish_i7",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 86,
+        "rating": 2375,
+        "rd": 74,
+        "prog": 27
+      },
+      "bullet": {
+        "games": 180,
+        "rating": 2503,
+        "rd": 54,
+        "prog": 9
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1490,
+        "rd": 219,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1922,
+        "rd": 241,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 56,
+        "rating": 2568,
+        "rd": 81,
+        "prog": 135
+      }
+    },
+    "createdAt": 1600075067459,
+    "profile": {
+      "country": "_pirate",
+      "bio": "--  Ｈｅｌｌｏ  Ｗｏｒｌｄ!\r\nI am a Chess Bot with a Very High Skill level. \r\nMy Chess engine is Stockfish 12 nnue High Settings, so if you are a Human, Prepare to lose.\r\n_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳-̳_̳\r\nI'm Running on an Intel® Core™ i7-4702MQ Boost Clock Speed.",
+      "firstName": "<C0D3>",
+      "lastName": "<B0Y/>",
+      "links": "https://github.com/ShailChoksi/lichess-bot\r\nhttps://github.com/official-stockfish/Stockfish"
+    },
+    "seenAt": 1607077863284,
+    "playTime": {
+      "total": 114297,
+      "tv": 39485
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Stockfish_i7",
+    "nbFollowing": 309,
+    "nbFollowers": 160,
+    "count": {
+      "all": 557,
+      "rated": 348,
+      "ai": 69,
+      "draw": 39,
+      "drawH": 35,
+      "loss": 14,
+      "lossH": 10,
+      "win": 504,
+      "winH": 443,
+      "bookmark": 11,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
