@@ -4,7 +4,7 @@
   "username": "Racing-king-Champs",
   "profileUrl": "https://lichess.org/@/Racing-king-Champs",
   "provider": "lichess",
-  "_raw": "{\"id\":\"racing-king-champs\",\"username\":\"Racing-king-Champs\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1941,\"rd\":264,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1453,\"rd\":434,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1479,\"rd\":470,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606985987008,\"seenAt\":1607015197383,\"playTime\":{\"total\":4493,\"tv\":1248},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Racing-king-Champs\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":32,\"rated\":5,\"ai\":26,\"draw\":1,\"drawH\":0,\"loss\":8,\"lossH\":5,\"win\":23,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"racing-king-champs\",\"username\":\"Racing-king-Champs\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1941,\"rd\":264,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":16,\"rating\":2212,\"rd\":108,\"prog\":-147},\"bullet\":{\"games\":8,\"rating\":2186,\"rd\":180,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1968,\"rd\":317,\"prog\":0,\"prov\":true}},\"createdAt\":1606985987008,\"seenAt\":1607077368394,\"playTime\":{\"total\":6896,\"tv\":1248},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Racing-king-Champs\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":61,\"rated\":28,\"ai\":28,\"draw\":1,\"drawH\":0,\"loss\":14,\"lossH\":10,\"win\":46,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "racing-king-champs",
     "username": "Racing-king-Champs",
@@ -18,16 +18,15 @@
         "prov": true
       },
       "racingKings": {
-        "games": 2,
-        "rating": 1453,
-        "rd": 434,
-        "prog": 0,
-        "prov": true
+        "games": 16,
+        "rating": 2212,
+        "rd": 108,
+        "prog": -147
       },
       "bullet": {
-        "games": 1,
-        "rating": 1479,
-        "rd": 470,
+        "games": 8,
+        "rating": 2186,
+        "rd": 180,
         "prog": 0,
         "prov": true
       },
@@ -46,34 +45,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1968,
+        "rd": 317,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1606985987008,
-    "seenAt": 1607015197383,
+    "seenAt": 1607077368394,
     "playTime": {
-      "total": 4493,
+      "total": 6896,
       "tv": 1248
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Racing-king-Champs",
     "nbFollowing": 1,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 32,
-      "rated": 5,
-      "ai": 26,
+      "all": 61,
+      "rated": 28,
+      "ai": 28,
       "draw": 1,
       "drawH": 0,
-      "loss": 8,
-      "lossH": 5,
-      "win": 23,
-      "winH": 1,
+      "loss": 14,
+      "lossH": 10,
+      "win": 46,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
