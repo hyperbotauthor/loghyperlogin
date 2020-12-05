@@ -4,7 +4,7 @@
   "username": "BinaryBrain",
   "profileUrl": "https://lichess.org/@/BinaryBrain",
   "provider": "lichess",
-  "_raw": "{\"id\":\"binarybrain\",\"username\":\"BinaryBrain\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1357,\"rd\":316,\"prog\":0,\"prov\":true},\"horde\":{\"games\":7,\"rating\":1299,\"rd\":270,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":129,\"rating\":2430,\"rd\":75,\"prog\":-84},\"kingOfTheHill\":{\"games\":20,\"rating\":1341,\"rd\":323,\"prog\":-39,\"prov\":true},\"bullet\":{\"games\":252,\"rating\":2256,\"rd\":46,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2464,\"rd\":227,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":246,\"rating\":2780,\"rd\":45,\"prog\":-7}},\"createdAt\":1604901399587,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess\",\"bio\":\"My owner is @Vertonghen\\r\\nI am not good at bullet, but very strong in rapid and classical and blitz.\\r\\nYou can send me any message you want. I will not follow anyone except people I know in real life.\\r\\nFollow @Vertonghen\",\"firstName\":\"Binary\",\"lastName\":\"Brain\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"Lichess.org\\r\\nPython\\r\\nGitHub\\r\\n\\r\\nhttps://dashboard.heroku.com/apps\\r\\n\\r\\nEasychess.herokuapp.com\"},\"seenAt\":1607149971323,\"playTime\":{\"total\":258436,\"tv\":131900},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BinaryBrain\",\"playing\":\"https://lichess.org/wSBXfzfp/white\",\"nbFollowing\":2,\"nbFollowers\":52,\"count\":{\"all\":840,\"rated\":686,\"ai\":20,\"draw\":26,\"drawH\":26,\"loss\":133,\"lossH\":114,\"win\":681,\"winH\":680,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"binarybrain\",\"username\":\"BinaryBrain\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1357,\"rd\":316,\"prog\":0,\"prov\":true},\"horde\":{\"games\":7,\"rating\":1299,\"rd\":271,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":129,\"rating\":2430,\"rd\":75,\"prog\":-84},\"kingOfTheHill\":{\"games\":20,\"rating\":1341,\"rd\":323,\"prog\":-39,\"prov\":true},\"bullet\":{\"games\":252,\"rating\":2256,\"rd\":46,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2464,\"rd\":227,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":249,\"rating\":2775,\"rd\":45,\"prog\":-15}},\"createdAt\":1604901399587,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess\",\"bio\":\"My owner is @Vertonghen\\r\\nI am not good at bullet, but very strong in rapid and classical and blitz.\\r\\nYou can send me any message you want. I will not follow anyone except people I know in real life.\\r\\nFollow @Vertonghen\",\"firstName\":\"Binary\",\"lastName\":\"Brain\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"Lichess.org\\r\\nPython\\r\\nGitHub\\r\\n\\r\\nhttps://dashboard.heroku.com/apps\\r\\n\\r\\nEasychess.herokuapp.com\"},\"seenAt\":1607171191289,\"playTime\":{\"total\":261018,\"tv\":133250},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BinaryBrain\",\"playing\":\"https://lichess.org/1sJSGbSW/white\",\"nbFollowing\":2,\"nbFollowers\":52,\"count\":{\"all\":843,\"rated\":689,\"ai\":20,\"draw\":26,\"drawH\":26,\"loss\":134,\"lossH\":115,\"win\":683,\"winH\":682,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "binarybrain",
     "username": "BinaryBrain",
@@ -20,7 +20,7 @@
       "horde": {
         "games": 7,
         "rating": 1299,
-        "rd": 270,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
@@ -58,10 +58,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 246,
-        "rating": 2780,
+        "games": 249,
+        "rating": 2775,
         "rd": 45,
-        "prog": -7
+        "prog": -15
       }
     },
     "createdAt": 1604901399587,
@@ -76,27 +76,27 @@
       "ecfRating": 3000,
       "links": "Lichess.org\r\nPython\r\nGitHub\r\n\r\nhttps://dashboard.heroku.com/apps\r\n\r\nEasychess.herokuapp.com"
     },
-    "seenAt": 1607149971323,
+    "seenAt": 1607171191289,
     "playTime": {
-      "total": 258436,
-      "tv": 131900
+      "total": 261018,
+      "tv": 133250
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BinaryBrain",
-    "playing": "https://lichess.org/wSBXfzfp/white",
+    "playing": "https://lichess.org/1sJSGbSW/white",
     "nbFollowing": 2,
     "nbFollowers": 52,
     "count": {
-      "all": 840,
-      "rated": 686,
+      "all": 843,
+      "rated": 689,
       "ai": 20,
       "draw": 26,
       "drawH": 26,
-      "loss": 133,
-      "lossH": 114,
-      "win": 681,
-      "winH": 680,
+      "loss": 134,
+      "lossH": 115,
+      "win": 683,
+      "winH": 682,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
