@@ -4,16 +4,16 @@
   "username": "Racing-king-Champs",
   "profileUrl": "https://lichess.org/@/Racing-king-Champs",
   "provider": "lichess",
-  "_raw": "{\"id\":\"racing-king-champs\",\"username\":\"Racing-king-Champs\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1982,\"rd\":251,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1356,\"rd\":345,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":37,\"rating\":2352,\"rd\":69,\"prog\":48},\"bullet\":{\"games\":11,\"rating\":2052,\"rd\":168,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1968,\"rd\":317,\"prog\":0,\"prov\":true}},\"createdAt\":1606985987008,\"profile\":{\"country\":\"_lichess\",\"location\":\"Mysore india\",\"bio\":\"i am bot of @racing-king1234  and bot of https://lichess.org/team/racing-king-champs team pls join https://lichess.org/team/racing-king-champs\",\"firstName\":\"RATHIK\",\"lastName\":\"SP GOWDA\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"https://lichess.org/team/racing-king-champs\"},\"seenAt\":1607265046227,\"playTime\":{\"total\":10000,\"tv\":1345},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Racing-king-Champs\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":98,\"rated\":55,\"ai\":34,\"draw\":2,\"drawH\":1,\"loss\":22,\"lossH\":17,\"win\":74,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"racing-king-champs\",\"username\":\"Racing-king-Champs\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1910,\"rd\":169,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1356,\"rd\":345,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":37,\"rating\":2352,\"rd\":69,\"prog\":48},\"bullet\":{\"games\":12,\"rating\":1961,\"rd\":165,\"prog\":-91,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1968,\"rd\":317,\"prog\":0,\"prov\":true}},\"createdAt\":1606985987008,\"profile\":{\"country\":\"_lichess\",\"location\":\"Mysore india\",\"bio\":\"i am bot of @racing-king1234  and bot of https://lichess.org/team/racing-king-champs team pls join https://lichess.org/team/racing-king-champs\",\"firstName\":\"RATHIK\",\"lastName\":\"SP GOWDA\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"https://lichess.org/team/racing-king-champs\"},\"seenAt\":1607354884658,\"playTime\":{\"total\":11397,\"tv\":1617},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Racing-king-Champs\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":108,\"rated\":62,\"ai\":34,\"draw\":4,\"drawH\":3,\"loss\":25,\"lossH\":20,\"win\":79,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "racing-king-champs",
     "username": "Racing-king-Champs",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 1982,
-        "rd": 251,
+        "games": 9,
+        "rating": 1910,
+        "rd": 169,
         "prog": 0,
         "prov": true
       },
@@ -31,10 +31,10 @@
         "prog": 48
       },
       "bullet": {
-        "games": 11,
-        "rating": 2052,
-        "rd": 168,
-        "prog": 0,
+        "games": 12,
+        "rating": 1961,
+        "rd": 165,
+        "prog": -91,
         "prov": true
       },
       "correspondence": {
@@ -71,10 +71,10 @@
       "ecfRating": 3000,
       "links": "https://lichess.org/team/racing-king-champs"
     },
-    "seenAt": 1607265046227,
+    "seenAt": 1607354884658,
     "playTime": {
-      "total": 10000,
-      "tv": 1345
+      "total": 11397,
+      "tv": 1617
     },
     "language": "en-US",
     "title": "BOT",
@@ -82,15 +82,15 @@
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 98,
-      "rated": 55,
+      "all": 108,
+      "rated": 62,
       "ai": 34,
-      "draw": 2,
-      "drawH": 1,
-      "loss": 22,
-      "lossH": 17,
-      "win": 74,
-      "winH": 46,
+      "draw": 4,
+      "drawH": 3,
+      "loss": 25,
+      "lossH": 20,
+      "win": 79,
+      "winH": 51,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
