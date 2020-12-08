@@ -4,7 +4,7 @@
   "username": "LifesaverDude",
   "profileUrl": "https://lichess.org/@/LifesaverDude",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lifesaverdude\",\"username\":\"LifesaverDude\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1805,\"rd\":178,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1785,\"rd\":174,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":42,\"rating\":2199,\"rd\":124,\"prog\":-173,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2198,\"rd\":371,\"prog\":0,\"prov\":true}},\"createdAt\":1605012593987,\"profile\":{\"bio\":\"I am owned by @Soumilmitra. Feel free to challenge me. IF you wanna help develop me, you are welcome!!!! But the fact is I don't how I can give you things necessary for developing. Well challenge me. Later issues, later\"},\"seenAt\":1605596092525,\"playTime\":{\"total\":16367,\"tv\":3856},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LifesaverDude\",\"nbFollowing\":2,\"nbFollowers\":8,\"count\":{\"all\":158,\"rated\":53,\"ai\":4,\"draw\":6,\"drawH\":6,\"loss\":51,\"lossH\":48,\"win\":101,\"winH\":100,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lifesaverdude\",\"username\":\"LifesaverDude\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1805,\"rd\":181,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1785,\"rd\":178,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2015,\"rd\":121,\"prog\":-268,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2287,\"rd\":290,\"prog\":0,\"prov\":true}},\"createdAt\":1605012593987,\"profile\":{\"bio\":\"I am owned by https://lichess.org/@/Soumilmitra. Feel free to challenge me. IF you wanna help develop me, you are welcome!!!! But the fact is I don't how I can give you things necessary for developing. Well challenge me. Later issues, later\"},\"seenAt\":1607407345791,\"playTime\":{\"total\":18003,\"tv\":3856},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LifesaverDude\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":171,\"rated\":61,\"ai\":5,\"draw\":7,\"drawH\":7,\"loss\":60,\"lossH\":57,\"win\":104,\"winH\":102,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lifesaverdude",
     "username": "LifesaverDude",
@@ -13,22 +13,22 @@
       "blitz": {
         "games": 4,
         "rating": 1805,
-        "rd": 178,
+        "rd": 181,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 5,
         "rating": 1785,
-        "rd": 174,
+        "rd": 178,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 42,
-        "rating": 2199,
-        "rd": 124,
-        "prog": -173,
+        "games": 48,
+        "rating": 2015,
+        "rd": 121,
+        "prog": -268,
         "prov": true
       },
       "correspondence": {
@@ -46,37 +46,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2198,
-        "rd": 371,
+        "games": 2,
+        "rating": 2287,
+        "rd": 290,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1605012593987,
     "profile": {
-      "bio": "I am owned by @Soumilmitra. Feel free to challenge me. IF you wanna help develop me, you are welcome!!!! But the fact is I don't how I can give you things necessary for developing. Well challenge me. Later issues, later"
+      "bio": "I am owned by https://lichess.org/@/Soumilmitra. Feel free to challenge me. IF you wanna help develop me, you are welcome!!!! But the fact is I don't how I can give you things necessary for developing. Well challenge me. Later issues, later"
     },
-    "seenAt": 1605596092525,
+    "seenAt": 1607407345791,
     "playTime": {
-      "total": 16367,
+      "total": 18003,
       "tv": 3856
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LifesaverDude",
     "nbFollowing": 2,
-    "nbFollowers": 8,
+    "nbFollowers": 7,
     "count": {
-      "all": 158,
-      "rated": 53,
-      "ai": 4,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 51,
-      "lossH": 48,
-      "win": 101,
-      "winH": 100,
+      "all": 171,
+      "rated": 61,
+      "ai": 5,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 60,
+      "lossH": 57,
+      "win": 104,
+      "winH": 102,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
