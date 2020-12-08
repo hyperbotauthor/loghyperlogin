@@ -4,16 +4,23 @@
   "username": "Akshaygmys_BOT",
   "profileUrl": "https://lichess.org/@/Akshaygmys_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1841,\"rd\":223,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":363,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"seenAt\":1607355115542,\"playTime\":{\"total\":2462,\"tv\":31},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"playing\":\"https://lichess.org/bqDToAqk/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":21,\"rated\":9,\"ai\":6,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":10,\"win\":7,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":1781,\"rd\":137,\"prog\":27,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1314,\"rd\":324,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":363,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2143,\"rd\":413,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"seenAt\":1607414199073,\"playTime\":{\"total\":4042,\"tv\":31},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":31,\"rated\":18,\"ai\":6,\"draw\":4,\"drawH\":4,\"loss\":17,\"lossH\":15,\"win\":10,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "akshaygmys_bot",
     "username": "Akshaygmys_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 6,
-        "rating": 1841,
-        "rd": 223,
+        "games": 12,
+        "rating": 1781,
+        "rd": 137,
+        "prog": 27,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1314,
+        "rd": 324,
         "prog": 0,
         "prov": true
       },
@@ -39,37 +46,36 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2143,
+        "rd": 413,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1607183121435,
-    "seenAt": 1607355115542,
+    "seenAt": 1607414199073,
     "playTime": {
-      "total": 2462,
+      "total": 4042,
       "tv": 31
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Akshaygmys_BOT",
-    "playing": "https://lichess.org/bqDToAqk/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 21,
-      "rated": 9,
+      "all": 31,
+      "rated": 18,
       "ai": 6,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 12,
-      "lossH": 10,
-      "win": 7,
-      "winH": 3,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 17,
+      "lossH": 15,
+      "win": 10,
+      "winH": 6,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
