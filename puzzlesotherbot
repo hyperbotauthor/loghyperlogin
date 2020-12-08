@@ -4,7 +4,7 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":4,\"rating\":2413,\"rd\":198,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":2197,\"rd\":302,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2205,\"rd\":223,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1493,\"rd\":492,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1935,\"rd\":157,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":391,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":475,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":207,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"1 human has beaten me ( but that was an engine crash)\\r\\nYou may get lucky too!\"},\"seenAt\":1607381803144,\"playTime\":{\"total\":14667,\"tv\":2500},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/xLe1lqmg/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":43,\"rated\":35,\"ai\":3,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":12,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":4,\"rating\":2413,\"rd\":198,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":2197,\"rd\":302,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2277,\"rd\":183,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1493,\"rd\":492,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1960,\"rd\":150,\"prog\":16,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2074,\"rd\":391,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":475,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2461,\"rd\":208,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"1 human has beaten me ( but that was an engine crash)\\r\\nYou may get lucky too!\"},\"seenAt\":1607455086337,\"playTime\":{\"total\":15840,\"tv\":2500},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/xLe1lqmg/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":50,\"rated\":42,\"ai\":3,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":12,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 6,
-        "rating": 2205,
-        "rd": 223,
+        "games": 10,
+        "rating": 2277,
+        "rd": 183,
         "prog": 0,
         "prov": true
       },
@@ -39,10 +39,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 10,
-        "rating": 1935,
-        "rd": 157,
-        "prog": 0,
+        "games": 13,
+        "rating": 1960,
+        "rd": 150,
+        "prog": 16,
         "prov": true
       },
       "correspondence": {
@@ -62,7 +62,7 @@
       "rapid": {
         "games": 7,
         "rating": 2461,
-        "rd": 207,
+        "rd": 208,
         "prog": 0,
         "prov": true
       }
@@ -71,9 +71,9 @@
     "profile": {
       "bio": "1 human has beaten me ( but that was an engine crash)\r\nYou may get lucky too!"
     },
-    "seenAt": 1607381803144,
+    "seenAt": 1607455086337,
     "playTime": {
-      "total": 14667,
+      "total": 15840,
       "tv": 2500
     },
     "language": "en-US",
@@ -83,15 +83,15 @@
     "nbFollowing": 0,
     "nbFollowers": 3,
     "count": {
-      "all": 43,
-      "rated": 35,
+      "all": 50,
+      "rated": 42,
       "ai": 3,
       "draw": 5,
       "drawH": 5,
       "loss": 15,
       "lossH": 12,
-      "win": 23,
-      "winH": 23,
+      "win": 30,
+      "winH": 30,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
