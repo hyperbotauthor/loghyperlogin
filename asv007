@@ -1,0 +1,82 @@
+{
+  "id": "asv007",
+  "displayName": "asv007",
+  "username": "asv007",
+  "profileUrl": "https://lichess.org/@/asv007",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"asv007\",\"username\":\"asv007\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":78,\"rating\":2197,\"rd\":53,\"prog\":-21},\"bullet\":{\"games\":96,\"rating\":2301,\"rd\":56,\"prog\":-9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1364,\"rd\":319,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2293,\"rd\":195,\"prog\":0,\"prov\":true}},\"createdAt\":1606958951671,\"profile\":{\"bio\":\"I will Play Blitz , Bullet and Rapid\"},\"seenAt\":1607494840204,\"playTime\":{\"total\":35410,\"tv\":5927},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/asv007\",\"nbFollowing\":14,\"nbFollowers\":8,\"count\":{\"all\":208,\"rated\":193,\"ai\":5,\"draw\":9,\"drawH\":9,\"loss\":44,\"lossH\":40,\"win\":155,\"winH\":154,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "asv007",
+    "username": "asv007",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 78,
+        "rating": 2197,
+        "rd": 53,
+        "prog": -21
+      },
+      "bullet": {
+        "games": 96,
+        "rating": 2301,
+        "rd": 56,
+        "prog": -9
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1364,
+        "rd": 319,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 2293,
+        "rd": 195,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1606958951671,
+    "profile": {
+      "bio": "I will Play Blitz , Bullet and Rapid"
+    },
+    "seenAt": 1607494840204,
+    "playTime": {
+      "total": 35410,
+      "tv": 5927
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/asv007",
+    "nbFollowing": 14,
+    "nbFollowers": 8,
+    "count": {
+      "all": 208,
+      "rated": 193,
+      "ai": 5,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 44,
+      "lossH": 40,
+      "win": 155,
+      "winH": 154,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
