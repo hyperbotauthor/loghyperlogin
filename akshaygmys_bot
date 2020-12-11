@@ -4,7 +4,7 @@
   "username": "Akshaygmys_BOT",
   "profileUrl": "https://lichess.org/@/Akshaygmys_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":1781,\"rd\":137,\"prog\":27,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1624,\"rd\":304,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1605,\"rd\":238,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":363,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2143,\"rd\":413,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"seenAt\":1607669723795,\"playTime\":{\"total\":4406,\"tv\":31},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":36,\"rated\":23,\"ai\":6,\"draw\":4,\"drawH\":4,\"loss\":18,\"lossH\":16,\"win\":14,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":1781,\"rd\":137,\"prog\":27,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1624,\"rd\":304,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1605,\"rd\":238,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":363,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2143,\"rd\":413,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"seenAt\":1607670095760,\"playTime\":{\"total\":4604,\"tv\":31},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":40,\"rated\":23,\"ai\":6,\"draw\":4,\"drawH\":4,\"loss\":20,\"lossH\":18,\"win\":16,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "akshaygmys_bot",
     "username": "Akshaygmys_BOT",
@@ -61,9 +61,9 @@
       }
     },
     "createdAt": 1607183121435,
-    "seenAt": 1607669723795,
+    "seenAt": 1607670095760,
     "playTime": {
-      "total": 4406,
+      "total": 4604,
       "tv": 31
     },
     "language": "en-US",
@@ -72,15 +72,15 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 36,
+      "all": 40,
       "rated": 23,
       "ai": 6,
       "draw": 4,
       "drawH": 4,
-      "loss": 18,
-      "lossH": 16,
-      "win": 14,
-      "winH": 10,
+      "loss": 20,
+      "lossH": 18,
+      "win": 16,
+      "winH": 12,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
