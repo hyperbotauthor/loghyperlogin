@@ -4,7 +4,7 @@
   "username": "Wren_bot",
   "profileUrl": "https://lichess.org/@/Wren_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wren_bot\",\"username\":\"Wren_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1607460836873,\"profile\":{\"country\":\"_rainbow\",\"location\":\"The bushes\",\"bio\":\"Hey there, I'm a Wrenalized computer :D\\r\\nhttps://i.imgur.com/V80M2rS.jpg\\r\\nControlled by @LittleJennyWren on Wrenabite software\\r\\nFeel 100% free to challenge me :)\",\"firstName\":\"Wren\",\"lastName\":\"Bot\"},\"seenAt\":1607469655875,\"playTime\":{\"total\":1768,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Wren_bot\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":12,\"rated\":0,\"ai\":11,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":0,\"win\":10,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wren_bot\",\"username\":\"Wren_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1758,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1607460836873,\"profile\":{\"country\":\"_rainbow\",\"location\":\"The bushes\",\"bio\":\"Hey there, I'm a Wrenalized computer :D\\r\\nhttps://i.imgur.com/V80M2rS.jpg\\r\\nControlled by @LittleJennyWren on Wrenabite software\\r\\nFeel 100% free to challenge me :)\",\"firstName\":\"Wren\",\"lastName\":\"Bot\"},\"seenAt\":1607794402480,\"playTime\":{\"total\":5713,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Wren_bot\",\"nbFollowing\":6,\"nbFollowers\":7,\"count\":{\"all\":37,\"rated\":2,\"ai\":19,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":7,\"win\":27,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wren_bot",
     "username": "Wren_bot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
+        "games": 1,
         "rating": 1500,
-        "rd": 500,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1758,
+        "rd": 396,
         "prog": 0,
         "prov": true
       }
@@ -54,26 +54,26 @@
       "firstName": "Wren",
       "lastName": "Bot"
     },
-    "seenAt": 1607469655875,
+    "seenAt": 1607794402480,
     "playTime": {
-      "total": 1768,
+      "total": 5713,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Wren_bot",
-    "nbFollowing": 3,
-    "nbFollowers": 3,
+    "nbFollowing": 6,
+    "nbFollowers": 7,
     "count": {
-      "all": 12,
-      "rated": 0,
-      "ai": 11,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 1,
-      "lossH": 0,
-      "win": 10,
-      "winH": 0,
+      "all": 37,
+      "rated": 2,
+      "ai": 19,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 8,
+      "lossH": 7,
+      "win": 27,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
