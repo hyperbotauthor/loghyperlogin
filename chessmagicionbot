@@ -4,16 +4,16 @@
   "username": "chessmagicionbot",
   "profileUrl": "https://lichess.org/@/chessmagicionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2298,\"rd\":220,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1779,\"rd\":237,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"seenAt\":1607832103317,\"playTime\":{\"total\":4645,\"tv\":2826},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"playing\":\"https://lichess.org/8K9WX6e8/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":15,\"rated\":8,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":4,\"lossH\":2,\"win\":8,\"winH\":5,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2185,\"rd\":186,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1869,\"rd\":145,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"seenAt\":1607860593476,\"playTime\":{\"total\":7097,\"tv\":3334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"playing\":\"https://lichess.org/rSGfc9gA/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":24,\"rated\":16,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":9,\"lossH\":7,\"win\":12,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmagicionbot",
     "username": "chessmagicionbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2298,
-        "rd": 220,
+        "games": 6,
+        "rating": 2185,
+        "rd": 186,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 1779,
-        "rd": 237,
+        "games": 7,
+        "rating": 1869,
+        "rd": 145,
         "prog": 0,
         "prov": true
       },
@@ -46,37 +46,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2235,
+        "rd": 465,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1607595611010,
-    "seenAt": 1607832103317,
+    "seenAt": 1607860593476,
     "playTime": {
-      "total": 4645,
-      "tv": 2826
+      "total": 7097,
+      "tv": 3334
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chessmagicionbot",
-    "playing": "https://lichess.org/8K9WX6e8/white",
+    "playing": "https://lichess.org/rSGfc9gA/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 15,
-      "rated": 8,
+      "all": 24,
+      "rated": 16,
       "ai": 5,
       "draw": 3,
       "drawH": 3,
-      "loss": 4,
-      "lossH": 2,
-      "win": 8,
-      "winH": 5,
+      "loss": 9,
+      "lossH": 7,
+      "win": 12,
+      "winH": 9,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
