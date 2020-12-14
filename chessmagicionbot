@@ -4,16 +4,16 @@
   "username": "chessmagicionbot",
   "profileUrl": "https://lichess.org/@/chessmagicionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2185,\"rd\":186,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1869,\"rd\":145,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"seenAt\":1607860593476,\"playTime\":{\"total\":7097,\"tv\":3334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"playing\":\"https://lichess.org/rSGfc9gA/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":24,\"rated\":16,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":9,\"lossH\":7,\"win\":12,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2170,\"rd\":157,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1867,\"rd\":120,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"profile\":{\"bio\":\"Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too\"},\"seenAt\":1607936584220,\"playTime\":{\"total\":8884,\"tv\":3334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":34,\"rated\":23,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":11,\"win\":18,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmagicionbot",
     "username": "chessmagicionbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 6,
-        "rating": 2185,
-        "rd": 186,
+        "games": 10,
+        "rating": 2170,
+        "rd": 157,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 1869,
-        "rd": 145,
+        "games": 10,
+        "rating": 1867,
+        "rd": 120,
         "prog": 0,
         "prov": true
       },
@@ -54,29 +54,31 @@
       }
     },
     "createdAt": 1607595611010,
-    "seenAt": 1607860593476,
+    "profile": {
+      "bio": "Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too"
+    },
+    "seenAt": 1607936584220,
     "playTime": {
-      "total": 7097,
+      "total": 8884,
       "tv": 3334
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chessmagicionbot",
-    "playing": "https://lichess.org/rSGfc9gA/white",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 24,
-      "rated": 16,
+      "all": 34,
+      "rated": 23,
       "ai": 5,
       "draw": 3,
       "drawH": 3,
-      "loss": 9,
-      "lossH": 7,
-      "win": 12,
-      "winH": 9,
+      "loss": 13,
+      "lossH": 11,
+      "win": 18,
+      "winH": 15,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
