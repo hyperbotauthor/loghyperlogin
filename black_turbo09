@@ -1,0 +1,96 @@
+{
+  "id": "black_turbo09",
+  "displayName": "Black_Turbo09",
+  "username": "Black_Turbo09",
+  "profileUrl": "https://lichess.org/@/Black_Turbo09",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"black_turbo09\",\"username\":\"Black_Turbo09\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":18,\"rating\":2225,\"rd\":94,\"prog\":99},\"puzzle\":{\"games\":134,\"rating\":2339,\"rd\":76,\"prog\":31},\"ultraBullet\":{\"games\":28,\"rating\":1995,\"rd\":85,\"prog\":78},\"bullet\":{\"games\":36,\"rating\":2176,\"rd\":74,\"prog\":-51},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2138,\"rd\":168,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1598030174947,\"profile\":{\"bio\":\"https://lichess.org/team/best-lichess-players\",\"firstName\":\"JAVAD\"},\"seenAt\":1608038081310,\"playTime\":{\"total\":18955,\"tv\":1830},\"language\":\"fa-IR\",\"url\":\"https://lichess.org/@/Black_Turbo09\",\"playing\":\"https://lichess.org/MWdvCiHj/black\",\"nbFollowing\":11,\"nbFollowers\":2,\"completionRate\":73,\"count\":{\"all\":117,\"rated\":110,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":56,\"lossH\":56,\"win\":53,\"winH\":53,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "black_turbo09",
+    "username": "Black_Turbo09",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 18,
+        "rating": 2225,
+        "rd": 94,
+        "prog": 99
+      },
+      "puzzle": {
+        "games": 134,
+        "rating": 2339,
+        "rd": 76,
+        "prog": 31
+      },
+      "ultraBullet": {
+        "games": 28,
+        "rating": 1995,
+        "rd": 85,
+        "prog": 78
+      },
+      "bullet": {
+        "games": 36,
+        "rating": 2176,
+        "rd": 74,
+        "prog": -51
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 7,
+        "rating": 2138,
+        "rd": 168,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1598030174947,
+    "profile": {
+      "bio": "https://lichess.org/team/best-lichess-players",
+      "firstName": "JAVAD"
+    },
+    "seenAt": 1608038081310,
+    "playTime": {
+      "total": 18955,
+      "tv": 1830
+    },
+    "language": "fa-IR",
+    "url": "https://lichess.org/@/Black_Turbo09",
+    "playing": "https://lichess.org/MWdvCiHj/black",
+    "nbFollowing": 11,
+    "nbFollowers": 2,
+    "completionRate": 73,
+    "count": {
+      "all": 117,
+      "rated": 110,
+      "ai": 0,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 56,
+      "lossH": 56,
+      "win": 53,
+      "winH": 53,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
