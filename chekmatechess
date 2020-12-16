@@ -4,16 +4,16 @@
   "username": "chekmatechess",
   "profileUrl": "https://lichess.org/@/chekmatechess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1293,\"rd\":302,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1258,\"rd\":399,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1459,\"rd\":441,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"My creater @kings627929bot\",\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1608012253227,\"playTime\":{\"total\":838,\"tv\":185},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":6,\"nbFollowers\":4,\"count\":{\"all\":26,\"rated\":4,\"ai\":14,\"draw\":2,\"drawH\":1,\"loss\":13,\"lossH\":11,\"win\":11,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1967,\"rd\":228,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1258,\"rd\":399,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1720,\"rd\":203,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1608090480513,\"playTime\":{\"total\":2033,\"tv\":427},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":6,\"nbFollowers\":7,\"count\":{\"all\":33,\"rated\":10,\"ai\":15,\"draw\":3,\"drawH\":2,\"loss\":16,\"lossH\":13,\"win\":14,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chekmatechess",
     "username": "chekmatechess",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1293,
-        "rd": 302,
+        "games": 4,
+        "rating": 1967,
+        "rd": 228,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1459,
-        "rd": 441,
+        "games": 4,
+        "rating": 1720,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
@@ -55,30 +55,29 @@
     },
     "createdAt": 1602568593277,
     "profile": {
-      "bio": "My creater @kings627929bot",
       "firstName": "Darsh",
       "lastName": "R."
     },
-    "seenAt": 1608012253227,
+    "seenAt": 1608090480513,
     "playTime": {
-      "total": 838,
-      "tv": 185
+      "total": 2033,
+      "tv": 427
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chekmatechess",
     "nbFollowing": 6,
-    "nbFollowers": 4,
+    "nbFollowers": 7,
     "count": {
-      "all": 26,
-      "rated": 4,
-      "ai": 14,
-      "draw": 2,
-      "drawH": 1,
-      "loss": 13,
-      "lossH": 11,
-      "win": 11,
-      "winH": 0,
+      "all": 33,
+      "rated": 10,
+      "ai": 15,
+      "draw": 3,
+      "drawH": 2,
+      "loss": 16,
+      "lossH": 13,
+      "win": 14,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
