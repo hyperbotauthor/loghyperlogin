@@ -1,0 +1,83 @@
+{
+  "id": "krishna1312",
+  "displayName": "krishna1312",
+  "username": "krishna1312",
+  "profileUrl": "https://lichess.org/@/krishna1312",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"krishna1312\",\"username\":\"krishna1312\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":68,\"rating\":2265,\"rd\":58,\"prog\":7},\"bullet\":{\"games\":77,\"rating\":2238,\"rd\":49,\"prog\":35},\"correspondence\":{\"games\":6,\"rating\":1770,\"rd\":230,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2281,\"rd\":210,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2285,\"rd\":103,\"prog\":97}},\"createdAt\":1604482063251,\"profile\":{\"country\":\"IN\",\"bio\":\"https://media.giphy.com/media/LwDqTLvIBk2kI089H6/giphy.gif\"},\"seenAt\":1608224393032,\"playTime\":{\"total\":65927,\"tv\":22803},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/krishna1312\",\"playing\":\"https://lichess.org/ECFVlNGH/black\",\"nbFollowing\":20,\"nbFollowers\":53,\"count\":{\"all\":231,\"rated\":180,\"ai\":4,\"draw\":9,\"drawH\":8,\"loss\":37,\"lossH\":35,\"win\":185,\"winH\":184,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "krishna1312",
+    "username": "krishna1312",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 68,
+        "rating": 2265,
+        "rd": 58,
+        "prog": 7
+      },
+      "bullet": {
+        "games": 77,
+        "rating": 2238,
+        "rd": 49,
+        "prog": 35
+      },
+      "correspondence": {
+        "games": 6,
+        "rating": 1770,
+        "rd": 230,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 5,
+        "rating": 2281,
+        "rd": 210,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 19,
+        "rating": 2285,
+        "rd": 103,
+        "prog": 97
+      }
+    },
+    "createdAt": 1604482063251,
+    "profile": {
+      "country": "IN",
+      "bio": "https://media.giphy.com/media/LwDqTLvIBk2kI089H6/giphy.gif"
+    },
+    "seenAt": 1608224393032,
+    "playTime": {
+      "total": 65927,
+      "tv": 22803
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/krishna1312",
+    "playing": "https://lichess.org/ECFVlNGH/black",
+    "nbFollowing": 20,
+    "nbFollowers": 53,
+    "count": {
+      "all": 231,
+      "rated": 180,
+      "ai": 4,
+      "draw": 9,
+      "drawH": 8,
+      "loss": 37,
+      "lossH": 35,
+      "win": 185,
+      "winH": 184,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
