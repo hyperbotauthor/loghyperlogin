@@ -1,0 +1,88 @@
+{
+  "id": "gmchessmapbuddy",
+  "displayName": "gmchessmapbuddy",
+  "username": "gmchessmapbuddy",
+  "profileUrl": "https://lichess.org/@/gmchessmapbuddy",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"gmchessmapbuddy\",\"username\":\"gmchessmapbuddy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1903,\"rd\":124,\"prog\":13,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2081,\"rd\":114,\"prog\":-24,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1365,\"rd\":356,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":2268,\"rd\":102,\"prog\":-132}},\"createdAt\":1605861650792,\"profile\":{\"country\":\"GB-ENG\",\"bio\":\"a bot for player to learn\",\"firstName\":\"jadhav\",\"lastName\":\"vikol\",\"fideRating\":1015,\"links\":\"chess.com\"},\"seenAt\":1608182347528,\"playTime\":{\"total\":23730,\"tv\":6710},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gmchessmapbuddy\",\"nbFollowing\":3,\"nbFollowers\":13,\"count\":{\"all\":79,\"rated\":60,\"ai\":2,\"draw\":9,\"drawH\":9,\"loss\":28,\"lossH\":26,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "gmchessmapbuddy",
+    "username": "gmchessmapbuddy",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 16,
+        "rating": 1903,
+        "rd": 124,
+        "prog": 13,
+        "prov": true
+      },
+      "bullet": {
+        "games": 20,
+        "rating": 2081,
+        "rd": 114,
+        "prog": -24,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1365,
+        "rd": 356,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 21,
+        "rating": 2268,
+        "rd": 102,
+        "prog": -132
+      }
+    },
+    "createdAt": 1605861650792,
+    "profile": {
+      "country": "GB-ENG",
+      "bio": "a bot for player to learn",
+      "firstName": "jadhav",
+      "lastName": "vikol",
+      "fideRating": 1015,
+      "links": "chess.com"
+    },
+    "seenAt": 1608182347528,
+    "playTime": {
+      "total": 23730,
+      "tv": 6710
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/gmchessmapbuddy",
+    "nbFollowing": 3,
+    "nbFollowers": 13,
+    "count": {
+      "all": 79,
+      "rated": 60,
+      "ai": 2,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 28,
+      "lossH": 26,
+      "win": 42,
+      "winH": 42,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
