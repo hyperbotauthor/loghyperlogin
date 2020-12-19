@@ -4,7 +4,7 @@
   "username": "chessmagicionbot",
   "profileUrl": "https://lichess.org/@/chessmagicionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2186,\"rd\":385,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1246,\"rd\":364,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2191,\"rd\":129,\"prog\":64,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1349,\"rd\":315,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":1881,\"rd\":109,\"prog\":43},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"profile\":{\"bio\":\"Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too\"},\"seenAt\":1608207401590,\"playTime\":{\"total\":12801,\"tv\":3630},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"playing\":\"https://lichess.org/5onGxHC0/white\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":50,\"rated\":33,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":19,\"lossH\":17,\"win\":26,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2186,\"rd\":385,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1246,\"rd\":364,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":363,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2191,\"rd\":129,\"prog\":64,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1349,\"rd\":315,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":1881,\"rd\":110,\"prog\":43,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"profile\":{\"bio\":\"Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too\"},\"seenAt\":1608361226988,\"playTime\":{\"total\":13601,\"tv\":3848},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"playing\":\"https://lichess.org/2B4zskJa/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":55,\"rated\":33,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":24,\"lossH\":22,\"win\":26,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmagicionbot",
     "username": "chessmagicionbot",
@@ -48,8 +48,9 @@
       "bullet": {
         "games": 12,
         "rating": 1881,
-        "rd": 109,
-        "prog": 43
+        "rd": 110,
+        "prog": 43,
+        "prov": true
       },
       "correspondence": {
         "games": 0,
@@ -77,25 +78,25 @@
     "profile": {
       "bio": "Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too"
     },
-    "seenAt": 1608207401590,
+    "seenAt": 1608361226988,
     "playTime": {
-      "total": 12801,
-      "tv": 3630
+      "total": 13601,
+      "tv": 3848
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chessmagicionbot",
-    "playing": "https://lichess.org/5onGxHC0/white",
+    "playing": "https://lichess.org/2B4zskJa/black",
     "nbFollowing": 0,
-    "nbFollowers": 3,
+    "nbFollowers": 2,
     "count": {
-      "all": 50,
+      "all": 55,
       "rated": 33,
       "ai": 5,
       "draw": 5,
       "drawH": 5,
-      "loss": 19,
-      "lossH": 17,
+      "loss": 24,
+      "lossH": 22,
       "win": 26,
       "winH": 23,
       "bookmark": 0,
