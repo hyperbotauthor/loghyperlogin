@@ -1,0 +1,90 @@
+{
+  "id": "betachessbot",
+  "displayName": "BetaChessBot",
+  "username": "BetaChessBot",
+  "profileUrl": "https://lichess.org/@/BetaChessBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"betachessbot\",\"username\":\"BetaChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2429,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2205,\"rd\":144,\"prog\":63,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2585,\"rd\":183,\"prog\":0,\"prov\":true}},\"createdAt\":1607774121143,\"profile\":{\"country\":\"_lichess\",\"bio\":\"In reality my name is BOT Beta and I play only bullet, blitz, rapid time controls and no ultrabullet. My creator is @Firerating and after about 300 followers I am going to challenge anybody just for fun. I like playing at a higher rating and soon going to reach 3000 but my real rating is 3517 by elo and may be lower or higher. You can also join my team (optional).\\r\\n\\r\\n\\r\\nhttps://i.imgur.com/BtkgL2P.jpg\",\"firstName\":\"BOT\",\"lastName\":\"Beta\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1608388769210,\"playTime\":{\"total\":7204,\"tv\":1690},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BetaChessBot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":52,\"rated\":35,\"ai\":17,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":2,\"win\":45,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "betachessbot",
+    "username": "BetaChessBot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 2429,
+        "rd": 245,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 20,
+        "rating": 2205,
+        "rd": 144,
+        "prog": 63,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 2585,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1607774121143,
+    "profile": {
+      "country": "_lichess",
+      "bio": "In reality my name is BOT Beta and I play only bullet, blitz, rapid time controls and no ultrabullet. My creator is @Firerating and after about 300 followers I am going to challenge anybody just for fun. I like playing at a higher rating and soon going to reach 3000 but my real rating is 3517 by elo and may be lower or higher. You can also join my team (optional).\r\n\r\n\r\nhttps://i.imgur.com/BtkgL2P.jpg",
+      "firstName": "BOT",
+      "lastName": "Beta",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000
+    },
+    "seenAt": 1608388769210,
+    "playTime": {
+      "total": 7204,
+      "tv": 1690
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/BetaChessBot",
+    "nbFollowing": 1,
+    "nbFollowers": 2,
+    "count": {
+      "all": 52,
+      "rated": 35,
+      "ai": 17,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 2,
+      "win": 45,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
