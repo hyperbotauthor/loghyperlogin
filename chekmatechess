@@ -4,7 +4,7 @@
   "username": "chekmatechess",
   "profileUrl": "https://lichess.org/@/chekmatechess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1831,\"rd\":297,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1487,\"rd\":209,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1691,\"rd\":280,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":2048,\"rd\":188,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":313,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1860,\"rd\":135,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2566,\"rd\":290,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .  But my performance has reached down so i was repaired by @pranavsupramaniyam . Thanks to him i am working great also challenge my friends bot @skyblaster and @chessmagicionbot\",\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1608269178692,\"playTime\":{\"total\":6956,\"tv\":1116},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":6,\"nbFollowers\":12,\"count\":{\"all\":69,\"rated\":31,\"ai\":15,\"draw\":3,\"drawH\":2,\"loss\":27,\"lossH\":24,\"win\":39,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1831,\"rd\":297,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1487,\"rd\":209,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1691,\"rd\":281,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":2048,\"rd\":188,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":313,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1901,\"rd\":126,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2566,\"rd\":290,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .  But my performance has reached down so i was repaired by @pranavsupramaniyam . Thanks to him i am working great also challenge my friends bot @skyblaster and @chessmagicionbot\",\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1608448361587,\"playTime\":{\"total\":7047,\"tv\":1116},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":6,\"nbFollowers\":12,\"count\":{\"all\":70,\"rated\":32,\"ai\":15,\"draw\":3,\"drawH\":2,\"loss\":27,\"lossH\":24,\"win\":40,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chekmatechess",
     "username": "chekmatechess",
@@ -27,7 +27,7 @@
       "racingKings": {
         "games": 3,
         "rating": 1691,
-        "rd": 280,
+        "rd": 281,
         "prog": 0,
         "prov": true
       },
@@ -46,9 +46,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 1860,
-        "rd": 135,
+        "games": 10,
+        "rating": 1901,
+        "rd": 126,
         "prog": 0,
         "prov": true
       },
@@ -80,9 +80,9 @@
       "firstName": "Darsh",
       "lastName": "R."
     },
-    "seenAt": 1608269178692,
+    "seenAt": 1608448361587,
     "playTime": {
-      "total": 6956,
+      "total": 7047,
       "tv": 1116
     },
     "language": "en-US",
@@ -91,15 +91,15 @@
     "nbFollowing": 6,
     "nbFollowers": 12,
     "count": {
-      "all": 69,
-      "rated": 31,
+      "all": 70,
+      "rated": 32,
       "ai": 15,
       "draw": 3,
       "drawH": 2,
       "loss": 27,
       "lossH": 24,
-      "win": 39,
-      "winH": 28,
+      "win": 40,
+      "winH": 29,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
