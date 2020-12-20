@@ -1,0 +1,87 @@
+{
+  "id": "captain2021",
+  "displayName": "Captain2021",
+  "username": "Captain2021",
+  "profileUrl": "https://lichess.org/@/Captain2021",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"captain2021\",\"username\":\"Captain2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":1513,\"rd\":95,\"prog\":49},\"puzzle\":{\"games\":27,\"rating\":2604,\"rd\":102,\"prog\":-24},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1724,\"rd\":289,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1685,\"rd\":141,\"prog\":45,\"prov\":true}},\"createdAt\":1607576216981,\"profile\":{},\"seenAt\":1608475439432,\"playTime\":{\"total\":10729,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Captain2021\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":71,\"count\":{\"all\":42,\"rated\":38,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":14,\"lossH\":13,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "captain2021",
+    "username": "Captain2021",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 22,
+        "rating": 1513,
+        "rd": 95,
+        "prog": 49
+      },
+      "puzzle": {
+        "games": 27,
+        "rating": 2604,
+        "rd": 102,
+        "prog": -24
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1724,
+        "rd": 289,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 14,
+        "rating": 1685,
+        "rd": 141,
+        "prog": 45,
+        "prov": true
+      }
+    },
+    "createdAt": 1607576216981,
+    "profile": {},
+    "seenAt": 1608475439432,
+    "playTime": {
+      "total": 10729,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Captain2021",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 71,
+    "count": {
+      "all": 42,
+      "rated": 38,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 14,
+      "lossH": 13,
+      "win": 26,
+      "winH": 26,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
