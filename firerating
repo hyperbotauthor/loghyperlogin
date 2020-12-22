@@ -1,0 +1,91 @@
+{
+  "id": "firerating",
+  "displayName": "Firerating",
+  "username": "Firerating",
+  "profileUrl": "https://lichess.org/@/Firerating",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"firerating\",\"username\":\"Firerating\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":41,\"rating\":2628,\"rd\":97,\"prog\":6},\"bullet\":{\"games\":12,\"rating\":1702,\"rd\":105,\"prog\":30},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1608050714603,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I have created the BOT BetaChessBot(@betachessbot). I am 13 minus 1 years old.\\r\\n\\r\\n\\r\\nhttps://i.imgur.com/UCp3NXn.png\",\"fideRating\":1430},\"seenAt\":1608625795546,\"playTime\":{\"total\":4290,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Firerating\",\"nbFollowing\":4,\"nbFollowers\":0,\"completionRate\":100,\"count\":{\"all\":74,\"rated\":12,\"ai\":50,\"draw\":2,\"drawH\":1,\"loss\":50,\"lossH\":8,\"win\":22,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "firerating",
+    "username": "Firerating",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 41,
+        "rating": 2628,
+        "rd": 97,
+        "prog": 6
+      },
+      "bullet": {
+        "games": 12,
+        "rating": 1702,
+        "rd": 105,
+        "prog": 30
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1608050714603,
+    "profile": {
+      "country": "_lichess",
+      "bio": "I have created the BOT BetaChessBot(@betachessbot). I am 13 minus 1 years old.\r\n\r\n\r\nhttps://i.imgur.com/UCp3NXn.png",
+      "fideRating": 1430
+    },
+    "seenAt": 1608625795546,
+    "playTime": {
+      "total": 4290,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Firerating",
+    "nbFollowing": 4,
+    "nbFollowers": 0,
+    "completionRate": 100,
+    "count": {
+      "all": 74,
+      "rated": 12,
+      "ai": 50,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 50,
+      "lossH": 8,
+      "win": 22,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
