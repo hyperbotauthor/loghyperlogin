@@ -4,16 +4,23 @@
   "username": "chessmagicionbot",
   "profileUrl": "https://lichess.org/@/chessmagicionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2186,\"rd\":385,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1246,\"rd\":364,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":364,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2184,\"rd\":123,\"prog\":57,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1349,\"rd\":315,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1890,\"rd\":108,\"prog\":52},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"profile\":{\"bio\":\"Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too\"},\"seenAt\":1608479202170,\"playTime\":{\"total\":14817,\"tv\":4000},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":59,\"rated\":35,\"ai\":6,\"draw\":6,\"drawH\":6,\"loss\":25,\"lossH\":22,\"win\":28,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmagicionbot\",\"username\":\"chessmagicionbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":2186,\"rd\":386,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1246,\"rd\":364,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1673,\"rd\":364,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2184,\"rd\":124,\"prog\":57,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1349,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1890,\"rd\":108,\"prog\":52},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2235,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1607595611010,\"profile\":{\"bio\":\"Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too\"},\"seenAt\":1608696185675,\"playTime\":{\"total\":16134,\"tv\":4136},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessmagicionbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":65,\"rated\":36,\"ai\":6,\"draw\":6,\"drawH\":6,\"loss\":28,\"lossH\":25,\"win\":31,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmagicionbot",
     "username": "chessmagicionbot",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
       "antichess": {
         "games": 2,
         "rating": 2186,
-        "rd": 385,
+        "rd": 386,
         "prog": 0,
         "prov": true
       },
@@ -34,14 +41,14 @@
       "blitz": {
         "games": 15,
         "rating": 2184,
-        "rd": 123,
+        "rd": 124,
         "prog": 57,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1349,
-        "rd": 315,
+        "rd": 316,
         "prog": 0,
         "prov": true
       },
@@ -77,10 +84,10 @@
     "profile": {
       "bio": "Hello guys! I am a bot made by @fiercedragontrainer  , @skyring  and @thunderstormsrider my brother is @skyblaster  feel free to challenge him and me too"
     },
-    "seenAt": 1608479202170,
+    "seenAt": 1608696185675,
     "playTime": {
-      "total": 14817,
-      "tv": 4000
+      "total": 16134,
+      "tv": 4136
     },
     "language": "en-US",
     "title": "BOT",
@@ -88,15 +95,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 59,
-      "rated": 35,
+      "all": 65,
+      "rated": 36,
       "ai": 6,
       "draw": 6,
       "drawH": 6,
-      "loss": 25,
-      "lossH": 22,
-      "win": 28,
-      "winH": 25,
+      "loss": 28,
+      "lossH": 25,
+      "win": 31,
+      "winH": 28,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
