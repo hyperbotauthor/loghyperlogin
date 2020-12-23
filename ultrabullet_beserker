@@ -4,25 +4,24 @@
   "username": "UltraBullet_Beserker",
   "profileUrl": "https://lichess.org/@/UltraBullet_Beserker",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ultrabullet_beserker\",\"username\":\"UltraBullet_Beserker\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2258,\"rd\":227,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":2447,\"rd\":149,\"prog\":43,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2494,\"rd\":237,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":487,\"prog\":0,\"prov\":true}},\"createdAt\":1608519110209,\"profile\":{\"country\":\"LK\",\"location\":\"Colombo\",\"firstName\":\"UltraBullet\",\"lastName\":\"Beserker\"},\"seenAt\":1608538113183,\"playTime\":{\"total\":7295,\"tv\":4353},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/UltraBullet_Beserker\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":38,\"rated\":36,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":38,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ultrabullet_beserker\",\"username\":\"UltraBullet_Beserker\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2365,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":59,\"rating\":2413,\"rd\":104,\"prog\":21},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2561,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2822,\"rd\":161,\"prog\":0,\"prov\":true}},\"createdAt\":1608519110209,\"profile\":{\"country\":\"LK\",\"location\":\"Colombo\",\"bio\":\"https://i.imgur.com/bU62nii.jpg\\r\\nhttps://i.imgur.com/YVD2tfh.jpg\\r\\nhttps://i.imgur.com/72zx4Ra.jpg\",\"firstName\":\"UltraBullet\",\"lastName\":\"Berserker\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1608704056056,\"playTime\":{\"total\":22965,\"tv\":10255},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/UltraBullet_Beserker\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":93,\"rated\":85,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":89,\"winH\":88,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ultrabullet_beserker",
     "username": "UltraBullet_Beserker",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2258,
-        "rd": 227,
+        "games": 10,
+        "rating": 2365,
+        "rd": 170,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 28,
-        "rating": 2447,
-        "rd": 149,
-        "prog": 43,
-        "prov": true
+        "games": 59,
+        "rating": 2413,
+        "rd": 104,
+        "prog": 21
       },
       "correspondence": {
         "games": 0,
@@ -32,16 +31,16 @@
         "prov": true
       },
       "classical": {
-        "games": 3,
-        "rating": 2494,
-        "rd": 237,
+        "games": 5,
+        "rating": 2561,
+        "rd": 199,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2249,
-        "rd": 487,
+        "games": 11,
+        "rating": 2822,
+        "rd": 161,
         "prog": 0,
         "prov": true
       }
@@ -50,13 +49,17 @@
     "profile": {
       "country": "LK",
       "location": "Colombo",
+      "bio": "https://i.imgur.com/bU62nii.jpg\r\nhttps://i.imgur.com/YVD2tfh.jpg\r\nhttps://i.imgur.com/72zx4Ra.jpg",
       "firstName": "UltraBullet",
-      "lastName": "Beserker"
+      "lastName": "Berserker",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000
     },
-    "seenAt": 1608538113183,
+    "seenAt": 1608704056056,
     "playTime": {
-      "total": 7295,
-      "tv": 4353
+      "total": 22965,
+      "tv": 10255
     },
     "language": "en-US",
     "title": "BOT",
@@ -64,15 +67,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 38,
-      "rated": 36,
+      "all": 93,
+      "rated": 85,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 38,
-      "winH": 37,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 89,
+      "winH": 88,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
