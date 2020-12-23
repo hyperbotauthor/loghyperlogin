@@ -1,0 +1,82 @@
+{
+  "id": "fralabibot",
+  "displayName": "fralabiBOT",
+  "username": "fralabiBOT",
+  "profileUrl": "https://lichess.org/@/fralabiBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"fralabibot\",\"username\":\"fralabiBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1608751405841,\"seenAt\":1608754624805,\"playTime\":{\"total\":191,\"tv\":0},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/fralabiBOT\",\"playing\":\"https://lichess.org/sMrJfhCM/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":0,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "fralabibot",
+    "username": "fralabiBOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1608751405841,
+    "seenAt": 1608754624805,
+    "playTime": {
+      "total": 191,
+      "tv": 0
+    },
+    "language": "it-IT",
+    "title": "BOT",
+    "url": "https://lichess.org/@/fralabiBOT",
+    "playing": "https://lichess.org/sMrJfhCM/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 2,
+      "rated": 0,
+      "ai": 2,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
