@@ -4,30 +4,30 @@
   "username": "RandomTree77",
   "profileUrl": "https://lichess.org/@/RandomTree77",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree77\",\"username\":\"RandomTree77\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2451,\"rd\":99,\"prog\":54},\"atomic\":{\"games\":2,\"rating\":1041,\"rd\":317,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":2444,\"rd\":73,\"prog\":-4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":2741,\"rd\":131,\"prog\":-54,\"prov\":true}},\"createdAt\":1605656660128,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, make sure to check my brother's account, @RandomTree66! Feel free to challenge me! Everyone knows Stockfish Level 8 is so easy to beat these days...  https://lichess.org/KhOMzVoNkygk , https://lichess.org/YFizYOg1YPKH , https://lichess.org/SRu4hd8qZ92R ,https://lichess.org/vM0GvJUEy6xS, https://lichess.org/HPxrGF622puz, and more... @ExplosiveNitrogen is my creator\"},\"seenAt\":1606926697484,\"playTime\":{\"total\":108655,\"tv\":23972},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree77\",\"nbFollowing\":173,\"nbFollowers\":31,\"count\":{\"all\":207,\"rated\":89,\"ai\":49,\"draw\":27,\"drawH\":27,\"loss\":39,\"lossH\":28,\"win\":141,\"winH\":103,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree77\",\"username\":\"RandomTree77\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":33,\"rating\":2359,\"rd\":92,\"prog\":-93},\"atomic\":{\"games\":2,\"rating\":1041,\"rd\":319,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":38,\"rating\":2444,\"rd\":80,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":26,\"rating\":2601,\"rd\":109,\"prog\":-243}},\"createdAt\":1605656660128,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, make sure to check my brother's account, @RandomTree66! Feel free to challenge me(I am stronger than most humans, If you want an adaptive player to play with you, then play my brother). @ExplosiveNitrogen is my creator.\",\"firstName\":\"Random\",\"lastName\":\"Tree model77\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1608763047081,\"playTime\":{\"total\":143825,\"tv\":31938},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree77\",\"nbFollowing\":186,\"nbFollowers\":42,\"count\":{\"all\":258,\"rated\":107,\"ai\":56,\"draw\":32,\"drawH\":32,\"loss\":50,\"lossH\":38,\"win\":176,\"winH\":132,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree77",
     "username": "RandomTree77",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 26,
-        "rating": 2451,
-        "rd": 99,
-        "prog": 54
+        "games": 33,
+        "rating": 2359,
+        "rd": 92,
+        "prog": -93
       },
       "atomic": {
         "games": 2,
         "rating": 1041,
-        "rd": 317,
+        "rd": 319,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 37,
+        "games": 38,
         "rating": 2444,
-        "rd": 73,
-        "prog": -4
+        "rd": 80,
+        "prog": 17
       },
       "correspondence": {
         "games": 0,
@@ -44,38 +44,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 17,
-        "rating": 2741,
-        "rd": 131,
-        "prog": -54,
-        "prov": true
+        "games": 26,
+        "rating": 2601,
+        "rd": 109,
+        "prog": -243
       }
     },
     "createdAt": 1605656660128,
     "profile": {
       "country": "_lichess",
-      "bio": "Hello, make sure to check my brother's account, @RandomTree66! Feel free to challenge me! Everyone knows Stockfish Level 8 is so easy to beat these days...  https://lichess.org/KhOMzVoNkygk , https://lichess.org/YFizYOg1YPKH , https://lichess.org/SRu4hd8qZ92R ,https://lichess.org/vM0GvJUEy6xS, https://lichess.org/HPxrGF622puz, and more... @ExplosiveNitrogen is my creator"
+      "bio": "Hello, make sure to check my brother's account, @RandomTree66! Feel free to challenge me(I am stronger than most humans, If you want an adaptive player to play with you, then play my brother). @ExplosiveNitrogen is my creator.",
+      "firstName": "Random",
+      "lastName": "Tree model77",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000
     },
-    "seenAt": 1606926697484,
+    "seenAt": 1608763047081,
     "playTime": {
-      "total": 108655,
-      "tv": 23972
+      "total": 143825,
+      "tv": 31938
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomTree77",
-    "nbFollowing": 173,
-    "nbFollowers": 31,
+    "nbFollowing": 186,
+    "nbFollowers": 42,
     "count": {
-      "all": 207,
-      "rated": 89,
-      "ai": 49,
-      "draw": 27,
-      "drawH": 27,
-      "loss": 39,
-      "lossH": 28,
-      "win": 141,
-      "winH": 103,
+      "all": 258,
+      "rated": 107,
+      "ai": 56,
+      "draw": 32,
+      "drawH": 32,
+      "loss": 50,
+      "lossH": 38,
+      "win": 176,
+      "winH": 132,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
