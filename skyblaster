@@ -4,7 +4,7 @@
   "username": "SkyBlaster",
   "profileUrl": "https://lichess.org/@/SkyBlaster",
   "provider": "lichess",
-  "_raw": "{\"id\":\"skyblaster\",\"username\":\"SkyBlaster\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2276,\"rd\":119,\"prog\":-13,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1810,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":66,\"rating\":2061,\"rd\":64,\"prog\":6},\"correspondence\":{\"games\":5,\"rating\":1828,\"rd\":175,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1983,\"rd\":254,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":25,\"rating\":2273,\"rd\":107,\"prog\":-71}},\"createdAt\":1606972857674,\"profile\":{\"country\":\"_lichess\",\"location\":\"Galaxy\",\"bio\":\"I am the master of  chess.IF YOU HAVE BRAVENESS CHALLENGE ME OR LEAVE ME ALONE !!:) .The one who challenges me will end as being so sorry .Beware i will  make the most tricky moves that you can never imagine .My MASTER and creator is @pranavsupramaniyam the best   and also @galaxy_PEGASIS\\r\\n                                                                                                                                                                                                                                                        +   )\"},\"seenAt\":1608891485895,\"playTime\":{\"total\":52781,\"tv\":12449},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SkyBlaster\",\"nbFollowing\":1,\"nbFollowers\":15,\"count\":{\"all\":376,\"rated\":123,\"ai\":180,\"draw\":15,\"drawH\":15,\"loss\":81,\"lossH\":49,\"win\":280,\"winH\":132,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"skyblaster\",\"username\":\"SkyBlaster\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2276,\"rd\":120,\"prog\":-13,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1810,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":66,\"rating\":2061,\"rd\":65,\"prog\":6},\"correspondence\":{\"games\":5,\"rating\":1828,\"rd\":175,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1983,\"rd\":254,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":25,\"rating\":2273,\"rd\":108,\"prog\":-71}},\"createdAt\":1606972857674,\"profile\":{\"country\":\"_lichess\",\"location\":\"Galaxy\",\"bio\":\"I am the master of  chess.IF YOU HAVE BRAVENESS CHALLENGE ME OR LEAVE ME ALONE !!:) .The one who challenges me will end as being so sorry .Beware i will  make the most tricky moves that you can never imagine .My MASTER and creator is @pranavsupramaniyam the best   and also @galaxy_PEGASIS\\r\\n                                                                                                                                                                                                                                                        +   )\"},\"seenAt\":1609081372355,\"playTime\":{\"total\":52781,\"tv\":12449},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SkyBlaster\",\"playing\":\"https://lichess.org/NZllowHk/white\",\"nbFollowing\":1,\"nbFollowers\":14,\"count\":{\"all\":376,\"rated\":123,\"ai\":180,\"draw\":15,\"drawH\":15,\"loss\":81,\"lossH\":49,\"win\":280,\"winH\":132,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "skyblaster",
     "username": "SkyBlaster",
@@ -13,21 +13,21 @@
       "blitz": {
         "games": 14,
         "rating": 2276,
-        "rd": 119,
+        "rd": 120,
         "prog": -13,
         "prov": true
       },
       "atomic": {
         "games": 5,
         "rating": 1810,
-        "rd": 196,
+        "rd": 197,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 66,
         "rating": 2061,
-        "rd": 64,
+        "rd": 65,
         "prog": 6
       },
       "correspondence": {
@@ -47,7 +47,7 @@
       "rapid": {
         "games": 25,
         "rating": 2273,
-        "rd": 107,
+        "rd": 108,
         "prog": -71
       }
     },
@@ -57,7 +57,7 @@
       "location": "Galaxy",
       "bio": "I am the master of  chess.IF YOU HAVE BRAVENESS CHALLENGE ME OR LEAVE ME ALONE !!:) .The one who challenges me will end as being so sorry .Beware i will  make the most tricky moves that you can never imagine .My MASTER and creator is @pranavsupramaniyam the best   and also @galaxy_PEGASIS\r\n                                                                                                                                                                                                                                                        +   )"
     },
-    "seenAt": 1608891485895,
+    "seenAt": 1609081372355,
     "playTime": {
       "total": 52781,
       "tv": 12449
@@ -65,8 +65,9 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/SkyBlaster",
+    "playing": "https://lichess.org/NZllowHk/white",
     "nbFollowing": 1,
-    "nbFollowers": 15,
+    "nbFollowers": 14,
     "count": {
       "all": 376,
       "rated": 123,
@@ -78,7 +79,7 @@
       "win": 280,
       "winH": 132,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
