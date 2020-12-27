@@ -4,24 +4,24 @@
   "username": "Single_Lion",
   "profileUrl": "https://lichess.org/@/Single_Lion",
   "provider": "lichess",
-  "_raw": "{\"id\":\"single_lion\",\"username\":\"Single_Lion\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2608,\"rd\":146,\"prog\":21,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2270,\"rd\":120,\"prog\":-2,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":16,\"rating\":2429,\"rd\":110,\"prog\":149,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2716,\"rd\":202,\"prog\":0,\"prov\":true}},\"createdAt\":1608262895044,\"profile\":{\"country\":\"LK\",\"firstName\":\"Single\",\"lastName\":\"Lion\"},\"seenAt\":1608519287901,\"playTime\":{\"total\":28182,\"tv\":8289},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Single_Lion\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":60,\"rated\":56,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":53,\"winH\":52,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"single_lion\",\"username\":\"Single_Lion\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2372,\"rd\":147,\"prog\":-215,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2215,\"rd\":116,\"prog\":99,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":16,\"rating\":2429,\"rd\":112,\"prog\":149,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2716,\"rd\":202,\"prog\":0,\"prov\":true}},\"createdAt\":1608262895044,\"profile\":{\"country\":\"LK\",\"firstName\":\"Single\",\"lastName\":\"Lion\"},\"seenAt\":1609063052645,\"playTime\":{\"total\":29482,\"tv\":9334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Single_Lion\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":68,\"rated\":60,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":14,\"lossH\":13,\"win\":54,\"winH\":53,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "single_lion",
     "username": "Single_Lion",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 12,
-        "rating": 2608,
-        "rd": 146,
-        "prog": 21,
+        "games": 14,
+        "rating": 2372,
+        "rd": 147,
+        "prog": -215,
         "prov": true
       },
       "bullet": {
-        "games": 23,
-        "rating": 2270,
-        "rd": 120,
-        "prog": -2,
+        "games": 24,
+        "rating": 2215,
+        "rd": 116,
+        "prog": 99,
         "prov": true
       },
       "correspondence": {
@@ -34,7 +34,7 @@
       "classical": {
         "games": 16,
         "rating": 2429,
-        "rd": 110,
+        "rd": 112,
         "prog": 149,
         "prov": true
       },
@@ -52,10 +52,10 @@
       "firstName": "Single",
       "lastName": "Lion"
     },
-    "seenAt": 1608519287901,
+    "seenAt": 1609063052645,
     "playTime": {
-      "total": 28182,
-      "tv": 8289
+      "total": 29482,
+      "tv": 9334
     },
     "language": "en-US",
     "title": "BOT",
@@ -63,15 +63,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 60,
-      "rated": 56,
-      "ai": 1,
+      "all": 68,
+      "rated": 60,
+      "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 7,
-      "lossH": 7,
-      "win": 53,
-      "winH": 52,
+      "loss": 14,
+      "lossH": 13,
+      "win": 54,
+      "winH": 53,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
