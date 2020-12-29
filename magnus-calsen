@@ -4,16 +4,16 @@
   "username": "Magnus-Calsen",
   "profileUrl": "https://lichess.org/@/Magnus-Calsen",
   "provider": "lichess",
-  "_raw": "{\"id\":\"magnus-calsen\",\"username\":\"Magnus-Calsen\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609140542230,\"seenAt\":1609213805501,\"playTime\":{\"total\":393,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Magnus-Calsen\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"magnus-calsen\",\"username\":\"Magnus-Calsen\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2214,\"rd\":373,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":469,\"prog\":0,\"prov\":true}},\"createdAt\":1609140542230,\"profile\":{\"country\":\"NO\",\"firstName\":\"Magnus\",\"lastName\":\"Carlsen\",\"fideRating\":2883},\"seenAt\":1609218397550,\"playTime\":{\"total\":1407,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Magnus-Calsen\",\"playing\":\"https://lichess.org/0uBDCwT8/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":2,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "magnus-calsen",
     "username": "Magnus-Calsen",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2214,
+        "rd": 373,
         "prog": 0,
         "prov": true
       },
@@ -39,36 +39,43 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2249,
+        "rd": 469,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1609140542230,
-    "seenAt": 1609213805501,
+    "profile": {
+      "country": "NO",
+      "firstName": "Magnus",
+      "lastName": "Carlsen",
+      "fideRating": 2883
+    },
+    "seenAt": 1609218397550,
     "playTime": {
-      "total": 393,
+      "total": 1407,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Magnus-Calsen",
+    "playing": "https://lichess.org/0uBDCwT8/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 0,
+      "all": 4,
+      "rated": 2,
       "ai": 1,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 2,
-      "winH": 1,
+      "win": 4,
+      "winH": 3,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
