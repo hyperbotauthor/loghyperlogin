@@ -4,16 +4,16 @@
   "username": "SriLankan-Chess",
   "profileUrl": "https://lichess.org/@/SriLankan-Chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"srilankan-chess\",\"username\":\"SriLankan-Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609234245331,\"seenAt\":1609234292741,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/SriLankan-Chess\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"srilankan-chess\",\"username\":\"SriLankan-Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2214,\"rd\":374,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":465,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":467,\"prog\":0,\"prov\":true}},\"createdAt\":1609234245331,\"profile\":{\"country\":\"LK\",\"location\":\"Colombo\",\"firstName\":\"SriLankan\",\"lastName\":\"Chess\",\"fideRating\":3000},\"seenAt\":1609299073709,\"playTime\":{\"total\":2762,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SriLankan-Chess\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "srilankan-chess",
     "username": "SriLankan-Chess",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2214,
+        "rd": 374,
         "prog": 0,
         "prov": true
       },
@@ -32,46 +32,54 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2221,
+        "rd": 465,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2249,
+        "rd": 467,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1609234245331,
-    "seenAt": 1609234292741,
+    "profile": {
+      "country": "LK",
+      "location": "Colombo",
+      "firstName": "SriLankan",
+      "lastName": "Chess",
+      "fideRating": 3000
+    },
+    "seenAt": 1609299073709,
     "playTime": {
-      "total": 0,
+      "total": 2762,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/SriLankan-Chess",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 3,
+      "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
       "me": 0
     },
-    "followable": true,
+    "followable": false,
     "following": false,
     "blocking": false,
     "followsYou": false
