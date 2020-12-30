@@ -4,44 +4,51 @@
   "username": "Stockfish_12_Bot",
   "profileUrl": "https://lichess.org/@/Stockfish_12_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfish_12_bot\",\"username\":\"Stockfish_12_Bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1472,\"rd\":460,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":27,\"rating\":2350,\"rd\":82,\"prog\":5},\"kingOfTheHill\":{\"games\":1,\"rating\":1396,\"rd\":393,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1377,\"rd\":393,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":273,\"rating\":2462,\"rd\":45,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605981523356,\"profile\":{\"bio\":\"Stockfish 12 running. My owner in @Stockfish_12_Master.  Join Team - https://lichess.org/team/stockfish_12_bot-fan-club to become my fan and get amazing rewards! I am the elder brother of @Stockfish_Multi_Bot\\r\\nhttps://i.imgur.com/0IvL10Q.jpg\\r\\nhttps://i.imgur.com/BuxMLVi.jpg\",\"firstName\":\"Stockfish 12\",\"links\":\"https://lichess.org/rM9qhtPG\\r\\nhttps://lichess.org/2y403tkxx1m6\\r\\nhttps://lichess.org/B6icRsqtctv3\\r\\nhttps://lichess.org/Xtf2UXKq\\r\\nhttps://lichess.org/4UAJQKqu\"},\"seenAt\":1606655255229,\"playTime\":{\"total\":34524,\"tv\":14122},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Stockfish_12_Bot\",\"nbFollowing\":7,\"nbFollowers\":39,\"count\":{\"all\":516,\"rated\":307,\"ai\":49,\"draw\":79,\"drawH\":72,\"loss\":157,\"lossH\":128,\"win\":280,\"winH\":267,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfish_12_bot\",\"username\":\"Stockfish_12_Bot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":9,\"rating\":2049,\"rd\":148,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1472,\"rd\":462,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":2396,\"rd\":68,\"prog\":28},\"kingOfTheHill\":{\"games\":1,\"rating\":1396,\"rd\":395,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1377,\"rd\":395,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":396,\"rating\":2593,\"rd\":56,\"prog\":19},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1443,\"rd\":455,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2537,\"rd\":111,\"prog\":154,\"prov\":true}},\"createdAt\":1605981523356,\"profile\":{\"bio\":\"Stockfish is a free and open-source chess engine, available for various desktop and mobile platforms.\\r\\nInitial release: November 2, 2008\\r\\nStable release: 12 / September 2, 2020\\r\\nOperating system: Microsoft Windows; macOS; Linux; iOS; Android\\r\\nLicense: GPLv3\\r\\nProgramming language: C++\\r\\nhttps://i.imgur.com/0IvL10Q.jpg\\r\\nhttps://i.imgur.com/BuxMLVi.jpg\",\"firstName\":\"Stockfish 12\",\"links\":\"https://lichess.org/rM9qhtPG\\r\\nhttps://lichess.org/2y403tkxx1m6\\r\\nhttps://lichess.org/B6icRsqtctv3\\r\\nhttps://lichess.org/Xtf2UXKq\\r\\nhttps://lichess.org/4UAJQKqu\"},\"seenAt\":1609304872480,\"playTime\":{\"total\":170823,\"tv\":65219},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Stockfish_12_Bot\",\"playing\":\"https://lichess.org/wElKtbIq/black\",\"nbFollowing\":8,\"nbFollowers\":59,\"count\":{\"all\":1239,\"rated\":491,\"ai\":70,\"draw\":296,\"drawH\":282,\"loss\":329,\"lossH\":291,\"win\":614,\"winH\":596,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfish_12_bot",
     "username": "Stockfish_12_Bot",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 9,
+        "rating": 2049,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
       "antichess": {
         "games": 1,
         "rating": 1472,
-        "rd": 460,
+        "rd": 462,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 27,
-        "rating": 2350,
-        "rd": 82,
-        "prog": 5
+        "games": 56,
+        "rating": 2396,
+        "rd": 68,
+        "prog": 28
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1396,
-        "rd": 393,
+        "rd": 395,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 1377,
-        "rd": 393,
+        "rd": 395,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 273,
-        "rating": 2462,
-        "rd": 45,
-        "prog": 15
+        "games": 396,
+        "rating": 2593,
+        "rd": 56,
+        "prog": 19
       },
       "correspondence": {
         "games": 0,
@@ -51,48 +58,49 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1443,
+        "rd": 455,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 18,
+        "rating": 2537,
+        "rd": 111,
+        "prog": 154,
         "prov": true
       }
     },
     "createdAt": 1605981523356,
     "profile": {
-      "bio": "Stockfish 12 running. My owner in @Stockfish_12_Master.  Join Team - https://lichess.org/team/stockfish_12_bot-fan-club to become my fan and get amazing rewards! I am the elder brother of @Stockfish_Multi_Bot\r\nhttps://i.imgur.com/0IvL10Q.jpg\r\nhttps://i.imgur.com/BuxMLVi.jpg",
+      "bio": "Stockfish is a free and open-source chess engine, available for various desktop and mobile platforms.\r\nInitial release: November 2, 2008\r\nStable release: 12 / September 2, 2020\r\nOperating system: Microsoft Windows; macOS; Linux; iOS; Android\r\nLicense: GPLv3\r\nProgramming language: C++\r\nhttps://i.imgur.com/0IvL10Q.jpg\r\nhttps://i.imgur.com/BuxMLVi.jpg",
       "firstName": "Stockfish 12",
       "links": "https://lichess.org/rM9qhtPG\r\nhttps://lichess.org/2y403tkxx1m6\r\nhttps://lichess.org/B6icRsqtctv3\r\nhttps://lichess.org/Xtf2UXKq\r\nhttps://lichess.org/4UAJQKqu"
     },
-    "seenAt": 1606655255229,
+    "seenAt": 1609304872480,
     "playTime": {
-      "total": 34524,
-      "tv": 14122
+      "total": 170823,
+      "tv": 65219
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Stockfish_12_Bot",
-    "nbFollowing": 7,
-    "nbFollowers": 39,
+    "playing": "https://lichess.org/wElKtbIq/black",
+    "nbFollowing": 8,
+    "nbFollowers": 59,
     "count": {
-      "all": 516,
-      "rated": 307,
-      "ai": 49,
-      "draw": 79,
-      "drawH": 72,
-      "loss": 157,
-      "lossH": 128,
-      "win": 280,
-      "winH": 267,
+      "all": 1239,
+      "rated": 491,
+      "ai": 70,
+      "draw": 296,
+      "drawH": 282,
+      "loss": 329,
+      "lossH": 291,
+      "win": 614,
+      "winH": 596,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
