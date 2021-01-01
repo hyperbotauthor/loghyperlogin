@@ -4,24 +4,38 @@
   "username": "Adityavbhat-bot",
   "profileUrl": "https://lichess.org/@/Adityavbhat-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adityavbhat-bot\",\"username\":\"Adityavbhat-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1608614982590,\"seenAt\":1608615440275,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Adityavbhat-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adityavbhat-bot\",\"username\":\"Adityavbhat-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":16,\"rating\":2648,\"rd\":139,\"prog\":45,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2211,\"rd\":148,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":9,\"rating\":2218,\"rd\":178,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":2569,\"rd\":123,\"prog\":-37,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2561,\"rd\":238,\"prog\":0,\"prov\":true}},\"createdAt\":1608614982590,\"profile\":{\"bio\":\"Bot coded by  https://lichess.org/@/Aditya-v-bhat_2008,   using node.js running on heroku server\\r\\nhttps://imgur.com/vloQzlp\\r\\nJoin requests for teams will be accepted\",\"firstName\":\"Bot\",\"fideRating\":2665},\"seenAt\":1609494269398,\"playTime\":{\"total\":10251,\"tv\":3531},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Adityavbhat-bot\",\"playing\":\"https://lichess.org/KfzLPc3C/black\",\"nbFollowing\":6,\"nbFollowers\":6,\"count\":{\"all\":77,\"rated\":62,\"ai\":3,\"draw\":6,\"drawH\":5,\"loss\":1,\"lossH\":1,\"win\":70,\"winH\":68,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adityavbhat-bot",
     "username": "Adityavbhat-bot",
     "online": true,
     "perfs": {
+      "antichess": {
+        "games": 16,
+        "rating": 2648,
+        "rd": 139,
+        "prog": 45,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2211,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 9,
+        "rating": 2218,
+        "rd": 178,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 26,
+        "rating": 2569,
+        "rd": 123,
+        "prog": -37,
         "prov": true
       },
       "correspondence": {
@@ -39,35 +53,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2561,
+        "rd": 238,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1608614982590,
-    "seenAt": 1608615440275,
+    "profile": {
+      "bio": "Bot coded by  https://lichess.org/@/Aditya-v-bhat_2008,   using node.js running on heroku server\r\nhttps://imgur.com/vloQzlp\r\nJoin requests for teams will be accepted",
+      "firstName": "Bot",
+      "fideRating": 2665
+    },
+    "seenAt": 1609494269398,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 10251,
+      "tv": 3531
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Adityavbhat-bot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "playing": "https://lichess.org/KfzLPc3C/black",
+    "nbFollowing": 6,
+    "nbFollowers": 6,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
-      "bookmark": 0,
-      "playing": 0,
+      "all": 77,
+      "rated": 62,
+      "ai": 3,
+      "draw": 6,
+      "drawH": 5,
+      "loss": 1,
+      "lossH": 1,
+      "win": 70,
+      "winH": 68,
+      "bookmark": 1,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
