@@ -4,7 +4,7 @@
   "username": "ABotThatRunsOnHeroku",
   "profileUrl": "https://lichess.org/@/ABotThatRunsOnHeroku",
   "provider": "lichess",
-  "_raw": "{\"id\":\"abotthatrunsonheroku\",\"username\":\"ABotThatRunsOnHeroku\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609555696434,\"seenAt\":1609555698008,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/ABotThatRunsOnHeroku\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"abotthatrunsonheroku\",\"username\":\"ABotThatRunsOnHeroku\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1273,\"rd\":287,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2234,\"rd\":440,\"prog\":0,\"prov\":true}},\"createdAt\":1609555696434,\"profile\":{\"country\":\"CA\",\"location\":\"https://kevlu8lichess.herokuapp.com\",\"bio\":\"Challenge me! My father is @KleverKevin, and my brother is @KleverChessBot\",\"firstName\":\"Heroku\",\"lastName\":\"Bot\"},\"seenAt\":1609557765660,\"playTime\":{\"total\":1471,\"tv\":1408},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ABotThatRunsOnHeroku\",\"playing\":\"https://lichess.org/P8aaM7jT/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "abotthatrunsonheroku",
     "username": "ABotThatRunsOnHeroku",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1273,
+        "rd": 287,
         "prog": 0,
         "prov": true
       },
@@ -39,35 +39,44 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2234,
+        "rd": 440,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1609555696434,
-    "seenAt": 1609555698008,
+    "profile": {
+      "country": "CA",
+      "location": "https://kevlu8lichess.herokuapp.com",
+      "bio": "Challenge me! My father is @KleverKevin, and my brother is @KleverChessBot",
+      "firstName": "Heroku",
+      "lastName": "Bot"
+    },
+    "seenAt": 1609557765660,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 1471,
+      "tv": 1408
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/ABotThatRunsOnHeroku",
+    "playing": "https://lichess.org/P8aaM7jT/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 3,
+      "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
