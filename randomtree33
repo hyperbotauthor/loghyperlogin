@@ -1,0 +1,84 @@
+{
+  "id": "randomtree33",
+  "displayName": "RandomTree33",
+  "username": "RandomTree33",
+  "profileUrl": "https://lichess.org/@/RandomTree33",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"randomtree33\",\"username\":\"RandomTree33\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2162,\"rd\":367,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1908,\"rd\":277,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603763392887,\"profile\":{\"bio\":\"@RandomTree33 by @ExplosiveNitrogen. Siblings: @RandomTree77 and @RandomTree66. I only accept classical and correspondence, rated or non-rated. I am about 1700 rated player. Challenge anytime.  ##Sorry. I do not have an endgame book, so instead I use Fruit chess engine during the endgame.  Sorry!##\"},\"seenAt\":1609869857102,\"playTime\":{\"total\":4141,\"tv\":1798},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree33\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":18,\"rated\":6,\"ai\":5,\"draw\":1,\"drawH\":0,\"loss\":9,\"lossH\":9,\"win\":8,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "randomtree33",
+    "username": "RandomTree33",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 2162,
+        "rd": 367,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1908,
+        "rd": 277,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1603763392887,
+    "profile": {
+      "bio": "@RandomTree33 by @ExplosiveNitrogen. Siblings: @RandomTree77 and @RandomTree66. I only accept classical and correspondence, rated or non-rated. I am about 1700 rated player. Challenge anytime.  ##Sorry. I do not have an endgame book, so instead I use Fruit chess engine during the endgame.  Sorry!##"
+    },
+    "seenAt": 1609869857102,
+    "playTime": {
+      "total": 4141,
+      "tv": 1798
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/RandomTree33",
+    "nbFollowing": 1,
+    "nbFollowers": 2,
+    "count": {
+      "all": 18,
+      "rated": 6,
+      "ai": 5,
+      "draw": 1,
+      "drawH": 0,
+      "loss": 9,
+      "lossH": 9,
+      "win": 8,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
