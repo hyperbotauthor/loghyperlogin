@@ -1,0 +1,91 @@
+{
+  "id": "gcfa",
+  "displayName": "GCFA",
+  "username": "GCFA",
+  "profileUrl": "https://lichess.org/@/GCFA",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"gcfa\",\"username\":\"GCFA\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1477,\"rd\":468,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609167283267,\"profile\":{\"bio\":\"niepadiuop\",\"firstName\":\"GCFA\"},\"seenAt\":1609917934812,\"playTime\":{\"total\":13,\"tv\":2},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/GCFA\",\"nbFollowing\":11,\"nbFollowers\":10,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "gcfa",
+    "username": "GCFA",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 1477,
+        "rd": 468,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1609167283267,
+    "profile": {
+      "bio": "niepadiuop",
+      "firstName": "GCFA"
+    },
+    "seenAt": 1609917934812,
+    "playTime": {
+      "total": 13,
+      "tv": 2
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/GCFA",
+    "nbFollowing": 11,
+    "nbFollowers": 10,
+    "count": {
+      "all": 3,
+      "rated": 3,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
