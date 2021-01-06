@@ -4,7 +4,7 @@
   "username": "ChessBot2021",
   "profileUrl": "https://lichess.org/@/ChessBot2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessbot2021\",\"username\":\"ChessBot2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":93,\"rating\":2479,\"rd\":89,\"prog\":-100},\"bullet\":{\"games\":84,\"rating\":2220,\"rd\":60,\"prog\":-116},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":109,\"rating\":2860,\"rd\":85,\"prog\":-56}},\"createdAt\":1606903910662,\"profile\":{\"country\":\"LK\",\"bio\":\"please join my team\\r\\nlichess.org/team/king-of-the-blitz\\r\\n\\r\\n\\r\\n\\r\\nNote - If any one need to challenge me you can only challenge in standard variation\",\"firstName\":\"Chess Bot\",\"lastName\":\"2021\"},\"seenAt\":1609729847967,\"playTime\":{\"total\":136860,\"tv\":48172},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessBot2021\",\"nbFollowing\":0,\"nbFollowers\":22,\"count\":{\"all\":415,\"rated\":298,\"ai\":14,\"draw\":18,\"drawH\":18,\"loss\":81,\"lossH\":73,\"win\":316,\"winH\":310,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessbot2021\",\"username\":\"ChessBot2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":93,\"rating\":2479,\"rd\":90,\"prog\":-100},\"bullet\":{\"games\":85,\"rating\":2222,\"rd\":61,\"prog\":-102},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":113,\"rating\":2862,\"rd\":85,\"prog\":-24}},\"createdAt\":1606903910662,\"profile\":{\"country\":\"LK\",\"bio\":\"please join my team\\r\\nlichess.org/team/king-of-the-blitz\\r\\n\\r\\n\\r\\n\\r\\nNote - If any one need to challenge me you can only challenge in standard variation\",\"firstName\":\"Chess Bot\",\"lastName\":\"2021\"},\"seenAt\":1609905667670,\"playTime\":{\"total\":137431,\"tv\":48172},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessBot2021\",\"nbFollowing\":0,\"nbFollowers\":24,\"count\":{\"all\":421,\"rated\":303,\"ai\":14,\"draw\":18,\"drawH\":18,\"loss\":82,\"lossH\":74,\"win\":321,\"winH\":315,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessbot2021",
     "username": "ChessBot2021",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 93,
         "rating": 2479,
-        "rd": 89,
+        "rd": 90,
         "prog": -100
       },
       "bullet": {
-        "games": 84,
-        "rating": 2220,
-        "rd": 60,
-        "prog": -116
+        "games": 85,
+        "rating": 2222,
+        "rd": 61,
+        "prog": -102
       },
       "correspondence": {
         "games": 0,
@@ -37,10 +37,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 109,
-        "rating": 2860,
+        "games": 113,
+        "rating": 2862,
         "rd": 85,
-        "prog": -56
+        "prog": -24
       }
     },
     "createdAt": 1606903910662,
@@ -50,26 +50,26 @@
       "firstName": "Chess Bot",
       "lastName": "2021"
     },
-    "seenAt": 1609729847967,
+    "seenAt": 1609905667670,
     "playTime": {
-      "total": 136860,
+      "total": 137431,
       "tv": 48172
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ChessBot2021",
     "nbFollowing": 0,
-    "nbFollowers": 22,
+    "nbFollowers": 24,
     "count": {
-      "all": 415,
-      "rated": 298,
+      "all": 421,
+      "rated": 303,
       "ai": 14,
       "draw": 18,
       "drawH": 18,
-      "loss": 81,
-      "lossH": 73,
-      "win": 316,
-      "winH": 310,
+      "loss": 82,
+      "lossH": 74,
+      "win": 321,
+      "winH": 315,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
