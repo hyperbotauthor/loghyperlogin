@@ -1,0 +1,97 @@
+{
+  "id": "tryingtobeagm",
+  "displayName": "tryingtobeagm",
+  "username": "tryingtobeagm",
+  "profileUrl": "https://lichess.org/@/tryingtobeagm",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"tryingtobeagm\",\"username\":\"tryingtobeagm\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":63,\"rating\":2200,\"rd\":66,\"prog\":-35},\"antichess\":{\"games\":2,\"rating\":1447,\"rd\":427,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1473,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2017,\"rd\":121,\"prog\":-10,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2109,\"rd\":197,\"prog\":0,\"prov\":true}},\"createdAt\":1597911175898,\"profile\":{\"bio\":\"playing with myself for practice      https://i.imgur.com/SJPezJq.jpg\"},\"seenAt\":1609923526511,\"playTime\":{\"total\":32562,\"tv\":14846},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/tryingtobeagm\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":165,\"rated\":91,\"ai\":24,\"draw\":9,\"drawH\":7,\"loss\":37,\"lossH\":30,\"win\":119,\"winH\":104,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "tryingtobeagm",
+    "username": "tryingtobeagm",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 63,
+        "rating": 2200,
+        "rd": 66,
+        "prog": -35
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1447,
+        "rd": 427,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1473,
+        "rd": 461,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 2017,
+        "rd": 121,
+        "prog": -10,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2109,
+        "rd": 197,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1597911175898,
+    "profile": {
+      "bio": "playing with myself for practice      https://i.imgur.com/SJPezJq.jpg"
+    },
+    "seenAt": 1609923526511,
+    "playTime": {
+      "total": 32562,
+      "tv": 14846
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/tryingtobeagm",
+    "nbFollowing": 2,
+    "nbFollowers": 3,
+    "count": {
+      "all": 165,
+      "rated": 91,
+      "ai": 24,
+      "draw": 9,
+      "drawH": 7,
+      "loss": 37,
+      "lossH": 30,
+      "win": 119,
+      "winH": 104,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
