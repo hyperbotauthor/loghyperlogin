@@ -1,0 +1,84 @@
+{
+  "id": "om_the_great_bot",
+  "displayName": "OM_The_Great_BOT",
+  "username": "OM_The_Great_BOT",
+  "profileUrl": "https://lichess.org/@/OM_The_Great_BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"om_the_great_bot\",\"username\":\"OM_The_Great_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1387,\"rd\":342,\"prog\":0,\"prov\":true}},\"createdAt\":1608626495919,\"profile\":{\"country\":\"_pirate\"},\"seenAt\":1610011691734,\"playTime\":{\"total\":2159,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OM_The_Great_BOT\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":14,\"rated\":8,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":10,\"winH\":9,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "om_the_great_bot",
+    "username": "OM_The_Great_BOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1387,
+        "rd": 342,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1608626495919,
+    "profile": {
+      "country": "_pirate"
+    },
+    "seenAt": 1610011691734,
+    "playTime": {
+      "total": 2159,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/OM_The_Great_BOT",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 14,
+      "rated": 8,
+      "ai": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 2,
+      "win": 10,
+      "winH": 9,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
