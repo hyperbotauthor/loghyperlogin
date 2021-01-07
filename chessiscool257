@@ -1,0 +1,100 @@
+{
+  "id": "chessiscool257",
+  "displayName": "chessiscooL257",
+  "username": "chessiscooL257",
+  "profileUrl": "https://lichess.org/@/chessiscooL257",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessiscool257\",\"username\":\"chessiscooL257\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1295,\"rd\":224,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":2473,\"rd\":182,\"prog\":-30,\"prov\":true},\"atomic\":{\"games\":18,\"rating\":1228,\"rd\":93,\"prog\":48},\"ultraBullet\":{\"games\":103,\"rating\":1257,\"rd\":50,\"prog\":1},\"bullet\":{\"games\":87,\"rating\":1451,\"rd\":51,\"prog\":5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1758,\"rd\":291,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1494,\"rd\":493,\"prog\":0,\"prov\":true}},\"createdAt\":1607335075910,\"profile\":{},\"seenAt\":1610018195035,\"playTime\":{\"total\":18751,\"tv\":269},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/chessiscooL257\",\"nbFollowing\":5,\"nbFollowers\":9,\"completionRate\":100,\"count\":{\"all\":273,\"rated\":227,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":151,\"lossH\":151,\"win\":117,\"winH\":117,\"bookmark\":1,\"playing\":0,\"import\":5,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessiscool257",
+    "username": "chessiscooL257",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 7,
+        "rating": 1295,
+        "rd": 224,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 12,
+        "rating": 2473,
+        "rd": 182,
+        "prog": -30,
+        "prov": true
+      },
+      "atomic": {
+        "games": 18,
+        "rating": 1228,
+        "rd": 93,
+        "prog": 48
+      },
+      "ultraBullet": {
+        "games": 103,
+        "rating": 1257,
+        "rd": 50,
+        "prog": 1
+      },
+      "bullet": {
+        "games": 87,
+        "rating": 1451,
+        "rd": 51,
+        "prog": 5
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1758,
+        "rd": 291,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1494,
+        "rd": 493,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1607335075910,
+    "profile": {},
+    "seenAt": 1610018195035,
+    "playTime": {
+      "total": 18751,
+      "tv": 269
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/chessiscooL257",
+    "nbFollowing": 5,
+    "nbFollowers": 9,
+    "completionRate": 100,
+    "count": {
+      "all": 273,
+      "rated": 227,
+      "ai": 0,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 151,
+      "lossH": 151,
+      "win": 117,
+      "winH": 117,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 5,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
