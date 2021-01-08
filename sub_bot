@@ -1,0 +1,96 @@
+{
+  "id": "sub_bot",
+  "displayName": "Sub_Bot",
+  "username": "Sub_Bot",
+  "profileUrl": "https://lichess.org/@/Sub_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2153,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":250,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2111,\"rd\":212,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"I am created by Suban1 but I am weak (maybe.)\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1610124241507,\"playTime\":{\"total\":5365,\"tv\":1923},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":5,\"nbFollowers\":2,\"count\":{\"all\":20,\"rated\":15,\"ai\":1,\"draw\":3,\"drawH\":2,\"loss\":4,\"lossH\":4,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sub_bot",
+    "username": "Sub_Bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 6,
+        "rating": 2153,
+        "rd": 176,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1974,
+        "rd": 250,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 2111,
+        "rd": 212,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1808,
+        "rd": 353,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610035612982,
+    "profile": {
+      "country": "_lichess",
+      "location": "I am on lichess.org",
+      "bio": "I am created by Suban1 but I am weak (maybe.)",
+      "firstName": "Sub_Bot",
+      "lastName": "Made by Suban1",
+      "links": "lichess.org"
+    },
+    "seenAt": 1610124241507,
+    "playTime": {
+      "total": 5365,
+      "tv": 1923
+    },
+    "language": "ru-RU",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Sub_Bot",
+    "nbFollowing": 5,
+    "nbFollowers": 2,
+    "count": {
+      "all": 20,
+      "rated": 15,
+      "ai": 1,
+      "draw": 3,
+      "drawH": 2,
+      "loss": 4,
+      "lossH": 4,
+      "win": 13,
+      "winH": 13,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
