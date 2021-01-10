@@ -4,25 +4,31 @@
   "username": "adityavbot",
   "profileUrl": "https://lichess.org/@/adityavbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adityavbot\",\"username\":\"adityavbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610114448472,\"seenAt\":1610114542122,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/adityavbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adityavbot\",\"username\":\"adityavbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2253,\"rd\":326,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":2466,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":35,\"rating\":2484,\"rd\":83,\"prog\":49},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610114448472,\"profile\":{\"bio\":\"https://botlichess.herokuapp.com/\"},\"seenAt\":1610289935158,\"playTime\":{\"total\":11869,\"tv\":4444},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/adityavbot\",\"nbFollowing\":5,\"nbFollowers\":6,\"count\":{\"all\":91,\"rated\":45,\"ai\":0,\"draw\":27,\"drawH\":27,\"loss\":20,\"lossH\":20,\"win\":44,\"winH\":44,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adityavbot",
     "username": "adityavbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2253,
+        "rd": 326,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 6,
+        "rating": 2466,
+        "rd": 202,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 35,
+        "rating": 2484,
+        "rd": 83,
+        "prog": 49
       },
       "correspondence": {
         "games": 0,
@@ -47,25 +53,29 @@
       }
     },
     "createdAt": 1610114448472,
-    "seenAt": 1610114542122,
+    "profile": {
+      "bio": "https://botlichess.herokuapp.com/"
+    },
+    "seenAt": 1610289935158,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 11869,
+      "tv": 4444
     },
     "language": "en-GB",
+    "title": "BOT",
     "url": "https://lichess.org/@/adityavbot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 5,
+    "nbFollowers": 6,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 91,
+      "rated": 45,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 27,
+      "drawH": 27,
+      "loss": 20,
+      "lossH": 20,
+      "win": 44,
+      "winH": 44,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
