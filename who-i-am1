@@ -4,7 +4,7 @@
   "username": "Who-I-am1",
   "profileUrl": "https://lichess.org/@/Who-I-am1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"who-i-am1\",\"username\":\"Who-I-am1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2334,\"rd\":141,\"prog\":16,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1653,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":91,\"rating\":2287,\"rd\":48,\"prog\":-3},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2087,\"rd\":169,\"prog\":0,\"prov\":true}},\"createdAt\":1610096045274,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\",\"bio\":\"Stokfish 8 level draw!!!\"},\"seenAt\":1610377596088,\"playTime\":{\"total\":25167,\"tv\":6227},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Who-I-am1\",\"nbFollowing\":16,\"nbFollowers\":2,\"count\":{\"all\":228,\"rated\":118,\"ai\":73,\"draw\":19,\"drawH\":14,\"loss\":89,\"lossH\":41,\"win\":120,\"winH\":100,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"who-i-am1\",\"username\":\"Who-I-am1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2334,\"rd\":141,\"prog\":16,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1653,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":91,\"rating\":2287,\"rd\":49,\"prog\":-3},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2087,\"rd\":169,\"prog\":0,\"prov\":true}},\"createdAt\":1610096045274,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\",\"bio\":\"Stokfish 8 level draw!!!\"},\"seenAt\":1610445285272,\"playTime\":{\"total\":25670,\"tv\":6627},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Who-I-am1\",\"nbFollowing\":16,\"nbFollowers\":3,\"count\":{\"all\":232,\"rated\":118,\"ai\":74,\"draw\":19,\"drawH\":14,\"loss\":92,\"lossH\":43,\"win\":121,\"winH\":101,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "who-i-am1",
     "username": "Who-I-am1",
@@ -34,7 +34,7 @@
       "bullet": {
         "games": 91,
         "rating": 2287,
-        "rd": 48,
+        "rd": 49,
         "prog": -3
       },
       "correspondence": {
@@ -65,26 +65,26 @@
       "location": "İstanbul",
       "bio": "Stokfish 8 level draw!!!"
     },
-    "seenAt": 1610377596088,
+    "seenAt": 1610445285272,
     "playTime": {
-      "total": 25167,
-      "tv": 6227
+      "total": 25670,
+      "tv": 6627
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Who-I-am1",
     "nbFollowing": 16,
-    "nbFollowers": 2,
+    "nbFollowers": 3,
     "count": {
-      "all": 228,
+      "all": 232,
       "rated": 118,
-      "ai": 73,
+      "ai": 74,
       "draw": 19,
       "drawH": 14,
-      "loss": 89,
-      "lossH": 41,
-      "win": 120,
-      "winH": 100,
+      "loss": 92,
+      "lossH": 43,
+      "win": 121,
+      "winH": 101,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
