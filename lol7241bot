@@ -1,0 +1,81 @@
+{
+  "id": "lol7241bot",
+  "displayName": "lol7241Bot",
+  "username": "lol7241Bot",
+  "profileUrl": "https://lichess.org/@/lol7241Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lol7241bot\",\"username\":\"lol7241Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1796,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1817,\"rd\":132,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1903,\"rd\":117,\"prog\":-98,\"prov\":true}},\"createdAt\":1610475525669,\"seenAt\":1610555476942,\"playTime\":{\"total\":14210,\"tv\":2770},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/lol7241Bot\",\"nbFollowing\":2,\"nbFollowers\":5,\"count\":{\"all\":34,\"rated\":27,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":13,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lol7241bot",
+    "username": "lol7241Bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 1796,
+        "rd": 245,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 10,
+        "rating": 1817,
+        "rd": 132,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 14,
+        "rating": 1903,
+        "rd": 117,
+        "prog": -98,
+        "prov": true
+      }
+    },
+    "createdAt": 1610475525669,
+    "seenAt": 1610555476942,
+    "playTime": {
+      "total": 14210,
+      "tv": 2770
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/lol7241Bot",
+    "nbFollowing": 2,
+    "nbFollowers": 5,
+    "count": {
+      "all": 34,
+      "rated": 27,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 13,
+      "lossH": 13,
+      "win": 18,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
