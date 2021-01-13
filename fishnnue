@@ -1,0 +1,104 @@
+{
+  "id": "fishnnue",
+  "displayName": "FishNNUE",
+  "username": "FishNNUE",
+  "profileUrl": "https://lichess.org/@/FishNNUE",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"fishnnue\",\"username\":\"FishNNUE\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":92,\"rating\":2350,\"rd\":176,\"prog\":6,\"prov\":true},\"ultraBullet\":{\"games\":9,\"rating\":1464,\"rd\":149,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":114,\"rating\":2148,\"rd\":58,\"prog\":-65},\"crazyhouse\":{\"games\":3,\"rating\":1619,\"rd\":210,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":1780,\"rd\":74,\"prog\":20},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1712,\"rd\":357,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603726344423,\"profile\":{\"country\":\"UA\",\"location\":\"Lviv\"},\"seenAt\":1610558219484,\"playTime\":{\"total\":50887,\"tv\":0},\"language\":\"uk-UA\",\"url\":\"https://lichess.org/@/FishNNUE\",\"nbFollowing\":5,\"nbFollowers\":0,\"completionRate\":90,\"count\":{\"all\":193,\"rated\":165,\"ai\":4,\"draw\":11,\"drawH\":11,\"loss\":96,\"lossH\":92,\"win\":86,\"winH\":86,\"bookmark\":0,\"playing\":0,\"import\":3,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "fishnnue",
+    "username": "FishNNUE",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 92,
+        "rating": 2350,
+        "rd": 176,
+        "prog": 6,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 9,
+        "rating": 1464,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 114,
+        "rating": 2148,
+        "rd": 58,
+        "prog": -65
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1619,
+        "rd": 210,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 37,
+        "rating": 1780,
+        "rd": 74,
+        "prog": 20
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1712,
+        "rd": 357,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1603726344423,
+    "profile": {
+      "country": "UA",
+      "location": "Lviv"
+    },
+    "seenAt": 1610558219484,
+    "playTime": {
+      "total": 50887,
+      "tv": 0
+    },
+    "language": "uk-UA",
+    "url": "https://lichess.org/@/FishNNUE",
+    "nbFollowing": 5,
+    "nbFollowers": 0,
+    "completionRate": 90,
+    "count": {
+      "all": 193,
+      "rated": 165,
+      "ai": 4,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 96,
+      "lossH": 92,
+      "win": 86,
+      "winH": 86,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 3,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
