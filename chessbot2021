@@ -4,7 +4,7 @@
   "username": "ChessBot2021",
   "profileUrl": "https://lichess.org/@/ChessBot2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessbot2021\",\"username\":\"ChessBot2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":93,\"rating\":2479,\"rd\":90,\"prog\":-100},\"bullet\":{\"games\":85,\"rating\":2222,\"rd\":61,\"prog\":-102},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":113,\"rating\":2862,\"rd\":85,\"prog\":-24}},\"createdAt\":1606903910662,\"profile\":{\"country\":\"LK\",\"bio\":\"please join my team\\r\\nlichess.org/team/king-of-the-blitz\\r\\n\\r\\n\\r\\n\\r\\nNote - If any one need to challenge me you can only challenge in standard variation\",\"firstName\":\"Chess Bot\",\"lastName\":\"2021\"},\"seenAt\":1609917465170,\"playTime\":{\"total\":138533,\"tv\":49204},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessBot2021\",\"nbFollowing\":0,\"nbFollowers\":24,\"count\":{\"all\":423,\"rated\":303,\"ai\":14,\"draw\":18,\"drawH\":18,\"loss\":83,\"lossH\":75,\"win\":322,\"winH\":316,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessbot2021\",\"username\":\"ChessBot2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":93,\"rating\":2479,\"rd\":92,\"prog\":-100},\"bullet\":{\"games\":87,\"rating\":2199,\"rd\":62,\"prog\":-106},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":115,\"rating\":2862,\"rd\":87,\"prog\":10}},\"createdAt\":1606903910662,\"profile\":{\"country\":\"LK\",\"bio\":\"please join my team\\r\\nlichess.org/team/king-of-the-blitz\\r\\n\\r\\n\\r\\n\\r\\nNote - If any one need to challenge me you can only challenge in standard variation\",\"firstName\":\"Chess Bot\",\"lastName\":\"2021\"},\"seenAt\":1610507973600,\"playTime\":{\"total\":140022,\"tv\":50133},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessBot2021\",\"nbFollowing\":3,\"nbFollowers\":25,\"count\":{\"all\":432,\"rated\":307,\"ai\":16,\"draw\":18,\"drawH\":18,\"loss\":86,\"lossH\":78,\"win\":328,\"winH\":320,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessbot2021",
     "username": "ChessBot2021",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 93,
         "rating": 2479,
-        "rd": 90,
+        "rd": 92,
         "prog": -100
       },
       "bullet": {
-        "games": 85,
-        "rating": 2222,
-        "rd": 61,
-        "prog": -102
+        "games": 87,
+        "rating": 2199,
+        "rd": 62,
+        "prog": -106
       },
       "correspondence": {
         "games": 0,
@@ -37,10 +37,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 113,
+        "games": 115,
         "rating": 2862,
-        "rd": 85,
-        "prog": -24
+        "rd": 87,
+        "prog": 10
       }
     },
     "createdAt": 1606903910662,
@@ -50,26 +50,26 @@
       "firstName": "Chess Bot",
       "lastName": "2021"
     },
-    "seenAt": 1609917465170,
+    "seenAt": 1610507973600,
     "playTime": {
-      "total": 138533,
-      "tv": 49204
+      "total": 140022,
+      "tv": 50133
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ChessBot2021",
-    "nbFollowing": 0,
-    "nbFollowers": 24,
+    "nbFollowing": 3,
+    "nbFollowers": 25,
     "count": {
-      "all": 423,
-      "rated": 303,
-      "ai": 14,
+      "all": 432,
+      "rated": 307,
+      "ai": 16,
       "draw": 18,
       "drawH": 18,
-      "loss": 83,
-      "lossH": 75,
-      "win": 322,
-      "winH": 316,
+      "loss": 86,
+      "lossH": 78,
+      "win": 328,
+      "winH": 320,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
