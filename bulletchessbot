@@ -1,0 +1,80 @@
+{
+  "id": "bulletchessbot",
+  "displayName": "BulletChessBot",
+  "username": "BulletChessBot",
+  "profileUrl": "https://lichess.org/@/BulletChessBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bulletchessbot\",\"username\":\"BulletChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2434,\"rd\":63,\"prog\":3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610519476433,\"seenAt\":1610522142552,\"playTime\":{\"total\":1742,\"tv\":755},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BulletChessBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":35,\"rated\":34,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":22,\"lossH\":22,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bulletchessbot",
+    "username": "BulletChessBot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 34,
+        "rating": 2434,
+        "rd": 63,
+        "prog": 3
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610519476433,
+    "seenAt": 1610522142552,
+    "playTime": {
+      "total": 1742,
+      "tv": 755
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/BulletChessBot",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 35,
+      "rated": 34,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 22,
+      "lossH": 22,
+      "win": 13,
+      "winH": 13,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
