@@ -1,0 +1,111 @@
+{
+  "id": "ardathebabo",
+  "displayName": "ardathebabo",
+  "username": "ardathebabo",
+  "profileUrl": "https://lichess.org/@/ardathebabo",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ardathebabo\",\"username\":\"ardathebabo\",\"online\":true,\"perfs\":{\"horde\":{\"games\":16,\"rating\":1660,\"rd\":118,\"prog\":-61,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":1669,\"rd\":93,\"prog\":-8},\"ultraBullet\":{\"games\":11,\"rating\":1491,\"rd\":126,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":1352,\"rd\":159,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":1421,\"rd\":191,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":1526,\"rd\":85,\"prog\":49},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606895267410,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\"},\"seenAt\":1610604241880,\"playTime\":{\"total\":7285,\"tv\":717},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/ardathebabo\",\"nbFollowing\":1,\"nbFollowers\":1,\"completionRate\":93,\"count\":{\"all\":83,\"rated\":82,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":36,\"lossH\":36,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ardathebabo",
+    "username": "ardathebabo",
+    "online": true,
+    "perfs": {
+      "horde": {
+        "games": 16,
+        "rating": 1660,
+        "rd": 118,
+        "prog": -61,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 23,
+        "rating": 1669,
+        "rd": 93,
+        "prog": -8
+      },
+      "ultraBullet": {
+        "games": 11,
+        "rating": 1491,
+        "rd": 126,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 5,
+        "rating": 1352,
+        "rd": 159,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 5,
+        "rating": 1421,
+        "rd": 191,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 22,
+        "rating": 1526,
+        "rd": 85,
+        "prog": 49
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1606895267410,
+    "profile": {
+      "country": "TR",
+      "location": "İstanbul"
+    },
+    "seenAt": 1610604241880,
+    "playTime": {
+      "total": 7285,
+      "tv": 717
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/ardathebabo",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
+    "completionRate": 93,
+    "count": {
+      "all": 83,
+      "rated": 82,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 36,
+      "lossH": 36,
+      "win": 41,
+      "winH": 41,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
