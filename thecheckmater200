@@ -4,16 +4,16 @@
   "username": "TheCheckmater200",
   "profileUrl": "https://lichess.org/@/TheCheckmater200",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2186,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":348,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"bio\":\"i am programmed by herokuapp\\r\\nPlays like a 2200-2500\\r\\nAim: To defeat stockfish lvl. 8\\r\\nHappy checkmating\"},\"seenAt\":1610596898493,\"playTime\":{\"total\":3302,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":5,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2149,\"rd\":169,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":348,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"bio\":\"i am programmed by herokuapp\\r\\nPlays like a 2200-2500\\r\\nAim: To defeat stockfish lvl. 8\\r\\nHappy checkmating\"},\"seenAt\":1610605308578,\"playTime\":{\"total\":4429,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":10,\"rated\":8,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":3,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thecheckmater200",
     "username": "TheCheckmater200",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2186,
-        "rd": 203,
+        "games": 6,
+        "rating": 2149,
+        "rd": 169,
         "prog": 0,
         "prov": true
       },
@@ -50,9 +50,9 @@
     "profile": {
       "bio": "i am programmed by herokuapp\r\nPlays like a 2200-2500\r\nAim: To defeat stockfish lvl. 8\r\nHappy checkmating"
     },
-    "seenAt": 1610596898493,
+    "seenAt": 1610605308578,
     "playTime": {
-      "total": 3302,
+      "total": 4429,
       "tv": 0
     },
     "language": "en-US",
@@ -61,15 +61,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 7,
-      "rated": 5,
+      "all": 10,
+      "rated": 8,
       "ai": 2,
       "draw": 1,
       "drawH": 1,
-      "loss": 4,
-      "lossH": 2,
-      "win": 2,
-      "winH": 2,
+      "loss": 5,
+      "lossH": 3,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
