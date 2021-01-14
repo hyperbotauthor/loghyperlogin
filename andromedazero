@@ -4,23 +4,23 @@
   "username": "AndromedaZero",
   "profileUrl": "https://lichess.org/@/AndromedaZero",
   "provider": "lichess",
-  "_raw": "{\"id\":\"andromedazero\",\"username\":\"AndromedaZero\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610476098133,\"profile\":{},\"seenAt\":1610559251935,\"playTime\":{\"total\":154,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AndromedaZero\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":0,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"andromedazero\",\"username\":\"AndromedaZero\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1461,\"rd\":443,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1811,\"rd\":228,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1486,\"rd\":481,\"prog\":0,\"prov\":true}},\"createdAt\":1610476098133,\"profile\":{},\"seenAt\":1610634770747,\"playTime\":{\"total\":3892,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AndromedaZero\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":20,\"rated\":6,\"ai\":10,\"draw\":1,\"drawH\":0,\"loss\":15,\"lossH\":6,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "andromedazero",
     "username": "AndromedaZero",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1461,
+        "rd": 443,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1811,
+        "rd": 228,
         "prog": 0,
         "prov": true
       },
@@ -39,18 +39,18 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1486,
+        "rd": 481,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1610476098133,
     "profile": {},
-    "seenAt": 1610559251935,
+    "seenAt": 1610634770747,
     "playTime": {
-      "total": 154,
+      "total": 3892,
       "tv": 0
     },
     "language": "fr-FR",
@@ -59,15 +59,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 5,
-      "rated": 0,
-      "ai": 5,
-      "draw": 0,
+      "all": 20,
+      "rated": 6,
+      "ai": 10,
+      "draw": 1,
       "drawH": 0,
-      "loss": 5,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 15,
+      "lossH": 6,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
