@@ -4,7 +4,7 @@
   "username": "Who-I-am1",
   "profileUrl": "https://lichess.org/@/Who-I-am1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"who-i-am1\",\"username\":\"Who-I-am1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2334,\"rd\":141,\"prog\":16,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1653,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":91,\"rating\":2287,\"rd\":49,\"prog\":-3},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2087,\"rd\":169,\"prog\":0,\"prov\":true}},\"createdAt\":1610096045274,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\",\"bio\":\"Stokfish 8 level draw!!!\"},\"seenAt\":1610445896823,\"playTime\":{\"total\":25827,\"tv\":6627},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Who-I-am1\",\"nbFollowing\":16,\"nbFollowers\":3,\"count\":{\"all\":236,\"rated\":118,\"ai\":78,\"draw\":19,\"drawH\":14,\"loss\":95,\"lossH\":43,\"win\":122,\"winH\":101,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"who-i-am1\",\"username\":\"Who-I-am1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2360,\"rd\":123,\"prog\":42,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1653,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":97,\"rating\":2273,\"rd\":48,\"prog\":-17},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2087,\"rd\":170,\"prog\":0,\"prov\":true}},\"createdAt\":1610096045274,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\",\"bio\":\"Stokfish 8 level draw!!!\"},\"seenAt\":1610613629153,\"playTime\":{\"total\":28452,\"tv\":7441},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Who-I-am1\",\"nbFollowing\":16,\"nbFollowers\":6,\"count\":{\"all\":255,\"rated\":127,\"ai\":81,\"draw\":19,\"drawH\":14,\"loss\":101,\"lossH\":47,\"win\":135,\"winH\":113,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "who-i-am1",
     "username": "Who-I-am1",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 14,
-        "rating": 2334,
-        "rd": 141,
-        "prog": 16,
+        "games": 17,
+        "rating": 2360,
+        "rd": 123,
+        "prog": 42,
         "prov": true
       },
       "crazyhouse": {
@@ -32,15 +32,15 @@
         "prov": true
       },
       "bullet": {
-        "games": 91,
-        "rating": 2287,
-        "rd": 49,
-        "prog": -3
+        "games": 97,
+        "rating": 2273,
+        "rd": 48,
+        "prog": -17
       },
       "correspondence": {
         "games": 1,
         "rating": 1500,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
@@ -54,7 +54,7 @@
       "rapid": {
         "games": 6,
         "rating": 2087,
-        "rd": 169,
+        "rd": 170,
         "prog": 0,
         "prov": true
       }
@@ -65,26 +65,26 @@
       "location": "İstanbul",
       "bio": "Stokfish 8 level draw!!!"
     },
-    "seenAt": 1610445896823,
+    "seenAt": 1610613629153,
     "playTime": {
-      "total": 25827,
-      "tv": 6627
+      "total": 28452,
+      "tv": 7441
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Who-I-am1",
     "nbFollowing": 16,
-    "nbFollowers": 3,
+    "nbFollowers": 6,
     "count": {
-      "all": 236,
-      "rated": 118,
-      "ai": 78,
+      "all": 255,
+      "rated": 127,
+      "ai": 81,
       "draw": 19,
       "drawH": 14,
-      "loss": 95,
-      "lossH": 43,
-      "win": 122,
-      "winH": 101,
+      "loss": 101,
+      "lossH": 47,
+      "win": 135,
+      "winH": 113,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
