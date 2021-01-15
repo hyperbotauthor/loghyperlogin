@@ -4,23 +4,23 @@
   "username": "TheBotOfChess",
   "profileUrl": "https://lichess.org/@/TheBotOfChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thebotofchess\",\"username\":\"TheBotOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1495,\"rd\":495,\"prog\":0,\"prov\":true}},\"createdAt\":1605981005381,\"profile\":{\"bio\":\"I am @tksbhmRonald 's second bot and I am a little more difficult to beat. I am sorry that I can only play classical because the engine sometimes thinks for a very long time. Maybe I can fix it sometime.\",\"firstName\":\"rgnehZ\",\"lastName\":\"dlanoroM\"},\"seenAt\":1607105243415,\"playTime\":{\"total\":9027,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBotOfChess\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":12,\"rated\":1,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":6,\"win\":2,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thebotofchess\",\"username\":\"TheBotOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1468,\"rd\":459,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1981,\"rd\":446,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2537,\"rd\":140,\"prog\":0,\"prov\":true}},\"createdAt\":1605981005381,\"profile\":{\"bio\":\"I am @tksbhmRonald 's second bot and I am a little more difficult to beat. I am sorry that I can only play classical because the engine sometimes thinks for a very long time. Maybe I can fix it sometime.\",\"firstName\":\"rgnehZ\",\"lastName\":\"dlanoroM\"},\"seenAt\":1610747511929,\"playTime\":{\"total\":19671,\"tv\":2755},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBotOfChess\",\"nbFollowing\":5,\"nbFollowers\":8,\"count\":{\"all\":28,\"rated\":15,\"ai\":5,\"draw\":11,\"drawH\":11,\"loss\":11,\"lossH\":8,\"win\":6,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thebotofchess",
     "username": "TheBotOfChess",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1468,
+        "rd": 459,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1981,
+        "rd": 446,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1495,
-        "rd": 495,
+        "games": 13,
+        "rating": 2537,
+        "rd": 140,
         "prog": 0,
         "prov": true
       }
@@ -52,26 +52,26 @@
       "firstName": "rgnehZ",
       "lastName": "dlanoroM"
     },
-    "seenAt": 1607105243415,
+    "seenAt": 1610747511929,
     "playTime": {
-      "total": 9027,
-      "tv": 0
+      "total": 19671,
+      "tv": 2755
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheBotOfChess",
-    "nbFollowing": 2,
-    "nbFollowers": 3,
+    "nbFollowing": 5,
+    "nbFollowers": 8,
     "count": {
-      "all": 12,
-      "rated": 1,
+      "all": 28,
+      "rated": 15,
       "ai": 5,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 9,
-      "lossH": 6,
-      "win": 2,
-      "winH": 0,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 11,
+      "lossH": 8,
+      "win": 6,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
