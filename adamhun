@@ -4,7 +4,7 @@
   "username": "AdamHUN",
   "profileUrl": "https://lichess.org/@/AdamHUN",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adamhun\",\"username\":\"AdamHUN\",\"online\":true,\"perfs\":{\"ultraBullet\":{\"games\":314,\"rating\":1499,\"rd\":59,\"prog\":1},\"blitz\":{\"games\":192,\"rating\":1681,\"rd\":49,\"prog\":18},\"kingOfTheHill\":{\"games\":23,\"rating\":1623,\"rd\":117,\"prog\":90,\"prov\":true},\"bullet\":{\"games\":848,\"rating\":1738,\"rd\":49,\"prog\":-30},\"correspondence\":{\"games\":23,\"rating\":1933,\"rd\":124,\"prog\":173,\"prov\":true},\"horde\":{\"games\":29,\"rating\":1863,\"rd\":135,\"prog\":-71,\"prov\":true},\"puzzle\":{\"games\":552,\"rating\":1805,\"rd\":186,\"prog\":-171,\"prov\":true},\"classical\":{\"games\":44,\"rating\":1748,\"rd\":109,\"prog\":11},\"rapid\":{\"games\":67,\"rating\":1732,\"rd\":96,\"prog\":-26}},\"createdAt\":1583189938320,\"profile\":{\"country\":\"HU\",\"location\":\"Budapest\",\"bio\":\"\\\"Paper is to write things down that we need to remember. Our brains are used to think.\\\" Albert Einstein\",\"firstName\":\"Adam\",\"lastName\":\"Locksmith\"},\"seenAt\":1610791319911,\"playTime\":{\"total\":270820,\"tv\":226},\"language\":\"hu-HU\",\"url\":\"https://lichess.org/@/AdamHUN\",\"nbFollowing\":11,\"nbFollowers\":5,\"completionRate\":100,\"count\":{\"all\":1685,\"rated\":1542,\"ai\":12,\"draw\":57,\"drawH\":56,\"loss\":826,\"lossH\":821,\"win\":802,\"winH\":796,\"bookmark\":5,\"playing\":0,\"import\":13,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adamhun\",\"username\":\"AdamHUN\",\"online\":true,\"perfs\":{\"ultraBullet\":{\"games\":314,\"rating\":1499,\"rd\":59,\"prog\":1},\"blitz\":{\"games\":192,\"rating\":1681,\"rd\":49,\"prog\":18},\"kingOfTheHill\":{\"games\":23,\"rating\":1623,\"rd\":117,\"prog\":90,\"prov\":true},\"bullet\":{\"games\":848,\"rating\":1738,\"rd\":49,\"prog\":-30},\"correspondence\":{\"games\":23,\"rating\":1933,\"rd\":124,\"prog\":173,\"prov\":true},\"horde\":{\"games\":29,\"rating\":1863,\"rd\":135,\"prog\":-71,\"prov\":true},\"puzzle\":{\"games\":552,\"rating\":1805,\"rd\":186,\"prog\":-171,\"prov\":true},\"classical\":{\"games\":44,\"rating\":1748,\"rd\":109,\"prog\":11},\"rapid\":{\"games\":67,\"rating\":1732,\"rd\":96,\"prog\":-26}},\"createdAt\":1583189938320,\"profile\":{\"country\":\"HU\",\"location\":\"Budapest\",\"bio\":\"\\\"Paper is to write things down that we need to remember. Our brains are used to think.\\\" Albert Einstein\",\"firstName\":\"Adam\",\"lastName\":\"Locksmith\"},\"seenAt\":1610791940265,\"playTime\":{\"total\":270820,\"tv\":226},\"language\":\"hu-HU\",\"url\":\"https://lichess.org/@/AdamHUN\",\"nbFollowing\":11,\"nbFollowers\":5,\"completionRate\":100,\"count\":{\"all\":1685,\"rated\":1542,\"ai\":12,\"draw\":57,\"drawH\":56,\"loss\":826,\"lossH\":821,\"win\":802,\"winH\":796,\"bookmark\":5,\"playing\":0,\"import\":13,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adamhun",
     "username": "AdamHUN",
@@ -77,7 +77,7 @@
       "firstName": "Adam",
       "lastName": "Locksmith"
     },
-    "seenAt": 1610791319911,
+    "seenAt": 1610791940265,
     "playTime": {
       "total": 270820,
       "tv": 226
