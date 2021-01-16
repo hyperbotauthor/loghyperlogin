@@ -4,7 +4,7 @@
   "username": "TheStockfishOfChess",
   "profileUrl": "https://lichess.org/@/TheStockfishOfChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thestockfishofchess\",\"username\":\"TheStockfishOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1356,\"rd\":355,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1580,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1606070501886,\"seenAt\":1610839298641,\"playTime\":{\"total\":1136,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheStockfishOfChess\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":6,\"rated\":6,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thestockfishofchess\",\"username\":\"TheStockfishOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1356,\"rd\":355,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1580,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1606070501886,\"seenAt\":1610839298641,\"playTime\":{\"total\":1136,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheStockfishOfChess\",\"playing\":\"https://lichess.org/s4GPCt4i/black\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":6,\"rated\":6,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thestockfishofchess",
     "username": "TheStockfishOfChess",
@@ -55,6 +55,7 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheStockfishOfChess",
+    "playing": "https://lichess.org/s4GPCt4i/black",
     "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
@@ -68,7 +69,7 @@
       "win": 1,
       "winH": 1,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
