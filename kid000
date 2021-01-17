@@ -1,0 +1,139 @@
+{
+  "id": "kid000",
+  "displayName": "kid000",
+  "username": "kid000",
+  "profileUrl": "https://lichess.org/@/kid000",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kid000\",\"username\":\"kid000\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1887,\"rd\":183,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":128,\"rating\":2360,\"rd\":75,\"prog\":16},\"horde\":{\"games\":17,\"rating\":1604,\"rd\":137,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":32,\"rating\":1922,\"rd\":102,\"prog\":147},\"racingKings\":{\"games\":14,\"rating\":1976,\"rd\":134,\"prog\":84,\"prov\":true},\"blitz\":{\"games\":415,\"rating\":2256,\"rd\":73,\"prog\":12},\"kingOfTheHill\":{\"games\":7,\"rating\":1507,\"rd\":163,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1575,\"rd\":185,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":2205,\"rd\":275,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":216,\"rating\":2262,\"rd\":45,\"prog\":23},\"correspondence\":{\"games\":10,\"rating\":1813,\"rd\":218,\"prog\":0,\"prov\":true},\"classical\":{\"games\":9,\"rating\":1961,\"rd\":178,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":58,\"rating\":2330,\"rd\":101,\"prog\":-55}},\"createdAt\":1603109309795,\"profile\":{\"country\":\"_pirate\",\"location\":\"im not able to stay in a place\",\"bio\":\"running with stockfish 11\",\"firstName\":\"bot\",\"lastName\":\"kid\"},\"seenAt\":1610898936706,\"playTime\":{\"total\":250040,\"tv\":69216},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kid000\",\"nbFollowing\":2,\"nbFollowers\":201,\"count\":{\"all\":1430,\"rated\":942,\"ai\":14,\"draw\":77,\"drawH\":77,\"loss\":271,\"lossH\":260,\"win\":1082,\"winH\":1079,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kid000",
+    "username": "kid000",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 6,
+        "rating": 1887,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 128,
+        "rating": 2360,
+        "rd": 75,
+        "prog": 16
+      },
+      "horde": {
+        "games": 17,
+        "rating": 1604,
+        "rd": 137,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 32,
+        "rating": 1922,
+        "rd": 102,
+        "prog": 147
+      },
+      "racingKings": {
+        "games": 14,
+        "rating": 1976,
+        "rd": 134,
+        "prog": 84,
+        "prov": true
+      },
+      "blitz": {
+        "games": 415,
+        "rating": 2256,
+        "rd": 73,
+        "prog": 12
+      },
+      "kingOfTheHill": {
+        "games": 7,
+        "rating": 1507,
+        "rd": 163,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 6,
+        "rating": 1575,
+        "rd": 185,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 2205,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 216,
+        "rating": 2262,
+        "rd": 45,
+        "prog": 23
+      },
+      "correspondence": {
+        "games": 10,
+        "rating": 1813,
+        "rd": 218,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 9,
+        "rating": 1961,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 58,
+        "rating": 2330,
+        "rd": 101,
+        "prog": -55
+      }
+    },
+    "createdAt": 1603109309795,
+    "profile": {
+      "country": "_pirate",
+      "location": "im not able to stay in a place",
+      "bio": "running with stockfish 11",
+      "firstName": "bot",
+      "lastName": "kid"
+    },
+    "seenAt": 1610898936706,
+    "playTime": {
+      "total": 250040,
+      "tv": 69216
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/kid000",
+    "nbFollowing": 2,
+    "nbFollowers": 201,
+    "count": {
+      "all": 1430,
+      "rated": 942,
+      "ai": 14,
+      "draw": 77,
+      "drawH": 77,
+      "loss": 271,
+      "lossH": 260,
+      "win": 1082,
+      "winH": 1079,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
