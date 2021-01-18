@@ -4,18 +4,17 @@
   "username": "TheCheckmater200",
   "profileUrl": "https://lichess.org/@/TheCheckmater200",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2042,\"rd\":153,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1966,\"rd\":227,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":349,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"location\":\"Location: The Server\",\"bio\":\"I am programmed by hypereasy.herokuapp.com .\\r\\nPlays like a 2200-2500.\\r\\nFavourite opponent: BOT @Try_to_beat_me_kid\\r\\nAim: To defeat stockfish lvl. 8.\\r\\nHappy checkmating!\",\"firstName\":\"Yousuf_Haitham\"},\"seenAt\":1610870743370,\"playTime\":{\"total\":7047,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":17,\"rated\":14,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":6,\"lossH\":4,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2162,\"rd\":107,\"prog\":25},\"bullet\":{\"games\":3,\"rating\":1966,\"rd\":227,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":349,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"location\":\"Location: The Server\",\"bio\":\"I am programmed by hypereasy.herokuapp.com .\\r\\nPlays like a 2200-2500.\\r\\nFavourite opponent: BOT @Try_to_beat_me_kid\\r\\nAim: To defeat stockfish lvl. 8.\\r\\nHappy checkmating!\",\"firstName\":\"Yousuf_Haitham\"},\"seenAt\":1610941966257,\"playTime\":{\"total\":9705,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":23,\"rated\":20,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":7,\"lossH\":5,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thecheckmater200",
     "username": "TheCheckmater200",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 9,
-        "rating": 2042,
-        "rd": 153,
-        "prog": 0,
-        "prov": true
+        "games": 15,
+        "rating": 2162,
+        "rd": 107,
+        "prog": 25
       },
       "bullet": {
         "games": 3,
@@ -52,26 +51,26 @@
       "bio": "I am programmed by hypereasy.herokuapp.com .\r\nPlays like a 2200-2500.\r\nFavourite opponent: BOT @Try_to_beat_me_kid\r\nAim: To defeat stockfish lvl. 8.\r\nHappy checkmating!",
       "firstName": "Yousuf_Haitham"
     },
-    "seenAt": 1610870743370,
+    "seenAt": 1610941966257,
     "playTime": {
-      "total": 7047,
+      "total": 9705,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheCheckmater200",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 17,
-      "rated": 14,
+      "all": 23,
+      "rated": 20,
       "ai": 2,
       "draw": 3,
       "drawH": 3,
-      "loss": 6,
-      "lossH": 4,
-      "win": 8,
-      "winH": 8,
+      "loss": 7,
+      "lossH": 5,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
