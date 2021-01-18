@@ -4,36 +4,36 @@
   "username": "Akshaygmys_BOT",
   "profileUrl": "https://lichess.org/@/Akshaygmys_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":18,\"rating\":1997,\"rd\":105,\"prog\":243},\"antichess\":{\"games\":3,\"rating\":1624,\"rd\":306,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1605,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":365,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2143,\"rd\":414,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"profile\":{\"country\":\"IN\",\"firstName\":\"AKSHAY\",\"fideRating\":1301},\"seenAt\":1609945832812,\"playTime\":{\"total\":6268,\"tv\":728},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":53,\"rated\":30,\"ai\":6,\"draw\":4,\"drawH\":4,\"loss\":24,\"lossH\":22,\"win\":25,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"akshaygmys_bot\",\"username\":\"Akshaygmys_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2008,\"rd\":101,\"prog\":253},\"antichess\":{\"games\":3,\"rating\":1624,\"rd\":307,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1605,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2060,\"rd\":366,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2143,\"rd\":415,\"prog\":0,\"prov\":true}},\"createdAt\":1607183121435,\"profile\":{\"country\":\"IN\",\"firstName\":\"AKSHAY\",\"fideRating\":1301},\"seenAt\":1610953613015,\"playTime\":{\"total\":7218,\"tv\":1126},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Akshaygmys_BOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":57,\"rated\":34,\"ai\":6,\"draw\":4,\"drawH\":4,\"loss\":25,\"lossH\":23,\"win\":28,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "akshaygmys_bot",
     "username": "Akshaygmys_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 18,
-        "rating": 1997,
-        "rd": 105,
-        "prog": 243
+        "games": 22,
+        "rating": 2008,
+        "rd": 101,
+        "prog": 253
       },
       "antichess": {
         "games": 3,
         "rating": 1624,
-        "rd": 306,
+        "rd": 307,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 4,
         "rating": 1605,
-        "rd": 241,
+        "rd": 242,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 3,
         "rating": 2060,
-        "rd": 365,
+        "rd": 366,
         "prog": 0,
         "prov": true
       },
@@ -54,7 +54,7 @@
       "rapid": {
         "games": 1,
         "rating": 2143,
-        "rd": 414,
+        "rd": 415,
         "prog": 0,
         "prov": true
       }
@@ -65,10 +65,10 @@
       "firstName": "AKSHAY",
       "fideRating": 1301
     },
-    "seenAt": 1609945832812,
+    "seenAt": 1610953613015,
     "playTime": {
-      "total": 6268,
-      "tv": 728
+      "total": 7218,
+      "tv": 1126
     },
     "language": "en-US",
     "title": "BOT",
@@ -76,15 +76,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 53,
-      "rated": 30,
+      "all": 57,
+      "rated": 34,
       "ai": 6,
       "draw": 4,
       "drawH": 4,
-      "loss": 24,
-      "lossH": 22,
-      "win": 25,
-      "winH": 21,
+      "loss": 25,
+      "lossH": 23,
+      "win": 28,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
