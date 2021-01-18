@@ -4,7 +4,7 @@
   "username": "Chess_Dot",
   "profileUrl": "https://lichess.org/@/Chess_Dot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chess_dot\",\"username\":\"Chess_Dot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1310,\"rd\":302,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610956591173,\"seenAt\":1610957574652,\"playTime\":{\"total\":41,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chess_Dot\",\"playing\":\"https://lichess.org/G12KhSvp/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chess_dot\",\"username\":\"Chess_Dot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":12,\"rating\":1768,\"rd\":133,\"prog\":-60,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1495,\"rd\":493,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610956591173,\"seenAt\":1610964098722,\"playTime\":{\"total\":922,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chess_Dot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":13,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chess_dot",
     "username": "Chess_Dot",
@@ -18,16 +18,16 @@
         "prov": true
       },
       "atomic": {
-        "games": 3,
-        "rating": 1310,
-        "rd": 302,
-        "prog": 0,
+        "games": 12,
+        "rating": 1768,
+        "rd": 133,
+        "prog": -60,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1495,
+        "rd": 493,
         "prog": 0,
         "prov": true
       },
@@ -54,29 +54,28 @@
       }
     },
     "createdAt": 1610956591173,
-    "seenAt": 1610957574652,
+    "seenAt": 1610964098722,
     "playTime": {
-      "total": 41,
+      "total": 922,
       "tv": 0
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Chess_Dot",
-    "playing": "https://lichess.org/G12KhSvp/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 3,
-      "rated": 3,
+      "all": 13,
+      "rated": 13,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 0,
-      "winH": 0,
+      "loss": 7,
+      "lossH": 7,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
