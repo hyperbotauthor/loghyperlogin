@@ -1,0 +1,116 @@
+{
+  "id": "aaron_chessmaster",
+  "displayName": "Aaron_ChessMaster",
+  "username": "Aaron_ChessMaster",
+  "profileUrl": "https://lichess.org/@/Aaron_ChessMaster",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"aaron_chessmaster\",\"username\":\"Aaron_ChessMaster\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":1479,\"rd\":80,\"prog\":-139},\"antichess\":{\"games\":1,\"rating\":1578,\"rd\":392,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":34,\"rating\":1498,\"rd\":169,\"prog\":-163,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":1822,\"rd\":126,\"prog\":50,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1163,\"rd\":306,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1315,\"rd\":193,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1402,\"rd\":307,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1394,\"rd\":161,\"prog\":0,\"prov\":true}},\"createdAt\":1604497911583,\"profile\":{\"country\":\"IN\",\"location\":\"Mumbai\",\"bio\":\"I like chess a lot, I have many friends.\\r\\nMy favourite opening is scillian defense\",\"firstName\":\"Aaron\",\"lastName\":\"Bren\",\"links\":\"Twitch.com\"},\"seenAt\":1611047921569,\"playTime\":{\"total\":10661,\"tv\":235},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Aaron_ChessMaster\",\"nbFollowing\":4,\"nbFollowers\":5,\"completionRate\":81,\"count\":{\"all\":59,\"rated\":54,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":23,\"lossH\":23,\"win\":34,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "aaron_chessmaster",
+    "username": "Aaron_ChessMaster",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 26,
+        "rating": 1479,
+        "rd": 80,
+        "prog": -139
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1578,
+        "rd": 392,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 34,
+        "rating": 1498,
+        "rd": 169,
+        "prog": -163,
+        "prov": true
+      },
+      "atomic": {
+        "games": 17,
+        "rating": 1822,
+        "rd": 126,
+        "prog": 50,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1163,
+        "rd": 306,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1315,
+        "rd": 193,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1402,
+        "rd": 307,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1394,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604497911583,
+    "profile": {
+      "country": "IN",
+      "location": "Mumbai",
+      "bio": "I like chess a lot, I have many friends.\r\nMy favourite opening is scillian defense",
+      "firstName": "Aaron",
+      "lastName": "Bren",
+      "links": "Twitch.com"
+    },
+    "seenAt": 1611047921569,
+    "playTime": {
+      "total": 10661,
+      "tv": 235
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/Aaron_ChessMaster",
+    "nbFollowing": 4,
+    "nbFollowers": 5,
+    "completionRate": 81,
+    "count": {
+      "all": 59,
+      "rated": 54,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 23,
+      "lossH": 23,
+      "win": 34,
+      "winH": 33,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
