@@ -1,28 +1,26 @@
 {
   "id": "attacking-bot",
-  "displayName": "attacking-bot",
-  "username": "attacking-bot",
-  "profileUrl": "https://lichess.org/@/attacking-bot",
+  "displayName": "Attacking-Bot",
+  "username": "Attacking-Bot",
+  "profileUrl": "https://lichess.org/@/Attacking-Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"attacking-bot\",\"username\":\"attacking-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610949958247,\"seenAt\":1610950004299,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/attacking-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"attacking-bot\",\"username\":\"Attacking-Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2361,\"rd\":96,\"prog\":13},\"bullet\":{\"games\":107,\"rating\":2599,\"rd\":45,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2541,\"rd\":210,\"prog\":0,\"prov\":true}},\"createdAt\":1610949958247,\"profile\":{\"country\":\"CA\",\"bio\":\"Stockfish 12\",\"firstName\":\"Attacker\",\"lastName\":\"Bot\",\"fideRating\":3000},\"seenAt\":1611131882493,\"playTime\":{\"total\":25034,\"tv\":3048},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Attacking-Bot\",\"playing\":\"https://lichess.org/KGEtmmPX/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":181,\"rated\":131,\"ai\":2,\"draw\":8,\"drawH\":8,\"loss\":50,\"lossH\":49,\"win\":123,\"winH\":122,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "attacking-bot",
-    "username": "attacking-bot",
+    "username": "Attacking-Bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 15,
+        "rating": 2361,
+        "rd": 96,
+        "prog": 13
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 107,
+        "rating": 2599,
+        "rd": 45,
+        "prog": -3
       },
       "correspondence": {
         "games": 0,
@@ -39,35 +37,44 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2541,
+        "rd": 210,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1610949958247,
-    "seenAt": 1610950004299,
+    "profile": {
+      "country": "CA",
+      "bio": "Stockfish 12",
+      "firstName": "Attacker",
+      "lastName": "Bot",
+      "fideRating": 3000
+    },
+    "seenAt": 1611131882493,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 25034,
+      "tv": 3048
     },
     "language": "en-US",
-    "url": "https://lichess.org/@/attacking-bot",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Attacking-Bot",
+    "playing": "https://lichess.org/KGEtmmPX/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 181,
+      "rated": 131,
+      "ai": 2,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 50,
+      "lossH": 49,
+      "win": 123,
+      "winH": 122,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
