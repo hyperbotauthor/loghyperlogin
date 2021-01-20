@@ -4,7 +4,7 @@
   "username": "RandomTree77",
   "profileUrl": "https://lichess.org/@/RandomTree77",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randomtree77\",\"username\":\"RandomTree77\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":3,\"rating\":1511,\"rd\":296,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1926,\"rd\":316,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":57,\"rating\":2412,\"rd\":74,\"prog\":17},\"kingOfTheHill\":{\"games\":1,\"rating\":1837,\"rd\":301,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1353,\"rd\":312,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":57,\"rating\":2396,\"rd\":69,\"prog\":-47},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":30,\"rating\":2618,\"rd\":105,\"prog\":-43}},\"createdAt\":1605656660128,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, Running on Raspberry Pi 4. Accepts Challenges Time controls blitz - classical, accepts standard and 960, maximum of 5 second increment, rated or nonrated. If you want to play bullet, please PM me. Only declines if playing a game, or if BOT is almost shutting down. Might be able to run 12 hours for 3 days, not in a row. @ExplosiveNitrogen is my creator. https://lichess.org/study/F2Y7yjrt\\r\\n**I played my self! https://lichess.org/IWKa994Qnw5L, It didn't work though =)**\",\"firstName\":\"Random\",\"lastName\":\"Tree model 77\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1609869698828,\"playTime\":{\"total\":193178,\"tv\":62992},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree77\",\"nbFollowing\":188,\"nbFollowers\":48,\"count\":{\"all\":394,\"rated\":158,\"ai\":83,\"draw\":52,\"drawH\":52,\"loss\":70,\"lossH\":54,\"win\":272,\"winH\":205,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randomtree77\",\"username\":\"RandomTree77\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":3,\"rating\":1511,\"rd\":297,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1926,\"rd\":318,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":113,\"rating\":2172,\"rd\":51,\"prog\":-20},\"kingOfTheHill\":{\"games\":1,\"rating\":1837,\"rd\":302,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1353,\"rd\":313,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":174,\"rating\":2283,\"rd\":45,\"prog\":34},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":42,\"rating\":2571,\"rd\":83,\"prog\":-54}},\"createdAt\":1605656660128,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Time controls blitz - classical, accepts standard and 960, maximum of 5-second increment, rated or nonrated. If you want to play bullet, please DM me. @ExplosiveNitrogen is my creator.  Runs on Arasan, the chess engine. I have stupid evaluation, don't expect it to be correct after you type \\\"!eval\\\" in the chat. Also, I use some interesting openings, get ready to be tricked!\\r\\n\\r\\nNo BOT challenges, unless you are in my club, or else, only humans please.\",\"firstName\":\"RandomTree\",\"lastName\":\"Weak Model\"},\"seenAt\":1611177528269,\"playTime\":{\"total\":282580,\"tv\":91181},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomTree77\",\"playing\":\"https://lichess.org/6d2ZwJSc/black\",\"nbFollowing\":188,\"nbFollowers\":58,\"count\":{\"all\":693,\"rated\":344,\"ai\":85,\"draw\":85,\"drawH\":84,\"loss\":224,\"lossH\":208,\"win\":384,\"winH\":316,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randomtree77",
     "username": "RandomTree77",
@@ -13,42 +13,42 @@
       "atomic": {
         "games": 3,
         "rating": 1511,
-        "rd": 296,
+        "rd": 297,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1926,
-        "rd": 316,
+        "rd": 318,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 57,
-        "rating": 2412,
-        "rd": 74,
-        "prog": 17
+        "games": 113,
+        "rating": 2172,
+        "rd": 51,
+        "prog": -20
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1837,
-        "rd": 301,
+        "rd": 302,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1353,
-        "rd": 312,
+        "rd": 313,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 57,
-        "rating": 2396,
-        "rd": 69,
-        "prog": -47
+        "games": 174,
+        "rating": 2283,
+        "rd": 45,
+        "prog": 34
       },
       "correspondence": {
         "games": 0,
@@ -65,44 +65,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 30,
-        "rating": 2618,
-        "rd": 105,
-        "prog": -43
+        "games": 42,
+        "rating": 2571,
+        "rd": 83,
+        "prog": -54
       }
     },
     "createdAt": 1605656660128,
     "profile": {
       "country": "_lichess",
-      "bio": "Hello, Running on Raspberry Pi 4. Accepts Challenges Time controls blitz - classical, accepts standard and 960, maximum of 5 second increment, rated or nonrated. If you want to play bullet, please PM me. Only declines if playing a game, or if BOT is almost shutting down. Might be able to run 12 hours for 3 days, not in a row. @ExplosiveNitrogen is my creator. https://lichess.org/study/F2Y7yjrt\r\n**I played my self! https://lichess.org/IWKa994Qnw5L, It didn't work though =)**",
-      "firstName": "Random",
-      "lastName": "Tree model 77",
-      "fideRating": 3000,
-      "uscfRating": 3000,
-      "ecfRating": 3000
+      "bio": "Time controls blitz - classical, accepts standard and 960, maximum of 5-second increment, rated or nonrated. If you want to play bullet, please DM me. @ExplosiveNitrogen is my creator.  Runs on Arasan, the chess engine. I have stupid evaluation, don't expect it to be correct after you type \"!eval\" in the chat. Also, I use some interesting openings, get ready to be tricked!\r\n\r\nNo BOT challenges, unless you are in my club, or else, only humans please.",
+      "firstName": "RandomTree",
+      "lastName": "Weak Model"
     },
-    "seenAt": 1609869698828,
+    "seenAt": 1611177528269,
     "playTime": {
-      "total": 193178,
-      "tv": 62992
+      "total": 282580,
+      "tv": 91181
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomTree77",
+    "playing": "https://lichess.org/6d2ZwJSc/black",
     "nbFollowing": 188,
-    "nbFollowers": 48,
+    "nbFollowers": 58,
     "count": {
-      "all": 394,
-      "rated": 158,
-      "ai": 83,
-      "draw": 52,
-      "drawH": 52,
-      "loss": 70,
-      "lossH": 54,
-      "win": 272,
-      "winH": 205,
+      "all": 693,
+      "rated": 344,
+      "ai": 85,
+      "draw": 85,
+      "drawH": 84,
+      "loss": 224,
+      "lossH": 208,
+      "win": 384,
+      "winH": 316,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
