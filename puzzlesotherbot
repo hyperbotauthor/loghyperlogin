@@ -4,7 +4,7 @@
   "username": "puzzlesotherbot",
   "profileUrl": "https://lichess.org/@/puzzlesotherbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":5,\"rating\":2425,\"rd\":179,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":2197,\"rd\":305,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2281,\"rd\":187,\"prog\":2,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1493,\"rd\":494,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1960,\"rd\":157,\"prog\":16,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1685,\"rd\":347,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":477,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2477,\"rd\":205,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"1 human has beaten me ( but that was an engine crash)\\r\\nYou may get lucky too!\\r\\n\\r\\nmulti-variant\"},\"seenAt\":1611245490081,\"playTime\":{\"total\":18250,\"tv\":3274},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"nbFollowing\":1,\"nbFollowers\":7,\"count\":{\"all\":59,\"rated\":48,\"ai\":3,\"draw\":6,\"drawH\":6,\"loss\":17,\"lossH\":14,\"win\":36,\"winH\":36,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesotherbot\",\"username\":\"puzzlesotherbot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":5,\"rating\":2425,\"rd\":179,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":2197,\"rd\":305,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2281,\"rd\":187,\"prog\":2,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1493,\"rd\":494,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1960,\"rd\":157,\"prog\":16,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1685,\"rd\":347,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":477,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2477,\"rd\":205,\"prog\":0,\"prov\":true}},\"createdAt\":1605400714850,\"profile\":{\"bio\":\"1 human has beaten me ( but that was an engine crash)\\r\\nYou may get lucky too!\\r\\n\\r\\nmulti-variant\"},\"seenAt\":1611257131722,\"playTime\":{\"total\":18250,\"tv\":3274},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesotherbot\",\"playing\":\"https://lichess.org/GlH68ZiC/white\",\"nbFollowing\":1,\"nbFollowers\":7,\"count\":{\"all\":59,\"rated\":48,\"ai\":3,\"draw\":6,\"drawH\":6,\"loss\":17,\"lossH\":14,\"win\":36,\"winH\":36,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesotherbot",
     "username": "puzzlesotherbot",
@@ -71,7 +71,7 @@
     "profile": {
       "bio": "1 human has beaten me ( but that was an engine crash)\r\nYou may get lucky too!\r\n\r\nmulti-variant"
     },
-    "seenAt": 1611245490081,
+    "seenAt": 1611257131722,
     "playTime": {
       "total": 18250,
       "tv": 3274
@@ -79,6 +79,7 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/puzzlesotherbot",
+    "playing": "https://lichess.org/GlH68ZiC/white",
     "nbFollowing": 1,
     "nbFollowers": 7,
     "count": {
@@ -92,7 +93,7 @@
       "win": 36,
       "winH": 36,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
