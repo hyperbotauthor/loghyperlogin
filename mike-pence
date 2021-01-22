@@ -4,24 +4,24 @@
   "username": "Mike-Pence",
   "profileUrl": "https://lichess.org/@/Mike-Pence",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2137,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1886,\"rd\":135,\"prog\":-8,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"seenAt\":1611312312669,\"playTime\":{\"total\":1553,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":19,\"rated\":14,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":9,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2001,\"rd\":307,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1880,\"rd\":133,\"prog\":-14,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"profile\":{\"country\":\"US\",\"location\":\"Texas\",\"bio\":\"Trained on thousands of games from, Carlsen, Caruana, Jobava, Steinz, MVL, Alekhine, Giri, Lasker, Polgar, Grischuk, Reti, So, Andreikin, Anand, Nimzowitsch, Philidor, Rubenstein and so on\",\"firstName\":\"Mike\",\"lastName\":\"Pence\"},\"seenAt\":1611331633022,\"playTime\":{\"total\":2428,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":24,\"rated\":17,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":12,\"win\":10,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mike-pence",
     "username": "Mike-Pence",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2137,
-        "rd": 474,
+        "games": 3,
+        "rating": 2001,
+        "rd": 307,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 13,
-        "rating": 1886,
-        "rd": 135,
-        "prog": -8,
+        "games": 14,
+        "rating": 1880,
+        "rd": 133,
+        "prog": -14,
         "prov": true
       },
       "correspondence": {
@@ -47,9 +47,16 @@
       }
     },
     "createdAt": 1611306790714,
-    "seenAt": 1611312312669,
+    "profile": {
+      "country": "US",
+      "location": "Texas",
+      "bio": "Trained on thousands of games from, Carlsen, Caruana, Jobava, Steinz, MVL, Alekhine, Giri, Lasker, Polgar, Grischuk, Reti, So, Andreikin, Anand, Nimzowitsch, Philidor, Rubenstein and so on",
+      "firstName": "Mike",
+      "lastName": "Pence"
+    },
+    "seenAt": 1611331633022,
     "playTime": {
-      "total": 1553,
+      "total": 2428,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +65,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 19,
-      "rated": 14,
+      "all": 24,
+      "rated": 17,
       "ai": 1,
       "draw": 2,
       "drawH": 2,
-      "loss": 8,
-      "lossH": 8,
-      "win": 9,
-      "winH": 8,
+      "loss": 12,
+      "lossH": 12,
+      "win": 10,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
