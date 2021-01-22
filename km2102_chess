@@ -1,0 +1,84 @@
+{
+  "id": "km2102_chess",
+  "displayName": "KM2102_Chess",
+  "username": "KM2102_Chess",
+  "profileUrl": "https://lichess.org/@/KM2102_Chess",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"km2102_chess\",\"username\":\"KM2102_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1847,\"rd\":85,\"prog\":-135},\"bullet\":{\"games\":28,\"rating\":1662,\"rd\":88,\"prog\":12},\"correspondence\":{\"games\":3,\"rating\":1595,\"rd\":256,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2429,\"rd\":215,\"prog\":13,\"prov\":true}},\"createdAt\":1610729660505,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Birmingham\",\"bio\":\"If you follow me I will follow back! Feel free to challenge me to a casual game!\\r\\nMy Owner: @KaiM2102\"},\"seenAt\":1611306620355,\"playTime\":{\"total\":25474,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KM2102_Chess\",\"nbFollowing\":31,\"nbFollowers\":32,\"count\":{\"all\":140,\"rated\":76,\"ai\":8,\"draw\":7,\"drawH\":7,\"loss\":60,\"lossH\":53,\"win\":73,\"winH\":72,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "km2102_chess",
+    "username": "KM2102_Chess",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 32,
+        "rating": 1847,
+        "rd": 85,
+        "prog": -135
+      },
+      "bullet": {
+        "games": 28,
+        "rating": 1662,
+        "rd": 88,
+        "prog": 12
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1595,
+        "rd": 256,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 13,
+        "rating": 2429,
+        "rd": 215,
+        "prog": 13,
+        "prov": true
+      }
+    },
+    "createdAt": 1610729660505,
+    "profile": {
+      "country": "GB-ENG",
+      "location": "Birmingham",
+      "bio": "If you follow me I will follow back! Feel free to challenge me to a casual game!\r\nMy Owner: @KaiM2102"
+    },
+    "seenAt": 1611306620355,
+    "playTime": {
+      "total": 25474,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/KM2102_Chess",
+    "nbFollowing": 31,
+    "nbFollowers": 32,
+    "count": {
+      "all": 140,
+      "rated": 76,
+      "ai": 8,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 60,
+      "lossH": 53,
+      "win": 73,
+      "winH": 72,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
