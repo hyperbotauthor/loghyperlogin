@@ -4,7 +4,7 @@
   "username": "Bobby_Fischer_BOT",
   "profileUrl": "https://lichess.org/@/Bobby_Fischer_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1905,\"rd\":308,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":421,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1326,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1680,\"rd\":295,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1441,\"rd\":419,\"prog\":0,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nFollow me and I will follow you back! \\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1611213896763,\"playTime\":{\"total\":15313,\"tv\":0},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/7K9RZC1j/black\",\"nbFollowing\":45,\"nbFollowers\":44,\"count\":{\"all\":52,\"rated\":12,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":28,\"lossH\":27,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1905,\"rd\":308,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":421,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1326,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1680,\"rd\":295,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1441,\"rd\":419,\"prog\":0,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nFollow me and I will follow you back! \\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1611301906832,\"playTime\":{\"total\":15567,\"tv\":0},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/7K9RZC1j/black\",\"nbFollowing\":45,\"nbFollowers\":44,\"count\":{\"all\":54,\"rated\":12,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":28,\"lossH\":27,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobby_fischer_bot",
     "username": "Bobby_Fischer_BOT",
@@ -64,9 +64,9 @@
     "profile": {
       "bio": "I accept challenges from everyone, standards and variants, when I am online.\r\nFollow me and I will follow you back! \r\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\r\nhttps://i.imgur.com/mwo9eTL.jpg"
     },
-    "seenAt": 1611213896763,
+    "seenAt": 1611301906832,
     "playTime": {
-      "total": 15313,
+      "total": 15567,
       "tv": 0
     },
     "language": "it-IT",
@@ -76,15 +76,15 @@
     "nbFollowing": 45,
     "nbFollowers": 44,
     "count": {
-      "all": 52,
+      "all": 54,
       "rated": 12,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
       "loss": 28,
       "lossH": 27,
-      "win": 23,
-      "winH": 23,
+      "win": 25,
+      "winH": 25,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
