@@ -1,0 +1,94 @@
+{
+  "id": "johan201023_chess",
+  "displayName": "Johan201023_Chess",
+  "username": "Johan201023_Chess",
+  "profileUrl": "https://lichess.org/@/Johan201023_Chess",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"johan201023_chess\",\"username\":\"Johan201023_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":1945,\"rd\":182,\"prog\":-92,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1696,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2209,\"rd\":426,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2189,\"rd\":214,\"prog\":0,\"prov\":true}},\"createdAt\":1611053677070,\"profile\":{\"bio\":\"Hey everyone! this BOT creator is @Johan201023!\\r\\n\\r\\nEveryone is free to Challenge this BOT!\\r\\n\\r\\nEven you can chat with this BOT!\\r\\n\\r\\nHave fun!\",\"firstName\":\"Johan Joseph\",\"lastName\":\"BOT\",\"links\":\"https://lichess.org/@/Johan201023\"},\"seenAt\":1611300640183,\"playTime\":{\"total\":7396,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Johan201023_Chess\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":46,\"rated\":30,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":9,\"lossH\":9,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "johan201023_chess",
+    "username": "Johan201023_Chess",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 22,
+        "rating": 1945,
+        "rd": 182,
+        "prog": -92,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1696,
+        "rd": 269,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 2209,
+        "rd": 426,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 2189,
+        "rd": 214,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1611053677070,
+    "profile": {
+      "bio": "Hey everyone! this BOT creator is @Johan201023!\r\n\r\nEveryone is free to Challenge this BOT!\r\n\r\nEven you can chat with this BOT!\r\n\r\nHave fun!",
+      "firstName": "Johan Joseph",
+      "lastName": "BOT",
+      "links": "https://lichess.org/@/Johan201023"
+    },
+    "seenAt": 1611300640183,
+    "playTime": {
+      "total": 7396,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Johan201023_Chess",
+    "nbFollowing": 0,
+    "nbFollowers": 4,
+    "count": {
+      "all": 46,
+      "rated": 30,
+      "ai": 0,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 9,
+      "lossH": 9,
+      "win": 32,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
