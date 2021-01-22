@@ -4,23 +4,23 @@
   "username": "Hulk990",
   "profileUrl": "https://lichess.org/@/Hulk990",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hulk990\",\"username\":\"Hulk990\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1182,\"rd\":279,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1379,\"rd\":332,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1168,\"rd\":320,\"prog\":0,\"prov\":true}},\"createdAt\":1610639558473,\"profile\":{\"country\":\"IN\",\"firstName\":\"Raj\"},\"seenAt\":1610703569389,\"playTime\":{\"total\":3479,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Hulk990\",\"playing\":\"https://lichess.org/i3IgNybU/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":14,\"rated\":12,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":12,\"win\":2,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hulk990\",\"username\":\"Hulk990\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1608,\"rd\":273,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1379,\"rd\":333,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1168,\"rd\":320,\"prog\":0,\"prov\":true}},\"createdAt\":1610639558473,\"profile\":{\"country\":\"IN\",\"firstName\":\"Raj\"},\"seenAt\":1611298002648,\"playTime\":{\"total\":4080,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Hulk990\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":15,\"rated\":13,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":12,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hulk990",
     "username": "Hulk990",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 6,
-        "rating": 1182,
-        "rd": 279,
+        "games": 7,
+        "rating": 1608,
+        "rd": 273,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1379,
-        "rd": 332,
+        "rd": 333,
         "prog": 0,
         "prov": true
       },
@@ -51,29 +51,28 @@
       "country": "IN",
       "firstName": "Raj"
     },
-    "seenAt": 1610703569389,
+    "seenAt": 1611298002648,
     "playTime": {
-      "total": 3479,
+      "total": 4080,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Hulk990",
-    "playing": "https://lichess.org/i3IgNybU/white",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 14,
-      "rated": 12,
+      "all": 15,
+      "rated": 13,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
       "loss": 12,
       "lossH": 12,
-      "win": 2,
-      "winH": 0,
+      "win": 3,
+      "winH": 1,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
