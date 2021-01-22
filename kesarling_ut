@@ -1,0 +1,127 @@
+{
+  "id": "kesarling_ut",
+  "displayName": "Kesarling_UT",
+  "username": "Kesarling_UT",
+  "profileUrl": "https://lichess.org/@/Kesarling_UT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kesarling_ut\",\"username\":\"Kesarling_UT\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1140,\"rd\":351,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1249,\"rd\":258,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":70,\"rating\":1712,\"rd\":83,\"prog\":116},\"atomic\":{\"games\":1,\"rating\":1076,\"rd\":332,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":1132,\"rd\":222,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1254,\"rd\":244,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1209,\"rd\":241,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1820,\"rd\":224,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":32,\"rating\":1708,\"rd\":86,\"prog\":-15}},\"createdAt\":1603441680066,\"profile\":{\"country\":\"IN\",\"location\":\"Pune\",\"firstName\":\"Mohal\",\"lastName\":\"Dugal\"},\"seenAt\":1610771725175,\"playTime\":{\"total\":28786,\"tv\":385},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Kesarling_UT\",\"nbFollowing\":2,\"nbFollowers\":1,\"completionRate\":87,\"count\":{\"all\":67,\"rated\":50,\"ai\":10,\"draw\":4,\"drawH\":4,\"loss\":37,\"lossH\":29,\"win\":26,\"winH\":24,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kesarling_ut",
+    "username": "Kesarling_UT",
+    "online": false,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1140,
+        "rd": 351,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1249,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 70,
+        "rating": 1712,
+        "rd": 83,
+        "prog": 116
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1076,
+        "rd": 332,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 5,
+        "rating": 1132,
+        "rd": 222,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1254,
+        "rd": 244,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1209,
+        "rd": 241,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1820,
+        "rd": 224,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 32,
+        "rating": 1708,
+        "rd": 86,
+        "prog": -15
+      }
+    },
+    "createdAt": 1603441680066,
+    "profile": {
+      "country": "IN",
+      "location": "Pune",
+      "firstName": "Mohal",
+      "lastName": "Dugal"
+    },
+    "seenAt": 1610771725175,
+    "playTime": {
+      "total": 28786,
+      "tv": 385
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Kesarling_UT",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "completionRate": 87,
+    "count": {
+      "all": 67,
+      "rated": 50,
+      "ai": 10,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 37,
+      "lossH": 29,
+      "win": 26,
+      "winH": 24,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
