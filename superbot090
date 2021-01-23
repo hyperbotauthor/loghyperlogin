@@ -4,7 +4,7 @@
   "username": "Superbot090",
   "profileUrl": "https://lichess.org/@/Superbot090",
   "provider": "lichess",
-  "_raw": "{\"id\":\"superbot090\",\"username\":\"Superbot090\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2209,\"rd\":430,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611416179366,\"profile\":{\"bio\":\"Mi creador es @unai777\"},\"seenAt\":1611429687586,\"playTime\":{\"total\":705,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Superbot090\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"superbot090\",\"username\":\"Superbot090\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1323,\"rd\":243,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611416179366,\"profile\":{\"country\":\"EU\",\"bio\":\"Mi creador es @unai777\\r\\nAcepto retos. Challenge me.\"},\"seenAt\":1611431193059,\"playTime\":{\"total\":1528,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Superbot090\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":4,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":5,\"win\":2,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "superbot090",
     "username": "Superbot090",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2209,
-        "rd": 430,
+        "games": 4,
+        "rating": 1323,
+        "rd": 243,
         "prog": 0,
         "prov": true
       },
@@ -48,11 +48,12 @@
     },
     "createdAt": 1611416179366,
     "profile": {
-      "bio": "Mi creador es @unai777"
+      "country": "EU",
+      "bio": "Mi creador es @unai777\r\nAcepto retos. Challenge me."
     },
-    "seenAt": 1611429687586,
+    "seenAt": 1611431193059,
     "playTime": {
-      "total": 705,
+      "total": 1528,
       "tv": 0
     },
     "language": "es-ES",
@@ -61,14 +62,14 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 2,
-      "rated": 1,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 1,
+      "all": 9,
+      "rated": 4,
+      "ai": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 5,
+      "win": 2,
       "winH": 1,
       "bookmark": 0,
       "playing": 0,
