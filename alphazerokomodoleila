@@ -4,7 +4,7 @@
   "username": "AlphaZerokomodoleila",
   "profileUrl": "https://lichess.org/@/AlphaZerokomodoleila",
   "provider": "lichess",
-  "_raw": "{\"id\":\"alphazerokomodoleila\",\"username\":\"AlphaZerokomodoleila\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1477,\"rd\":468,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2263,\"rd\":143,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609355601865,\"seenAt\":1609540352658,\"playTime\":{\"total\":6623,\"tv\":845},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AlphaZerokomodoleila\",\"playing\":\"https://lichess.org/cBCLhFqE/white\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":34,\"rated\":10,\"ai\":23,\"draw\":5,\"drawH\":1,\"loss\":18,\"lossH\":6,\"win\":11,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"alphazerokomodoleila\",\"username\":\"AlphaZerokomodoleila\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1477,\"rd\":469,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2263,\"rd\":147,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609355601865,\"seenAt\":1611428238585,\"playTime\":{\"total\":6825,\"tv\":1047},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AlphaZerokomodoleila\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":35,\"rated\":10,\"ai\":24,\"draw\":6,\"drawH\":1,\"loss\":18,\"lossH\":6,\"win\":11,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "alphazerokomodoleila",
     "username": "AlphaZerokomodoleila",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 2,
         "rating": 1477,
-        "rd": 468,
+        "rd": 469,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 8,
         "rating": 2263,
-        "rd": 143,
+        "rd": 147,
         "prog": 0,
         "prov": true
       },
@@ -47,29 +47,28 @@
       }
     },
     "createdAt": 1609355601865,
-    "seenAt": 1609540352658,
+    "seenAt": 1611428238585,
     "playTime": {
-      "total": 6623,
-      "tv": 845
+      "total": 6825,
+      "tv": 1047
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/AlphaZerokomodoleila",
-    "playing": "https://lichess.org/cBCLhFqE/white",
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 34,
+      "all": 35,
       "rated": 10,
-      "ai": 23,
-      "draw": 5,
+      "ai": 24,
+      "draw": 6,
       "drawH": 1,
       "loss": 18,
       "lossH": 6,
       "win": 11,
       "winH": 4,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
