@@ -4,25 +4,45 @@
   "username": "Mike-Pence",
   "profileUrl": "https://lichess.org/@/Mike-Pence",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2001,\"rd\":307,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1880,\"rd\":133,\"prog\":-14,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"profile\":{\"country\":\"US\",\"location\":\"Texas\",\"bio\":\"Trained on thousands of games from, Carlsen, Caruana, Jobava, Steinz, MVL, Alekhine, Giri, Lasker, Polgar, Grischuk, Reti, So, Andreikin, Anand, Nimzowitsch, Philidor, Rubenstein and so on\",\"firstName\":\"Mike\",\"lastName\":\"Pence\"},\"seenAt\":1611331633022,\"playTime\":{\"total\":2428,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":24,\"rated\":17,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":12,\"win\":10,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2001,\"rd\":308,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2447,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2378,\"rd\":254,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1995,\"rd\":331,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":2041,\"rd\":86,\"prog\":105},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"profile\":{\"country\":\"US\",\"location\":\"Illinois\",\"bio\":\"My Stronger siblings are @TrumpFor2O2O and @DanBongino\\r\\n\\r\\nGO TRUMP\",\"firstName\":\"Mike\",\"lastName\":\"Pence\"},\"seenAt\":1611343323419,\"playTime\":{\"total\":6828,\"tv\":364},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":56,\"rated\":45,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":20,\"lossH\":20,\"win\":34,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mike-pence",
     "username": "Mike-Pence",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 3,
         "rating": 2001,
-        "rd": 307,
+        "rd": 308,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 5,
+        "rating": 2447,
+        "rd": 176,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 2378,
+        "rd": 254,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1995,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 14,
-        "rating": 1880,
-        "rd": 133,
-        "prog": -14,
-        "prov": true
+        "games": 31,
+        "rating": 2041,
+        "rd": 86,
+        "prog": 105
       },
       "correspondence": {
         "games": 0,
@@ -32,9 +52,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1482,
+        "rd": 474,
         "prog": 0,
         "prov": true
       },
@@ -49,15 +69,15 @@
     "createdAt": 1611306790714,
     "profile": {
       "country": "US",
-      "location": "Texas",
-      "bio": "Trained on thousands of games from, Carlsen, Caruana, Jobava, Steinz, MVL, Alekhine, Giri, Lasker, Polgar, Grischuk, Reti, So, Andreikin, Anand, Nimzowitsch, Philidor, Rubenstein and so on",
+      "location": "Illinois",
+      "bio": "My Stronger siblings are @TrumpFor2O2O and @DanBongino\r\n\r\nGO TRUMP",
       "firstName": "Mike",
       "lastName": "Pence"
     },
-    "seenAt": 1611331633022,
+    "seenAt": 1611343323419,
     "playTime": {
-      "total": 2428,
-      "tv": 0
+      "total": 6828,
+      "tv": 364
     },
     "language": "en-US",
     "title": "BOT",
@@ -65,15 +85,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 24,
-      "rated": 17,
+      "all": 56,
+      "rated": 45,
       "ai": 1,
       "draw": 2,
       "drawH": 2,
-      "loss": 12,
-      "lossH": 12,
-      "win": 10,
-      "winH": 9,
+      "loss": 20,
+      "lossH": 20,
+      "win": 34,
+      "winH": 33,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
