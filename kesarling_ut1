@@ -4,7 +4,7 @@
   "username": "Kesarling_UT1",
   "profileUrl": "https://lichess.org/@/Kesarling_UT1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kesarling_ut1\",\"username\":\"Kesarling_UT1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1491,\"rd\":487,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611324201094,\"seenAt\":1611465454588,\"playTime\":{\"total\":126,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kesarling_UT1\",\"playing\":\"https://lichess.org/18nqs0FV/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":19,\"rated\":1,\"ai\":18,\"draw\":3,\"drawH\":0,\"loss\":8,\"lossH\":1,\"win\":8,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kesarling_ut1\",\"username\":\"Kesarling_UT1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1491,\"rd\":487,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611324201094,\"seenAt\":1611474117945,\"playTime\":{\"total\":126,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kesarling_UT1\",\"playing\":\"https://lichess.org/gdEDVPLR/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":22,\"rated\":1,\"ai\":21,\"draw\":4,\"drawH\":0,\"loss\":10,\"lossH\":1,\"win\":8,\"winH\":0,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kesarling_ut1",
     "username": "Kesarling_UT1",
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1611324201094,
-    "seenAt": 1611465454588,
+    "seenAt": 1611474117945,
     "playTime": {
       "total": 126,
       "tv": 0
@@ -55,20 +55,20 @@
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Kesarling_UT1",
-    "playing": "https://lichess.org/18nqs0FV/white",
+    "playing": "https://lichess.org/gdEDVPLR/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 19,
+      "all": 22,
       "rated": 1,
-      "ai": 18,
-      "draw": 3,
+      "ai": 21,
+      "draw": 4,
       "drawH": 0,
-      "loss": 8,
+      "loss": 10,
       "lossH": 1,
       "win": 8,
       "winH": 0,
-      "bookmark": 0,
+      "bookmark": 1,
       "playing": 1,
       "import": 0,
       "me": 0
