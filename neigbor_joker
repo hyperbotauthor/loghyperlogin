@@ -1,0 +1,114 @@
+{
+  "id": "neigbor_joker",
+  "displayName": "neigbor_JOKER",
+  "username": "neigbor_JOKER",
+  "profileUrl": "https://lichess.org/@/neigbor_JOKER",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"neigbor_joker\",\"username\":\"neigbor_JOKER\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":977,\"rd\":215,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":34,\"rating\":2021,\"rd\":124,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":12,\"rating\":1289,\"rd\":117,\"prog\":-20,\"prov\":true},\"blitz\":{\"games\":50,\"rating\":1489,\"rd\":65,\"prog\":-39},\"crazyhouse\":{\"games\":4,\"rating\":1860,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1749,\"rd\":169,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":449,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1584,\"rd\":219,\"prog\":0,\"prov\":true}},\"createdAt\":1607951087484,\"profile\":{\"country\":\"TR\",\"location\":\"İstanbul\",\"firstName\":\"Tevfik Haktan\",\"lastName\":\"Berkem\"},\"seenAt\":1611568966369,\"playTime\":{\"total\":18783,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/neigbor_JOKER\",\"nbFollowing\":5,\"nbFollowers\":3,\"completionRate\":87,\"count\":{\"all\":98,\"rated\":82,\"ai\":12,\"draw\":6,\"drawH\":6,\"loss\":43,\"lossH\":36,\"win\":49,\"winH\":44,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "neigbor_joker",
+    "username": "neigbor_JOKER",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 3,
+        "rating": 977,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 34,
+        "rating": 2021,
+        "rd": 124,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 12,
+        "rating": 1289,
+        "rd": 117,
+        "prog": -20,
+        "prov": true
+      },
+      "blitz": {
+        "games": 50,
+        "rating": 1489,
+        "rd": 65,
+        "prog": -39
+      },
+      "crazyhouse": {
+        "games": 4,
+        "rating": 1860,
+        "rd": 305,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 1749,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 449,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1584,
+        "rd": 219,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1607951087484,
+    "profile": {
+      "country": "TR",
+      "location": "İstanbul",
+      "firstName": "Tevfik Haktan",
+      "lastName": "Berkem"
+    },
+    "seenAt": 1611568966369,
+    "playTime": {
+      "total": 18783,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/neigbor_JOKER",
+    "nbFollowing": 5,
+    "nbFollowers": 3,
+    "completionRate": 87,
+    "count": {
+      "all": 98,
+      "rated": 82,
+      "ai": 12,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 43,
+      "lossH": 36,
+      "win": 49,
+      "winH": 44,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
