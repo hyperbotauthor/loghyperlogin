@@ -4,7 +4,7 @@
   "username": "Thegreatestchess_bot",
   "profileUrl": "https://lichess.org/@/Thegreatestchess_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2458,\"rd\":285,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1490,\"rd\":485,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me!\"},\"seenAt\":1611412239560,\"playTime\":{\"total\":5194,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2458,\"rd\":285,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2455,\"rd\":235,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1495,\"rd\":494,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz\"},\"seenAt\":1611605257942,\"playTime\":{\"total\":13165,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":26,\"rated\":10,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":13,\"lossH\":13,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatestchess_bot",
     "username": "Thegreatestchess_bot",
@@ -17,10 +17,17 @@
         "prog": 0,
         "prov": true
       },
-      "bullet": {
+      "antichess": {
         "games": 1,
-        "rating": 1490,
-        "rd": 485,
+        "rating": 1481,
+        "rd": 474,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 2455,
+        "rd": 235,
         "prog": 0,
         "prov": true
       },
@@ -39,20 +46,20 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1495,
+        "rd": 494,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1611351005077,
     "profile": {
-      "bio": "I accept all challenges! Challenge me!"
+      "bio": "I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz"
     },
-    "seenAt": 1611412239560,
+    "seenAt": 1611605257942,
     "playTime": {
-      "total": 5194,
+      "total": 13165,
       "tv": 0
     },
     "language": "en-US",
@@ -61,15 +68,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 7,
-      "rated": 4,
+      "all": 26,
+      "rated": 10,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
-      "win": 5,
-      "winH": 5,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 13,
+      "lossH": 13,
+      "win": 11,
+      "winH": 11,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
