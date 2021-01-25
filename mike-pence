@@ -4,22 +4,29 @@
   "username": "Mike-Pence",
   "profileUrl": "https://lichess.org/@/Mike-Pence",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":21,\"rating\":2412,\"rd\":92,\"prog\":32},\"atomic\":{\"games\":8,\"rating\":2068,\"rd\":164,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1875,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2164,\"rd\":214,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":2226,\"rd\":58,\"prog\":43},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"profile\":{\"country\":\"US\",\"location\":\"Illinois\",\"bio\":\"My Stronger siblings are @TrumpFor2O2O and @DanBongino\\r\\n\\r\\nGO TRUMP\",\"firstName\":\"Mike\",\"lastName\":\"Pence\"},\"seenAt\":1611491297668,\"playTime\":{\"total\":18205,\"tv\":1560},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":108,\"rated\":93,\"ai\":1,\"draw\":8,\"drawH\":8,\"loss\":31,\"lossH\":31,\"win\":69,\"winH\":68,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mike-pence\",\"username\":\"Mike-Pence\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1883,\"rd\":307,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":27,\"rating\":2453,\"rd\":84,\"prog\":78},\"atomic\":{\"games\":10,\"rating\":2032,\"rd\":144,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1875,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2236,\"rd\":194,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":56,\"rating\":2233,\"rd\":57,\"prog\":26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611306790714,\"profile\":{\"country\":\"US\",\"location\":\"Illinois\",\"bio\":\"My Stronger siblings are @TrumpFor2O2O and @DanBongino\\r\\n\\r\\nGO TRUMP\",\"firstName\":\"Mike\",\"lastName\":\"Pence\"},\"seenAt\":1611579393778,\"playTime\":{\"total\":21579,\"tv\":1925},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mike-Pence\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":126,\"rated\":106,\"ai\":3,\"draw\":12,\"drawH\":11,\"loss\":33,\"lossH\":33,\"win\":81,\"winH\":79,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mike-pence",
     "username": "Mike-Pence",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1883,
+        "rd": 307,
+        "prog": 0,
+        "prov": true
+      },
       "antichess": {
-        "games": 21,
-        "rating": 2412,
-        "rd": 92,
-        "prog": 32
+        "games": 27,
+        "rating": 2453,
+        "rd": 84,
+        "prog": 78
       },
       "atomic": {
-        "games": 8,
-        "rating": 2068,
-        "rd": 164,
+        "games": 10,
+        "rating": 2032,
+        "rd": 144,
         "prog": 0,
         "prov": true
       },
@@ -31,9 +38,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 5,
-        "rating": 2164,
-        "rd": 214,
+        "games": 6,
+        "rating": 2236,
+        "rd": 194,
         "prog": 0,
         "prov": true
       },
@@ -52,10 +59,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 53,
-        "rating": 2226,
-        "rd": 58,
-        "prog": 43
+        "games": 56,
+        "rating": 2233,
+        "rd": 57,
+        "prog": 26
       },
       "correspondence": {
         "games": 0,
@@ -87,10 +94,10 @@
       "firstName": "Mike",
       "lastName": "Pence"
     },
-    "seenAt": 1611491297668,
+    "seenAt": 1611579393778,
     "playTime": {
-      "total": 18205,
-      "tv": 1560
+      "total": 21579,
+      "tv": 1925
     },
     "language": "en-US",
     "title": "BOT",
@@ -98,15 +105,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 108,
-      "rated": 93,
-      "ai": 1,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 31,
-      "lossH": 31,
-      "win": 69,
-      "winH": 68,
+      "all": 126,
+      "rated": 106,
+      "ai": 3,
+      "draw": 12,
+      "drawH": 11,
+      "loss": 33,
+      "lossH": 33,
+      "win": 81,
+      "winH": 79,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
