@@ -1,0 +1,80 @@
+{
+  "id": "bored-bot",
+  "displayName": "Bored-Bot",
+  "username": "Bored-Bot",
+  "profileUrl": "https://lichess.org/@/Bored-Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bored-bot\",\"username\":\"Bored-Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2431,\"rd\":173,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":2288,\"rd\":96,\"prog\":60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610874067368,\"seenAt\":1611570384151,\"playTime\":{\"total\":15127,\"tv\":1562},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bored-Bot\",\"nbFollowing\":5,\"nbFollowers\":3,\"count\":{\"all\":100,\"rated\":24,\"ai\":56,\"draw\":15,\"drawH\":5,\"loss\":51,\"lossH\":12,\"win\":34,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bored-bot",
+    "username": "Bored-Bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 2431,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 19,
+        "rating": 2288,
+        "rd": 96,
+        "prog": 60
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610874067368,
+    "seenAt": 1611570384151,
+    "playTime": {
+      "total": 15127,
+      "tv": 1562
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Bored-Bot",
+    "nbFollowing": 5,
+    "nbFollowers": 3,
+    "count": {
+      "all": 100,
+      "rated": 24,
+      "ai": 56,
+      "draw": 15,
+      "drawH": 5,
+      "loss": 51,
+      "lossH": 12,
+      "win": 34,
+      "winH": 27,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
