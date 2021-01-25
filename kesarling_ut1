@@ -4,7 +4,7 @@
   "username": "Kesarling_UT1",
   "profileUrl": "https://lichess.org/@/Kesarling_UT1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kesarling_ut1\",\"username\":\"Kesarling_UT1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2181,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2066,\"rd\":103,\"prog\":-302},\"correspondence\":{\"games\":4,\"rating\":1455,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1664,\"rd\":441,\"prog\":0,\"prov\":true}},\"createdAt\":1611324201094,\"seenAt\":1611510486844,\"playTime\":{\"total\":6438,\"tv\":575},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kesarling_UT1\",\"nbFollowing\":12,\"nbFollowers\":3,\"count\":{\"all\":69,\"rated\":38,\"ai\":28,\"draw\":6,\"drawH\":2,\"loss\":31,\"lossH\":18,\"win\":32,\"winH\":21,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kesarling_ut1\",\"username\":\"Kesarling_UT1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2181,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2066,\"rd\":103,\"prog\":-302},\"correspondence\":{\"games\":4,\"rating\":1455,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1664,\"rd\":441,\"prog\":0,\"prov\":true}},\"createdAt\":1611324201094,\"seenAt\":1611537446661,\"playTime\":{\"total\":6706,\"tv\":575},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kesarling_UT1\",\"nbFollowing\":12,\"nbFollowers\":3,\"count\":{\"all\":72,\"rated\":38,\"ai\":31,\"draw\":6,\"drawH\":2,\"loss\":33,\"lossH\":18,\"win\":33,\"winH\":21,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kesarling_ut1",
     "username": "Kesarling_UT1",
@@ -46,9 +46,9 @@
       }
     },
     "createdAt": 1611324201094,
-    "seenAt": 1611510486844,
+    "seenAt": 1611537446661,
     "playTime": {
-      "total": 6438,
+      "total": 6706,
       "tv": 575
     },
     "language": "en-GB",
@@ -57,14 +57,14 @@
     "nbFollowing": 12,
     "nbFollowers": 3,
     "count": {
-      "all": 69,
+      "all": 72,
       "rated": 38,
-      "ai": 28,
+      "ai": 31,
       "draw": 6,
       "drawH": 2,
-      "loss": 31,
+      "loss": 33,
       "lossH": 18,
-      "win": 32,
+      "win": 33,
       "winH": 21,
       "bookmark": 1,
       "playing": 0,
