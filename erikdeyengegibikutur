@@ -4,23 +4,37 @@
   "username": "ERIKDEYENGEGIBIKUTUR",
   "profileUrl": "https://lichess.org/@/ERIKDEYENGEGIBIKUTUR",
   "provider": "lichess",
-  "_raw": "{\"id\":\"erikdeyengegibikutur\",\"username\":\"ERIKDEYENGEGIBIKUTUR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611602971489,\"seenAt\":1611602997238,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/ERIKDEYENGEGIBIKUTUR\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"erikdeyengegibikutur\",\"username\":\"ERIKDEYENGEGIBIKUTUR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1721,\"rd\":200,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1657,\"rd\":387,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1712,\"rd\":160,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":800,\"rd\":432,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1224,\"rd\":358,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611602971489,\"seenAt\":1611648321601,\"playTime\":{\"total\":10945,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ERIKDEYENGEGIBIKUTUR\",\"nbFollowing\":23,\"nbFollowers\":4,\"count\":{\"all\":24,\"rated\":15,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":9,\"win\":12,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "erikdeyengegibikutur",
     "username": "ERIKDEYENGEGIBIKUTUR",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 6,
+        "rating": 1721,
+        "rd": 200,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1657,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 5,
+        "rating": 1712,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 800,
+        "rd": 432,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +46,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1224,
+        "rd": 358,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +61,26 @@
       }
     },
     "createdAt": 1611602971489,
-    "seenAt": 1611602997238,
+    "seenAt": 1611648321601,
     "playTime": {
-      "total": 0,
+      "total": 10945,
       "tv": 0
     },
     "language": "tr-TR",
+    "title": "BOT",
     "url": "https://lichess.org/@/ERIKDEYENGEGIBIKUTUR",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 23,
+    "nbFollowers": 4,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 24,
+      "rated": 15,
+      "ai": 7,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 12,
+      "lossH": 9,
+      "win": 12,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
