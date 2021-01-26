@@ -4,7 +4,7 @@
   "username": "KINGNANDICHESS",
   "profileUrl": "https://lichess.org/@/KINGNANDICHESS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandichess\",\"username\":\"KINGNANDICHESS\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1671,\"rd\":319,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1297,\"rd\":371,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":15,\"rating\":1019,\"rd\":166,\"prog\":104,\"prov\":true},\"blitz\":{\"games\":65,\"rating\":1662,\"rd\":74,\"prog\":-49},\"kingOfTheHill\":{\"games\":12,\"rating\":1483,\"rd\":162,\"prog\":-12,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1155,\"rd\":330,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1067,\"rd\":124,\"prog\":-115,\"prov\":true},\"bullet\":{\"games\":60,\"rating\":1885,\"rd\":59,\"prog\":-25},\"correspondence\":{\"games\":26,\"rating\":1274,\"rd\":122,\"prog\":104,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1467,\"rd\":452,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":2055,\"rd\":98,\"prog\":47}},\"createdAt\":1611204875472,\"profile\":{\"country\":\"IN\",\"location\":\"mumbai\",\"bio\":\"i am a bot .\\r\\nkingnandi made me.\\r\\ni play chess so challenge me but remmeber to make it rated. casual i accept only from my friends .\\r\\nso please challenge me to any variant and ill accept.\\r\\nalso give my developer and maker a follow please.\\r\\nso follow me here. this is an alternate account of him.\\r\\nhis real main account is https://lichess.org/@/Kingnandi. sofollow him too and follow me\",\"firstName\":\"Kingnandi\",\"lastName\":\"nandi\",\"fideRating\":1347,\"links\":\"chess.com\"},\"seenAt\":1611585548435,\"playTime\":{\"total\":35776,\"tv\":490},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDICHESS\",\"playing\":\"https://lichess.org/JDXfYOSb/black\",\"nbFollowing\":27,\"nbFollowers\":13,\"count\":{\"all\":279,\"rated\":229,\"ai\":11,\"draw\":6,\"drawH\":6,\"loss\":196,\"lossH\":189,\"win\":77,\"winH\":73,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandichess\",\"username\":\"KINGNANDICHESS\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1671,\"rd\":319,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1297,\"rd\":371,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":15,\"rating\":1019,\"rd\":166,\"prog\":104,\"prov\":true},\"blitz\":{\"games\":65,\"rating\":1662,\"rd\":74,\"prog\":-49},\"kingOfTheHill\":{\"games\":12,\"rating\":1483,\"rd\":162,\"prog\":-12,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1155,\"rd\":330,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1067,\"rd\":124,\"prog\":-115,\"prov\":true},\"bullet\":{\"games\":60,\"rating\":1885,\"rd\":59,\"prog\":-25},\"correspondence\":{\"games\":26,\"rating\":1274,\"rd\":122,\"prog\":104,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1467,\"rd\":452,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2052,\"rd\":94,\"prog\":18}},\"createdAt\":1611204875472,\"profile\":{\"country\":\"IN\",\"location\":\"mumbai\",\"bio\":\"i am a bot .\\r\\nkingnandi made me.\\r\\ni play chess so challenge me but remmeber to make it rated. casual i accept only from my friends .\\r\\nso please challenge me to any variant and ill accept.\\r\\nalso give my developer and maker a follow please.\\r\\nso follow me here. this is an alternate account of him.\\r\\nhis real main account is https://lichess.org/@/Kingnandi. sofollow him too and follow me\",\"firstName\":\"Kingnandi\",\"lastName\":\"nandi\",\"fideRating\":1347,\"links\":\"chess.com\"},\"seenAt\":1611636079338,\"playTime\":{\"total\":38060,\"tv\":490},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDICHESS\",\"nbFollowing\":27,\"nbFollowers\":16,\"count\":{\"all\":282,\"rated\":231,\"ai\":12,\"draw\":6,\"drawH\":6,\"loss\":198,\"lossH\":190,\"win\":78,\"winH\":74,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandichess",
     "username": "KINGNANDICHESS",
@@ -79,10 +79,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 21,
-        "rating": 2055,
-        "rd": 98,
-        "prog": 47
+        "games": 23,
+        "rating": 2052,
+        "rd": 94,
+        "prog": 18
       }
     },
     "createdAt": 1611204875472,
@@ -95,29 +95,28 @@
       "fideRating": 1347,
       "links": "chess.com"
     },
-    "seenAt": 1611585548435,
+    "seenAt": 1611636079338,
     "playTime": {
-      "total": 35776,
+      "total": 38060,
       "tv": 490
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDICHESS",
-    "playing": "https://lichess.org/JDXfYOSb/black",
     "nbFollowing": 27,
-    "nbFollowers": 13,
+    "nbFollowers": 16,
     "count": {
-      "all": 279,
-      "rated": 229,
-      "ai": 11,
+      "all": 282,
+      "rated": 231,
+      "ai": 12,
       "draw": 6,
       "drawH": 6,
-      "loss": 196,
-      "lossH": 189,
-      "win": 77,
-      "winH": 73,
+      "loss": 198,
+      "lossH": 190,
+      "win": 78,
+      "winH": 74,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
