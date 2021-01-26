@@ -1,0 +1,90 @@
+{
+  "id": "verifyyourclock",
+  "displayName": "VerifyYourClock",
+  "username": "VerifyYourClock",
+  "profileUrl": "https://lichess.org/@/VerifyYourClock",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"verifyyourclock\",\"username\":\"VerifyYourClock\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":1454,\"rd\":86,\"prog\":-139},\"puzzle\":{\"games\":55,\"rating\":1730,\"rd\":86,\"prog\":100},\"bullet\":{\"games\":27,\"rating\":1242,\"rd\":73,\"prog\":82},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609168018808,\"profile\":{\"country\":\"RU\",\"location\":\"Skythvar\",\"bio\":\"KEEP CALM \\r\\nALEXE LIVES\\r\\nREGENT ENDURES\\r\\nTHERE IS MUCH TO BE DONE\\r\\n\\r\\nВСЕМ ПРИВЕТСТВУЮ РЕГЕНТУ\"},\"seenAt\":1611657116254,\"playTime\":{\"total\":6766,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/VerifyYourClock\",\"nbFollowing\":0,\"nbFollowers\":1,\"completionRate\":87,\"count\":{\"all\":49,\"rated\":46,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":28,\"lossH\":28,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "verifyyourclock",
+    "username": "VerifyYourClock",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 1454,
+        "rd": 86,
+        "prog": -139
+      },
+      "puzzle": {
+        "games": 55,
+        "rating": 1730,
+        "rd": 86,
+        "prog": 100
+      },
+      "bullet": {
+        "games": 27,
+        "rating": 1242,
+        "rd": 73,
+        "prog": 82
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1609168018808,
+    "profile": {
+      "country": "RU",
+      "location": "Skythvar",
+      "bio": "KEEP CALM \r\nALEXE LIVES\r\nREGENT ENDURES\r\nTHERE IS MUCH TO BE DONE\r\n\r\nВСЕМ ПРИВЕТСТВУЮ РЕГЕНТУ"
+    },
+    "seenAt": 1611657116254,
+    "playTime": {
+      "total": 6766,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/VerifyYourClock",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "completionRate": 87,
+    "count": {
+      "all": 49,
+      "rated": 46,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 28,
+      "lossH": 28,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
