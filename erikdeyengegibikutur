@@ -4,7 +4,7 @@
   "username": "ERIKDEYENGEGIBIKUTUR",
   "profileUrl": "https://lichess.org/@/ERIKDEYENGEGIBIKUTUR",
   "provider": "lichess",
-  "_raw": "{\"id\":\"erikdeyengegibikutur\",\"username\":\"ERIKDEYENGEGIBIKUTUR\",\"online\":true,\"perfs\":{\"horde\":{\"games\":1,\"rating\":1657,\"rd\":387,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1712,\"rd\":160,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":1508,\"rd\":196,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1388,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":800,\"rd\":432,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1224,\"rd\":358,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1638,\"rd\":115,\"prog\":55,\"prov\":true}},\"createdAt\":1611602971489,\"profile\":{\"country\":\"TR\",\"location\":\"HİÇ BİR YER\",\"bio\":\"@berbatsinvelet @IskenderKebap  @Kasparov0102 we are the creators of this bot \\r\\nFor more information you can write us\\r\\n  Stockfish 8 matted  on 26 January 2021 with this bot\",\"firstName\":\"ERİK DE YENGE\",\"lastName\":\"GİBİ KÜTÜR KÜTÜR\"},\"seenAt\":1611764582053,\"playTime\":{\"total\":30217,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ERIKDEYENGEGIBIKUTUR\",\"nbFollowing\":25,\"nbFollowers\":8,\"count\":{\"all\":52,\"rated\":32,\"ai\":14,\"draw\":2,\"drawH\":2,\"loss\":21,\"lossH\":18,\"win\":29,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"erikdeyengegibikutur\",\"username\":\"ERIKDEYENGEGIBIKUTUR\",\"online\":true,\"perfs\":{\"horde\":{\"games\":1,\"rating\":1657,\"rd\":387,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1712,\"rd\":160,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":1508,\"rd\":196,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1388,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":800,\"rd\":432,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1224,\"rd\":358,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1667,\"rd\":105,\"prog\":88}},\"createdAt\":1611602971489,\"profile\":{\"country\":\"TR\",\"location\":\"HİÇ BİR YER\",\"bio\":\"@berbatsinvelet @IskenderKebap  @Kasparov0102 we are the creators of this bot \\r\\nFor more information you can write us\\r\\n  Stockfish 8 matted  on 26 January 2021 with this bot\",\"firstName\":\"ERİK DE YENGE\",\"lastName\":\"GİBİ KÜTÜR KÜTÜR\"},\"seenAt\":1611768607722,\"playTime\":{\"total\":33419,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ERIKDEYENGEGIBIKUTUR\",\"playing\":\"https://lichess.org/sz35ieBd/black\",\"nbFollowing\":25,\"nbFollowers\":9,\"count\":{\"all\":54,\"rated\":34,\"ai\":14,\"draw\":2,\"drawH\":2,\"loss\":22,\"lossH\":19,\"win\":30,\"winH\":19,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "erikdeyengegibikutur",
     "username": "ERIKDEYENGEGIBIKUTUR",
@@ -60,11 +60,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 13,
-        "rating": 1638,
-        "rd": 115,
-        "prog": 55,
-        "prov": true
+        "games": 15,
+        "rating": 1667,
+        "rd": 105,
+        "prog": 88
       }
     },
     "createdAt": 1611602971489,
@@ -75,28 +74,29 @@
       "firstName": "ERİK DE YENGE",
       "lastName": "GİBİ KÜTÜR KÜTÜR"
     },
-    "seenAt": 1611764582053,
+    "seenAt": 1611768607722,
     "playTime": {
-      "total": 30217,
+      "total": 33419,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ERIKDEYENGEGIBIKUTUR",
+    "playing": "https://lichess.org/sz35ieBd/black",
     "nbFollowing": 25,
-    "nbFollowers": 8,
+    "nbFollowers": 9,
     "count": {
-      "all": 52,
-      "rated": 32,
+      "all": 54,
+      "rated": 34,
       "ai": 14,
       "draw": 2,
       "drawH": 2,
-      "loss": 21,
-      "lossH": 18,
-      "win": 29,
-      "winH": 18,
+      "loss": 22,
+      "lossH": 19,
+      "win": 30,
+      "winH": 19,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
