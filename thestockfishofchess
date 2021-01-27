@@ -4,7 +4,7 @@
   "username": "TheStockfishOfChess",
   "profileUrl": "https://lichess.org/@/TheStockfishOfChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thestockfishofchess\",\"username\":\"TheStockfishOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1356,\"rd\":355,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1580,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1606070501886,\"seenAt\":1610841235948,\"playTime\":{\"total\":1136,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheStockfishOfChess\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":12,\"rated\":6,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":4,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thestockfishofchess\",\"username\":\"TheStockfishOfChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1356,\"rd\":356,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1453,\"rd\":268,\"prog\":0,\"prov\":true}},\"createdAt\":1606070501886,\"seenAt\":1611782370487,\"playTime\":{\"total\":2083,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheStockfishOfChess\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":15,\"rated\":8,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":6,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thestockfishofchess",
     "username": "TheStockfishOfChess",
@@ -13,7 +13,7 @@
       "blitz": {
         "games": 3,
         "rating": 1356,
-        "rd": 355,
+        "rd": 356,
         "prog": 0,
         "prov": true
       },
@@ -39,34 +39,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 1580,
-        "rd": 312,
+        "games": 4,
+        "rating": 1453,
+        "rd": 268,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1606070501886,
-    "seenAt": 1610841235948,
+    "seenAt": 1611782370487,
     "playTime": {
-      "total": 1136,
+      "total": 2083,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheStockfishOfChess",
     "nbFollowing": 1,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
-      "all": 12,
-      "rated": 6,
+      "all": 15,
+      "rated": 8,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 5,
-      "lossH": 4,
-      "win": 6,
-      "winH": 6,
+      "loss": 7,
+      "lossH": 6,
+      "win": 7,
+      "winH": 7,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
