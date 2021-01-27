@@ -4,7 +4,7 @@
   "username": "KINGNANDICHESS",
   "profileUrl": "https://lichess.org/@/KINGNANDICHESS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandichess\",\"username\":\"KINGNANDICHESS\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1671,\"rd\":320,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1297,\"rd\":371,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":15,\"rating\":1019,\"rd\":167,\"prog\":104,\"prov\":true},\"blitz\":{\"games\":66,\"rating\":1660,\"rd\":74,\"prog\":-46},\"kingOfTheHill\":{\"games\":12,\"rating\":1483,\"rd\":162,\"prog\":-12,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1155,\"rd\":331,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1067,\"rd\":124,\"prog\":-115,\"prov\":true},\"bullet\":{\"games\":63,\"rating\":1868,\"rd\":59,\"prog\":-45},\"correspondence\":{\"games\":26,\"rating\":1274,\"rd\":122,\"prog\":104,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1467,\"rd\":452,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":2036,\"rd\":85,\"prog\":-125}},\"createdAt\":1611204875472,\"profile\":{\"country\":\"IN\",\"location\":\"mumbai\",\"bio\":\"i am a bot .\\r\\nkingnandi made me.\\r\\ni play chess so challenge me but remmeber to make it rated. casual i accept only from my friends .\\r\\nso please challenge me to any variant and ill accept.\\r\\nalso give my developer and maker a follow please.\\r\\nso follow me here. this is an alternate account of him.\\r\\nhis real main account is https://lichess.org/@/Kingnandi. sofollow him too and follow me\",\"firstName\":\"Kingnandi\",\"lastName\":\"nandi\",\"fideRating\":1347,\"links\":\"chess.com\"},\"seenAt\":1611725407114,\"playTime\":{\"total\":44677,\"tv\":3716},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDICHESS\",\"playing\":\"https://lichess.org/0NJlP2BA/black\",\"nbFollowing\":29,\"nbFollowers\":15,\"count\":{\"all\":294,\"rated\":239,\"ai\":13,\"draw\":6,\"drawH\":6,\"loss\":207,\"lossH\":198,\"win\":81,\"winH\":77,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandichess\",\"username\":\"KINGNANDICHESS\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1671,\"rd\":320,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1297,\"rd\":371,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":15,\"rating\":1019,\"rd\":167,\"prog\":104,\"prov\":true},\"blitz\":{\"games\":68,\"rating\":1696,\"rd\":72,\"prog\":0},\"kingOfTheHill\":{\"games\":12,\"rating\":1483,\"rd\":162,\"prog\":-12,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1155,\"rd\":331,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1067,\"rd\":124,\"prog\":-115,\"prov\":true},\"bullet\":{\"games\":73,\"rating\":1847,\"rd\":54,\"prog\":-32},\"correspondence\":{\"games\":26,\"rating\":1274,\"rd\":122,\"prog\":104,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1618,\"rd\":331,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":33,\"rating\":2001,\"rd\":80,\"prog\":-62}},\"createdAt\":1611204875472,\"profile\":{\"country\":\"IN\",\"location\":\"mumbai\",\"bio\":\"i am a bot .\\r\\nkingnandi made me.\\r\\ni play chess so challenge me but remmeber to make it rated. casual i accept only from my friends .\\r\\nso please challenge me to any variant and ill accept.\\r\\nalso give my developer and maker a follow please.\\r\\nso follow me here. this is an alternate account of him.\\r\\nhis real main account is https://lichess.org/@/Kingnandi. sofollow him too and follow me\",\"firstName\":\"Kingnandi\",\"lastName\":\"nandi\",\"fideRating\":1347,\"links\":\"chess.com\"},\"seenAt\":1611737922233,\"playTime\":{\"total\":50148,\"tv\":4288},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDICHESS\",\"playing\":\"https://lichess.org/sEkvRhws/white\",\"nbFollowing\":29,\"nbFollowers\":15,\"count\":{\"all\":313,\"rated\":258,\"ai\":13,\"draw\":9,\"drawH\":9,\"loss\":219,\"lossH\":210,\"win\":85,\"winH\":81,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandichess",
     "username": "KINGNANDICHESS",
@@ -32,10 +32,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 66,
-        "rating": 1660,
-        "rd": 74,
-        "prog": -46
+        "games": 68,
+        "rating": 1696,
+        "rd": 72,
+        "prog": 0
       },
       "kingOfTheHill": {
         "games": 12,
@@ -59,10 +59,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 63,
-        "rating": 1868,
-        "rd": 59,
-        "prog": -45
+        "games": 73,
+        "rating": 1847,
+        "rd": 54,
+        "prog": -32
       },
       "correspondence": {
         "games": 26,
@@ -72,17 +72,17 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 1467,
-        "rd": 452,
+        "games": 2,
+        "rating": 1618,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 27,
-        "rating": 2036,
-        "rd": 85,
-        "prog": -125
+        "games": 33,
+        "rating": 2001,
+        "rd": 80,
+        "prog": -62
       }
     },
     "createdAt": 1611204875472,
@@ -95,29 +95,29 @@
       "fideRating": 1347,
       "links": "chess.com"
     },
-    "seenAt": 1611725407114,
+    "seenAt": 1611737922233,
     "playTime": {
-      "total": 44677,
-      "tv": 3716
+      "total": 50148,
+      "tv": 4288
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDICHESS",
-    "playing": "https://lichess.org/0NJlP2BA/black",
+    "playing": "https://lichess.org/sEkvRhws/white",
     "nbFollowing": 29,
     "nbFollowers": 15,
     "count": {
-      "all": 294,
-      "rated": 239,
+      "all": 313,
+      "rated": 258,
       "ai": 13,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 207,
-      "lossH": 198,
-      "win": 81,
-      "winH": 77,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 219,
+      "lossH": 210,
+      "win": 85,
+      "winH": 81,
       "bookmark": 1,
-      "playing": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
