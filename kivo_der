@@ -4,11 +4,11 @@
   "username": "Kivo_Der",
   "profileUrl": "https://lichess.org/@/Kivo_Der",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kivo_der\",\"username\":\"Kivo_Der\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1661,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":2308,\"rd\":60,\"prog\":-10},\"correspondence\":{\"games\":1,\"rating\":1877,\"rd\":387,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1491,\"rd\":487,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1484,\"rd\":478,\"prog\":0,\"prov\":true}},\"createdAt\":1610219257524,\"profile\":{\"country\":\"_pirate\",\"location\":\"Earth\",\"bio\":\"Who I am??? I am @EagleEye2021\"},\"seenAt\":1611679461366,\"playTime\":{\"total\":36024,\"tv\":7591},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kivo_Der\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":311,\"rated\":57,\"ai\":201,\"draw\":45,\"drawH\":27,\"loss\":160,\"lossH\":35,\"win\":106,\"winH\":48,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kivo_der\",\"username\":\"Kivo_Der\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1661,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":2308,\"rd\":61,\"prog\":-10},\"correspondence\":{\"games\":1,\"rating\":1877,\"rd\":387,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1491,\"rd\":487,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1484,\"rd\":478,\"prog\":0,\"prov\":true}},\"createdAt\":1610219257524,\"profile\":{\"country\":\"_pirate\",\"location\":\"Earth\",\"bio\":\"Who I am??? I am @EagleEye2021\"},\"seenAt\":1611741015632,\"playTime\":{\"total\":36024,\"tv\":7591},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kivo_Der\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":322,\"rated\":57,\"ai\":212,\"draw\":46,\"drawH\":27,\"loss\":170,\"lossH\":35,\"win\":106,\"winH\":48,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kivo_der",
     "username": "Kivo_Der",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 1,
@@ -20,7 +20,7 @@
       "bullet": {
         "games": 53,
         "rating": 2308,
-        "rd": 60,
+        "rd": 61,
         "prog": -10
       },
       "correspondence": {
@@ -51,7 +51,7 @@
       "location": "Earth",
       "bio": "Who I am??? I am @EagleEye2021"
     },
-    "seenAt": 1611679461366,
+    "seenAt": 1611741015632,
     "playTime": {
       "total": 36024,
       "tv": 7591
@@ -62,12 +62,12 @@
     "nbFollowing": 3,
     "nbFollowers": 3,
     "count": {
-      "all": 311,
+      "all": 322,
       "rated": 57,
-      "ai": 201,
-      "draw": 45,
+      "ai": 212,
+      "draw": 46,
       "drawH": 27,
-      "loss": 160,
+      "loss": 170,
       "lossH": 35,
       "win": 106,
       "winH": 48,
