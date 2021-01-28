@@ -1,0 +1,142 @@
+{
+  "id": "vitapin",
+  "displayName": "vitapin",
+  "username": "vitapin",
+  "profileUrl": "https://lichess.org/@/vitapin",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"vitapin\",\"username\":\"vitapin\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1284,\"rd\":281,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1080,\"rd\":184,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":9,\"rating\":1049,\"rd\":153,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":284,\"rating\":1165,\"rd\":56,\"prog\":10},\"kingOfTheHill\":{\"games\":6,\"rating\":1187,\"rd\":184,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1229,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":12,\"rating\":1069,\"rd\":154,\"prog\":-22,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":1312,\"rd\":86,\"prog\":-67},\"correspondence\":{\"games\":9,\"rating\":1225,\"rd\":150,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1430,\"rd\":324,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":476,\"rating\":1647,\"rd\":113,\"prog\":14,\"prov\":true},\"classical\":{\"games\":92,\"rating\":1144,\"rd\":108,\"prog\":-24},\"rapid\":{\"games\":375,\"rating\":1298,\"rd\":64,\"prog\":-27}},\"createdAt\":1506353439018,\"profile\":{\"country\":\"RU\",\"location\":\"Екатеринбург\",\"firstName\":\"Вита\",\"lastName\":\"Пинженина\",\"fideRating\":1205,\"links\":\"chess.com/member/vitapin\\r\\nhttps://join.skype.com/invite/mfvQddSCgMyf\\r\\nratings.ruchess.ru/people/136166\"},\"seenAt\":1611831953856,\"playTime\":{\"total\":405414,\"tv\":187},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/vitapin\",\"playing\":\"https://lichess.org/S4P45XA1/black\",\"nbFollowing\":399,\"nbFollowers\":125,\"completionRate\":89,\"count\":{\"all\":1230,\"rated\":866,\"ai\":123,\"draw\":100,\"drawH\":88,\"loss\":824,\"lossH\":759,\"win\":306,\"winH\":260,\"bookmark\":14,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "vitapin",
+    "username": "vitapin",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1284,
+        "rd": 281,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1080,
+        "rd": 184,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 9,
+        "rating": 1049,
+        "rd": 153,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 284,
+        "rating": 1165,
+        "rd": 56,
+        "prog": 10
+      },
+      "kingOfTheHill": {
+        "games": 6,
+        "rating": 1187,
+        "rd": 184,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1229,
+        "rd": 242,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 12,
+        "rating": 1069,
+        "rd": 154,
+        "prog": -22,
+        "prov": true
+      },
+      "bullet": {
+        "games": 43,
+        "rating": 1312,
+        "rd": 86,
+        "prog": -67
+      },
+      "correspondence": {
+        "games": 9,
+        "rating": 1225,
+        "rd": 150,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1430,
+        "rd": 324,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 476,
+        "rating": 1647,
+        "rd": 113,
+        "prog": 14,
+        "prov": true
+      },
+      "classical": {
+        "games": 92,
+        "rating": 1144,
+        "rd": 108,
+        "prog": -24
+      },
+      "rapid": {
+        "games": 375,
+        "rating": 1298,
+        "rd": 64,
+        "prog": -27
+      }
+    },
+    "createdAt": 1506353439018,
+    "profile": {
+      "country": "RU",
+      "location": "Екатеринбург",
+      "firstName": "Вита",
+      "lastName": "Пинженина",
+      "fideRating": 1205,
+      "links": "chess.com/member/vitapin\r\nhttps://join.skype.com/invite/mfvQddSCgMyf\r\nratings.ruchess.ru/people/136166"
+    },
+    "seenAt": 1611831953856,
+    "playTime": {
+      "total": 405414,
+      "tv": 187
+    },
+    "language": "ru-RU",
+    "url": "https://lichess.org/@/vitapin",
+    "playing": "https://lichess.org/S4P45XA1/black",
+    "nbFollowing": 399,
+    "nbFollowers": 125,
+    "completionRate": 89,
+    "count": {
+      "all": 1230,
+      "rated": 866,
+      "ai": 123,
+      "draw": 100,
+      "drawH": 88,
+      "loss": 824,
+      "lossH": 759,
+      "win": 306,
+      "winH": 260,
+      "bookmark": 14,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
