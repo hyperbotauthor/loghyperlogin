@@ -4,23 +4,23 @@
   "username": "AlphaZerokomodoleila",
   "profileUrl": "https://lichess.org/@/AlphaZerokomodoleila",
   "provider": "lichess",
-  "_raw": "{\"id\":\"alphazerokomodoleila\",\"username\":\"AlphaZerokomodoleila\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1477,\"rd\":469,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2263,\"rd\":147,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609355601865,\"seenAt\":1611428238585,\"playTime\":{\"total\":6825,\"tv\":1047},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AlphaZerokomodoleila\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":35,\"rated\":10,\"ai\":24,\"draw\":6,\"drawH\":1,\"loss\":18,\"lossH\":6,\"win\":11,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"alphazerokomodoleila\",\"username\":\"AlphaZerokomodoleila\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1971,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2263,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609355601865,\"seenAt\":1611939680180,\"playTime\":{\"total\":9067,\"tv\":1047},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AlphaZerokomodoleila\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":42,\"rated\":13,\"ai\":24,\"draw\":7,\"drawH\":2,\"loss\":22,\"lossH\":10,\"win\":13,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "alphazerokomodoleila",
     "username": "AlphaZerokomodoleila",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1477,
-        "rd": 469,
+        "games": 5,
+        "rating": 1971,
+        "rd": 340,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 8,
         "rating": 2263,
-        "rd": 147,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1609355601865,
-    "seenAt": 1611428238585,
+    "seenAt": 1611939680180,
     "playTime": {
-      "total": 6825,
+      "total": 9067,
       "tv": 1047
     },
     "language": "es-ES",
@@ -58,15 +58,15 @@
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 35,
-      "rated": 10,
+      "all": 42,
+      "rated": 13,
       "ai": 24,
-      "draw": 6,
-      "drawH": 1,
-      "loss": 18,
-      "lossH": 6,
-      "win": 11,
-      "winH": 4,
+      "draw": 7,
+      "drawH": 2,
+      "loss": 22,
+      "lossH": 10,
+      "win": 13,
+      "winH": 6,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
