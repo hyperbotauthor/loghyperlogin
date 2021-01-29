@@ -1,0 +1,146 @@
+{
+  "id": "fastblizzard",
+  "displayName": "FastBlizzard",
+  "username": "FastBlizzard",
+  "profileUrl": "https://lichess.org/@/FastBlizzard",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"fastblizzard\",\"username\":\"FastBlizzard\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1162,\"rd\":368,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1351,\"rating\":1680,\"rd\":81,\"prog\":0},\"atomic\":{\"games\":2817,\"rating\":1950,\"rd\":45,\"prog\":27},\"racingKings\":{\"games\":2,\"rating\":1155,\"rd\":270,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":185,\"rating\":1558,\"rd\":72,\"prog\":-53},\"blitz\":{\"games\":23,\"rating\":1314,\"rd\":80,\"prog\":-41},\"kingOfTheHill\":{\"games\":16,\"rating\":1607,\"rd\":107,\"prog\":-153},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":401,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1379,\"rd\":448,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":155,\"rating\":1424,\"rd\":51,\"prog\":6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1629,\"rd\":171,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":8,\"score\":19}},\"createdAt\":1596988598486,\"profile\":{\"country\":\"US\",\"location\":\"Texas\",\"bio\":\"I like Atomic Chess\"},\"seenAt\":1611919277102,\"playTime\":{\"total\":205105,\"tv\":13913},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/FastBlizzard\",\"nbFollowing\":2,\"nbFollowers\":19,\"count\":{\"all\":3521,\"rated\":3216,\"ai\":109,\"draw\":76,\"drawH\":76,\"loss\":1318,\"lossH\":1239,\"win\":2127,\"winH\":2097,\"bookmark\":0,\"playing\":0,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "fastblizzard",
+    "username": "FastBlizzard",
+    "online": false,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1162,
+        "rd": 368,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1351,
+        "rating": 1680,
+        "rd": 81,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 2817,
+        "rating": 1950,
+        "rd": 45,
+        "prog": 27
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1155,
+        "rd": 270,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 185,
+        "rating": 1558,
+        "rd": 72,
+        "prog": -53
+      },
+      "blitz": {
+        "games": 23,
+        "rating": 1314,
+        "rd": 80,
+        "prog": -41
+      },
+      "kingOfTheHill": {
+        "games": 16,
+        "rating": 1607,
+        "rd": 107,
+        "prog": -153
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1379,
+        "rd": 448,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 155,
+        "rating": 1424,
+        "rd": 51,
+        "prog": 6
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 8,
+        "rating": 1629,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 8,
+        "score": 19
+      }
+    },
+    "createdAt": 1596988598486,
+    "profile": {
+      "country": "US",
+      "location": "Texas",
+      "bio": "I like Atomic Chess"
+    },
+    "seenAt": 1611919277102,
+    "playTime": {
+      "total": 205105,
+      "tv": 13913
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/FastBlizzard",
+    "nbFollowing": 2,
+    "nbFollowers": 19,
+    "count": {
+      "all": 3521,
+      "rated": 3216,
+      "ai": 109,
+      "draw": 76,
+      "drawH": 76,
+      "loss": 1318,
+      "lossH": 1239,
+      "win": 2127,
+      "winH": 2097,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 4,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
