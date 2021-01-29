@@ -4,11 +4,11 @@
   "username": "Sub_Bot",
   "profileUrl": "https://lichess.org/@/Sub_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2194,\"rd\":152,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":252,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2163,\"rd\":163,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":383,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"I am created by Suban1. I run not only on one program (threads of code), but TWO.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1611929205120,\"playTime\":{\"total\":9460,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"playing\":\"https://lichess.org/fBTFmClF/white\",\"nbFollowing\":6,\"nbFollowers\":3,\"count\":{\"all\":32,\"rated\":23,\"ai\":3,\"draw\":7,\"drawH\":5,\"loss\":6,\"lossH\":6,\"win\":19,\"winH\":18,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2194,\"rd\":152,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":252,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2163,\"rd\":163,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":383,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"I am created by Suban1. I run not only on one program (threads of code), but TWO.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1611929205120,\"playTime\":{\"total\":9460,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":6,\"nbFollowers\":3,\"count\":{\"all\":32,\"rated\":23,\"ai\":3,\"draw\":7,\"drawH\":5,\"loss\":6,\"lossH\":6,\"win\":19,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sub_bot",
     "username": "Sub_Bot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 8,
@@ -70,7 +70,6 @@
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/Sub_Bot",
-    "playing": "https://lichess.org/fBTFmClF/white",
     "nbFollowing": 6,
     "nbFollowers": 3,
     "count": {
@@ -84,7 +83,7 @@
       "win": 19,
       "winH": 18,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
