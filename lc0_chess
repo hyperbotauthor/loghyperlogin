@@ -4,7 +4,7 @@
   "username": "Lc0_Chess",
   "profileUrl": "https://lichess.org/@/Lc0_Chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lc0_chess\",\"username\":\"Lc0_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2345,\"rd\":193,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2019,\"rd\":226,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611507656445,\"profile\":{\"bio\":\"Only 3|2 and up\\r\\nLc0 v0.26.3\",\"firstName\":\"Leela Chess Zero\"},\"seenAt\":1611937636029,\"playTime\":{\"total\":9720,\"tv\":109},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lc0_Chess\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":36,\"rated\":16,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":18,\"lossH\":13,\"win\":15,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lc0_chess\",\"username\":\"Lc0_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2345,\"rd\":193,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1861,\"rd\":113,\"prog\":172,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1796,\"rd\":302,\"prog\":0,\"prov\":true}},\"createdAt\":1611507656445,\"profile\":{\"bio\":\"Only 3|2 and up\\r\\nLc0 v0.26.3\",\"firstName\":\"Leela Chess Zero\"},\"seenAt\":1611994497836,\"playTime\":{\"total\":10302,\"tv\":109},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lc0_Chess\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":45,\"rated\":25,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":17,\"win\":20,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lc0_chess",
     "username": "Lc0_Chess",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 8,
-        "rating": 2019,
-        "rd": 226,
-        "prog": 0,
+        "games": 16,
+        "rating": 1861,
+        "rd": 113,
+        "prog": 172,
         "prov": true
       },
       "correspondence": {
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1796,
+        "rd": 302,
         "prog": 0,
         "prov": true
       }
@@ -51,9 +51,9 @@
       "bio": "Only 3|2 and up\r\nLc0 v0.26.3",
       "firstName": "Leela Chess Zero"
     },
-    "seenAt": 1611937636029,
+    "seenAt": 1611994497836,
     "playTime": {
-      "total": 9720,
+      "total": 10302,
       "tv": 109
     },
     "language": "en-US",
@@ -62,15 +62,15 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 36,
-      "rated": 16,
+      "all": 45,
+      "rated": 25,
       "ai": 8,
       "draw": 3,
       "drawH": 3,
-      "loss": 18,
-      "lossH": 13,
-      "win": 15,
-      "winH": 12,
+      "loss": 22,
+      "lossH": 17,
+      "win": 20,
+      "winH": 17,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
