@@ -4,11 +4,11 @@
   "username": "Bobby_Fischer_BOT",
   "profileUrl": "https://lichess.org/@/Bobby_Fischer_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":422,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1326,\"rd\":267,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1878,\"rd\":286,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1710,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1680,\"rd\":296,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1582,\"rd\":231,\"prog\":0,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nFollow me and I will follow you back! \\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1611989936314,\"playTime\":{\"total\":20746,\"tv\":0},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/Ru0enkTq/white\",\"nbFollowing\":71,\"nbFollowers\":64,\"count\":{\"all\":71,\"rated\":19,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":32,\"lossH\":31,\"win\":38,\"winH\":38,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":422,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1326,\"rd\":268,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1325,\"rd\":193,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1710,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1680,\"rd\":296,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1582,\"rd\":231,\"prog\":0,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nFollow me and I will follow you back! \\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1612000656309,\"playTime\":{\"total\":22217,\"tv\":0},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/Ru0enkTq/white\",\"nbFollowing\":71,\"nbFollowers\":64,\"count\":{\"all\":74,\"rated\":22,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":34,\"lossH\":33,\"win\":39,\"winH\":39,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobby_fischer_bot",
     "username": "Bobby_Fischer_BOT",
-    "online": false,
+    "online": true,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -20,14 +20,14 @@
       "atomic": {
         "games": 2,
         "rating": 1326,
-        "rd": 267,
+        "rd": 268,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 3,
-        "rating": 1878,
-        "rd": 286,
+        "games": 6,
+        "rating": 1325,
+        "rd": 193,
         "prog": 0,
         "prov": true
       },
@@ -71,9 +71,9 @@
     "profile": {
       "bio": "I accept challenges from everyone, standards and variants, when I am online.\r\nFollow me and I will follow you back! \r\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\r\nhttps://i.imgur.com/mwo9eTL.jpg"
     },
-    "seenAt": 1611989936314,
+    "seenAt": 1612000656309,
     "playTime": {
-      "total": 20746,
+      "total": 22217,
       "tv": 0
     },
     "language": "it-IT",
@@ -83,15 +83,15 @@
     "nbFollowing": 71,
     "nbFollowers": 64,
     "count": {
-      "all": 71,
-      "rated": 19,
+      "all": 74,
+      "rated": 22,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 32,
-      "lossH": 31,
-      "win": 38,
-      "winH": 38,
+      "loss": 34,
+      "lossH": 33,
+      "win": 39,
+      "winH": 39,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
