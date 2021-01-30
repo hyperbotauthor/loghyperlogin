@@ -4,7 +4,7 @@
   "username": "Lc0_Chess",
   "profileUrl": "https://lichess.org/@/Lc0_Chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lc0_chess\",\"username\":\"Lc0_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2345,\"rd\":193,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1931,\"rd\":77,\"prog\":20},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1796,\"rd\":303,\"prog\":0,\"prov\":true}},\"createdAt\":1611507656445,\"profile\":{\"bio\":\"Only 3|2 and up\\r\\nLc0 v0.26.3\",\"firstName\":\"Leela Chess Zero\"},\"seenAt\":1612017070422,\"playTime\":{\"total\":11348,\"tv\":340},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lc0_Chess\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":58,\"rated\":38,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":25,\"lossH\":20,\"win\":30,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lc0_chess\",\"username\":\"Lc0_Chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2345,\"rd\":193,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":1950,\"rd\":74,\"prog\":56},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1796,\"rd\":303,\"prog\":0,\"prov\":true}},\"createdAt\":1611507656445,\"profile\":{\"bio\":\"Only 3|2 and up\\r\\nLc0 v0.26.3\",\"firstName\":\"Leela Chess Zero\"},\"seenAt\":1612017070422,\"playTime\":{\"total\":11662,\"tv\":340},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lc0_Chess\",\"playing\":\"https://lichess.org/auShvIbJ/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":63,\"rated\":40,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":28,\"lossH\":23,\"win\":32,\"winH\":29,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lc0_chess",
     "username": "Lc0_Chess",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 29,
-        "rating": 1931,
-        "rd": 77,
-        "prog": 20
+        "games": 31,
+        "rating": 1950,
+        "rd": 74,
+        "prog": 56
       },
       "correspondence": {
         "games": 0,
@@ -52,26 +52,27 @@
     },
     "seenAt": 1612017070422,
     "playTime": {
-      "total": 11348,
+      "total": 11662,
       "tv": 340
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Lc0_Chess",
+    "playing": "https://lichess.org/auShvIbJ/black",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 58,
-      "rated": 38,
+      "all": 63,
+      "rated": 40,
       "ai": 8,
       "draw": 3,
       "drawH": 3,
-      "loss": 25,
-      "lossH": 20,
-      "win": 30,
-      "winH": 27,
+      "loss": 28,
+      "lossH": 23,
+      "win": 32,
+      "winH": 29,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
