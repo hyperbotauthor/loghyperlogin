@@ -4,7 +4,7 @@
   "username": "Thegreatestchess_bot",
   "profileUrl": "https://lichess.org/@/Thegreatestchess_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2458,\"rd\":285,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2455,\"rd\":235,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1495,\"rd\":494,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz\"},\"seenAt\":1611605257942,\"playTime\":{\"total\":13165,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":26,\"rated\":10,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":13,\"lossH\":13,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2458,\"rd\":286,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2490,\"rd\":215,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2057,\"rd\":390,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz\"},\"seenAt\":1612117567725,\"playTime\":{\"total\":14565,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"playing\":\"https://lichess.org/ygt3BwpQ/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":30,\"rated\":12,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":14,\"lossH\":14,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatestchess_bot",
     "username": "Thegreatestchess_bot",
@@ -13,7 +13,7 @@
       "blitz": {
         "games": 2,
         "rating": 2458,
-        "rd": 285,
+        "rd": 286,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 2455,
-        "rd": 235,
+        "games": 6,
+        "rating": 2490,
+        "rd": 215,
         "prog": 0,
         "prov": true
       },
@@ -46,9 +46,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1495,
-        "rd": 494,
+        "games": 2,
+        "rating": 2057,
+        "rd": 390,
         "prog": 0,
         "prov": true
       }
@@ -57,28 +57,29 @@
     "profile": {
       "bio": "I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz"
     },
-    "seenAt": 1611605257942,
+    "seenAt": 1612117567725,
     "playTime": {
-      "total": 13165,
+      "total": 14565,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Thegreatestchess_bot",
+    "playing": "https://lichess.org/ygt3BwpQ/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 26,
-      "rated": 10,
+      "all": 30,
+      "rated": 12,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 13,
-      "lossH": 13,
-      "win": 11,
-      "winH": 11,
+      "loss": 14,
+      "lossH": 14,
+      "win": 14,
+      "winH": 14,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
