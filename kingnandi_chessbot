@@ -4,16 +4,16 @@
   "username": "KINGNANDI_chessbot",
   "profileUrl": "https://lichess.org/@/KINGNANDI_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2003,\"rd\":143,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1774,\"rd\":302,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1828,\"rd\":91,\"prog\":-23},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2022,\"rd\":188,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2007,\"rd\":164,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612164811849,\"playTime\":{\"total\":15028,\"tv\":97},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":13,\"nbFollowers\":6,\"count\":{\"all\":52,\"rated\":47,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":21,\"lossH\":21,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1995,\"rd\":140,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1774,\"rd\":302,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":1883,\"rd\":83,\"prog\":91},\"correspondence\":{\"games\":1,\"rating\":1648,\"rd\":321,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2022,\"rd\":188,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2007,\"rd\":164,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612170803445,\"playTime\":{\"total\":15738,\"tv\":330},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"playing\":\"https://lichess.org/CemdkZOw/white\",\"nbFollowing\":14,\"nbFollowers\":7,\"count\":{\"all\":59,\"rated\":52,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":23,\"lossH\":23,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandi_chessbot",
     "username": "KINGNANDI_chessbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2003,
-        "rd": 143,
+        "games": 9,
+        "rating": 1995,
+        "rd": 140,
         "prog": 0,
         "prov": true
       },
@@ -25,15 +25,15 @@
         "prov": true
       },
       "bullet": {
-        "games": 20,
-        "rating": 1828,
-        "rd": 91,
-        "prog": -23
+        "games": 23,
+        "rating": 1883,
+        "rd": 83,
+        "prog": 91
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1648,
+        "rd": 321,
         "prog": 0,
         "prov": true
       },
@@ -60,28 +60,29 @@
       "firstName": "bot",
       "lastName": "kingnandi"
     },
-    "seenAt": 1612164811849,
+    "seenAt": 1612170803445,
     "playTime": {
-      "total": 15028,
-      "tv": 97
+      "total": 15738,
+      "tv": 330
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDI_chessbot",
-    "nbFollowing": 13,
-    "nbFollowers": 6,
+    "playing": "https://lichess.org/CemdkZOw/white",
+    "nbFollowing": 14,
+    "nbFollowers": 7,
     "count": {
-      "all": 52,
-      "rated": 47,
+      "all": 59,
+      "rated": 52,
       "ai": 0,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 21,
-      "lossH": 21,
-      "win": 28,
-      "winH": 28,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 23,
+      "lossH": 23,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
