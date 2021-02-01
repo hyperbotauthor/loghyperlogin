@@ -4,25 +4,31 @@
   "username": "KINGNANDI_chessbot",
   "profileUrl": "https://lichess.org/@/KINGNANDI_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1977,\"rd\":151,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1831,\"rd\":116,\"prog\":-20,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1340,\"rd\":306,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1735,\"rd\":199,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612154767338,\"playTime\":{\"total\":10303,\"tv\":97},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":10,\"nbFollowers\":4,\"count\":{\"all\":34,\"rated\":31,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":18,\"lossH\":18,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2003,\"rd\":143,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1774,\"rd\":302,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1828,\"rd\":91,\"prog\":-23},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2022,\"rd\":188,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2007,\"rd\":164,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612164811849,\"playTime\":{\"total\":15028,\"tv\":97},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":13,\"nbFollowers\":6,\"count\":{\"all\":52,\"rated\":47,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":21,\"lossH\":21,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandi_chessbot",
     "username": "KINGNANDI_chessbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 7,
-        "rating": 1977,
-        "rd": 151,
+        "games": 8,
+        "rating": 2003,
+        "rd": 143,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1774,
+        "rd": 302,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 14,
-        "rating": 1831,
-        "rd": 116,
-        "prog": -20,
-        "prov": true
+        "games": 20,
+        "rating": 1828,
+        "rd": 91,
+        "prog": -23
       },
       "correspondence": {
         "games": 0,
@@ -32,16 +38,16 @@
         "prov": true
       },
       "classical": {
-        "games": 4,
-        "rating": 1340,
-        "rd": 306,
+        "games": 8,
+        "rating": 2022,
+        "rd": 188,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 1735,
-        "rd": 199,
+        "games": 8,
+        "rating": 2007,
+        "rd": 164,
         "prog": 0,
         "prov": true
       }
@@ -54,26 +60,26 @@
       "firstName": "bot",
       "lastName": "kingnandi"
     },
-    "seenAt": 1612154767338,
+    "seenAt": 1612164811849,
     "playTime": {
-      "total": 10303,
+      "total": 15028,
       "tv": 97
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDI_chessbot",
-    "nbFollowing": 10,
-    "nbFollowers": 4,
+    "nbFollowing": 13,
+    "nbFollowers": 6,
     "count": {
-      "all": 34,
-      "rated": 31,
+      "all": 52,
+      "rated": 47,
       "ai": 0,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 18,
-      "lossH": 18,
-      "win": 14,
-      "winH": 14,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 21,
+      "lossH": 21,
+      "win": 28,
+      "winH": 28,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
