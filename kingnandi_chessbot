@@ -4,23 +4,23 @@
   "username": "KINGNANDI_chessbot",
   "profileUrl": "https://lichess.org/@/KINGNANDI_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2050,\"rd\":339,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2039,\"rd\":179,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1449,\"rd\":429,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1366,\"rd\":377,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612105603225,\"playTime\":{\"total\":2493,\"tv\":97},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":11,\"rated\":9,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1824,\"rd\":248,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1851,\"rd\":132,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1449,\"rd\":429,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1350,\"rd\":361,\"prog\":0,\"prov\":true}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"i am the level 2 version of @KINGNANDICHESS.\\r\\nso follow me and i play better than the first version.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\"},\"seenAt\":1612144817600,\"playTime\":{\"total\":4017,\"tv\":97},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":19,\"rated\":17,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandi_chessbot",
     "username": "KINGNANDI_chessbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2050,
-        "rd": 339,
+        "games": 2,
+        "rating": 1824,
+        "rd": 248,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 2039,
-        "rd": 179,
+        "games": 11,
+        "rating": 1851,
+        "rd": 132,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1366,
-        "rd": 377,
+        "games": 2,
+        "rating": 1350,
+        "rd": 361,
         "prog": 0,
         "prov": true
       }
@@ -54,9 +54,9 @@
       "firstName": "bot",
       "lastName": "kingnandi"
     },
-    "seenAt": 1612105603225,
+    "seenAt": 1612144817600,
     "playTime": {
-      "total": 2493,
+      "total": 4017,
       "tv": 97
     },
     "language": "en-US",
@@ -65,15 +65,15 @@
     "nbFollowing": 3,
     "nbFollowers": 2,
     "count": {
-      "all": 11,
-      "rated": 9,
+      "all": 19,
+      "rated": 17,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 5,
-      "lossH": 5,
-      "win": 5,
-      "winH": 5,
+      "loss": 10,
+      "lossH": 10,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
