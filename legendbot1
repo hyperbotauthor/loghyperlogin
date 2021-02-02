@@ -1,0 +1,83 @@
+{
+  "id": "legendbot1",
+  "displayName": "legendbot1",
+  "username": "legendbot1",
+  "profileUrl": "https://lichess.org/@/legendbot1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":43,\"rating\":2110,\"rd\":87,\"prog\":-7},\"bullet\":{\"games\":71,\"rating\":2059,\"rd\":65,\"prog\":29},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":146,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1612270668203,\"playTime\":{\"total\":53163,\"tv\":7791},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":33,\"nbFollowers\":14,\"count\":{\"all\":130,\"rated\":122,\"ai\":1,\"draw\":13,\"drawH\":13,\"loss\":16,\"lossH\":16,\"win\":101,\"winH\":100,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "legendbot1",
+    "username": "legendbot1",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 43,
+        "rating": 2110,
+        "rd": 87,
+        "prog": -7
+      },
+      "bullet": {
+        "games": 71,
+        "rating": 2059,
+        "rd": 65,
+        "prog": 29
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 7,
+        "rating": 2102,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610786073717,
+    "profile": {
+      "country": "IN",
+      "bio": "https://i.imgur.com/ahfAslw.jpg"
+    },
+    "seenAt": 1612270668203,
+    "playTime": {
+      "total": 53163,
+      "tv": 7791
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/legendbot1",
+    "nbFollowing": 33,
+    "nbFollowers": 14,
+    "count": {
+      "all": 130,
+      "rated": 122,
+      "ai": 1,
+      "draw": 13,
+      "drawH": 13,
+      "loss": 16,
+      "lossH": 16,
+      "win": 101,
+      "winH": 100,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
