@@ -1,0 +1,101 @@
+{
+  "id": "dapocano",
+  "displayName": "Dapocano",
+  "username": "Dapocano",
+  "profileUrl": "https://lichess.org/@/Dapocano",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dapocano\",\"username\":\"Dapocano\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":44,\"rating\":1318,\"rd\":240,\"prog\":11,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1159,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1358,\"rd\":285,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1401,\"rd\":309,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1237,\"rd\":271,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1427,\"rd\":321,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1062,\"rd\":387,\"prog\":0,\"prov\":true}},\"createdAt\":1505411483502,\"seenAt\":1612251084400,\"playTime\":{\"total\":1575,\"tv\":83},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/Dapocano\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":22,\"rated\":10,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":19,\"lossH\":14,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dapocano",
+    "username": "Dapocano",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 44,
+        "rating": 1318,
+        "rd": 240,
+        "prog": 11,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1159,
+        "rd": 246,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1358,
+        "rd": 285,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1401,
+        "rd": 309,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1237,
+        "rd": 271,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1427,
+        "rd": 321,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1062,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1505411483502,
+    "seenAt": 1612251084400,
+    "playTime": {
+      "total": 1575,
+      "tv": 83
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/Dapocano",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "count": {
+      "all": 22,
+      "rated": 10,
+      "ai": 5,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 19,
+      "lossH": 14,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
