@@ -4,11 +4,11 @@
   "username": "BOTatanwin",
   "profileUrl": "https://lichess.org/@/BOTatanwin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botatanwin\",\"username\":\"BOTatanwin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2170,\"rd\":248,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1711,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":93,\"rating\":2070,\"rd\":49,\"prog\":12},\"correspondence\":{\"games\":30,\"rating\":1779,\"rd\":79,\"prog\":43},\"classical\":{\"games\":23,\"rating\":2376,\"rd\":95,\"prog\":242},\"rapid\":{\"games\":13,\"rating\":2614,\"rd\":142,\"prog\":-28,\"prov\":true}},\"createdAt\":1610140875526,\"profile\":{\"country\":\"_lichess\",\"location\":\"@atanwin\",\"bio\":\"To challenge me you must follow @atanwin and join https://lichess.org/team/atanwin-fan-club. Atomic and standard only challenges. You will be blocked  if you try to challenge me without meeting the requirements above. \\r\\nRapid, blitz and bullet only.\\r\\nNo bot challenges\",\"firstName\":\"Follow @atanwin and\",\"lastName\":\"join atanwin fanclub\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"lichess.org/@/atanwin\"},\"seenAt\":1611850531269,\"playTime\":{\"total\":215537,\"tv\":1989},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOTatanwin\",\"nbFollowing\":207,\"nbFollowers\":62,\"count\":{\"all\":231,\"rated\":168,\"ai\":7,\"draw\":22,\"drawH\":22,\"loss\":79,\"lossH\":73,\"win\":130,\"winH\":129,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botatanwin\",\"username\":\"BOTatanwin\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2170,\"rd\":248,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1797,\"rd\":232,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":93,\"rating\":2070,\"rd\":51,\"prog\":12},\"correspondence\":{\"games\":30,\"rating\":1779,\"rd\":80,\"prog\":43},\"classical\":{\"games\":23,\"rating\":2376,\"rd\":97,\"prog\":242},\"rapid\":{\"games\":13,\"rating\":2614,\"rd\":143,\"prog\":-28,\"prov\":true}},\"createdAt\":1610140875526,\"profile\":{\"country\":\"_lichess\",\"location\":\"@atanwin\",\"bio\":\"To challenge me you must follow @atanwin and join https://lichess.org/team/atanwin-fan-club. Atomic and standard only challenges. You will be blocked  if you try to challenge me without meeting the requirements above. \\r\\nRapid, blitz and bullet only.\\r\\nNo bot challenges\",\"firstName\":\"Follow @atanwin and\",\"lastName\":\"join atanwin fanclub\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"lichess.org/@/atanwin\"},\"seenAt\":1612219395574,\"playTime\":{\"total\":215791,\"tv\":1989},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOTatanwin\",\"nbFollowing\":0,\"nbFollowers\":71,\"count\":{\"all\":234,\"rated\":170,\"ai\":8,\"draw\":22,\"drawH\":22,\"loss\":80,\"lossH\":73,\"win\":132,\"winH\":131,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botatanwin",
     "username": "BOTatanwin",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 6,
@@ -18,34 +18,34 @@
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1711,
-        "rd": 289,
+        "games": 2,
+        "rating": 1797,
+        "rd": 232,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 93,
         "rating": 2070,
-        "rd": 49,
+        "rd": 51,
         "prog": 12
       },
       "correspondence": {
         "games": 30,
         "rating": 1779,
-        "rd": 79,
+        "rd": 80,
         "prog": 43
       },
       "classical": {
         "games": 23,
         "rating": 2376,
-        "rd": 95,
+        "rd": 97,
         "prog": 242
       },
       "rapid": {
         "games": 13,
         "rating": 2614,
-        "rd": 142,
+        "rd": 143,
         "prog": -28,
         "prov": true
       }
@@ -62,26 +62,26 @@
       "ecfRating": 3000,
       "links": "lichess.org/@/atanwin"
     },
-    "seenAt": 1611850531269,
+    "seenAt": 1612219395574,
     "playTime": {
-      "total": 215537,
+      "total": 215791,
       "tv": 1989
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BOTatanwin",
-    "nbFollowing": 207,
-    "nbFollowers": 62,
+    "nbFollowing": 0,
+    "nbFollowers": 71,
     "count": {
-      "all": 231,
-      "rated": 168,
-      "ai": 7,
+      "all": 234,
+      "rated": 170,
+      "ai": 8,
       "draw": 22,
       "drawH": 22,
-      "loss": 79,
+      "loss": 80,
       "lossH": 73,
-      "win": 130,
-      "winH": 129,
+      "win": 132,
+      "winH": 131,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
