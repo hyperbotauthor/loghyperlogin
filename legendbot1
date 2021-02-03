@@ -4,23 +4,30 @@
   "username": "legendbot1",
   "profileUrl": "https://lichess.org/@/legendbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":43,\"rating\":2110,\"rd\":87,\"prog\":-7},\"bullet\":{\"games\":72,\"rating\":2039,\"rd\":65,\"prog\":5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":146,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1612332446608,\"playTime\":{\"total\":53229,\"tv\":7791},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":33,\"nbFollowers\":14,\"count\":{\"all\":131,\"rated\":123,\"ai\":1,\"draw\":13,\"drawH\":13,\"loss\":17,\"lossH\":17,\"win\":101,\"winH\":100,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":2042,\"rd\":85,\"prog\":-82},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":266,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":87,\"rating\":1956,\"rd\":54,\"prog\":-48},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":146,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1612353335740,\"playTime\":{\"total\":58910,\"tv\":8188},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"playing\":\"https://lichess.org/Txtbb9Pl/white\",\"nbFollowing\":33,\"nbFollowers\":13,\"count\":{\"all\":157,\"rated\":143,\"ai\":6,\"draw\":14,\"drawH\":14,\"loss\":32,\"lossH\":30,\"win\":111,\"winH\":107,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendbot1",
     "username": "legendbot1",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 43,
-        "rating": 2110,
-        "rd": 87,
-        "prog": -7
+        "games": 46,
+        "rating": 2042,
+        "rd": 85,
+        "prog": -82
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1893,
+        "rd": 266,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
-        "games": 72,
-        "rating": 2039,
-        "rd": 65,
-        "prog": 5
+        "games": 87,
+        "rating": 1956,
+        "rd": 54,
+        "prog": -48
       },
       "correspondence": {
         "games": 0,
@@ -49,28 +56,29 @@
       "country": "IN",
       "bio": "https://i.imgur.com/ahfAslw.jpg"
     },
-    "seenAt": 1612332446608,
+    "seenAt": 1612353335740,
     "playTime": {
-      "total": 53229,
-      "tv": 7791
+      "total": 58910,
+      "tv": 8188
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/legendbot1",
+    "playing": "https://lichess.org/Txtbb9Pl/white",
     "nbFollowing": 33,
-    "nbFollowers": 14,
+    "nbFollowers": 13,
     "count": {
-      "all": 131,
-      "rated": 123,
-      "ai": 1,
-      "draw": 13,
-      "drawH": 13,
-      "loss": 17,
-      "lossH": 17,
-      "win": 101,
-      "winH": 100,
+      "all": 157,
+      "rated": 143,
+      "ai": 6,
+      "draw": 14,
+      "drawH": 14,
+      "loss": 32,
+      "lossH": 30,
+      "win": 111,
+      "winH": 107,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
