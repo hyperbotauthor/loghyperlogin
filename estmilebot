@@ -4,11 +4,11 @@
   "username": "EstmileBot",
   "profileUrl": "https://lichess.org/@/EstmileBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2091,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1724,\"rd\":293,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1614,\"rd\":413,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"seenAt\":1612335373237,\"playTime\":{\"total\":1561,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"playing\":\"https://lichess.org/gIiXWsCE/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":13,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2091,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1724,\"rd\":293,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2377,\"rd\":364,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot\",\"bio\":\"a bot made by @danipocano\\r\\nnot ever online but when online I accept all points and modes\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1612368806644,\"playTime\":{\"total\":3369,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":16,\"rated\":8,\"ai\":1,\"draw\":1,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "estmilebot",
     "username": "EstmileBot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 2,
@@ -46,37 +46,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1614,
-        "rd": 413,
+        "games": 2,
+        "rating": 2377,
+        "rd": 364,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1612293755746,
-    "seenAt": 1612335373237,
+    "profile": {
+      "country": "_lichess",
+      "location": "bot",
+      "bio": "a bot made by @danipocano\r\nnot ever online but when online I accept all points and modes",
+      "links": "hypereasy.herokuapp.com"
+    },
+    "seenAt": 1612368806644,
     "playTime": {
-      "total": 1561,
+      "total": 3369,
       "tv": 0
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/EstmileBot",
-    "playing": "https://lichess.org/gIiXWsCE/black",
-    "nbFollowing": 0,
-    "nbFollowers": 1,
+    "nbFollowing": 3,
+    "nbFollowers": 3,
     "count": {
-      "all": 13,
-      "rated": 7,
-      "ai": 0,
-      "draw": 0,
+      "all": 16,
+      "rated": 8,
+      "ai": 1,
+      "draw": 1,
       "drawH": 0,
       "loss": 2,
       "lossH": 2,
-      "win": 11,
-      "winH": 11,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
