@@ -1,0 +1,107 @@
+{
+  "id": "powerfulatomic",
+  "displayName": "PowerfulAtomic",
+  "username": "PowerfulAtomic",
+  "profileUrl": "https://lichess.org/@/PowerfulAtomic",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"powerfulatomic\",\"username\":\"PowerfulAtomic\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":19,\"rating\":1629,\"rd\":99,\"prog\":0},\"atomic\":{\"games\":51,\"rating\":2053,\"rd\":87,\"prog\":17},\"racingKings\":{\"games\":3,\"rating\":1748,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":2,\"score\":20}},\"createdAt\":1612198110969,\"profile\":{\"bio\":\"@SantosGMY2009 my best friend\"},\"seenAt\":1612376191767,\"playTime\":{\"total\":3709,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/PowerfulAtomic\",\"nbFollowing\":57,\"nbFollowers\":7,\"completionRate\":0,\"count\":{\"all\":76,\"rated\":54,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":71,\"winH\":71,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "powerfulatomic",
+    "username": "PowerfulAtomic",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 19,
+        "rating": 1629,
+        "rd": 99,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 51,
+        "rating": 2053,
+        "rd": 87,
+        "prog": 17
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1748,
+        "rd": 246,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 2,
+        "score": 20
+      }
+    },
+    "createdAt": 1612198110969,
+    "profile": {
+      "bio": "@SantosGMY2009 my best friend"
+    },
+    "seenAt": 1612376191767,
+    "playTime": {
+      "total": 3709,
+      "tv": 0
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/PowerfulAtomic",
+    "nbFollowing": 57,
+    "nbFollowers": 7,
+    "completionRate": 0,
+    "count": {
+      "all": 76,
+      "rated": 54,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 71,
+      "winH": 71,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
