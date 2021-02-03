@@ -4,16 +4,23 @@
   "username": "EstmileBot",
   "profileUrl": "https://lichess.org/@/EstmileBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"seenAt\":1612293799505,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1666,\"rd\":335,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"seenAt\":1612294402498,\"playTime\":{\"total\":53,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "estmilebot",
     "username": "EstmileBot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 0,
         "rating": 1500,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1666,
+        "rd": 335,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +54,26 @@
       }
     },
     "createdAt": 1612293755746,
-    "seenAt": 1612293799505,
+    "seenAt": 1612294402498,
     "playTime": {
-      "total": 0,
+      "total": 53,
       "tv": 0
     },
     "language": "es-ES",
+    "title": "BOT",
     "url": "https://lichess.org/@/EstmileBot",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 6,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
