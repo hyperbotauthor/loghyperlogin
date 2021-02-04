@@ -4,17 +4,17 @@
   "username": "TheCheckmater200",
   "profileUrl": "https://lichess.org/@/TheCheckmater200",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2182,\"rd\":87,\"prog\":69},\"bullet\":{\"games\":3,\"rating\":1966,\"rd\":229,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":350,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"location\":\"Location: The Server\",\"bio\":\"I am programmed by hypereasy.herokuapp.com \\r\\nPlays like a 2200-2500.\\r\\nFavourite opponents: BOT @Try_to_beat_me_kid and BOT @CosetteBot\\r\\nAim: To defeat stockfish lvl. 8.(success) next aim: to get 2500 blitz\\r\\nSuccess in defeating stockfish lvl 8 https://lichess.org/hbhUvFWy\\r\\nwoo-hoo! Happy checkmating!\",\"firstName\":\"Yousuf_Haitham\"},\"seenAt\":1612151677691,\"playTime\":{\"total\":15418,\"tv\":1543},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"playing\":\"https://lichess.org/rFWePUYZ/white\",\"nbFollowing\":4,\"nbFollowers\":2,\"count\":{\"all\":40,\"rated\":29,\"ai\":8,\"draw\":4,\"drawH\":3,\"loss\":13,\"lossH\":9,\"win\":23,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thecheckmater200\",\"username\":\"TheCheckmater200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2200,\"rd\":84,\"prog\":38},\"bullet\":{\"games\":3,\"rating\":1966,\"rd\":229,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":350,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610526973150,\"profile\":{\"location\":\"Location: The Server\",\"bio\":\"I am programmed by hypereasy.herokuapp.com \\r\\nPlays like a 2200-2500.\\r\\nFavourite opponents: BOT @Try_to_beat_me_kid and BOT @CosetteBot\\r\\nAim: To defeat stockfish lvl. 8.(success) next aim: to get 2500 blitz\\r\\nSuccess in defeating stockfish lvl 8 https://lichess.org/hbhUvFWy\\r\\nwoo-hoo! Happy checkmating!\",\"firstName\":\"Yousuf_Haitham\"},\"seenAt\":1612412449165,\"playTime\":{\"total\":16251,\"tv\":2003},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheCheckmater200\",\"nbFollowing\":4,\"nbFollowers\":2,\"count\":{\"all\":42,\"rated\":31,\"ai\":8,\"draw\":4,\"drawH\":3,\"loss\":13,\"lossH\":9,\"win\":25,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thecheckmater200",
     "username": "TheCheckmater200",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 24,
-        "rating": 2182,
-        "rd": 87,
-        "prog": 69
+        "games": 26,
+        "rating": 2200,
+        "rd": 84,
+        "prog": 38
       },
       "bullet": {
         "games": 3,
@@ -51,29 +51,28 @@
       "bio": "I am programmed by hypereasy.herokuapp.com \r\nPlays like a 2200-2500.\r\nFavourite opponents: BOT @Try_to_beat_me_kid and BOT @CosetteBot\r\nAim: To defeat stockfish lvl. 8.(success) next aim: to get 2500 blitz\r\nSuccess in defeating stockfish lvl 8 https://lichess.org/hbhUvFWy\r\nwoo-hoo! Happy checkmating!",
       "firstName": "Yousuf_Haitham"
     },
-    "seenAt": 1612151677691,
+    "seenAt": 1612412449165,
     "playTime": {
-      "total": 15418,
-      "tv": 1543
+      "total": 16251,
+      "tv": 2003
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheCheckmater200",
-    "playing": "https://lichess.org/rFWePUYZ/white",
     "nbFollowing": 4,
     "nbFollowers": 2,
     "count": {
-      "all": 40,
-      "rated": 29,
+      "all": 42,
+      "rated": 31,
       "ai": 8,
       "draw": 4,
       "drawH": 3,
       "loss": 13,
       "lossH": 9,
-      "win": 23,
-      "winH": 20,
+      "win": 25,
+      "winH": 22,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
