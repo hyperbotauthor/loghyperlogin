@@ -1,0 +1,115 @@
+{
+  "id": "majesticplayer",
+  "displayName": "majesticplayer",
+  "username": "majesticplayer",
+  "profileUrl": "https://lichess.org/@/majesticplayer",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"majesticplayer\",\"username\":\"majesticplayer\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":213,\"rating\":1709,\"rd\":67,\"prog\":0},\"atomic\":{\"games\":3,\"rating\":1135,\"rd\":227,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":11,\"rating\":889,\"rd\":170,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":185,\"rating\":1102,\"rd\":63,\"prog\":12},\"crazyhouse\":{\"games\":12,\"rating\":1173,\"rd\":139,\"prog\":-52,\"prov\":true},\"bullet\":{\"games\":57,\"rating\":1182,\"rd\":90,\"prog\":40},\"correspondence\":{\"games\":35,\"rating\":1320,\"rd\":108,\"prog\":-16},\"classical\":{\"games\":10,\"rating\":1194,\"rd\":146,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":228,\"rating\":1237,\"rd\":47,\"prog\":-8},\"storm\":{\"runs\":1,\"score\":15}},\"createdAt\":1588928002103,\"profile\":{\"country\":\"IN\",\"bio\":\"I love maths and a master.You can ask anything abot maths.\",\"fideRating\":2135,\"uscfRating\":345,\"ecfRating\":31},\"seenAt\":1612448793814,\"playTime\":{\"total\":136662,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/majesticplayer\",\"nbFollowing\":9,\"nbFollowers\":6,\"completionRate\":73,\"count\":{\"all\":562,\"rated\":549,\"ai\":0,\"draw\":16,\"drawH\":16,\"loss\":414,\"lossH\":414,\"win\":132,\"winH\":132,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "majesticplayer",
+    "username": "majesticplayer",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 213,
+        "rating": 1709,
+        "rd": 67,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 1135,
+        "rd": 227,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 11,
+        "rating": 889,
+        "rd": 170,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 185,
+        "rating": 1102,
+        "rd": 63,
+        "prog": 12
+      },
+      "crazyhouse": {
+        "games": 12,
+        "rating": 1173,
+        "rd": 139,
+        "prog": -52,
+        "prov": true
+      },
+      "bullet": {
+        "games": 57,
+        "rating": 1182,
+        "rd": 90,
+        "prog": 40
+      },
+      "correspondence": {
+        "games": 35,
+        "rating": 1320,
+        "rd": 108,
+        "prog": -16
+      },
+      "classical": {
+        "games": 10,
+        "rating": 1194,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 228,
+        "rating": 1237,
+        "rd": 47,
+        "prog": -8
+      },
+      "storm": {
+        "runs": 1,
+        "score": 15
+      }
+    },
+    "createdAt": 1588928002103,
+    "profile": {
+      "country": "IN",
+      "bio": "I love maths and a master.You can ask anything abot maths.",
+      "fideRating": 2135,
+      "uscfRating": 345,
+      "ecfRating": 31
+    },
+    "seenAt": 1612448793814,
+    "playTime": {
+      "total": 136662,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/majesticplayer",
+    "nbFollowing": 9,
+    "nbFollowers": 6,
+    "completionRate": 73,
+    "count": {
+      "all": 562,
+      "rated": 549,
+      "ai": 0,
+      "draw": 16,
+      "drawH": 16,
+      "loss": 414,
+      "lossH": 414,
+      "win": 132,
+      "winH": 132,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
