@@ -4,11 +4,11 @@
   "username": "KINGNANDI_chessbot",
   "profileUrl": "https://lichess.org/@/KINGNANDI_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":false,\"perfs\":{\"horde\":{\"games\":2,\"rating\":1748,\"rd\":302,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1721,\"rd\":305,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1974,\"rd\":266,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":48,\"rating\":2280,\"rd\":62,\"prog\":76},\"kingOfTheHill\":{\"games\":5,\"rating\":1478,\"rd\":202,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1445,\"rd\":206,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":2282,\"rd\":45,\"prog\":-38},\"correspondence\":{\"games\":1,\"rating\":1648,\"rd\":321,\"prog\":0,\"prov\":true},\"classical\":{\"games\":14,\"rating\":1712,\"rd\":124,\"prog\":-82,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":2253,\"rd\":108,\"prog\":238}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"hi i am kingnandi or vignesh bot.\\r\\nmy creator and developer is @kingnandi.\\r\\ngive him a follow.\\r\\ni accept all standard challenges but all has to be rated if causual then wont accept.\\r\\ni play chess well.\\r\\nchallenge me if you dare too.\\r\\nyou can chat with this bot too.\\r\\n\\r\\nso follow me and i play better than most under 2000 bots.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\",\"links\":\"github lichess chess.com discord twitter\"},\"seenAt\":1612499111583,\"playTime\":{\"total\":51482,\"tv\":10595},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":37,\"nbFollowers\":27,\"count\":{\"all\":249,\"rated\":222,\"ai\":1,\"draw\":71,\"drawH\":71,\"loss\":73,\"lossH\":72,\"win\":105,\"winH\":105,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"horde\":{\"games\":2,\"rating\":1748,\"rd\":302,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1705,\"rd\":291,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1974,\"rd\":266,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":53,\"rating\":2256,\"rd\":58,\"prog\":5},\"kingOfTheHill\":{\"games\":6,\"rating\":1476,\"rd\":201,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1445,\"rd\":206,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":141,\"rating\":2321,\"rd\":45,\"prog\":42},\"correspondence\":{\"games\":1,\"rating\":1648,\"rd\":321,\"prog\":0,\"prov\":true},\"classical\":{\"games\":14,\"rating\":1712,\"rd\":124,\"prog\":-82,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":2253,\"rd\":108,\"prog\":238}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"hi i am kingnandi or vignesh bot.\\r\\nmy creator and developer is @kingnandi.\\r\\ngive him a follow.\\r\\ni accept all standard challenges but all has to be rated if causual then wont accept.\\r\\ni play chess well.\\r\\nchallenge me if you dare too.\\r\\nyou can chat with this bot too.\\r\\n\\r\\nso follow me and i play better than most under 2000 bots.\\r\\ni play bullet,blitz and rapid and classical.so challenge me and also you can chat with this bot.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\",\"links\":\"github lichess chess.com discord twitter\"},\"seenAt\":1612525557709,\"playTime\":{\"total\":55211,\"tv\":13820},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":39,\"nbFollowers\":27,\"count\":{\"all\":277,\"rated\":250,\"ai\":1,\"draw\":75,\"drawH\":75,\"loss\":84,\"lossH\":83,\"win\":118,\"winH\":118,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandi_chessbot",
     "username": "KINGNANDI_chessbot",
-    "online": false,
+    "online": true,
     "perfs": {
       "horde": {
         "games": 2,
@@ -18,9 +18,9 @@
         "prov": true
       },
       "atomic": {
-        "games": 2,
-        "rating": 1721,
-        "rd": 305,
+        "games": 4,
+        "rating": 1705,
+        "rd": 291,
         "prog": 0,
         "prov": true
       },
@@ -32,15 +32,15 @@
         "prov": true
       },
       "blitz": {
-        "games": 48,
-        "rating": 2280,
-        "rd": 62,
-        "prog": 76
+        "games": 53,
+        "rating": 2256,
+        "rd": 58,
+        "prog": 5
       },
       "kingOfTheHill": {
-        "games": 5,
-        "rating": 1478,
-        "rd": 202,
+        "games": 6,
+        "rating": 1476,
+        "rd": 201,
         "prog": 0,
         "prov": true
       },
@@ -52,10 +52,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 121,
-        "rating": 2282,
+        "games": 141,
+        "rating": 2321,
         "rd": 45,
-        "prog": -38
+        "prog": 42
       },
       "correspondence": {
         "games": 1,
@@ -87,26 +87,26 @@
       "lastName": "kingnandi",
       "links": "github lichess chess.com discord twitter"
     },
-    "seenAt": 1612499111583,
+    "seenAt": 1612525557709,
     "playTime": {
-      "total": 51482,
-      "tv": 10595
+      "total": 55211,
+      "tv": 13820
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDI_chessbot",
-    "nbFollowing": 37,
+    "nbFollowing": 39,
     "nbFollowers": 27,
     "count": {
-      "all": 249,
-      "rated": 222,
+      "all": 277,
+      "rated": 250,
       "ai": 1,
-      "draw": 71,
-      "drawH": 71,
-      "loss": 73,
-      "lossH": 72,
-      "win": 105,
-      "winH": 105,
+      "draw": 75,
+      "drawH": 75,
+      "loss": 84,
+      "lossH": 83,
+      "win": 118,
+      "winH": 118,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
