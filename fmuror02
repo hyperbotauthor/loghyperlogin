@@ -4,30 +4,30 @@
   "username": "Fmuror02",
   "profileUrl": "https://lichess.org/@/Fmuror02",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fmuror02\",\"username\":\"Fmuror02\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":10,\"rating\":1292,\"rd\":146,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":275,\"rating\":2164,\"rd\":175,\"prog\":-203,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1746,\"rd\":271,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1662,\"rd\":296,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":5,\"rating\":1475,\"rd\":250,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":318,\"rating\":1327,\"rd\":53,\"prog\":19},\"kingOfTheHill\":{\"games\":1,\"rating\":1662,\"rd\":296,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1753,\"rd\":256,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1547,\"rd\":226,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1596,\"rd\":248,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":56,\"rating\":1680,\"rd\":92,\"prog\":20},\"classical\":{\"games\":18,\"rating\":1444,\"rd\":119,\"prog\":132,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":1385,\"rd\":110,\"prog\":29,\"prov\":true}},\"createdAt\":1584347720812,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Don’t underestimate me.\\r\\nhttps://i.imgur.com/5Bghwh9.gif\\r\\n\\r\\nIf you follow me, I will follow you\",\"firstName\":\"iwonttellmyfirstname\",\"lastName\":\"iwonttellmylastname\"},\"seenAt\":1611310521679,\"playTime\":{\"total\":176077,\"tv\":121},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Fmuror02\",\"playing\":\"https://lichess.org/7K9RZC1j/white\",\"nbFollowing\":190,\"nbFollowers\":153,\"completionRate\":97,\"count\":{\"all\":998,\"rated\":443,\"ai\":310,\"draw\":47,\"drawH\":42,\"loss\":342,\"lossH\":291,\"win\":609,\"winH\":355,\"bookmark\":37,\"playing\":4,\"import\":5,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fmuror02\",\"username\":\"Fmuror02\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":10,\"rating\":1292,\"rd\":147,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":275,\"rating\":2164,\"rd\":176,\"prog\":-203,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1746,\"rd\":272,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1662,\"rd\":296,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":5,\"rating\":1475,\"rd\":252,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":324,\"rating\":1344,\"rd\":55,\"prog\":20},\"kingOfTheHill\":{\"games\":1,\"rating\":1662,\"rd\":296,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1753,\"rd\":257,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1547,\"rd\":227,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1596,\"rd\":249,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":57,\"rating\":1692,\"rd\":92,\"prog\":22},\"classical\":{\"games\":18,\"rating\":1444,\"rd\":120,\"prog\":132,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":1385,\"rd\":112,\"prog\":29,\"prov\":true},\"storm\":{\"runs\":5,\"score\":24}},\"createdAt\":1584347720812,\"profile\":{\"country\":\"_lichess\",\"location\":\"Mount Olympus\",\"bio\":\"Hi, my name is ————————— I am not bad at chess (even though my blitz rating is low)\\r\\nDon’t underestimate me,  I am Albert Einstein grandson.\\r\\nhttps://i.imgur.com/j7r1oIo.jpg\\r\\n\\r\\n Please join my team https://lichess.org/team/daily-tournaments-2021 we have tourneys every day \\uD83D\\uDE00\\r\\n\\r\\nAnd Pls like this cool studies. It motivates me         https://lichess.org/study/by/Fmuror02\",\"firstName\":\"If you follow me\",\"lastName\":\"I will follow you\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1612554289905,\"playTime\":{\"total\":179740,\"tv\":121},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Fmuror02\",\"playing\":\"https://lichess.org/ToU8zGLY/black\",\"nbFollowing\":215,\"nbFollowers\":166,\"completionRate\":97,\"count\":{\"all\":1020,\"rated\":450,\"ai\":316,\"draw\":47,\"drawH\":42,\"loss\":351,\"lossH\":297,\"win\":622,\"winH\":365,\"bookmark\":37,\"playing\":1,\"import\":5,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fmuror02",
     "username": "Fmuror02",
-    "online": true,
+    "online": false,
     "perfs": {
       "chess960": {
         "games": 10,
         "rating": 1292,
-        "rd": 146,
+        "rd": 147,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
         "games": 275,
         "rating": 2164,
-        "rd": 175,
+        "rd": 176,
         "prog": -203,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1746,
-        "rd": 271,
+        "rd": 272,
         "prog": 0,
         "prov": true
       },
@@ -41,15 +41,15 @@
       "ultraBullet": {
         "games": 5,
         "rating": 1475,
-        "rd": 250,
+        "rd": 252,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 318,
-        "rating": 1327,
-        "rd": 53,
-        "prog": 19
+        "games": 324,
+        "rating": 1344,
+        "rd": 55,
+        "prog": 20
       },
       "kingOfTheHill": {
         "games": 1,
@@ -61,75 +61,83 @@
       "crazyhouse": {
         "games": 2,
         "rating": 1753,
-        "rd": 256,
+        "rd": 257,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 3,
         "rating": 1547,
-        "rd": 226,
+        "rd": 227,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 3,
         "rating": 1596,
-        "rd": 248,
+        "rd": 249,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 56,
-        "rating": 1680,
+        "games": 57,
+        "rating": 1692,
         "rd": 92,
-        "prog": 20
+        "prog": 22
       },
       "classical": {
         "games": 18,
         "rating": 1444,
-        "rd": 119,
+        "rd": 120,
         "prog": 132,
         "prov": true
       },
       "rapid": {
         "games": 19,
         "rating": 1385,
-        "rd": 110,
+        "rd": 112,
         "prog": 29,
         "prov": true
+      },
+      "storm": {
+        "runs": 5,
+        "score": 24
       }
     },
     "createdAt": 1584347720812,
     "profile": {
       "country": "_lichess",
-      "bio": "Don’t underestimate me.\r\nhttps://i.imgur.com/5Bghwh9.gif\r\n\r\nIf you follow me, I will follow you",
-      "firstName": "iwonttellmyfirstname",
-      "lastName": "iwonttellmylastname"
+      "location": "Mount Olympus",
+      "bio": "Hi, my name is ————————— I am not bad at chess (even though my blitz rating is low)\r\nDon’t underestimate me,  I am Albert Einstein grandson.\r\nhttps://i.imgur.com/j7r1oIo.jpg\r\n\r\n Please join my team https://lichess.org/team/daily-tournaments-2021 we have tourneys every day 😀\r\n\r\nAnd Pls like this cool studies. It motivates me         https://lichess.org/study/by/Fmuror02",
+      "firstName": "If you follow me",
+      "lastName": "I will follow you",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000
     },
-    "seenAt": 1611310521679,
+    "seenAt": 1612554289905,
     "playTime": {
-      "total": 176077,
+      "total": 179740,
       "tv": 121
     },
     "language": "en-GB",
     "url": "https://lichess.org/@/Fmuror02",
-    "playing": "https://lichess.org/7K9RZC1j/white",
-    "nbFollowing": 190,
-    "nbFollowers": 153,
+    "playing": "https://lichess.org/ToU8zGLY/black",
+    "nbFollowing": 215,
+    "nbFollowers": 166,
     "completionRate": 97,
     "count": {
-      "all": 998,
-      "rated": 443,
-      "ai": 310,
+      "all": 1020,
+      "rated": 450,
+      "ai": 316,
       "draw": 47,
       "drawH": 42,
-      "loss": 342,
-      "lossH": 291,
-      "win": 609,
-      "winH": 355,
+      "loss": 351,
+      "lossH": 297,
+      "win": 622,
+      "winH": 365,
       "bookmark": 37,
-      "playing": 4,
+      "playing": 1,
       "import": 5,
       "me": 0
     },
