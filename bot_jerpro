@@ -4,16 +4,16 @@
   "username": "Bot_jerpro",
   "profileUrl": "https://lichess.org/@/Bot_jerpro",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"seenAt\":1612554580418,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2328,\"rd\":335,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"profile\":{\"bio\":\"I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position.\"},\"seenAt\":1612603234997,\"playTime\":{\"total\":1773,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":5,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_jerpro",
     "username": "Bot_jerpro",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2328,
+        "rd": 335,
         "prog": 0,
         "prov": true
       },
@@ -47,27 +47,31 @@
       }
     },
     "createdAt": 1612554575162,
-    "seenAt": 1612554580418,
+    "profile": {
+      "bio": "I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position."
+    },
+    "seenAt": 1612603234997,
     "playTime": {
-      "total": 0,
+      "total": 1773,
       "tv": 0
     },
     "language": "es-ES",
+    "title": "BOT",
     "url": "https://lichess.org/@/Bot_jerpro",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 4,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 5,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
