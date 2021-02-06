@@ -4,7 +4,7 @@
   "username": "Bot_jerpro",
   "profileUrl": "https://lichess.org/@/Bot_jerpro",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1474,\"rd\":462,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1312,\"rd\":349,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2287,\"rd\":114,\"prog\":-43,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1364,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2057,\"rd\":103,\"prog\":30},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"profile\":{\"bio\":\"I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position.\"},\"seenAt\":1612626351776,\"playTime\":{\"total\":10793,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"playing\":\"https://lichess.org/GC5UZ2Ef/black\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":42,\"rated\":36,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":12,\"lossH\":11,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1474,\"rd\":462,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1312,\"rd\":349,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":2281,\"rd\":106,\"prog\":-49},\"crazyhouse\":{\"games\":1,\"rating\":1364,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2057,\"rd\":103,\"prog\":30},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"profile\":{\"bio\":\"I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position.\"},\"seenAt\":1612632598950,\"playTime\":{\"total\":11965,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"playing\":\"https://lichess.org/yVEy6YRs/black\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":46,\"rated\":38,\"ai\":3,\"draw\":4,\"drawH\":4,\"loss\":15,\"lossH\":12,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_jerpro",
     "username": "Bot_jerpro",
@@ -25,11 +25,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 17,
-        "rating": 2287,
-        "rd": 114,
-        "prog": -43,
-        "prov": true
+        "games": 19,
+        "rating": 2281,
+        "rd": 106,
+        "prog": -49
       },
       "crazyhouse": {
         "games": 1,
@@ -70,27 +69,27 @@
     "profile": {
       "bio": "I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position."
     },
-    "seenAt": 1612626351776,
+    "seenAt": 1612632598950,
     "playTime": {
-      "total": 10793,
+      "total": 11965,
       "tv": 0
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/Bot_jerpro",
-    "playing": "https://lichess.org/GC5UZ2Ef/black",
+    "playing": "https://lichess.org/yVEy6YRs/black",
     "nbFollowing": 4,
     "nbFollowers": 1,
     "count": {
-      "all": 42,
-      "rated": 36,
-      "ai": 1,
+      "all": 46,
+      "rated": 38,
+      "ai": 3,
       "draw": 4,
       "drawH": 4,
-      "loss": 12,
-      "lossH": 11,
-      "win": 26,
-      "winH": 26,
+      "loss": 15,
+      "lossH": 12,
+      "win": 27,
+      "winH": 27,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
