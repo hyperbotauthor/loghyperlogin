@@ -4,7 +4,7 @@
   "username": "BOT_NoTalkOnlyGames",
   "profileUrl": "https://lichess.org/@/BOT_NoTalkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_notalkonlygames\",\"username\":\"BOT_NoTalkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612860630017,\"seenAt\":1612860676966,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/BOT_NoTalkOnlyGames\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_notalkonlygames\",\"username\":\"BOT_NoTalkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612860630017,\"profile\":{\"bio\":\":D\"},\"seenAt\":1612894015473,\"playTime\":{\"total\":226,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT_NoTalkOnlyGames\",\"playing\":\"https://lichess.org/r0cureND/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":0,\"ai\":8,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":1,\"win\":7,\"winH\":0,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_notalkonlygames",
     "username": "BOT_NoTalkOnlyGames",
@@ -47,27 +47,32 @@
       }
     },
     "createdAt": 1612860630017,
-    "seenAt": 1612860676966,
+    "profile": {
+      "bio": ":D"
+    },
+    "seenAt": 1612894015473,
     "playTime": {
-      "total": 0,
+      "total": 226,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/BOT_NoTalkOnlyGames",
+    "playing": "https://lichess.org/r0cureND/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
+      "all": 9,
       "rated": 0,
-      "ai": 0,
+      "ai": 8,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
+      "loss": 2,
+      "lossH": 1,
+      "win": 7,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
