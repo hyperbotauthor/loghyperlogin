@@ -4,23 +4,23 @@
   "username": "ChessDanya",
   "profileUrl": "https://lichess.org/@/ChessDanya",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessdanya\",\"username\":\"ChessDanya\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612772322923,\"seenAt\":1612772737728,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/ChessDanya\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessdanya\",\"username\":\"ChessDanya\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1748,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1757,\"rd\":247,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1763,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1612772322923,\"profile\":{\"bio\":\"\\uD83E\\uDD16 BOT\"},\"seenAt\":1612861528856,\"playTime\":{\"total\":857,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessDanya\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":5,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessdanya",
     "username": "ChessDanya",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1748,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1757,
+        "rd": 247,
         "prog": 0,
         "prov": true
       },
@@ -39,33 +39,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1763,
+        "rd": 396,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1612772322923,
-    "seenAt": 1612772737728,
+    "profile": {
+      "bio": "🤖 BOT"
+    },
+    "seenAt": 1612861528856,
     "playTime": {
-      "total": 0,
+      "total": 857,
       "tv": 0
     },
     "language": "ru-RU",
+    "title": "BOT",
     "url": "https://lichess.org/@/ChessDanya",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 5,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 5,
+      "rated": 4,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
