@@ -1,0 +1,87 @@
+{
+  "id": "masterpiotr",
+  "displayName": "MasterPiotr",
+  "username": "MasterPiotr",
+  "profileUrl": "https://lichess.org/@/MasterPiotr",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"masterpiotr\",\"username\":\"MasterPiotr\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":765,\"rd\":117,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":3,\"rating\":1054,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":116,\"rating\":905,\"rd\":45,\"prog\":-16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1365,\"rd\":320,\"prog\":0,\"prov\":true}},\"createdAt\":1610637245266,\"seenAt\":1612860539368,\"playTime\":{\"total\":16303,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/MasterPiotr\",\"nbFollowing\":7,\"nbFollowers\":1,\"completionRate\":97,\"count\":{\"all\":131,\"rated\":126,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":78,\"lossH\":74,\"win\":52,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "masterpiotr",
+    "username": "MasterPiotr",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 9,
+        "rating": 765,
+        "rd": 117,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 3,
+        "rating": 1054,
+        "rd": 202,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 116,
+        "rating": 905,
+        "rd": 45,
+        "prog": -16
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1365,
+        "rd": 320,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610637245266,
+    "seenAt": 1612860539368,
+    "playTime": {
+      "total": 16303,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/MasterPiotr",
+    "nbFollowing": 7,
+    "nbFollowers": 1,
+    "completionRate": 97,
+    "count": {
+      "all": 131,
+      "rated": 126,
+      "ai": 5,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 78,
+      "lossH": 74,
+      "win": 52,
+      "winH": 51,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
