@@ -1,0 +1,154 @@
+{
+  "id": "darsh_r",
+  "displayName": "Darsh_R",
+  "username": "Darsh_R",
+  "profileUrl": "https://lichess.org/@/Darsh_R",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"darsh_r\",\"username\":\"Darsh_R\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":5,\"rating\":1227,\"rd\":190,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":271,\"rating\":1310,\"rd\":63,\"prog\":6},\"atomic\":{\"games\":2639,\"rating\":1452,\"rd\":45,\"prog\":-27},\"racingKings\":{\"games\":394,\"rating\":1521,\"rd\":50,\"prog\":25},\"ultraBullet\":{\"games\":410,\"rating\":994,\"rd\":48,\"prog\":-7},\"blitz\":{\"games\":113,\"rating\":1282,\"rd\":57,\"prog\":-54},\"kingOfTheHill\":{\"games\":67,\"rating\":1389,\"rd\":69,\"prog\":-18},\"crazyhouse\":{\"games\":11,\"rating\":1164,\"rd\":151,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":79,\"rating\":1148,\"rd\":68,\"prog\":-29},\"bullet\":{\"games\":150,\"rating\":976,\"rd\":71,\"prog\":52},\"correspondence\":{\"games\":5,\"rating\":1519,\"rd\":192,\"prog\":0,\"prov\":true},\"horde\":{\"games\":24,\"rating\":1395,\"rd\":109,\"prog\":112},\"puzzle\":{\"games\":330,\"rating\":1797,\"rd\":110,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1328,\"rd\":256,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":96,\"rating\":1212,\"rd\":73,\"prog\":35},\"storm\":{\"runs\":78,\"score\":26}},\"createdAt\":1594990059454,\"profile\":{\"country\":\"IN\",\"bio\":\"my name is darsh and i like chess i am playing from 5 years https://i.imgur.com/hxr1XHU.jpg\",\"firstName\":\"Darsh\",\"fideRating\":2345,\"uscfRating\":1211,\"ecfRating\":1232},\"seenAt\":1612935454297,\"playTime\":{\"total\":406396,\"tv\":16608},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Darsh_R\",\"playing\":\"https://lichess.org/ZwhFVLo0/white\",\"nbFollowing\":29,\"nbFollowers\":70,\"completionRate\":100,\"count\":{\"all\":4595,\"rated\":4285,\"ai\":9,\"draw\":113,\"drawH\":113,\"loss\":2724,\"lossH\":2721,\"win\":1758,\"winH\":1752,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "darsh_r",
+    "username": "Darsh_R",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 5,
+        "rating": 1227,
+        "rd": 190,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 271,
+        "rating": 1310,
+        "rd": 63,
+        "prog": 6
+      },
+      "atomic": {
+        "games": 2639,
+        "rating": 1452,
+        "rd": 45,
+        "prog": -27
+      },
+      "racingKings": {
+        "games": 394,
+        "rating": 1521,
+        "rd": 50,
+        "prog": 25
+      },
+      "ultraBullet": {
+        "games": 410,
+        "rating": 994,
+        "rd": 48,
+        "prog": -7
+      },
+      "blitz": {
+        "games": 113,
+        "rating": 1282,
+        "rd": 57,
+        "prog": -54
+      },
+      "kingOfTheHill": {
+        "games": 67,
+        "rating": 1389,
+        "rd": 69,
+        "prog": -18
+      },
+      "crazyhouse": {
+        "games": 11,
+        "rating": 1164,
+        "rd": 151,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 79,
+        "rating": 1148,
+        "rd": 68,
+        "prog": -29
+      },
+      "bullet": {
+        "games": 150,
+        "rating": 976,
+        "rd": 71,
+        "prog": 52
+      },
+      "correspondence": {
+        "games": 5,
+        "rating": 1519,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 24,
+        "rating": 1395,
+        "rd": 109,
+        "prog": 112
+      },
+      "puzzle": {
+        "games": 330,
+        "rating": 1797,
+        "rd": 110,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1328,
+        "rd": 256,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 96,
+        "rating": 1212,
+        "rd": 73,
+        "prog": 35
+      },
+      "storm": {
+        "runs": 78,
+        "score": 26
+      }
+    },
+    "createdAt": 1594990059454,
+    "profile": {
+      "country": "IN",
+      "bio": "my name is darsh and i like chess i am playing from 5 years https://i.imgur.com/hxr1XHU.jpg",
+      "firstName": "Darsh",
+      "fideRating": 2345,
+      "uscfRating": 1211,
+      "ecfRating": 1232
+    },
+    "seenAt": 1612935454297,
+    "playTime": {
+      "total": 406396,
+      "tv": 16608
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Darsh_R",
+    "playing": "https://lichess.org/ZwhFVLo0/white",
+    "nbFollowing": 29,
+    "nbFollowers": 70,
+    "completionRate": 100,
+    "count": {
+      "all": 4595,
+      "rated": 4285,
+      "ai": 9,
+      "draw": 113,
+      "drawH": 113,
+      "loss": 2724,
+      "lossH": 2721,
+      "win": 1758,
+      "winH": 1752,
+      "bookmark": 1,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
