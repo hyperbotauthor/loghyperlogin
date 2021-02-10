@@ -4,7 +4,7 @@
   "username": "MasterNoob1600",
   "profileUrl": "https://lichess.org/@/MasterNoob1600",
   "provider": "lichess",
-  "_raw": "{\"id\":\"masternoob1600\",\"username\":\"MasterNoob1600\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612843849495,\"profile\":{\"bio\":\"I’m owned by @YanwenHe, follow him he will follow you back.\"},\"seenAt\":1612851310682,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MasterNoob1600\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"masternoob1600\",\"username\":\"MasterNoob1600\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612843849495,\"profile\":{\"bio\":\"I’m owned by @YanwenHe, follow him he will follow you back.\"},\"seenAt\":1612920583742,\"playTime\":{\"total\":310,\"tv\":0},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MasterNoob1600\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":2,\"rated\":0,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "masternoob1600",
     "username": "MasterNoob1600",
@@ -50,9 +50,9 @@
     "profile": {
       "bio": "I’m owned by @YanwenHe, follow him he will follow you back."
     },
-    "seenAt": 1612851310682,
+    "seenAt": 1612920583742,
     "playTime": {
-      "total": 0,
+      "total": 310,
       "tv": 0
     },
     "language": "zh-CN",
@@ -61,14 +61,14 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 0,
+      "all": 2,
       "rated": 0,
-      "ai": 0,
+      "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
+      "loss": 1,
       "lossH": 0,
-      "win": 0,
+      "win": 1,
       "winH": 0,
       "bookmark": 0,
       "playing": 0,
