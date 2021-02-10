@@ -4,16 +4,16 @@
   "username": "Jaimelesmacarons",
   "profileUrl": "https://lichess.org/@/Jaimelesmacarons",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jaimelesmacarons\",\"username\":\"Jaimelesmacarons\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1693,\"rd\":294,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":6,\"rating\":1602,\"rd\":158,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1074,\"rd\":182,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1998,\"rd\":233,\"prog\":0,\"prov\":true}},\"createdAt\":1610384058392,\"profile\":{\"bio\":\"Je rejoins toutes les équipes que vous voulez si vous rejoignez : https://lichess.org/team/les-cavaliers-dores\"},\"seenAt\":1612954678902,\"playTime\":{\"total\":3013,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Jaimelesmacarons\",\"playing\":\"https://lichess.org/35aNdViw/white\",\"nbFollowing\":7,\"nbFollowers\":9,\"count\":{\"all\":21,\"rated\":17,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":9,\"win\":12,\"winH\":11,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jaimelesmacarons\",\"username\":\"Jaimelesmacarons\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2088,\"rd\":226,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":6,\"rating\":1602,\"rd\":158,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1264,\"rd\":181,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1467,\"rd\":453,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2202,\"rd\":149,\"prog\":0,\"prov\":true}},\"createdAt\":1610384058392,\"profile\":{\"bio\":\"Je rejoins toutes les équipes que vous voulez si vous rejoignez : https://lichess.org/team/les-cavaliers-dores\"},\"seenAt\":1612981835053,\"playTime\":{\"total\":11474,\"tv\":1069},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Jaimelesmacarons\",\"playing\":\"https://lichess.org/nfLNM11b/white\",\"nbFollowing\":9,\"nbFollowers\":9,\"count\":{\"all\":36,\"rated\":32,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":15,\"win\":19,\"winH\":18,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jaimelesmacarons",
     "username": "Jaimelesmacarons",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 1693,
-        "rd": 294,
+        "games": 6,
+        "rating": 2088,
+        "rd": 226,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 1074,
-        "rd": 182,
+        "games": 8,
+        "rating": 1264,
+        "rd": 181,
         "prog": 0,
         "prov": true
       },
@@ -39,16 +39,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1467,
+        "rd": 453,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 1998,
-        "rd": 233,
+        "games": 11,
+        "rating": 2202,
+        "rd": 149,
         "prog": 0,
         "prov": true
       }
@@ -57,29 +57,29 @@
     "profile": {
       "bio": "Je rejoins toutes les équipes que vous voulez si vous rejoignez : https://lichess.org/team/les-cavaliers-dores"
     },
-    "seenAt": 1612954678902,
+    "seenAt": 1612981835053,
     "playTime": {
-      "total": 3013,
-      "tv": 0
+      "total": 11474,
+      "tv": 1069
     },
     "language": "fr-FR",
     "title": "BOT",
     "url": "https://lichess.org/@/Jaimelesmacarons",
-    "playing": "https://lichess.org/35aNdViw/white",
-    "nbFollowing": 7,
+    "playing": "https://lichess.org/nfLNM11b/white",
+    "nbFollowing": 9,
     "nbFollowers": 9,
     "count": {
-      "all": 21,
-      "rated": 17,
+      "all": 36,
+      "rated": 32,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 9,
-      "lossH": 9,
-      "win": 12,
-      "winH": 11,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 15,
+      "lossH": 15,
+      "win": 19,
+      "winH": 18,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
