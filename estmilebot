@@ -4,23 +4,23 @@
   "username": "EstmileBot",
   "profileUrl": "https://lichess.org/@/EstmileBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1563,\"rd\":172,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1949,\"rd\":243,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2091,\"rd\":313,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1620,\"rd\":341,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1043,\"rd\":336,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2377,\"rd\":364,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot\",\"bio\":\"a bot made by @danipocano\\r\\nnot ever online but when online I accept all points and modes\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1612530028427,\"playTime\":{\"total\":4985,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":3,\"nbFollowers\":4,\"count\":{\"all\":50,\"rated\":19,\"ai\":1,\"draw\":1,\"drawH\":0,\"loss\":10,\"lossH\":10,\"win\":39,\"winH\":39,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":false,\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1563,\"rd\":173,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1949,\"rd\":244,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2091,\"rd\":313,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1620,\"rd\":341,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1043,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2377,\"rd\":364,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot\",\"bio\":\"a bot made by @danipocano\\r\\nnot ever online but when online I accept all points and modes\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1612886707979,\"playTime\":{\"total\":4985,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":3,\"nbFollowers\":4,\"count\":{\"all\":51,\"rated\":19,\"ai\":1,\"draw\":1,\"drawH\":0,\"loss\":10,\"lossH\":10,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "estmilebot",
     "username": "EstmileBot",
-    "online": true,
+    "online": false,
     "perfs": {
       "atomic": {
         "games": 9,
         "rating": 1563,
-        "rd": 172,
+        "rd": 173,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 3,
         "rating": 1949,
-        "rd": 243,
+        "rd": 244,
         "prog": 0,
         "prov": true
       },
@@ -41,7 +41,7 @@
       "threeCheck": {
         "games": 1,
         "rating": 1043,
-        "rd": 336,
+        "rd": 337,
         "prog": 0,
         "prov": true
       },
@@ -81,7 +81,7 @@
       "bio": "a bot made by @danipocano\r\nnot ever online but when online I accept all points and modes",
       "links": "hypereasy.herokuapp.com"
     },
-    "seenAt": 1612530028427,
+    "seenAt": 1612886707979,
     "playTime": {
       "total": 4985,
       "tv": 0
@@ -92,15 +92,15 @@
     "nbFollowing": 3,
     "nbFollowers": 4,
     "count": {
-      "all": 50,
+      "all": 51,
       "rated": 19,
       "ai": 1,
       "draw": 1,
       "drawH": 0,
       "loss": 10,
       "lossH": 10,
-      "win": 39,
-      "winH": 39,
+      "win": 40,
+      "winH": 40,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
