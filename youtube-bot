@@ -1,0 +1,81 @@
+{
+  "id": "youtube-bot",
+  "displayName": "youtube-bot",
+  "username": "youtube-bot",
+  "profileUrl": "https://lichess.org/@/youtube-bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"youtube-bot\",\"username\":\"youtube-bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1489,\"rd\":489,\"prog\":0,\"prov\":true}},\"createdAt\":1612907447307,\"seenAt\":1612985935271,\"playTime\":{\"total\":2957,\"tv\":828},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youtube-bot\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":32,\"rated\":1,\"ai\":5,\"draw\":4,\"drawH\":3,\"loss\":25,\"lossH\":23,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "youtube-bot",
+    "username": "youtube-bot",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1489,
+        "rd": 489,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1612907447307,
+    "seenAt": 1612985935271,
+    "playTime": {
+      "total": 2957,
+      "tv": 828
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/youtube-bot",
+    "nbFollowing": 1,
+    "nbFollowers": 0,
+    "count": {
+      "all": 32,
+      "rated": 1,
+      "ai": 5,
+      "draw": 4,
+      "drawH": 3,
+      "loss": 25,
+      "lossH": 23,
+      "win": 3,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
