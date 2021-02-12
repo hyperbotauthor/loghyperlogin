@@ -4,24 +4,24 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1467,\"rd\":454,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1843,\"rd\":149,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"seenAt\":1613107435320,\"playTime\":{\"total\":1615,\"tv\":161},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"playing\":\"https://lichess.org/Y3hsRHlB/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2005,\"rd\":190,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1938,\"rd\":122,\"prog\":51,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2115,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613128026479,\"playTime\":{\"total\":6738,\"tv\":361},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":28,\"rated\":26,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 1467,
-        "rd": 454,
+        "games": 8,
+        "rating": 2005,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 8,
-        "rating": 1843,
-        "rd": 149,
-        "prog": 0,
+        "games": 14,
+        "rating": 1938,
+        "rd": 122,
+        "prog": 51,
         "prov": true
       },
       "correspondence": {
@@ -39,37 +39,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2115,
+        "rd": 269,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613102157469,
-    "seenAt": 1613107435320,
+    "profile": {
+      "country": "IN",
+      "bio": "working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar",
+      "firstName": "Elitechessplayer",
+      "lastName": "bot"
+    },
+    "seenAt": 1613128026479,
     "playTime": {
-      "total": 1615,
-      "tv": 161
+      "total": 6738,
+      "tv": 361
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/EliteChessPlayer_bot",
-    "playing": "https://lichess.org/Y3hsRHlB/black",
-    "nbFollowing": 0,
-    "nbFollowers": 1,
+    "nbFollowing": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 9,
-      "rated": 9,
-      "ai": 0,
+      "all": 28,
+      "rated": 26,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
-      "win": 5,
-      "winH": 5,
+      "loss": 6,
+      "lossH": 6,
+      "win": 22,
+      "winH": 21,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
