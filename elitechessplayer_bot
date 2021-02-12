@@ -4,23 +4,23 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"seenAt\":1613104880913,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1467,\"rd\":454,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1843,\"rd\":149,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"seenAt\":1613107435320,\"playTime\":{\"total\":1615,\"tv\":161},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"playing\":\"https://lichess.org/Y3hsRHlB/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1467,
+        "rd": 454,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 1843,
+        "rd": 149,
         "prog": 0,
         "prov": true
       },
@@ -47,28 +47,29 @@
       }
     },
     "createdAt": 1613102157469,
-    "seenAt": 1613104880913,
+    "seenAt": 1613107435320,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 1615,
+      "tv": 161
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/EliteChessPlayer_bot",
+    "playing": "https://lichess.org/Y3hsRHlB/black",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 9,
+      "rated": 9,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
