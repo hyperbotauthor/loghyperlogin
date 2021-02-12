@@ -4,18 +4,17 @@
   "username": "STRONGBOTOFSTRONGEST",
   "profileUrl": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
   "provider": "lichess",
-  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":12,\"rating\":2099,\"rd\":115,\"prog\":-41,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1711,\"rd\":275,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1831,\"rd\":245,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":2143,\"rd\":95,\"prog\":16},\"crazyhouse\":{\"games\":2,\"rating\":1475,\"rd\":466,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1191,\"rd\":353,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1822,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2069,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"seenAt\":1613123417193,\"playTime\":{\"total\":25365,\"tv\":937},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":60,\"rated\":57,\"ai\":1,\"draw\":7,\"drawH\":7,\"loss\":31,\"lossH\":30,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":17,\"rating\":2142,\"rd\":98,\"prog\":2},\"atomic\":{\"games\":3,\"rating\":1711,\"rd\":275,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1831,\"rd\":245,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":2143,\"rd\":95,\"prog\":16},\"crazyhouse\":{\"games\":3,\"rating\":1457,\"rd\":442,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1191,\"rd\":353,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1822,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2069,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"seenAt\":1613128042211,\"playTime\":{\"total\":27473,\"tv\":937},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":68,\"rated\":63,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":37,\"lossH\":34,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "strongbotofstrongest",
     "username": "STRONGBOTOFSTRONGEST",
     "online": true,
     "perfs": {
       "antichess": {
-        "games": 12,
-        "rating": 2099,
-        "rd": 115,
-        "prog": -41,
-        "prov": true
+        "games": 17,
+        "rating": 2142,
+        "rd": 98,
+        "prog": 2
       },
       "atomic": {
         "games": 3,
@@ -38,9 +37,9 @@
         "prog": 16
       },
       "crazyhouse": {
-        "games": 2,
-        "rating": 1475,
-        "rd": 466,
+        "games": 3,
+        "rating": 1457,
+        "rd": 442,
         "prog": 0,
         "prov": true
       },
@@ -81,9 +80,9 @@
       }
     },
     "createdAt": 1613040052280,
-    "seenAt": 1613123417193,
+    "seenAt": 1613128042211,
     "playTime": {
-      "total": 25365,
+      "total": 27473,
       "tv": 937
     },
     "language": "en-US",
@@ -92,15 +91,15 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 60,
-      "rated": 57,
-      "ai": 1,
+      "all": 68,
+      "rated": 63,
+      "ai": 3,
       "draw": 7,
       "drawH": 7,
-      "loss": 31,
-      "lossH": 30,
-      "win": 22,
-      "winH": 22,
+      "loss": 37,
+      "lossH": 34,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
