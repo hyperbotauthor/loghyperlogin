@@ -4,7 +4,7 @@
   "username": "STRONGBOTOFSTRONGEST",
   "profileUrl": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
   "provider": "lichess",
-  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1393,\"rd\":350,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":27,\"rating\":2284,\"rd\":75,\"prog\":135},\"horde\":{\"games\":1,\"rating\":1412,\"rd\":393,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":2184,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":2044,\"rd\":171,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":21,\"rating\":2118,\"rd\":90,\"prog\":-9},\"kingOfTheHill\":{\"games\":2,\"rating\":2305,\"rd\":257,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":2198,\"rd\":373,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1176,\"rd\":339,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1822,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2069,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"seenAt\":1613140017229,\"playTime\":{\"total\":31674,\"tv\":1562},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":93,\"rated\":88,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":45,\"lossH\":42,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1393,\"rd\":350,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":27,\"rating\":2284,\"rd\":75,\"prog\":135},\"horde\":{\"games\":1,\"rating\":1412,\"rd\":393,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":2184,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":2044,\"rd\":171,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":21,\"rating\":2118,\"rd\":90,\"prog\":-9},\"kingOfTheHill\":{\"games\":2,\"rating\":2305,\"rd\":257,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":2198,\"rd\":373,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1176,\"rd\":339,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1822,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2069,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"seenAt\":1613144679513,\"playTime\":{\"total\":31674,\"tv\":1562},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"playing\":\"https://lichess.org/UUDC6Yzn/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":93,\"rated\":88,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":45,\"lossH\":42,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "strongbotofstrongest",
     "username": "STRONGBOTOFSTRONGEST",
@@ -101,7 +101,7 @@
       }
     },
     "createdAt": 1613040052280,
-    "seenAt": 1613140017229,
+    "seenAt": 1613144679513,
     "playTime": {
       "total": 31674,
       "tv": 1562
@@ -109,6 +109,7 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
+    "playing": "https://lichess.org/UUDC6Yzn/black",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
@@ -122,7 +123,7 @@
       "win": 41,
       "winH": 41,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
