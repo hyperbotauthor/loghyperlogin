@@ -4,7 +4,7 @@
   "username": "MortalMan2002",
   "profileUrl": "https://lichess.org/@/MortalMan2002",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":2055,\"rd\":459,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1574,\"rd\":163,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":475,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"seenAt\":1613128603083,\"playTime\":{\"total\":4360,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":6,\"nbFollowers\":2,\"count\":{\"all\":15,\"rated\":10,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":5,\"lossH\":5,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":2055,\"rd\":460,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1615,\"rd\":127,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":475,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"seenAt\":1613191353004,\"playTime\":{\"total\":4692,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":7,\"nbFollowers\":2,\"count\":{\"all\":18,\"rated\":13,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":5,\"lossH\":5,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mortalman2002",
     "username": "MortalMan2002",
@@ -13,7 +13,7 @@
       "atomic": {
         "games": 1,
         "rating": 2055,
-        "rd": 459,
+        "rd": 460,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 1574,
-        "rd": 163,
+        "games": 8,
+        "rating": 1615,
+        "rd": 127,
         "prog": 0,
         "prov": true
       },
@@ -61,26 +61,26 @@
       }
     },
     "createdAt": 1613034760566,
-    "seenAt": 1613128603083,
+    "seenAt": 1613191353004,
     "playTime": {
-      "total": 4360,
+      "total": 4692,
       "tv": 863
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/MortalMan2002",
-    "nbFollowing": 6,
+    "nbFollowing": 7,
     "nbFollowers": 2,
     "count": {
-      "all": 15,
-      "rated": 10,
+      "all": 18,
+      "rated": 13,
       "ai": 0,
-      "draw": 2,
-      "drawH": 2,
+      "draw": 4,
+      "drawH": 4,
       "loss": 5,
       "lossH": 5,
-      "win": 8,
-      "winH": 8,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
