@@ -4,7 +4,7 @@
   "username": "NoobMasterBOT",
   "profileUrl": "https://lichess.org/@/NoobMasterBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"noobmasterbot\",\"username\":\"NoobMasterBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":205,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2033,\"rd\":248,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1499,\"rd\":244,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1571,\"rd\":111,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612762689425,\"seenAt\":1612930413475,\"playTime\":{\"total\":3783,\"tv\":287},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoobMasterBOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":29,\"rated\":23,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"noobmasterbot\",\"username\":\"NoobMasterBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":205,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1685,\"rd\":296,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2033,\"rd\":248,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1499,\"rd\":244,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1571,\"rd\":112,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1927,\"rd\":320,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2389,\"rd\":293,\"prog\":0,\"prov\":true}},\"createdAt\":1612762689425,\"seenAt\":1613183903908,\"playTime\":{\"total\":5746,\"tv\":287},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoobMasterBOT\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":37,\"rated\":31,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":26,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "noobmasterbot",
     "username": "NoobMasterBOT",
@@ -14,6 +14,13 @@
         "games": 3,
         "rating": 1510,
         "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1685,
+        "rd": 296,
         "prog": 0,
         "prov": true
       },
@@ -41,7 +48,7 @@
       "bullet": {
         "games": 11,
         "rating": 1571,
-        "rd": 111,
+        "rd": 112,
         "prog": 0,
         "prov": true
       },
@@ -53,41 +60,41 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1927,
+        "rd": 320,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 6,
+        "rating": 2389,
+        "rd": 293,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1612762689425,
-    "seenAt": 1612930413475,
+    "seenAt": 1613183903908,
     "playTime": {
-      "total": 3783,
+      "total": 5746,
       "tv": 287
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/NoobMasterBOT",
-    "nbFollowing": 0,
-    "nbFollowers": 2,
+    "nbFollowing": 1,
+    "nbFollowers": 4,
     "count": {
-      "all": 29,
-      "rated": 23,
+      "all": 37,
+      "rated": 31,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
       "loss": 10,
       "lossH": 10,
-      "win": 18,
-      "winH": 17,
+      "win": 26,
+      "winH": 25,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
