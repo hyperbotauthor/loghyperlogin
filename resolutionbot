@@ -1,0 +1,95 @@
+{
+  "id": "resolutionbot",
+  "displayName": "ResolutionBot",
+  "username": "ResolutionBot",
+  "profileUrl": "https://lichess.org/@/ResolutionBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"resolutionbot\",\"username\":\"ResolutionBot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":17,\"rating\":2015,\"rd\":102,\"prog\":184},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2686,\"rd\":103,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613148083477,\"profile\":{\"bio\":\"Resolution Bot that can never be defeated in normal chess, losses are always timeouts. Stockfish running. It uses 3-4-5 Syzygy Tablebases, Alpha-beta search and a large opening book. If it finds a mate, it will accomplish as hard as it can try,\\r\\nhttps://imgur.com/E0ejDYk\\r\\nhttps://imgur.com/8ZuKmyI\",\"firstName\":\"Stockfish\",\"lastName\":\"NNUE\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1613234361972,\"playTime\":{\"total\":4496,\"tv\":1091},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ResolutionBot\",\"playing\":\"https://lichess.org/tkH3HzsC/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":44,\"rated\":38,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":8,\"lossH\":7,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "resolutionbot",
+    "username": "ResolutionBot",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 17,
+        "rating": 2015,
+        "rd": 102,
+        "prog": 184
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 21,
+        "rating": 2686,
+        "rd": 103,
+        "prog": -26
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613148083477,
+    "profile": {
+      "bio": "Resolution Bot that can never be defeated in normal chess, losses are always timeouts. Stockfish running. It uses 3-4-5 Syzygy Tablebases, Alpha-beta search and a large opening book. If it finds a mate, it will accomplish as hard as it can try,\r\nhttps://imgur.com/E0ejDYk\r\nhttps://imgur.com/8ZuKmyI",
+      "firstName": "Stockfish",
+      "lastName": "NNUE",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000
+    },
+    "seenAt": 1613234361972,
+    "playTime": {
+      "total": 4496,
+      "tv": 1091
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ResolutionBot",
+    "playing": "https://lichess.org/tkH3HzsC/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 44,
+      "rated": 38,
+      "ai": 1,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 8,
+      "lossH": 7,
+      "win": 30,
+      "winH": 30,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
