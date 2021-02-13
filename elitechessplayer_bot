@@ -4,25 +4,23 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1885,\"rd\":123,\"prog\":-16,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1938,\"rd\":122,\"prog\":51,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2115,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613130794215,\"playTime\":{\"total\":8261,\"tv\":361},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":36,\"rated\":34,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":1971,\"rd\":107,\"prog\":69},\"bullet\":{\"games\":18,\"rating\":1871,\"rd\":103,\"prog\":-16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2115,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613185069622,\"playTime\":{\"total\":10246,\"tv\":361},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"playing\":\"https://lichess.org/CQiL7PzN/black\",\"nbFollowing\":2,\"nbFollowers\":6,\"count\":{\"all\":45,\"rated\":42,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":10,\"win\":33,\"winH\":32,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 16,
-        "rating": 1885,
-        "rd": 123,
-        "prog": -16,
-        "prov": true
+        "games": 19,
+        "rating": 1971,
+        "rd": 107,
+        "prog": 69
       },
       "bullet": {
-        "games": 14,
-        "rating": 1938,
-        "rd": 122,
-        "prog": 51,
-        "prov": true
+        "games": 18,
+        "rating": 1871,
+        "rd": 103,
+        "prog": -16
       },
       "correspondence": {
         "games": 0,
@@ -53,28 +51,29 @@
       "firstName": "Elitechessplayer",
       "lastName": "bot"
     },
-    "seenAt": 1613130794215,
+    "seenAt": 1613185069622,
     "playTime": {
-      "total": 8261,
+      "total": 10246,
       "tv": 361
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/EliteChessPlayer_bot",
+    "playing": "https://lichess.org/CQiL7PzN/black",
     "nbFollowing": 2,
-    "nbFollowers": 4,
+    "nbFollowers": 6,
     "count": {
-      "all": 36,
-      "rated": 34,
+      "all": 45,
+      "rated": 42,
       "ai": 1,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 8,
-      "lossH": 8,
-      "win": 27,
-      "winH": 26,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 10,
+      "lossH": 10,
+      "win": 33,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
