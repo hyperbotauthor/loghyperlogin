@@ -4,17 +4,17 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":21,\"rating\":1992,\"rd\":103,\"prog\":91},\"bullet\":{\"games\":24,\"rating\":1935,\"rd\":89,\"prog\":-1},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2115,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613187680066,\"playTime\":{\"total\":53050,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":53,\"rated\":50,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":10,\"win\":41,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2012,\"rd\":99,\"prog\":60},\"bullet\":{\"games\":24,\"rating\":1935,\"rd\":89,\"prog\":-1},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2148,\"rd\":247,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613190241470,\"playTime\":{\"total\":54050,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":58,\"rated\":55,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":10,\"win\":46,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 21,
-        "rating": 1992,
-        "rd": 103,
-        "prog": 91
+        "games": 24,
+        "rating": 2012,
+        "rd": 99,
+        "prog": 60
       },
       "bullet": {
         "games": 24,
@@ -37,9 +37,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2115,
-        "rd": 269,
+        "games": 4,
+        "rating": 2148,
+        "rd": 247,
         "prog": 0,
         "prov": true
       }
@@ -47,13 +47,13 @@
     "createdAt": 1613102157469,
     "profile": {
       "country": "IN",
-      "bio": "working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar",
+      "bio": "working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot",
       "firstName": "Elitechessplayer",
       "lastName": "bot"
     },
-    "seenAt": 1613187680066,
+    "seenAt": 1613190241470,
     "playTime": {
-      "total": 53050,
+      "total": 54050,
       "tv": 800
     },
     "language": "en-US",
@@ -62,15 +62,15 @@
     "nbFollowing": 2,
     "nbFollowers": 7,
     "count": {
-      "all": 53,
-      "rated": 50,
+      "all": 58,
+      "rated": 55,
       "ai": 1,
       "draw": 2,
       "drawH": 2,
       "loss": 10,
       "lossH": 10,
-      "win": 41,
-      "winH": 40,
+      "win": 46,
+      "winH": 45,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
