@@ -4,28 +4,28 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2012,\"rd\":99,\"prog\":60},\"bullet\":{\"games\":25,\"rating\":1941,\"rd\":88,\"prog\":2},\"correspondence\":{\"games\":3,\"rating\":1495,\"rd\":276,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2148,\"rd\":247,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613200430816,\"playTime\":{\"total\":54678,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":63,\"rated\":59,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":50,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2035,\"rd\":94,\"prog\":149},\"bullet\":{\"games\":27,\"rating\":1952,\"rd\":86,\"prog\":126},\"correspondence\":{\"games\":3,\"rating\":1495,\"rd\":277,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2197,\"rd\":218,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613209112868,\"playTime\":{\"total\":57913,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":3,\"nbFollowers\":8,\"count\":{\"all\":76,\"rated\":67,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":14,\"win\":59,\"winH\":58,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
-        "games": 24,
-        "rating": 2012,
-        "rd": 99,
-        "prog": 60
+        "games": 27,
+        "rating": 2035,
+        "rd": 94,
+        "prog": 149
       },
       "bullet": {
-        "games": 25,
-        "rating": 1941,
-        "rd": 88,
-        "prog": 2
+        "games": 27,
+        "rating": 1952,
+        "rd": 86,
+        "prog": 126
       },
       "correspondence": {
         "games": 3,
         "rating": 1495,
-        "rd": 276,
+        "rd": 277,
         "prog": 0,
         "prov": true
       },
@@ -37,9 +37,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2148,
-        "rd": 247,
+        "games": 6,
+        "rating": 2197,
+        "rd": 218,
         "prog": 0,
         "prov": true
       }
@@ -51,26 +51,26 @@
       "firstName": "Elitechessplayer",
       "lastName": "bot"
     },
-    "seenAt": 1613200430816,
+    "seenAt": 1613209112868,
     "playTime": {
-      "total": 54678,
+      "total": 57913,
       "tv": 800
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/EliteChessPlayer_bot",
-    "nbFollowing": 2,
-    "nbFollowers": 7,
+    "nbFollowing": 3,
+    "nbFollowers": 8,
     "count": {
-      "all": 63,
-      "rated": 59,
-      "ai": 1,
+      "all": 76,
+      "rated": 67,
+      "ai": 2,
       "draw": 2,
       "drawH": 2,
-      "loss": 11,
-      "lossH": 11,
-      "win": 50,
-      "winH": 49,
+      "loss": 15,
+      "lossH": 14,
+      "win": 59,
+      "winH": 58,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
