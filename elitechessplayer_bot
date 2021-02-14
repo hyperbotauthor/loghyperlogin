@@ -4,11 +4,11 @@
   "username": "EliteChessPlayer_bot",
   "profileUrl": "https://lichess.org/@/EliteChessPlayer_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2035,\"rd\":94,\"prog\":149},\"bullet\":{\"games\":27,\"rating\":1952,\"rd\":86,\"prog\":126},\"correspondence\":{\"games\":3,\"rating\":1495,\"rd\":277,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2197,\"rd\":218,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613209112868,\"playTime\":{\"total\":57913,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"nbFollowing\":3,\"nbFollowers\":8,\"count\":{\"all\":76,\"rated\":67,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":14,\"win\":59,\"winH\":58,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elitechessplayer_bot\",\"username\":\"EliteChessPlayer_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2035,\"rd\":94,\"prog\":149},\"antichess\":{\"games\":1,\"rating\":2200,\"rd\":398,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":1975,\"rd\":82,\"prog\":97},\"correspondence\":{\"games\":3,\"rating\":1495,\"rd\":277,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2244,\"rd\":183,\"prog\":0,\"prov\":true}},\"createdAt\":1613102157469,\"profile\":{\"country\":\"IN\",\"bio\":\"working on stockfish lv.12 you can challenge me when I am online I will accept  my creators @ChessVeerKumar and @kingnandi_chessbot\",\"firstName\":\"Elitechessplayer\",\"lastName\":\"bot\"},\"seenAt\":1613304045705,\"playTime\":{\"total\":61721,\"tv\":800},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EliteChessPlayer_bot\",\"playing\":\"https://lichess.org/jExTn48o/black\",\"nbFollowing\":3,\"nbFollowers\":9,\"count\":{\"all\":84,\"rated\":74,\"ai\":2,\"draw\":4,\"drawH\":4,\"loss\":15,\"lossH\":14,\"win\":65,\"winH\":64,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elitechessplayer_bot",
     "username": "EliteChessPlayer_bot",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 27,
@@ -16,11 +16,18 @@
         "rd": 94,
         "prog": 149
       },
+      "antichess": {
+        "games": 1,
+        "rating": 2200,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
-        "games": 27,
-        "rating": 1952,
-        "rd": 86,
-        "prog": 126
+        "games": 30,
+        "rating": 1975,
+        "rd": 82,
+        "prog": 97
       },
       "correspondence": {
         "games": 3,
@@ -37,9 +44,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 2197,
-        "rd": 218,
+        "games": 8,
+        "rating": 2244,
+        "rd": 183,
         "prog": 0,
         "prov": true
       }
@@ -51,28 +58,29 @@
       "firstName": "Elitechessplayer",
       "lastName": "bot"
     },
-    "seenAt": 1613209112868,
+    "seenAt": 1613304045705,
     "playTime": {
-      "total": 57913,
+      "total": 61721,
       "tv": 800
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/EliteChessPlayer_bot",
+    "playing": "https://lichess.org/jExTn48o/black",
     "nbFollowing": 3,
-    "nbFollowers": 8,
+    "nbFollowers": 9,
     "count": {
-      "all": 76,
-      "rated": 67,
+      "all": 84,
+      "rated": 74,
       "ai": 2,
-      "draw": 2,
-      "drawH": 2,
+      "draw": 4,
+      "drawH": 4,
       "loss": 15,
       "lossH": 14,
-      "win": 59,
-      "winH": 58,
+      "win": 65,
+      "winH": 64,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
