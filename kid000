@@ -4,126 +4,125 @@
   "username": "kid000",
   "profileUrl": "https://lichess.org/@/kid000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kid000\",\"username\":\"kid000\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1887,\"rd\":183,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":130,\"rating\":2372,\"rd\":75,\"prog\":21},\"horde\":{\"games\":17,\"rating\":1604,\"rd\":137,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":39,\"rating\":1955,\"rd\":92,\"prog\":50},\"racingKings\":{\"games\":14,\"rating\":1976,\"rd\":135,\"prog\":84,\"prov\":true},\"blitz\":{\"games\":418,\"rating\":2240,\"rd\":73,\"prog\":-13},\"kingOfTheHill\":{\"games\":7,\"rating\":1507,\"rd\":164,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1575,\"rd\":186,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":2225,\"rd\":261,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":232,\"rating\":2224,\"rd\":46,\"prog\":-22},\"correspondence\":{\"games\":10,\"rating\":1813,\"rd\":218,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":1996,\"rd\":164,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":58,\"rating\":2330,\"rd\":102,\"prog\":-55}},\"createdAt\":1603109309795,\"profile\":{\"country\":\"_pirate\",\"bio\":\"version of maia weakened the strength my team: https://lichess.org/team/gm-nihal-sarins-fan-club \\r\\nprogramed by @web_designer\",\"firstName\":\"bot\",\"lastName\":\"kid\"},\"seenAt\":1611218230825,\"playTime\":{\"total\":254520,\"tv\":70010},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kid000\",\"nbFollowing\":2,\"nbFollowers\":207,\"count\":{\"all\":1502,\"rated\":973,\"ai\":14,\"draw\":77,\"drawH\":77,\"loss\":312,\"lossH\":301,\"win\":1113,\"winH\":1110,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kid000\",\"username\":\"kid000\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1887,\"rd\":187,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":136,\"rating\":2383,\"rd\":80,\"prog\":23},\"horde\":{\"games\":17,\"rating\":1604,\"rd\":142,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":43,\"rating\":1954,\"rd\":98,\"prog\":32},\"racingKings\":{\"games\":16,\"rating\":1973,\"rd\":138,\"prog\":81,\"prov\":true},\"blitz\":{\"games\":433,\"rating\":2111,\"rd\":74,\"prog\":-135},\"kingOfTheHill\":{\"games\":7,\"rating\":1507,\"rd\":167,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1575,\"rd\":189,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":2225,\"rd\":263,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":298,\"rating\":2174,\"rd\":50,\"prog\":-16},\"correspondence\":{\"games\":10,\"rating\":1813,\"rd\":221,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":1996,\"rd\":168,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":58,\"rating\":2330,\"rd\":108,\"prog\":-55}},\"createdAt\":1603109309795,\"profile\":{\"country\":\"_pirate\",\"firstName\":\"bot\",\"lastName\":\"kid\"},\"seenAt\":1613302999627,\"playTime\":{\"total\":270100,\"tv\":71990},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kid000\",\"nbFollowing\":12,\"nbFollowers\":197,\"count\":{\"all\":1696,\"rated\":1069,\"ai\":14,\"draw\":93,\"drawH\":93,\"loss\":380,\"lossH\":369,\"win\":1223,\"winH\":1220,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kid000",
     "username": "kid000",
-    "online": false,
+    "online": true,
     "perfs": {
       "chess960": {
         "games": 6,
         "rating": 1887,
-        "rd": 183,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 130,
-        "rating": 2372,
-        "rd": 75,
-        "prog": 21
+        "games": 136,
+        "rating": 2383,
+        "rd": 80,
+        "prog": 23
       },
       "horde": {
         "games": 17,
         "rating": 1604,
-        "rd": 137,
+        "rd": 142,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 39,
-        "rating": 1955,
-        "rd": 92,
-        "prog": 50
+        "games": 43,
+        "rating": 1954,
+        "rd": 98,
+        "prog": 32
       },
       "racingKings": {
-        "games": 14,
-        "rating": 1976,
-        "rd": 135,
-        "prog": 84,
+        "games": 16,
+        "rating": 1973,
+        "rd": 138,
+        "prog": 81,
         "prov": true
       },
       "blitz": {
-        "games": 418,
-        "rating": 2240,
-        "rd": 73,
-        "prog": -13
+        "games": 433,
+        "rating": 2111,
+        "rd": 74,
+        "prog": -135
       },
       "kingOfTheHill": {
         "games": 7,
         "rating": 1507,
-        "rd": 164,
+        "rd": 167,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 6,
         "rating": 1575,
-        "rd": 186,
+        "rd": 189,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 6,
         "rating": 2225,
-        "rd": 261,
+        "rd": 263,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 232,
-        "rating": 2224,
-        "rd": 46,
-        "prog": -22
+        "games": 298,
+        "rating": 2174,
+        "rd": 50,
+        "prog": -16
       },
       "correspondence": {
         "games": 10,
         "rating": 1813,
-        "rd": 218,
+        "rd": 221,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 10,
         "rating": 1996,
-        "rd": 164,
+        "rd": 168,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 58,
         "rating": 2330,
-        "rd": 102,
+        "rd": 108,
         "prog": -55
       }
     },
     "createdAt": 1603109309795,
     "profile": {
       "country": "_pirate",
-      "bio": "version of maia weakened the strength my team: https://lichess.org/team/gm-nihal-sarins-fan-club \r\nprogramed by @web_designer",
       "firstName": "bot",
       "lastName": "kid"
     },
-    "seenAt": 1611218230825,
+    "seenAt": 1613302999627,
     "playTime": {
-      "total": 254520,
-      "tv": 70010
+      "total": 270100,
+      "tv": 71990
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/kid000",
-    "nbFollowing": 2,
-    "nbFollowers": 207,
+    "nbFollowing": 12,
+    "nbFollowers": 197,
     "count": {
-      "all": 1502,
-      "rated": 973,
+      "all": 1696,
+      "rated": 1069,
       "ai": 14,
-      "draw": 77,
-      "drawH": 77,
-      "loss": 312,
-      "lossH": 301,
-      "win": 1113,
-      "winH": 1110,
+      "draw": 93,
+      "drawH": 93,
+      "loss": 380,
+      "lossH": 369,
+      "win": 1223,
+      "winH": 1220,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
