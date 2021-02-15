@@ -1,0 +1,92 @@
+{
+  "id": "spookymovingnnue",
+  "displayName": "SpookyMovingNNUE",
+  "username": "SpookyMovingNNUE",
+  "profileUrl": "https://lichess.org/@/SpookyMovingNNUE",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2505,\"rd\":249,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 12\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\"},\"seenAt\":1613389225843,\"playTime\":{\"total\":2070,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":3,\"nbFollowers\":1,\"count\":{\"all\":19,\"rated\":3,\"ai\":6,\"draw\":1,\"drawH\":1,\"loss\":11,\"lossH\":6,\"win\":7,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "spookymovingnnue",
+    "username": "SpookyMovingNNUE",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 2505,
+        "rd": 249,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613222664362,
+    "profile": {
+      "country": "IN",
+      "location": "with python ai hosted",
+      "bio": "a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine",
+      "firstName": "Spooky Moving NNUE",
+      "lastName": "Stockfish 12",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000,
+      "links": "easychess.herokuapp.com"
+    },
+    "seenAt": 1613389225843,
+    "playTime": {
+      "total": 2070,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/SpookyMovingNNUE",
+    "nbFollowing": 3,
+    "nbFollowers": 1,
+    "count": {
+      "all": 19,
+      "rated": 3,
+      "ai": 6,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 11,
+      "lossH": 6,
+      "win": 7,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
