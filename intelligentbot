@@ -4,16 +4,16 @@
   "username": "IntelligentBot",
   "profileUrl": "https://lichess.org/@/IntelligentBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"intelligentbot\",\"username\":\"IntelligentBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1403,\"rd\":316,\"prog\":0,\"prov\":true}},\"createdAt\":1611119422297,\"seenAt\":1612850931777,\"playTime\":{\"total\":686,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/IntelligentBot\",\"playing\":\"https://lichess.org/EzAucT0P/black\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":10,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"intelligentbot\",\"username\":\"IntelligentBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1673,\"rd\":299,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1403,\"rd\":316,\"prog\":0,\"prov\":true}},\"createdAt\":1611119422297,\"seenAt\":1613363919435,\"playTime\":{\"total\":757,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/IntelligentBot\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":11,\"rated\":2,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "intelligentbot",
     "username": "IntelligentBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1673,
+        "rd": 299,
         "prog": 0,
         "prov": true
       },
@@ -47,29 +47,28 @@
       }
     },
     "createdAt": 1611119422297,
-    "seenAt": 1612850931777,
+    "seenAt": 1613363919435,
     "playTime": {
-      "total": 686,
+      "total": 757,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/IntelligentBot",
-    "playing": "https://lichess.org/EzAucT0P/black",
     "nbFollowing": 2,
-    "nbFollowers": 2,
+    "nbFollowers": 3,
     "count": {
-      "all": 10,
-      "rated": 1,
+      "all": 11,
+      "rated": 2,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
       "loss": 6,
       "lossH": 6,
-      "win": 3,
-      "winH": 3,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
