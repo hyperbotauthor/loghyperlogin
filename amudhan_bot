@@ -4,25 +4,24 @@
   "username": "Amudhan_Bot",
   "profileUrl": "https://lichess.org/@/Amudhan_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"amudhan_bot\",\"username\":\"Amudhan_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1864,\"rd\":229,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1723,\"rd\":225,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2306,\"rd\":424,\"prog\":0,\"prov\":true}},\"createdAt\":1613116435155,\"seenAt\":1613364485308,\"playTime\":{\"total\":6608,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Amudhan_Bot\",\"playing\":\"https://lichess.org/eoajxQta/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":30,\"rated\":14,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":23,\"winH\":22,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"amudhan_bot\",\"username\":\"Amudhan_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1688,\"rd\":161,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":1401,\"rd\":87,\"prog\":-34},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2582,\"rd\":230,\"prog\":0,\"prov\":true}},\"createdAt\":1613116435155,\"profile\":{\"country\":\"IN\",\"bio\":\"hi, I am a bot, send me rapid challenges whenever I am online. bot owned by @grandmasteramudhan\\r\\nand developed by @spandansaha2007\"},\"seenAt\":1613373273917,\"playTime\":{\"total\":12427,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Amudhan_Bot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":55,\"rated\":36,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":22,\"lossH\":22,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "amudhan_bot",
     "username": "Amudhan_Bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 1864,
-        "rd": 229,
+        "games": 8,
+        "rating": 1688,
+        "rd": 161,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 1723,
-        "rd": 225,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 1401,
+        "rd": 87,
+        "prog": -34
       },
       "correspondence": {
         "games": 0,
@@ -39,37 +38,40 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2306,
-        "rd": 424,
+        "games": 4,
+        "rating": 2582,
+        "rd": 230,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613116435155,
-    "seenAt": 1613364485308,
+    "profile": {
+      "country": "IN",
+      "bio": "hi, I am a bot, send me rapid challenges whenever I am online. bot owned by @grandmasteramudhan\r\nand developed by @spandansaha2007"
+    },
+    "seenAt": 1613373273917,
     "playTime": {
-      "total": 6608,
+      "total": 12427,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Amudhan_Bot",
-    "playing": "https://lichess.org/eoajxQta/black",
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 30,
-      "rated": 14,
+      "all": 55,
+      "rated": 36,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 7,
-      "lossH": 7,
-      "win": 23,
-      "winH": 22,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 22,
+      "lossH": 22,
+      "win": 27,
+      "winH": 26,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
