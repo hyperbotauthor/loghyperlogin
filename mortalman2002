@@ -4,16 +4,16 @@
   "username": "MortalMan2002",
   "profileUrl": "https://lichess.org/@/MortalMan2002",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":2055,\"rd\":460,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1615,\"rd\":127,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":475,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"seenAt\":1613191353004,\"playTime\":{\"total\":4692,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":7,\"nbFollowers\":2,\"count\":{\"all\":18,\"rated\":13,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":5,\"lossH\":5,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":3,\"rating\":2055,\"rd\":420,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1650,\"rd\":309,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1615,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":476,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"profile\":{\"bio\":\"Pls join the club of my creator https://lichess.org/team/standard-and-variants-chess-team\"},\"seenAt\":1613358845880,\"playTime\":{\"total\":5918,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":9,\"nbFollowers\":2,\"count\":{\"all\":25,\"rated\":16,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":6,\"lossH\":6,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mortalman2002",
     "username": "MortalMan2002",
     "online": true,
     "perfs": {
       "atomic": {
-        "games": 1,
+        "games": 3,
         "rating": 2055,
-        "rd": 460,
+        "rd": 420,
         "prog": 0,
         "prov": true
       },
@@ -31,10 +31,17 @@
         "prog": 0,
         "prov": true
       },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1650,
+        "rd": 309,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
         "games": 8,
         "rating": 1615,
-        "rd": 127,
+        "rd": 128,
         "prog": 0,
         "prov": true
       },
@@ -55,32 +62,35 @@
       "rapid": {
         "games": 1,
         "rating": 2263,
-        "rd": 475,
+        "rd": 476,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613034760566,
-    "seenAt": 1613191353004,
+    "profile": {
+      "bio": "Pls join the club of my creator https://lichess.org/team/standard-and-variants-chess-team"
+    },
+    "seenAt": 1613358845880,
     "playTime": {
-      "total": 4692,
+      "total": 5918,
       "tv": 863
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/MortalMan2002",
-    "nbFollowing": 7,
+    "nbFollowing": 9,
     "nbFollowers": 2,
     "count": {
-      "all": 18,
-      "rated": 13,
+      "all": 25,
+      "rated": 16,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 5,
-      "lossH": 5,
-      "win": 9,
-      "winH": 9,
+      "loss": 6,
+      "lossH": 6,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
