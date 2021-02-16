@@ -1,0 +1,101 @@
+{
+  "id": "overpoweredplayer",
+  "displayName": "Overpoweredplayer",
+  "username": "Overpoweredplayer",
+  "profileUrl": "https://lichess.org/@/Overpoweredplayer",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"overpoweredplayer\",\"username\":\"Overpoweredplayer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":17,\"rating\":1898,\"rd\":111,\"prog\":138,\"prov\":true},\"puzzle\":{\"games\":11,\"rating\":1974,\"rd\":153,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1676,\"rd\":152,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":3,\"score\":41}},\"createdAt\":1611894685979,\"profile\":{\"country\":\"IN\",\"location\":\"Mah\",\"bio\":\"pls join https://lichess.org/team/friends-team-special\\r\\n\\r\\nMy study https://lichess.org/study/Mogs9z9d\\r\\nhttps://i.imgur.com/nbpHpqW.jpg  https://i.imgur.com/72zx4Ra.jpg \\r\\nhttps://i.imgur.com/Xi1ynL6.jpg https://i.imgur.com/q2d0hN6.jpg\\r\\nhttps://i.imgur.com/1dqe1Iu.jpg\",\"firstName\":\"Advait\",\"lastName\":\"iyer\",\"fideRating\":2500,\"links\":\"https://innovativeattacker.wixsite.com/my-site-1\\r\\n https://www.youtube.com/channel/UCEorjtiLMeIIY3Qbfvydd9w\\r\\nhttps://docs.google.com/forms/d/e/1FAIpQLSfACyuzPJXZr8Pivk8JyOme5hSiuhk-chxtios-G8_Qr7rYIw/viewform\"},\"seenAt\":1613466812127,\"playTime\":{\"total\":6596,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Overpoweredplayer\",\"nbFollowing\":53,\"nbFollowers\":30,\"completionRate\":92,\"count\":{\"all\":27,\"rated\":24,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":12,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "overpoweredplayer",
+    "username": "Overpoweredplayer",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 17,
+        "rating": 1898,
+        "rd": 111,
+        "prog": 138,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 11,
+        "rating": 1974,
+        "rd": 153,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 1676,
+        "rd": 152,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 3,
+        "score": 41
+      }
+    },
+    "createdAt": 1611894685979,
+    "profile": {
+      "country": "IN",
+      "location": "Mah",
+      "bio": "pls join https://lichess.org/team/friends-team-special\r\n\r\nMy study https://lichess.org/study/Mogs9z9d\r\nhttps://i.imgur.com/nbpHpqW.jpg  https://i.imgur.com/72zx4Ra.jpg \r\nhttps://i.imgur.com/Xi1ynL6.jpg https://i.imgur.com/q2d0hN6.jpg\r\nhttps://i.imgur.com/1dqe1Iu.jpg",
+      "firstName": "Advait",
+      "lastName": "iyer",
+      "fideRating": 2500,
+      "links": "https://innovativeattacker.wixsite.com/my-site-1\r\n https://www.youtube.com/channel/UCEorjtiLMeIIY3Qbfvydd9w\r\nhttps://docs.google.com/forms/d/e/1FAIpQLSfACyuzPJXZr8Pivk8JyOme5hSiuhk-chxtios-G8_Qr7rYIw/viewform"
+    },
+    "seenAt": 1613466812127,
+    "playTime": {
+      "total": 6596,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Overpoweredplayer",
+    "nbFollowing": 53,
+    "nbFollowers": 30,
+    "completionRate": 92,
+    "count": {
+      "all": 27,
+      "rated": 24,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 12,
+      "lossH": 12,
+      "win": 14,
+      "winH": 14,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
