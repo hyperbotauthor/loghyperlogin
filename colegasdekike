@@ -4,25 +4,44 @@
   "username": "ColegasDeKike",
   "profileUrl": "https://lichess.org/@/ColegasDeKike",
   "provider": "lichess",
-  "_raw": "{\"id\":\"colegasdekike\",\"username\":\"ColegasDeKike\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611574444528,\"seenAt\":1611575086521,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/ColegasDeKike\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"colegasdekike\",\"username\":\"ColegasDeKike\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":24,\"rating\":1973,\"rd\":137,\"prog\":53,\"prov\":true},\"antichess\":{\"games\":109,\"rating\":2597,\"rd\":98,\"prog\":-42},\"blitz\":{\"games\":35,\"rating\":2541,\"rd\":112,\"prog\":27,\"prov\":true},\"crazyhouse\":{\"games\":12,\"rating\":1985,\"rd\":212,\"prog\":-237,\"prov\":true},\"bullet\":{\"games\":85,\"rating\":2576,\"rd\":77,\"prog\":6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611574444528,\"profile\":{\"country\":\"ES\",\"bio\":\"My boss is @ajedrezconzeta \\uD83D\\uDE09 , my teacher @endicraft \\uD83D\\uDE07 and this is my team!! lichess.org/team/colegas-de-kike \\uD83D\\uDCAA/////////////////////////////////////\\r\\nI play like @ajedrezconzeta @endicraft @eloyoff34 @superbohemio @strikerperruno @faustercio @estupendo @gcu4tl0 & @mamasitaisback\",\"firstName\":\"Colegas de\",\"lastName\":\"Kike\"},\"seenAt\":1613475638280,\"playTime\":{\"total\":37236,\"tv\":4781},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ColegasDeKike\",\"nbFollowing\":26,\"nbFollowers\":19,\"count\":{\"all\":353,\"rated\":266,\"ai\":8,\"draw\":8,\"drawH\":4,\"loss\":12,\"lossH\":10,\"win\":333,\"winH\":331,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "colegasdekike",
     "username": "ColegasDeKike",
-    "online": true,
+    "online": false,
     "perfs": {
+      "chess960": {
+        "games": 24,
+        "rating": 1973,
+        "rd": 137,
+        "prog": 53,
+        "prov": true
+      },
+      "antichess": {
+        "games": 109,
+        "rating": 2597,
+        "rd": 98,
+        "prog": -42
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 35,
+        "rating": 2541,
+        "rd": 112,
+        "prog": 27,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 12,
+        "rating": 1985,
+        "rd": 212,
+        "prog": -237,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 85,
+        "rating": 2576,
+        "rd": 77,
+        "prog": 6
       },
       "correspondence": {
         "games": 0,
@@ -47,26 +66,33 @@
       }
     },
     "createdAt": 1611574444528,
-    "seenAt": 1611575086521,
+    "profile": {
+      "country": "ES",
+      "bio": "My boss is @ajedrezconzeta 😉 , my teacher @endicraft 😇 and this is my team!! lichess.org/team/colegas-de-kike 💪/////////////////////////////////////\r\nI play like @ajedrezconzeta @endicraft @eloyoff34 @superbohemio @strikerperruno @faustercio @estupendo @gcu4tl0 & @mamasitaisback",
+      "firstName": "Colegas de",
+      "lastName": "Kike"
+    },
+    "seenAt": 1613475638280,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 37236,
+      "tv": 4781
     },
     "language": "es-ES",
+    "title": "BOT",
     "url": "https://lichess.org/@/ColegasDeKike",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 26,
+    "nbFollowers": 19,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
-      "bookmark": 0,
+      "all": 353,
+      "rated": 266,
+      "ai": 8,
+      "draw": 8,
+      "drawH": 4,
+      "loss": 12,
+      "lossH": 10,
+      "win": 333,
+      "winH": 331,
+      "bookmark": 1,
       "playing": 0,
       "import": 0,
       "me": 0
