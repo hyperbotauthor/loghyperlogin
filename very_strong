@@ -4,23 +4,23 @@
   "username": "Very_Strong",
   "profileUrl": "https://lichess.org/@/Very_Strong",
   "provider": "lichess",
-  "_raw": "{\"id\":\"very_strong\",\"username\":\"Very_Strong\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609901724652,\"profile\":{\"country\":\"IN\",\"location\":\"India\",\"bio\":\"I play all type of standard games.\"},\"seenAt\":1613453188298,\"playTime\":{\"total\":760,\"tv\":181},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Very_Strong\",\"nbFollowing\":9,\"nbFollowers\":10,\"count\":{\"all\":4,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"very_strong\",\"username\":\"Very_Strong\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1487,\"rd\":488,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1178,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609901724652,\"profile\":{\"country\":\"IN\",\"location\":\"India\",\"bio\":\"I play all type of standard games.\"},\"seenAt\":1613467013359,\"playTime\":{\"total\":1066,\"tv\":234},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Very_Strong\",\"nbFollowing\":10,\"nbFollowers\":12,\"count\":{\"all\":12,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":12,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "very_strong",
     "username": "Very_Strong",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1487,
+        "rd": 488,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1178,
+        "rd": 201,
         "prog": 0,
         "prov": true
       },
@@ -52,24 +52,24 @@
       "location": "India",
       "bio": "I play all type of standard games."
     },
-    "seenAt": 1613453188298,
+    "seenAt": 1613467013359,
     "playTime": {
-      "total": 760,
-      "tv": 181
+      "total": 1066,
+      "tv": 234
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Very_Strong",
-    "nbFollowing": 9,
-    "nbFollowers": 10,
+    "nbFollowing": 10,
+    "nbFollowers": 12,
     "count": {
-      "all": 4,
-      "rated": 0,
+      "all": 12,
+      "rated": 5,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
+      "loss": 12,
+      "lossH": 12,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
