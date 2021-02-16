@@ -4,11 +4,11 @@
   "username": "MortalMan2002",
   "profileUrl": "https://lichess.org/@/MortalMan2002",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1440,\"rd\":417,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1470,\"rd\":457,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2055,\"rd\":420,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1650,\"rd\":310,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1615,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":476,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"profile\":{\"bio\":\"Pls join the club of my creator https://lichess.org/team/standard-and-variants-chess-team\"},\"seenAt\":1613472589855,\"playTime\":{\"total\":7958,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":10,\"nbFollowers\":2,\"count\":{\"all\":28,\"rated\":19,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mortalman2002\",\"username\":\"MortalMan2002\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1440,\"rd\":417,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1470,\"rd\":457,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2055,\"rd\":420,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2167,\"rd\":382,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1801,\"rd\":322,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1650,\"rd\":310,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1615,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2263,\"rd\":476,\"prog\":0,\"prov\":true}},\"createdAt\":1613034760566,\"profile\":{\"bio\":\"Pls join the club of my creator https://lichess.org/team/standard-and-variants-chess-team\"},\"seenAt\":1613476022231,\"playTime\":{\"total\":7958,\"tv\":863},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MortalMan2002\",\"nbFollowing\":10,\"nbFollowers\":2,\"count\":{\"all\":28,\"rated\":19,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mortalman2002",
     "username": "MortalMan2002",
-    "online": false,
+    "online": true,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -85,7 +85,7 @@
     "profile": {
       "bio": "Pls join the club of my creator https://lichess.org/team/standard-and-variants-chess-team"
     },
-    "seenAt": 1613472589855,
+    "seenAt": 1613476022231,
     "playTime": {
       "total": 7958,
       "tv": 863
