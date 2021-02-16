@@ -4,7 +4,7 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"location\":\":D\",\"bio\":\"https://youtu.be/-6tdy7RmwrA\"},\"seenAt\":1612941491008,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"bio\":\"Challenge me to standard any time control :D\",\"firstName\":\":D\"},\"seenAt\":1613454676876,\"playTime\":{\"total\":251,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":0,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":0,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
@@ -48,29 +48,29 @@
     },
     "createdAt": 1612930350221,
     "profile": {
-      "location": ":D",
-      "bio": "https://youtu.be/-6tdy7RmwrA"
+      "bio": "Challenge me to standard any time control :D",
+      "firstName": ":D"
     },
-    "seenAt": 1612941491008,
+    "seenAt": 1613454676876,
     "playTime": {
-      "total": 0,
+      "total": 251,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
+      "all": 6,
       "rated": 0,
-      "ai": 0,
+      "ai": 5,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
+      "loss": 3,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 3,
+      "winH": 1,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
