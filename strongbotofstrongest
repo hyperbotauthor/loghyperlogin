@@ -4,29 +4,29 @@
   "username": "STRONGBOTOFSTRONGEST",
   "profileUrl": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
   "provider": "lichess",
-  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1360,\"rd\":318,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":58,\"rating\":2277,\"rd\":53,\"prog\":-9},\"horde\":{\"games\":1,\"rating\":1412,\"rd\":393,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1971,\"rd\":133,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":11,\"rating\":2141,\"rd\":132,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":23,\"rating\":2096,\"rd\":88,\"prog\":26},\"kingOfTheHill\":{\"games\":5,\"rating\":2288,\"rd\":188,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":2047,\"rd\":192,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1176,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1776,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2240,\"rd\":138,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"seenAt\":1613556749541,\"playTime\":{\"total\":43354,\"tv\":1792},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":149,\"rated\":143,\"ai\":4,\"draw\":12,\"drawH\":12,\"loss\":74,\"lossH\":71,\"win\":63,\"winH\":62,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1431,\"rd\":279,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":66,\"rating\":2316,\"rd\":49,\"prog\":37},\"horde\":{\"games\":5,\"rating\":2018,\"rd\":190,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1971,\"rd\":133,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":14,\"rating\":2201,\"rd\":117,\"prog\":60,\"prov\":true},\"blitz\":{\"games\":23,\"rating\":2096,\"rd\":88,\"prog\":26},\"kingOfTheHill\":{\"games\":6,\"rating\":2284,\"rd\":166,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":14,\"rating\":2230,\"rd\":145,\"prog\":183,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1176,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1776,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2173,\"rd\":130,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"profile\":{\"bio\":\"A VERY SLOW CHESS ENGINE . CURRENTLY PLAYING ONLY RAPID AND ALL THE VARIONTS .  ENGINE IS CREATED AND DEVELOPED BY ME IN JAVA . ALL THE BEST FOR YOUR GAMES.\",\"fideRating\":2780},\"seenAt\":1613576439362,\"playTime\":{\"total\":48347,\"tv\":1792},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":171,\"rated\":165,\"ai\":4,\"draw\":13,\"drawH\":13,\"loss\":77,\"lossH\":74,\"win\":81,\"winH\":80,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "strongbotofstrongest",
     "username": "STRONGBOTOFSTRONGEST",
     "online": true,
     "perfs": {
       "chess960": {
-        "games": 2,
-        "rating": 1360,
-        "rd": 318,
+        "games": 3,
+        "rating": 1431,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 58,
-        "rating": 2277,
-        "rd": 53,
-        "prog": -9
+        "games": 66,
+        "rating": 2316,
+        "rd": 49,
+        "prog": 37
       },
       "horde": {
-        "games": 1,
-        "rating": 1412,
-        "rd": 393,
+        "games": 5,
+        "rating": 2018,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
@@ -38,10 +38,10 @@
         "prov": true
       },
       "racingKings": {
-        "games": 11,
-        "rating": 2141,
-        "rd": 132,
-        "prog": 0,
+        "games": 14,
+        "rating": 2201,
+        "rd": 117,
+        "prog": 60,
         "prov": true
       },
       "blitz": {
@@ -51,17 +51,17 @@
         "prog": 26
       },
       "kingOfTheHill": {
-        "games": 5,
-        "rating": 2288,
-        "rd": 188,
+        "games": 6,
+        "rating": 2284,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
-        "games": 11,
-        "rating": 2047,
-        "rd": 192,
-        "prog": 0,
+        "games": 14,
+        "rating": 2230,
+        "rd": 145,
+        "prog": 183,
         "prov": true
       },
       "threeCheck": {
@@ -93,34 +93,38 @@
         "prov": true
       },
       "rapid": {
-        "games": 9,
-        "rating": 2240,
-        "rd": 138,
+        "games": 11,
+        "rating": 2173,
+        "rd": 130,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613040052280,
-    "seenAt": 1613556749541,
+    "profile": {
+      "bio": "A VERY SLOW CHESS ENGINE . CURRENTLY PLAYING ONLY RAPID AND ALL THE VARIONTS .  ENGINE IS CREATED AND DEVELOPED BY ME IN JAVA . ALL THE BEST FOR YOUR GAMES.",
+      "fideRating": 2780
+    },
+    "seenAt": 1613576439362,
     "playTime": {
-      "total": 43354,
+      "total": 48347,
       "tv": 1792
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
     "nbFollowing": 0,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 149,
-      "rated": 143,
+      "all": 171,
+      "rated": 165,
       "ai": 4,
-      "draw": 12,
-      "drawH": 12,
-      "loss": 74,
-      "lossH": 71,
-      "win": 63,
-      "winH": 62,
+      "draw": 13,
+      "drawH": 13,
+      "loss": 77,
+      "lossH": 74,
+      "win": 81,
+      "winH": 80,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
