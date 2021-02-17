@@ -4,30 +4,37 @@
   "username": "legendbot1",
   "profileUrl": "https://lichess.org/@/legendbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":2042,\"rd\":85,\"prog\":-82},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":266,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":87,\"rating\":1956,\"rd\":54,\"prog\":-48},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":146,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1612353335740,\"playTime\":{\"total\":58910,\"tv\":8188},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"playing\":\"https://lichess.org/Txtbb9Pl/white\",\"nbFollowing\":33,\"nbFollowers\":13,\"count\":{\"all\":157,\"rated\":143,\"ai\":6,\"draw\":14,\"drawH\":14,\"loss\":32,\"lossH\":30,\"win\":111,\"winH\":107,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1285,\"rd\":261,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2059,\"rd\":87,\"prog\":-69},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":113,\"rating\":1958,\"rd\":53,\"prog\":-22},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":149,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1637,\"rd\":327,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1613557674338,\"playTime\":{\"total\":61523,\"tv\":8304},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":35,\"nbFollowers\":17,\"count\":{\"all\":188,\"rated\":173,\"ai\":6,\"draw\":16,\"drawH\":16,\"loss\":40,\"lossH\":38,\"win\":132,\"winH\":128,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendbot1",
     "username": "legendbot1",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1285,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 46,
-        "rating": 2042,
-        "rd": 85,
-        "prog": -82
+        "games": 47,
+        "rating": 2059,
+        "rd": 87,
+        "prog": -69
       },
       "racingKings": {
         "games": 2,
         "rating": 1893,
-        "rd": 266,
+        "rd": 267,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 87,
-        "rating": 1956,
-        "rd": 54,
-        "prog": -48
+        "games": 113,
+        "rating": 1958,
+        "rd": 53,
+        "prog": -22
       },
       "correspondence": {
         "games": 0,
@@ -39,14 +46,14 @@
       "classical": {
         "games": 7,
         "rating": 2102,
-        "rd": 146,
+        "rd": 149,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1637,
+        "rd": 327,
         "prog": 0,
         "prov": true
       }
@@ -56,29 +63,28 @@
       "country": "IN",
       "bio": "https://i.imgur.com/ahfAslw.jpg"
     },
-    "seenAt": 1612353335740,
+    "seenAt": 1613557674338,
     "playTime": {
-      "total": 58910,
-      "tv": 8188
+      "total": 61523,
+      "tv": 8304
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/legendbot1",
-    "playing": "https://lichess.org/Txtbb9Pl/white",
-    "nbFollowing": 33,
-    "nbFollowers": 13,
+    "nbFollowing": 35,
+    "nbFollowers": 17,
     "count": {
-      "all": 157,
-      "rated": 143,
+      "all": 188,
+      "rated": 173,
       "ai": 6,
-      "draw": 14,
-      "drawH": 14,
-      "loss": 32,
-      "lossH": 30,
-      "win": 111,
-      "winH": 107,
+      "draw": 16,
+      "drawH": 16,
+      "loss": 40,
+      "lossH": 38,
+      "win": 132,
+      "winH": 128,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
