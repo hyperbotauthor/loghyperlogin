@@ -4,23 +4,23 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1779,\"rd\":377,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"In the ice frozen\",\"bio\":\"Feel free to challenge me in standard any time control, I recommend: Blitz 3+2 or Rapid 6+2\",\"firstName\":\"I like to think... a\",\"lastName\":\"LOT\"},\"seenAt\":1613538817879,\"playTime\":{\"total\":535,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":2,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":1,\"win\":5,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1626,\"rd\":309,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1401,\"rd\":359,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1784,\"rd\":232,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"Frozen in the ice\",\"bio\":\"Feel free to challenge me in standard any time control, I recommend: Blitz 5+2 or Rapid 7+2\\r\\nHave fun!\",\"firstName\":\"I like to think... a\",\"lastName\":\"LOT\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500},\"seenAt\":1613603233438,\"playTime\":{\"total\":4478,\"tv\":259},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/5cs19NLc/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":7,\"ai\":15,\"draw\":2,\"drawH\":2,\"loss\":13,\"lossH\":5,\"win\":16,\"winH\":9,\"bookmark\":0,\"playing\":9,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1626,
+        "rd": 309,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1401,
+        "rd": 359,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1779,
-        "rd": 377,
+        "games": 5,
+        "rating": 1784,
+        "rd": 232,
         "prog": 0,
         "prov": true
       }
@@ -49,33 +49,37 @@
     "createdAt": 1612930350221,
     "profile": {
       "country": "AQ",
-      "location": "In the ice frozen",
-      "bio": "Feel free to challenge me in standard any time control, I recommend: Blitz 3+2 or Rapid 6+2",
+      "location": "Frozen in the ice",
+      "bio": "Feel free to challenge me in standard any time control, I recommend: Blitz 5+2 or Rapid 7+2\r\nHave fun!",
       "firstName": "I like to think... a",
-      "lastName": "LOT"
+      "lastName": "LOT",
+      "fideRating": 2500,
+      "uscfRating": 2500,
+      "ecfRating": 2500
     },
-    "seenAt": 1613538817879,
+    "seenAt": 1613603233438,
     "playTime": {
-      "total": 535,
-      "tv": 0
+      "total": 4478,
+      "tv": 259
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
+    "playing": "https://lichess.org/5cs19NLc/black",
     "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 9,
-      "rated": 2,
-      "ai": 5,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 4,
-      "lossH": 1,
-      "win": 5,
-      "winH": 3,
+      "all": 31,
+      "rated": 7,
+      "ai": 15,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 13,
+      "lossH": 5,
+      "win": 16,
+      "winH": 9,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 9,
       "import": 0,
       "me": 0
     },
