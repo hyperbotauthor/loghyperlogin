@@ -4,7 +4,7 @@
   "username": "Very_Strong",
   "profileUrl": "https://lichess.org/@/Very_Strong",
   "provider": "lichess",
-  "_raw": "{\"id\":\"very_strong\",\"username\":\"Very_Strong\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1487,\"rd\":488,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":898,\"rd\":140,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1425,\"rd\":411,\"prog\":0,\"prov\":true}},\"createdAt\":1609901724652,\"profile\":{\"country\":\"IN\",\"location\":\"India\",\"bio\":\"I play all type of standard games.\"},\"seenAt\":1613531263018,\"playTime\":{\"total\":3216,\"tv\":234},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Very_Strong\",\"nbFollowing\":1,\"nbFollowers\":13,\"count\":{\"all\":38,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":36,\"lossH\":36,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"very_strong\",\"username\":\"Very_Strong\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1487,\"rd\":488,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":897,\"rd\":139,\"prog\":-1,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1425,\"rd\":412,\"prog\":0,\"prov\":true}},\"createdAt\":1609901724652,\"profile\":{\"country\":\"IN\",\"bio\":\"I will join your team if you fulfill one of these options 1: Make me leader in your team i will help your team grow. 2: Make 2 titled players join lichess.org/team/friends-team-special. 3: Make 10 people join lichess.org/team/friends-team-special.\"},\"seenAt\":1613647783840,\"playTime\":{\"total\":3470,\"tv\":234},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Very_Strong\",\"nbFollowing\":1,\"nbFollowers\":13,\"count\":{\"all\":45,\"rated\":15,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":43,\"lossH\":43,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "very_strong",
     "username": "Very_Strong",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 898,
-        "rd": 140,
-        "prog": 0,
+        "games": 13,
+        "rating": 897,
+        "rd": 139,
+        "prog": -1,
         "prov": true
       },
       "correspondence": {
@@ -41,7 +41,7 @@
       "rapid": {
         "games": 1,
         "rating": 1425,
-        "rd": 411,
+        "rd": 412,
         "prog": 0,
         "prov": true
       }
@@ -49,12 +49,11 @@
     "createdAt": 1609901724652,
     "profile": {
       "country": "IN",
-      "location": "India",
-      "bio": "I play all type of standard games."
+      "bio": "I will join your team if you fulfill one of these options 1: Make me leader in your team i will help your team grow. 2: Make 2 titled players join lichess.org/team/friends-team-special. 3: Make 10 people join lichess.org/team/friends-team-special."
     },
-    "seenAt": 1613531263018,
+    "seenAt": 1613647783840,
     "playTime": {
-      "total": 3216,
+      "total": 3470,
       "tv": 234
     },
     "language": "en-US",
@@ -63,13 +62,13 @@
     "nbFollowing": 1,
     "nbFollowers": 13,
     "count": {
-      "all": 38,
-      "rated": 11,
+      "all": 45,
+      "rated": 15,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 36,
-      "lossH": 36,
+      "loss": 43,
+      "lossH": 43,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
