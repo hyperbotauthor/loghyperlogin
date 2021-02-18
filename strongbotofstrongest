@@ -4,7 +4,7 @@
   "username": "STRONGBOTOFSTRONGEST",
   "profileUrl": "https://lichess.org/@/STRONGBOTOFSTRONGEST",
   "provider": "lichess",
-  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1431,\"rd\":279,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":66,\"rating\":2316,\"rd\":49,\"prog\":37},\"horde\":{\"games\":5,\"rating\":2018,\"rd\":190,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1971,\"rd\":133,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":14,\"rating\":2201,\"rd\":117,\"prog\":60,\"prov\":true},\"blitz\":{\"games\":23,\"rating\":2096,\"rd\":88,\"prog\":26},\"kingOfTheHill\":{\"games\":6,\"rating\":2284,\"rd\":166,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":14,\"rating\":2230,\"rd\":145,\"prog\":183,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1176,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1776,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2173,\"rd\":130,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"profile\":{\"bio\":\"A VERY SLOW CHESS ENGINE . CURRENTLY PLAYING ONLY RAPID AND ALL THE VARIONTS .  ENGINE IS CREATED AND DEVELOPED BY ME IN JAVA . ALL THE BEST FOR YOUR GAMES.\",\"fideRating\":2780},\"seenAt\":1613576439362,\"playTime\":{\"total\":48347,\"tv\":1792},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":171,\"rated\":165,\"ai\":4,\"draw\":13,\"drawH\":13,\"loss\":77,\"lossH\":74,\"win\":81,\"winH\":80,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"strongbotofstrongest\",\"username\":\"STRONGBOTOFSTRONGEST\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1431,\"rd\":279,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":77,\"rating\":2317,\"rd\":45,\"prog\":1},\"horde\":{\"games\":7,\"rating\":2080,\"rd\":168,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1971,\"rd\":133,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":14,\"rating\":2201,\"rd\":117,\"prog\":60,\"prov\":true},\"blitz\":{\"games\":23,\"rating\":2096,\"rd\":88,\"prog\":26},\"kingOfTheHill\":{\"games\":6,\"rating\":2284,\"rd\":166,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":14,\"rating\":2230,\"rd\":145,\"prog\":183,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1171,\"rd\":335,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1776,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1876,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1363,\"rd\":324,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2173,\"rd\":130,\"prog\":0,\"prov\":true}},\"createdAt\":1613040052280,\"profile\":{\"bio\":\"A VERY SLOW CHESS ENGINE . CURRENTLY PLAYING ONLY RAPID AND ALL THE VARIONTS .  ENGINE IS CREATED AND DEVELOPED BY ME IN JAVA . ALL THE BEST FOR YOUR GAMES.\",\"fideRating\":2780},\"seenAt\":1613620334414,\"playTime\":{\"total\":51301,\"tv\":1792},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STRONGBOTOFSTRONGEST\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":186,\"rated\":179,\"ai\":5,\"draw\":13,\"drawH\":13,\"loss\":83,\"lossH\":79,\"win\":90,\"winH\":89,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "strongbotofstrongest",
     "username": "STRONGBOTOFSTRONGEST",
@@ -18,15 +18,15 @@
         "prov": true
       },
       "antichess": {
-        "games": 66,
-        "rating": 2316,
-        "rd": 49,
-        "prog": 37
+        "games": 77,
+        "rating": 2317,
+        "rd": 45,
+        "prog": 1
       },
       "horde": {
-        "games": 5,
-        "rating": 2018,
-        "rd": 190,
+        "games": 7,
+        "rating": 2080,
+        "rd": 168,
         "prog": 0,
         "prov": true
       },
@@ -65,9 +65,9 @@
         "prov": true
       },
       "threeCheck": {
-        "games": 3,
-        "rating": 1176,
-        "rd": 340,
+        "games": 4,
+        "rating": 1171,
+        "rd": 335,
         "prog": 0,
         "prov": true
       },
@@ -105,9 +105,9 @@
       "bio": "A VERY SLOW CHESS ENGINE . CURRENTLY PLAYING ONLY RAPID AND ALL THE VARIONTS .  ENGINE IS CREATED AND DEVELOPED BY ME IN JAVA . ALL THE BEST FOR YOUR GAMES.",
       "fideRating": 2780
     },
-    "seenAt": 1613576439362,
+    "seenAt": 1613620334414,
     "playTime": {
-      "total": 48347,
+      "total": 51301,
       "tv": 1792
     },
     "language": "en-US",
@@ -116,15 +116,15 @@
     "nbFollowing": 0,
     "nbFollowers": 5,
     "count": {
-      "all": 171,
-      "rated": 165,
-      "ai": 4,
+      "all": 186,
+      "rated": 179,
+      "ai": 5,
       "draw": 13,
       "drawH": 13,
-      "loss": 77,
-      "lossH": 74,
-      "win": 81,
-      "winH": 80,
+      "loss": 83,
+      "lossH": 79,
+      "win": 90,
+      "winH": 89,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
