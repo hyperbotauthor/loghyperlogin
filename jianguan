@@ -1,0 +1,142 @@
+{
+  "id": "jianguan",
+  "displayName": "JianGuan",
+  "username": "JianGuan",
+  "profileUrl": "https://lichess.org/@/JianGuan",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jianguan\",\"username\":\"JianGuan\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":7,\"rating\":1144,\"rd\":164,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1303,\"rd\":278,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1205,\"rd\":242,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1215,\"rd\":190,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1317,\"rd\":280,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":4,\"rating\":917,\"rd\":180,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":11,\"rating\":1264,\"rd\":132,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1246,\"rd\":269,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1101,\"rd\":288,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":94,\"rating\":1511,\"rd\":75,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1328,\"rd\":134,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":4,\"score\":17}},\"createdAt\":1611565930085,\"seenAt\":1613757129120,\"patron\":true,\"playTime\":{\"total\":9997,\"tv\":50},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/JianGuan\",\"playing\":\"https://lichess.org/HHnw3x5Y/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"completionRate\":90,\"count\":{\"all\":99,\"rated\":43,\"ai\":27,\"draw\":2,\"drawH\":1,\"loss\":68,\"lossH\":58,\"win\":29,\"winH\":13,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jianguan",
+    "username": "JianGuan",
+    "online": true,
+    "perfs": {
+      "atomic": {
+        "games": 7,
+        "rating": 1144,
+        "rd": 164,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1303,
+        "rd": 278,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1205,
+        "rd": 242,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 4,
+        "rating": 1215,
+        "rd": 190,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1317,
+        "rd": 280,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 4,
+        "rating": 917,
+        "rd": 180,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 11,
+        "rating": 1264,
+        "rd": 132,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1246,
+        "rd": 269,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1101,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 94,
+        "rating": 1511,
+        "rd": 75,
+        "prog": 0
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 1328,
+        "rd": 134,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 4,
+        "score": 17
+      }
+    },
+    "createdAt": 1611565930085,
+    "seenAt": 1613757129120,
+    "patron": true,
+    "playTime": {
+      "total": 9997,
+      "tv": 50
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/JianGuan",
+    "playing": "https://lichess.org/HHnw3x5Y/white",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "completionRate": 90,
+    "count": {
+      "all": 99,
+      "rated": 43,
+      "ai": 27,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 68,
+      "lossH": 58,
+      "win": 29,
+      "winH": 13,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
