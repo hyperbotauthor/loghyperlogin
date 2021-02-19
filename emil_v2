@@ -4,7 +4,7 @@
   "username": "Emil_V2",
   "profileUrl": "https://lichess.org/@/Emil_V2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"emil_v2\",\"username\":\"Emil_V2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1272,\"rd\":272,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1776,\"rd\":219,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2122,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613320530586,\"profile\":{\"bio\":\"Pls follow me if you can and you can challenge me any time I am online rated or casual\"},\"seenAt\":1613742712866,\"playTime\":{\"total\":2919,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Emil_V2\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":28,\"rated\":13,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":9,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"emil_v2\",\"username\":\"Emil_V2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1272,\"rd\":272,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1776,\"rd\":219,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2122,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613320530586,\"profile\":{\"bio\":\"Pls follow me if you can and you can challenge me any time I am online rated or casual\"},\"seenAt\":1613744919778,\"playTime\":{\"total\":2919,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Emil_V2\",\"playing\":\"https://lichess.org/CKSDqbAh/white\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":28,\"rated\":13,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":9,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "emil_v2",
     "username": "Emil_V2",
@@ -57,7 +57,7 @@
     "profile": {
       "bio": "Pls follow me if you can and you can challenge me any time I am online rated or casual"
     },
-    "seenAt": 1613742712866,
+    "seenAt": 1613744919778,
     "playTime": {
       "total": 2919,
       "tv": 0
@@ -65,6 +65,7 @@
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Emil_V2",
+    "playing": "https://lichess.org/CKSDqbAh/white",
     "nbFollowing": 4,
     "nbFollowers": 3,
     "count": {
@@ -78,7 +79,7 @@
       "win": 18,
       "winH": 18,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
