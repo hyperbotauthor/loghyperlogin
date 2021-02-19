@@ -4,7 +4,7 @@
   "username": "legendbot1",
   "profileUrl": "https://lichess.org/@/legendbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1285,\"rd\":261,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":51,\"rating\":2063,\"rd\":78,\"prog\":-52},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":115,\"rating\":1950,\"rd\":53,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2102,\"rd\":149,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1637,\"rd\":327,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1613710930257,\"playTime\":{\"total\":63752,\"tv\":8611},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"playing\":\"https://lichess.org/q9vHXm36/white\",\"nbFollowing\":35,\"nbFollowers\":15,\"count\":{\"all\":202,\"rated\":179,\"ai\":10,\"draw\":17,\"drawH\":16,\"loss\":44,\"lossH\":42,\"win\":141,\"winH\":134,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1285,\"rd\":261,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":53,\"rating\":2059,\"rd\":76,\"prog\":-59},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":115,\"rating\":1950,\"rd\":53,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":9,\"rating\":2108,\"rd\":128,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1617,\"rd\":309,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\"},\"seenAt\":1613718564111,\"playTime\":{\"total\":65650,\"tv\":9311},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":35,\"nbFollowers\":15,\"count\":{\"all\":207,\"rated\":184,\"ai\":10,\"draw\":17,\"drawH\":16,\"loss\":47,\"lossH\":45,\"win\":143,\"winH\":136,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendbot1",
     "username": "legendbot1",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 51,
-        "rating": 2063,
-        "rd": 78,
-        "prog": -52
+        "games": 53,
+        "rating": 2059,
+        "rd": 76,
+        "prog": -59
       },
       "racingKings": {
         "games": 2,
@@ -44,16 +44,16 @@
         "prov": true
       },
       "classical": {
-        "games": 7,
-        "rating": 2102,
-        "rd": 149,
+        "games": 9,
+        "rating": 2108,
+        "rd": 128,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1637,
-        "rd": 327,
+        "games": 2,
+        "rating": 1617,
+        "rd": 309,
         "prog": 0,
         "prov": true
       }
@@ -63,29 +63,28 @@
       "country": "IN",
       "bio": "https://i.imgur.com/ahfAslw.jpg"
     },
-    "seenAt": 1613710930257,
+    "seenAt": 1613718564111,
     "playTime": {
-      "total": 63752,
-      "tv": 8611
+      "total": 65650,
+      "tv": 9311
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/legendbot1",
-    "playing": "https://lichess.org/q9vHXm36/white",
     "nbFollowing": 35,
     "nbFollowers": 15,
     "count": {
-      "all": 202,
-      "rated": 179,
+      "all": 207,
+      "rated": 184,
       "ai": 10,
       "draw": 17,
       "drawH": 16,
-      "loss": 44,
-      "lossH": 42,
-      "win": 141,
-      "winH": 134,
+      "loss": 47,
+      "lossH": 45,
+      "win": 143,
+      "winH": 136,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
