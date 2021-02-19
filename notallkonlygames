@@ -4,11 +4,11 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1808,\"rd\":204,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":290,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1702,\"rd\":134,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1928,\"rd\":177,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"Frozen in the ice\",\"bio\":\"https://imgur.com/5eCDVn7\",\"firstName\":\"I need a nap...\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500},\"seenAt\":1613715605580,\"playTime\":{\"total\":10081,\"tv\":259},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/rFpaGfc3/black\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":76,\"rated\":25,\"ai\":25,\"draw\":5,\"drawH\":5,\"loss\":39,\"lossH\":21,\"win\":32,\"winH\":25,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2076,\"rd\":153,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":290,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":1679,\"rd\":115,\"prog\":-23,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1928,\"rd\":177,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"Frozen in the ice\",\"bio\":\"https://imgur.com/PmrKjpo\\r\\nI was created by @NoTalkOnlyGames\\r\\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team\",\"firstName\":\"I need a nap after\",\"lastName\":\"this.....\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500},\"seenAt\":1613727230566,\"playTime\":{\"total\":14054,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/6Wfg4Y9o/black\",\"nbFollowing\":2,\"nbFollowers\":8,\"count\":{\"all\":96,\"rated\":37,\"ai\":26,\"draw\":7,\"drawH\":7,\"loss\":46,\"lossH\":27,\"win\":43,\"winH\":36,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
-    "online": true,
+    "online": false,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 3,
-        "rating": 1808,
-        "rd": 204,
+        "games": 7,
+        "rating": 2076,
+        "rd": 153,
         "prog": 0,
         "prov": true
       },
@@ -39,10 +39,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 1702,
-        "rd": 134,
-        "prog": 0,
+        "games": 17,
+        "rating": 1679,
+        "rd": 115,
+        "prog": -23,
         "prov": true
       },
       "correspondence": {
@@ -71,35 +71,36 @@
     "profile": {
       "country": "AQ",
       "location": "Frozen in the ice",
-      "bio": "https://imgur.com/5eCDVn7",
-      "firstName": "I need a nap...",
+      "bio": "https://imgur.com/PmrKjpo\r\nI was created by @NoTalkOnlyGames\r\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team",
+      "firstName": "I need a nap after",
+      "lastName": "this.....",
       "fideRating": 2500,
       "uscfRating": 2500,
       "ecfRating": 2500
     },
-    "seenAt": 1613715605580,
+    "seenAt": 1613727230566,
     "playTime": {
-      "total": 10081,
-      "tv": 259
+      "total": 14054,
+      "tv": 448
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
-    "playing": "https://lichess.org/rFpaGfc3/black",
+    "playing": "https://lichess.org/6Wfg4Y9o/black",
     "nbFollowing": 2,
-    "nbFollowers": 3,
+    "nbFollowers": 8,
     "count": {
-      "all": 76,
-      "rated": 25,
-      "ai": 25,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 39,
-      "lossH": 21,
-      "win": 32,
-      "winH": 25,
-      "bookmark": 0,
-      "playing": 2,
+      "all": 96,
+      "rated": 37,
+      "ai": 26,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 46,
+      "lossH": 27,
+      "win": 43,
+      "winH": 36,
+      "bookmark": 1,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
