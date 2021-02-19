@@ -1,0 +1,81 @@
+{
+  "id": "imaginebeingabot",
+  "displayName": "imaginebeingabot",
+  "username": "imaginebeingabot",
+  "profileUrl": "https://lichess.org/@/imaginebeingabot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"imaginebeingabot\",\"username\":\"imaginebeingabot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":69,\"rating\":2185,\"rd\":50,\"prog\":18},\"bullet\":{\"games\":81,\"rating\":1646,\"rd\":69,\"prog\":19},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2183,\"rd\":225,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2314,\"rd\":107,\"prog\":-59}},\"createdAt\":1612787513728,\"profile\":{\"bio\":\"My author is @Densel7355.\"},\"seenAt\":1613716985560,\"playTime\":{\"total\":42565,\"tv\":10828},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/imaginebeingabot\",\"nbFollowing\":4,\"nbFollowers\":4,\"count\":{\"all\":206,\"rated\":181,\"ai\":5,\"draw\":20,\"drawH\":19,\"loss\":99,\"lossH\":96,\"win\":87,\"winH\":86,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "imaginebeingabot",
+    "username": "imaginebeingabot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 69,
+        "rating": 2185,
+        "rd": 50,
+        "prog": 18
+      },
+      "bullet": {
+        "games": 81,
+        "rating": 1646,
+        "rd": 69,
+        "prog": 19
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 2183,
+        "rd": 225,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 22,
+        "rating": 2314,
+        "rd": 107,
+        "prog": -59
+      }
+    },
+    "createdAt": 1612787513728,
+    "profile": {
+      "bio": "My author is @Densel7355."
+    },
+    "seenAt": 1613716985560,
+    "playTime": {
+      "total": 42565,
+      "tv": 10828
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/imaginebeingabot",
+    "nbFollowing": 4,
+    "nbFollowers": 4,
+    "count": {
+      "all": 206,
+      "rated": 181,
+      "ai": 5,
+      "draw": 20,
+      "drawH": 19,
+      "loss": 99,
+      "lossH": 96,
+      "win": 87,
+      "winH": 86,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
