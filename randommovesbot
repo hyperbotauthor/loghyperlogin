@@ -4,7 +4,7 @@
   "username": "Randommovesbot",
   "profileUrl": "https://lichess.org/@/Randommovesbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1418,\"rd\":422,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1233,\"rd\":277,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1613710357528,\"playTime\":{\"total\":555,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":17,\"rated\":10,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1418,\"rd\":422,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":2221,\"rd\":402,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1233,\"rd\":277,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1613710967888,\"playTime\":{\"total\":788,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":18,\"rated\":11,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommovesbot",
     "username": "Randommovesbot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2221,
+        "rd": 402,
         "prog": 0,
         "prov": true
       },
@@ -68,9 +68,9 @@
       }
     },
     "createdAt": 1613709594340,
-    "seenAt": 1613710357528,
+    "seenAt": 1613710967888,
     "playTime": {
-      "total": 555,
+      "total": 788,
       "tv": 0
     },
     "language": "en-US",
@@ -79,15 +79,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 17,
-      "rated": 10,
+      "all": 18,
+      "rated": 11,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
       "loss": 14,
       "lossH": 14,
-      "win": 2,
-      "winH": 2,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
