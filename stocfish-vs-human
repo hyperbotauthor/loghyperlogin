@@ -1,0 +1,141 @@
+{
+  "id": "stocfish-vs-human",
+  "displayName": "Stocfish-VS-Human",
+  "username": "Stocfish-VS-Human",
+  "profileUrl": "https://lichess.org/@/Stocfish-VS-Human",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stocfish-vs-human\",\"username\":\"Stocfish-VS-Human\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1164,\"rd\":299,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1258,\"rd\":122,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":59,\"rating\":1380,\"rd\":55,\"prog\":5},\"blitz\":{\"games\":17,\"rating\":1720,\"rd\":127,\"prog\":70,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1788,\"rd\":346,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":18,\"rating\":2017,\"rd\":175,\"prog\":-2,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1754,\"rd\":249,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1703,\"rd\":83,\"prog\":-79},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1206,\"rd\":275,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":36,\"rating\":2009,\"rd\":86,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2015,\"rd\":267,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":20,\"score\":33}},\"createdAt\":1612104112949,\"profile\":{\"country\":\"TR\"},\"seenAt\":1613916263481,\"playTime\":{\"total\":33983,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/Stocfish-VS-Human\",\"nbFollowing\":9,\"nbFollowers\":3,\"completionRate\":73,\"count\":{\"all\":279,\"rated\":154,\"ai\":105,\"draw\":5,\"drawH\":3,\"loss\":128,\"lossH\":60,\"win\":146,\"winH\":111,\"bookmark\":18,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stocfish-vs-human",
+    "username": "Stocfish-VS-Human",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1164,
+        "rd": 299,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 11,
+        "rating": 1258,
+        "rd": 122,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 59,
+        "rating": 1380,
+        "rd": 55,
+        "prog": 5
+      },
+      "blitz": {
+        "games": 17,
+        "rating": 1720,
+        "rd": 127,
+        "prog": 70,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1788,
+        "rd": 346,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 18,
+        "rating": 2017,
+        "rd": 175,
+        "prog": -2,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1754,
+        "rd": 249,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 32,
+        "rating": 1703,
+        "rd": 83,
+        "prog": -79
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1206,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 36,
+        "rating": 2009,
+        "rd": 86,
+        "prog": 0
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 2015,
+        "rd": 267,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 20,
+        "score": 33
+      }
+    },
+    "createdAt": 1612104112949,
+    "profile": {
+      "country": "TR"
+    },
+    "seenAt": 1613916263481,
+    "playTime": {
+      "total": 33983,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/Stocfish-VS-Human",
+    "nbFollowing": 9,
+    "nbFollowers": 3,
+    "completionRate": 73,
+    "count": {
+      "all": 279,
+      "rated": 154,
+      "ai": 105,
+      "draw": 5,
+      "drawH": 3,
+      "loss": 128,
+      "lossH": 60,
+      "win": 146,
+      "winH": 111,
+      "bookmark": 18,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
