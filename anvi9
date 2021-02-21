@@ -1,0 +1,109 @@
+{
+  "id": "anvi9",
+  "displayName": "AnVi9",
+  "username": "AnVi9",
+  "profileUrl": "https://lichess.org/@/AnVi9",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"anvi9\",\"username\":\"AnVi9\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1458,\"rd\":441,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1810,\"rd\":275,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1612,\"rd\":361,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1866,\"rd\":217,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1870,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1779,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1610710479511,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi,\\r\\n\\r\\nI am anvi, Follow me\\r\\n\\r\\nJoin https://lichess.org/team/best-game-is-chess-2\",\"firstName\":\"Anvi\",\"lastName\":\"I DON'T KNOW\",\"links\":\"https://lichess.org/team/best-game-is-chess-2\"},\"seenAt\":1613910239816,\"playTime\":{\"total\":7236,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AnVi9\",\"nbFollowing\":18,\"nbFollowers\":67,\"count\":{\"all\":42,\"rated\":20,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "anvi9",
+    "username": "AnVi9",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1458,
+        "rd": 441,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1810,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1612,
+        "rd": 361,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1866,
+        "rd": 217,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 1870,
+        "rd": 189,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 9,
+        "rating": 1779,
+        "rd": 174,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610710479511,
+    "profile": {
+      "country": "IN",
+      "bio": "Hi,\r\n\r\nI am anvi, Follow me\r\n\r\nJoin https://lichess.org/team/best-game-is-chess-2",
+      "firstName": "Anvi",
+      "lastName": "I DON'T KNOW",
+      "links": "https://lichess.org/team/best-game-is-chess-2"
+    },
+    "seenAt": 1613910239816,
+    "playTime": {
+      "total": 7236,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/AnVi9",
+    "nbFollowing": 18,
+    "nbFollowers": 67,
+    "count": {
+      "all": 42,
+      "rated": 20,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 8,
+      "lossH": 8,
+      "win": 32,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
