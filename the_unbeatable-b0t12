@@ -4,7 +4,7 @@
   "username": "The_Unbeatable-B0T12",
   "profileUrl": "https://lichess.org/@/The_Unbeatable-B0T12",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_unbeatable-b0t12\",\"username\":\"The_Unbeatable-B0T12\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1328,\"rd\":297,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1249,\"rd\":314,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1691,\"rd\":193,\"prog\":0,\"prov\":true}},\"createdAt\":1613666838253,\"profile\":{\"bio\":\"I play standard only. Don't challenge me to correspondence and  bullet. I am now a deadly player.\\r\\nhttps://i.imgur.com/q2d0hN6.jpg              https://i.imgur.com/nbpHpqW.jpg\\r\\n                                                                  https://i.imgur.com/ZBrb9sR.jpg\\r\\n                                                                 https://i.imgur.com/OKNyTI6.jpg\",\"fideRating\":2500,\"links\":\"https://www.chess.com/home\\r\\nhypereasy.herokuapp.com/?lichessbotlogin=ok\\r\\nhttps://lichess.org/\\r\\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\\r\\nsparkchess.com\"},\"seenAt\":1613901832187,\"playTime\":{\"total\":3936,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/The_Unbeatable-B0T12\",\"nbFollowing\":6,\"nbFollowers\":5,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_unbeatable-b0t12\",\"username\":\"The_Unbeatable-B0T12\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1328,\"rd\":297,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1249,\"rd\":314,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1750,\"rd\":172,\"prog\":0,\"prov\":true}},\"createdAt\":1613666838253,\"profile\":{\"bio\":\"I play standard only. Don't challenge me to correspondence and  bullet. I am now a deadly player.\\r\\nhttps://i.imgur.com/q2d0hN6.jpg              https://i.imgur.com/nbpHpqW.jpg\\r\\n                                                                  https://i.imgur.com/ZBrb9sR.jpg\\r\\n                                                                 https://i.imgur.com/OKNyTI6.jpg\",\"fideRating\":2500,\"links\":\"https://www.chess.com/home\\r\\nhypereasy.herokuapp.com/?lichessbotlogin=ok\\r\\nhttps://lichess.org/\\r\\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\\r\\nsparkchess.com\"},\"seenAt\":1613904214631,\"playTime\":{\"total\":5061,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/The_Unbeatable-B0T12\",\"nbFollowing\":6,\"nbFollowers\":5,\"count\":{\"all\":10,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_unbeatable-b0t12",
     "username": "The_Unbeatable-B0T12",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 7,
-        "rating": 1691,
-        "rd": 193,
+        "games": 8,
+        "rating": 1750,
+        "rd": 172,
         "prog": 0,
         "prov": true
       }
@@ -52,9 +52,9 @@
       "fideRating": 2500,
       "links": "https://www.chess.com/home\r\nhypereasy.herokuapp.com/?lichessbotlogin=ok\r\nhttps://lichess.org/\r\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\r\nsparkchess.com"
     },
-    "seenAt": 1613901832187,
+    "seenAt": 1613904214631,
     "playTime": {
-      "total": 3936,
+      "total": 5061,
       "tv": 0
     },
     "language": "en-US",
@@ -63,15 +63,15 @@
     "nbFollowing": 6,
     "nbFollowers": 5,
     "count": {
-      "all": 9,
-      "rated": 9,
+      "all": 10,
+      "rated": 10,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 7,
       "lossH": 7,
-      "win": 2,
-      "winH": 2,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
