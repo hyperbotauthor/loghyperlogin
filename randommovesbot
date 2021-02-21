@@ -4,7 +4,7 @@
   "username": "Randommovesbot",
   "profileUrl": "https://lichess.org/@/Randommovesbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1418,\"rd\":422,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":344,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2242,\"rd\":380,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":9,\"rating\":1548,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1613807087366,\"playTime\":{\"total\":1241,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"playing\":\"https://lichess.org/06IEPBCb/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":23,\"rated\":14,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":15,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1418,\"rd\":422,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":344,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1114,\"rd\":319,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2242,\"rd\":380,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1239,\"rd\":269,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1399,\"rd\":223,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1613901869280,\"playTime\":{\"total\":2999,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"playing\":\"https://lichess.org/3cSojn39/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":31,\"rated\":21,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":23,\"lossH\":23,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommovesbot",
     "username": "Randommovesbot",
@@ -24,6 +24,13 @@
         "prog": 0,
         "prov": true
       },
+      "racingKings": {
+        "games": 3,
+        "rating": 1114,
+        "rd": 319,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 2,
         "rating": 2242,
@@ -31,10 +38,17 @@
         "prog": 0,
         "prov": true
       },
-      "threeCheck": {
-        "games": 9,
-        "rating": 1548,
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1239,
         "rd": 269,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 10,
+        "rating": 1399,
+        "rd": 223,
         "prog": 0,
         "prov": true
       },
@@ -68,25 +82,25 @@
       }
     },
     "createdAt": 1613709594340,
-    "seenAt": 1613807087366,
+    "seenAt": 1613901869280,
     "playTime": {
-      "total": 1241,
+      "total": 2999,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Randommovesbot",
-    "playing": "https://lichess.org/06IEPBCb/white",
+    "playing": "https://lichess.org/3cSojn39/black",
     "nbFollowing": 0,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 23,
-      "rated": 14,
+      "all": 31,
+      "rated": 21,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 15,
-      "lossH": 15,
+      "loss": 23,
+      "lossH": 23,
       "win": 6,
       "winH": 6,
       "bookmark": 0,
