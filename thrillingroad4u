@@ -1,0 +1,81 @@
+{
+  "id": "thrillingroad4u",
+  "displayName": "ThrillingRoad4U",
+  "username": "ThrillingRoad4U",
+  "profileUrl": "https://lichess.org/@/ThrillingRoad4U",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thrillingroad4u\",\"username\":\"ThrillingRoad4U\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":3012,\"rd\":450,\"prog\":0,\"prov\":true}},\"createdAt\":1613974104552,\"seenAt\":1613977969679,\"playTime\":{\"total\":1723,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThrillingRoad4U\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thrillingroad4u",
+    "username": "ThrillingRoad4U",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 3012,
+        "rd": 450,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613974104552,
+    "seenAt": 1613977969679,
+    "playTime": {
+      "total": 1723,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ThrillingRoad4U",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 2,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
