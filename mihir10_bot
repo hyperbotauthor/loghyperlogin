@@ -4,16 +4,16 @@
   "username": "Mihir10_Bot",
   "profileUrl": "https://lichess.org/@/Mihir10_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mihir10_bot\",\"username\":\"Mihir10_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2198,\"rd\":169,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1870,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1843,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":483,\"prog\":0,\"prov\":true}},\"createdAt\":1613896095250,\"seenAt\":1613917712698,\"playTime\":{\"total\":3685,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mihir10_Bot\",\"nbFollowing\":6,\"nbFollowers\":2,\"count\":{\"all\":18,\"rated\":14,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":3,\"lossH\":3,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mihir10_bot\",\"username\":\"Mihir10_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2270,\"rd\":141,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1870,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1843,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2448,\"rd\":281,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2613,\"rd\":295,\"prog\":0,\"prov\":true}},\"createdAt\":1613896095250,\"seenAt\":1613974518970,\"playTime\":{\"total\":9630,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mihir10_Bot\",\"nbFollowing\":7,\"nbFollowers\":3,\"count\":{\"all\":25,\"rated\":21,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":3,\"lossH\":3,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mihir10_bot",
     "username": "Mihir10_Bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 6,
-        "rating": 2198,
-        "rd": 169,
+        "games": 10,
+        "rating": 2270,
+        "rd": 141,
         "prog": 0,
         "prov": true
       },
@@ -32,41 +32,41 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2448,
+        "rd": 281,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2256,
-        "rd": 483,
+        "games": 2,
+        "rating": 2613,
+        "rd": 295,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613896095250,
-    "seenAt": 1613917712698,
+    "seenAt": 1613974518970,
     "playTime": {
-      "total": 3685,
+      "total": 9630,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Mihir10_Bot",
-    "nbFollowing": 6,
-    "nbFollowers": 2,
+    "nbFollowing": 7,
+    "nbFollowers": 3,
     "count": {
-      "all": 18,
-      "rated": 14,
+      "all": 25,
+      "rated": 21,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
       "loss": 3,
       "lossH": 3,
-      "win": 11,
-      "winH": 11,
+      "win": 18,
+      "winH": 18,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
