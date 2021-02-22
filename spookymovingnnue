@@ -4,7 +4,7 @@
   "username": "SpookyMovingNNUE",
   "profileUrl": "https://lichess.org/@/SpookyMovingNNUE",
   "provider": "lichess",
-  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2634,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2496,\"rd\":95,\"prog\":89},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2994,\"rd\":187,\"prog\":26,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). My creator is @TwistyTornado1\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1613976654459,\"playTime\":{\"total\":14712,\"tv\":1092},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":4,\"count\":{\"all\":139,\"rated\":38,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":60,\"lossH\":26,\"win\":51,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2634,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2496,\"rd\":95,\"prog\":89},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2896,\"rd\":185,\"prog\":-72,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). My creator is @TwistyTornado1\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1613998322665,\"playTime\":{\"total\":15504,\"tv\":1092},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":4,\"count\":{\"all\":140,\"rated\":39,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":61,\"lossH\":27,\"win\":51,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "spookymovingnnue",
     "username": "SpookyMovingNNUE",
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 14,
-        "rating": 2994,
-        "rd": 187,
-        "prog": 26,
+        "games": 15,
+        "rating": 2896,
+        "rd": 185,
+        "prog": -72,
         "prov": true
       }
     },
@@ -57,9 +57,9 @@
       "ecfRating": 3000,
       "links": "easychess.herokuapp.com\r\nspookymovingnnue.herokuapp.com"
     },
-    "seenAt": 1613976654459,
+    "seenAt": 1613998322665,
     "playTime": {
-      "total": 14712,
+      "total": 15504,
       "tv": 1092
     },
     "language": "en-GB",
@@ -68,13 +68,13 @@
     "nbFollowing": 5,
     "nbFollowers": 4,
     "count": {
-      "all": 139,
-      "rated": 38,
+      "all": 140,
+      "rated": 39,
       "ai": 41,
       "draw": 28,
       "drawH": 26,
-      "loss": 60,
-      "lossH": 26,
+      "loss": 61,
+      "lossH": 27,
       "win": 51,
       "winH": 46,
       "bookmark": 0,
