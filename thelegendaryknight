@@ -1,0 +1,106 @@
+{
+  "id": "thelegendaryknight",
+  "displayName": "TheLegendaryKnight",
+  "username": "TheLegendaryKnight",
+  "profileUrl": "https://lichess.org/@/TheLegendaryKnight",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thelegendaryknight\",\"username\":\"TheLegendaryKnight\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1689,\"rd\":275,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1468,\"rd\":326,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":64,\"rating\":2158,\"rd\":113,\"prog\":-62,\"prov\":true},\"threeCheck\":{\"games\":16,\"rating\":1272,\"rd\":122,\"prog\":122,\"prov\":true},\"bullet\":{\"games\":54,\"rating\":1876,\"rd\":92,\"prog\":-116},\"correspondence\":{\"games\":8,\"rating\":1896,\"rd\":178,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2051,\"rd\":148,\"prog\":42,\"prov\":true}},\"createdAt\":1595098311702,\"profile\":{\"bio\":\"Hi, \\r\\nYou can challenge me in Standard mode.\\r\\n\\r\\n\\r\\n\\r\\nhttps://i.imgur.com/tpj5CWM.jpg\",\"firstName\":\"Legendary\",\"lastName\":\"Knight\"},\"seenAt\":1614021097421,\"playTime\":{\"total\":19453,\"tv\":4316},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheLegendaryKnight\",\"nbFollowing\":39,\"nbFollowers\":32,\"count\":{\"all\":247,\"rated\":178,\"ai\":15,\"draw\":19,\"drawH\":19,\"loss\":62,\"lossH\":61,\"win\":166,\"winH\":152,\"bookmark\":12,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thelegendaryknight",
+    "username": "TheLegendaryKnight",
+    "online": true,
+    "perfs": {
+      "atomic": {
+        "games": 1,
+        "rating": 1689,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1468,
+        "rd": 326,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 64,
+        "rating": 2158,
+        "rd": 113,
+        "prog": -62,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 16,
+        "rating": 1272,
+        "rd": 122,
+        "prog": 122,
+        "prov": true
+      },
+      "bullet": {
+        "games": 54,
+        "rating": 1876,
+        "rd": 92,
+        "prog": -116
+      },
+      "correspondence": {
+        "games": 8,
+        "rating": 1896,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 23,
+        "rating": 2051,
+        "rd": 148,
+        "prog": 42,
+        "prov": true
+      }
+    },
+    "createdAt": 1595098311702,
+    "profile": {
+      "bio": "Hi, \r\nYou can challenge me in Standard mode.\r\n\r\n\r\n\r\nhttps://i.imgur.com/tpj5CWM.jpg",
+      "firstName": "Legendary",
+      "lastName": "Knight"
+    },
+    "seenAt": 1614021097421,
+    "playTime": {
+      "total": 19453,
+      "tv": 4316
+    },
+    "language": "fr-FR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/TheLegendaryKnight",
+    "nbFollowing": 39,
+    "nbFollowers": 32,
+    "count": {
+      "all": 247,
+      "rated": 178,
+      "ai": 15,
+      "draw": 19,
+      "drawH": 19,
+      "loss": 62,
+      "lossH": 61,
+      "win": 166,
+      "winH": 152,
+      "bookmark": 12,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
