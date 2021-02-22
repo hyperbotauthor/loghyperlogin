@@ -1,0 +1,94 @@
+{
+  "id": "hinkerbot",
+  "displayName": "HinkerBot",
+  "username": "HinkerBot",
+  "profileUrl": "https://lichess.org/@/HinkerBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hinkerbot\",\"username\":\"HinkerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":2505,\"rd\":67,\"prog\":5},\"puzzle\":{\"games\":2,\"rating\":1158,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":80,\"rating\":2550,\"rd\":46,\"prog\":8},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":39,\"rating\":2538,\"rd\":74,\"prog\":-26}},\"createdAt\":1613698859616,\"profile\":{\"country\":\"CN\",\"location\":\"Shanghai\",\"bio\":\"A Lichess Bot with Stockfish engine 13. It run on a Windows 10 VM. There are 16 vCPUs, 64GB RAM.\\r\\nAdd 5 opening books for Stockfish engine.\",\"firstName\":\"Hinker\",\"lastName\":\"Liu\",\"links\":\"https://twitter.com/hinkerliu\"},\"seenAt\":1613979819453,\"playTime\":{\"total\":103603,\"tv\":24740},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HinkerBot\",\"playing\":\"https://lichess.org/BFsDYPgA/white\",\"nbFollowing\":4,\"nbFollowers\":10,\"count\":{\"all\":210,\"rated\":171,\"ai\":9,\"draw\":80,\"drawH\":80,\"loss\":20,\"lossH\":19,\"win\":110,\"winH\":102,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hinkerbot",
+    "username": "HinkerBot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 46,
+        "rating": 2505,
+        "rd": 67,
+        "prog": 5
+      },
+      "puzzle": {
+        "games": 2,
+        "rating": 1158,
+        "rd": 242,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 80,
+        "rating": 2550,
+        "rd": 46,
+        "prog": 8
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 39,
+        "rating": 2538,
+        "rd": 74,
+        "prog": -26
+      }
+    },
+    "createdAt": 1613698859616,
+    "profile": {
+      "country": "CN",
+      "location": "Shanghai",
+      "bio": "A Lichess Bot with Stockfish engine 13. It run on a Windows 10 VM. There are 16 vCPUs, 64GB RAM.\r\nAdd 5 opening books for Stockfish engine.",
+      "firstName": "Hinker",
+      "lastName": "Liu",
+      "links": "https://twitter.com/hinkerliu"
+    },
+    "seenAt": 1613979819453,
+    "playTime": {
+      "total": 103603,
+      "tv": 24740
+    },
+    "language": "zh-CN",
+    "title": "BOT",
+    "url": "https://lichess.org/@/HinkerBot",
+    "playing": "https://lichess.org/BFsDYPgA/white",
+    "nbFollowing": 4,
+    "nbFollowers": 10,
+    "count": {
+      "all": 210,
+      "rated": 171,
+      "ai": 9,
+      "draw": 80,
+      "drawH": 80,
+      "loss": 20,
+      "lossH": 19,
+      "win": 110,
+      "winH": 102,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
