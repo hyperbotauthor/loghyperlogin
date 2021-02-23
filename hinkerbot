@@ -4,17 +4,17 @@
   "username": "HinkerBot",
   "profileUrl": "https://lichess.org/@/HinkerBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hinkerbot\",\"username\":\"HinkerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":47,\"rating\":2505,\"rd\":67,\"prog\":9},\"puzzle\":{\"games\":2,\"rating\":1158,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":96,\"rating\":2552,\"rd\":45,\"prog\":-4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":50,\"rating\":2521,\"rd\":65,\"prog\":-17}},\"createdAt\":1613698859616,\"profile\":{\"country\":\"CN\",\"location\":\"Shanghai\",\"bio\":\"A Lichess Bot with Stockfish engine 13. It run on a Windows 10 VM. There are 16 vCPUs, 64GB RAM.\\r\\nAdd 5 opening books for Stockfish engine.\",\"firstName\":\"Hinker\",\"lastName\":\"Liu\",\"links\":\"https://twitter.com/hinkerliu\"},\"seenAt\":1614050831260,\"playTime\":{\"total\":115702,\"tv\":30388},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HinkerBot\",\"nbFollowing\":7,\"nbFollowers\":13,\"count\":{\"all\":243,\"rated\":199,\"ai\":9,\"draw\":94,\"drawH\":94,\"loss\":24,\"lossH\":23,\"win\":125,\"winH\":117,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hinkerbot\",\"username\":\"HinkerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":51,\"rating\":2479,\"rd\":65,\"prog\":-5},\"puzzle\":{\"games\":2,\"rating\":1158,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":125,\"rating\":2552,\"rd\":45,\"prog\":3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":53,\"rating\":2516,\"rd\":65,\"prog\":-1}},\"createdAt\":1613698859616,\"profile\":{\"country\":\"CN\",\"location\":\"Shanghai\",\"bio\":\"A Lichess Bot with Stockfish engine 13. It run on a Windows 10 VM. There are 16 vCPUs, 64GB RAM.\\r\\nAdd 5 opening books for Stockfish engine.\",\"firstName\":\"Hinker\",\"lastName\":\"Liu\",\"links\":\"https://twitter.com/hinkerliu\"},\"seenAt\":1614124333099,\"playTime\":{\"total\":124041,\"tv\":32229},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HinkerBot\",\"playing\":\"https://lichess.org/qL2SZJln/white\",\"nbFollowing\":7,\"nbFollowers\":14,\"count\":{\"all\":279,\"rated\":235,\"ai\":9,\"draw\":116,\"drawH\":116,\"loss\":29,\"lossH\":28,\"win\":134,\"winH\":126,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hinkerbot",
     "username": "HinkerBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 47,
-        "rating": 2505,
-        "rd": 67,
-        "prog": 9
+        "games": 51,
+        "rating": 2479,
+        "rd": 65,
+        "prog": -5
       },
       "puzzle": {
         "games": 2,
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 96,
+        "games": 125,
         "rating": 2552,
         "rd": 45,
-        "prog": -4
+        "prog": 3
       },
       "correspondence": {
         "games": 0,
@@ -44,10 +44,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 50,
-        "rating": 2521,
+        "games": 53,
+        "rating": 2516,
         "rd": 65,
-        "prog": -17
+        "prog": -1
       }
     },
     "createdAt": 1613698859616,
@@ -59,28 +59,29 @@
       "lastName": "Liu",
       "links": "https://twitter.com/hinkerliu"
     },
-    "seenAt": 1614050831260,
+    "seenAt": 1614124333099,
     "playTime": {
-      "total": 115702,
-      "tv": 30388
+      "total": 124041,
+      "tv": 32229
     },
     "language": "zh-CN",
     "title": "BOT",
     "url": "https://lichess.org/@/HinkerBot",
+    "playing": "https://lichess.org/qL2SZJln/white",
     "nbFollowing": 7,
-    "nbFollowers": 13,
+    "nbFollowers": 14,
     "count": {
-      "all": 243,
-      "rated": 199,
+      "all": 279,
+      "rated": 235,
       "ai": 9,
-      "draw": 94,
-      "drawH": 94,
-      "loss": 24,
-      "lossH": 23,
-      "win": 125,
-      "winH": 117,
+      "draw": 116,
+      "drawH": 116,
+      "loss": 29,
+      "lossH": 28,
+      "win": 134,
+      "winH": 126,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
