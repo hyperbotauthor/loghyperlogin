@@ -4,7 +4,7 @@
   "username": "Mind_Master_chessbot",
   "profileUrl": "https://lichess.org/@/Mind_Master_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1865,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2044,\"rd\":239,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"seenAt\":1614002412522,\"playTime\":{\"total\":560,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":6,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1865,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1746,\"rd\":288,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2044,\"rd\":239,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"profile\":{\"country\":\"US\",\"location\":\"Michigan\",\"bio\":\"Mind_Master_chessbot running on stockfish lv.12\\r\\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot\",\"firstName\":\"Your\",\"lastName\":\"Mind Master\"},\"seenAt\":1614055646031,\"playTime\":{\"total\":1296,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":1,\"nbFollowers\":6,\"count\":{\"all\":9,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mind_master_chessbot",
     "username": "Mind_Master_chessbot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1746,
+        "rd": 288,
         "prog": 0,
         "prov": true
       },
@@ -47,26 +47,33 @@
       }
     },
     "createdAt": 1613995448087,
-    "seenAt": 1614002412522,
+    "profile": {
+      "country": "US",
+      "location": "Michigan",
+      "bio": "Mind_Master_chessbot running on stockfish lv.12\r\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot",
+      "firstName": "Your",
+      "lastName": "Mind Master"
+    },
+    "seenAt": 1614055646031,
     "playTime": {
-      "total": 560,
+      "total": 1296,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Mind_Master_chessbot",
-    "nbFollowing": 0,
-    "nbFollowers": 5,
+    "nbFollowing": 1,
+    "nbFollowers": 6,
     "count": {
-      "all": 6,
-      "rated": 5,
+      "all": 9,
+      "rated": 6,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 6,
-      "winH": 6,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
