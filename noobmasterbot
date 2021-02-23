@@ -4,7 +4,7 @@
   "username": "NoobMasterBOT",
   "profileUrl": "https://lichess.org/@/NoobMasterBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"noobmasterbot\",\"username\":\"NoobMasterBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":205,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1685,\"rd\":296,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2033,\"rd\":248,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1499,\"rd\":244,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1571,\"rd\":112,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1927,\"rd\":320,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2389,\"rd\":293,\"prog\":0,\"prov\":true}},\"createdAt\":1612762689425,\"seenAt\":1613183903908,\"playTime\":{\"total\":5746,\"tv\":287},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoobMasterBOT\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":37,\"rated\":31,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":26,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"noobmasterbot\",\"username\":\"NoobMasterBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":207,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1685,\"rd\":297,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2033,\"rd\":249,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1499,\"rd\":245,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1571,\"rd\":114,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1927,\"rd\":321,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2389,\"rd\":293,\"prog\":0,\"prov\":true}},\"createdAt\":1612762689425,\"seenAt\":1614086873322,\"playTime\":{\"total\":5781,\"tv\":287},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoobMasterBOT\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":38,\"rated\":31,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "noobmasterbot",
     "username": "NoobMasterBOT",
@@ -13,42 +13,42 @@
       "antichess": {
         "games": 3,
         "rating": 1510,
-        "rd": 205,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 1,
         "rating": 1685,
-        "rd": 296,
+        "rd": 297,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 5,
         "rating": 2033,
-        "rd": 248,
+        "rd": 249,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 2,
         "rating": 1499,
-        "rd": 244,
+        "rd": 245,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 2,
         "rating": 1507,
-        "rd": 245,
+        "rd": 246,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 11,
         "rating": 1571,
-        "rd": 112,
+        "rd": 114,
         "prog": 0,
         "prov": true
       },
@@ -62,7 +62,7 @@
       "classical": {
         "games": 1,
         "rating": 1927,
-        "rd": 320,
+        "rd": 321,
         "prog": 0,
         "prov": true
       },
@@ -75,9 +75,9 @@
       }
     },
     "createdAt": 1612762689425,
-    "seenAt": 1613183903908,
+    "seenAt": 1614086873322,
     "playTime": {
-      "total": 5746,
+      "total": 5781,
       "tv": 287
     },
     "language": "en-GB",
@@ -86,15 +86,15 @@
     "nbFollowing": 1,
     "nbFollowers": 4,
     "count": {
-      "all": 37,
+      "all": 38,
       "rated": 31,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
       "loss": 10,
       "lossH": 10,
-      "win": 26,
-      "winH": 25,
+      "win": 27,
+      "winH": 26,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
