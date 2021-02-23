@@ -1,0 +1,88 @@
+{
+  "id": "thinkerschess",
+  "displayName": "ThinkersChess",
+  "username": "ThinkersChess",
+  "profileUrl": "https://lichess.org/@/ThinkersChess",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thinkerschess\",\"username\":\"ThinkersChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2190,\"rd\":173,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1919,\"rd\":307,\"prog\":0,\"prov\":true}},\"createdAt\":1614010680559,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://i.imgur.com/2HhZd2d.jpg\",\"firstName\":\"Thinkers\",\"lastName\":\"Chess\"},\"seenAt\":1614077386905,\"playTime\":{\"total\":3492,\"tv\":962},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThinkersChess\",\"playing\":\"https://lichess.org/Qb2Toa9n/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thinkerschess",
+    "username": "ThinkersChess",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 2190,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1919,
+        "rd": 307,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1614010680559,
+    "profile": {
+      "country": "_lichess",
+      "bio": "https://i.imgur.com/2HhZd2d.jpg",
+      "firstName": "Thinkers",
+      "lastName": "Chess"
+    },
+    "seenAt": 1614077386905,
+    "playTime": {
+      "total": 3492,
+      "tv": 962
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ThinkersChess",
+    "playing": "https://lichess.org/Qb2Toa9n/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 13,
+      "rated": 9,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 11,
+      "winH": 11,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
