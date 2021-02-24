@@ -1,0 +1,88 @@
+{
+  "id": "cookieswithcream",
+  "displayName": "CookiesWithCream",
+  "username": "CookiesWithCream",
+  "profileUrl": "https://lichess.org/@/CookiesWithCream",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"cookieswithcream\",\"username\":\"CookiesWithCream\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1761,\"rd\":234,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1114,\"rd\":306,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1758,\"rd\":208,\"prog\":0,\"prov\":true}},\"createdAt\":1613048699575,\"profile\":{\"country\":\"_lichess\",\"location\":\"The Big and Vast World of Lichess\",\"bio\":\"Hi, this is a bot created by @sanjey2009. Check out my creator's profile. Please follow my creator. You can challenge me. I LOVE CHESS. Please join my creator's team. https://lichess.org/team/sanjeys-chess-club-20. Please follow me too. I only accept standard. I love Cookies With Cream, remember that. PEACE!\\r\\nhttps://i.imgur.com/nvGCd41.jpg\",\"firstName\":\"Someone Who LOVES\",\"lastName\":\"Cookies With Cream\\uD83C\\uDF6A\"},\"seenAt\":1614191474918,\"playTime\":{\"total\":4681,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CookiesWithCream\",\"nbFollowing\":3,\"nbFollowers\":14,\"count\":{\"all\":21,\"rated\":15,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "cookieswithcream",
+    "username": "CookiesWithCream",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 7,
+        "rating": 1761,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 1114,
+        "rd": 306,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1758,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613048699575,
+    "profile": {
+      "country": "_lichess",
+      "location": "The Big and Vast World of Lichess",
+      "bio": "Hi, this is a bot created by @sanjey2009. Check out my creator's profile. Please follow my creator. You can challenge me. I LOVE CHESS. Please join my creator's team. https://lichess.org/team/sanjeys-chess-club-20. Please follow me too. I only accept standard. I love Cookies With Cream, remember that. PEACE!\r\nhttps://i.imgur.com/nvGCd41.jpg",
+      "firstName": "Someone Who LOVES",
+      "lastName": "Cookies With Cream🍪"
+    },
+    "seenAt": 1614191474918,
+    "playTime": {
+      "total": 4681,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/CookiesWithCream",
+    "nbFollowing": 3,
+    "nbFollowers": 14,
+    "count": {
+      "all": 21,
+      "rated": 15,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 7,
+      "lossH": 7,
+      "win": 14,
+      "winH": 14,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
