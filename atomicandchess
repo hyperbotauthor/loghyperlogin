@@ -4,7 +4,7 @@
   "username": "Atomicandchess",
   "profileUrl": "https://lichess.org/@/Atomicandchess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2043,\"rd\":199,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1578,\"rd\":393,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1741,\"rd\":104,\"prog\":-6},\"correspondence\":{\"games\":3,\"rating\":1282,\"rd\":267,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\",\"links\":\"Jeez\"},\"seenAt\":1611383238707,\"playTime\":{\"total\":4515,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":37,\"rated\":23,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":24,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":399,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2043,\"rd\":203,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1525,\"rd\":348,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1741,\"rd\":112,\"prog\":-6,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1282,\"rd\":270,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\",\"links\":\"Jeez\"},\"seenAt\":1614165624517,\"playTime\":{\"total\":4611,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"playing\":\"https://lichess.org/J16gybbz/black\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":41,\"rated\":24,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":13,\"lossH\":13,\"win\":26,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "atomicandchess",
     "username": "Atomicandchess",
@@ -13,34 +13,35 @@
       "atomic": {
         "games": 1,
         "rating": 1603,
-        "rd": 397,
+        "rd": 399,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 5,
         "rating": 2043,
-        "rd": 199,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
-        "games": 1,
-        "rating": 1578,
-        "rd": 393,
+        "games": 2,
+        "rating": 1525,
+        "rd": 348,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 13,
         "rating": 1741,
-        "rd": 104,
-        "prog": -6
+        "rd": 112,
+        "prog": -6,
+        "prov": true
       },
       "correspondence": {
         "games": 3,
         "rating": 1282,
-        "rd": 267,
+        "rd": 270,
         "prog": 0,
         "prov": true
       },
@@ -65,28 +66,29 @@
       "bio": "https://i.imgur.com/cgV9QUC.jpg\r\nHi I use stockfish engine",
       "links": "Jeez"
     },
-    "seenAt": 1611383238707,
+    "seenAt": 1614165624517,
     "playTime": {
-      "total": 4515,
+      "total": 4611,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Atomicandchess",
+    "playing": "https://lichess.org/J16gybbz/black",
     "nbFollowing": 2,
-    "nbFollowers": 2,
+    "nbFollowers": 4,
     "count": {
-      "all": 37,
-      "rated": 23,
+      "all": 41,
+      "rated": 24,
       "ai": 2,
       "draw": 2,
       "drawH": 2,
-      "loss": 11,
-      "lossH": 11,
-      "win": 24,
-      "winH": 22,
+      "loss": 13,
+      "lossH": 13,
+      "win": 26,
+      "winH": 24,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
