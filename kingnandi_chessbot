@@ -4,112 +4,131 @@
   "username": "KINGNANDI_chessbot",
   "profileUrl": "https://lichess.org/@/KINGNANDI_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"horde\":{\"games\":2,\"rating\":1748,\"rd\":303,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1705,\"rd\":292,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1974,\"rd\":267,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":105,\"rating\":2343,\"rd\":45,\"prog\":-5},\"kingOfTheHill\":{\"games\":7,\"rating\":1473,\"rd\":201,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1625,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":507,\"rating\":2391,\"rd\":45,\"prog\":-23},\"correspondence\":{\"games\":2,\"rating\":1699,\"rd\":279,\"prog\":0,\"prov\":true},\"classical\":{\"games\":19,\"rating\":1856,\"rd\":117,\"prog\":62,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2321,\"rd\":91,\"prog\":217}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"hi i am kingnandi or vignesh bot.\\r\\nmy creator and developer is @kingnandi.\\r\\ngive him a follow.\\r\\n\\r\\ni accept all standard challenges but all has to be rated if causual then wont accept.\\r\\ni play chess well.\\r\\nchallenge me if you dare too.\\r\\nyou can chat with this bot too.\\r\\n\\r\\nso follow me and i am the one of the greatest bots on lichess.\\r\\ni mainly love to play with 2400 bots.\\r\\nthe bot is speedy and thinks like a magnus carlsen.\\r\\nso challenge him and if you win then you must be a legend,\\r\\nhe defeated titled players .\\r\\n\\r\\n\\r\\ni play bullet,blitz and rapid and classical.so challenge me if  you dare too.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\",\"links\":\"github lichess chess.com discord twitter\"},\"seenAt\":1613554096159,\"playTime\":{\"total\":115536,\"tv\":38138},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"playing\":\"https://lichess.org/yGZ1qZUw/white\",\"nbFollowing\":90,\"nbFollowers\":79,\"count\":{\"all\":792,\"rated\":692,\"ai\":11,\"draw\":254,\"drawH\":254,\"loss\":248,\"lossH\":240,\"win\":290,\"winH\":287,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingnandi_chessbot\",\"username\":\"KINGNANDI_chessbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":2200,\"rd\":291,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1656,\"rd\":385,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1708,\"rd\":271,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":2265,\"rd\":181,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":2515,\"rd\":151,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":119,\"rating\":2361,\"rd\":47,\"prog\":16},\"kingOfTheHill\":{\"games\":12,\"rating\":2083,\"rd\":160,\"prog\":123,\"prov\":true},\"crazyhouse\":{\"games\":22,\"rating\":2132,\"rd\":100,\"prog\":589},\"threeCheck\":{\"games\":3,\"rating\":1689,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":877,\"rating\":2488,\"rd\":45,\"prog\":-10},\"correspondence\":{\"games\":3,\"rating\":1566,\"rd\":258,\"prog\":0,\"prov\":true},\"classical\":{\"games\":20,\"rating\":1850,\"rd\":117,\"prog\":56,\"prov\":true},\"rapid\":{\"games\":32,\"rating\":2313,\"rd\":79,\"prog\":-3}},\"createdAt\":1611288416317,\"profile\":{\"country\":\"IN\",\"location\":\"bots city\",\"bio\":\"hi i am kingnandi or vignesh bot.\\r\\nmy creator and developer is @kingnandi.\\r\\ngive him a follow. https://i.imgur.com/j9KW9WY.jpg\\r\\n\\r\\n\\r\\n\\r\\ni accept all standard challenges only .so follow me and i am the one of the greatest bots on lichess.\\r\\ni mainly love to play with 2400 bots.\\r\\nthe bot is speedy and thinks like a magnus carlsen.\\r\\nso challenge him and if you win then you must be a legend,\\r\\nhe defeated titled players .\\r\\n\\r\\n\\r\\ni play bullet,blitz and rapid and classical.so challenge me if  you dare too.\",\"firstName\":\"bot\",\"lastName\":\"kingnandi\",\"links\":\"github lichess chess.com discord twitter\"},\"seenAt\":1614158461242,\"playTime\":{\"total\":169160,\"tv\":57399},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KINGNANDI_chessbot\",\"nbFollowing\":159,\"nbFollowers\":106,\"count\":{\"all\":1372,\"rated\":1125,\"ai\":29,\"draw\":453,\"drawH\":452,\"loss\":424,\"lossH\":402,\"win\":495,\"winH\":489,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingnandi_chessbot",
     "username": "KINGNANDI_chessbot",
     "online": true,
     "perfs": {
-      "horde": {
+      "chess960": {
         "games": 2,
-        "rating": 1748,
-        "rd": 303,
+        "rating": 2200,
+        "rd": 291,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1656,
+        "rd": 385,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 3,
+        "rating": 1708,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 4,
-        "rating": 1705,
-        "rd": 292,
+        "games": 8,
+        "rating": 2265,
+        "rd": 181,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 4,
-        "rating": 1974,
-        "rd": 267,
+        "games": 10,
+        "rating": 2515,
+        "rd": 151,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 105,
-        "rating": 2343,
-        "rd": 45,
-        "prog": -5
+        "games": 119,
+        "rating": 2361,
+        "rd": 47,
+        "prog": 16
       },
       "kingOfTheHill": {
-        "games": 7,
-        "rating": 1473,
-        "rd": 201,
-        "prog": 0,
+        "games": 12,
+        "rating": 2083,
+        "rd": 160,
+        "prog": 123,
         "prov": true
       },
       "crazyhouse": {
-        "games": 9,
-        "rating": 1625,
-        "rd": 165,
+        "games": 22,
+        "rating": 2132,
+        "rd": 100,
+        "prog": 589
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1689,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 507,
-        "rating": 2391,
+        "games": 877,
+        "rating": 2488,
         "rd": 45,
-        "prog": -23
+        "prog": -10
       },
       "correspondence": {
-        "games": 2,
-        "rating": 1699,
-        "rd": 279,
+        "games": 3,
+        "rating": 1566,
+        "rd": 258,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 19,
-        "rating": 1856,
+        "games": 20,
+        "rating": 1850,
         "rd": 117,
-        "prog": 62,
+        "prog": 56,
         "prov": true
       },
       "rapid": {
-        "games": 23,
-        "rating": 2321,
-        "rd": 91,
-        "prog": 217
+        "games": 32,
+        "rating": 2313,
+        "rd": 79,
+        "prog": -3
       }
     },
     "createdAt": 1611288416317,
     "profile": {
       "country": "IN",
       "location": "bots city",
-      "bio": "hi i am kingnandi or vignesh bot.\r\nmy creator and developer is @kingnandi.\r\ngive him a follow.\r\n\r\ni accept all standard challenges but all has to be rated if causual then wont accept.\r\ni play chess well.\r\nchallenge me if you dare too.\r\nyou can chat with this bot too.\r\n\r\nso follow me and i am the one of the greatest bots on lichess.\r\ni mainly love to play with 2400 bots.\r\nthe bot is speedy and thinks like a magnus carlsen.\r\nso challenge him and if you win then you must be a legend,\r\nhe defeated titled players .\r\n\r\n\r\ni play bullet,blitz and rapid and classical.so challenge me if  you dare too.",
+      "bio": "hi i am kingnandi or vignesh bot.\r\nmy creator and developer is @kingnandi.\r\ngive him a follow. https://i.imgur.com/j9KW9WY.jpg\r\n\r\n\r\n\r\ni accept all standard challenges only .so follow me and i am the one of the greatest bots on lichess.\r\ni mainly love to play with 2400 bots.\r\nthe bot is speedy and thinks like a magnus carlsen.\r\nso challenge him and if you win then you must be a legend,\r\nhe defeated titled players .\r\n\r\n\r\ni play bullet,blitz and rapid and classical.so challenge me if  you dare too.",
       "firstName": "bot",
       "lastName": "kingnandi",
       "links": "github lichess chess.com discord twitter"
     },
-    "seenAt": 1613554096159,
+    "seenAt": 1614158461242,
     "playTime": {
-      "total": 115536,
-      "tv": 38138
+      "total": 169160,
+      "tv": 57399
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KINGNANDI_chessbot",
-    "playing": "https://lichess.org/yGZ1qZUw/white",
-    "nbFollowing": 90,
-    "nbFollowers": 79,
+    "nbFollowing": 159,
+    "nbFollowers": 106,
     "count": {
-      "all": 792,
-      "rated": 692,
-      "ai": 11,
-      "draw": 254,
-      "drawH": 254,
-      "loss": 248,
-      "lossH": 240,
-      "win": 290,
-      "winH": 287,
-      "bookmark": 0,
-      "playing": 1,
+      "all": 1372,
+      "rated": 1125,
+      "ai": 29,
+      "draw": 453,
+      "drawH": 452,
+      "loss": 424,
+      "lossH": 402,
+      "win": 495,
+      "winH": 489,
+      "bookmark": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
