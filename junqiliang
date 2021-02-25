@@ -1,0 +1,119 @@
+{
+  "id": "junqiliang",
+  "displayName": "JunQiLiang",
+  "username": "JunQiLiang",
+  "profileUrl": "https://lichess.org/@/JunQiLiang",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"junqiliang\",\"username\":\"JunQiLiang\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1081,\"rd\":363,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":919,\"rd\":401,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1044,\"rd\":260,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1659,\"rd\":378,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":4,\"rating\":1233,\"rd\":238,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1433,\"rd\":330,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1160,\"rd\":255,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":1,\"score\":3}},\"createdAt\":1588363083334,\"profile\":{\"country\":\"CN\",\"location\":\"lichess\",\"bio\":\"Hi\"},\"seenAt\":1614216065976,\"playTime\":{\"total\":15071,\"tv\":445},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/JunQiLiang\",\"playing\":\"https://lichess.org/kQylLMaY/white\",\"nbFollowing\":29,\"nbFollowers\":12,\"completionRate\":100,\"count\":{\"all\":198,\"rated\":9,\"ai\":33,\"draw\":7,\"drawH\":4,\"loss\":109,\"lossH\":97,\"win\":82,\"winH\":64,\"bookmark\":10,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "junqiliang",
+    "username": "JunQiLiang",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1081,
+        "rd": 363,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 919,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1044,
+        "rd": 260,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1659,
+        "rd": 378,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 4,
+        "rating": 1233,
+        "rd": 238,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1433,
+        "rd": 330,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1160,
+        "rd": 255,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 1,
+        "score": 3
+      }
+    },
+    "createdAt": 1588363083334,
+    "profile": {
+      "country": "CN",
+      "location": "lichess",
+      "bio": "Hi"
+    },
+    "seenAt": 1614216065976,
+    "playTime": {
+      "total": 15071,
+      "tv": 445
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/JunQiLiang",
+    "playing": "https://lichess.org/kQylLMaY/white",
+    "nbFollowing": 29,
+    "nbFollowers": 12,
+    "completionRate": 100,
+    "count": {
+      "all": 198,
+      "rated": 9,
+      "ai": 33,
+      "draw": 7,
+      "drawH": 4,
+      "loss": 109,
+      "lossH": 97,
+      "win": 82,
+      "winH": 64,
+      "bookmark": 10,
+      "playing": 4,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
