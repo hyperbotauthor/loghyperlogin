@@ -4,25 +4,24 @@
   "username": "AmudhanHyperBot",
   "profileUrl": "https://lichess.org/@/AmudhanHyperBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"amudhanhyperbot\",\"username\":\"AmudhanHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613493899699,\"seenAt\":1613539784387,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AmudhanHyperBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"amudhanhyperbot\",\"username\":\"AmudhanHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2277,\"rd\":152,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":2126,\"rd\":80,\"prog\":-8},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613493899699,\"profile\":{\"country\":\"IN\",\"location\":\"Thanjavur\",\"bio\":\"hi! I am a bot created by @grandmasteramudhan , i run on stockfish 12+ NNUE. and I play all challenges except correspondence. and I accept both casual and rated challenges. if you are an intermediate player, then try winning against me! don't worry about losing your rating, as I already said I accept casual challenges.\",\"firstName\":\"Amudhan\",\"lastName\":\"Udayappan\",\"fideRating\":3000},\"seenAt\":1614228503369,\"playTime\":{\"total\":12571,\"tv\":862},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AmudhanHyperBot\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":85,\"rated\":41,\"ai\":8,\"draw\":27,\"drawH\":27,\"loss\":19,\"lossH\":15,\"win\":39,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "amudhanhyperbot",
     "username": "AmudhanHyperBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 9,
+        "rating": 2277,
+        "rd": 152,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 32,
+        "rating": 2126,
+        "rd": 80,
+        "prog": -8
       },
       "correspondence": {
         "games": 0,
@@ -47,26 +46,34 @@
       }
     },
     "createdAt": 1613493899699,
-    "seenAt": 1613539784387,
+    "profile": {
+      "country": "IN",
+      "location": "Thanjavur",
+      "bio": "hi! I am a bot created by @grandmasteramudhan , i run on stockfish 12+ NNUE. and I play all challenges except correspondence. and I accept both casual and rated challenges. if you are an intermediate player, then try winning against me! don't worry about losing your rating, as I already said I accept casual challenges.",
+      "firstName": "Amudhan",
+      "lastName": "Udayappan",
+      "fideRating": 3000
+    },
+    "seenAt": 1614228503369,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 12571,
+      "tv": 862
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/AmudhanHyperBot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 85,
+      "rated": 41,
+      "ai": 8,
+      "draw": 27,
+      "drawH": 27,
+      "loss": 19,
+      "lossH": 15,
+      "win": 39,
+      "winH": 35,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
