@@ -1,0 +1,123 @@
+{
+  "id": "uwspruill",
+  "displayName": "UWspruill",
+  "username": "UWspruill",
+  "profileUrl": "https://lichess.org/@/UWspruill",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"uwspruill\",\"username\":\"UWspruill\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1328,\"rd\":304,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1741,\"rd\":403,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":29,\"rating\":1092,\"rd\":103,\"prog\":0},\"blitz\":{\"games\":138,\"rating\":1269,\"rd\":45,\"prog\":11},\"kingOfTheHill\":{\"games\":15,\"rating\":1459,\"rd\":105,\"prog\":-77},\"crazyhouse\":{\"games\":12,\"rating\":1385,\"rd\":147,\"prog\":25,\"prov\":true},\"threeCheck\":{\"games\":15,\"rating\":1373,\"rd\":128,\"prog\":19,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1374,\"rd\":337,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1243,\"rd\":298,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":1227,\"rd\":91,\"prog\":-7},\"storm\":{\"runs\":2,\"score\":4}},\"createdAt\":1600192050030,\"seenAt\":1614267023128,\"playTime\":{\"total\":68824,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/UWspruill\",\"nbFollowing\":0,\"nbFollowers\":3,\"completionRate\":77,\"count\":{\"all\":370,\"rated\":207,\"ai\":83,\"draw\":22,\"drawH\":20,\"loss\":153,\"lossH\":124,\"win\":195,\"winH\":143,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "uwspruill",
+    "username": "UWspruill",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1328,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 403,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 29,
+        "rating": 1092,
+        "rd": 103,
+        "prog": 0
+      },
+      "blitz": {
+        "games": 138,
+        "rating": 1269,
+        "rd": 45,
+        "prog": 11
+      },
+      "kingOfTheHill": {
+        "games": 15,
+        "rating": 1459,
+        "rd": 105,
+        "prog": -77
+      },
+      "crazyhouse": {
+        "games": 12,
+        "rating": 1385,
+        "rd": 147,
+        "prog": 25,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 15,
+        "rating": 1373,
+        "rd": 128,
+        "prog": 19,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1374,
+        "rd": 337,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1243,
+        "rd": 298,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 23,
+        "rating": 1227,
+        "rd": 91,
+        "prog": -7
+      },
+      "storm": {
+        "runs": 2,
+        "score": 4
+      }
+    },
+    "createdAt": 1600192050030,
+    "seenAt": 1614267023128,
+    "playTime": {
+      "total": 68824,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/UWspruill",
+    "nbFollowing": 0,
+    "nbFollowers": 3,
+    "completionRate": 77,
+    "count": {
+      "all": 370,
+      "rated": 207,
+      "ai": 83,
+      "draw": 22,
+      "drawH": 20,
+      "loss": 153,
+      "lossH": 124,
+      "win": 195,
+      "winH": 143,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
