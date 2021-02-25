@@ -4,7 +4,7 @@
   "username": "SathyaKarthik",
   "profileUrl": "https://lichess.org/@/SathyaKarthik",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sathyakarthik\",\"username\":\"SathyaKarthik\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1099,\"rd\":285,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":31,\"rating\":927,\"rd\":95,\"prog\":75},\"atomic\":{\"games\":38,\"rating\":715,\"rd\":110,\"prog\":-88,\"prov\":true},\"racingKings\":{\"games\":40,\"rating\":1275,\"rd\":85,\"prog\":-21},\"ultraBullet\":{\"games\":68,\"rating\":984,\"rd\":79,\"prog\":26},\"blitz\":{\"games\":112,\"rating\":1093,\"rd\":49,\"prog\":74},\"kingOfTheHill\":{\"games\":17,\"rating\":1203,\"rd\":134,\"prog\":-30,\"prov\":true},\"crazyhouse\":{\"games\":17,\"rating\":970,\"rd\":137,\"prog\":-66,\"prov\":true},\"threeCheck\":{\"games\":46,\"rating\":1197,\"rd\":79,\"prog\":-58},\"bullet\":{\"games\":162,\"rating\":1102,\"rd\":46,\"prog\":14},\"correspondence\":{\"games\":11,\"rating\":1127,\"rd\":154,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":659,\"rd\":296,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":605,\"rating\":1375,\"rd\":80,\"prog\":0},\"classical\":{\"games\":17,\"rating\":1334,\"rd\":113,\"prog\":-72,\"prov\":true},\"rapid\":{\"games\":63,\"rating\":943,\"rd\":63,\"prog\":-7},\"storm\":{\"runs\":3,\"score\":12}},\"createdAt\":1605518308870,\"profile\":{\"country\":\"IN\",\"location\":\"HYDERABAD\",\"bio\":\"My name is SathyaKarthik. I like to play chess and I like winning games in less moves. Pls follow my bot @SathyaKarthik_1234. Who will follow him, he will follow them back. My favorite openings are the Queen's Gambit , The King's Gambit and The Sicilian Defense.\",\"firstName\":\"Sathya Karthik\",\"lastName\":\"Jandhyala\",\"links\":\"https://lichess.org/team/sathyakarthiks-chess-team\\r\\nhttps://lichess.org/@/SathyaKarthik\\r\\nhttps://lichess.org/@/SathyaKarthik_1234\\r\\nhttps://www.chess.com/member/sathyakarthik\"},\"seenAt\":1614090369757,\"playTime\":{\"total\":75675,\"tv\":461},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/SathyaKarthik\",\"nbFollowing\":243,\"nbFollowers\":56,\"completionRate\":87,\"count\":{\"all\":867,\"rated\":634,\"ai\":42,\"draw\":39,\"drawH\":36,\"loss\":602,\"lossH\":577,\"win\":226,\"winH\":212,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sathyakarthik\",\"username\":\"SathyaKarthik\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1099,\"rd\":285,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":31,\"rating\":927,\"rd\":95,\"prog\":75},\"atomic\":{\"games\":38,\"rating\":715,\"rd\":111,\"prog\":-88,\"prov\":true},\"racingKings\":{\"games\":40,\"rating\":1275,\"rd\":86,\"prog\":-21},\"ultraBullet\":{\"games\":68,\"rating\":984,\"rd\":79,\"prog\":26},\"blitz\":{\"games\":118,\"rating\":1086,\"rd\":49,\"prog\":15},\"kingOfTheHill\":{\"games\":17,\"rating\":1203,\"rd\":134,\"prog\":-30,\"prov\":true},\"crazyhouse\":{\"games\":17,\"rating\":970,\"rd\":138,\"prog\":-66,\"prov\":true},\"threeCheck\":{\"games\":46,\"rating\":1197,\"rd\":80,\"prog\":-58},\"bullet\":{\"games\":170,\"rating\":1091,\"rd\":45,\"prog\":-7},\"correspondence\":{\"games\":11,\"rating\":1127,\"rd\":154,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":659,\"rd\":296,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":613,\"rating\":1289,\"rd\":78,\"prog\":0},\"classical\":{\"games\":17,\"rating\":1334,\"rd\":114,\"prog\":-72,\"prov\":true},\"rapid\":{\"games\":64,\"rating\":928,\"rd\":63,\"prog\":-23},\"storm\":{\"runs\":3,\"score\":12}},\"createdAt\":1605518308870,\"profile\":{\"country\":\"IN\",\"location\":\"HYDERABAD\",\"bio\":\"My name is SathyaKarthik. I like to play chess and I like winning games in less moves. Pls follow my bot @SathyaKarthik_1234. Who will follow him, he will follow them back. My favorite openings are the Queen's Gambit , The King's Gambit and The Sicilian Defense.\",\"firstName\":\"Sathya Karthik\",\"lastName\":\"Jandhyala\",\"links\":\"https://lichess.org/team/sathyakarthiks-chess-team\\r\\nhttps://lichess.org/@/SathyaKarthik\\r\\nhttps://lichess.org/@/SathyaKarthik_1234\\r\\nhttps://www.chess.com/member/sathyakarthik\"},\"seenAt\":1614243556803,\"playTime\":{\"total\":76809,\"tv\":461},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/SathyaKarthik\",\"playing\":\"https://lichess.org/l5Cp9TSv/black\",\"nbFollowing\":249,\"nbFollowers\":55,\"completionRate\":73,\"count\":{\"all\":883,\"rated\":649,\"ai\":43,\"draw\":41,\"drawH\":38,\"loss\":613,\"lossH\":587,\"win\":229,\"winH\":215,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sathyakarthik",
     "username": "SathyaKarthik",
@@ -26,14 +26,14 @@
       "atomic": {
         "games": 38,
         "rating": 715,
-        "rd": 110,
+        "rd": 111,
         "prog": -88,
         "prov": true
       },
       "racingKings": {
         "games": 40,
         "rating": 1275,
-        "rd": 85,
+        "rd": 86,
         "prog": -21
       },
       "ultraBullet": {
@@ -43,10 +43,10 @@
         "prog": 26
       },
       "blitz": {
-        "games": 112,
-        "rating": 1093,
+        "games": 118,
+        "rating": 1086,
         "rd": 49,
-        "prog": 74
+        "prog": 15
       },
       "kingOfTheHill": {
         "games": 17,
@@ -58,21 +58,21 @@
       "crazyhouse": {
         "games": 17,
         "rating": 970,
-        "rd": 137,
+        "rd": 138,
         "prog": -66,
         "prov": true
       },
       "threeCheck": {
         "games": 46,
         "rating": 1197,
-        "rd": 79,
+        "rd": 80,
         "prog": -58
       },
       "bullet": {
-        "games": 162,
-        "rating": 1102,
-        "rd": 46,
-        "prog": 14
+        "games": 170,
+        "rating": 1091,
+        "rd": 45,
+        "prog": -7
       },
       "correspondence": {
         "games": 11,
@@ -89,23 +89,23 @@
         "prov": true
       },
       "puzzle": {
-        "games": 605,
-        "rating": 1375,
-        "rd": 80,
+        "games": 613,
+        "rating": 1289,
+        "rd": 78,
         "prog": 0
       },
       "classical": {
         "games": 17,
         "rating": 1334,
-        "rd": 113,
+        "rd": 114,
         "prog": -72,
         "prov": true
       },
       "rapid": {
-        "games": 63,
-        "rating": 943,
+        "games": 64,
+        "rating": 928,
         "rd": 63,
-        "prog": -7
+        "prog": -23
       },
       "storm": {
         "runs": 3,
@@ -121,28 +121,29 @@
       "lastName": "Jandhyala",
       "links": "https://lichess.org/team/sathyakarthiks-chess-team\r\nhttps://lichess.org/@/SathyaKarthik\r\nhttps://lichess.org/@/SathyaKarthik_1234\r\nhttps://www.chess.com/member/sathyakarthik"
     },
-    "seenAt": 1614090369757,
+    "seenAt": 1614243556803,
     "playTime": {
-      "total": 75675,
+      "total": 76809,
       "tv": 461
     },
     "language": "en-US",
     "url": "https://lichess.org/@/SathyaKarthik",
-    "nbFollowing": 243,
-    "nbFollowers": 56,
-    "completionRate": 87,
+    "playing": "https://lichess.org/l5Cp9TSv/black",
+    "nbFollowing": 249,
+    "nbFollowers": 55,
+    "completionRate": 73,
     "count": {
-      "all": 867,
-      "rated": 634,
-      "ai": 42,
-      "draw": 39,
-      "drawH": 36,
-      "loss": 602,
-      "lossH": 577,
-      "win": 226,
-      "winH": 212,
+      "all": 883,
+      "rated": 649,
+      "ai": 43,
+      "draw": 41,
+      "drawH": 38,
+      "loss": 613,
+      "lossH": 587,
+      "win": 229,
+      "winH": 215,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
