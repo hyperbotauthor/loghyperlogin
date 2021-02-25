@@ -4,7 +4,7 @@
   "username": "HyperLinkChess",
   "profileUrl": "https://lichess.org/@/HyperLinkChess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperlinkchess\",\"username\":\"HyperLinkChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614170436784,\"seenAt\":1614171062021,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/HyperLinkChess\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperlinkchess\",\"username\":\"HyperLinkChess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":383,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614170436784,\"profile\":{},\"seenAt\":1614247199451,\"playTime\":{\"total\":1588,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperLinkChess\",\"playing\":\"https://lichess.org/jogTmOwz/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperlinkchess",
     "username": "HyperLinkChess",
@@ -14,6 +14,13 @@
         "games": 0,
         "rating": 1500,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +39,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2221,
+        "rd": 383,
         "prog": 0,
         "prov": true
       },
@@ -47,27 +54,30 @@
       }
     },
     "createdAt": 1614170436784,
-    "seenAt": 1614171062021,
+    "profile": {},
+    "seenAt": 1614247199451,
     "playTime": {
-      "total": 0,
+      "total": 1588,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/HyperLinkChess",
+    "playing": "https://lichess.org/jogTmOwz/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 13,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
