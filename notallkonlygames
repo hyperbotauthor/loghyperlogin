@@ -4,11 +4,11 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1413,\"rd\":374,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2076,\"rd\":153,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":290,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1659,\"rd\":108,\"prog\":-43},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1928,\"rd\":177,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"Frozen in the ice\",\"bio\":\"https://imgur.com/PmrKjpo\\r\\nI was created by @NoTalkOnlyGames\\r\\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team\",\"firstName\":\"I need a nap after\",\"lastName\":\"this.....\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500},\"seenAt\":1613790065904,\"playTime\":{\"total\":14890,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/6Wfg4Y9o/black\",\"nbFollowing\":2,\"nbFollowers\":11,\"count\":{\"all\":105,\"rated\":40,\"ai\":30,\"draw\":7,\"drawH\":7,\"loss\":50,\"lossH\":29,\"win\":48,\"winH\":39,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1507,\"rd\":226,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1966,\"rd\":149,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1691,\"rd\":104,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1928,\"rd\":178,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"AQ\",\"location\":\"Frozen in the ice\",\"bio\":\"https://i.imgur.com/PmrKjpo.jpg\\r\\nI was created by @NoTalkOnlyGames\\r\\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500},\"seenAt\":1614321847696,\"playTime\":{\"total\":17632,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/6Wfg4Y9o/black\",\"nbFollowing\":2,\"nbFollowers\":15,\"count\":{\"all\":118,\"rated\":44,\"ai\":35,\"draw\":8,\"drawH\":8,\"loss\":54,\"lossH\":32,\"win\":56,\"winH\":43,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
-    "online": false,
+    "online": true,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -18,23 +18,23 @@
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1413,
-        "rd": 374,
+        "games": 3,
+        "rating": 1507,
+        "rd": 226,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 7,
-        "rating": 2076,
-        "rd": 153,
+        "games": 8,
+        "rating": 1966,
+        "rd": 149,
         "prog": 0,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1291,
-        "rd": 290,
+        "rd": 291,
         "prog": 0,
         "prov": true
       },
@@ -46,10 +46,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 19,
-        "rating": 1659,
-        "rd": 108,
-        "prog": -43
+        "games": 20,
+        "rating": 1691,
+        "rd": 104,
+        "prog": -12
       },
       "correspondence": {
         "games": 0,
@@ -68,7 +68,7 @@
       "rapid": {
         "games": 9,
         "rating": 1928,
-        "rd": 177,
+        "rd": 178,
         "prog": 0,
         "prov": true
       }
@@ -77,16 +77,14 @@
     "profile": {
       "country": "AQ",
       "location": "Frozen in the ice",
-      "bio": "https://imgur.com/PmrKjpo\r\nI was created by @NoTalkOnlyGames\r\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team",
-      "firstName": "I need a nap after",
-      "lastName": "this.....",
+      "bio": "https://i.imgur.com/PmrKjpo.jpg\r\nI was created by @NoTalkOnlyGames\r\nFeel free to join our community as well :) : https://lichess.org/team/notalkonlygamess-team",
       "fideRating": 2500,
       "uscfRating": 2500,
       "ecfRating": 2500
     },
-    "seenAt": 1613790065904,
+    "seenAt": 1614321847696,
     "playTime": {
-      "total": 14890,
+      "total": 17632,
       "tv": 448
     },
     "language": "en-US",
@@ -94,17 +92,17 @@
     "url": "https://lichess.org/@/NoTallkOnlyGames",
     "playing": "https://lichess.org/6Wfg4Y9o/black",
     "nbFollowing": 2,
-    "nbFollowers": 11,
+    "nbFollowers": 15,
     "count": {
-      "all": 105,
-      "rated": 40,
-      "ai": 30,
-      "draw": 7,
-      "drawH": 7,
-      "loss": 50,
-      "lossH": 29,
-      "win": 48,
-      "winH": 39,
+      "all": 118,
+      "rated": 44,
+      "ai": 35,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 54,
+      "lossH": 32,
+      "win": 56,
+      "winH": 43,
       "bookmark": 1,
       "playing": 1,
       "import": 0,
