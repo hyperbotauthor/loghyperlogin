@@ -4,30 +4,30 @@
   "username": "Thegreatestchess_bot",
   "profileUrl": "https://lichess.org/@/Thegreatestchess_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2458,\"rd\":286,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2490,\"rd\":215,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2626,\"rd\":320,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz\"},\"seenAt\":1612121418288,\"playTime\":{\"total\":15640,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"playing\":\"https://lichess.org/ctiKsBqk/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":32,\"rated\":13,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":14,\"lossH\":14,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatestchess_bot\",\"username\":\"Thegreatestchess_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2477,\"rd\":276,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":2181,\"rd\":460,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2490,\"rd\":218,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2720,\"rd\":256,\"prog\":0,\"prov\":true}},\"createdAt\":1611351005077,\"profile\":{\"bio\":\"I accept all challenges! Challenge me! Please don't challenge bullet that is slower than 1+2 or 2+1, Unless you want to play casual. Uses stockfish 12\"},\"seenAt\":1614297737282,\"playTime\":{\"total\":17755,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thegreatestchess_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":39,\"rated\":17,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":16,\"lossH\":16,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatestchess_bot",
     "username": "Thegreatestchess_bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 2458,
-        "rd": 286,
+        "games": 4,
+        "rating": 2477,
+        "rd": 276,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 1,
-        "rating": 1481,
-        "rd": 474,
+        "games": 2,
+        "rating": 2181,
+        "rd": 460,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 6,
         "rating": 2490,
-        "rd": 215,
+        "rd": 218,
         "prog": 0,
         "prov": true
       },
@@ -46,40 +46,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2626,
-        "rd": 320,
+        "games": 4,
+        "rating": 2720,
+        "rd": 256,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1611351005077,
     "profile": {
-      "bio": "I accept all challenges! Challenge me! Note: won't accept bullet due to crashes, will Accept slower blitz"
+      "bio": "I accept all challenges! Challenge me! Please don't challenge bullet that is slower than 1+2 or 2+1, Unless you want to play casual. Uses stockfish 12"
     },
-    "seenAt": 1612121418288,
+    "seenAt": 1614297737282,
     "playTime": {
-      "total": 15640,
+      "total": 17755,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Thegreatestchess_bot",
-    "playing": "https://lichess.org/ctiKsBqk/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 32,
-      "rated": 13,
+      "all": 39,
+      "rated": 17,
       "ai": 0,
       "draw": 3,
       "drawH": 3,
-      "loss": 14,
-      "lossH": 14,
-      "win": 15,
-      "winH": 15,
+      "loss": 16,
+      "lossH": 16,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
