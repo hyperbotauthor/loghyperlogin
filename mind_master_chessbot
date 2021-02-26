@@ -4,7 +4,7 @@
   "username": "Mind_Master_chessbot",
   "profileUrl": "https://lichess.org/@/Mind_Master_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1907,\"rd\":216,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1825,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1746,\"rd\":288,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2075,\"rd\":221,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"profile\":{\"country\":\"US\",\"location\":\"Michigan\",\"bio\":\"Mind_Master_chessbot running on stockfish lv.12\\r\\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot\"},\"seenAt\":1614256367703,\"playTime\":{\"total\":3143,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":2,\"nbFollowers\":11,\"count\":{\"all\":15,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1907,\"rd\":216,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1673,\"rd\":300,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1825,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1928,\"rd\":179,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2097,\"rd\":209,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"profile\":{\"country\":\"US\",\"location\":\"Michigan\",\"bio\":\"Mind_Master_chessbot running on stockfish lv.12\\r\\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot\"},\"seenAt\":1614340676477,\"playTime\":{\"total\":4333,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":2,\"nbFollowers\":12,\"count\":{\"all\":22,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mind_master_chessbot",
     "username": "Mind_Master_chessbot",
@@ -17,6 +17,13 @@
         "prog": 0,
         "prov": true
       },
+      "antichess": {
+        "games": 1,
+        "rating": 1673,
+        "rd": 300,
+        "prog": 0,
+        "prov": true
+      },
       "racingKings": {
         "games": 1,
         "rating": 1825,
@@ -25,9 +32,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1746,
-        "rd": 288,
+        "games": 5,
+        "rating": 1928,
+        "rd": 179,
         "prog": 0,
         "prov": true
       },
@@ -46,9 +53,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2075,
-        "rd": 221,
+        "games": 5,
+        "rating": 2097,
+        "rd": 209,
         "prog": 0,
         "prov": true
       }
@@ -59,26 +66,26 @@
       "location": "Michigan",
       "bio": "Mind_Master_chessbot running on stockfish lv.12\r\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot"
     },
-    "seenAt": 1614256367703,
+    "seenAt": 1614340676477,
     "playTime": {
-      "total": 3143,
+      "total": 4333,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Mind_Master_chessbot",
     "nbFollowing": 2,
-    "nbFollowers": 11,
+    "nbFollowers": 12,
     "count": {
-      "all": 15,
-      "rated": 10,
+      "all": 22,
+      "rated": 16,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 15,
-      "winH": 15,
+      "win": 22,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
