@@ -1,0 +1,90 @@
+{
+  "id": "yankiyanik_bot",
+  "displayName": "YankiYanik_Bot",
+  "username": "YankiYanik_Bot",
+  "profileUrl": "https://lichess.org/@/YankiYanik_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"yankiyanik_bot\",\"username\":\"YankiYanik_Bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":1820,\"rd\":97,\"prog\":-136},\"atomic\":{\"games\":1,\"rating\":1493,\"rd\":350,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":1593,\"rd\":80,\"prog\":-227},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1452,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1595259353891,\"profile\":{\"country\":\"TR\",\"bio\":\"Yankı Yanık is create me.\"},\"seenAt\":1614338908314,\"playTime\":{\"total\":9814,\"tv\":4177},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/YankiYanik_Bot\",\"nbFollowing\":2,\"nbFollowers\":6,\"count\":{\"all\":61,\"rated\":60,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":39,\"lossH\":38,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "yankiyanik_bot",
+    "username": "YankiYanik_Bot",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 26,
+        "rating": 1820,
+        "rd": 97,
+        "prog": -136
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1493,
+        "rd": 350,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 31,
+        "rating": 1593,
+        "rd": 80,
+        "prog": -227
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1452,
+        "rd": 312,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1595259353891,
+    "profile": {
+      "country": "TR",
+      "bio": "Yankı Yanık is create me."
+    },
+    "seenAt": 1614338908314,
+    "playTime": {
+      "total": 9814,
+      "tv": 4177
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/YankiYanik_Bot",
+    "nbFollowing": 2,
+    "nbFollowers": 6,
+    "count": {
+      "all": 61,
+      "rated": 60,
+      "ai": 1,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 39,
+      "lossH": 38,
+      "win": 18,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
