@@ -4,7 +4,7 @@
   "username": "Google-BOT",
   "profileUrl": "https://lichess.org/@/Google-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"google-bot\",\"username\":\"Google-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2573,\"rd\":158,\"prog\":64,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2047,\"rd\":347,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606925311499,\"profile\":{\"bio\":\"https://lichess.org/IEbgyC09\"},\"seenAt\":1614430876777,\"playTime\":{\"total\":12835,\"tv\":3002},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Google-BOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":56,\"rated\":31,\"ai\":13,\"draw\":4,\"drawH\":0,\"loss\":13,\"lossH\":7,\"win\":39,\"winH\":36,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"google-bot\",\"username\":\"Google-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2573,\"rd\":158,\"prog\":64,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2047,\"rd\":347,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606925311499,\"profile\":{\"bio\":\"https://lichess.org/IEbgyC09\"},\"seenAt\":1614457089357,\"playTime\":{\"total\":14643,\"tv\":3002},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Google-BOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":61,\"rated\":31,\"ai\":13,\"draw\":4,\"drawH\":0,\"loss\":17,\"lossH\":11,\"win\":40,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "google-bot",
     "username": "Google-BOT",
@@ -50,9 +50,9 @@
     "profile": {
       "bio": "https://lichess.org/IEbgyC09"
     },
-    "seenAt": 1614430876777,
+    "seenAt": 1614457089357,
     "playTime": {
-      "total": 12835,
+      "total": 14643,
       "tv": 3002
     },
     "language": "tr-TR",
@@ -61,15 +61,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 56,
+      "all": 61,
       "rated": 31,
       "ai": 13,
       "draw": 4,
       "drawH": 0,
-      "loss": 13,
-      "lossH": 7,
-      "win": 39,
-      "winH": 36,
+      "loss": 17,
+      "lossH": 11,
+      "win": 40,
+      "winH": 37,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
