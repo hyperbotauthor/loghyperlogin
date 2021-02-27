@@ -4,16 +4,16 @@
   "username": "Snake_BOT",
   "profileUrl": "https://lichess.org/@/Snake_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"snake_bot\",\"username\":\"Snake_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2413,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614253083032,\"profile\":{\"country\":\"AQ\",\"bio\":\"Only blitz! DM me if you want to play me!\",\"fideRating\":3000},\"seenAt\":1614255408989,\"playTime\":{\"total\":1404,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Snake_BOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"snake_bot\",\"username\":\"Snake_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2130,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614253083032,\"profile\":{\"country\":\"AQ\",\"bio\":\"Only blitz! DM me if you want to play me!\",\"fideRating\":3000},\"seenAt\":1614429593989,\"playTime\":{\"total\":1981,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Snake_BOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":7,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "snake_bot",
     "username": "Snake_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 2413,
-        "rd": 242,
+        "games": 6,
+        "rating": 2130,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
@@ -52,9 +52,9 @@
       "bio": "Only blitz! DM me if you want to play me!",
       "fideRating": 3000
     },
-    "seenAt": 1614255408989,
+    "seenAt": 1614429593989,
     "playTime": {
-      "total": 1404,
+      "total": 1981,
       "tv": 0
     },
     "language": "en-GB",
@@ -63,15 +63,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 5,
-      "rated": 4,
+      "all": 8,
+      "rated": 7,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 0,
-      "lossH": 0,
-      "win": 4,
-      "winH": 4,
+      "loss": 2,
+      "lossH": 2,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
