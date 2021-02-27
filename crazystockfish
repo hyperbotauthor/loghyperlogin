@@ -4,16 +4,16 @@
   "username": "CrazyStockfish",
   "profileUrl": "https://lichess.org/@/CrazyStockfish",
   "provider": "lichess",
-  "_raw": "{\"id\":\"crazystockfish\",\"username\":\"CrazyStockfish\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1770,\"rd\":290,\"prog\":0,\"prov\":true}},\"createdAt\":1612104631935,\"seenAt\":1612181548274,\"playTime\":{\"total\":2630,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CrazyStockfish\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":5,\"rated\":1,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":1,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"crazystockfish\",\"username\":\"CrazyStockfish\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1105,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1770,\"rd\":293,\"prog\":0,\"prov\":true}},\"createdAt\":1612104631935,\"seenAt\":1614446298974,\"playTime\":{\"total\":6485,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CrazyStockfish\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":28,\"rated\":2,\"ai\":21,\"draw\":2,\"drawH\":1,\"loss\":24,\"lossH\":4,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "crazystockfish",
     "username": "CrazyStockfish",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1105,
+        "rd": 345,
         "prog": 0,
         "prov": true
       },
@@ -41,30 +41,30 @@
       "rapid": {
         "games": 1,
         "rating": 1770,
-        "rd": 290,
+        "rd": 293,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1612104631935,
-    "seenAt": 1612181548274,
+    "seenAt": 1614446298974,
     "playTime": {
-      "total": 2630,
+      "total": 6485,
       "tv": 0
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/CrazyStockfish",
-    "nbFollowing": 1,
-    "nbFollowers": 2,
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 5,
-      "rated": 1,
-      "ai": 1,
-      "draw": 1,
+      "all": 28,
+      "rated": 2,
+      "ai": 21,
+      "draw": 2,
       "drawH": 1,
-      "loss": 2,
-      "lossH": 1,
+      "loss": 24,
+      "lossH": 4,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
