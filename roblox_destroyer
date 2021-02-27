@@ -1,0 +1,88 @@
+{
+  "id": "roblox_destroyer",
+  "displayName": "ROBLOX_Destroyer",
+  "username": "ROBLOX_Destroyer",
+  "profileUrl": "https://lichess.org/@/ROBLOX_Destroyer",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"roblox_destroyer\",\"username\":\"ROBLOX_Destroyer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2221,\"rd\":424,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2213,\"rd\":442,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614309429197,\"profile\":{\"country\":\"DE\",\"bio\":\"S.O.S. 5.1 engine, very aggressive engine who likes to push pawns. Rated 2572 according to the CCRL.\",\"firstName\":\"S.O.S\",\"lastName\":\"5.1\",\"fideRating\":2572},\"seenAt\":1614444386721,\"playTime\":{\"total\":1782,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ROBLOX_Destroyer\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":2,\"ai\":4,\"draw\":2,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "roblox_destroyer",
+    "username": "ROBLOX_Destroyer",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2221,
+        "rd": 424,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 2213,
+        "rd": 442,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1614309429197,
+    "profile": {
+      "country": "DE",
+      "bio": "S.O.S. 5.1 engine, very aggressive engine who likes to push pawns. Rated 2572 according to the CCRL.",
+      "firstName": "S.O.S",
+      "lastName": "5.1",
+      "fideRating": 2572
+    },
+    "seenAt": 1614444386721,
+    "playTime": {
+      "total": 1782,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ROBLOX_Destroyer",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 6,
+      "rated": 2,
+      "ai": 4,
+      "draw": 2,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 0,
+      "win": 3,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
