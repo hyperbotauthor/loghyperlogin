@@ -4,7 +4,7 @@
   "username": "AmudhanHyperBot",
   "profileUrl": "https://lichess.org/@/AmudhanHyperBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"amudhanhyperbot\",\"username\":\"AmudhanHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2277,\"rd\":152,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":2126,\"rd\":80,\"prog\":-8},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613493899699,\"profile\":{\"country\":\"IN\",\"location\":\"Thanjavur\",\"bio\":\"hi! I am a bot created by @grandmasteramudhan , i run on stockfish 12+ NNUE. and I play all challenges except correspondence. and I accept both casual and rated challenges. if you are an intermediate player, then try winning against me! don't worry about losing your rating, as I already said I accept casual challenges.\",\"firstName\":\"Amudhan\",\"lastName\":\"Udayappan\",\"fideRating\":3000},\"seenAt\":1614228503369,\"playTime\":{\"total\":12571,\"tv\":862},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AmudhanHyperBot\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":85,\"rated\":41,\"ai\":8,\"draw\":27,\"drawH\":27,\"loss\":19,\"lossH\":15,\"win\":39,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"amudhanhyperbot\",\"username\":\"AmudhanHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2277,\"rd\":152,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2128,\"rd\":80,\"prog\":-14},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613493899699,\"profile\":{\"country\":\"IN\",\"location\":\"Thanjavur\",\"bio\":\"hi! I am a bot created by @grandmasteramudhan , i run on stockfish 12+ NNUE. and I play all challenges except correspondence. and I accept both casual and rated challenges. if you are an intermediate player, then try winning against me! don't worry about losing your rating, as I already said I accept casual challenges.\",\"firstName\":\"Amudhan\",\"lastName\":\"Udayappan\",\"fideRating\":3000},\"seenAt\":1614425153083,\"playTime\":{\"total\":13131,\"tv\":1082},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AmudhanHyperBot\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":98,\"rated\":43,\"ai\":8,\"draw\":28,\"drawH\":28,\"loss\":20,\"lossH\":16,\"win\":50,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "amudhanhyperbot",
     "username": "AmudhanHyperBot",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 32,
-        "rating": 2126,
+        "games": 34,
+        "rating": 2128,
         "rd": 80,
-        "prog": -8
+        "prog": -14
       },
       "correspondence": {
         "games": 0,
@@ -54,10 +54,10 @@
       "lastName": "Udayappan",
       "fideRating": 3000
     },
-    "seenAt": 1614228503369,
+    "seenAt": 1614425153083,
     "playTime": {
-      "total": 12571,
-      "tv": 862
+      "total": 13131,
+      "tv": 1082
     },
     "language": "en-GB",
     "title": "BOT",
@@ -65,15 +65,15 @@
     "nbFollowing": 2,
     "nbFollowers": 1,
     "count": {
-      "all": 85,
-      "rated": 41,
+      "all": 98,
+      "rated": 43,
       "ai": 8,
-      "draw": 27,
-      "drawH": 27,
-      "loss": 19,
-      "lossH": 15,
-      "win": 39,
-      "winH": 35,
+      "draw": 28,
+      "drawH": 28,
+      "loss": 20,
+      "lossH": 16,
+      "win": 50,
+      "winH": 46,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
