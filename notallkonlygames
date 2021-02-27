@@ -4,11 +4,11 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1498,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1966,\"rd\":149,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1691,\"rd\":105,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1841,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Self-learning Bot from a MongoDB hosted book, automatically updated with its own games on every server startup.\\r\\nHyper Bot will play like StockFish 12 when more games are played\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500,\"links\":\"Heroku.com\"},\"seenAt\":1614451353137,\"playTime\":{\"total\":44955,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/7eICtnro/black\",\"nbFollowing\":3,\"nbFollowers\":15,\"count\":{\"all\":132,\"rated\":47,\"ai\":43,\"draw\":10,\"drawH\":10,\"loss\":62,\"lossH\":35,\"win\":60,\"winH\":44,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":320,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1498,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1966,\"rd\":149,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1691,\"rd\":105,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1841,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Self-learning Bot from a MongoDB hosted book, automatically updated with its own games on every server startup.\\r\\nHyper Bot will play like StockFish 12 when more games are played.\\r\\nStreamers are welcome to challenge me during there stream ;)\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500,\"links\":\"Heroku.com\"},\"seenAt\":1614466854077,\"playTime\":{\"total\":45131,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/6Wfg4Y9o/black\",\"nbFollowing\":3,\"nbFollowers\":15,\"count\":{\"all\":133,\"rated\":47,\"ai\":44,\"draw\":10,\"drawH\":10,\"loss\":62,\"lossH\":35,\"win\":61,\"winH\":44,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
-    "online": true,
+    "online": false,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -76,35 +76,35 @@
     "createdAt": 1612930350221,
     "profile": {
       "country": "FR",
-      "bio": "Self-learning Bot from a MongoDB hosted book, automatically updated with its own games on every server startup.\r\nHyper Bot will play like StockFish 12 when more games are played",
+      "bio": "Self-learning Bot from a MongoDB hosted book, automatically updated with its own games on every server startup.\r\nHyper Bot will play like StockFish 12 when more games are played.\r\nStreamers are welcome to challenge me during there stream ;)",
       "fideRating": 2500,
       "uscfRating": 2500,
       "ecfRating": 2500,
       "links": "Heroku.com"
     },
-    "seenAt": 1614451353137,
+    "seenAt": 1614466854077,
     "playTime": {
-      "total": 44955,
+      "total": 45131,
       "tv": 448
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
-    "playing": "https://lichess.org/7eICtnro/black",
+    "playing": "https://lichess.org/6Wfg4Y9o/black",
     "nbFollowing": 3,
     "nbFollowers": 15,
     "count": {
-      "all": 132,
+      "all": 133,
       "rated": 47,
-      "ai": 43,
+      "ai": 44,
       "draw": 10,
       "drawH": 10,
       "loss": 62,
       "lossH": 35,
-      "win": 60,
+      "win": 61,
       "winH": 44,
       "bookmark": 1,
-      "playing": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
