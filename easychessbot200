@@ -4,16 +4,16 @@
   "username": "Easychessbot200",
   "profileUrl": "https://lichess.org/@/Easychessbot200",
   "provider": "lichess",
-  "_raw": "{\"id\":\"easychessbot200\",\"username\":\"Easychessbot200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614504118040,\"seenAt\":1614504134158,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Easychessbot200\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"easychessbot200\",\"username\":\"Easychessbot200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1951,\"rd\":294,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614504118040,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \\r\\n\\r\\n@rtd1109 my owner\"},\"seenAt\":1614586251653,\"playTime\":{\"total\":641,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Easychessbot200\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":4,\"rated\":2,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "easychessbot200",
     "username": "Easychessbot200",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1951,
+        "rd": 294,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,30 @@
       }
     },
     "createdAt": 1614504118040,
-    "seenAt": 1614504134158,
+    "profile": {
+      "country": "_lichess",
+      "bio": "https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \r\n\r\n@rtd1109 my owner"
+    },
+    "seenAt": 1614586251653,
     "playTime": {
-      "total": 0,
+      "total": 641,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Easychessbot200",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 3,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 4,
+      "rated": 2,
+      "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
+      "loss": 1,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 3,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
