@@ -4,7 +4,7 @@
   "username": "Peaceful4Life",
   "profileUrl": "https://lichess.org/@/Peaceful4Life",
   "provider": "lichess",
-  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":103,\"prog\":-143},\"blitz\":{\"games\":18,\"rating\":2277,\"rd\":103,\"prog\":143},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":105,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":106,\"prog\":-55},\"bullet\":{\"games\":44,\"rating\":2174,\"rd\":75,\"prog\":62},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1938,\"rd\":192,\"prog\":0,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence!\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614615270615,\"playTime\":{\"total\":52784,\"tv\":1468},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"playing\":\"https://lichess.org/YehqdJ7J/white\",\"nbFollowing\":21,\"nbFollowers\":11,\"count\":{\"all\":218,\"rated\":154,\"ai\":53,\"draw\":19,\"drawH\":13,\"loss\":70,\"lossH\":35,\"win\":129,\"winH\":117,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":103,\"prog\":-143},\"blitz\":{\"games\":18,\"rating\":2277,\"rd\":103,\"prog\":143},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":105,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":106,\"prog\":-55},\"bullet\":{\"games\":44,\"rating\":2174,\"rd\":75,\"prog\":62},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1978,\"rd\":182,\"prog\":17,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence!\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614629397903,\"playTime\":{\"total\":53889,\"tv\":1468},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"playing\":\"https://lichess.org/jngaMKA5/white\",\"nbFollowing\":21,\"nbFollowers\":12,\"count\":{\"all\":220,\"rated\":156,\"ai\":53,\"draw\":19,\"drawH\":13,\"loss\":70,\"lossH\":35,\"win\":131,\"winH\":119,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "peaceful4life",
     "username": "Peaceful4Life",
@@ -55,10 +55,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 10,
-        "rating": 1938,
-        "rd": 192,
-        "prog": 0,
+        "games": 12,
+        "rating": 1978,
+        "rd": 182,
+        "prog": 17,
         "prov": true
       }
     },
@@ -69,27 +69,27 @@
       "firstName": "Peaceful",
       "lastName": "4 Life"
     },
-    "seenAt": 1614615270615,
+    "seenAt": 1614629397903,
     "playTime": {
-      "total": 52784,
+      "total": 53889,
       "tv": 1468
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Peaceful4Life",
-    "playing": "https://lichess.org/YehqdJ7J/white",
+    "playing": "https://lichess.org/jngaMKA5/white",
     "nbFollowing": 21,
-    "nbFollowers": 11,
+    "nbFollowers": 12,
     "count": {
-      "all": 218,
-      "rated": 154,
+      "all": 220,
+      "rated": 156,
       "ai": 53,
       "draw": 19,
       "drawH": 13,
       "loss": 70,
       "lossH": 35,
-      "win": 129,
-      "winH": 117,
+      "win": 131,
+      "winH": 119,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
