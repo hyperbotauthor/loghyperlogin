@@ -4,23 +4,23 @@
   "username": "SirLc0",
   "profileUrl": "https://lichess.org/@/SirLc0",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sirlc0\",\"username\":\"SirLc0\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2354,\"rd\":219,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2058,\"rd\":129,\"prog\":-151,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614159826569,\"profile\":{\"country\":\"FR\",\"location\":\"Changing countries each day\",\"bio\":\"Haha you got clickbaited. I am not an Lc0 bot. I play blitz, bullet, rapid and classical. (You will be able to play variants with me soon, don't worry!)\",\"firstName\":\"Lc0...\",\"lastName\":\"NOT\",\"fideRating\":3000},\"seenAt\":1614256118421,\"playTime\":{\"total\":1602,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SirLc0\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":34,\"rated\":22,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":12,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sirlc0\",\"username\":\"SirLc0\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2139,\"rd\":205,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2058,\"rd\":130,\"prog\":-151,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614159826569,\"profile\":{\"country\":\"FR\",\"location\":\"Changing countries each day\",\"bio\":\"Haha you got clickbaited. I am not an Lc0 bot. I play blitz, bullet, rapid and classical. (You will be able to play variants with me soon, don't worry!)\",\"firstName\":\"Lc0...\",\"lastName\":\"NOT\",\"fideRating\":3000},\"seenAt\":1614594397536,\"playTime\":{\"total\":2086,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SirLc0\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":37,\"rated\":24,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sirlc0",
     "username": "SirLc0",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2354,
-        "rd": 219,
+        "games": 6,
+        "rating": 2139,
+        "rd": 205,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 16,
         "rating": 2058,
-        "rd": 129,
+        "rd": 130,
         "prog": -151,
         "prov": true
       },
@@ -55,9 +55,9 @@
       "lastName": "NOT",
       "fideRating": 3000
     },
-    "seenAt": 1614256118421,
+    "seenAt": 1614594397536,
     "playTime": {
-      "total": 1602,
+      "total": 2086,
       "tv": 0
     },
     "language": "en-GB",
@@ -66,15 +66,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 34,
-      "rated": 22,
+      "all": 37,
+      "rated": 24,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 12,
-      "lossH": 12,
-      "win": 21,
-      "winH": 21,
+      "loss": 14,
+      "lossH": 14,
+      "win": 22,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
