@@ -1,0 +1,83 @@
+{
+  "id": "schachjohnnys",
+  "displayName": "Schachjohnnys",
+  "username": "Schachjohnnys",
+  "profileUrl": "https://lichess.org/@/Schachjohnnys",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"schachjohnnys\",\"username\":\"Schachjohnnys\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2385,\"rd\":288,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1778,\"rd\":108,\"prog\":16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2417,\"rd\":304,\"prog\":0,\"prov\":true}},\"createdAt\":1600707593104,\"profile\":{\"bio\":\"i accept standard and all variants . Follow for follow. My team is https://lichess.org/team/nmpushingpawnsnyc\"},\"seenAt\":1614587698802,\"playTime\":{\"total\":2319,\"tv\":0},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Schachjohnnys\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":29,\"rated\":17,\"ai\":12,\"draw\":3,\"drawH\":3,\"loss\":3,\"lossH\":3,\"win\":23,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "schachjohnnys",
+    "username": "Schachjohnnys",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 2,
+        "rating": 2385,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 13,
+        "rating": 1778,
+        "rd": 108,
+        "prog": 16
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2417,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1600707593104,
+    "profile": {
+      "bio": "i accept standard and all variants . Follow for follow. My team is https://lichess.org/team/nmpushingpawnsnyc"
+    },
+    "seenAt": 1614587698802,
+    "playTime": {
+      "total": 2319,
+      "tv": 0
+    },
+    "language": "de-DE",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Schachjohnnys",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 29,
+      "rated": 17,
+      "ai": 12,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 3,
+      "lossH": 3,
+      "win": 23,
+      "winH": 11,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
