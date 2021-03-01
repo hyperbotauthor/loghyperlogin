@@ -1,0 +1,90 @@
+{
+  "id": "alphazero_beta",
+  "displayName": "Alphazero_beta",
+  "username": "Alphazero_beta",
+  "profileUrl": "https://lichess.org/@/Alphazero_beta",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"alphazero_beta\",\"username\":\"Alphazero_beta\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":21,\"rating\":2239,\"rd\":154,\"prog\":-146,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1802,\"rd\":304,\"prog\":0,\"prov\":true}},\"createdAt\":1600929983508,\"profile\":{\"country\":\"US\",\"location\":\"\\\"\",\"bio\":\"This AlphaZero is programing by deepmind with easychess and this bot is the beta of Alphazero.It is the best bot ever!!!The easychess is very powerfull program.This beta type is mistik do you wanna played like me(AlphaZero)go to the easychess and deepmind!!!It`s programing in the windows 10.But I have a one problem I don't played very fast because it's beta.\",\"firstName\":\"Alphazero\",\"lastName\":\"beta\",\"fideRating\":3000,\"links\":\"https://cdn-images-1.medium.com/max/800/1*G6GDkpfwkIjlqBj5_tGXMg.png\"},\"seenAt\":1614594626706,\"playTime\":{\"total\":27424,\"tv\":14354},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Alphazero_beta\",\"nbFollowing\":3,\"nbFollowers\":18,\"count\":{\"all\":135,\"rated\":22,\"ai\":97,\"draw\":8,\"drawH\":3,\"loss\":34,\"lossH\":14,\"win\":93,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "alphazero_beta",
+    "username": "Alphazero_beta",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 21,
+        "rating": 2239,
+        "rd": 154,
+        "prog": -146,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1802,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1600929983508,
+    "profile": {
+      "country": "US",
+      "location": "\"",
+      "bio": "This AlphaZero is programing by deepmind with easychess and this bot is the beta of Alphazero.It is the best bot ever!!!The easychess is very powerfull program.This beta type is mistik do you wanna played like me(AlphaZero)go to the easychess and deepmind!!!It`s programing in the windows 10.But I have a one problem I don't played very fast because it's beta.",
+      "firstName": "Alphazero",
+      "lastName": "beta",
+      "fideRating": 3000,
+      "links": "https://cdn-images-1.medium.com/max/800/1*G6GDkpfwkIjlqBj5_tGXMg.png"
+    },
+    "seenAt": 1614594626706,
+    "playTime": {
+      "total": 27424,
+      "tv": 14354
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Alphazero_beta",
+    "nbFollowing": 3,
+    "nbFollowers": 18,
+    "count": {
+      "all": 135,
+      "rated": 22,
+      "ai": 97,
+      "draw": 8,
+      "drawH": 3,
+      "loss": 34,
+      "lossH": 14,
+      "win": 93,
+      "winH": 21,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
