@@ -1,0 +1,112 @@
+{
+  "id": "galaxyway",
+  "displayName": "Galaxyway",
+  "username": "Galaxyway",
+  "profileUrl": "https://lichess.org/@/Galaxyway",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"galaxyway\",\"username\":\"Galaxyway\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1456,\"rd\":125,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1635,\"rating\":1936,\"rd\":97,\"prog\":0},\"atomic\":{\"games\":13,\"rating\":1268,\"rd\":120,\"prog\":-20,\"prov\":true},\"ultraBullet\":{\"games\":682,\"rating\":1421,\"rd\":48,\"prog\":-1},\"bullet\":{\"games\":77,\"rating\":1777,\"rd\":62,\"prog\":-86},\"correspondence\":{\"games\":1,\"rating\":1659,\"rd\":389,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":4,\"score\":28}},\"createdAt\":1609333780143,\"profile\":{\"country\":\"_lichess\",\"location\":\"Somewhere\",\"bio\":\"Pranjal Mishra, Helped Creating @betachessbot and I made @SpookyMovingNNUE by myself.\",\"firstName\":\"Play fair\",\"lastName\":\"And win\",\"links\":\"https://ratings.fide.com/profile/33379866\"},\"seenAt\":1614601121253,\"playTime\":{\"total\":76328,\"tv\":1298},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Galaxyway\",\"playing\":\"https://lichess.org/u7NqJcCh/white\",\"nbFollowing\":100,\"nbFollowers\":5,\"completionRate\":97,\"count\":{\"all\":1286,\"rated\":786,\"ai\":307,\"draw\":29,\"drawH\":17,\"loss\":679,\"lossH\":462,\"win\":578,\"winH\":500,\"bookmark\":5,\"playing\":1,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "galaxyway",
+    "username": "Galaxyway",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 9,
+        "rating": 1456,
+        "rd": 125,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1635,
+        "rating": 1936,
+        "rd": 97,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 13,
+        "rating": 1268,
+        "rd": 120,
+        "prog": -20,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 682,
+        "rating": 1421,
+        "rd": 48,
+        "prog": -1
+      },
+      "bullet": {
+        "games": 77,
+        "rating": 1777,
+        "rd": 62,
+        "prog": -86
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1659,
+        "rd": 389,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 4,
+        "score": 28
+      }
+    },
+    "createdAt": 1609333780143,
+    "profile": {
+      "country": "_lichess",
+      "location": "Somewhere",
+      "bio": "Pranjal Mishra, Helped Creating @betachessbot and I made @SpookyMovingNNUE by myself.",
+      "firstName": "Play fair",
+      "lastName": "And win",
+      "links": "https://ratings.fide.com/profile/33379866"
+    },
+    "seenAt": 1614601121253,
+    "playTime": {
+      "total": 76328,
+      "tv": 1298
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Galaxyway",
+    "playing": "https://lichess.org/u7NqJcCh/white",
+    "nbFollowing": 100,
+    "nbFollowers": 5,
+    "completionRate": 97,
+    "count": {
+      "all": 1286,
+      "rated": 786,
+      "ai": 307,
+      "draw": 29,
+      "drawH": 17,
+      "loss": 679,
+      "lossH": 462,
+      "win": 578,
+      "winH": 500,
+      "bookmark": 5,
+      "playing": 1,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
