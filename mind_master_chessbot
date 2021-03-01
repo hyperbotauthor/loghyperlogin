@@ -4,16 +4,16 @@
   "username": "Mind_Master_chessbot",
   "profileUrl": "https://lichess.org/@/Mind_Master_chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2208,\"rd\":148,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1673,\"rd\":300,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1825,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":59,\"rating\":2527,\"rd\":54,\"prog\":16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1782,\"rd\":407,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2097,\"rd\":209,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"profile\":{\"country\":\"US\",\"location\":\"Michigan\",\"bio\":\"Mind_Master_chessbot running on stockfish lv.12\\r\\nCan beat all bots of Lichess challenge me anytime\\r\\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot\"},\"seenAt\":1614514139733,\"playTime\":{\"total\":33584,\"tv\":4965},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":3,\"nbFollowers\":16,\"count\":{\"all\":121,\"rated\":85,\"ai\":0,\"draw\":35,\"drawH\":35,\"loss\":5,\"lossH\":5,\"win\":81,\"winH\":81,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mind_master_chessbot\",\"username\":\"Mind_Master_chessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2211,\"rd\":147,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1673,\"rd\":300,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1825,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":63,\"rating\":2528,\"rd\":54,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1782,\"rd\":407,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2118,\"rd\":199,\"prog\":0,\"prov\":true}},\"createdAt\":1613995448087,\"profile\":{\"country\":\"US\",\"location\":\"Michigan\",\"bio\":\"Mind_Master_chessbot running on stockfish lv.12\\r\\nCan beat all bots of Lichess challenge me anytime\\r\\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot\"},\"seenAt\":1614586684836,\"playTime\":{\"total\":34212,\"tv\":4965},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mind_Master_chessbot\",\"nbFollowing\":2,\"nbFollowers\":15,\"count\":{\"all\":130,\"rated\":91,\"ai\":0,\"draw\":35,\"drawH\":35,\"loss\":7,\"lossH\":7,\"win\":88,\"winH\":88,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mind_master_chessbot",
     "username": "Mind_Master_chessbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 7,
-        "rating": 2208,
-        "rd": 148,
+        "games": 8,
+        "rating": 2211,
+        "rd": 147,
         "prog": 0,
         "prov": true
       },
@@ -32,10 +32,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 59,
-        "rating": 2527,
+        "games": 63,
+        "rating": 2528,
         "rd": 54,
-        "prog": 16
+        "prog": 9
       },
       "correspondence": {
         "games": 0,
@@ -52,9 +52,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 5,
-        "rating": 2097,
-        "rd": 209,
+        "games": 6,
+        "rating": 2118,
+        "rd": 199,
         "prog": 0,
         "prov": true
       }
@@ -65,26 +65,26 @@
       "location": "Michigan",
       "bio": "Mind_Master_chessbot running on stockfish lv.12\r\nCan beat all bots of Lichess challenge me anytime\r\ndeveloped by @ChessVeerKumar coded by @ChessVeerKumar @KINGNANDI_chessbot"
     },
-    "seenAt": 1614514139733,
+    "seenAt": 1614586684836,
     "playTime": {
-      "total": 33584,
+      "total": 34212,
       "tv": 4965
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Mind_Master_chessbot",
-    "nbFollowing": 3,
-    "nbFollowers": 16,
+    "nbFollowing": 2,
+    "nbFollowers": 15,
     "count": {
-      "all": 121,
-      "rated": 85,
+      "all": 130,
+      "rated": 91,
       "ai": 0,
       "draw": 35,
       "drawH": 35,
-      "loss": 5,
-      "lossH": 5,
-      "win": 81,
-      "winH": 81,
+      "loss": 7,
+      "lossH": 7,
+      "win": 88,
+      "winH": 88,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
