@@ -4,23 +4,30 @@
   "username": "WELLOWEDBILLOWER",
   "profileUrl": "https://lichess.org/@/WELLOWEDBILLOWER",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wellowedbillower\",\"username\":\"WELLOWEDBILLOWER\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614675752333,\"profile\":{\"country\":\"IN\"},\"seenAt\":1614675798818,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/WELLOWEDBILLOWER\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wellowedbillower\",\"username\":\"WELLOWEDBILLOWER\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2079,\"rd\":137,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2050,\"rd\":341,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1964,\"rd\":150,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614675752333,\"profile\":{\"country\":\"IN\"},\"seenAt\":1614686625158,\"playTime\":{\"total\":4032,\"tv\":185},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WELLOWEDBILLOWER\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":19,\"rated\":19,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wellowedbillower",
     "username": "WELLOWEDBILLOWER",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 9,
+        "rating": 2079,
+        "rd": 137,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 2050,
+        "rd": 341,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 9,
+        "rating": 1964,
+        "rd": 150,
         "prog": 0,
         "prov": true
       },
@@ -50,25 +57,26 @@
     "profile": {
       "country": "IN"
     },
-    "seenAt": 1614675798818,
+    "seenAt": 1614686625158,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 4032,
+      "tv": 185
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/WELLOWEDBILLOWER",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 19,
+      "rated": 19,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 8,
+      "lossH": 8,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
