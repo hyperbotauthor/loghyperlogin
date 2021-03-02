@@ -4,7 +4,7 @@
   "username": "LegendaryChessLeader",
   "profileUrl": "https://lichess.org/@/LegendaryChessLeader",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendarychessleader\",\"username\":\"LegendaryChessLeader\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1183,\"rd\":282,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":40,\"rating\":2052,\"rd\":81,\"prog\":-252},\"blitz\":{\"games\":52,\"rating\":2074,\"rd\":69,\"prog\":-77},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":365,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":98,\"rating\":1901,\"rd\":46,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2080,\"rd\":115,\"prog\":-63,\"prov\":true}},\"createdAt\":1608285450746,\"profile\":{\"country\":\"DE\",\"location\":\"Viersen\",\"bio\":\"Pleas join my teams \\r\\nAnd join https://lichess.org/team/nmpushingpawnsnyc\\r\\nFollowe me\"},\"seenAt\":1614680098966,\"playTime\":{\"total\":26411,\"tv\":2071},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LegendaryChessLeader\",\"playing\":\"https://lichess.org/Lpz7A77G/black\",\"nbFollowing\":17,\"nbFollowers\":23,\"count\":{\"all\":238,\"rated\":222,\"ai\":3,\"draw\":6,\"drawH\":6,\"loss\":77,\"lossH\":75,\"win\":155,\"winH\":154,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendarychessleader\",\"username\":\"LegendaryChessLeader\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1183,\"rd\":282,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":42,\"rating\":2011,\"rd\":80,\"prog\":-219},\"blitz\":{\"games\":53,\"rating\":2047,\"rd\":69,\"prog\":-113},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":365,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":98,\"rating\":1901,\"rd\":46,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2080,\"rd\":115,\"prog\":-63,\"prov\":true}},\"createdAt\":1608285450746,\"profile\":{\"country\":\"DE\",\"location\":\"Viersen\",\"bio\":\"Pleas join my teams \\r\\nAnd join https://lichess.org/team/nmpushingpawnsnyc\\r\\nFollowe me\"},\"seenAt\":1614716239854,\"playTime\":{\"total\":27207,\"tv\":2222},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LegendaryChessLeader\",\"playing\":\"https://lichess.org/DcYklGMI/black\",\"nbFollowing\":17,\"nbFollowers\":24,\"count\":{\"all\":244,\"rated\":225,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":80,\"lossH\":78,\"win\":157,\"winH\":156,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendarychessleader",
     "username": "LegendaryChessLeader",
@@ -18,16 +18,16 @@
         "prov": true
       },
       "atomic": {
-        "games": 40,
-        "rating": 2052,
-        "rd": 81,
-        "prog": -252
+        "games": 42,
+        "rating": 2011,
+        "rd": 80,
+        "prog": -219
       },
       "blitz": {
-        "games": 52,
-        "rating": 2074,
+        "games": 53,
+        "rating": 2047,
         "rd": 69,
-        "prog": -77
+        "prog": -113
       },
       "crazyhouse": {
         "games": 3,
@@ -70,29 +70,29 @@
       "location": "Viersen",
       "bio": "Pleas join my teams \r\nAnd join https://lichess.org/team/nmpushingpawnsnyc\r\nFollowe me"
     },
-    "seenAt": 1614680098966,
+    "seenAt": 1614716239854,
     "playTime": {
-      "total": 26411,
-      "tv": 2071
+      "total": 27207,
+      "tv": 2222
     },
     "language": "de-DE",
     "title": "BOT",
     "url": "https://lichess.org/@/LegendaryChessLeader",
-    "playing": "https://lichess.org/Lpz7A77G/black",
+    "playing": "https://lichess.org/DcYklGMI/black",
     "nbFollowing": 17,
-    "nbFollowers": 23,
+    "nbFollowers": 24,
     "count": {
-      "all": 238,
-      "rated": 222,
+      "all": 244,
+      "rated": 225,
       "ai": 3,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 77,
-      "lossH": 75,
-      "win": 155,
-      "winH": 154,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 80,
+      "lossH": 78,
+      "win": 157,
+      "winH": 156,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
