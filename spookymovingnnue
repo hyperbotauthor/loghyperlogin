@@ -4,7 +4,7 @@
   "username": "SpookyMovingNNUE",
   "profileUrl": "https://lichess.org/@/SpookyMovingNNUE",
   "provider": "lichess",
-  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2634,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":2468,\"rd\":93,\"prog\":61},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2896,\"rd\":185,\"prog\":-72,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). My creator is @TwistyTornado1\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1614058830803,\"playTime\":{\"total\":15801,\"tv\":1092},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":4,\"count\":{\"all\":142,\"rated\":41,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":63,\"lossH\":29,\"win\":51,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2634,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2440,\"rd\":90,\"prog\":31},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2854,\"rd\":178,\"prog\":-114,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u).\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1614655337458,\"playTime\":{\"total\":16196,\"tv\":1176},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":5,\"count\":{\"all\":148,\"rated\":47,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":69,\"lossH\":35,\"win\":51,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "spookymovingnnue",
     "username": "SpookyMovingNNUE",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 22,
-        "rating": 2468,
-        "rd": 93,
-        "prog": 61
+        "games": 27,
+        "rating": 2440,
+        "rd": 90,
+        "prog": 31
       },
       "correspondence": {
         "games": 0,
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 15,
-        "rating": 2896,
-        "rd": 185,
-        "prog": -72,
+        "games": 16,
+        "rating": 2854,
+        "rd": 178,
+        "prog": -114,
         "prov": true
       }
     },
@@ -49,7 +49,7 @@
     "profile": {
       "country": "IN",
       "location": "with python ai hosted",
-      "bio": "a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\r\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). My creator is @TwistyTornado1",
+      "bio": "a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\r\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u).",
       "firstName": "Spooky Moving NNUE",
       "lastName": "Stockfish 13",
       "fideRating": 3000,
@@ -57,24 +57,24 @@
       "ecfRating": 3000,
       "links": "easychess.herokuapp.com\r\nspookymovingnnue.herokuapp.com"
     },
-    "seenAt": 1614058830803,
+    "seenAt": 1614655337458,
     "playTime": {
-      "total": 15801,
-      "tv": 1092
+      "total": 16196,
+      "tv": 1176
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/SpookyMovingNNUE",
     "nbFollowing": 5,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 142,
-      "rated": 41,
+      "all": 148,
+      "rated": 47,
       "ai": 41,
       "draw": 28,
       "drawH": 26,
-      "loss": 63,
-      "lossH": 29,
+      "loss": 69,
+      "lossH": 35,
       "win": 51,
       "winH": 46,
       "bookmark": 0,
