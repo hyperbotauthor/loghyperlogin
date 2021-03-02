@@ -1,0 +1,95 @@
+{
+  "id": "atomicfm",
+  "displayName": "AtomicFM",
+  "username": "AtomicFM",
+  "profileUrl": "https://lichess.org/@/AtomicFM",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"atomicfm\",\"username\":\"AtomicFM\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1633,\"rd\":184,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":2327,\"rd\":169,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":6,\"rating\":1556,\"rd\":153,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1890,\"rd\":208,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true}},\"createdAt\":1614531667464,\"seenAt\":1614716309172,\"playTime\":{\"total\":2294,\"tv\":0},\"language\":\"de-DE\",\"url\":\"https://lichess.org/@/AtomicFM\",\"playing\":\"https://lichess.org/Ds1ZZhBk/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":23,\"rated\":23,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "atomicfm",
+    "username": "AtomicFM",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 1633,
+        "rd": 184,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 11,
+        "rating": 2327,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 6,
+        "rating": 1556,
+        "rd": 153,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1890,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 400,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 400,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 400,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1614531667464,
+    "seenAt": 1614716309172,
+    "playTime": {
+      "total": 2294,
+      "tv": 0
+    },
+    "language": "de-DE",
+    "url": "https://lichess.org/@/AtomicFM",
+    "playing": "https://lichess.org/Ds1ZZhBk/white",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 23,
+      "rated": 23,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 19,
+      "winH": 19,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
