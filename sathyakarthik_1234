@@ -4,7 +4,7 @@
   "username": "SathyaKarthik_1234",
   "profileUrl": "https://lichess.org/@/SathyaKarthik_1234",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sathyakarthik_1234\",\"username\":\"SathyaKarthik_1234\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":6,\"rating\":848,\"rd\":196,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":994,\"rd\":241,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":34,\"rating\":1074,\"rd\":100,\"prog\":162},\"threeCheck\":{\"games\":1,\"rating\":1033,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":61,\"rating\":1769,\"rd\":65,\"prog\":-39},\"correspondence\":{\"games\":7,\"rating\":1518,\"rd\":153,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1084,\"rd\":197,\"prog\":0,\"prov\":true}},\"createdAt\":1613363448705,\"profile\":{\"location\":\"BOTS of Lichess\",\"bio\":\"Hi .\\r\\n\\r\\nhttps://i.imgur.com/YQ85KZMs.jpg\\r\\nThis is BOT SathyaKarthik_1234.\\r\\n\\r\\nhttps://i.imgur.com/72zx4Ra.jpg\\r\\n\\r\\nhttps://i.imgur.com/Xi1ynL6.jpg\\r\\n\\r\\nhttps://i.imgur.com/q2d0hN6.jpg\\r\\n\\r\\n\\r\\nMy creator is @SathyaKarthik.\\r\\nPls follow him and me .\\r\\nI will accept both casual and rated games.\\r\\nI will accept all Correspondence games.\\r\\nWho will follow me , I will follow them back.\\r\\nYou can invite me in your teams .\",\"firstName\":\"BOT Sathya Karthik\",\"lastName\":\"Jandhyala\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/SathyaKarthik\\r\\nhttps://lichess.org/@/SathyaKarthik_1234\\r\\nhttps://lichess.org/team/sathyakarthiks-chess-team\\r\\nhttps://www.chess.com/member/sathyakarthik\"},\"seenAt\":1614410704246,\"playTime\":{\"total\":26280,\"tv\":629},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthik_1234\",\"nbFollowing\":93,\"nbFollowers\":47,\"count\":{\"all\":206,\"rated\":124,\"ai\":44,\"draw\":11,\"drawH\":10,\"loss\":126,\"lossH\":83,\"win\":69,\"winH\":69,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sathyakarthik_1234\",\"username\":\"SathyaKarthik_1234\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":6,\"rating\":848,\"rd\":196,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":994,\"rd\":241,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":35,\"rating\":1118,\"rd\":100,\"prog\":205},\"threeCheck\":{\"games\":1,\"rating\":1033,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":61,\"rating\":1769,\"rd\":66,\"prog\":-39},\"correspondence\":{\"games\":7,\"rating\":1518,\"rd\":154,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1084,\"rd\":197,\"prog\":0,\"prov\":true}},\"createdAt\":1613363448705,\"profile\":{\"location\":\"BOTS of Lichess\",\"bio\":\"Hi .\\r\\n\\r\\nhttps://i.imgur.com/YQ85KZMs.jpg\\r\\nThis is BOT SathyaKarthik_1234.\\r\\n\\r\\nhttps://i.imgur.com/72zx4Ra.jpg\\r\\n\\r\\nhttps://i.imgur.com/Xi1ynL6.jpg\\r\\n\\r\\nhttps://i.imgur.com/q2d0hN6.jpg\\r\\n\\r\\n\\r\\nMy creator is @SathyaKarthik.\\r\\nPls follow him and me .\\r\\nI will accept both casual and rated games.\\r\\nI will accept all Correspondence games.\\r\\nWho will follow me , I will follow them back.\\r\\nYou can invite me in your teams .\",\"firstName\":\"BOT Sathya Karthik\",\"lastName\":\"Jandhyala\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/SathyaKarthik\\r\\nhttps://lichess.org/@/SathyaKarthik_1234\\r\\nhttps://lichess.org/team/sathyakarthiks-chess-team\\r\\nhttps://www.chess.com/member/sathyakarthik\"},\"seenAt\":1614675183311,\"playTime\":{\"total\":27005,\"tv\":629},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthik_1234\",\"nbFollowing\":97,\"nbFollowers\":52,\"count\":{\"all\":211,\"rated\":125,\"ai\":47,\"draw\":12,\"drawH\":11,\"loss\":129,\"lossH\":83,\"win\":70,\"winH\":70,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sathyakarthik_1234",
     "username": "SathyaKarthik_1234",
@@ -32,10 +32,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 34,
-        "rating": 1074,
+        "games": 35,
+        "rating": 1118,
         "rd": 100,
-        "prog": 162
+        "prog": 205
       },
       "threeCheck": {
         "games": 1,
@@ -47,13 +47,13 @@
       "bullet": {
         "games": 61,
         "rating": 1769,
-        "rd": 65,
+        "rd": 66,
         "prog": -39
       },
       "correspondence": {
         "games": 7,
         "rating": 1518,
-        "rd": 153,
+        "rd": 154,
         "prog": 0,
         "prov": true
       },
@@ -81,26 +81,26 @@
       "fideRating": 2600,
       "links": "https://lichess.org/@/SathyaKarthik\r\nhttps://lichess.org/@/SathyaKarthik_1234\r\nhttps://lichess.org/team/sathyakarthiks-chess-team\r\nhttps://www.chess.com/member/sathyakarthik"
     },
-    "seenAt": 1614410704246,
+    "seenAt": 1614675183311,
     "playTime": {
-      "total": 26280,
+      "total": 27005,
       "tv": 629
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/SathyaKarthik_1234",
-    "nbFollowing": 93,
-    "nbFollowers": 47,
+    "nbFollowing": 97,
+    "nbFollowers": 52,
     "count": {
-      "all": 206,
-      "rated": 124,
-      "ai": 44,
-      "draw": 11,
-      "drawH": 10,
-      "loss": 126,
+      "all": 211,
+      "rated": 125,
+      "ai": 47,
+      "draw": 12,
+      "drawH": 11,
+      "loss": 129,
       "lossH": 83,
-      "win": 69,
-      "winH": 69,
+      "win": 70,
+      "winH": 70,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
