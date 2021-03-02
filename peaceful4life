@@ -4,7 +4,7 @@
   "username": "Peaceful4Life",
   "profileUrl": "https://lichess.org/@/Peaceful4Life",
   "provider": "lichess",
-  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":103,\"prog\":-143},\"blitz\":{\"games\":18,\"rating\":2277,\"rd\":103,\"prog\":143},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":105,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":106,\"prog\":-55},\"bullet\":{\"games\":44,\"rating\":2174,\"rd\":75,\"prog\":62},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1978,\"rd\":182,\"prog\":17,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence!\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614629397903,\"playTime\":{\"total\":53889,\"tv\":1468},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"playing\":\"https://lichess.org/jngaMKA5/white\",\"nbFollowing\":21,\"nbFollowers\":12,\"count\":{\"all\":220,\"rated\":156,\"ai\":53,\"draw\":19,\"drawH\":13,\"loss\":70,\"lossH\":35,\"win\":131,\"winH\":119,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":103,\"prog\":-143},\"blitz\":{\"games\":20,\"rating\":2236,\"rd\":96,\"prog\":102},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":105,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":107,\"prog\":-55},\"threeCheck\":{\"games\":1,\"rating\":1412,\"rd\":374,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":44,\"rating\":2174,\"rd\":75,\"prog\":62},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2007,\"rd\":163,\"prog\":47,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule, so *sucks teeth* I might not play a single move.\\r\\n:-/\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614673564349,\"playTime\":{\"total\":57387,\"tv\":2191},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"nbFollowing\":23,\"nbFollowers\":12,\"count\":{\"all\":226,\"rated\":161,\"ai\":53,\"draw\":20,\"drawH\":14,\"loss\":74,\"lossH\":39,\"win\":132,\"winH\":120,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "peaceful4life",
     "username": "Peaceful4Life",
@@ -17,10 +17,10 @@
         "prog": -143
       },
       "blitz": {
-        "games": 18,
-        "rating": 2277,
-        "rd": 103,
-        "prog": 143
+        "games": 20,
+        "rating": 2236,
+        "rd": 96,
+        "prog": 102
       },
       "kingOfTheHill": {
         "games": 42,
@@ -31,8 +31,15 @@
       "crazyhouse": {
         "games": 22,
         "rating": 2216,
-        "rd": 106,
+        "rd": 107,
         "prog": -55
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1412,
+        "rd": 374,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
         "games": 44,
@@ -55,43 +62,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 12,
-        "rating": 1978,
-        "rd": 182,
-        "prog": 17,
+        "games": 14,
+        "rating": 2007,
+        "rd": 163,
+        "prog": 47,
         "prov": true
       }
     },
     "createdAt": 1613063183237,
     "profile": {
       "country": "_lichess",
-      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n☺\r\nFeel free to challenge me in any variant and time limit, except correspondence!",
+      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n☺\r\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule, so *sucks teeth* I might not play a single move.\r\n:-/",
       "firstName": "Peaceful",
       "lastName": "4 Life"
     },
-    "seenAt": 1614629397903,
+    "seenAt": 1614673564349,
     "playTime": {
-      "total": 53889,
-      "tv": 1468
+      "total": 57387,
+      "tv": 2191
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Peaceful4Life",
-    "playing": "https://lichess.org/jngaMKA5/white",
-    "nbFollowing": 21,
+    "nbFollowing": 23,
     "nbFollowers": 12,
     "count": {
-      "all": 220,
-      "rated": 156,
+      "all": 226,
+      "rated": 161,
       "ai": 53,
-      "draw": 19,
-      "drawH": 13,
-      "loss": 70,
-      "lossH": 35,
-      "win": 131,
-      "winH": 119,
+      "draw": 20,
+      "drawH": 14,
+      "loss": 74,
+      "lossH": 39,
+      "win": 132,
+      "winH": 120,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
