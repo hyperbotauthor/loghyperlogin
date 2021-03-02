@@ -4,7 +4,7 @@
   "username": "ThrillingRoad4U",
   "profileUrl": "https://lichess.org/@/ThrillingRoad4U",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thrillingroad4u\",\"username\":\"ThrillingRoad4U\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2221,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2703,\"rd\":188,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":3201,\"rd\":302,\"prog\":0,\"prov\":true}},\"createdAt\":1613974104552,\"seenAt\":1614346744167,\"playTime\":{\"total\":4529,\"tv\":170},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThrillingRoad4U\",\"playing\":\"https://lichess.org/Mqr7s1ku/black\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":33,\"rated\":15,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":9,\"win\":20,\"winH\":19,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thrillingroad4u\",\"username\":\"ThrillingRoad4U\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2221,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2532,\"rd\":150,\"prog\":-88,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":3201,\"rd\":302,\"prog\":0,\"prov\":true}},\"createdAt\":1613974104552,\"seenAt\":1614663125470,\"playTime\":{\"total\":4754,\"tv\":170},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThrillingRoad4U\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":37,\"rated\":19,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":14,\"lossH\":13,\"win\":20,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thrillingroad4u",
     "username": "ThrillingRoad4U",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 10,
-        "rating": 2703,
-        "rd": 188,
-        "prog": 0,
+        "games": 14,
+        "rating": 2532,
+        "rd": 150,
+        "prog": -88,
         "prov": true
       },
       "correspondence": {
@@ -47,29 +47,28 @@
       }
     },
     "createdAt": 1613974104552,
-    "seenAt": 1614346744167,
+    "seenAt": 1614663125470,
     "playTime": {
-      "total": 4529,
+      "total": 4754,
       "tv": 170
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ThrillingRoad4U",
-    "playing": "https://lichess.org/Mqr7s1ku/black",
     "nbFollowing": 2,
-    "nbFollowers": 1,
+    "nbFollowers": 0,
     "count": {
-      "all": 33,
-      "rated": 15,
+      "all": 37,
+      "rated": 19,
       "ai": 2,
       "draw": 3,
       "drawH": 3,
-      "loss": 10,
-      "lossH": 9,
+      "loss": 14,
+      "lossH": 13,
       "win": 20,
       "winH": 19,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
