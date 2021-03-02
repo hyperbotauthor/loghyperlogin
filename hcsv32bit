@@ -4,7 +4,7 @@
   "username": "HcsV32Bit",
   "profileUrl": "https://lichess.org/@/HcsV32Bit",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hcsv32bit\",\"username\":\"HcsV32Bit\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2403,\"rd\":96,\"prog\":332},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614617016317,\"profile\":{\"bio\":\"Using stockfish 12 with high rating book\\r\\nhttps://stockfishchess.org/download/\",\"firstName\":\"Hc Stockfish\",\"lastName\":\"32 Bit\"},\"seenAt\":1614663920000,\"playTime\":{\"total\":1667,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HcsV32Bit\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":21,\"rated\":20,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":9,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hcsv32bit\",\"username\":\"HcsV32Bit\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2408,\"rd\":87,\"prog\":248},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614617016317,\"profile\":{\"bio\":\"Modified Stockfish\\r\\nhttps://stockfishchess.org/download/\",\"firstName\":\"Hc Stockfish\",\"lastName\":\"32 Bit\"},\"seenAt\":1614680334438,\"playTime\":{\"total\":3994,\"tv\":344},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HcsV32Bit\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":45,\"rated\":23,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":22,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hcsv32bit",
     "username": "HcsV32Bit",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 20,
-        "rating": 2403,
-        "rd": 96,
-        "prog": 332
+        "games": 23,
+        "rating": 2408,
+        "rd": 87,
+        "prog": 248
       },
       "correspondence": {
         "games": 0,
@@ -47,14 +47,14 @@
     },
     "createdAt": 1614617016317,
     "profile": {
-      "bio": "Using stockfish 12 with high rating book\r\nhttps://stockfishchess.org/download/",
+      "bio": "Modified Stockfish\r\nhttps://stockfishchess.org/download/",
       "firstName": "Hc Stockfish",
       "lastName": "32 Bit"
     },
-    "seenAt": 1614663920000,
+    "seenAt": 1614680334438,
     "playTime": {
-      "total": 1667,
-      "tv": 0
+      "total": 3994,
+      "tv": 344
     },
     "language": "tr-TR",
     "title": "BOT",
@@ -62,15 +62,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 21,
-      "rated": 20,
+      "all": 45,
+      "rated": 23,
       "ai": 0,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 9,
-      "lossH": 9,
-      "win": 10,
-      "winH": 10,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 22,
+      "lossH": 22,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
