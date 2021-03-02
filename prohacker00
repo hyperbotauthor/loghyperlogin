@@ -4,7 +4,7 @@
   "username": "ProHacker00",
   "profileUrl": "https://lichess.org/@/ProHacker00",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prohacker00\",\"username\":\"ProHacker00\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1469,\"rd\":456,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1768,\"rd\":315,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1345,\"rd\":146,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":25,\"rating\":1442,\"rd\":97,\"prog\":-363},\"crazyhouse\":{\"games\":3,\"rating\":1766,\"rd\":253,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":1068,\"rd\":104,\"prog\":-28},\"correspondence\":{\"games\":1,\"rating\":1314,\"rd\":379,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1475,\"rd\":171,\"prog\":0,\"prov\":true}},\"createdAt\":1606136813362,\"profile\":{\"country\":\"_lichess\",\"bio\":\"hello! I am not a hacker!  You can challenge me in Standard, Atomic, Horde, Crazyhouse, Chess960  and Antichess\\r\\n\\r\\nMy team is https://lichess.org/team/nmpushingpawnsnyc  Feel free to join\"},\"seenAt\":1614683362218,\"playTime\":{\"total\":5126,\"tv\":0},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProHacker00\",\"nbFollowing\":17,\"nbFollowers\":25,\"count\":{\"all\":119,\"rated\":112,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":97,\"lossH\":97,\"win\":17,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prohacker00\",\"username\":\"ProHacker00\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1469,\"rd\":456,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1768,\"rd\":315,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1345,\"rd\":146,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":26,\"rating\":1431,\"rd\":95,\"prog\":-327},\"crazyhouse\":{\"games\":3,\"rating\":1766,\"rd\":253,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":59,\"rating\":1086,\"rd\":101,\"prog\":6},\"correspondence\":{\"games\":1,\"rating\":1314,\"rd\":379,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1475,\"rd\":171,\"prog\":0,\"prov\":true}},\"createdAt\":1606136813362,\"profile\":{\"country\":\"_lichess\",\"bio\":\"hello! I am not a hacker!  You can challenge me in Standard, Atomic, Horde, Crazyhouse, Chess960  and Antichess\\r\\n\\r\\nMy team is https://lichess.org/team/nmpushingpawnsnyc  Feel free to join\"},\"seenAt\":1614687875486,\"playTime\":{\"total\":5286,\"tv\":0},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProHacker00\",\"nbFollowing\":17,\"nbFollowers\":25,\"count\":{\"all\":126,\"rated\":119,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":103,\"lossH\":103,\"win\":17,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prohacker00",
     "username": "ProHacker00",
@@ -32,10 +32,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 25,
-        "rating": 1442,
-        "rd": 97,
-        "prog": -363
+        "games": 26,
+        "rating": 1431,
+        "rd": 95,
+        "prog": -327
       },
       "crazyhouse": {
         "games": 3,
@@ -45,10 +45,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 53,
-        "rating": 1068,
-        "rd": 104,
-        "prog": -28
+        "games": 59,
+        "rating": 1086,
+        "rd": 101,
+        "prog": 6
       },
       "correspondence": {
         "games": 1,
@@ -77,9 +77,9 @@
       "country": "_lichess",
       "bio": "hello! I am not a hacker!  You can challenge me in Standard, Atomic, Horde, Crazyhouse, Chess960  and Antichess\r\n\r\nMy team is https://lichess.org/team/nmpushingpawnsnyc  Feel free to join"
     },
-    "seenAt": 1614683362218,
+    "seenAt": 1614687875486,
     "playTime": {
-      "total": 5126,
+      "total": 5286,
       "tv": 0
     },
     "language": "de-DE",
@@ -88,13 +88,13 @@
     "nbFollowing": 17,
     "nbFollowers": 25,
     "count": {
-      "all": 119,
-      "rated": 112,
+      "all": 126,
+      "rated": 119,
       "ai": 1,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 97,
-      "lossH": 97,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 103,
+      "lossH": 103,
       "win": 17,
       "winH": 16,
       "bookmark": 0,
