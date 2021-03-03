@@ -4,16 +4,16 @@
   "username": "RobotNR",
   "profileUrl": "https://lichess.org/@/RobotNR",
   "provider": "lichess",
-  "_raw": "{\"id\":\"robotnr\",\"username\":\"RobotNR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614672813530,\"profile\":{\"bio\":\"Hi.I am a lichess bot.@Nihar_Raju_23  and  some members created me.Give @Nihar_Raju_23 a follow.Challenge me when I comes online.I am sure that I can defeat you\",\"firstName\":\"Robot Nihar\"},\"seenAt\":1614674154282,\"playTime\":{\"total\":96,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RobotNR\",\"playing\":\"https://lichess.org/slReHmXk/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":2,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"robotnr\",\"username\":\"RobotNR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1421,\"rd\":398,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614672813530,\"profile\":{\"bio\":\"Hi.I am a lichess bot.@Nihar_Raju_23  and  some members created me.Give @Nihar_Raju_23 a follow.Challenge me when I comes online.I am sure that I can defeat you\",\"firstName\":\"Robot Nihar\"},\"seenAt\":1614764715341,\"playTime\":{\"total\":249,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RobotNR\",\"playing\":\"https://lichess.org/4NGfN1SA/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":6,\"rated\":4,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "robotnr",
     "username": "RobotNR",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1421,
+        "rd": 398,
         "prog": 0,
         "prov": true
       },
@@ -51,25 +51,25 @@
       "bio": "Hi.I am a lichess bot.@Nihar_Raju_23  and  some members created me.Give @Nihar_Raju_23 a follow.Challenge me when I comes online.I am sure that I can defeat you",
       "firstName": "Robot Nihar"
     },
-    "seenAt": 1614674154282,
+    "seenAt": 1614764715341,
     "playTime": {
-      "total": 96,
+      "total": 249,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RobotNR",
-    "playing": "https://lichess.org/slReHmXk/black",
+    "playing": "https://lichess.org/4NGfN1SA/white",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 2,
-      "rated": 0,
+      "all": 6,
+      "rated": 4,
       "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
+      "loss": 5,
+      "lossH": 5,
       "win": 1,
       "winH": 0,
       "bookmark": 0,
