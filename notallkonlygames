@@ -4,11 +4,11 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":321,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1498,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":1906,\"rd\":138,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1691,\"rd\":105,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1841,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Runs on Heroku, contact me for Q&A.\\r\\nWill play like Stockfish12 all variants rated real time correspondence self learning MongoDb book.\\r\\nCurrently self-learning from the games it has played.\\r\\nElo about: 1800 for now.\\r\\nFor more infomation visit: https://lichess.org/team/notallkonlygames\",\"firstName\":\"| All Variant\",\"lastName\":\"Stockfish |\",\"links\":\"Heroku.com\"},\"seenAt\":1614642659352,\"playTime\":{\"total\":45543,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/6Wfg4Y9o/black\",\"nbFollowing\":4,\"nbFollowers\":15,\"count\":{\"all\":138,\"rated\":48,\"ai\":48,\"draw\":10,\"drawH\":10,\"loss\":66,\"lossH\":36,\"win\":62,\"winH\":44,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1795,\"rd\":321,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1498,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":1906,\"rd\":138,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1691,\"rd\":106,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1841,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Hyper Bot can play from a MongoDB hosted book, automatically updated with its own games on every server startup.\\r\\nThe bot runs on Heroku.\\r\\nI recommend casual if you want m bot to improve especially if your a 2000+ player.\",\"links\":\"Heroku.com\"},\"seenAt\":1614758828723,\"playTime\":{\"total\":46183,\"tv\":448},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":4,\"nbFollowers\":15,\"count\":{\"all\":145,\"rated\":48,\"ai\":50,\"draw\":10,\"drawH\":10,\"loss\":69,\"lossH\":39,\"win\":66,\"winH\":46,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
-    "online": false,
+    "online": true,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -48,7 +48,7 @@
       "bullet": {
         "games": 20,
         "rating": 1691,
-        "rd": 105,
+        "rd": 106,
         "prog": -12
       },
       "correspondence": {
@@ -76,34 +76,31 @@
     "createdAt": 1612930350221,
     "profile": {
       "country": "FR",
-      "bio": "Runs on Heroku, contact me for Q&A.\r\nWill play like Stockfish12 all variants rated real time correspondence self learning MongoDb book.\r\nCurrently self-learning from the games it has played.\r\nElo about: 1800 for now.\r\nFor more infomation visit: https://lichess.org/team/notallkonlygames",
-      "firstName": "| All Variant",
-      "lastName": "Stockfish |",
+      "bio": "Hyper Bot can play from a MongoDB hosted book, automatically updated with its own games on every server startup.\r\nThe bot runs on Heroku.\r\nI recommend casual if you want m bot to improve especially if your a 2000+ player.",
       "links": "Heroku.com"
     },
-    "seenAt": 1614642659352,
+    "seenAt": 1614758828723,
     "playTime": {
-      "total": 45543,
+      "total": 46183,
       "tv": 448
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
-    "playing": "https://lichess.org/6Wfg4Y9o/black",
     "nbFollowing": 4,
     "nbFollowers": 15,
     "count": {
-      "all": 138,
+      "all": 145,
       "rated": 48,
-      "ai": 48,
+      "ai": 50,
       "draw": 10,
       "drawH": 10,
-      "loss": 66,
-      "lossH": 36,
-      "win": 62,
-      "winH": 44,
+      "loss": 69,
+      "lossH": 39,
+      "win": 66,
+      "winH": 46,
       "bookmark": 1,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
