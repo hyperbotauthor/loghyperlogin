@@ -1,0 +1,124 @@
+{
+  "id": "ktn100",
+  "displayName": "KTN100",
+  "username": "KTN100",
+  "profileUrl": "https://lichess.org/@/KTN100",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ktn100\",\"username\":\"KTN100\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":7,\"rating\":1202,\"rd\":344,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1155,\"rd\":327,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":49,\"rating\":1377,\"rd\":80,\"prog\":188},\"racingKings\":{\"games\":6,\"rating\":1443,\"rd\":166,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":39,\"rating\":2105,\"rd\":72,\"prog\":-1},\"crazyhouse\":{\"games\":2,\"rating\":1376,\"rd\":318,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1337,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":136,\"rating\":1980,\"rd\":48,\"prog\":-37},\"correspondence\":{\"games\":1,\"rating\":1600,\"rd\":295,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1519,\"rd\":190,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":29,\"rating\":2403,\"rd\":81,\"prog\":51}},\"createdAt\":1597605421687,\"profile\":{\"firstName\":\"BOT\",\"lastName\":\"KTN100\",\"uscfRating\":2800},\"seenAt\":1614811168666,\"playTime\":{\"total\":47328,\"tv\":7023},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KTN100\",\"nbFollowing\":25,\"nbFollowers\":23,\"count\":{\"all\":330,\"rated\":292,\"ai\":10,\"draw\":10,\"drawH\":10,\"loss\":125,\"lossH\":121,\"win\":195,\"winH\":189,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ktn100",
+    "username": "KTN100",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 7,
+        "rating": 1202,
+        "rd": 344,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 4,
+        "rating": 1155,
+        "rd": 327,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 49,
+        "rating": 1377,
+        "rd": 80,
+        "prog": 188
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 1443,
+        "rd": 166,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 39,
+        "rating": 2105,
+        "rd": 72,
+        "prog": -1
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 1376,
+        "rd": 318,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1337,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 136,
+        "rating": 1980,
+        "rd": 48,
+        "prog": -37
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1600,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1519,
+        "rd": 190,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 29,
+        "rating": 2403,
+        "rd": 81,
+        "prog": 51
+      }
+    },
+    "createdAt": 1597605421687,
+    "profile": {
+      "firstName": "BOT",
+      "lastName": "KTN100",
+      "uscfRating": 2800
+    },
+    "seenAt": 1614811168666,
+    "playTime": {
+      "total": 47328,
+      "tv": 7023
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/KTN100",
+    "nbFollowing": 25,
+    "nbFollowers": 23,
+    "count": {
+      "all": 330,
+      "rated": 292,
+      "ai": 10,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 125,
+      "lossH": 121,
+      "win": 195,
+      "winH": 189,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
