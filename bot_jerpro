@@ -4,7 +4,7 @@
   "username": "Bot_jerpro",
   "profileUrl": "https://lichess.org/@/Bot_jerpro",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":6,\"rating\":1149,\"rd\":292,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1395,\"rd\":151,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":49,\"rating\":2069,\"rd\":78,\"prog\":-68},\"crazyhouse\":{\"games\":1,\"rating\":1364,\"rd\":389,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":2040,\"rd\":89,\"prog\":-16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2099,\"rd\":143,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"profile\":{\"bio\":\"I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position,I have a brother @Bot_jerpro-v2.\",\"links\":\"https://www.instagram.com/bot_jerpro/\"},\"seenAt\":1614705859481,\"playTime\":{\"total\":25586,\"tv\":4558},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"nbFollowing\":4,\"nbFollowers\":4,\"count\":{\"all\":123,\"rated\":100,\"ai\":7,\"draw\":10,\"drawH\":10,\"loss\":48,\"lossH\":42,\"win\":65,\"winH\":64,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_jerpro\",\"username\":\"Bot_jerpro\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":6,\"rating\":1149,\"rd\":292,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":12,\"rating\":1435,\"rd\":141,\"prog\":40,\"prov\":true},\"blitz\":{\"games\":49,\"rating\":2069,\"rd\":79,\"prog\":-68},\"crazyhouse\":{\"games\":1,\"rating\":1364,\"rd\":390,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":2040,\"rd\":90,\"prog\":-16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2099,\"rd\":144,\"prog\":0,\"prov\":true}},\"createdAt\":1612554575162,\"profile\":{\"bio\":\"I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position,I have a brother @Bot_jerpro-v2.\",\"links\":\"https://www.instagram.com/bot_jerpro/\"},\"seenAt\":1614795959138,\"playTime\":{\"total\":25621,\"tv\":4558},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_jerpro\",\"playing\":\"https://lichess.org/TIvhCOI6/black\",\"nbFollowing\":4,\"nbFollowers\":5,\"count\":{\"all\":124,\"rated\":101,\"ai\":7,\"draw\":10,\"drawH\":10,\"loss\":48,\"lossH\":42,\"win\":66,\"winH\":65,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_jerpro",
     "username": "Bot_jerpro",
@@ -18,29 +18,29 @@
         "prov": true
       },
       "atomic": {
-        "games": 11,
-        "rating": 1395,
-        "rd": 151,
-        "prog": 0,
+        "games": 12,
+        "rating": 1435,
+        "rd": 141,
+        "prog": 40,
         "prov": true
       },
       "blitz": {
         "games": 49,
         "rating": 2069,
-        "rd": 78,
+        "rd": 79,
         "prog": -68
       },
       "crazyhouse": {
         "games": 1,
         "rating": 1364,
-        "rd": 389,
+        "rd": 390,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 25,
         "rating": 2040,
-        "rd": 89,
+        "rd": 90,
         "prog": -16
       },
       "correspondence": {
@@ -60,7 +60,7 @@
       "rapid": {
         "games": 7,
         "rating": 2099,
-        "rd": 143,
+        "rd": 144,
         "prog": 0,
         "prov": true
       }
@@ -70,28 +70,29 @@
       "bio": "I'm a bot created by @jerpro,I accept all except racing kings,king of the hill and a customed position,I have a brother @Bot_jerpro-v2.",
       "links": "https://www.instagram.com/bot_jerpro/"
     },
-    "seenAt": 1614705859481,
+    "seenAt": 1614795959138,
     "playTime": {
-      "total": 25586,
+      "total": 25621,
       "tv": 4558
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/Bot_jerpro",
+    "playing": "https://lichess.org/TIvhCOI6/black",
     "nbFollowing": 4,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 123,
-      "rated": 100,
+      "all": 124,
+      "rated": 101,
       "ai": 7,
       "draw": 10,
       "drawH": 10,
       "loss": 48,
       "lossH": 42,
-      "win": 65,
-      "winH": 64,
+      "win": 66,
+      "winH": 65,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
