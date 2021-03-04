@@ -4,24 +4,38 @@
   "username": "the_checkmating_bot",
   "profileUrl": "https://lichess.org/@/the_checkmating_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_checkmating_bot\",\"username\":\"the_checkmating_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614144050817,\"profile\":{\"bio\":\"my owner: @KOcheckmate\"},\"seenAt\":1614147916005,\"playTime\":{\"total\":89,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/the_checkmating_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_checkmating_bot\",\"username\":\"the_checkmating_bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1855,\"rd\":302,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2164,\"rd\":164,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1643,\"rd\":385,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1834,\"rd\":138,\"prog\":59,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1822,\"rd\":207,\"prog\":0,\"prov\":true}},\"createdAt\":1614144050817,\"profile\":{\"country\":\"IS\",\"location\":\"horsey land\",\"bio\":\"my owner: @KOcheckmate\\r\\nwarning, this bot is:\\r\\nhttps://i.imgur.com/W4ZyKzr.jpg\\r\\nhttps://wallpaperaccess.com/full/519192.jpg\",\"firstName\":\"bye\",\"lastName\":\"bye\",\"links\":\":/\"},\"seenAt\":1614837694920,\"playTime\":{\"total\":6697,\"tv\":240},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/the_checkmating_bot\",\"nbFollowing\":4,\"nbFollowers\":7,\"count\":{\"all\":57,\"rated\":33,\"ai\":3,\"draw\":5,\"drawH\":4,\"loss\":28,\"lossH\":26,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_checkmating_bot",
     "username": "the_checkmating_bot",
     "online": true,
     "perfs": {
+      "atomic": {
+        "games": 1,
+        "rating": 1855,
+        "rd": 302,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2164,
+        "rd": 164,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1643,
+        "rd": 385,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 19,
+        "rating": 1834,
+        "rd": 138,
+        "prog": 59,
         "prov": true
       },
       "correspondence": {
@@ -39,37 +53,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1822,
+        "rd": 207,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1614144050817,
     "profile": {
-      "bio": "my owner: @KOcheckmate"
+      "country": "IS",
+      "location": "horsey land",
+      "bio": "my owner: @KOcheckmate\r\nwarning, this bot is:\r\nhttps://i.imgur.com/W4ZyKzr.jpg\r\nhttps://wallpaperaccess.com/full/519192.jpg",
+      "firstName": "bye",
+      "lastName": "bye",
+      "links": ":/"
     },
-    "seenAt": 1614147916005,
+    "seenAt": 1614837694920,
     "playTime": {
-      "total": 89,
-      "tv": 0
+      "total": 6697,
+      "tv": 240
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/the_checkmating_bot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 4,
+    "nbFollowers": 7,
     "count": {
-      "all": 1,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 0,
-      "winH": 0,
+      "all": 57,
+      "rated": 33,
+      "ai": 3,
+      "draw": 5,
+      "drawH": 4,
+      "loss": 28,
+      "lossH": 26,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
