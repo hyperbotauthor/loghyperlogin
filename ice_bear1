@@ -4,34 +4,34 @@
   "username": "Ice_Bear1",
   "profileUrl": "https://lichess.org/@/Ice_Bear1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ice_bear1\",\"username\":\"Ice_Bear1\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":33,\"rating\":1240,\"rd\":89,\"prog\":-8},\"puzzle\":{\"games\":213,\"rating\":1647,\"rd\":106,\"prog\":0},\"atomic\":{\"games\":51,\"rating\":1507,\"rd\":85,\"prog\":-6},\"ultraBullet\":{\"games\":15,\"rating\":1252,\"rd\":124,\"prog\":45,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":1352,\"rd\":79,\"prog\":-42},\"correspondence\":{\"games\":10,\"rating\":1493,\"rd\":141,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1922,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1405,\"rd\":124,\"prog\":2,\"prov\":true},\"storm\":{\"runs\":2,\"score\":10}},\"createdAt\":1607132338251,\"profile\":{\"bio\":\":D\",\"links\":\"Lichess.org\\r\\nDiscord.com\"},\"seenAt\":1614667454850,\"playTime\":{\"total\":51535,\"tv\":693},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Ice_Bear1\",\"nbFollowing\":34,\"nbFollowers\":51,\"completionRate\":97,\"count\":{\"all\":278,\"rated\":178,\"ai\":20,\"draw\":12,\"drawH\":12,\"loss\":109,\"lossH\":93,\"win\":157,\"winH\":153,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ice_bear1\",\"username\":\"Ice_Bear1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":33,\"rating\":1240,\"rd\":90,\"prog\":-8},\"puzzle\":{\"games\":213,\"rating\":1647,\"rd\":107,\"prog\":0},\"atomic\":{\"games\":51,\"rating\":1507,\"rd\":86,\"prog\":-6},\"ultraBullet\":{\"games\":15,\"rating\":1252,\"rd\":125,\"prog\":45,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":1352,\"rd\":79,\"prog\":-42},\"correspondence\":{\"games\":10,\"rating\":1493,\"rd\":141,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1922,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1405,\"rd\":124,\"prog\":2,\"prov\":true},\"storm\":{\"runs\":2,\"score\":10}},\"createdAt\":1607132338251,\"profile\":{\"bio\":\":D\",\"links\":\"Lichess.org\\r\\nDiscord.com\"},\"seenAt\":1614841354268,\"playTime\":{\"total\":51535,\"tv\":693},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Ice_Bear1\",\"nbFollowing\":34,\"nbFollowers\":51,\"completionRate\":97,\"count\":{\"all\":279,\"rated\":178,\"ai\":21,\"draw\":12,\"drawH\":12,\"loss\":110,\"lossH\":93,\"win\":157,\"winH\":153,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ice_bear1",
     "username": "Ice_Bear1",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 33,
         "rating": 1240,
-        "rd": 89,
+        "rd": 90,
         "prog": -8
       },
       "puzzle": {
         "games": 213,
         "rating": 1647,
-        "rd": 106,
+        "rd": 107,
         "prog": 0
       },
       "atomic": {
         "games": 51,
         "rating": 1507,
-        "rd": 85,
+        "rd": 86,
         "prog": -6
       },
       "ultraBullet": {
         "games": 15,
         "rating": 1252,
-        "rd": 124,
+        "rd": 125,
         "prog": 45,
         "prov": true
       },
@@ -72,7 +72,7 @@
       "bio": ":D",
       "links": "Lichess.org\r\nDiscord.com"
     },
-    "seenAt": 1614667454850,
+    "seenAt": 1614841354268,
     "playTime": {
       "total": 51535,
       "tv": 693
@@ -83,12 +83,12 @@
     "nbFollowers": 51,
     "completionRate": 97,
     "count": {
-      "all": 278,
+      "all": 279,
       "rated": 178,
-      "ai": 20,
+      "ai": 21,
       "draw": 12,
       "drawH": 12,
-      "loss": 109,
+      "loss": 110,
       "lossH": 93,
       "win": 157,
       "winH": 153,
