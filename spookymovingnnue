@@ -4,16 +4,16 @@
   "username": "SpookyMovingNNUE",
   "profileUrl": "https://lichess.org/@/SpookyMovingNNUE",
   "provider": "lichess",
-  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2634,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":2312,\"rd\":89,\"prog\":-165},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2854,\"rd\":178,\"prog\":-114,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). Now a random mover bot\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1614696133309,\"playTime\":{\"total\":16487,\"tv\":1405},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":5,\"count\":{\"all\":152,\"rated\":50,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":72,\"lossH\":38,\"win\":52,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"spookymovingnnue\",\"username\":\"SpookyMovingNNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1732,\"rd\":198,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":2312,\"rd\":89,\"prog\":-165},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2854,\"rd\":178,\"prog\":-114,\"prov\":true}},\"createdAt\":1613222664362,\"profile\":{\"country\":\"IN\",\"location\":\"with python ai hosted\",\"bio\":\"a python AI and stockfish 12 Bot. Loves followers and challenges. soon reaching 3000. don't consider the first 3 games of mine\\r\\nCurrently running  on lc0 opencl for win 10 @2.20ghz and 3.40 GHz turbo boost intel i3 8th gen(8130u). Now a random mover bot\",\"firstName\":\"Spooky Moving NNUE\",\"lastName\":\"Stockfish 13\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"links\":\"easychess.herokuapp.com\\r\\nspookymovingnnue.herokuapp.com\"},\"seenAt\":1614837505045,\"playTime\":{\"total\":16841,\"tv\":1405},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SpookyMovingNNUE\",\"nbFollowing\":5,\"nbFollowers\":5,\"count\":{\"all\":156,\"rated\":54,\"ai\":41,\"draw\":28,\"drawH\":26,\"loss\":76,\"lossH\":42,\"win\":52,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "spookymovingnnue",
     "username": "SpookyMovingNNUE",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2634,
-        "rd": 343,
+        "games": 8,
+        "rating": 1732,
+        "rd": 198,
         "prog": 0,
         "prov": true
       },
@@ -57,9 +57,9 @@
       "ecfRating": 3000,
       "links": "easychess.herokuapp.com\r\nspookymovingnnue.herokuapp.com"
     },
-    "seenAt": 1614696133309,
+    "seenAt": 1614837505045,
     "playTime": {
-      "total": 16487,
+      "total": 16841,
       "tv": 1405
     },
     "language": "en-GB",
@@ -68,13 +68,13 @@
     "nbFollowing": 5,
     "nbFollowers": 5,
     "count": {
-      "all": 152,
-      "rated": 50,
+      "all": 156,
+      "rated": 54,
       "ai": 41,
       "draw": 28,
       "drawH": 26,
-      "loss": 72,
-      "lossH": 38,
+      "loss": 76,
+      "lossH": 42,
       "win": 52,
       "winH": 47,
       "bookmark": 0,
