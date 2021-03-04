@@ -1,0 +1,88 @@
+{
+  "id": "brucelee7",
+  "displayName": "BruceLee7",
+  "username": "BruceLee7",
+  "profileUrl": "https://lichess.org/@/BruceLee7",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"brucelee7\",\"username\":\"BruceLee7\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":2060,\"rd\":389,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1915,\"rd\":410,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1915,\"rd\":234,\"prog\":0,\"prov\":true}},\"createdAt\":1432370328878,\"tosViolation\":true,\"seenAt\":1614828935477,\"playTime\":{\"total\":12206,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/BruceLee7\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":15,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "brucelee7",
+    "username": "BruceLee7",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 2060,
+        "rd": 389,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1915,
+        "rd": 410,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 8,
+        "rating": 1915,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1432370328878,
+    "tosViolation": true,
+    "seenAt": 1614828935477,
+    "playTime": {
+      "total": 12206,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/BruceLee7",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "count": {
+      "all": 15,
+      "rated": 9,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
