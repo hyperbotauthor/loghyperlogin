@@ -1,0 +1,145 @@
+{
+  "id": "george_bougas",
+  "displayName": "george_bougas",
+  "username": "george_bougas",
+  "profileUrl": "https://lichess.org/@/george_bougas",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"george_bougas\",\"username\":\"george_bougas\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1292,\"rd\":261,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":128,\"rating\":1582,\"rd\":101,\"prog\":103},\"atomic\":{\"games\":2203,\"rating\":1970,\"rd\":45,\"prog\":-22},\"racingKings\":{\"games\":35,\"rating\":1227,\"rd\":127,\"prog\":53,\"prov\":true},\"ultraBullet\":{\"games\":401,\"rating\":1628,\"rd\":53,\"prog\":-10},\"blitz\":{\"games\":1068,\"rating\":2027,\"rd\":45,\"prog\":-17},\"kingOfTheHill\":{\"games\":18,\"rating\":1506,\"rd\":160,\"prog\":231,\"prov\":true},\"crazyhouse\":{\"games\":30,\"rating\":1505,\"rd\":99,\"prog\":-7},\"threeCheck\":{\"games\":104,\"rating\":1596,\"rd\":71,\"prog\":-40},\"bullet\":{\"games\":928,\"rating\":1937,\"rd\":45,\"prog\":2},\"correspondence\":{\"games\":11,\"rating\":1788,\"rd\":139,\"prog\":0,\"prov\":true},\"horde\":{\"games\":34,\"rating\":1531,\"rd\":120,\"prog\":162,\"prov\":true},\"puzzle\":{\"games\":1104,\"rating\":1873,\"rd\":63,\"prog\":0},\"classical\":{\"games\":178,\"rating\":1940,\"rd\":90,\"prog\":3},\"rapid\":{\"games\":678,\"rating\":1912,\"rd\":72,\"prog\":2},\"storm\":{\"runs\":4,\"score\":32}},\"createdAt\":1523782566309,\"seenAt\":1614962764108,\"playTime\":{\"total\":1321880,\"tv\":56704},\"language\":\"el-GR\",\"url\":\"https://lichess.org/@/george_bougas\",\"nbFollowing\":105,\"nbFollowers\":80,\"completionRate\":97,\"count\":{\"all\":6107,\"rated\":5823,\"ai\":71,\"draw\":255,\"drawH\":249,\"loss\":2767,\"lossH\":2732,\"win\":3085,\"winH\":3055,\"bookmark\":36,\"playing\":0,\"import\":3,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "george_bougas",
+    "username": "george_bougas",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 3,
+        "rating": 1292,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 128,
+        "rating": 1582,
+        "rd": 101,
+        "prog": 103
+      },
+      "atomic": {
+        "games": 2203,
+        "rating": 1970,
+        "rd": 45,
+        "prog": -22
+      },
+      "racingKings": {
+        "games": 35,
+        "rating": 1227,
+        "rd": 127,
+        "prog": 53,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 401,
+        "rating": 1628,
+        "rd": 53,
+        "prog": -10
+      },
+      "blitz": {
+        "games": 1068,
+        "rating": 2027,
+        "rd": 45,
+        "prog": -17
+      },
+      "kingOfTheHill": {
+        "games": 18,
+        "rating": 1506,
+        "rd": 160,
+        "prog": 231,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 30,
+        "rating": 1505,
+        "rd": 99,
+        "prog": -7
+      },
+      "threeCheck": {
+        "games": 104,
+        "rating": 1596,
+        "rd": 71,
+        "prog": -40
+      },
+      "bullet": {
+        "games": 928,
+        "rating": 1937,
+        "rd": 45,
+        "prog": 2
+      },
+      "correspondence": {
+        "games": 11,
+        "rating": 1788,
+        "rd": 139,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 34,
+        "rating": 1531,
+        "rd": 120,
+        "prog": 162,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1104,
+        "rating": 1873,
+        "rd": 63,
+        "prog": 0
+      },
+      "classical": {
+        "games": 178,
+        "rating": 1940,
+        "rd": 90,
+        "prog": 3
+      },
+      "rapid": {
+        "games": 678,
+        "rating": 1912,
+        "rd": 72,
+        "prog": 2
+      },
+      "storm": {
+        "runs": 4,
+        "score": 32
+      }
+    },
+    "createdAt": 1523782566309,
+    "seenAt": 1614962764108,
+    "playTime": {
+      "total": 1321880,
+      "tv": 56704
+    },
+    "language": "el-GR",
+    "url": "https://lichess.org/@/george_bougas",
+    "nbFollowing": 105,
+    "nbFollowers": 80,
+    "completionRate": 97,
+    "count": {
+      "all": 6107,
+      "rated": 5823,
+      "ai": 71,
+      "draw": 255,
+      "drawH": 249,
+      "loss": 2767,
+      "lossH": 2732,
+      "win": 3085,
+      "winH": 3055,
+      "bookmark": 36,
+      "playing": 0,
+      "import": 3,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
