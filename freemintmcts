@@ -4,7 +4,7 @@
   "username": "FreemintMCTS",
   "profileUrl": "https://lichess.org/@/FreemintMCTS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"freemintmcts\",\"username\":\"FreemintMCTS\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1879,\"rd\":407,\"prog\":0,\"prov\":true}},\"createdAt\":1614897786620,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. However, Freemint MCTS adds the Monte Carlo Tree Search to an already strong Freemint, and it could be one of the top chess engines.\",\"firstName\":\"Freemint\",\"lastName\":\"MCTS v0.15.1\"},\"seenAt\":1614901734755,\"playTime\":{\"total\":2473,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FreemintMCTS\",\"playing\":\"https://lichess.org/DmG52pbH/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"freemintmcts\",\"username\":\"FreemintMCTS\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1618,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1847,\"rd\":174,\"prog\":0,\"prov\":true}},\"createdAt\":1614897786620,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. However, Freemint MCTS adds the Monte Carlo Tree Search to an already strong Freemint, and it could be one of the top chess engines.\",\"firstName\":\"Freemint\",\"lastName\":\"MCTS v0.15.1\"},\"seenAt\":1614913341033,\"playTime\":{\"total\":10007,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FreemintMCTS\",\"playing\":\"https://lichess.org/Lj2oWXSa/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":6,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "freemintmcts",
     "username": "FreemintMCTS",
@@ -14,6 +14,13 @@
         "games": 0,
         "rating": 1500,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1618,
+        "rd": 337,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +46,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1879,
-        "rd": 407,
+        "games": 5,
+        "rating": 1847,
+        "rd": 174,
         "prog": 0,
         "prov": true
       }
@@ -52,27 +59,27 @@
       "firstName": "Freemint",
       "lastName": "MCTS v0.15.1"
     },
-    "seenAt": 1614901734755,
+    "seenAt": 1614913341033,
     "playTime": {
-      "total": 2473,
+      "total": 10007,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/FreemintMCTS",
-    "playing": "https://lichess.org/DmG52pbH/black",
+    "playing": "https://lichess.org/Lj2oWXSa/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 1,
+      "all": 7,
+      "rated": 6,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
-      "win": 0,
-      "winH": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 2,
+      "lossH": 2,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
