@@ -4,7 +4,7 @@
   "username": "LegendaryChessLeader",
   "profileUrl": "https://lichess.org/@/LegendaryChessLeader",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendarychessleader\",\"username\":\"LegendaryChessLeader\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1183,\"rd\":282,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":43,\"rating\":2006,\"rd\":79,\"prog\":-195},\"blitz\":{\"games\":53,\"rating\":2047,\"rd\":69,\"prog\":-113},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":365,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":98,\"rating\":1901,\"rd\":47,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2080,\"rd\":115,\"prog\":-63,\"prov\":true}},\"createdAt\":1608285450746,\"profile\":{\"country\":\"DE\",\"location\":\"Viersen\",\"bio\":\"Pleas join my teams \\r\\nAnd join https://lichess.org/team/nmpushingpawnsnyc\\r\\nFollowe me\"},\"seenAt\":1614771884434,\"playTime\":{\"total\":27294,\"tv\":2222},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LegendaryChessLeader\",\"nbFollowing\":18,\"nbFollowers\":30,\"count\":{\"all\":245,\"rated\":226,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":81,\"lossH\":79,\"win\":157,\"winH\":156,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendarychessleader\",\"username\":\"LegendaryChessLeader\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1183,\"rd\":282,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":48,\"rating\":1988,\"rd\":77,\"prog\":-135},\"blitz\":{\"games\":53,\"rating\":2047,\"rd\":70,\"prog\":-113},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":365,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":98,\"rating\":1901,\"rd\":48,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2080,\"rd\":116,\"prog\":-63,\"prov\":true}},\"createdAt\":1608285450746,\"profile\":{\"country\":\"DE\",\"location\":\"Viersen\",\"bio\":\"Pleas join my teams \\r\\nAnd join https://lichess.org/team/nmpushingpawnsnyc\\r\\nFollowe me\"},\"seenAt\":1614970638022,\"playTime\":{\"total\":27437,\"tv\":2222},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LegendaryChessLeader\",\"playing\":\"https://lichess.org/LCAhiu1w/black\",\"nbFollowing\":21,\"nbFollowers\":31,\"count\":{\"all\":250,\"rated\":231,\"ai\":3,\"draw\":7,\"drawH\":7,\"loss\":86,\"lossH\":84,\"win\":157,\"winH\":156,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendarychessleader",
     "username": "LegendaryChessLeader",
@@ -18,15 +18,15 @@
         "prov": true
       },
       "atomic": {
-        "games": 43,
-        "rating": 2006,
-        "rd": 79,
-        "prog": -195
+        "games": 48,
+        "rating": 1988,
+        "rd": 77,
+        "prog": -135
       },
       "blitz": {
         "games": 53,
         "rating": 2047,
-        "rd": 69,
+        "rd": 70,
         "prog": -113
       },
       "crazyhouse": {
@@ -39,7 +39,7 @@
       "bullet": {
         "games": 98,
         "rating": 1901,
-        "rd": 47,
+        "rd": 48,
         "prog": 9
       },
       "correspondence": {
@@ -59,7 +59,7 @@
       "rapid": {
         "games": 23,
         "rating": 2080,
-        "rd": 115,
+        "rd": 116,
         "prog": -63,
         "prov": true
       }
@@ -70,28 +70,29 @@
       "location": "Viersen",
       "bio": "Pleas join my teams \r\nAnd join https://lichess.org/team/nmpushingpawnsnyc\r\nFollowe me"
     },
-    "seenAt": 1614771884434,
+    "seenAt": 1614970638022,
     "playTime": {
-      "total": 27294,
+      "total": 27437,
       "tv": 2222
     },
     "language": "de-DE",
     "title": "BOT",
     "url": "https://lichess.org/@/LegendaryChessLeader",
-    "nbFollowing": 18,
-    "nbFollowers": 30,
+    "playing": "https://lichess.org/LCAhiu1w/black",
+    "nbFollowing": 21,
+    "nbFollowers": 31,
     "count": {
-      "all": 245,
-      "rated": 226,
+      "all": 250,
+      "rated": 231,
       "ai": 3,
       "draw": 7,
       "drawH": 7,
-      "loss": 81,
-      "lossH": 79,
+      "loss": 86,
+      "lossH": 84,
       "win": 157,
       "winH": 156,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
