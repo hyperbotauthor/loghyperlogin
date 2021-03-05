@@ -4,25 +4,31 @@
   "username": "Atomicbot1",
   "profileUrl": "https://lichess.org/@/Atomicbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"atomicbot1\",\"username\":\"Atomicbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614958081385,\"seenAt\":1614958111859,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Atomicbot1\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"atomicbot1\",\"username\":\"Atomicbot1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1341,\"rd\":389,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1467,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2059,\"rd\":89,\"prog\":-20},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1469,\"rd\":455,\"prog\":0,\"prov\":true}},\"createdAt\":1614958081385,\"profile\":{\"bio\":\"Owner: @Abcdefgijlgd\"},\"seenAt\":1614967659596,\"playTime\":{\"total\":2406,\"tv\":46},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicbot1\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":29,\"rated\":24,\"ai\":5,\"draw\":4,\"drawH\":4,\"loss\":19,\"lossH\":15,\"win\":6,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "atomicbot1",
     "username": "Atomicbot1",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1341,
+        "rd": 389,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1467,
+        "rd": 452,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 21,
+        "rating": 2059,
+        "rd": 89,
+        "prog": -20
       },
       "correspondence": {
         "games": 0,
@@ -39,33 +45,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1469,
+        "rd": 455,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1614958081385,
-    "seenAt": 1614958111859,
+    "profile": {
+      "bio": "Owner: @Abcdefgijlgd"
+    },
+    "seenAt": 1614967659596,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 2406,
+      "tv": 46
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Atomicbot1",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 29,
+      "rated": 24,
+      "ai": 5,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 19,
+      "lossH": 15,
+      "win": 6,
+      "winH": 5,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
