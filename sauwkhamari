@@ -1,0 +1,85 @@
+{
+  "id": "sauwkhamari",
+  "displayName": "sauwkhamari",
+  "username": "sauwkhamari",
+  "profileUrl": "https://lichess.org/@/sauwkhamari",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sauwkhamari\",\"username\":\"sauwkhamari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1735,\"rd\":385,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1691,\"rd\":239,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1614971971295,\"profile\":{\"fideRating\":2500},\"seenAt\":1614974415672,\"playTime\":{\"total\":1163,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sauwkhamari\",\"playing\":\"https://lichess.org/SliOxjDv/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":5,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":3,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sauwkhamari",
+    "username": "sauwkhamari",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1735,
+        "rd": 385,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1691,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1614971971295,
+    "profile": {
+      "fideRating": 2500
+    },
+    "seenAt": 1614974415672,
+    "playTime": {
+      "total": 1163,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/sauwkhamari",
+    "playing": "https://lichess.org/SliOxjDv/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 8,
+      "rated": 5,
+      "ai": 3,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 3,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
