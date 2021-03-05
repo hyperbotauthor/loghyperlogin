@@ -4,23 +4,23 @@
   "username": "BetaChessBot",
   "profileUrl": "https://lichess.org/@/BetaChessBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"betachessbot\",\"username\":\"BetaChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1990,\"rd\":215,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":35,\"rating\":1790,\"rd\":97,\"prog\":-340},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2358,\"rd\":151,\"prog\":-78,\"prov\":true}},\"createdAt\":1607774121143,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://i.imgur.com/BtkgL2P.jpg\",\"firstName\":\"BOT\",\"lastName\":\"Beta\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1614694363896,\"playTime\":{\"total\":11881,\"tv\":2491},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BetaChessBot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":99,\"rated\":67,\"ai\":31,\"draw\":1,\"drawH\":1,\"loss\":41,\"lossH\":30,\"win\":57,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"betachessbot\",\"username\":\"BetaChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":13,\"rating\":1782,\"rd\":176,\"prog\":-208,\"prov\":true},\"bullet\":{\"games\":35,\"rating\":1790,\"rd\":98,\"prog\":-340},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2358,\"rd\":152,\"prog\":-78,\"prov\":true}},\"createdAt\":1607774121143,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://i.imgur.com/BtkgL2P.jpg\",\"firstName\":\"BOT\",\"lastName\":\"Beta\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000},\"seenAt\":1614927966439,\"playTime\":{\"total\":11985,\"tv\":2491},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BetaChessBot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":101,\"rated\":69,\"ai\":31,\"draw\":1,\"drawH\":1,\"loss\":43,\"lossH\":32,\"win\":57,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "betachessbot",
     "username": "BetaChessBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 11,
-        "rating": 1990,
-        "rd": 215,
-        "prog": 0,
+        "games": 13,
+        "rating": 1782,
+        "rd": 176,
+        "prog": -208,
         "prov": true
       },
       "bullet": {
         "games": 35,
         "rating": 1790,
-        "rd": 97,
+        "rd": 98,
         "prog": -340
       },
       "correspondence": {
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 20,
         "rating": 2358,
-        "rd": 151,
+        "rd": 152,
         "prog": -78,
         "prov": true
       }
@@ -55,9 +55,9 @@
       "uscfRating": 3000,
       "ecfRating": 3000
     },
-    "seenAt": 1614694363896,
+    "seenAt": 1614927966439,
     "playTime": {
-      "total": 11881,
+      "total": 11985,
       "tv": 2491
     },
     "language": "en-US",
@@ -66,13 +66,13 @@
     "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
-      "all": 99,
-      "rated": 67,
+      "all": 101,
+      "rated": 69,
       "ai": 31,
       "draw": 1,
       "drawH": 1,
-      "loss": 41,
-      "lossH": 30,
+      "loss": 43,
+      "lossH": 32,
       "win": 57,
       "winH": 37,
       "bookmark": 0,
