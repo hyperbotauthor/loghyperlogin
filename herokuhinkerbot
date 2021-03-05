@@ -4,24 +4,24 @@
   "username": "HerokuHinkerBot",
   "profileUrl": "https://lichess.org/@/HerokuHinkerBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"herokuhinkerbot\",\"username\":\"HerokuHinkerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2395,\"rd\":117,\"prog\":10,\"prov\":true},\"bullet\":{\"games\":55,\"rating\":2235,\"rd\":61,\"prog\":-28},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2643,\"rd\":177,\"prog\":0,\"prov\":true}},\"createdAt\":1614057090930,\"profile\":{\"country\":\"CN\",\"location\":\"Shanghai\",\"bio\":\"Hyper BOT on Heroku.\",\"firstName\":\"Hinker\",\"lastName\":\"Liu\"},\"seenAt\":1614731774167,\"playTime\":{\"total\":22663,\"tv\":5136},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HerokuHinkerBot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":106,\"rated\":82,\"ai\":0,\"draw\":21,\"drawH\":21,\"loss\":36,\"lossH\":36,\"win\":49,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"herokuhinkerbot\",\"username\":\"HerokuHinkerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2369,\"rd\":112,\"prog\":-16,\"prov\":true},\"bullet\":{\"games\":57,\"rating\":2239,\"rd\":62,\"prog\":-15},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2643,\"rd\":177,\"prog\":0,\"prov\":true}},\"createdAt\":1614057090930,\"profile\":{\"country\":\"CN\",\"location\":\"Shanghai\",\"bio\":\"Hyper BOT on Heroku.\",\"firstName\":\"Hinker\",\"lastName\":\"Liu\"},\"seenAt\":1614909963739,\"playTime\":{\"total\":23885,\"tv\":5375},\"language\":\"zh-CN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HerokuHinkerBot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":114,\"rated\":85,\"ai\":0,\"draw\":22,\"drawH\":22,\"loss\":39,\"lossH\":39,\"win\":53,\"winH\":53,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "herokuhinkerbot",
     "username": "HerokuHinkerBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 12,
-        "rating": 2395,
-        "rd": 117,
-        "prog": 10,
+        "games": 13,
+        "rating": 2369,
+        "rd": 112,
+        "prog": -16,
         "prov": true
       },
       "bullet": {
-        "games": 55,
-        "rating": 2235,
-        "rd": 61,
-        "prog": -28
+        "games": 57,
+        "rating": 2239,
+        "rd": 62,
+        "prog": -15
       },
       "correspondence": {
         "games": 0,
@@ -53,10 +53,10 @@
       "firstName": "Hinker",
       "lastName": "Liu"
     },
-    "seenAt": 1614731774167,
+    "seenAt": 1614909963739,
     "playTime": {
-      "total": 22663,
-      "tv": 5136
+      "total": 23885,
+      "tv": 5375
     },
     "language": "zh-CN",
     "title": "BOT",
@@ -64,15 +64,15 @@
     "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
-      "all": 106,
-      "rated": 82,
+      "all": 114,
+      "rated": 85,
       "ai": 0,
-      "draw": 21,
-      "drawH": 21,
-      "loss": 36,
-      "lossH": 36,
-      "win": 49,
-      "winH": 49,
+      "draw": 22,
+      "drawH": 22,
+      "loss": 39,
+      "lossH": 39,
+      "win": 53,
+      "winH": 53,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
