@@ -4,7 +4,7 @@
   "username": "Peaceful4Life",
   "profileUrl": "https://lichess.org/@/Peaceful4Life",
   "provider": "lichess",
-  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":103,\"prog\":-143},\"blitz\":{\"games\":20,\"rating\":2236,\"rd\":96,\"prog\":102},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":106,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":107,\"prog\":-55},\"threeCheck\":{\"games\":1,\"rating\":1412,\"rd\":374,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2084,\"rd\":75,\"prog\":-9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2506,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1941,\"rd\":160,\"prog\":-19,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\\r\\nFUN FACT: i am on vacation cos i feel overworked and i want a break from my schedule byeee will come back on tau day\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614698385046,\"playTime\":{\"total\":62671,\"tv\":2191},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"nbFollowing\":23,\"nbFollowers\":12,\"count\":{\"all\":234,\"rated\":167,\"ai\":53,\"draw\":20,\"drawH\":14,\"loss\":79,\"lossH\":44,\"win\":135,\"winH\":123,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":104,\"prog\":-143},\"blitz\":{\"games\":20,\"rating\":2236,\"rd\":97,\"prog\":102},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":106,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":107,\"prog\":-55},\"threeCheck\":{\"games\":1,\"rating\":1412,\"rd\":374,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2084,\"rd\":76,\"prog\":-9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2506,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1941,\"rd\":161,\"prog\":-19,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\\r\\nFUN FACT: i am updating stockfish which is very painful so im stuck in hospital for a few weeks pls cry for me thanks\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1614941846450,\"playTime\":{\"total\":63618,\"tv\":2191},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"nbFollowing\":23,\"nbFollowers\":13,\"count\":{\"all\":235,\"rated\":167,\"ai\":54,\"draw\":20,\"drawH\":14,\"loss\":80,\"lossH\":44,\"win\":135,\"winH\":123,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "peaceful4life",
     "username": "Peaceful4Life",
@@ -13,13 +13,13 @@
       "chess960": {
         "games": 15,
         "rating": 1694,
-        "rd": 103,
+        "rd": 104,
         "prog": -143
       },
       "blitz": {
         "games": 20,
         "rating": 2236,
-        "rd": 96,
+        "rd": 97,
         "prog": 102
       },
       "kingOfTheHill": {
@@ -44,7 +44,7 @@
       "bullet": {
         "games": 47,
         "rating": 2084,
-        "rd": 75,
+        "rd": 76,
         "prog": -9
       },
       "correspondence": {
@@ -64,7 +64,7 @@
       "rapid": {
         "games": 15,
         "rating": 1941,
-        "rd": 160,
+        "rd": 161,
         "prog": -19,
         "prov": true
       }
@@ -72,27 +72,27 @@
     "createdAt": 1613063183237,
     "profile": {
       "country": "_lichess",
-      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n☺\r\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\r\nFUN FACT: i am on vacation cos i feel overworked and i want a break from my schedule byeee will come back on tau day",
+      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n☺\r\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\r\nFUN FACT: i am updating stockfish which is very painful so im stuck in hospital for a few weeks pls cry for me thanks",
       "firstName": "Peaceful",
       "lastName": "4 Life"
     },
-    "seenAt": 1614698385046,
+    "seenAt": 1614941846450,
     "playTime": {
-      "total": 62671,
+      "total": 63618,
       "tv": 2191
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Peaceful4Life",
     "nbFollowing": 23,
-    "nbFollowers": 12,
+    "nbFollowers": 13,
     "count": {
-      "all": 234,
+      "all": 235,
       "rated": 167,
-      "ai": 53,
+      "ai": 54,
       "draw": 20,
       "drawH": 14,
-      "loss": 79,
+      "loss": 80,
       "lossH": 44,
       "win": 135,
       "winH": 123,
