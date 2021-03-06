@@ -4,7 +4,7 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":293,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1623,\"rd\":202,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":1899,\"rd\":136,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":1721,\"rd\":97,\"prog\":38},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1811,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Hyper Bot can play from a MongoDB hosted book, automatically updated with its own games on every server startup.\\r\\n Runs on Heroku.\\r\\nhttps://i.imgur.com/XzCNjYv.jpg\",\"links\":\"Heroku.com\"},\"seenAt\":1614916601951,\"playTime\":{\"total\":48713,\"tv\":612},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":5,\"nbFollowers\":15,\"count\":{\"all\":165,\"rated\":60,\"ai\":54,\"draw\":11,\"drawH\":11,\"loss\":78,\"lossH\":45,\"win\":76,\"winH\":55,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":293,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":195,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1901,\"rd\":135,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":1689,\"rd\":94,\"prog\":10},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1811,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Https://imgur.com/xan8pyR\",\"links\":\"Heroku.com\"},\"seenAt\":1615011584084,\"playTime\":{\"total\":50002,\"tv\":859},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/1glepyQx/black\",\"nbFollowing\":5,\"nbFollowers\":15,\"count\":{\"all\":173,\"rated\":63,\"ai\":54,\"draw\":11,\"drawH\":11,\"loss\":82,\"lossH\":49,\"win\":80,\"winH\":59,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "atomic": {
-        "games": 5,
-        "rating": 1623,
-        "rd": 202,
+        "games": 6,
+        "rating": 1610,
+        "rd": 195,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 10,
-        "rating": 1899,
-        "rd": 136,
+        "games": 11,
+        "rating": 1901,
+        "rd": 135,
         "prog": 0,
         "prov": true
       },
@@ -53,10 +53,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 27,
-        "rating": 1721,
-        "rd": 97,
-        "prog": 38
+        "games": 28,
+        "rating": 1689,
+        "rd": 94,
+        "prog": 10
       },
       "correspondence": {
         "games": 0,
@@ -83,31 +83,32 @@
     "createdAt": 1612930350221,
     "profile": {
       "country": "FR",
-      "bio": "Hyper Bot can play from a MongoDB hosted book, automatically updated with its own games on every server startup.\r\n Runs on Heroku.\r\nhttps://i.imgur.com/XzCNjYv.jpg",
+      "bio": "Https://imgur.com/xan8pyR",
       "links": "Heroku.com"
     },
-    "seenAt": 1614916601951,
+    "seenAt": 1615011584084,
     "playTime": {
-      "total": 48713,
-      "tv": 612
+      "total": 50002,
+      "tv": 859
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
+    "playing": "https://lichess.org/1glepyQx/black",
     "nbFollowing": 5,
     "nbFollowers": 15,
     "count": {
-      "all": 165,
-      "rated": 60,
+      "all": 173,
+      "rated": 63,
       "ai": 54,
       "draw": 11,
       "drawH": 11,
-      "loss": 78,
-      "lossH": 45,
-      "win": 76,
-      "winH": 55,
+      "loss": 82,
+      "lossH": 49,
+      "win": 80,
+      "winH": 59,
       "bookmark": 1,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
