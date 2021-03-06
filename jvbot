@@ -4,23 +4,23 @@
   "username": "JVbot",
   "profileUrl": "https://lichess.org/@/JVbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky my brother is @stockfish1259\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1614954913642,\"playTime\":{\"total\":6998,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":47,\"rated\":0,\"ai\":40,\"draw\":4,\"drawH\":1,\"loss\":30,\"lossH\":5,\"win\":13,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1481,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1376,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":27,\"rating\":2127,\"rd\":92,\"prog\":137},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky my brother is @stockfish1259\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1614991519682,\"playTime\":{\"total\":18179,\"tv\":408},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"playing\":\"https://lichess.org/7DMR3z1l/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":89,\"rated\":38,\"ai\":43,\"draw\":6,\"drawH\":3,\"loss\":51,\"lossH\":23,\"win\":32,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jvbot",
     "username": "JVbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1481,
+        "rd": 475,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 1376,
+        "rd": 266,
         "prog": 0,
         "prov": true
       },
@@ -32,16 +32,15 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 27,
+        "rating": 2127,
+        "rd": 92,
+        "prog": 137
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1760,
+        "rd": 396,
         "prog": 0,
         "prov": true
       }
@@ -55,28 +54,29 @@
       "uscfRating": 1449,
       "links": "komodochess.com"
     },
-    "seenAt": 1614954913642,
+    "seenAt": 1614991519682,
     "playTime": {
-      "total": 6998,
-      "tv": 0
+      "total": 18179,
+      "tv": 408
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/JVbot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "playing": "https://lichess.org/7DMR3z1l/white",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
     "count": {
-      "all": 47,
-      "rated": 0,
-      "ai": 40,
-      "draw": 4,
-      "drawH": 1,
-      "loss": 30,
-      "lossH": 5,
-      "win": 13,
-      "winH": 1,
+      "all": 89,
+      "rated": 38,
+      "ai": 43,
+      "draw": 6,
+      "drawH": 3,
+      "loss": 51,
+      "lossH": 23,
+      "win": 32,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 4,
       "me": 0
     },
