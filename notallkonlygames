@@ -4,7 +4,7 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":293,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":195,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1901,\"rd\":135,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":1689,\"rd\":94,\"prog\":10},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1811,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Https://imgur.com/xan8pyR\",\"links\":\"Heroku.com\"},\"seenAt\":1615011584084,\"playTime\":{\"total\":50002,\"tv\":859},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/1glepyQx/black\",\"nbFollowing\":5,\"nbFollowers\":15,\"count\":{\"all\":173,\"rated\":63,\"ai\":54,\"draw\":11,\"drawH\":11,\"loss\":82,\"lossH\":49,\"win\":80,\"winH\":59,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":293,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":195,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1901,\"rd\":135,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1688,\"rd\":94,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1811,\"rd\":163,\"prog\":0,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"FR\",\"bio\":\"Https://imgur.com/xan8pyR\",\"links\":\"Heroku.com\"},\"seenAt\":1615053755222,\"playTime\":{\"total\":50293,\"tv\":1150},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"playing\":\"https://lichess.org/aChWkIbb/black\",\"nbFollowing\":5,\"nbFollowers\":15,\"count\":{\"all\":174,\"rated\":64,\"ai\":54,\"draw\":11,\"drawH\":11,\"loss\":83,\"lossH\":50,\"win\":80,\"winH\":59,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
@@ -53,10 +53,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 28,
-        "rating": 1689,
+        "games": 29,
+        "rating": 1688,
         "rd": 94,
-        "prog": 10
+        "prog": 0
       },
       "correspondence": {
         "games": 0,
@@ -75,7 +75,7 @@
       "rapid": {
         "games": 11,
         "rating": 1811,
-        "rd": 162,
+        "rd": 163,
         "prog": 0,
         "prov": true
       }
@@ -86,25 +86,25 @@
       "bio": "Https://imgur.com/xan8pyR",
       "links": "Heroku.com"
     },
-    "seenAt": 1615011584084,
+    "seenAt": 1615053755222,
     "playTime": {
-      "total": 50002,
-      "tv": 859
+      "total": 50293,
+      "tv": 1150
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NoTallkOnlyGames",
-    "playing": "https://lichess.org/1glepyQx/black",
+    "playing": "https://lichess.org/aChWkIbb/black",
     "nbFollowing": 5,
     "nbFollowers": 15,
     "count": {
-      "all": 173,
-      "rated": 63,
+      "all": 174,
+      "rated": 64,
       "ai": 54,
       "draw": 11,
       "drawH": 11,
-      "loss": 82,
-      "lossH": 49,
+      "loss": 83,
+      "lossH": 50,
       "win": 80,
       "winH": 59,
       "bookmark": 1,
