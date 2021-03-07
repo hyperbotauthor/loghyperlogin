@@ -4,7 +4,7 @@
   "username": "JVbot",
   "profileUrl": "https://lichess.org/@/JVbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1481,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1376,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":27,\"rating\":2127,\"rd\":92,\"prog\":137},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky my brother is @stockfish1259\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1614991519682,\"playTime\":{\"total\":18179,\"tv\":408},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"playing\":\"https://lichess.org/7DMR3z1l/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":89,\"rated\":38,\"ai\":43,\"draw\":6,\"drawH\":3,\"loss\":51,\"lossH\":23,\"win\":32,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1481,\"rd\":475,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2115,\"rd\":194,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1376,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":36,\"rating\":2093,\"rd\":79,\"prog\":-40},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky I love to play classical\\r\\nhttps://lichess1.org/assets/_2DlcdL/images/icons/bot.png\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"fideRating\":2600,\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1615129919932,\"playTime\":{\"total\":21828,\"tv\":425},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"playing\":\"https://lichess.org/jI9h7e1A/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":103,\"rated\":52,\"ai\":43,\"draw\":6,\"drawH\":3,\"loss\":58,\"lossH\":30,\"win\":39,\"winH\":27,\"bookmark\":0,\"playing\":1,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jvbot",
     "username": "JVbot",
@@ -14,6 +14,13 @@
         "games": 2,
         "rating": 1481,
         "rd": 475,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 5,
+        "rating": 2115,
+        "rd": 194,
         "prog": 0,
         "prov": true
       },
@@ -32,10 +39,10 @@
         "prov": true
       },
       "classical": {
-        "games": 27,
-        "rating": 2127,
-        "rd": 92,
-        "prog": 137
+        "games": 36,
+        "rating": 2093,
+        "rd": 79,
+        "prog": -40
       },
       "rapid": {
         "games": 1,
@@ -48,33 +55,34 @@
     "createdAt": 1608920270045,
     "profile": {
       "country": "_pirate",
-      "bio": "My inventor is @UWVolsky my brother is @stockfish1259",
+      "bio": "My inventor is @UWVolsky I love to play classical\r\nhttps://lichess1.org/assets/_2DlcdL/images/icons/bot.png",
       "firstName": "JV",
       "lastName": "Bot",
+      "fideRating": 2600,
       "uscfRating": 1449,
       "links": "komodochess.com"
     },
-    "seenAt": 1614991519682,
+    "seenAt": 1615129919932,
     "playTime": {
-      "total": 18179,
-      "tv": 408
+      "total": 21828,
+      "tv": 425
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/JVbot",
-    "playing": "https://lichess.org/7DMR3z1l/white",
+    "playing": "https://lichess.org/jI9h7e1A/white",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 89,
-      "rated": 38,
+      "all": 103,
+      "rated": 52,
       "ai": 43,
       "draw": 6,
       "drawH": 3,
-      "loss": 51,
-      "lossH": 23,
-      "win": 32,
-      "winH": 20,
+      "loss": 58,
+      "lossH": 30,
+      "win": 39,
+      "winH": 27,
       "bookmark": 0,
       "playing": 1,
       "import": 4,
