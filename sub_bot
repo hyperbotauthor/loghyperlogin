@@ -4,7 +4,7 @@
   "username": "Sub_Bot",
   "profileUrl": "https://lichess.org/@/Sub_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":147,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":255,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2178,\"rd\":163,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":357,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":385,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"I am created by @Suban1. I pretty much accept challenges anytime I am online. There are exceptions, of course, but they are rare. It would be nice if you followed me. Have a great day!\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1614266746908,\"playTime\":{\"total\":10370,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":7,\"nbFollowers\":3,\"count\":{\"all\":35,\"rated\":26,\"ai\":3,\"draw\":7,\"drawH\":5,\"loss\":6,\"lossH\":6,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":149,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":256,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2178,\"rd\":164,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":357,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":385,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"I am created by @Suban1. I pretty much accept challenges anytime I am online. There are exceptions, of course, but they are rare. It would be nice if you followed me. Have a great day!\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1615111109442,\"playTime\":{\"total\":10370,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":7,\"nbFollowers\":4,\"count\":{\"all\":35,\"rated\":26,\"ai\":3,\"draw\":7,\"drawH\":5,\"loss\":6,\"lossH\":6,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sub_bot",
     "username": "Sub_Bot",
@@ -13,21 +13,21 @@
       "blitz": {
         "games": 10,
         "rating": 2220,
-        "rd": 147,
+        "rd": 149,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1974,
-        "rd": 255,
+        "rd": 256,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 11,
         "rating": 2178,
-        "rd": 163,
+        "rd": 164,
         "prog": 0,
         "prov": true
       },
@@ -62,7 +62,7 @@
       "lastName": "Made by Suban1",
       "links": "lichess.org"
     },
-    "seenAt": 1614266746908,
+    "seenAt": 1615111109442,
     "playTime": {
       "total": 10370,
       "tv": 2755
@@ -71,7 +71,7 @@
     "title": "BOT",
     "url": "https://lichess.org/@/Sub_Bot",
     "nbFollowing": 7,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
       "all": 35,
       "rated": 26,
