@@ -4,7 +4,7 @@
   "username": "legendbot1",
   "profileUrl": "https://lichess.org/@/legendbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1285,\"rd\":263,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":2061,\"rd\":78,\"prog\":-7},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":1934,\"rd\":58,\"prog\":-27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":2136,\"rd\":125,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2091,\"rd\":167,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\\r\\n\\r\\n\\r\\nhttps://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif\",\"fideRating\":3000},\"seenAt\":1615016275102,\"playTime\":{\"total\":82077,\"tv\":10204},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":39,\"nbFollowers\":19,\"count\":{\"all\":252,\"rated\":200,\"ai\":20,\"draw\":18,\"drawH\":16,\"loss\":70,\"lossH\":60,\"win\":164,\"winH\":156,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendbot1\",\"username\":\"legendbot1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1285,\"rd\":263,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":2061,\"rd\":79,\"prog\":-7},\"racingKings\":{\"games\":2,\"rating\":1893,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":1934,\"rd\":59,\"prog\":-27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":2136,\"rd\":126,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2091,\"rd\":167,\"prog\":0,\"prov\":true}},\"createdAt\":1610786073717,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/ahfAslw.jpg\\r\\n\\r\\n\\r\\nhttps://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif\",\"fideRating\":3000},\"seenAt\":1615205827704,\"playTime\":{\"total\":82152,\"tv\":10204},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/legendbot1\",\"nbFollowing\":40,\"nbFollowers\":20,\"count\":{\"all\":254,\"rated\":200,\"ai\":21,\"draw\":18,\"drawH\":16,\"loss\":71,\"lossH\":60,\"win\":165,\"winH\":157,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendbot1",
     "username": "legendbot1",
@@ -20,7 +20,7 @@
       "blitz": {
         "games": 56,
         "rating": 2061,
-        "rd": 78,
+        "rd": 79,
         "prog": -7
       },
       "racingKings": {
@@ -33,7 +33,7 @@
       "bullet": {
         "games": 121,
         "rating": 1934,
-        "rd": 58,
+        "rd": 59,
         "prog": -27
       },
       "correspondence": {
@@ -46,7 +46,7 @@
       "classical": {
         "games": 10,
         "rating": 2136,
-        "rd": 125,
+        "rd": 126,
         "prog": 0,
         "prov": true
       },
@@ -64,26 +64,26 @@
       "bio": "https://i.imgur.com/ahfAslw.jpg\r\n\r\n\r\nhttps://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif",
       "fideRating": 3000
     },
-    "seenAt": 1615016275102,
+    "seenAt": 1615205827704,
     "playTime": {
-      "total": 82077,
+      "total": 82152,
       "tv": 10204
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/legendbot1",
-    "nbFollowing": 39,
-    "nbFollowers": 19,
+    "nbFollowing": 40,
+    "nbFollowers": 20,
     "count": {
-      "all": 252,
+      "all": 254,
       "rated": 200,
-      "ai": 20,
+      "ai": 21,
       "draw": 18,
       "drawH": 16,
-      "loss": 70,
+      "loss": 71,
       "lossH": 60,
-      "win": 164,
-      "winH": 156,
+      "win": 165,
+      "winH": 157,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
