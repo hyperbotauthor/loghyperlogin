@@ -1,0 +1,81 @@
+{
+  "id": "strong_bot_strength",
+  "displayName": "Strong_bot_strength",
+  "username": "Strong_bot_strength",
+  "profileUrl": "https://lichess.org/@/Strong_bot_strength",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"strong_bot_strength\",\"username\":\"Strong_bot_strength\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1485,\"rd\":479,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613125466326,\"seenAt\":1615286280457,\"playTime\":{\"total\":441,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Strong_bot_strength\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":8,\"rated\":1,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":5,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "strong_bot_strength",
+    "username": "Strong_bot_strength",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1485,
+        "rd": 479,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613125466326,
+    "seenAt": 1615286280457,
+    "playTime": {
+      "total": 441,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Strong_bot_strength",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
+    "count": {
+      "all": 8,
+      "rated": 1,
+      "ai": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 7,
+      "lossH": 5,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
