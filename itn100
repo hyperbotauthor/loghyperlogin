@@ -4,7 +4,7 @@
   "username": "ITN100",
   "profileUrl": "https://lichess.org/@/ITN100",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itn100\",\"username\":\"ITN100\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1945,\"rd\":158,\"prog\":264,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1640,\"rd\":190,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":37,\"rating\":1705,\"rd\":78,\"prog\":78},\"racingKings\":{\"games\":9,\"rating\":2225,\"rd\":178,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":44,\"rating\":2190,\"rd\":79,\"prog\":158},\"kingOfTheHill\":{\"games\":6,\"rating\":1696,\"rd\":222,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":2126,\"rd\":181,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1971,\"rd\":163,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":141,\"rating\":2071,\"rd\":48,\"prog\":1},\"correspondence\":{\"games\":2,\"rating\":1790,\"rd\":282,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2233,\"rd\":152,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2454,\"rd\":89,\"prog\":225}},\"createdAt\":1597545511090,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://time.is/CT\\r\\nScroll Down to see Biography\\r\\nhttps://i.imgur.com/VWKtJuc.jpg\\r\\nHi I am @ITN123's BOT\\r\\n@ITN123  \\uD83D\\uDC4D\\r\\n1.) I will follow you if you follow me. (Give me at-least 24hrs)\\r\\n2.) I will join any team if you join ITN123's fan team\",\"firstName\":\"BOT ITN100 Online\",\"lastName\":\"8:30 - 3:00 CT\",\"uscfRating\":1222,\"links\":\"https://www.chess.com/member/chess_playerx9\"},\"seenAt\":1614954282585,\"playTime\":{\"total\":92810,\"tv\":15811},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ITN100\",\"nbFollowing\":152,\"nbFollowers\":114,\"count\":{\"all\":362,\"rated\":314,\"ai\":2,\"draw\":28,\"drawH\":28,\"loss\":121,\"lossH\":120,\"win\":213,\"winH\":212,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itn100\",\"username\":\"ITN100\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1945,\"rd\":159,\"prog\":264,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1640,\"rd\":190,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":37,\"rating\":1705,\"rd\":79,\"prog\":78},\"racingKings\":{\"games\":9,\"rating\":2225,\"rd\":178,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":44,\"rating\":2190,\"rd\":80,\"prog\":158},\"kingOfTheHill\":{\"games\":6,\"rating\":1696,\"rd\":223,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":2126,\"rd\":181,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1971,\"rd\":163,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":142,\"rating\":2068,\"rd\":49,\"prog\":-7},\"correspondence\":{\"games\":2,\"rating\":1790,\"rd\":282,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2233,\"rd\":152,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2454,\"rd\":89,\"prog\":225}},\"createdAt\":1597545511090,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://time.is/CT\\r\\nScroll Down to see Biography\\r\\nhttps://i.imgur.com/VWKtJuc.jpg\\r\\nHi I am @ITN123's BOT\\r\\n@ITN123  \\uD83D\\uDC4D\\r\\n1.) I will follow you if you follow me. (Give me at-least 24hrs)\\r\\n2.) I will join any team if you join ITN123's fan team\",\"firstName\":\"BOT ITN100 Online\",\"lastName\":\"8:30 - 3:00 CT\",\"uscfRating\":1222,\"links\":\"https://www.chess.com/member/chess_playerx9\"},\"seenAt\":1615301000534,\"playTime\":{\"total\":92881,\"tv\":15811},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ITN100\",\"nbFollowing\":166,\"nbFollowers\":121,\"count\":{\"all\":363,\"rated\":315,\"ai\":2,\"draw\":28,\"drawH\":28,\"loss\":122,\"lossH\":121,\"win\":213,\"winH\":212,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itn100",
     "username": "ITN100",
@@ -13,7 +13,7 @@
       "antichess": {
         "games": 15,
         "rating": 1945,
-        "rd": 158,
+        "rd": 159,
         "prog": 264,
         "prov": true
       },
@@ -27,7 +27,7 @@
       "atomic": {
         "games": 37,
         "rating": 1705,
-        "rd": 78,
+        "rd": 79,
         "prog": 78
       },
       "racingKings": {
@@ -40,13 +40,13 @@
       "blitz": {
         "games": 44,
         "rating": 2190,
-        "rd": 79,
+        "rd": 80,
         "prog": 158
       },
       "kingOfTheHill": {
         "games": 6,
         "rating": 1696,
-        "rd": 222,
+        "rd": 223,
         "prog": 0,
         "prov": true
       },
@@ -65,10 +65,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 141,
-        "rating": 2071,
-        "rd": 48,
-        "prog": 1
+        "games": 142,
+        "rating": 2068,
+        "rd": 49,
+        "prog": -7
       },
       "correspondence": {
         "games": 2,
@@ -100,24 +100,24 @@
       "uscfRating": 1222,
       "links": "https://www.chess.com/member/chess_playerx9"
     },
-    "seenAt": 1614954282585,
+    "seenAt": 1615301000534,
     "playTime": {
-      "total": 92810,
+      "total": 92881,
       "tv": 15811
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ITN100",
-    "nbFollowing": 152,
-    "nbFollowers": 114,
+    "nbFollowing": 166,
+    "nbFollowers": 121,
     "count": {
-      "all": 362,
-      "rated": 314,
+      "all": 363,
+      "rated": 315,
       "ai": 2,
       "draw": 28,
       "drawH": 28,
-      "loss": 121,
-      "lossH": 120,
+      "loss": 122,
+      "lossH": 121,
       "win": 213,
       "winH": 212,
       "bookmark": 0,
