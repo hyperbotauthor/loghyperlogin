@@ -4,11 +4,11 @@
   "username": "JVbot",
   "profileUrl": "https://lichess.org/@/JVbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1481,\"rd\":475,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2115,\"rd\":194,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1376,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":38,\"rating\":2079,\"rd\":77,\"prog\":-48},\"rapid\":{\"games\":2,\"rating\":1918,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky I love to play classical\\r\\nhttps://lichess1.org/assets/_2DlcdL/images/icons/bot.png\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"fideRating\":2600,\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1615243012802,\"playTime\":{\"total\":22673,\"tv\":425},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"playing\":\"https://lichess.org/ADXkMWRb/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":106,\"rated\":55,\"ai\":43,\"draw\":6,\"drawH\":3,\"loss\":59,\"lossH\":31,\"win\":41,\"winH\":29,\"bookmark\":0,\"playing\":1,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jvbot\",\"username\":\"JVbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1481,\"rd\":475,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2115,\"rd\":194,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1376,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":41,\"rating\":2023,\"rd\":73,\"prog\":-92},\"rapid\":{\"games\":3,\"rating\":1787,\"rd\":214,\"prog\":0,\"prov\":true}},\"createdAt\":1608920270045,\"profile\":{\"country\":\"_pirate\",\"bio\":\"My inventor is @UWVolsky I love to play classical\\r\\nhttps://lichess1.org/assets/_2DlcdL/images/icons/bot.png\",\"firstName\":\"JV\",\"lastName\":\"Bot\",\"fideRating\":2600,\"uscfRating\":1449,\"links\":\"komodochess.com\"},\"seenAt\":1615313274586,\"playTime\":{\"total\":24134,\"tv\":425},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/JVbot\",\"playing\":\"https://lichess.org/vsJySkF7/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":110,\"rated\":59,\"ai\":43,\"draw\":6,\"drawH\":3,\"loss\":63,\"lossH\":35,\"win\":41,\"winH\":29,\"bookmark\":0,\"playing\":1,\"import\":4,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jvbot",
     "username": "JVbot",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 2,
@@ -39,15 +39,15 @@
         "prov": true
       },
       "classical": {
-        "games": 38,
-        "rating": 2079,
-        "rd": 77,
-        "prog": -48
+        "games": 41,
+        "rating": 2023,
+        "rd": 73,
+        "prog": -92
       },
       "rapid": {
-        "games": 2,
-        "rating": 1918,
-        "rd": 269,
+        "games": 3,
+        "rating": 1787,
+        "rd": 214,
         "prog": 0,
         "prov": true
       }
@@ -62,25 +62,25 @@
       "uscfRating": 1449,
       "links": "komodochess.com"
     },
-    "seenAt": 1615243012802,
+    "seenAt": 1615313274586,
     "playTime": {
-      "total": 22673,
+      "total": 24134,
       "tv": 425
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/JVbot",
-    "playing": "https://lichess.org/ADXkMWRb/white",
+    "playing": "https://lichess.org/vsJySkF7/white",
     "nbFollowing": 1,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 106,
-      "rated": 55,
+      "all": 110,
+      "rated": 59,
       "ai": 43,
       "draw": 6,
       "drawH": 3,
-      "loss": 59,
-      "lossH": 31,
+      "loss": 63,
+      "lossH": 35,
       "win": 41,
       "winH": 29,
       "bookmark": 0,
