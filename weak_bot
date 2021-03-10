@@ -4,7 +4,7 @@
   "username": "Weak_bot",
   "profileUrl": "https://lichess.org/@/Weak_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"weak_bot\",\"username\":\"Weak_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615291613139,\"seenAt\":1615292322021,\"playTime\":{\"total\":27,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Weak_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"weak_bot\",\"username\":\"Weak_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615291613139,\"seenAt\":1615363046938,\"playTime\":{\"total\":604,\"tv\":53},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Weak_bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":11,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "weak_bot",
     "username": "Weak_bot",
@@ -47,10 +47,10 @@
       }
     },
     "createdAt": 1615291613139,
-    "seenAt": 1615292322021,
+    "seenAt": 1615363046938,
     "playTime": {
-      "total": 27,
-      "tv": 0
+      "total": 604,
+      "tv": 53
     },
     "language": "en-US",
     "title": "BOT",
@@ -58,15 +58,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 1,
+      "all": 11,
       "rated": 0,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 6,
+      "lossH": 6,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
