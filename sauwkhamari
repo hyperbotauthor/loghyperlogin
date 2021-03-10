@@ -4,7 +4,7 @@
   "username": "sauwkhamari",
   "profileUrl": "https://lichess.org/@/sauwkhamari",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sauwkhamari\",\"username\":\"sauwkhamari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1626,\"rd\":257,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":1580,\"rd\":179,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1614971971295,\"profile\":{\"fideRating\":2500,\"uscfRating\":2200,\"ecfRating\":1700},\"seenAt\":1615043888259,\"playTime\":{\"total\":5087,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sauwkhamari\",\"playing\":\"https://lichess.org/nZzk3Un5/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":26,\"rated\":16,\"ai\":10,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":10,\"win\":10,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sauwkhamari\",\"username\":\"sauwkhamari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1626,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":1580,\"rd\":180,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true}},\"createdAt\":1614971971295,\"profile\":{\"fideRating\":2500,\"uscfRating\":2200,\"ecfRating\":1700},\"seenAt\":1615397891994,\"playTime\":{\"total\":5531,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sauwkhamari\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":27,\"rated\":16,\"ai\":11,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":10,\"win\":11,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sauwkhamari",
     "username": "sauwkhamari",
@@ -20,14 +20,14 @@
       "crazyhouse": {
         "games": 1,
         "rating": 1741,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 6,
         "rating": 1626,
-        "rd": 257,
+        "rd": 258,
         "prog": 0,
         "prov": true
       },
@@ -41,14 +41,14 @@
       "classical": {
         "games": 8,
         "rating": 1580,
-        "rd": 179,
+        "rd": 180,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 1,
         "rating": 1258,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       }
@@ -59,29 +59,28 @@
       "uscfRating": 2200,
       "ecfRating": 1700
     },
-    "seenAt": 1615043888259,
+    "seenAt": 1615397891994,
     "playTime": {
-      "total": 5087,
+      "total": 5531,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/sauwkhamari",
-    "playing": "https://lichess.org/nZzk3Un5/black",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 26,
+      "all": 27,
       "rated": 16,
-      "ai": 10,
+      "ai": 11,
       "draw": 1,
       "drawH": 1,
       "loss": 15,
       "lossH": 10,
-      "win": 10,
+      "win": 11,
       "winH": 5,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
