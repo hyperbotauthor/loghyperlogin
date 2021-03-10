@@ -4,69 +4,74 @@
   "username": "Mihir10_Bot",
   "profileUrl": "https://lichess.org/@/Mihir10_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mihir10_bot\",\"username\":\"Mihir10_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2270,\"rd\":141,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1870,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1843,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2448,\"rd\":281,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2613,\"rd\":295,\"prog\":0,\"prov\":true}},\"createdAt\":1613896095250,\"seenAt\":1613974518970,\"playTime\":{\"total\":9630,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mihir10_Bot\",\"nbFollowing\":7,\"nbFollowers\":3,\"count\":{\"all\":25,\"rated\":21,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":3,\"lossH\":3,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mihir10_bot\",\"username\":\"Mihir10_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":2312,\"rd\":85,\"prog\":40},\"atomic\":{\"games\":1,\"rating\":2051,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":1845,\"rd\":106,\"prog\":-7},\"correspondence\":{\"games\":1,\"rating\":1843,\"rd\":326,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2170,\"rd\":242,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2662,\"rd\":260,\"prog\":0,\"prov\":true}},\"createdAt\":1613896095250,\"seenAt\":1615344038675,\"playTime\":{\"total\":18995,\"tv\":1526},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Mihir10_Bot\",\"nbFollowing\":32,\"nbFollowers\":14,\"count\":{\"all\":67,\"rated\":63,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":17,\"lossH\":17,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mihir10_bot",
     "username": "Mihir10_Bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 10,
-        "rating": 2270,
-        "rd": 141,
+        "games": 32,
+        "rating": 2312,
+        "rd": 85,
+        "prog": 40
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 2051,
+        "rd": 452,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 1870,
-        "rd": 148,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 1845,
+        "rd": 106,
+        "prog": -7
       },
       "correspondence": {
         "games": 1,
         "rating": 1843,
-        "rd": 325,
+        "rd": 326,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 2,
-        "rating": 2448,
-        "rd": 281,
+        "games": 3,
+        "rating": 2170,
+        "rd": 242,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2613,
-        "rd": 295,
+        "games": 3,
+        "rating": 2662,
+        "rd": 260,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613896095250,
-    "seenAt": 1613974518970,
+    "seenAt": 1615344038675,
     "playTime": {
-      "total": 9630,
-      "tv": 0
+      "total": 18995,
+      "tv": 1526
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Mihir10_Bot",
-    "nbFollowing": 7,
-    "nbFollowers": 3,
+    "nbFollowing": 32,
+    "nbFollowers": 14,
     "count": {
-      "all": 25,
-      "rated": 21,
+      "all": 67,
+      "rated": 63,
       "ai": 0,
-      "draw": 4,
-      "drawH": 4,
-      "loss": 3,
-      "lossH": 3,
-      "win": 18,
-      "winH": 18,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 17,
+      "lossH": 17,
+      "win": 40,
+      "winH": 40,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
