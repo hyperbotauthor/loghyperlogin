@@ -4,7 +4,7 @@
   "username": "Randommovesbot",
   "profileUrl": "https://lichess.org/@/Randommovesbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1318,\"rd\":346,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":346,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1365,\"rd\":348,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":992,\"rd\":270,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2242,\"rd\":381,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":7,\"rating\":1223,\"rd\":289,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1199,\"rd\":248,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":14,\"rating\":1311,\"rd\":190,\"prog\":-76,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1646,\"rd\":181,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1339,\"rd\":352,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1130,\"rd\":315,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1615526751248,\"playTime\":{\"total\":4682,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":64,\"rated\":51,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":52,\"lossH\":52,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1318,\"rd\":346,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":346,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1365,\"rd\":348,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":992,\"rd\":270,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1541,\"rd\":237,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":7,\"rating\":1223,\"rd\":289,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1199,\"rd\":248,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":14,\"rating\":1311,\"rd\":190,\"prog\":-76,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1646,\"rd\":181,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1339,\"rd\":352,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1130,\"rd\":315,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1615550353670,\"playTime\":{\"total\":17396,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":70,\"rated\":57,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":58,\"lossH\":58,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommovesbot",
     "username": "Randommovesbot",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 2,
-        "rating": 2242,
-        "rd": 381,
+        "games": 8,
+        "rating": 1541,
+        "rd": 237,
         "prog": 0,
         "prov": true
       },
@@ -96,9 +96,9 @@
       }
     },
     "createdAt": 1613709594340,
-    "seenAt": 1615526751248,
+    "seenAt": 1615550353670,
     "playTime": {
-      "total": 4682,
+      "total": 17396,
       "tv": 0
     },
     "language": "en-US",
@@ -107,13 +107,13 @@
     "nbFollowing": 0,
     "nbFollowers": 5,
     "count": {
-      "all": 64,
-      "rated": 51,
+      "all": 70,
+      "rated": 57,
       "ai": 0,
       "draw": 3,
       "drawH": 3,
-      "loss": 52,
-      "lossH": 52,
+      "loss": 58,
+      "lossH": 58,
       "win": 9,
       "winH": 9,
       "bookmark": 0,
