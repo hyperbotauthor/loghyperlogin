@@ -1,0 +1,86 @@
+{
+  "id": "variants_tournaments",
+  "displayName": "Variants_Tournaments",
+  "username": "Variants_Tournaments",
+  "profileUrl": "https://lichess.org/@/Variants_Tournaments",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"variants_tournaments\",\"username\":\"Variants_Tournaments\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1734,\"rd\":288,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2062,\"rd\":291,\"prog\":0,\"prov\":true}},\"createdAt\":1615448700495,\"profile\":{\"country\":\"GB\",\"bio\":\"Creator @ChessVeerKumar and @KINGNANDI_chessbot coded by @KINGNANDI_chessbot you can challenge me anytime\",\"firstName\":\"\\uD83C\\uDF81PRIZES SPONSER\\uD83C\\uDF81\"},\"seenAt\":1615551672379,\"playTime\":{\"total\":734,\"tv\":40},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Variants_Tournaments\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":9,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "variants_tournaments",
+    "username": "Variants_Tournaments",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1734,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2062,
+        "rd": 291,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1615448700495,
+    "profile": {
+      "country": "GB",
+      "bio": "Creator @ChessVeerKumar and @KINGNANDI_chessbot coded by @KINGNANDI_chessbot you can challenge me anytime",
+      "firstName": "🎁PRIZES SPONSER🎁"
+    },
+    "seenAt": 1615551672379,
+    "playTime": {
+      "total": 734,
+      "tv": 40
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Variants_Tournaments",
+    "nbFollowing": 0,
+    "nbFollowers": 5,
+    "count": {
+      "all": 9,
+      "rated": 3,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
