@@ -1,0 +1,87 @@
+{
+  "id": "chess-trainer2424",
+  "displayName": "Chess-Trainer2424",
+  "username": "Chess-Trainer2424",
+  "profileUrl": "https://lichess.org/@/Chess-Trainer2424",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess-trainer2424\",\"username\":\"Chess-Trainer2424\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1605014936995,\"profile\":{\"bio\":\"Hello,my name is @Chess-Trainer2424 ! I like to only use the pawns in front of the king and queen in the start of the game. My developer is @masonHom8 I beat stockfish level 1! here:lichess.org/Tzm03TurbPaK try to challlenge me and see who will win! (I will only acsept crazyhouse and standard.)\",\"fideRating\":1500,\"links\":\"Chess.com\\r\\nGithub.com\"},\"seenAt\":1615559476031,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chess-Trainer2424\",\"playing\":\"https://lichess.org/eHl7SllX/white\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":25,\"rated\":0,\"ai\":11,\"draw\":5,\"drawH\":3,\"loss\":16,\"lossH\":10,\"win\":4,\"winH\":1,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess-trainer2424",
+    "username": "Chess-Trainer2424",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1605014936995,
+    "profile": {
+      "bio": "Hello,my name is @Chess-Trainer2424 ! I like to only use the pawns in front of the king and queen in the start of the game. My developer is @masonHom8 I beat stockfish level 1! here:lichess.org/Tzm03TurbPaK try to challlenge me and see who will win! (I will only acsept crazyhouse and standard.)",
+      "fideRating": 1500,
+      "links": "Chess.com\r\nGithub.com"
+    },
+    "seenAt": 1615559476031,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Chess-Trainer2424",
+    "playing": "https://lichess.org/eHl7SllX/white",
+    "nbFollowing": 3,
+    "nbFollowers": 2,
+    "count": {
+      "all": 25,
+      "rated": 0,
+      "ai": 11,
+      "draw": 5,
+      "drawH": 3,
+      "loss": 16,
+      "lossH": 10,
+      "win": 4,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
