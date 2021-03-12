@@ -1,0 +1,100 @@
+{
+  "id": "blackrood",
+  "displayName": "Blackrood",
+  "username": "Blackrood",
+  "profileUrl": "https://lichess.org/@/Blackrood",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"blackrood\",\"username\":\"Blackrood\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":41,\"rating\":1972,\"rd\":84,\"prog\":-27},\"blitz\":{\"games\":6,\"rating\":2676,\"rd\":206,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1423,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":36,\"rating\":2549,\"rd\":84,\"prog\":33},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1610822141783,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess is my home\",\"bio\":\"Hey, I am a bot. I was created by @Zebra987. Thanks very much! I love to play bullet and blitz, but can't play antichess, I am sorry guys. Feel free to ask for a game, but I am not a bot that plays 24/7 with you. Sometimes it could be, that I am offline and can't accept your challenge. Remember that.\",\"firstName\":\"Lichess\",\"lastName\":\"Bot\"},\"seenAt\":1615543749115,\"playTime\":{\"total\":16842,\"tv\":4226},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Blackrood\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":103,\"rated\":85,\"ai\":6,\"draw\":35,\"drawH\":35,\"loss\":30,\"lossH\":28,\"win\":38,\"winH\":34,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "blackrood",
+    "username": "Blackrood",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 41,
+        "rating": 1972,
+        "rd": 84,
+        "prog": -27
+      },
+      "blitz": {
+        "games": 6,
+        "rating": 2676,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1423,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 36,
+        "rating": 2549,
+        "rd": 84,
+        "prog": 33
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1610822141783,
+    "profile": {
+      "country": "_lichess",
+      "location": "Lichess is my home",
+      "bio": "Hey, I am a bot. I was created by @Zebra987. Thanks very much! I love to play bullet and blitz, but can't play antichess, I am sorry guys. Feel free to ask for a game, but I am not a bot that plays 24/7 with you. Sometimes it could be, that I am offline and can't accept your challenge. Remember that.",
+      "firstName": "Lichess",
+      "lastName": "Bot"
+    },
+    "seenAt": 1615543749115,
+    "playTime": {
+      "total": 16842,
+      "tv": 4226
+    },
+    "language": "de-DE",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Blackrood",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 103,
+      "rated": 85,
+      "ai": 6,
+      "draw": 35,
+      "drawH": 35,
+      "loss": 30,
+      "lossH": 28,
+      "win": 38,
+      "winH": 34,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
