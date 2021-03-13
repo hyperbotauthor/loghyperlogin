@@ -4,71 +4,71 @@
   "username": "Dmitri11",
   "profileUrl": "https://lichess.org/@/Dmitri11",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dmitri11\",\"username\":\"Dmitri11\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":36,\"rating\":1343,\"rd\":102,\"prog\":10},\"antichess\":{\"games\":134,\"rating\":1346,\"rd\":76,\"prog\":-81},\"atomic\":{\"games\":3463,\"rating\":1695,\"rd\":49,\"prog\":-20},\"racingKings\":{\"games\":38,\"rating\":1455,\"rd\":100,\"prog\":2},\"ultraBullet\":{\"games\":915,\"rating\":1542,\"rd\":52,\"prog\":-14},\"blitz\":{\"games\":411,\"rating\":1740,\"rd\":45,\"prog\":35},\"kingOfTheHill\":{\"games\":77,\"rating\":1390,\"rd\":93,\"prog\":-5},\"crazyhouse\":{\"games\":200,\"rating\":1518,\"rd\":62,\"prog\":70},\"threeCheck\":{\"games\":66,\"rating\":1474,\"rd\":87,\"prog\":33},\"bullet\":{\"games\":1038,\"rating\":1802,\"rd\":45,\"prog\":19},\"correspondence\":{\"games\":6,\"rating\":1235,\"rd\":182,\"prog\":0,\"prov\":true},\"horde\":{\"games\":36,\"rating\":1451,\"rd\":98,\"prog\":7},\"puzzle\":{\"games\":2264,\"rating\":2165,\"rd\":69,\"prog\":0},\"classical\":{\"games\":66,\"rating\":1595,\"rd\":68,\"prog\":39},\"rapid\":{\"games\":509,\"rating\":1642,\"rd\":45,\"prog\":-18},\"storm\":{\"runs\":106,\"score\":37}},\"createdAt\":1585927701976,\"profile\":{\"country\":\"_lichess\",\"location\":\"No Location & N00b\",\"bio\":\"lichess.org/team/N6Pt5zT0  https://lichess.org/study/qbqYUWov I am 666\",\"firstName\":\"Lichess\",\"lastName\":\"Lichess0B|\\\\|ch\",\"fideRating\":666,\"uscfRating\":666,\"ecfRating\":666,\"links\":\"lichess.org\"},\"seenAt\":1615042277850,\"playTime\":{\"total\":994634,\"tv\":8998},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/Dmitri11\",\"nbFollowing\":15,\"nbFollowers\":39,\"completionRate\":100,\"count\":{\"all\":7951,\"rated\":7024,\"ai\":249,\"draw\":275,\"drawH\":257,\"loss\":3568,\"lossH\":3440,\"win\":4108,\"winH\":4005,\"bookmark\":46,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dmitri11\",\"username\":\"Dmitri11\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":48,\"rating\":1496,\"rd\":79,\"prog\":132},\"antichess\":{\"games\":134,\"rating\":1346,\"rd\":77,\"prog\":-81},\"atomic\":{\"games\":3472,\"rating\":1682,\"rd\":48,\"prog\":-20},\"racingKings\":{\"games\":38,\"rating\":1455,\"rd\":101,\"prog\":2},\"ultraBullet\":{\"games\":918,\"rating\":1563,\"rd\":52,\"prog\":6},\"blitz\":{\"games\":467,\"rating\":1740,\"rd\":45,\"prog\":-13},\"kingOfTheHill\":{\"games\":77,\"rating\":1390,\"rd\":94,\"prog\":-5},\"crazyhouse\":{\"games\":200,\"rating\":1518,\"rd\":63,\"prog\":70},\"threeCheck\":{\"games\":66,\"rating\":1474,\"rd\":88,\"prog\":33},\"bullet\":{\"games\":1106,\"rating\":1831,\"rd\":45,\"prog\":18},\"correspondence\":{\"games\":6,\"rating\":1235,\"rd\":182,\"prog\":0,\"prov\":true},\"horde\":{\"games\":37,\"rating\":1467,\"rd\":97,\"prog\":-1},\"puzzle\":{\"games\":2304,\"rating\":2266,\"rd\":67,\"prog\":0},\"classical\":{\"games\":66,\"rating\":1595,\"rd\":69,\"prog\":39},\"rapid\":{\"games\":519,\"rating\":1671,\"rd\":45,\"prog\":22},\"storm\":{\"runs\":146,\"score\":37}},\"createdAt\":1585927701976,\"profile\":{\"country\":\"_lichess\",\"location\":\"No Location & N00b\",\"bio\":\"lichess.org/team/N6Pt5zT0  https://lichess.org/study/qbqYUWov I am 666\",\"firstName\":\"Lichess\",\"lastName\":\"Lichess0B|\\\\|ch\",\"fideRating\":666,\"uscfRating\":666,\"ecfRating\":666,\"links\":\"lichess.org\"},\"seenAt\":1615636967852,\"playTime\":{\"total\":1020932,\"tv\":9226},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/Dmitri11\",\"nbFollowing\":13,\"nbFollowers\":38,\"completionRate\":100,\"count\":{\"all\":8130,\"rated\":7189,\"ai\":259,\"draw\":286,\"drawH\":268,\"loss\":3637,\"lossH\":3507,\"win\":4207,\"winH\":4096,\"bookmark\":46,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dmitri11",
     "username": "Dmitri11",
     "online": true,
     "perfs": {
       "chess960": {
-        "games": 36,
-        "rating": 1343,
-        "rd": 102,
-        "prog": 10
+        "games": 48,
+        "rating": 1496,
+        "rd": 79,
+        "prog": 132
       },
       "antichess": {
         "games": 134,
         "rating": 1346,
-        "rd": 76,
+        "rd": 77,
         "prog": -81
       },
       "atomic": {
-        "games": 3463,
-        "rating": 1695,
-        "rd": 49,
+        "games": 3472,
+        "rating": 1682,
+        "rd": 48,
         "prog": -20
       },
       "racingKings": {
         "games": 38,
         "rating": 1455,
-        "rd": 100,
+        "rd": 101,
         "prog": 2
       },
       "ultraBullet": {
-        "games": 915,
-        "rating": 1542,
+        "games": 918,
+        "rating": 1563,
         "rd": 52,
-        "prog": -14
+        "prog": 6
       },
       "blitz": {
-        "games": 411,
+        "games": 467,
         "rating": 1740,
         "rd": 45,
-        "prog": 35
+        "prog": -13
       },
       "kingOfTheHill": {
         "games": 77,
         "rating": 1390,
-        "rd": 93,
+        "rd": 94,
         "prog": -5
       },
       "crazyhouse": {
         "games": 200,
         "rating": 1518,
-        "rd": 62,
+        "rd": 63,
         "prog": 70
       },
       "threeCheck": {
         "games": 66,
         "rating": 1474,
-        "rd": 87,
+        "rd": 88,
         "prog": 33
       },
       "bullet": {
-        "games": 1038,
-        "rating": 1802,
+        "games": 1106,
+        "rating": 1831,
         "rd": 45,
-        "prog": 19
+        "prog": 18
       },
       "correspondence": {
         "games": 6,
@@ -78,31 +78,31 @@
         "prov": true
       },
       "horde": {
-        "games": 36,
-        "rating": 1451,
-        "rd": 98,
-        "prog": 7
+        "games": 37,
+        "rating": 1467,
+        "rd": 97,
+        "prog": -1
       },
       "puzzle": {
-        "games": 2264,
-        "rating": 2165,
-        "rd": 69,
+        "games": 2304,
+        "rating": 2266,
+        "rd": 67,
         "prog": 0
       },
       "classical": {
         "games": 66,
         "rating": 1595,
-        "rd": 68,
+        "rd": 69,
         "prog": 39
       },
       "rapid": {
-        "games": 509,
-        "rating": 1642,
+        "games": 519,
+        "rating": 1671,
         "rd": 45,
-        "prog": -18
+        "prog": 22
       },
       "storm": {
-        "runs": 106,
+        "runs": 146,
         "score": 37
       }
     },
@@ -118,26 +118,26 @@
       "ecfRating": 666,
       "links": "lichess.org"
     },
-    "seenAt": 1615042277850,
+    "seenAt": 1615636967852,
     "playTime": {
-      "total": 994634,
-      "tv": 8998
+      "total": 1020932,
+      "tv": 9226
     },
     "language": "ru-RU",
     "url": "https://lichess.org/@/Dmitri11",
-    "nbFollowing": 15,
-    "nbFollowers": 39,
+    "nbFollowing": 13,
+    "nbFollowers": 38,
     "completionRate": 100,
     "count": {
-      "all": 7951,
-      "rated": 7024,
-      "ai": 249,
-      "draw": 275,
-      "drawH": 257,
-      "loss": 3568,
-      "lossH": 3440,
-      "win": 4108,
-      "winH": 4005,
+      "all": 8130,
+      "rated": 7189,
+      "ai": 259,
+      "draw": 286,
+      "drawH": 268,
+      "loss": 3637,
+      "lossH": 3507,
+      "win": 4207,
+      "winH": 4096,
       "bookmark": 46,
       "playing": 0,
       "import": 0,
