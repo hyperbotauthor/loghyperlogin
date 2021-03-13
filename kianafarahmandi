@@ -4,7 +4,7 @@
   "username": "KIANAFARAHMANDI",
   "profileUrl": "https://lichess.org/@/KIANAFARAHMANDI",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kianafarahmandi\",\"username\":\"KIANAFARAHMANDI\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1218,\"rd\":270,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":11,\"rating\":982,\"rd\":131,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":202,\"rating\":1207,\"rd\":45,\"prog\":-6},\"racingKings\":{\"games\":3,\"rating\":1597,\"rd\":216,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":3,\"rating\":650,\"rd\":251,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":871,\"rd\":116,\"prog\":41,\"prov\":true},\"kingOfTheHill\":{\"games\":9,\"rating\":1473,\"rd\":146,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":4,\"rating\":1102,\"rd\":193,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1407,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":787,\"rd\":124,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":10,\"rating\":1307,\"rd\":165,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1588,\"rd\":250,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":833,\"rating\":1440,\"rd\":84,\"prog\":0},\"classical\":{\"games\":4,\"rating\":1187,\"rd\":221,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":89,\"rating\":1119,\"rd\":54,\"prog\":-3},\"storm\":{\"runs\":28,\"score\":14}},\"createdAt\":1612278564097,\"profile\":{\"country\":\"IR\",\"firstName\":\"KIARASH\",\"lastName\":\"FARAHMANDI\"},\"seenAt\":1615295445277,\"playTime\":{\"total\":148010,\"tv\":862},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/KIANAFARAHMANDI\",\"nbFollowing\":184,\"nbFollowers\":14,\"completionRate\":97,\"count\":{\"all\":535,\"rated\":367,\"ai\":2,\"draw\":18,\"drawH\":17,\"loss\":355,\"lossH\":355,\"win\":162,\"winH\":161,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kianafarahmandi\",\"username\":\"KIANAFARAHMANDI\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1218,\"rd\":271,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":11,\"rating\":982,\"rd\":132,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":231,\"rating\":1226,\"rd\":45,\"prog\":-3},\"racingKings\":{\"games\":3,\"rating\":1597,\"rd\":217,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":3,\"rating\":650,\"rd\":251,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":918,\"rd\":115,\"prog\":88,\"prov\":true},\"kingOfTheHill\":{\"games\":10,\"rating\":1508,\"rd\":137,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":4,\"rating\":1102,\"rd\":194,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1407,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":787,\"rd\":125,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":11,\"rating\":1282,\"rd\":155,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1588,\"rd\":251,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":839,\"rating\":1454,\"rd\":88,\"prog\":0},\"classical\":{\"games\":4,\"rating\":1187,\"rd\":221,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":95,\"rating\":1162,\"rd\":53,\"prog\":17},\"storm\":{\"runs\":28,\"score\":14}},\"createdAt\":1612278564097,\"profile\":{\"country\":\"IR\",\"location\":\"tehran\",\"firstName\":\"KIARASH\",\"lastName\":\"FARAHMANDI\"},\"seenAt\":1615630461832,\"playTime\":{\"total\":159373,\"tv\":862},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/KIANAFARAHMANDI\",\"nbFollowing\":206,\"nbFollowers\":22,\"completionRate\":90,\"count\":{\"all\":596,\"rated\":409,\"ai\":2,\"draw\":19,\"drawH\":18,\"loss\":384,\"lossH\":384,\"win\":193,\"winH\":192,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kianafarahmandi",
     "username": "KIANAFARAHMANDI",
@@ -13,27 +13,27 @@
       "chess960": {
         "games": 2,
         "rating": 1218,
-        "rd": 270,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 11,
         "rating": 982,
-        "rd": 131,
+        "rd": 132,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 202,
-        "rating": 1207,
+        "games": 231,
+        "rating": 1226,
         "rd": 45,
-        "prog": -6
+        "prog": -3
       },
       "racingKings": {
         "games": 3,
         "rating": 1597,
-        "rd": 216,
+        "rd": 217,
         "prog": 0,
         "prov": true
       },
@@ -45,23 +45,23 @@
         "prov": true
       },
       "blitz": {
-        "games": 14,
-        "rating": 871,
-        "rd": 116,
-        "prog": 41,
+        "games": 19,
+        "rating": 918,
+        "rd": 115,
+        "prog": 88,
         "prov": true
       },
       "kingOfTheHill": {
-        "games": 9,
-        "rating": 1473,
-        "rd": 146,
+        "games": 10,
+        "rating": 1508,
+        "rd": 137,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 4,
         "rating": 1102,
-        "rd": 193,
+        "rd": 194,
         "prog": 0,
         "prov": true
       },
@@ -75,28 +75,28 @@
       "bullet": {
         "games": 11,
         "rating": 787,
-        "rd": 124,
+        "rd": 125,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 10,
-        "rating": 1307,
-        "rd": 165,
+        "games": 11,
+        "rating": 1282,
+        "rd": 155,
         "prog": 0,
         "prov": true
       },
       "horde": {
         "games": 2,
         "rating": 1588,
-        "rd": 250,
+        "rd": 251,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 833,
-        "rating": 1440,
-        "rd": 84,
+        "games": 839,
+        "rating": 1454,
+        "rd": 88,
         "prog": 0
       },
       "classical": {
@@ -107,10 +107,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 89,
-        "rating": 1119,
-        "rd": 54,
-        "prog": -3
+        "games": 95,
+        "rating": 1162,
+        "rd": 53,
+        "prog": 17
       },
       "storm": {
         "runs": 28,
@@ -120,29 +120,30 @@
     "createdAt": 1612278564097,
     "profile": {
       "country": "IR",
+      "location": "tehran",
       "firstName": "KIARASH",
       "lastName": "FARAHMANDI"
     },
-    "seenAt": 1615295445277,
+    "seenAt": 1615630461832,
     "playTime": {
-      "total": 148010,
+      "total": 159373,
       "tv": 862
     },
     "language": "en-US",
     "url": "https://lichess.org/@/KIANAFARAHMANDI",
-    "nbFollowing": 184,
-    "nbFollowers": 14,
-    "completionRate": 97,
+    "nbFollowing": 206,
+    "nbFollowers": 22,
+    "completionRate": 90,
     "count": {
-      "all": 535,
-      "rated": 367,
+      "all": 596,
+      "rated": 409,
       "ai": 2,
-      "draw": 18,
-      "drawH": 17,
-      "loss": 355,
-      "lossH": 355,
-      "win": 162,
-      "winH": 161,
+      "draw": 19,
+      "drawH": 18,
+      "loss": 384,
+      "lossH": 384,
+      "win": 193,
+      "winH": 192,
       "bookmark": 2,
       "playing": 0,
       "import": 0,
