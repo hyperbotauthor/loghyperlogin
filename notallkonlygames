@@ -4,7 +4,7 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":294,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":1922,\"rd\":120,\"prog\":21,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":292,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1688,\"rd\":96,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":1912,\"rd\":121,\"prog\":98,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"NZ\",\"bio\":\"Custom made bot running on Heroku server.\\r\\nElo: 1600 - 2500.\\r\\nSoon NoTallkonlyGames will be your all-round favourite bot on Lichess :)\",\"firstName\":\"NoTallkOnlyGames\",\"lastName\":\"v2021.3.10\",\"links\":\"Heroku.com\"},\"seenAt\":1615680210989,\"playTime\":{\"total\":56373,\"tv\":2129},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":5,\"nbFollowers\":17,\"count\":{\"all\":196,\"rated\":71,\"ai\":61,\"draw\":11,\"drawH\":11,\"loss\":98,\"lossH\":59,\"win\":87,\"winH\":65,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":294,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":1922,\"rd\":120,\"prog\":21,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":292,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1688,\"rd\":96,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":1912,\"rd\":122,\"prog\":98,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"NZ\",\"bio\":\"Custom made bot running on Heroku server.\\r\\nElo: 1600 - 2500.\\r\\nSoon NoTallkonlyGames will be your all-round favourite bot on Lichess :)\",\"firstName\":\"NoTallkOnlyGames\",\"lastName\":\"v2021.3.10\",\"links\":\"Heroku.com\"},\"seenAt\":1615703415588,\"playTime\":{\"total\":56947,\"tv\":2129},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":5,\"nbFollowers\":17,\"count\":{\"all\":199,\"rated\":71,\"ai\":63,\"draw\":11,\"drawH\":11,\"loss\":101,\"lossH\":60,\"win\":87,\"winH\":65,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
@@ -75,7 +75,7 @@
       "rapid": {
         "games": 16,
         "rating": 1912,
-        "rd": 121,
+        "rd": 122,
         "prog": 98,
         "prov": true
       }
@@ -88,9 +88,9 @@
       "lastName": "v2021.3.10",
       "links": "Heroku.com"
     },
-    "seenAt": 1615680210989,
+    "seenAt": 1615703415588,
     "playTime": {
-      "total": 56373,
+      "total": 56947,
       "tv": 2129
     },
     "language": "en-US",
@@ -99,13 +99,13 @@
     "nbFollowing": 5,
     "nbFollowers": 17,
     "count": {
-      "all": 196,
+      "all": 199,
       "rated": 71,
-      "ai": 61,
+      "ai": 63,
       "draw": 11,
       "drawH": 11,
-      "loss": 98,
-      "lossH": 59,
+      "loss": 101,
+      "lossH": 60,
       "win": 87,
       "winH": 65,
       "bookmark": 1,
