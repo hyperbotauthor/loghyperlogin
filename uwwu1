@@ -1,0 +1,119 @@
+{
+  "id": "uwwu1",
+  "displayName": "UWWu1",
+  "username": "UWWu1",
+  "profileUrl": "https://lichess.org/@/UWWu1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"uwwu1\",\"username\":\"UWWu1\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":187,\"rating\":1047,\"rd\":77,\"prog\":0},\"racingKings\":{\"games\":6,\"rating\":1607,\"rd\":205,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":111,\"rating\":1150,\"rd\":51,\"prog\":-34},\"kingOfTheHill\":{\"games\":9,\"rating\":1333,\"rd\":161,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1210,\"rd\":187,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1253,\"rd\":234,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1379,\"rd\":448,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":800,\"rd\":399,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":39,\"score\":10}},\"createdAt\":1600191782053,\"seenAt\":1615749619598,\"playTime\":{\"total\":42112,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/UWWu1\",\"playing\":\"https://lichess.org/RTvQH5s0/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":73,\"count\":{\"all\":239,\"rated\":141,\"ai\":71,\"draw\":34,\"drawH\":25,\"loss\":131,\"lossH\":93,\"win\":74,\"winH\":50,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "uwwu1",
+    "username": "UWWu1",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 187,
+        "rating": 1047,
+        "rd": 77,
+        "prog": 0
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 1607,
+        "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 111,
+        "rating": 1150,
+        "rd": 51,
+        "prog": -34
+      },
+      "kingOfTheHill": {
+        "games": 9,
+        "rating": 1333,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 9,
+        "rating": 1210,
+        "rd": 187,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1253,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1379,
+        "rd": 448,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 800,
+        "rd": 399,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 39,
+        "score": 10
+      }
+    },
+    "createdAt": 1600191782053,
+    "seenAt": 1615749619598,
+    "playTime": {
+      "total": 42112,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/UWWu1",
+    "playing": "https://lichess.org/RTvQH5s0/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 73,
+    "count": {
+      "all": 239,
+      "rated": 141,
+      "ai": 71,
+      "draw": 34,
+      "drawH": 25,
+      "loss": 131,
+      "lossH": 93,
+      "win": 74,
+      "winH": 50,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
