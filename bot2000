@@ -4,7 +4,7 @@
   "username": "Bot2000",
   "profileUrl": "https://lichess.org/@/Bot2000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot2000\",\"username\":\"Bot2000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1738,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2411,\"rd\":271,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1381,\"rd\":335,\"prog\":0,\"prov\":true}},\"createdAt\":1615313803910,\"seenAt\":1615573299089,\"playTime\":{\"total\":3289,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot2000\",\"playing\":\"https://lichess.org/vBH4pz8e/white\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":16,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot2000\",\"username\":\"Bot2000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1738,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2476,\"rd\":231,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1381,\"rd\":335,\"prog\":0,\"prov\":true}},\"createdAt\":1615313803910,\"profile\":{\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\"},\"seenAt\":1615760844028,\"playTime\":{\"total\":4285,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot2000\",\"playing\":\"https://lichess.org/EjPFodXe/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":20,\"rated\":8,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot2000",
     "username": "Bot2000",
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 3,
-        "rating": 2411,
-        "rd": 271,
+        "games": 5,
+        "rating": 2476,
+        "rd": 231,
         "prog": 0,
         "prov": true
       },
@@ -47,29 +47,32 @@
       }
     },
     "createdAt": 1615313803910,
-    "seenAt": 1615573299089,
+    "profile": {
+      "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif"
+    },
+    "seenAt": 1615760844028,
     "playTime": {
-      "total": 3289,
+      "total": 4285,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Bot2000",
-    "playing": "https://lichess.org/vBH4pz8e/white",
+    "playing": "https://lichess.org/EjPFodXe/black",
     "nbFollowing": 0,
     "nbFollowers": 3,
     "count": {
-      "all": 16,
-      "rated": 6,
+      "all": 20,
+      "rated": 8,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 14,
-      "winH": 14,
+      "loss": 3,
+      "lossH": 3,
+      "win": 17,
+      "winH": 17,
       "bookmark": 0,
-      "playing": 3,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
