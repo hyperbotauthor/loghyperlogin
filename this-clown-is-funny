@@ -1,0 +1,88 @@
+{
+  "id": "this-clown-is-funny",
+  "displayName": "This-clown-is-funny",
+  "username": "This-clown-is-funny",
+  "profileUrl": "https://lichess.org/@/This-clown-is-funny",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"this-clown-is-funny\",\"username\":\"This-clown-is-funny\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1766,\"rd\":306,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2122,\"rd\":150,\"prog\":0,\"prov\":true}},\"createdAt\":1613653540466,\"profile\":{\"country\":\"_lichess\",\"location\":\"I dont now\",\"bio\":\"This bot is very easy\",\"firstName\":\"Bot\",\"lastName\":\"Bot\"},\"seenAt\":1615904518725,\"playTime\":{\"total\":14962,\"tv\":731},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/This-clown-is-funny\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":17,\"rated\":15,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":6,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "this-clown-is-funny",
+    "username": "This-clown-is-funny",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 1766,
+        "rd": 306,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 10,
+        "rating": 2122,
+        "rd": 150,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613653540466,
+    "profile": {
+      "country": "_lichess",
+      "location": "I dont now",
+      "bio": "This bot is very easy",
+      "firstName": "Bot",
+      "lastName": "Bot"
+    },
+    "seenAt": 1615904518725,
+    "playTime": {
+      "total": 14962,
+      "tv": 731
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/This-clown-is-funny",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 17,
+      "rated": 15,
+      "ai": 1,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 10,
+      "lossH": 10,
+      "win": 6,
+      "winH": 5,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
