@@ -4,25 +4,31 @@
   "username": "TheUninventedRobot",
   "profileUrl": "https://lichess.org/@/TheUninventedRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theuninventedrobot\",\"username\":\"TheUninventedRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615637222851,\"seenAt\":1615637251599,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/TheUninventedRobot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theuninventedrobot\",\"username\":\"TheUninventedRobot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":2224,\"rd\":299,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":2704,\"rd\":145,\"prog\":30,\"prov\":true},\"bullet\":{\"games\":122,\"rating\":2574,\"rd\":45,\"prog\":6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2674,\"rd\":285,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2303,\"rd\":276,\"prog\":0,\"prov\":true}},\"createdAt\":1615637222851,\"profile\":{\"bio\":\"24 hrs bot\\r\\nCoded by https://lichess.org/@/biggest_brightest\\r\\nOwner https://lichess.org/@/biggest_brightest\\r\\nAnd @Samanyay\\r\\nNo variants\"},\"seenAt\":1615868224108,\"playTime\":{\"total\":55997,\"tv\":9424},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheUninventedRobot\",\"nbFollowing\":2,\"nbFollowers\":9,\"count\":{\"all\":272,\"rated\":165,\"ai\":6,\"draw\":75,\"drawH\":75,\"loss\":28,\"lossH\":27,\"win\":169,\"winH\":164,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theuninventedrobot",
     "username": "TheUninventedRobot",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+      "chess960": {
+        "games": 4,
+        "rating": 2224,
+        "rd": 299,
         "prog": 0,
         "prov": true
       },
-      "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+      "blitz": {
+        "games": 16,
+        "rating": 2704,
+        "rd": 145,
+        "prog": 30,
         "prov": true
+      },
+      "bullet": {
+        "games": 122,
+        "rating": 2574,
+        "rd": 45,
+        "prog": 6
       },
       "correspondence": {
         "games": 0,
@@ -32,40 +38,44 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2674,
+        "rd": 285,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2303,
+        "rd": 276,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1615637222851,
-    "seenAt": 1615637251599,
+    "profile": {
+      "bio": "24 hrs bot\r\nCoded by https://lichess.org/@/biggest_brightest\r\nOwner https://lichess.org/@/biggest_brightest\r\nAnd @Samanyay\r\nNo variants"
+    },
+    "seenAt": 1615868224108,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 55997,
+      "tv": 9424
     },
     "language": "en-GB",
+    "title": "BOT",
     "url": "https://lichess.org/@/TheUninventedRobot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 9,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 272,
+      "rated": 165,
+      "ai": 6,
+      "draw": 75,
+      "drawH": 75,
+      "loss": 28,
+      "lossH": 27,
+      "win": 169,
+      "winH": 164,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
