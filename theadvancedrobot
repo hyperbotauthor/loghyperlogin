@@ -4,7 +4,7 @@
   "username": "TheAdvancedRobot",
   "profileUrl": "https://lichess.org/@/TheAdvancedRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theadvancedrobot\",\"username\":\"TheAdvancedRobot\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":6,\"rating\":2243,\"rd\":186,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":13,\"rating\":2104,\"rd\":162,\"prog\":8,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615992616079,\"profile\":{\"country\":\"GB\",\"location\":\"London\",\"bio\":\"Hello! I am The Advanced Robot! I had a younger brother, @TheAdvancedBot, but he closed himself. Do join my team, lichess.org/team/the-advanced-kids and please follow me. Prepare to be destroyed!!\",\"firstName\":\"The Advanced\",\"lastName\":\"Robot\",\"fideRating\":3000},\"seenAt\":1616061886746,\"playTime\":{\"total\":5439,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheAdvancedRobot\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":24,\"rated\":19,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":6,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theadvancedrobot\",\"username\":\"TheAdvancedRobot\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":6,\"rating\":2243,\"rd\":186,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2332,\"rd\":277,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":13,\"rating\":2104,\"rd\":162,\"prog\":8,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615992616079,\"profile\":{\"country\":\"GB\",\"location\":\"London\",\"bio\":\"Hello! I am The Advanced Robot! I had a younger brother, @TheAdvancedBot, but he closed himself. Do join my team, lichess.org/team/the-advanced-kids and please follow me. Prepare to be destroyed!!\",\"firstName\":\"The Advanced\",\"lastName\":\"Robot\",\"fideRating\":3000},\"seenAt\":1616069209010,\"playTime\":{\"total\":6352,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheAdvancedRobot\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":28,\"rated\":23,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":6,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theadvancedrobot",
     "username": "TheAdvancedRobot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2332,
+        "rd": 277,
         "prog": 0,
         "prov": true
       },
@@ -69,9 +69,9 @@
       "lastName": "Robot",
       "fideRating": 3000
     },
-    "seenAt": 1616061886746,
+    "seenAt": 1616069209010,
     "playTime": {
-      "total": 5439,
+      "total": 6352,
       "tv": 0
     },
     "language": "en-US",
@@ -80,15 +80,15 @@
     "nbFollowing": 0,
     "nbFollowers": 4,
     "count": {
-      "all": 24,
-      "rated": 19,
+      "all": 28,
+      "rated": 23,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 24,
-      "winH": 24,
+      "win": 28,
+      "winH": 28,
       "bookmark": 0,
       "playing": 0,
       "import": 6,
