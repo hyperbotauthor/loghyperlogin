@@ -4,7 +4,7 @@
   "username": "EstmileBot",
   "profileUrl": "https://lichess.org/@/EstmileBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":2200,\"rd\":450,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":13,\"rating\":1769,\"rd\":148,\"prog\":84,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":2018,\"rd\":209,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2096,\"rd\":213,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1777,\"rd\":281,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":13,\"rating\":1269,\"rd\":200,\"prog\":-27,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2327,\"rd\":237,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1595,\"rd\":378,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2015,\"rd\":221,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2268,\"rd\":227,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot\",\"bio\":\"a bot made by @danipocano\\r\\nnot ever online but when online I accept all points and modes\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1614774354645,\"playTime\":{\"total\":14348,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":98,\"rated\":61,\"ai\":1,\"draw\":4,\"drawH\":3,\"loss\":27,\"lossH\":27,\"win\":67,\"winH\":67,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"estmilebot\",\"username\":\"EstmileBot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":2200,\"rd\":451,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":13,\"rating\":1769,\"rd\":150,\"prog\":84,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":2018,\"rd\":211,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2306,\"rd\":162,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1777,\"rd\":282,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":13,\"rating\":1269,\"rd\":202,\"prog\":-27,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2327,\"rd\":238,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1595,\"rd\":379,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2015,\"rd\":223,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2344,\"rd\":196,\"prog\":0,\"prov\":true}},\"createdAt\":1612293755746,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot\",\"bio\":\"a bot made by @danipocano\\r\\nnot ever online but when online I accept all points and modes\",\"links\":\"hypereasy.herokuapp.com\"},\"seenAt\":1616056183973,\"playTime\":{\"total\":15467,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EstmileBot\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":102,\"rated\":65,\"ai\":1,\"draw\":4,\"drawH\":3,\"loss\":27,\"lossH\":27,\"win\":71,\"winH\":71,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "estmilebot",
     "username": "EstmileBot",
@@ -13,70 +13,70 @@
       "antichess": {
         "games": 1,
         "rating": 2200,
-        "rd": 450,
+        "rd": 451,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 13,
         "rating": 1769,
-        "rd": 148,
+        "rd": 150,
         "prog": 84,
         "prov": true
       },
       "racingKings": {
         "games": 5,
         "rating": 2018,
-        "rd": 209,
+        "rd": 211,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 7,
-        "rating": 2096,
-        "rd": 213,
+        "games": 10,
+        "rating": 2306,
+        "rd": 162,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 3,
         "rating": 1777,
-        "rd": 281,
+        "rd": 282,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 13,
         "rating": 1269,
-        "rd": 200,
+        "rd": 202,
         "prog": -27,
         "prov": true
       },
       "bullet": {
         "games": 4,
         "rating": 2327,
-        "rd": 237,
+        "rd": 238,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 1,
         "rating": 1595,
-        "rd": 378,
+        "rd": 379,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 3,
         "rating": 2015,
-        "rd": 221,
+        "rd": 223,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2268,
-        "rd": 227,
+        "games": 5,
+        "rating": 2344,
+        "rd": 196,
         "prog": 0,
         "prov": true
       }
@@ -88,9 +88,9 @@
       "bio": "a bot made by @danipocano\r\nnot ever online but when online I accept all points and modes",
       "links": "hypereasy.herokuapp.com"
     },
-    "seenAt": 1614774354645,
+    "seenAt": 1616056183973,
     "playTime": {
-      "total": 14348,
+      "total": 15467,
       "tv": 0
     },
     "language": "es-ES",
@@ -99,15 +99,15 @@
     "nbFollowing": 4,
     "nbFollowers": 3,
     "count": {
-      "all": 98,
-      "rated": 61,
+      "all": 102,
+      "rated": 65,
       "ai": 1,
       "draw": 4,
       "drawH": 3,
       "loss": 27,
       "lossH": 27,
-      "win": 67,
-      "winH": 67,
+      "win": 71,
+      "winH": 71,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
