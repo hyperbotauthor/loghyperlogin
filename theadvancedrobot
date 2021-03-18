@@ -4,16 +4,16 @@
   "username": "TheAdvancedRobot",
   "profileUrl": "https://lichess.org/@/TheAdvancedRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theadvancedrobot\",\"username\":\"TheAdvancedRobot\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":4,\"rating\":2191,\"rd\":212,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1962,\"rd\":215,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615992616079,\"seenAt\":1616003206264,\"playTime\":{\"total\":1781,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheAdvancedRobot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":5,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theadvancedrobot\",\"username\":\"TheAdvancedRobot\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":6,\"rating\":2243,\"rd\":186,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":13,\"rating\":2104,\"rd\":162,\"prog\":8,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615992616079,\"profile\":{\"country\":\"GB\",\"location\":\"London\",\"bio\":\"Hello! I am The Advanced Robot! I had a younger brother, @TheAdvancedBot, but he closed himself. Do join my team, lichess.org/team/the-advanced-kids and please follow me. Prepare to be destroyed!!\",\"firstName\":\"The Advanced\",\"lastName\":\"Robot\",\"fideRating\":3000},\"seenAt\":1616061886746,\"playTime\":{\"total\":5439,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheAdvancedRobot\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":24,\"rated\":19,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":6,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theadvancedrobot",
     "username": "TheAdvancedRobot",
     "online": true,
     "perfs": {
       "racingKings": {
-        "games": 4,
-        "rating": 2191,
-        "rd": 212,
+        "games": 6,
+        "rating": 2243,
+        "rd": 186,
         "prog": 0,
         "prov": true
       },
@@ -25,10 +25,10 @@
         "prov": true
       },
       "crazyhouse": {
-        "games": 5,
-        "rating": 1962,
-        "rd": 215,
-        "prog": 0,
+        "games": 13,
+        "rating": 2104,
+        "rd": 162,
+        "prog": 8,
         "prov": true
       },
       "bullet": {
@@ -61,29 +61,37 @@
       }
     },
     "createdAt": 1615992616079,
-    "seenAt": 1616003206264,
+    "profile": {
+      "country": "GB",
+      "location": "London",
+      "bio": "Hello! I am The Advanced Robot! I had a younger brother, @TheAdvancedBot, but he closed himself. Do join my team, lichess.org/team/the-advanced-kids and please follow me. Prepare to be destroyed!!",
+      "firstName": "The Advanced",
+      "lastName": "Robot",
+      "fideRating": 3000
+    },
+    "seenAt": 1616061886746,
     "playTime": {
-      "total": 1781,
+      "total": 5439,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheAdvancedRobot",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 4,
     "count": {
-      "all": 9,
-      "rated": 9,
+      "all": 24,
+      "rated": 19,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 9,
-      "winH": 9,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
-      "import": 5,
+      "import": 6,
       "me": 0
     },
     "followable": true,
