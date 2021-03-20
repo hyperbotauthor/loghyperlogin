@@ -1,0 +1,94 @@
+{
+  "id": "takesthat",
+  "displayName": "Takesthat",
+  "username": "Takesthat",
+  "profileUrl": "https://lichess.org/@/Takesthat",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"takesthat\",\"username\":\"Takesthat\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1372,\"rd\":326,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1659,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616083319652,\"seenAt\":1616226562606,\"playTime\":{\"total\":3388,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Takesthat\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "takesthat",
+    "username": "Takesthat",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1372,
+        "rd": 326,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 5,
+        "rating": 1659,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1616083319652,
+    "seenAt": 1616226562606,
+    "playTime": {
+      "total": 3388,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Takesthat",
+    "nbFollowing": 1,
+    "nbFollowers": 0,
+    "count": {
+      "all": 8,
+      "rated": 6,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
