@@ -4,7 +4,7 @@
   "username": "APl-chess",
   "profileUrl": "https://lichess.org/@/APl-chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1306,\"rd\":292,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":251,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":1916,\"rd\":86,\"prog\":58},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/lichess--friends-chess-league pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\"},\"seenAt\":1616230826588,\"playTime\":{\"total\":7012,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"nbFollowing\":18,\"nbFollowers\":13,\"count\":{\"all\":59,\"rated\":36,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":2,\"lossH\":2,\"win\":54,\"winH\":50,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1306,\"rd\":292,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":251,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":1916,\"rd\":86,\"prog\":58},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/lichess--friends-chess-league pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\"},\"seenAt\":1616241880217,\"playTime\":{\"total\":7012,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/rIo9q6Th/white\",\"nbFollowing\":18,\"nbFollowers\":13,\"count\":{\"all\":59,\"rated\":36,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":2,\"lossH\":2,\"win\":54,\"winH\":50,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl-chess",
     "username": "APl-chess",
@@ -66,7 +66,7 @@
       "firstName": "Hyper-Easy running",
       "lastName": "BOT"
     },
-    "seenAt": 1616230826588,
+    "seenAt": 1616241880217,
     "playTime": {
       "total": 7012,
       "tv": 0
@@ -74,6 +74,7 @@
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/APl-chess",
+    "playing": "https://lichess.org/rIo9q6Th/white",
     "nbFollowing": 18,
     "nbFollowers": 13,
     "count": {
@@ -87,7 +88,7 @@
       "win": 54,
       "winH": 50,
       "bookmark": 1,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
