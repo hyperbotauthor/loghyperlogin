@@ -4,7 +4,7 @@
   "username": "Peaceful4Life",
   "profileUrl": "https://lichess.org/@/Peaceful4Life",
   "provider": "lichess",
-  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":106,\"prog\":-143},\"blitz\":{\"games\":20,\"rating\":2236,\"rd\":98,\"prog\":102},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":108,\"prog\":6},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":109,\"prog\":-55},\"threeCheck\":{\"games\":1,\"rating\":1412,\"rd\":375,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2082,\"rd\":77,\"prog\":-22},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2506,\"rd\":287,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1941,\"rd\":162,\"prog\":-19,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"location\":\"i like chopping awkward tension\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n☺\\r\\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\\r\\nI haven't received any rickrolls yet... :/ but I'm nearly out of hospital! The doctors say just a few days left. :)\",\"firstName\":\"Peaceful\",\"lastName\":\"4 Life\"},\"seenAt\":1615488100168,\"playTime\":{\"total\":64086,\"tv\":2322},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"nbFollowing\":25,\"nbFollowers\":15,\"count\":{\"all\":237,\"rated\":168,\"ai\":54,\"draw\":20,\"drawH\":14,\"loss\":81,\"lossH\":45,\"win\":136,\"winH\":124,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"peaceful4life\",\"username\":\"Peaceful4Life\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1694,\"rd\":108,\"prog\":-143},\"blitz\":{\"games\":20,\"rating\":2236,\"rd\":101,\"prog\":102},\"kingOfTheHill\":{\"games\":42,\"rating\":2390,\"rd\":110,\"prog\":6,\"prov\":true},\"crazyhouse\":{\"games\":22,\"rating\":2216,\"rd\":111,\"prog\":-55,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1412,\"rd\":375,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":50,\"rating\":2125,\"rd\":77,\"prog\":-6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2506,\"rd\":288,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1941,\"rd\":163,\"prog\":-19,\"prov\":true}},\"createdAt\":1613063183237,\"profile\":{\"country\":\"_lichess\",\"location\":\"eighth rank\",\"bio\":\"Created by @Perfect4Life.\\r\\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\\r\\n(*^▽^*)\\r\\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\\r\\nI'm out of hospital but I forgot where I left my chess engine... so I'm playing on servers now :-/\",\"firstName\":\"（⊙_⊙;）\",\"lastName\":\"©EO\"},\"seenAt\":1616269825912,\"playTime\":{\"total\":64198,\"tv\":2322},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Peaceful4Life\",\"nbFollowing\":25,\"nbFollowers\":13,\"count\":{\"all\":240,\"rated\":170,\"ai\":54,\"draw\":20,\"drawH\":14,\"loss\":81,\"lossH\":45,\"win\":139,\"winH\":127,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "peaceful4life",
     "username": "Peaceful4Life",
@@ -13,26 +13,28 @@
       "chess960": {
         "games": 15,
         "rating": 1694,
-        "rd": 106,
+        "rd": 108,
         "prog": -143
       },
       "blitz": {
         "games": 20,
         "rating": 2236,
-        "rd": 98,
+        "rd": 101,
         "prog": 102
       },
       "kingOfTheHill": {
         "games": 42,
         "rating": 2390,
-        "rd": 108,
-        "prog": 6
+        "rd": 110,
+        "prog": 6,
+        "prov": true
       },
       "crazyhouse": {
         "games": 22,
         "rating": 2216,
-        "rd": 109,
-        "prog": -55
+        "rd": 111,
+        "prog": -55,
+        "prov": true
       },
       "threeCheck": {
         "games": 1,
@@ -42,10 +44,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 48,
-        "rating": 2082,
+        "games": 50,
+        "rating": 2125,
         "rd": 77,
-        "prog": -22
+        "prog": -6
       },
       "correspondence": {
         "games": 0,
@@ -57,14 +59,14 @@
       "classical": {
         "games": 2,
         "rating": 2506,
-        "rd": 287,
+        "rd": 288,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 15,
         "rating": 1941,
-        "rd": 162,
+        "rd": 163,
         "prog": -19,
         "prov": true
       }
@@ -72,31 +74,31 @@
     "createdAt": 1613063183237,
     "profile": {
       "country": "_lichess",
-      "location": "i like chopping awkward tension",
-      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n☺\r\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\r\nI haven't received any rickrolls yet... :/ but I'm nearly out of hospital! The doctors say just a few days left. :)",
-      "firstName": "Peaceful",
-      "lastName": "4 Life"
+      "location": "eighth rank",
+      "bio": "Created by @Perfect4Life.\r\nI'm improving too, mainly in speed chess, (and don't tell my owner I said this, but I might be a *little* bit more peaceful...)\r\n(*^▽^*)\r\nFeel free to challenge me in any variant and time limit, except correspondence! I do have a very busy schedule. (   -_ゝ-)\r\nI'm out of hospital but I forgot where I left my chess engine... so I'm playing on servers now :-/",
+      "firstName": "（⊙_⊙;）",
+      "lastName": "©EO"
     },
-    "seenAt": 1615488100168,
+    "seenAt": 1616269825912,
     "playTime": {
-      "total": 64086,
+      "total": 64198,
       "tv": 2322
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Peaceful4Life",
     "nbFollowing": 25,
-    "nbFollowers": 15,
+    "nbFollowers": 13,
     "count": {
-      "all": 237,
-      "rated": 168,
+      "all": 240,
+      "rated": 170,
       "ai": 54,
       "draw": 20,
       "drawH": 14,
       "loss": 81,
       "lossH": 45,
-      "win": 136,
-      "winH": 124,
+      "win": 139,
+      "winH": 127,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
