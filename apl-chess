@@ -4,7 +4,7 @@
   "username": "APl-chess",
   "profileUrl": "https://lichess.org/@/APl-chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1557,\"rd\":176,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/lichess--friends-chess-league pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\"},\"seenAt\":1616179213863,\"playTime\":{\"total\":3195,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/cDHtKTUS/white\",\"nbFollowing\":14,\"nbFollowers\":12,\"count\":{\"all\":20,\"rated\":6,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":1,\"lossH\":1,\"win\":16,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1306,\"rd\":292,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":251,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":1858,\"rd\":99,\"prog\":83},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/lichess--friends-chess-league pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\"},\"seenAt\":1616226983634,\"playTime\":{\"total\":6228,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"nbFollowing\":17,\"nbFollowers\":13,\"count\":{\"all\":48,\"rated\":25,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":2,\"lossH\":2,\"win\":43,\"winH\":39,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl-chess",
     "username": "APl-chess",
@@ -17,12 +17,25 @@
         "prog": 0,
         "prov": true
       },
-      "bullet": {
-        "games": 6,
-        "rating": 1557,
-        "rd": 176,
+      "antichess": {
+        "games": 1,
+        "rating": 1306,
+        "rd": 292,
         "prog": 0,
         "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1735,
+        "rd": 251,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 21,
+        "rating": 1858,
+        "rd": 99,
+        "prog": 83
       },
       "correspondence": {
         "games": 0,
@@ -53,29 +66,28 @@
       "firstName": "Hyper-Easy running",
       "lastName": "BOT"
     },
-    "seenAt": 1616179213863,
+    "seenAt": 1616226983634,
     "playTime": {
-      "total": 3195,
+      "total": 6228,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/APl-chess",
-    "playing": "https://lichess.org/cDHtKTUS/white",
-    "nbFollowing": 14,
-    "nbFollowers": 12,
+    "nbFollowing": 17,
+    "nbFollowers": 13,
     "count": {
-      "all": 20,
-      "rated": 6,
-      "ai": 2,
+      "all": 48,
+      "rated": 25,
+      "ai": 4,
       "draw": 3,
       "drawH": 3,
-      "loss": 1,
-      "lossH": 1,
-      "win": 16,
-      "winH": 14,
-      "bookmark": 0,
-      "playing": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 43,
+      "winH": 39,
+      "bookmark": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
