@@ -4,7 +4,7 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1492,\"rd\":489,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1424,\"rd\":395,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1825,\"rd\":206,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616317273819,\"playTime\":{\"total\":1653,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":14,\"rated\":12,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1492,\"rd\":489,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":1438,\"rd\":145,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1825,\"rd\":206,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1545,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1296,\"rd\":154,\"prog\":0,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616350196427,\"playTime\":{\"total\":6867,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":36,\"rated\":33,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":15,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 2,
-        "rating": 1424,
-        "rd": 395,
+        "games": 9,
+        "rating": 1438,
+        "rd": 145,
         "prog": 0,
         "prov": true
       },
@@ -46,24 +46,24 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 6,
+        "rating": 1545,
+        "rd": 297,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 1296,
+        "rd": 154,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1616317273819,
+    "seenAt": 1616350196427,
     "playTime": {
-      "total": 1653,
+      "total": 6867,
       "tv": 0
     },
     "language": "ru-RU",
@@ -72,15 +72,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 14,
-      "rated": 12,
+      "all": 36,
+      "rated": 33,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 8,
-      "lossH": 8,
-      "win": 5,
-      "winH": 5,
+      "loss": 15,
+      "lossH": 15,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
