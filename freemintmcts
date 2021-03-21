@@ -4,11 +4,11 @@
   "username": "FreemintMCTS",
   "profileUrl": "https://lichess.org/@/FreemintMCTS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"freemintmcts\",\"username\":\"FreemintMCTS\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1618,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1839,\"rd\":117,\"prog\":-18,\"prov\":true}},\"createdAt\":1614897786620,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. However, Freemint MCTS adds the Monte Carlo Tree Search to an already strong Freemint, and it could be one of the top chess engines.\",\"firstName\":\"Freemint\",\"lastName\":\"MCTS v0.15.1\"},\"seenAt\":1616256895895,\"playTime\":{\"total\":27262,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FreemintMCTS\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":15,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":6,\"lossH\":6,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"freemintmcts\",\"username\":\"FreemintMCTS\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1618,\"rd\":339,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1952,\"rd\":108,\"prog\":93}},\"createdAt\":1614897786620,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. However, Freemint MCTS adds the Monte Carlo Tree Search to an already strong Freemint, and it could be one of the top chess engines.\",\"firstName\":\"Freemint\",\"lastName\":\"MCTS v0.15.1\"},\"seenAt\":1616362572659,\"playTime\":{\"total\":34607,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FreemintMCTS\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":20,\"rated\":19,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":6,\"lossH\":6,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "freemintmcts",
     "username": "FreemintMCTS",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -20,7 +20,7 @@
       "crazyhouse": {
         "games": 1,
         "rating": 1618,
-        "rd": 338,
+        "rd": 339,
         "prog": 0,
         "prov": true
       },
@@ -46,11 +46,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 12,
-        "rating": 1839,
-        "rd": 117,
-        "prog": -18,
-        "prov": true
+        "games": 15,
+        "rating": 1952,
+        "rd": 108,
+        "prog": 93
       }
     },
     "createdAt": 1614897786620,
@@ -59,9 +58,9 @@
       "firstName": "Freemint",
       "lastName": "MCTS v0.15.1"
     },
-    "seenAt": 1616256895895,
+    "seenAt": 1616362572659,
     "playTime": {
-      "total": 27262,
+      "total": 34607,
       "tv": 0
     },
     "language": "en-US",
@@ -70,15 +69,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 16,
-      "rated": 15,
+      "all": 20,
+      "rated": 19,
       "ai": 0,
-      "draw": 8,
-      "drawH": 8,
+      "draw": 11,
+      "drawH": 11,
       "loss": 6,
       "lossH": 6,
-      "win": 2,
-      "winH": 2,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
