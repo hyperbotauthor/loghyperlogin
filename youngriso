@@ -4,11 +4,11 @@
   "username": "youngRiso",
   "profileUrl": "https://lichess.org/@/youngRiso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614365266091,\"seenAt\":1616002088115,\"playTime\":{\"total\":1116,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youngRiso\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":48,\"rated\":0,\"ai\":41,\"draw\":0,\"drawH\":0,\"loss\":15,\"lossH\":5,\"win\":33,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614365266091,\"seenAt\":1616174752665,\"playTime\":{\"total\":1116,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youngRiso\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":56,\"rated\":0,\"ai\":49,\"draw\":0,\"drawH\":0,\"loss\":15,\"lossH\":5,\"win\":41,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "youngriso",
     "username": "youngRiso",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1614365266091,
-    "seenAt": 1616002088115,
+    "seenAt": 1616174752665,
     "playTime": {
       "total": 1116,
       "tv": 0
@@ -58,14 +58,14 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 48,
+      "all": 56,
       "rated": 0,
-      "ai": 41,
+      "ai": 49,
       "draw": 0,
       "drawH": 0,
       "loss": 15,
       "lossH": 5,
-      "win": 33,
+      "win": 41,
       "winH": 2,
       "bookmark": 0,
       "playing": 0,
