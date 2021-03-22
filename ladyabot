@@ -4,23 +4,22 @@
   "username": "LadyaBOT",
   "profileUrl": "https://lichess.org/@/LadyaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1852,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1616392019004,\"playTime\":{\"total\":4738,\"tv\":167},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":77,\"nbFollowers\":39,\"count\":{\"all\":14,\"rated\":7,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":5,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2087,\"rd\":93,\"prog\":171},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2617,\"rd\":308,\"prog\":0,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1616408892368,\"playTime\":{\"total\":12847,\"tv\":1444},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"playing\":\"https://lichess.org/APBUmMsI/white\",\"nbFollowing\":78,\"nbFollowers\":40,\"count\":{\"all\":33,\"rated\":26,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":11,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ladyabot",
     "username": "LadyaBOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 7,
-        "rating": 1852,
-        "rd": 197,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 2087,
+        "rd": 93,
+        "prog": 171
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2617,
+        "rd": 308,
         "prog": 0,
         "prov": true
       }
@@ -54,28 +53,29 @@
       "firstName": "секрет",
       "lastName": "секрет"
     },
-    "seenAt": 1616392019004,
+    "seenAt": 1616408892368,
     "playTime": {
-      "total": 4738,
-      "tv": 167
+      "total": 12847,
+      "tv": 1444
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/LadyaBOT",
-    "nbFollowing": 77,
-    "nbFollowers": 39,
+    "playing": "https://lichess.org/APBUmMsI/white",
+    "nbFollowing": 78,
+    "nbFollowers": 40,
     "count": {
-      "all": 14,
-      "rated": 7,
+      "all": 33,
+      "rated": 26,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 6,
-      "lossH": 5,
-      "win": 8,
-      "winH": 8,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 12,
+      "lossH": 11,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
