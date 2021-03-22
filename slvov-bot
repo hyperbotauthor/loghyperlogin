@@ -4,7 +4,7 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1492,\"rd\":490,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":1438,\"rd\":145,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1825,\"rd\":206,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1729,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1545,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1296,\"rd\":154,\"prog\":0,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616420750227,\"playTime\":{\"total\":6867,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/fyIyd4jo/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":38,\"rated\":35,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":15,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1492,\"rd\":490,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":315,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":172,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1393,\"rd\":132,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1811,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1729,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1545,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1367,\"rd\":146,\"prog\":0,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616438703840,\"playTime\":{\"total\":14089,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/ObUiYZIT/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":53,\"rated\":50,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":24,\"lossH\":24,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
@@ -17,10 +17,24 @@
         "prog": 0,
         "prov": true
       },
+      "atomic": {
+        "games": 1,
+        "rating": 1359,
+        "rd": 315,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 5,
+        "rating": 1710,
+        "rd": 172,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 9,
-        "rating": 1438,
-        "rd": 145,
+        "games": 11,
+        "rating": 1393,
+        "rd": 132,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +46,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 1825,
-        "rd": 206,
+        "games": 10,
+        "rating": 1811,
+        "rd": 198,
         "prog": 0,
         "prov": true
       },
@@ -53,37 +67,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 1296,
-        "rd": 154,
+        "games": 11,
+        "rating": 1367,
+        "rd": 146,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1616420750227,
+    "seenAt": 1616438703840,
     "playTime": {
-      "total": 6867,
+      "total": 14089,
       "tv": 0
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/SLvov-bot",
-    "playing": "https://lichess.org/fyIyd4jo/white",
+    "playing": "https://lichess.org/ObUiYZIT/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 38,
-      "rated": 35,
+      "all": 53,
+      "rated": 50,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 15,
-      "lossH": 15,
-      "win": 22,
-      "winH": 22,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 24,
+      "lossH": 24,
+      "win": 27,
+      "winH": 27,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
