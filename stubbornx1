@@ -4,23 +4,16 @@
   "username": "STUBBORNX1",
   "profileUrl": "https://lichess.org/@/STUBBORNX1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stubbornx1\",\"username\":\"STUBBORNX1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":379,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":2465,\"rd\":284,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1389,\"rd\":344,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1880,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615108277637,\"seenAt\":1615638252956,\"playTime\":{\"total\":1274,\"tv\":103},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STUBBORNX1\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":12,\"rated\":10,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":4,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stubbornx1\",\"username\":\"STUBBORNX1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2465,\"rd\":285,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1389,\"rd\":344,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":379,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1360,\"rd\":385,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1867,\"rd\":166,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1481,\"rd\":473,\"prog\":0,\"prov\":true}},\"createdAt\":1615108277637,\"seenAt\":1616477070145,\"playTime\":{\"total\":2045,\"tv\":103},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/STUBBORNX1\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":15,\"rated\":13,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":7,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stubbornx1",
     "username": "STUBBORNX1",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 1,
-        "rating": 2224,
-        "rd": 379,
-        "prog": 0,
-        "prov": true
-      },
       "antichess": {
         "games": 2,
         "rating": 2465,
-        "rd": 284,
+        "rd": 285,
         "prog": 0,
         "prov": true
       },
@@ -31,10 +24,24 @@
         "prog": 0,
         "prov": true
       },
+      "blitz": {
+        "games": 1,
+        "rating": 2224,
+        "rd": 379,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1360,
+        "rd": 385,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
-        "games": 6,
-        "rating": 1880,
-        "rd": 170,
+        "games": 7,
+        "rating": 1867,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
@@ -53,17 +60,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1481,
+        "rd": 473,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1615108277637,
-    "seenAt": 1615638252956,
+    "seenAt": 1616477070145,
     "playTime": {
-      "total": 1274,
+      "total": 2045,
       "tv": 103
     },
     "language": "en-US",
@@ -72,13 +79,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 12,
-      "rated": 10,
+      "all": 15,
+      "rated": 13,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 6,
-      "lossH": 4,
+      "loss": 9,
+      "lossH": 7,
       "win": 6,
       "winH": 6,
       "bookmark": 0,
