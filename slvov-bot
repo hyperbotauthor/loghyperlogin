@@ -4,7 +4,7 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":285,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":315,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":172,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":1489,\"rd\":131,\"prog\":93,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1811,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1729,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1303,\"rd\":135,\"prog\":-64,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616510415399,\"playTime\":{\"total\":34765,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/KnWmmnr9/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":60,\"rated\":57,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":27,\"lossH\":27,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":285,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":315,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":172,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":1489,\"rd\":131,\"prog\":96,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1811,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1600,\"rd\":241,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1303,\"rd\":135,\"prog\":-64,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616527580240,\"playTime\":{\"total\":35133,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":63,\"rated\":60,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":29,\"lossH\":29,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
@@ -32,10 +32,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 13,
+        "games": 14,
         "rating": 1489,
         "rd": 131,
-        "prog": 93,
+        "prog": 96,
         "prov": true
       },
       "threeCheck": {
@@ -53,9 +53,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 3,
-        "rating": 1729,
-        "rd": 304,
+        "games": 5,
+        "rating": 1600,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
@@ -75,29 +75,28 @@
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1616510415399,
+    "seenAt": 1616527580240,
     "playTime": {
-      "total": 34765,
+      "total": 35133,
       "tv": 428
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/SLvov-bot",
-    "playing": "https://lichess.org/KnWmmnr9/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 60,
-      "rated": 57,
+      "all": 63,
+      "rated": 60,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 27,
-      "lossH": 27,
-      "win": 31,
-      "winH": 31,
+      "loss": 29,
+      "lossH": 29,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
