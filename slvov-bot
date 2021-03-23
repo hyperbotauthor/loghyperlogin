@@ -4,16 +4,16 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1492,\"rd\":490,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":315,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":172,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1393,\"rd\":132,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1811,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1729,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1545,\"rd\":297,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":1367,\"rd\":146,\"prog\":0,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616438703840,\"playTime\":{\"total\":14089,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/ObUiYZIT/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":53,\"rated\":50,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":24,\"lossH\":24,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":285,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":315,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":172,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1393,\"rd\":133,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1811,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1729,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1303,\"rd\":135,\"prog\":-64,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1616503040728,\"playTime\":{\"total\":33925,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/KnWmmnr9/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":58,\"rated\":55,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":26,\"lossH\":26,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
     "online": true,
     "perfs": {
       "antichess": {
-        "games": 1,
-        "rating": 1492,
-        "rd": 490,
+        "games": 4,
+        "rating": 1673,
+        "rd": 285,
         "prog": 0,
         "prov": true
       },
@@ -34,7 +34,7 @@
       "blitz": {
         "games": 11,
         "rating": 1393,
-        "rd": 132,
+        "rd": 133,
         "prog": 0,
         "prov": true
       },
@@ -60,44 +60,44 @@
         "prov": true
       },
       "classical": {
-        "games": 6,
-        "rating": 1545,
-        "rd": 297,
+        "games": 7,
+        "rating": 1527,
+        "rd": 286,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 11,
-        "rating": 1367,
-        "rd": 146,
-        "prog": 0,
+        "games": 12,
+        "rating": 1303,
+        "rd": 135,
+        "prog": -64,
         "prov": true
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1616438703840,
+    "seenAt": 1616503040728,
     "playTime": {
-      "total": 14089,
+      "total": 33925,
       "tv": 0
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/SLvov-bot",
-    "playing": "https://lichess.org/ObUiYZIT/white",
+    "playing": "https://lichess.org/KnWmmnr9/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 53,
-      "rated": 50,
+      "all": 58,
+      "rated": 55,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 24,
-      "lossH": 24,
-      "win": 27,
-      "winH": 27,
+      "loss": 26,
+      "lossH": 26,
+      "win": 30,
+      "winH": 30,
       "bookmark": 0,
-      "playing": 3,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
