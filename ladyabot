@@ -4,7 +4,7 @@
   "username": "LadyaBOT",
   "profileUrl": "https://lichess.org/@/LadyaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2087,\"rd\":93,\"prog\":171},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2469,\"rd\":125,\"prog\":-12,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1616500833415,\"playTime\":{\"total\":20047,\"tv\":2125},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":80,\"nbFollowers\":42,\"count\":{\"all\":43,\"rated\":36,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":14,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2087,\"rd\":93,\"prog\":171},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2469,\"rd\":125,\"prog\":-12,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1616500833415,\"playTime\":{\"total\":20047,\"tv\":2125},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"playing\":\"https://lichess.org/LR6BEatV/black\",\"nbFollowing\":80,\"nbFollowers\":42,\"count\":{\"all\":43,\"rated\":36,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":14,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ladyabot",
     "username": "LadyaBOT",
@@ -61,6 +61,7 @@
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/LadyaBOT",
+    "playing": "https://lichess.org/LR6BEatV/black",
     "nbFollowing": 80,
     "nbFollowers": 42,
     "count": {
@@ -74,7 +75,7 @@
       "win": 26,
       "winH": 26,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
