@@ -1,0 +1,103 @@
+{
+  "id": "atomic_grandmaster",
+  "displayName": "Atomic_Grandmaster",
+  "username": "Atomic_Grandmaster",
+  "profileUrl": "https://lichess.org/@/Atomic_Grandmaster",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"atomic_grandmaster\",\"username\":\"Atomic_Grandmaster\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2294,\"rd\":197,\"prog\":7,\"prov\":true},\"puzzle\":{\"games\":15,\"rating\":1471,\"rd\":146,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1660,\"rd\":225,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1,\"rating\":1233,\"rd\":288,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1200,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":401,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":401,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1200,\"rd\":401,\"prog\":0,\"prov\":true}},\"createdAt\":1614701868010,\"seenAt\":1616587874486,\"playTime\":{\"total\":925,\"tv\":0},\"language\":\"de-DE\",\"url\":\"https://lichess.org/@/Atomic_Grandmaster\",\"playing\":\"https://lichess.org/rFyB9sGu/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"completionRate\":43,\"count\":{\"all\":19,\"rated\":19,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "atomic_grandmaster",
+    "username": "Atomic_Grandmaster",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 12,
+        "rating": 2294,
+        "rd": 197,
+        "prog": 7,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 15,
+        "rating": 1471,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 5,
+        "rating": 1660,
+        "rd": 225,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 1,
+        "rating": 1233,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1200,
+        "rd": 401,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1614701868010,
+    "seenAt": 1616587874486,
+    "playTime": {
+      "total": 925,
+      "tv": 0
+    },
+    "language": "de-DE",
+    "url": "https://lichess.org/@/Atomic_Grandmaster",
+    "playing": "https://lichess.org/rFyB9sGu/black",
+    "nbFollowing": 2,
+    "nbFollowers": 0,
+    "completionRate": 43,
+    "count": {
+      "all": 19,
+      "rated": 19,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
