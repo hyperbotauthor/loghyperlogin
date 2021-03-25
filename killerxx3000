@@ -4,7 +4,7 @@
   "username": "KillerXX3000",
   "profileUrl": "https://lichess.org/@/KillerXX3000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"killerxx3000\",\"username\":\"KillerXX3000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2148,\"rd\":150,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1117,\"rd\":306,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":2051,\"rd\":117,\"prog\":84,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1729,\"rd\":206,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1487,\"rd\":486,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1532,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1614615847208,\"seenAt\":1616613881815,\"playTime\":{\"total\":13552,\"tv\":145},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KillerXX3000\",\"playing\":\"https://lichess.org/cTTrFPko/white\",\"nbFollowing\":20,\"nbFollowers\":20,\"count\":{\"all\":145,\"rated\":41,\"ai\":14,\"draw\":9,\"drawH\":9,\"loss\":34,\"lossH\":21,\"win\":102,\"winH\":101,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"killerxx3000\",\"username\":\"KillerXX3000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2148,\"rd\":150,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1117,\"rd\":306,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":2051,\"rd\":117,\"prog\":84,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1729,\"rd\":206,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1487,\"rd\":486,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1532,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1614615847208,\"seenAt\":1616677659937,\"playTime\":{\"total\":13552,\"tv\":145},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KillerXX3000\",\"nbFollowing\":20,\"nbFollowers\":19,\"count\":{\"all\":147,\"rated\":41,\"ai\":15,\"draw\":9,\"drawH\":9,\"loss\":35,\"lossH\":21,\"win\":103,\"winH\":102,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "killerxx3000",
     "username": "KillerXX3000",
@@ -54,7 +54,7 @@
       }
     },
     "createdAt": 1614615847208,
-    "seenAt": 1616613881815,
+    "seenAt": 1616677659937,
     "playTime": {
       "total": 13552,
       "tv": 145
@@ -62,21 +62,20 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KillerXX3000",
-    "playing": "https://lichess.org/cTTrFPko/white",
     "nbFollowing": 20,
-    "nbFollowers": 20,
+    "nbFollowers": 19,
     "count": {
-      "all": 145,
+      "all": 147,
       "rated": 41,
-      "ai": 14,
+      "ai": 15,
       "draw": 9,
       "drawH": 9,
-      "loss": 34,
+      "loss": 35,
       "lossH": 21,
-      "win": 102,
-      "winH": 101,
+      "win": 103,
+      "winH": 102,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
