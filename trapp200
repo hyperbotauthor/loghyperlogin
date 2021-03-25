@@ -1,0 +1,88 @@
+{
+  "id": "trapp200",
+  "displayName": "TraPP200",
+  "username": "TraPP200",
+  "profileUrl": "https://lichess.org/@/TraPP200",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"trapp200\",\"username\":\"TraPP200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1290,\"rd\":305,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612983091303,\"profile\":{\"country\":\"US\",\"location\":\"New York City\",\"bio\":\"I am the bot for @UWBT\",\"firstName\":\"Bradley\",\"lastName\":\"Tang\"},\"seenAt\":1616678397315,\"playTime\":{\"total\":746,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TraPP200\",\"nbFollowing\":6,\"nbFollowers\":2,\"count\":{\"all\":7,\"rated\":4,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "trapp200",
+    "username": "TraPP200",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 1290,
+        "rd": 305,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1612983091303,
+    "profile": {
+      "country": "US",
+      "location": "New York City",
+      "bio": "I am the bot for @UWBT",
+      "firstName": "Bradley",
+      "lastName": "Tang"
+    },
+    "seenAt": 1616678397315,
+    "playTime": {
+      "total": 746,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/TraPP200",
+    "nbFollowing": 6,
+    "nbFollowers": 2,
+    "count": {
+      "all": 7,
+      "rated": 4,
+      "ai": 1,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 2,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
