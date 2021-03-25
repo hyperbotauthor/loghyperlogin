@@ -4,16 +4,30 @@
   "username": "bigboss3213",
   "profileUrl": "https://lichess.org/@/bigboss3213",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bigboss3213\",\"username\":\"bigboss3213\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2385,\"rd\":286,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2527,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616467895787,\"seenAt\":1616473966314,\"playTime\":{\"total\":1397,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bigboss3213\",\"playing\":\"https://lichess.org/Wui2g2uB/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":12,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bigboss3213\",\"username\":\"bigboss3213\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2385,\"rd\":286,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2200,\"rd\":417,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":2458,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2527,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616467895787,\"seenAt\":1616572497728,\"playTime\":{\"total\":2983,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bigboss3213\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":24,\"rated\":14,\"ai\":1,\"draw\":2,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bigboss3213",
     "username": "bigboss3213",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 2,
         "rating": 2385,
         "rd": 286,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 2200,
+        "rd": 417,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 2458,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
@@ -47,29 +61,28 @@
       }
     },
     "createdAt": 1616467895787,
-    "seenAt": 1616473966314,
+    "seenAt": 1616572497728,
     "playTime": {
-      "total": 1397,
+      "total": 2983,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/bigboss3213",
-    "playing": "https://lichess.org/Wui2g2uB/white",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 12,
-      "rated": 7,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 10,
-      "winH": 10,
+      "all": 24,
+      "rated": 14,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
