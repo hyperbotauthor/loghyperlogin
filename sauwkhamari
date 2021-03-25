@@ -4,7 +4,7 @@
   "username": "sauwkhamari",
   "profileUrl": "https://lichess.org/@/sauwkhamari",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sauwkhamari\",\"username\":\"sauwkhamari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1626,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":1580,\"rd\":180,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true}},\"createdAt\":1614971971295,\"profile\":{\"fideRating\":2500,\"uscfRating\":2200,\"ecfRating\":1700},\"seenAt\":1615397891994,\"playTime\":{\"total\":5531,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sauwkhamari\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":27,\"rated\":16,\"ai\":11,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":10,\"win\":11,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sauwkhamari\",\"username\":\"sauwkhamari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1642,\"rd\":248,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":1580,\"rd\":182,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":398,\"prog\":0,\"prov\":true}},\"createdAt\":1614971971295,\"profile\":{\"country\":\"US\",\"location\":\"NYC\",\"bio\":\"HI!\"},\"seenAt\":1616692160723,\"playTime\":{\"total\":5759,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sauwkhamari\",\"playing\":\"https://lichess.org/tRqBg59C/black\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":29,\"rated\":17,\"ai\":11,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":10,\"win\":13,\"winH\":7,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sauwkhamari",
     "username": "sauwkhamari",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 1626,
-        "rd": 258,
+        "games": 7,
+        "rating": 1642,
+        "rd": 248,
         "prog": 0,
         "prov": true
       },
@@ -41,46 +41,47 @@
       "classical": {
         "games": 8,
         "rating": 1580,
-        "rd": 180,
+        "rd": 182,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 1,
         "rating": 1258,
-        "rd": 397,
+        "rd": 398,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1614971971295,
     "profile": {
-      "fideRating": 2500,
-      "uscfRating": 2200,
-      "ecfRating": 1700
+      "country": "US",
+      "location": "NYC",
+      "bio": "HI!"
     },
-    "seenAt": 1615397891994,
+    "seenAt": 1616692160723,
     "playTime": {
-      "total": 5531,
+      "total": 5759,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/sauwkhamari",
+    "playing": "https://lichess.org/tRqBg59C/black",
     "nbFollowing": 1,
-    "nbFollowers": 1,
+    "nbFollowers": 3,
     "count": {
-      "all": 27,
-      "rated": 16,
+      "all": 29,
+      "rated": 17,
       "ai": 11,
       "draw": 1,
       "drawH": 1,
       "loss": 15,
       "lossH": 10,
-      "win": 11,
-      "winH": 5,
+      "win": 13,
+      "winH": 7,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
