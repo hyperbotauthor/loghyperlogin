@@ -1,0 +1,82 @@
+{
+  "id": "sachevsk",
+  "displayName": "sachevsk",
+  "username": "sachevsk",
+  "profileUrl": "https://lichess.org/@/sachevsk",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sachevsk\",\"username\":\"sachevsk\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616622948367,\"seenAt\":1616793506215,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/sachevsk\",\"playing\":\"https://lichess.org/8NfOr6i1/white\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":0,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":0,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sachevsk",
+    "username": "sachevsk",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1616622948367,
+    "seenAt": 1616793506215,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/sachevsk",
+    "playing": "https://lichess.org/8NfOr6i1/white",
+    "nbFollowing": 1,
+    "nbFollowers": 0,
+    "count": {
+      "all": 3,
+      "rated": 0,
+      "ai": 3,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 0,
+      "win": 1,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
