@@ -1,0 +1,150 @@
+{
+  "id": "johnluke090904",
+  "displayName": "JohnLuke090904",
+  "username": "JohnLuke090904",
+  "profileUrl": "https://lichess.org/@/JohnLuke090904",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"johnluke090904\",\"username\":\"JohnLuke090904\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":15,\"rating\":1495,\"rd\":131,\"prog\":-8,\"prov\":true},\"antichess\":{\"games\":40,\"rating\":1391,\"rd\":101,\"prog\":18},\"atomic\":{\"games\":431,\"rating\":1600,\"rd\":68,\"prog\":-21},\"racingKings\":{\"games\":2,\"rating\":1520,\"rd\":275,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1,\"rating\":1182,\"rd\":368,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":304,\"rating\":1603,\"rd\":45,\"prog\":-10},\"kingOfTheHill\":{\"games\":2,\"rating\":1480,\"rd\":233,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1475,\"rd\":169,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":1554,\"rd\":158,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":328,\"rating\":1537,\"rd\":45,\"prog\":33},\"correspondence\":{\"games\":8,\"rating\":1503,\"rd\":149,\"prog\":0,\"prov\":true},\"horde\":{\"games\":43,\"rating\":1659,\"rd\":109,\"prog\":15},\"puzzle\":{\"games\":754,\"rating\":2023,\"rd\":61,\"prog\":0},\"classical\":{\"games\":256,\"rating\":1904,\"rd\":46,\"prog\":43},\"rapid\":{\"games\":585,\"rating\":1868,\"rd\":45,\"prog\":18},\"storm\":{\"runs\":2,\"score\":22}},\"createdAt\":1576860966775,\"profile\":{\"country\":\"US\"},\"seenAt\":1616859978728,\"playTime\":{\"total\":1195438,\"tv\":6410},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/JohnLuke090904\",\"nbFollowing\":18,\"nbFollowers\":13,\"completionRate\":90,\"count\":{\"all\":2514,\"rated\":2029,\"ai\":110,\"draw\":106,\"drawH\":105,\"loss\":1106,\"lossH\":1016,\"win\":1302,\"winH\":1283,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "johnluke090904",
+    "username": "JohnLuke090904",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 15,
+        "rating": 1495,
+        "rd": 131,
+        "prog": -8,
+        "prov": true
+      },
+      "antichess": {
+        "games": 40,
+        "rating": 1391,
+        "rd": 101,
+        "prog": 18
+      },
+      "atomic": {
+        "games": 431,
+        "rating": 1600,
+        "rd": 68,
+        "prog": -21
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1520,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 1,
+        "rating": 1182,
+        "rd": 368,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 304,
+        "rating": 1603,
+        "rd": 45,
+        "prog": -10
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1480,
+        "rd": 233,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 6,
+        "rating": 1475,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 6,
+        "rating": 1554,
+        "rd": 158,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 328,
+        "rating": 1537,
+        "rd": 45,
+        "prog": 33
+      },
+      "correspondence": {
+        "games": 8,
+        "rating": 1503,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 43,
+        "rating": 1659,
+        "rd": 109,
+        "prog": 15
+      },
+      "puzzle": {
+        "games": 754,
+        "rating": 2023,
+        "rd": 61,
+        "prog": 0
+      },
+      "classical": {
+        "games": 256,
+        "rating": 1904,
+        "rd": 46,
+        "prog": 43
+      },
+      "rapid": {
+        "games": 585,
+        "rating": 1868,
+        "rd": 45,
+        "prog": 18
+      },
+      "storm": {
+        "runs": 2,
+        "score": 22
+      }
+    },
+    "createdAt": 1576860966775,
+    "profile": {
+      "country": "US"
+    },
+    "seenAt": 1616859978728,
+    "playTime": {
+      "total": 1195438,
+      "tv": 6410
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/JohnLuke090904",
+    "nbFollowing": 18,
+    "nbFollowers": 13,
+    "completionRate": 90,
+    "count": {
+      "all": 2514,
+      "rated": 2029,
+      "ai": 110,
+      "draw": 106,
+      "drawH": 105,
+      "loss": 1106,
+      "lossH": 1016,
+      "win": 1302,
+      "winH": 1283,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
