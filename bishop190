@@ -1,0 +1,158 @@
+{
+  "id": "bishop190",
+  "displayName": "Bishop190",
+  "username": "Bishop190",
+  "profileUrl": "https://lichess.org/@/Bishop190",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bishop190\",\"username\":\"Bishop190\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1197,\"rd\":149,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":40,\"rating\":1194,\"rd\":95,\"prog\":23},\"atomic\":{\"games\":7,\"rating\":1040,\"rd\":168,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1331,\"rd\":232,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":356,\"rating\":1342,\"rd\":57,\"prog\":30},\"blitz\":{\"games\":481,\"rating\":1424,\"rd\":56,\"prog\":34},\"kingOfTheHill\":{\"games\":4,\"rating\":1166,\"rd\":219,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1210,\"rd\":136,\"prog\":36,\"prov\":true},\"threeCheck\":{\"games\":7,\"rating\":1238,\"rd\":201,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":960,\"rating\":1609,\"rd\":45,\"prog\":25},\"correspondence\":{\"games\":39,\"rating\":1663,\"rd\":79,\"prog\":122},\"horde\":{\"games\":4,\"rating\":1450,\"rd\":228,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1154,\"rating\":1742,\"rd\":65,\"prog\":0},\"classical\":{\"games\":26,\"rating\":1317,\"rd\":109,\"prog\":99},\"rapid\":{\"games\":2056,\"rating\":1759,\"rd\":47,\"prog\":-16},\"storm\":{\"runs\":25,\"score\":35}},\"createdAt\":1588428265993,\"profile\":{\"country\":\"CA\",\"location\":\"Toronto\",\"bio\":\"Jeopardy and Quiz guy\",\"firstName\":\"Garbage\",\"lastName\":\"Dump\",\"fideRating\":600,\"uscfRating\":100,\"ecfRating\":1},\"seenAt\":1616849487366,\"playTime\":{\"total\":1119197,\"tv\":562},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Bishop190\",\"playing\":\"https://lichess.org/oIKpjq97/white\",\"nbFollowing\":88,\"nbFollowers\":42,\"completionRate\":100,\"count\":{\"all\":4382,\"rated\":4016,\"ai\":35,\"draw\":181,\"drawH\":180,\"loss\":2404,\"lossH\":2376,\"win\":1797,\"winH\":1791,\"bookmark\":4,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bishop190",
+    "username": "Bishop190",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 8,
+        "rating": 1197,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 40,
+        "rating": 1194,
+        "rd": 95,
+        "prog": 23
+      },
+      "atomic": {
+        "games": 7,
+        "rating": 1040,
+        "rd": 168,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1331,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 356,
+        "rating": 1342,
+        "rd": 57,
+        "prog": 30
+      },
+      "blitz": {
+        "games": 481,
+        "rating": 1424,
+        "rd": 56,
+        "prog": 34
+      },
+      "kingOfTheHill": {
+        "games": 4,
+        "rating": 1166,
+        "rd": 219,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 15,
+        "rating": 1210,
+        "rd": 136,
+        "prog": 36,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 7,
+        "rating": 1238,
+        "rd": 201,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 960,
+        "rating": 1609,
+        "rd": 45,
+        "prog": 25
+      },
+      "correspondence": {
+        "games": 39,
+        "rating": 1663,
+        "rd": 79,
+        "prog": 122
+      },
+      "horde": {
+        "games": 4,
+        "rating": 1450,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1154,
+        "rating": 1742,
+        "rd": 65,
+        "prog": 0
+      },
+      "classical": {
+        "games": 26,
+        "rating": 1317,
+        "rd": 109,
+        "prog": 99
+      },
+      "rapid": {
+        "games": 2056,
+        "rating": 1759,
+        "rd": 47,
+        "prog": -16
+      },
+      "storm": {
+        "runs": 25,
+        "score": 35
+      }
+    },
+    "createdAt": 1588428265993,
+    "profile": {
+      "country": "CA",
+      "location": "Toronto",
+      "bio": "Jeopardy and Quiz guy",
+      "firstName": "Garbage",
+      "lastName": "Dump",
+      "fideRating": 600,
+      "uscfRating": 100,
+      "ecfRating": 1
+    },
+    "seenAt": 1616849487366,
+    "playTime": {
+      "total": 1119197,
+      "tv": 562
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Bishop190",
+    "playing": "https://lichess.org/oIKpjq97/white",
+    "nbFollowing": 88,
+    "nbFollowers": 42,
+    "completionRate": 100,
+    "count": {
+      "all": 4382,
+      "rated": 4016,
+      "ai": 35,
+      "draw": 181,
+      "drawH": 180,
+      "loss": 2404,
+      "lossH": 2376,
+      "win": 1797,
+      "winH": 1791,
+      "bookmark": 4,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
