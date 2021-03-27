@@ -4,7 +4,7 @@
   "username": "Freemint_MC",
   "profileUrl": "https://lichess.org/@/Freemint_MC",
   "provider": "lichess",
-  "_raw": "{\"id\":\"freemint_mc\",\"username\":\"Freemint_MC\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2264,\"rd\":135,\"prog\":0,\"prov\":true}},\"createdAt\":1616547880918,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. It has Monte Carlo Tree Search, additionally. It may be one of the strongest engines around- in a 3.4Ghz CPU test, Freemint MC beat Stockfish 13 by a win-loss-draw of 29-9-62.\"},\"seenAt\":1616818707387,\"playTime\":{\"total\":15810,\"tv\":4167},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Freemint_MC\",\"playing\":\"https://lichess.org/uLY0Qt4m/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":8,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":2,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"freemint_mc\",\"username\":\"Freemint_MC\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2266,\"rd\":126,\"prog\":0,\"prov\":true}},\"createdAt\":1616547880918,\"profile\":{\"bio\":\"Freemint is derived from Stockfish 12. It has Monte Carlo Tree Search, additionally. It may be one of the strongest engines around- in a 3.4Ghz CPU test, Freemint MC beat Stockfish 13 by a win-loss-draw of 29-9-62.\"},\"seenAt\":1616860643272,\"playTime\":{\"total\":17264,\"tv\":4167},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Freemint_MC\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":2,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "freemint_mc",
     "username": "Freemint_MC",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 2264,
-        "rd": 135,
+        "games": 9,
+        "rating": 2266,
+        "rd": 126,
         "prog": 0,
         "prov": true
       }
@@ -50,29 +50,28 @@
     "profile": {
       "bio": "Freemint is derived from Stockfish 12. It has Monte Carlo Tree Search, additionally. It may be one of the strongest engines around- in a 3.4Ghz CPU test, Freemint MC beat Stockfish 13 by a win-loss-draw of 29-9-62."
     },
-    "seenAt": 1616818707387,
+    "seenAt": 1616860643272,
     "playTime": {
-      "total": 15810,
+      "total": 17264,
       "tv": 4167
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Freemint_MC",
-    "playing": "https://lichess.org/uLY0Qt4m/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 8,
-      "rated": 8,
+      "all": 9,
+      "rated": 9,
       "ai": 0,
-      "draw": 4,
-      "drawH": 4,
+      "draw": 5,
+      "drawH": 5,
       "loss": 2,
       "lossH": 2,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
