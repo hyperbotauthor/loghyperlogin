@@ -4,7 +4,7 @@
   "username": "WittenbergAdmin",
   "profileUrl": "https://lichess.org/@/WittenbergAdmin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wittenbergadmin\",\"username\":\"WittenbergAdmin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616851861094,\"seenAt\":1616863980399,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/WittenbergAdmin\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wittenbergadmin\",\"username\":\"WittenbergAdmin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616851861094,\"profile\":{\"country\":\"_pirate\",\"location\":\"Wittenberg Online Academy\",\"bio\":\"I am the admin account for Wittenberg Academy. Feel free to challenge me. Run by @RuyLopezMan\",\"firstName\":\"Wittenberg\",\"lastName\":\"Admin\"},\"seenAt\":1616885033779,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WittenbergAdmin\",\"playing\":\"https://lichess.org/GMv6bkzJ/white\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wittenbergadmin",
     "username": "WittenbergAdmin",
@@ -47,14 +47,23 @@
       }
     },
     "createdAt": 1616851861094,
-    "seenAt": 1616863980399,
+    "profile": {
+      "country": "_pirate",
+      "location": "Wittenberg Online Academy",
+      "bio": "I am the admin account for Wittenberg Academy. Feel free to challenge me. Run by @RuyLopezMan",
+      "firstName": "Wittenberg",
+      "lastName": "Admin"
+    },
+    "seenAt": 1616885033779,
     "playTime": {
       "total": 0,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/WittenbergAdmin",
-    "nbFollowing": 0,
+    "playing": "https://lichess.org/GMv6bkzJ/white",
+    "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
       "all": 0,
@@ -67,7 +76,7 @@
       "win": 0,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
