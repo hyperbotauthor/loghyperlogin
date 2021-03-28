@@ -4,7 +4,7 @@
   "username": "WittenbergAdmin",
   "profileUrl": "https://lichess.org/@/WittenbergAdmin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wittenbergadmin\",\"username\":\"WittenbergAdmin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1763,\"rd\":295,\"prog\":0,\"prov\":true}},\"createdAt\":1616851861094,\"profile\":{\"country\":\"_pirate\",\"location\":\"Wittenberg Online Academy\",\"bio\":\"I am the admin account for Wittenberg Academy. Feel free to challenge me. Run by @RuyLopezMan\",\"firstName\":\"Wittenberg\",\"lastName\":\"Admin\"},\"seenAt\":1616950955925,\"playTime\":{\"total\":2095,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WittenbergAdmin\",\"playing\":\"https://lichess.org/Osod4qJ4/black\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wittenbergadmin\",\"username\":\"WittenbergAdmin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1787,\"rd\":280,\"prog\":0,\"prov\":true}},\"createdAt\":1616851861094,\"profile\":{\"country\":\"_pirate\",\"location\":\"Wittenberg Online Academy\",\"bio\":\"I am the admin account for Wittenberg Academy. Feel free to challenge me. Run by @RuyLopezMan\",\"firstName\":\"Wittenberg\",\"lastName\":\"Admin\"},\"seenAt\":1616958094814,\"playTime\":{\"total\":2844,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WittenbergAdmin\",\"playing\":\"https://lichess.org/wp9DcRlE/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":10,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wittenbergadmin",
     "username": "WittenbergAdmin",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1763,
-        "rd": 295,
+        "games": 2,
+        "rating": 1787,
+        "rd": 280,
         "prog": 0,
         "prov": true
       }
@@ -54,29 +54,29 @@
       "firstName": "Wittenberg",
       "lastName": "Admin"
     },
-    "seenAt": 1616950955925,
+    "seenAt": 1616958094814,
     "playTime": {
-      "total": 2095,
+      "total": 2844,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/WittenbergAdmin",
-    "playing": "https://lichess.org/Osod4qJ4/black",
+    "playing": "https://lichess.org/wp9DcRlE/white",
     "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 9,
-      "rated": 1,
+      "all": 10,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 5,
       "lossH": 5,
-      "win": 4,
-      "winH": 4,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
