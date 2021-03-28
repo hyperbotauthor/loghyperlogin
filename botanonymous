@@ -4,7 +4,7 @@
   "username": "BotAnonymous",
   "profileUrl": "https://lichess.org/@/BotAnonymous",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botanonymous\",\"username\":\"BotAnonymous\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2350,\"rd\":273,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1814,\"rd\":394,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2484,\"rd\":192,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2304,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2297,\"rd\":211,\"prog\":0,\"prov\":true}},\"createdAt\":1616422222583,\"seenAt\":1616862134092,\"playTime\":{\"total\":7829,\"tv\":205},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotAnonymous\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":57,\"rated\":27,\"ai\":8,\"draw\":4,\"drawH\":4,\"loss\":27,\"lossH\":21,\"win\":26,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botanonymous\",\"username\":\"BotAnonymous\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2350,\"rd\":273,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1814,\"rd\":394,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2484,\"rd\":192,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2304,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2297,\"rd\":211,\"prog\":0,\"prov\":true}},\"createdAt\":1616422222583,\"seenAt\":1616937388245,\"playTime\":{\"total\":7829,\"tv\":205},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotAnonymous\",\"playing\":\"https://lichess.org/CUGeUrOD/black\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":57,\"rated\":27,\"ai\":8,\"draw\":4,\"drawH\":4,\"loss\":27,\"lossH\":21,\"win\":26,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botanonymous",
     "username": "BotAnonymous",
@@ -61,7 +61,7 @@
       }
     },
     "createdAt": 1616422222583,
-    "seenAt": 1616862134092,
+    "seenAt": 1616937388245,
     "playTime": {
       "total": 7829,
       "tv": 205
@@ -69,8 +69,9 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BotAnonymous",
+    "playing": "https://lichess.org/CUGeUrOD/black",
     "nbFollowing": 1,
-    "nbFollowers": 3,
+    "nbFollowers": 2,
     "count": {
       "all": 57,
       "rated": 27,
@@ -82,7 +83,7 @@
       "win": 26,
       "winH": 24,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
