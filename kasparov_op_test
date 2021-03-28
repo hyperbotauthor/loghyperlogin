@@ -1,0 +1,80 @@
+{
+  "id": "kasparov_op_test",
+  "displayName": "kasparov_op_test",
+  "username": "kasparov_op_test",
+  "profileUrl": "https://lichess.org/@/kasparov_op_test",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kasparov_op_test\",\"username\":\"kasparov_op_test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1872,\"rd\":166,\"prog\":0,\"prov\":true}},\"createdAt\":1592180851712,\"seenAt\":1616894937502,\"playTime\":{\"total\":2890,\"tv\":0},\"language\":\"pt-BR\",\"url\":\"https://lichess.org/@/kasparov_op_test\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kasparov_op_test",
+    "username": "kasparov_op_test",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1872,
+        "rd": 166,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1592180851712,
+    "seenAt": 1616894937502,
+    "playTime": {
+      "total": 2890,
+      "tv": 0
+    },
+    "language": "pt-BR",
+    "url": "https://lichess.org/@/kasparov_op_test",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 5,
+      "rated": 5,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
