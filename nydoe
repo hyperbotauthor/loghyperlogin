@@ -1,0 +1,87 @@
+{
+  "id": "nydoe",
+  "displayName": "Nydoe",
+  "username": "Nydoe",
+  "profileUrl": "https://lichess.org/@/Nydoe",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"nydoe\",\"username\":\"Nydoe\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":1129,\"rd\":80,\"prog\":-7},\"puzzle\":{\"games\":29,\"rating\":1909,\"rd\":120,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1317,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617206189580,\"seenAt\":1617313057281,\"playTime\":{\"total\":6380,\"tv\":0},\"language\":\"de-DE\",\"url\":\"https://lichess.org/@/Nydoe\",\"nbFollowing\":1,\"nbFollowers\":0,\"completionRate\":100,\"count\":{\"all\":28,\"rated\":20,\"ai\":7,\"draw\":2,\"drawH\":1,\"loss\":14,\"lossH\":13,\"win\":12,\"winH\":7,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "nydoe",
+    "username": "Nydoe",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 1129,
+        "rd": 80,
+        "prog": -7
+      },
+      "puzzle": {
+        "games": 29,
+        "rating": 1909,
+        "rd": 120,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1317,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1617206189580,
+    "seenAt": 1617313057281,
+    "playTime": {
+      "total": 6380,
+      "tv": 0
+    },
+    "language": "de-DE",
+    "url": "https://lichess.org/@/Nydoe",
+    "nbFollowing": 1,
+    "nbFollowers": 0,
+    "completionRate": 100,
+    "count": {
+      "all": 28,
+      "rated": 20,
+      "ai": 7,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 14,
+      "lossH": 13,
+      "win": 12,
+      "winH": 7,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
