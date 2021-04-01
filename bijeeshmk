@@ -1,0 +1,101 @@
+{
+  "id": "bijeeshmk",
+  "displayName": "bijeeshmk",
+  "username": "bijeeshmk",
+  "profileUrl": "https://lichess.org/@/bijeeshmk",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bijeeshmk\",\"username\":\"bijeeshmk\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1559,\"rd\":417,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":25,\"rating\":1228,\"rd\":86,\"prog\":83},\"blitz\":{\"games\":2,\"rating\":1334,\"rd\":295,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1255,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1132,\"rd\":304,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1233,\"rd\":236,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1143,\"rd\":239,\"prog\":0,\"prov\":true}},\"createdAt\":1612196785446,\"seenAt\":1617258702495,\"playTime\":{\"total\":4719,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/bijeeshmk\",\"nbFollowing\":39,\"nbFollowers\":4,\"completionRate\":69,\"count\":{\"all\":36,\"rated\":36,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":19,\"lossH\":19,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bijeeshmk",
+    "username": "bijeeshmk",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1559,
+        "rd": 417,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 25,
+        "rating": 1228,
+        "rd": 86,
+        "prog": 83
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1334,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1255,
+        "rd": 300,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1132,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1233,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1143,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1612196785446,
+    "seenAt": 1617258702495,
+    "playTime": {
+      "total": 4719,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/bijeeshmk",
+    "nbFollowing": 39,
+    "nbFollowers": 4,
+    "completionRate": 69,
+    "count": {
+      "all": 36,
+      "rated": 36,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 19,
+      "lossH": 19,
+      "win": 17,
+      "winH": 17,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
