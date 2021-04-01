@@ -4,7 +4,7 @@
   "username": "SathyaKarthikBOT",
   "profileUrl": "https://lichess.org/@/SathyaKarthikBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sathyakarthikbot\",\"username\":\"SathyaKarthikBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1328,\"rd\":298,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1373,\"rd\":331,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2095,\"rd\":416,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1458,\"rd\":200,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1325,\"rd\":296,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1407,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1853,\"rd\":118,\"prog\":-216,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617203764872,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad\",\"bio\":\"Hi . https://i.imgur.com/YQ85KZMs.jpg This is BOT SathyaKarthikBOT .https://i.imgur.com/72zx4Ra.jpg https://i.imgur.com/q2d0hN6.jpg \\r\\nMy creator is @SathyaKarthik . Pls follow him and me . I will accept rated games only. Who will follow me , i will follow him back. If you want me join your team, give me 2 followers\",\"firstName\":\"SathyaKarthik\",\"lastName\":\"BOT\"},\"seenAt\":1617276573783,\"playTime\":{\"total\":2644,\"tv\":418},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthikBOT\",\"nbFollowing\":9,\"nbFollowers\":9,\"count\":{\"all\":37,\"rated\":27,\"ai\":2,\"draw\":2,\"drawH\":1,\"loss\":17,\"lossH\":16,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sathyakarthikbot\",\"username\":\"SathyaKarthikBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1328,\"rd\":298,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1373,\"rd\":331,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2095,\"rd\":416,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1458,\"rd\":200,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1325,\"rd\":296,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1407,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1766,\"rd\":111,\"prog\":-303,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617203764872,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad\",\"bio\":\"Hi . https://i.imgur.com/YQ85KZMs.jpg This is BOT SathyaKarthikBOT .https://i.imgur.com/72zx4Ra.jpg https://i.imgur.com/q2d0hN6.jpg \\r\\nMy creator is @SathyaKarthik . Pls follow him and me . I will accept rated games only. Who will follow me , i will follow him back. If you want me join your team, give me 2 followers\",\"firstName\":\"SathyaKarthik\",\"lastName\":\"BOT\"},\"seenAt\":1617279031743,\"playTime\":{\"total\":2813,\"tv\":418},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthikBOT\",\"playing\":\"https://lichess.org/u8sYXAlR/black\",\"nbFollowing\":17,\"nbFollowers\":19,\"count\":{\"all\":40,\"rated\":30,\"ai\":2,\"draw\":2,\"drawH\":1,\"loss\":19,\"lossH\":18,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sathyakarthikbot",
     "username": "SathyaKarthikBOT",
@@ -53,10 +53,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 16,
-        "rating": 1853,
-        "rd": 118,
-        "prog": -216,
+        "games": 19,
+        "rating": 1766,
+        "rd": 111,
+        "prog": -303,
         "prov": true
       },
       "correspondence": {
@@ -89,28 +89,29 @@
       "firstName": "SathyaKarthik",
       "lastName": "BOT"
     },
-    "seenAt": 1617276573783,
+    "seenAt": 1617279031743,
     "playTime": {
-      "total": 2644,
+      "total": 2813,
       "tv": 418
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/SathyaKarthikBOT",
-    "nbFollowing": 9,
-    "nbFollowers": 9,
+    "playing": "https://lichess.org/u8sYXAlR/black",
+    "nbFollowing": 17,
+    "nbFollowers": 19,
     "count": {
-      "all": 37,
-      "rated": 27,
+      "all": 40,
+      "rated": 30,
       "ai": 2,
       "draw": 2,
       "drawH": 1,
-      "loss": 17,
-      "lossH": 16,
-      "win": 18,
-      "winH": 18,
+      "loss": 19,
+      "lossH": 18,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
