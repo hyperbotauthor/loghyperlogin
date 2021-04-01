@@ -4,7 +4,7 @@
   "username": "SathyaKarthikBOT",
   "profileUrl": "https://lichess.org/@/SathyaKarthikBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sathyakarthikbot\",\"username\":\"SathyaKarthikBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617203764872,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad\",\"bio\":\"Hi friends. I am the BOT of @SathyaKarthik . If you give me 5 followers, i can join your team\",\"firstName\":\"SathyaKarthik\",\"lastName\":\"BOT\"},\"seenAt\":1617267978508,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthikBOT\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sathyakarthikbot\",\"username\":\"SathyaKarthikBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1823,\"rd\":207,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617203764872,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad\",\"bio\":\"Hi friends. I am the BOT of @SathyaKarthik . If you give me 5 followers, i can join your team\",\"firstName\":\"SathyaKarthik\",\"lastName\":\"BOT\"},\"seenAt\":1617269280479,\"playTime\":{\"total\":192,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SathyaKarthikBOT\",\"nbFollowing\":2,\"nbFollowers\":5,\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sathyakarthikbot",
     "username": "SathyaKarthikBOT",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1823,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
@@ -54,26 +54,26 @@
       "firstName": "SathyaKarthik",
       "lastName": "BOT"
     },
-    "seenAt": 1617267978508,
+    "seenAt": 1617269280479,
     "playTime": {
-      "total": 0,
+      "total": 192,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/SathyaKarthikBOT",
     "nbFollowing": 2,
-    "nbFollowers": 1,
+    "nbFollowers": 5,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 4,
+      "rated": 4,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
