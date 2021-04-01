@@ -1,0 +1,156 @@
+{
+  "id": "kiki1903",
+  "displayName": "kiki1903",
+  "username": "kiki1903",
+  "profileUrl": "https://lichess.org/@/kiki1903",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kiki1903\",\"username\":\"kiki1903\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1087,\"rd\":244,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":14,\"rating\":1216,\"rd\":108,\"prog\":25},\"atomic\":{\"games\":106,\"rating\":1120,\"rd\":66,\"prog\":38},\"racingKings\":{\"games\":11,\"rating\":1269,\"rd\":155,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1523,\"rating\":1358,\"rd\":46,\"prog\":-6},\"blitz\":{\"games\":308,\"rating\":1203,\"rd\":45,\"prog\":22},\"kingOfTheHill\":{\"games\":18,\"rating\":1273,\"rd\":115,\"prog\":61,\"prov\":true},\"crazyhouse\":{\"games\":10,\"rating\":1091,\"rd\":150,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":16,\"rating\":1108,\"rd\":115,\"prog\":92,\"prov\":true},\"bullet\":{\"games\":718,\"rating\":1340,\"rd\":45,\"prog\":7},\"correspondence\":{\"games\":6,\"rating\":1252,\"rd\":183,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1249,\"rd\":216,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":283,\"rating\":2200,\"rd\":75,\"prog\":0},\"classical\":{\"games\":26,\"rating\":2053,\"rd\":108,\"prog\":158},\"rapid\":{\"games\":102,\"rating\":1507,\"rd\":47,\"prog\":8},\"storm\":{\"runs\":42,\"score\":25}},\"createdAt\":1593098669397,\"profile\":{\"country\":\"DE\",\"location\":\"Berlin\",\"bio\":\"I'm learning the art of ninjitsu\",\"firstName\":\"Sensei\",\"lastName\":\"Takashi\",\"links\":\"twitch.tv/Kami19052008\\r\\nDiscord\"},\"seenAt\":1617268995728,\"patron\":true,\"playTime\":{\"total\":310101,\"tv\":0},\"language\":\"de-DE\",\"url\":\"https://lichess.org/@/kiki1903\",\"nbFollowing\":7,\"nbFollowers\":17,\"completionRate\":93,\"count\":{\"all\":2989,\"rated\":2881,\"ai\":58,\"draw\":90,\"drawH\":87,\"loss\":1738,\"lossH\":1694,\"win\":1161,\"winH\":1150,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kiki1903",
+    "username": "kiki1903",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 3,
+        "rating": 1087,
+        "rd": 244,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 14,
+        "rating": 1216,
+        "rd": 108,
+        "prog": 25
+      },
+      "atomic": {
+        "games": 106,
+        "rating": 1120,
+        "rd": 66,
+        "prog": 38
+      },
+      "racingKings": {
+        "games": 11,
+        "rating": 1269,
+        "rd": 155,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 1523,
+        "rating": 1358,
+        "rd": 46,
+        "prog": -6
+      },
+      "blitz": {
+        "games": 308,
+        "rating": 1203,
+        "rd": 45,
+        "prog": 22
+      },
+      "kingOfTheHill": {
+        "games": 18,
+        "rating": 1273,
+        "rd": 115,
+        "prog": 61,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 10,
+        "rating": 1091,
+        "rd": 150,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 16,
+        "rating": 1108,
+        "rd": 115,
+        "prog": 92,
+        "prov": true
+      },
+      "bullet": {
+        "games": 718,
+        "rating": 1340,
+        "rd": 45,
+        "prog": 7
+      },
+      "correspondence": {
+        "games": 6,
+        "rating": 1252,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 4,
+        "rating": 1249,
+        "rd": 216,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 283,
+        "rating": 2200,
+        "rd": 75,
+        "prog": 0
+      },
+      "classical": {
+        "games": 26,
+        "rating": 2053,
+        "rd": 108,
+        "prog": 158
+      },
+      "rapid": {
+        "games": 102,
+        "rating": 1507,
+        "rd": 47,
+        "prog": 8
+      },
+      "storm": {
+        "runs": 42,
+        "score": 25
+      }
+    },
+    "createdAt": 1593098669397,
+    "profile": {
+      "country": "DE",
+      "location": "Berlin",
+      "bio": "I'm learning the art of ninjitsu",
+      "firstName": "Sensei",
+      "lastName": "Takashi",
+      "links": "twitch.tv/Kami19052008\r\nDiscord"
+    },
+    "seenAt": 1617268995728,
+    "patron": true,
+    "playTime": {
+      "total": 310101,
+      "tv": 0
+    },
+    "language": "de-DE",
+    "url": "https://lichess.org/@/kiki1903",
+    "nbFollowing": 7,
+    "nbFollowers": 17,
+    "completionRate": 93,
+    "count": {
+      "all": 2989,
+      "rated": 2881,
+      "ai": 58,
+      "draw": 90,
+      "drawH": 87,
+      "loss": 1738,
+      "lossH": 1694,
+      "win": 1161,
+      "winH": 1150,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
