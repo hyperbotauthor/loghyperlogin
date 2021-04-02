@@ -4,7 +4,7 @@
   "username": "EasyChessHerokubot",
   "profileUrl": "https://lichess.org/@/EasyChessHerokubot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"easychessherokubot\",\"username\":\"EasyChessHerokubot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1200,\"rd\":402,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1200,\"rd\":402,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":402,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":402,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1200,\"rd\":402,\"prog\":0,\"prov\":true}},\"createdAt\":1611254056189,\"profile\":{\"country\":\"_lichess\",\"location\":\"lichess BOT\",\"bio\":\"Challenge Me!!\\r\\nhttps://i.imgur.com/2HhZd2d.jpg\\r\\nhttps://i.imgur.com/SJPezJq.jpg\\r\\nhttps://i.imgur.com/WEmiMK8.jpg\"},\"seenAt\":1614004958418,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EasyChessHerokubot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":12,\"rated\":0,\"ai\":7,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":8,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"easychessherokubot\",\"username\":\"EasyChessHerokubot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1200,\"rd\":404,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1200,\"rd\":404,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":404,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":404,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1200,\"rd\":404,\"prog\":0,\"prov\":true}},\"createdAt\":1611254056189,\"profile\":{\"country\":\"_lichess\",\"location\":\"lichess BOT\",\"bio\":\"Challenge Me!!  I run on,Hyper Easy and Easy Chess.\\r\\nhttps://i.imgur.com/2HhZd2d.jpg\\r\\nhttps://i.imgur.com/SJPezJq.jpg\\r\\nhttps://i.imgur.com/WEmiMK8.jpg\"},\"seenAt\":1617368770915,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EasyChessHerokubot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":14,\"rated\":0,\"ai\":9,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":2,\"win\":10,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "easychessherokubot",
     "username": "EasyChessHerokubot",
@@ -13,35 +13,35 @@
       "blitz": {
         "games": 0,
         "rating": 1200,
-        "rd": 402,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
         "rating": 1200,
-        "rd": 402,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
         "rating": 1200,
-        "rd": 402,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
         "rating": 1200,
-        "rd": 402,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
         "rating": 1200,
-        "rd": 402,
+        "rd": 404,
         "prog": 0,
         "prov": true
       }
@@ -50,9 +50,9 @@
     "profile": {
       "country": "_lichess",
       "location": "lichess BOT",
-      "bio": "Challenge Me!!\r\nhttps://i.imgur.com/2HhZd2d.jpg\r\nhttps://i.imgur.com/SJPezJq.jpg\r\nhttps://i.imgur.com/WEmiMK8.jpg"
+      "bio": "Challenge Me!!  I run on,Hyper Easy and Easy Chess.\r\nhttps://i.imgur.com/2HhZd2d.jpg\r\nhttps://i.imgur.com/SJPezJq.jpg\r\nhttps://i.imgur.com/WEmiMK8.jpg"
     },
-    "seenAt": 1614004958418,
+    "seenAt": 1617368770915,
     "playTime": {
       "total": 0,
       "tv": 0
@@ -63,14 +63,14 @@
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 12,
+      "all": 14,
       "rated": 0,
-      "ai": 7,
+      "ai": 9,
       "draw": 1,
       "drawH": 1,
       "loss": 3,
       "lossH": 2,
-      "win": 8,
+      "win": 10,
       "winH": 2,
       "bookmark": 0,
       "playing": 0,
