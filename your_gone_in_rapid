@@ -1,0 +1,126 @@
+{
+  "id": "your_gone_in_rapid",
+  "displayName": "Your_gone_in_rapid",
+  "username": "Your_gone_in_rapid",
+  "profileUrl": "https://lichess.org/@/Your_gone_in_rapid",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"your_gone_in_rapid\",\"username\":\"Your_gone_in_rapid\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1571,\"rd\":411,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":342,\"rating\":1931,\"rd\":203,\"prog\":-108,\"prov\":true},\"ultraBullet\":{\"games\":5,\"rating\":1026,\"rd\":192,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":39,\"rating\":1589,\"rd\":113,\"prog\":-16,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1384,\"rd\":371,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1708,\"rd\":304,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1180,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":45,\"rating\":1581,\"rd\":113,\"prog\":-44,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1216,\"rd\":274,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":1554,\"rd\":127,\"prog\":28,\"prov\":true},\"rapid\":{\"games\":51,\"rating\":1568,\"rd\":66,\"prog\":12}},\"createdAt\":1601548088586,\"profile\":{\"country\":\"_lichess\",\"bio\":\"A 39 year old who loves playing chess and  works as a logo maker.\\r\\nhttps://i.imgur.com/nqz0kjU.jpg\\r\\nhttps://i.imgur.com/BrcFgZh.jpg\\r\\nhttps://i.imgur.com/B1cpW8H.png\\r\\nhttps://lichess1.org/game/export/gif/OAyzmgPb.gif\\r\\nhttps://i.imgur.com/AwZSzdv.jpg\"},\"seenAt\":1617362036942,\"playTime\":{\"total\":62512,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Your_gone_in_rapid\",\"playing\":\"https://lichess.org/3fGhonmS/white\",\"nbFollowing\":8,\"nbFollowers\":6,\"count\":{\"all\":197,\"rated\":163,\"ai\":10,\"draw\":14,\"drawH\":14,\"loss\":95,\"lossH\":85,\"win\":88,\"winH\":88,\"bookmark\":4,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "your_gone_in_rapid",
+    "username": "Your_gone_in_rapid",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1571,
+        "rd": 411,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 342,
+        "rating": 1931,
+        "rd": 203,
+        "prog": -108,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 5,
+        "rating": 1026,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 39,
+        "rating": 1589,
+        "rd": 113,
+        "prog": -16,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1384,
+        "rd": 371,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1708,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1180,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 45,
+        "rating": 1581,
+        "rd": 113,
+        "prog": -44,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 4,
+        "rating": 1216,
+        "rd": 274,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 13,
+        "rating": 1554,
+        "rd": 127,
+        "prog": 28,
+        "prov": true
+      },
+      "rapid": {
+        "games": 51,
+        "rating": 1568,
+        "rd": 66,
+        "prog": 12
+      }
+    },
+    "createdAt": 1601548088586,
+    "profile": {
+      "country": "_lichess",
+      "bio": "A 39 year old who loves playing chess and  works as a logo maker.\r\nhttps://i.imgur.com/nqz0kjU.jpg\r\nhttps://i.imgur.com/BrcFgZh.jpg\r\nhttps://i.imgur.com/B1cpW8H.png\r\nhttps://lichess1.org/game/export/gif/OAyzmgPb.gif\r\nhttps://i.imgur.com/AwZSzdv.jpg"
+    },
+    "seenAt": 1617362036942,
+    "playTime": {
+      "total": 62512,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Your_gone_in_rapid",
+    "playing": "https://lichess.org/3fGhonmS/white",
+    "nbFollowing": 8,
+    "nbFollowers": 6,
+    "count": {
+      "all": 197,
+      "rated": 163,
+      "ai": 10,
+      "draw": 14,
+      "drawH": 14,
+      "loss": 95,
+      "lossH": 85,
+      "win": 88,
+      "winH": 88,
+      "bookmark": 4,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
