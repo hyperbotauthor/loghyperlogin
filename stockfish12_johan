@@ -4,25 +4,30 @@
   "username": "stockfish12_Johan",
   "profileUrl": "https://lichess.org/@/stockfish12_Johan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfish12_johan\",\"username\":\"stockfish12_Johan\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614144501572,\"seenAt\":1614144549276,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/stockfish12_Johan\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfish12_johan\",\"username\":\"stockfish12_Johan\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1620,\"rd\":345,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":27,\"rating\":2535,\"rd\":103,\"prog\":86},\"bullet\":{\"games\":258,\"rating\":2544,\"rd\":51,\"prog\":-33},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1904,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614144501572,\"profile\":{\"country\":\"_lichess\",\"location\":\"bot world\",\"bio\":\"Hey everyone! this is @Johan201023, The creator of this bot! \\r\\n\\r\\n  This bot is a most powerful than you think! this bot uses stockfish dev, and connected with python to Heroku!\\r\\n\\r\\nchallenge me if you dare to!\\r\\n\\r\\nand also join my team for bots and humans to play tournaments: https://lichess.org/team/lichessorg-bot-league\\r\\nand also please follow me!\\r\\n\\r\\n\\r\\nThank you,\\r\\n  Regards, Johan Joseph\",\"firstName\":\"Johan Joseph\",\"lastName\":\"lichessbot\",\"links\":\"https://lichess.org/@/Johan201023\\r\\nhttps://lichess.org/team/lichessorg-bot-league\\r\\nhttps://www.twitch.tv/johan201023\"},\"seenAt\":1617440622116,\"playTime\":{\"total\":57495,\"tv\":30585},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/stockfish12_Johan\",\"nbFollowing\":2,\"nbFollowers\":38,\"count\":{\"all\":661,\"rated\":323,\"ai\":5,\"draw\":296,\"drawH\":295,\"loss\":124,\"lossH\":120,\"win\":241,\"winH\":241,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfish12_johan",
     "username": "stockfish12_Johan",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+      "chess960": {
+        "games": 1,
+        "rating": 1620,
+        "rd": 345,
         "prog": 0,
         "prov": true
       },
+      "blitz": {
+        "games": 27,
+        "rating": 2535,
+        "rd": 103,
+        "prog": 86
+      },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 258,
+        "rating": 2544,
+        "rd": 51,
+        "prog": -33
       },
       "correspondence": {
         "games": 0,
@@ -32,9 +37,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1904,
+        "rd": 354,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +52,34 @@
       }
     },
     "createdAt": 1614144501572,
-    "seenAt": 1614144549276,
+    "profile": {
+      "country": "_lichess",
+      "location": "bot world",
+      "bio": "Hey everyone! this is @Johan201023, The creator of this bot! \r\n\r\n  This bot is a most powerful than you think! this bot uses stockfish dev, and connected with python to Heroku!\r\n\r\nchallenge me if you dare to!\r\n\r\nand also join my team for bots and humans to play tournaments: https://lichess.org/team/lichessorg-bot-league\r\nand also please follow me!\r\n\r\n\r\nThank you,\r\n  Regards, Johan Joseph",
+      "firstName": "Johan Joseph",
+      "lastName": "lichessbot",
+      "links": "https://lichess.org/@/Johan201023\r\nhttps://lichess.org/team/lichessorg-bot-league\r\nhttps://www.twitch.tv/johan201023"
+    },
+    "seenAt": 1617440622116,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 57495,
+      "tv": 30585
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/stockfish12_Johan",
     "nbFollowing": 2,
-    "nbFollowers": 0,
+    "nbFollowers": 38,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 661,
+      "rated": 323,
+      "ai": 5,
+      "draw": 296,
+      "drawH": 295,
+      "loss": 124,
+      "lossH": 120,
+      "win": 241,
+      "winH": 241,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
