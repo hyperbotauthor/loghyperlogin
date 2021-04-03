@@ -4,7 +4,7 @@
   "username": "The_Unbeatable-B0T12",
   "profileUrl": "https://lichess.org/@/The_Unbeatable-B0T12",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_unbeatable-b0t12\",\"username\":\"The_Unbeatable-B0T12\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1328,\"rd\":300,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1249,\"rd\":317,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1557,\"rd\":418,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1843,\"rd\":126,\"prog\":-68,\"prov\":true}},\"createdAt\":1613666838253,\"profile\":{\"bio\":\"I play standard only. Don't challenge me to  bullet. Offline?Challenge me to correspondence and when I'm online I'll accept it!  I am waiting or your challenge! Defeated         https://lichess.org/@/Boris-Trapsky in blitz! lichess.org/G7oB8lEb/white\\r\\nhttps://i.imgur.com/q2d0hN6.jpg \\r\\n\\r\\n https://i.imgur.com/nbpHpqW.jpg\\r\\nOKNyTI6.jpg\",\"firstName\":\"The Unbeatable\",\"lastName\":\"B0T12 (2200-2500)\",\"fideRating\":2500,\"links\":\"https://www.chess.com/home\\r\\nhypereasy.herokuapp.com/?lichessbotlogin=ok\\r\\ngithub.com/ShailChoksi/lichess-bot\\r\\nhttps://lichess.org/\\r\\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\\r\\nsparkchess.com\"},\"seenAt\":1616646037738,\"playTime\":{\"total\":11460,\"tv\":334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/The_Unbeatable-B0T12\",\"playing\":\"https://lichess.org/SC3sUz6x/black\",\"nbFollowing\":37,\"nbFollowers\":26,\"count\":{\"all\":23,\"rated\":17,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":11,\"lossH\":11,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_unbeatable-b0t12\",\"username\":\"The_Unbeatable-B0T12\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1468,\"rd\":205,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1298,\"rd\":183,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1557,\"rd\":419,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":1844,\"rd\":127,\"prog\":-67,\"prov\":true}},\"createdAt\":1613666838253,\"profile\":{\"bio\":\"I play standard only. Don't challenge me to  bullet. Offline?Challenge me to correspondence and when I'm online I'll accept it!  I am waiting or your challenge! Defeated         https://lichess.org/@/Boris-Trapsky in blitz! lichess.org/G7oB8lEb/white\\r\\nhttps://i.imgur.com/q2d0hN6.jpg \\r\\n\\r\\n https://i.imgur.com/nbpHpqW.jpg\\r\\nOKNyTI6.jpg\",\"firstName\":\"The Unbeatable\",\"lastName\":\"B0T12 (2200-2500)\",\"fideRating\":2500,\"links\":\"https://www.chess.com/home\\r\\nhypereasy.herokuapp.com/?lichessbotlogin=ok\\r\\ngithub.com/ShailChoksi/lichess-bot\\r\\nhttps://lichess.org/\\r\\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\\r\\nsparkchess.com\"},\"seenAt\":1617424172418,\"playTime\":{\"total\":12640,\"tv\":334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/The_Unbeatable-B0T12\",\"playing\":\"https://lichess.org/2UlxNy5F/white\",\"nbFollowing\":39,\"nbFollowers\":29,\"count\":{\"all\":32,\"rated\":26,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":12,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_unbeatable-b0t12",
     "username": "The_Unbeatable-B0T12",
@@ -18,31 +18,31 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1328,
-        "rd": 300,
+        "games": 5,
+        "rating": 1468,
+        "rd": 205,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 1,
-        "rating": 1249,
-        "rd": 317,
+        "games": 4,
+        "rating": 1298,
+        "rd": 183,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 1,
         "rating": 1557,
-        "rd": 418,
+        "rd": 419,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 14,
-        "rating": 1843,
-        "rd": 126,
-        "prog": -68,
+        "games": 16,
+        "rating": 1844,
+        "rd": 127,
+        "prog": -67,
         "prov": true
       }
     },
@@ -54,29 +54,29 @@
       "fideRating": 2500,
       "links": "https://www.chess.com/home\r\nhypereasy.herokuapp.com/?lichessbotlogin=ok\r\ngithub.com/ShailChoksi/lichess-bot\r\nhttps://lichess.org/\r\nchess24.com/en/game/wIZUFfP8TwSw6Ubeuk48hg#\r\nsparkchess.com"
     },
-    "seenAt": 1616646037738,
+    "seenAt": 1617424172418,
     "playTime": {
-      "total": 11460,
+      "total": 12640,
       "tv": 334
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/The_Unbeatable-B0T12",
-    "playing": "https://lichess.org/SC3sUz6x/black",
-    "nbFollowing": 37,
-    "nbFollowers": 26,
+    "playing": "https://lichess.org/2UlxNy5F/white",
+    "nbFollowing": 39,
+    "nbFollowers": 29,
     "count": {
-      "all": 23,
-      "rated": 17,
+      "all": 32,
+      "rated": 26,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 11,
-      "lossH": 11,
-      "win": 12,
-      "winH": 12,
+      "loss": 12,
+      "lossH": 12,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 3,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
