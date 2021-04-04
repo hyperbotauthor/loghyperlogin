@@ -1,0 +1,85 @@
+{
+  "id": "bigboss3214",
+  "displayName": "bigboss3214",
+  "username": "bigboss3214",
+  "profileUrl": "https://lichess.org/@/bigboss3214",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bigboss3214\",\"username\":\"bigboss3214\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1782,\"rd\":145,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":97,\"rating\":1580,\"rd\":91,\"prog\":27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2067,\"rd\":121,\"prog\":-161,\"prov\":true}},\"createdAt\":1604591053267,\"booster\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000},\"seenAt\":1617546601759,\"playTime\":{\"total\":23506,\"tv\":9541},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bigboss3214\",\"nbFollowing\":13,\"nbFollowers\":11,\"count\":{\"all\":205,\"rated\":156,\"ai\":18,\"draw\":12,\"drawH\":12,\"loss\":114,\"lossH\":98,\"win\":79,\"winH\":77,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bigboss3214",
+    "username": "bigboss3214",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 1782,
+        "rd": 145,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 97,
+        "rating": 1580,
+        "rd": 91,
+        "prog": 27
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 23,
+        "rating": 2067,
+        "rd": 121,
+        "prog": -161,
+        "prov": true
+      }
+    },
+    "createdAt": 1604591053267,
+    "booster": true,
+    "profile": {
+      "country": "_lichess",
+      "fideRating": 3000
+    },
+    "seenAt": 1617546601759,
+    "playTime": {
+      "total": 23506,
+      "tv": 9541
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/bigboss3214",
+    "nbFollowing": 13,
+    "nbFollowers": 11,
+    "count": {
+      "all": 205,
+      "rated": 156,
+      "ai": 18,
+      "draw": 12,
+      "drawH": 12,
+      "loss": 114,
+      "lossH": 98,
+      "win": 79,
+      "winH": 77,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
