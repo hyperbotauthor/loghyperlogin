@@ -4,7 +4,7 @@
   "username": "AI-ChessUniverse",
   "profileUrl": "https://lichess.org/@/AI-ChessUniverse",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ai-chessuniverse\",\"username\":\"AI-ChessUniverse\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1822,\"rd\":298,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1285,\"rd\":263,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":253,\"rating\":1845,\"rd\":93,\"prog\":0},\"ultraBullet\":{\"games\":3,\"rating\":1296,\"rd\":269,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":22,\"rating\":1598,\"rd\":97,\"prog\":-84},\"kingOfTheHill\":{\"games\":2,\"rating\":1665,\"rd\":288,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1311,\"rd\":294,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":952,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":60,\"rating\":1379,\"rd\":60,\"prog\":-2},\"correspondence\":{\"games\":2,\"rating\":1675,\"rd\":367,\"prog\":0,\"prov\":true},\"classical\":{\"games\":39,\"rating\":1835,\"rd\":78,\"prog\":-63},\"rapid\":{\"games\":14,\"rating\":1650,\"rd\":122,\"prog\":10,\"prov\":true},\"storm\":{\"runs\":1,\"score\":21}},\"createdAt\":1608740837116,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad, India\",\"bio\":\"My name is KS-Srikar, I am studying 6 class. I like chess, coding and physics My team is -https://lichess.org/team/indian-army-warriors\\r\\nPlease join this team. My favourite openings as white are London system and Kinsgambit and favourite opening as black is Charlick gambit-https://gjchess.com/video/attacking-chess-gambit-against-d4-charlick-gambit/\\r\\nand Sicillian dragon opening. My favourite chess players are; Mikhail tal, Bobby Fischer, Garry Kasparov, Magnus Carlsen, Vishy Anand\\r\\nThank you\\r\\nAI-ChessUniverse\",\"firstName\":\"Kommaraju-\",\"lastName\":\"Saiesas, Srikar\"},\"seenAt\":1614233301841,\"playTime\":{\"total\":105895,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/AI-ChessUniverse\",\"playing\":\"https://lichess.org/ZaEpsgDd/white\",\"nbFollowing\":24,\"nbFollowers\":22,\"completionRate\":90,\"count\":{\"all\":187,\"rated\":155,\"ai\":0,\"draw\":12,\"drawH\":12,\"loss\":95,\"lossH\":95,\"win\":80,\"winH\":80,\"bookmark\":9,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ai-chessuniverse\",\"username\":\"AI-ChessUniverse\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1822,\"rd\":301,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1285,\"rd\":267,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":294,\"rating\":1952,\"rd\":90,\"prog\":0},\"ultraBullet\":{\"games\":3,\"rating\":1296,\"rd\":273,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":24,\"rating\":1602,\"rd\":104,\"prog\":-76},\"kingOfTheHill\":{\"games\":2,\"rating\":1665,\"rd\":292,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1311,\"rd\":298,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":952,\"rd\":208,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":96,\"rating\":1325,\"rd\":66,\"prog\":-18},\"correspondence\":{\"games\":4,\"rating\":1617,\"rd\":271,\"prog\":0,\"prov\":true},\"classical\":{\"games\":42,\"rating\":1794,\"rd\":85,\"prog\":-79},\"rapid\":{\"games\":14,\"rating\":1650,\"rd\":130,\"prog\":10,\"prov\":true},\"storm\":{\"runs\":1,\"score\":21}},\"createdAt\":1608740837116,\"profile\":{\"country\":\"IN\",\"location\":\"Hyderabad, India\",\"bio\":\"My name is KS-Srikar, I am studying 6 class. I like chess, coding and physics My team is -https://lichess.org/team/indian-army-warriors\\r\\nPlease join this team. My favourite openings as white are London system and Kinsgambit and favourite opening as black is Charlick gambit-https://gjchess.com/video/attacking-chess-gambit-against-d4-charlick-gambit/\\r\\nand Sicillian dragon opening. My favourite chess players are; Mikhail tal, Bobby Fischer, Garry Kasparov, Magnus Carlsen, Vishy Anand\\r\\nThank you\\r\\nAI-ChessUniverse\",\"firstName\":\"Saiesa Srikar\",\"lastName\":\"Kommaraju\"},\"seenAt\":1617600220899,\"playTime\":{\"total\":116732,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/AI-ChessUniverse\",\"playing\":\"https://lichess.org/ZaEpsgDd/white\",\"nbFollowing\":26,\"nbFollowers\":23,\"completionRate\":93,\"count\":{\"all\":237,\"rated\":198,\"ai\":0,\"draw\":14,\"drawH\":14,\"loss\":133,\"lossH\":133,\"win\":90,\"winH\":90,\"bookmark\":9,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ai-chessuniverse",
     "username": "AI-ChessUniverse",
@@ -13,80 +13,80 @@
       "chess960": {
         "games": 1,
         "rating": 1822,
-        "rd": 298,
+        "rd": 301,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 2,
         "rating": 1285,
-        "rd": 263,
+        "rd": 267,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 253,
-        "rating": 1845,
-        "rd": 93,
+        "games": 294,
+        "rating": 1952,
+        "rd": 90,
         "prog": 0
       },
       "ultraBullet": {
         "games": 3,
         "rating": 1296,
-        "rd": 269,
+        "rd": 273,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 22,
-        "rating": 1598,
-        "rd": 97,
-        "prog": -84
+        "games": 24,
+        "rating": 1602,
+        "rd": 104,
+        "prog": -76
       },
       "kingOfTheHill": {
         "games": 2,
         "rating": 1665,
-        "rd": 288,
+        "rd": 292,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 1311,
-        "rd": 294,
+        "rd": 298,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 6,
         "rating": 952,
-        "rd": 203,
+        "rd": 208,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 60,
-        "rating": 1379,
-        "rd": 60,
-        "prog": -2
+        "games": 96,
+        "rating": 1325,
+        "rd": 66,
+        "prog": -18
       },
       "correspondence": {
-        "games": 2,
-        "rating": 1675,
-        "rd": 367,
+        "games": 4,
+        "rating": 1617,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 39,
-        "rating": 1835,
-        "rd": 78,
-        "prog": -63
+        "games": 42,
+        "rating": 1794,
+        "rd": 85,
+        "prog": -79
       },
       "rapid": {
         "games": 14,
         "rating": 1650,
-        "rd": 122,
+        "rd": 130,
         "prog": 10,
         "prov": true
       },
@@ -100,32 +100,32 @@
       "country": "IN",
       "location": "Hyderabad, India",
       "bio": "My name is KS-Srikar, I am studying 6 class. I like chess, coding and physics My team is -https://lichess.org/team/indian-army-warriors\r\nPlease join this team. My favourite openings as white are London system and Kinsgambit and favourite opening as black is Charlick gambit-https://gjchess.com/video/attacking-chess-gambit-against-d4-charlick-gambit/\r\nand Sicillian dragon opening. My favourite chess players are; Mikhail tal, Bobby Fischer, Garry Kasparov, Magnus Carlsen, Vishy Anand\r\nThank you\r\nAI-ChessUniverse",
-      "firstName": "Kommaraju-",
-      "lastName": "Saiesas, Srikar"
+      "firstName": "Saiesa Srikar",
+      "lastName": "Kommaraju"
     },
-    "seenAt": 1614233301841,
+    "seenAt": 1617600220899,
     "playTime": {
-      "total": 105895,
+      "total": 116732,
       "tv": 0
     },
     "language": "en-GB",
     "url": "https://lichess.org/@/AI-ChessUniverse",
     "playing": "https://lichess.org/ZaEpsgDd/white",
-    "nbFollowing": 24,
-    "nbFollowers": 22,
-    "completionRate": 90,
+    "nbFollowing": 26,
+    "nbFollowers": 23,
+    "completionRate": 93,
     "count": {
-      "all": 187,
-      "rated": 155,
+      "all": 237,
+      "rated": 198,
       "ai": 0,
-      "draw": 12,
-      "drawH": 12,
-      "loss": 95,
-      "lossH": 95,
-      "win": 80,
-      "winH": 80,
+      "draw": 14,
+      "drawH": 14,
+      "loss": 133,
+      "lossH": 133,
+      "win": 90,
+      "winH": 90,
       "bookmark": 9,
-      "playing": 3,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
