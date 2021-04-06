@@ -4,17 +4,17 @@
   "username": "APl-chess",
   "profileUrl": "https://lichess.org/@/APl-chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":55,\"rating\":2021,\"rd\":95,\"prog\":58},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":165,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":252,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2019,\"rd\":57,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":12,\"rating\":2005,\"rd\":148,\"prog\":7,\"prov\":true},\"rapid\":{\"games\":45,\"rating\":2501,\"rd\":76,\"prog\":171}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/apl-chess--friends pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\\r\\nFollow 4 follow? Sure!\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\",\"links\":\"lichess.org\\r\\nhttps://lichess.org/@/Fmuror02_is_back\"},\"seenAt\":1617699022712,\"playTime\":{\"total\":46117,\"tv\":5077},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/Hq8EriVa/white\",\"nbFollowing\":76,\"nbFollowers\":54,\"count\":{\"all\":276,\"rated\":229,\"ai\":4,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":14,\"win\":258,\"winH\":254,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":57,\"rating\":2051,\"rd\":90,\"prog\":82},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":165,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":253,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2019,\"rd\":57,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":12,\"rating\":2005,\"rd\":148,\"prog\":7,\"prov\":true},\"rapid\":{\"games\":45,\"rating\":2501,\"rd\":76,\"prog\":171}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/apl-chess--friends pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @AbJayAN\\r\\nFollow 4 follow? Sure!\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\",\"links\":\"lichess.org\\r\\nhttps://lichess.org/@/Fmuror02_is_back\"},\"seenAt\":1617709918617,\"playTime\":{\"total\":47014,\"tv\":5974},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"nbFollowing\":76,\"nbFollowers\":54,\"count\":{\"all\":278,\"rated\":231,\"ai\":4,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":14,\"win\":260,\"winH\":256,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl-chess",
     "username": "APl-chess",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 55,
-        "rating": 2021,
-        "rd": 95,
-        "prog": 58
+        "games": 57,
+        "rating": 2051,
+        "rd": 90,
+        "prog": 82
       },
       "antichess": {
         "games": 6,
@@ -26,7 +26,7 @@
       "atomic": {
         "games": 2,
         "rating": 1735,
-        "rd": 252,
+        "rd": 253,
         "prog": 0,
         "prov": true
       },
@@ -65,29 +65,28 @@
       "lastName": "BOT",
       "links": "lichess.org\r\nhttps://lichess.org/@/Fmuror02_is_back"
     },
-    "seenAt": 1617699022712,
+    "seenAt": 1617709918617,
     "playTime": {
-      "total": 46117,
-      "tv": 5077
+      "total": 47014,
+      "tv": 5974
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/APl-chess",
-    "playing": "https://lichess.org/Hq8EriVa/white",
     "nbFollowing": 76,
     "nbFollowers": 54,
     "count": {
-      "all": 276,
-      "rated": 229,
+      "all": 278,
+      "rated": 231,
       "ai": 4,
       "draw": 4,
       "drawH": 4,
       "loss": 14,
       "lossH": 14,
-      "win": 258,
-      "winH": 254,
+      "win": 260,
+      "winH": 256,
       "bookmark": 3,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
