@@ -4,11 +4,11 @@
   "username": "Bobby_Fischer_BOT",
   "profileUrl": "https://lichess.org/@/Bobby_Fischer_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":426,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1324,\"rd\":272,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1325,\"rd\":202,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1710,\"rd\":334,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1582,\"rd\":210,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1373,\"rd\":334,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1723,\"rd\":145,\"prog\":-27,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1617864431135,\"playTime\":{\"total\":32830,\"tv\":142},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/LdNsmyMc/white\",\"nbFollowing\":113,\"nbFollowers\":103,\"count\":{\"all\":96,\"rated\":35,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":48,\"lossH\":47,\"win\":47,\"winH\":47,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobby_fischer_bot\",\"username\":\"Bobby_Fischer_BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1443,\"rd\":426,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1324,\"rd\":272,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1325,\"rd\":202,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1710,\"rd\":334,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1582,\"rd\":210,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1373,\"rd\":334,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1723,\"rd\":145,\"prog\":-27,\"prov\":true}},\"createdAt\":1610643010325,\"profile\":{\"bio\":\"I accept challenges from everyone, standards and variants, when I am online.\\r\\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\"},\"seenAt\":1617877156181,\"playTime\":{\"total\":32830,\"tv\":142},\"language\":\"it-IT\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fischer_BOT\",\"playing\":\"https://lichess.org/v0vgvvE0/black\",\"nbFollowing\":113,\"nbFollowers\":104,\"count\":{\"all\":96,\"rated\":35,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":48,\"lossH\":47,\"win\":47,\"winH\":47,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobby_fischer_bot",
     "username": "Bobby_Fischer_BOT",
-    "online": false,
+    "online": true,
     "perfs": {
       "antichess": {
         "games": 2,
@@ -71,7 +71,7 @@
     "profile": {
       "bio": "I accept challenges from everyone, standards and variants, when I am online.\r\nAnd please join my team:  https://lichess.org/team/bobby-fischer-\r\nhttps://i.imgur.com/mwo9eTL.jpg"
     },
-    "seenAt": 1617864431135,
+    "seenAt": 1617877156181,
     "playTime": {
       "total": 32830,
       "tv": 142
@@ -79,9 +79,9 @@
     "language": "it-IT",
     "title": "BOT",
     "url": "https://lichess.org/@/Bobby_Fischer_BOT",
-    "playing": "https://lichess.org/LdNsmyMc/white",
+    "playing": "https://lichess.org/v0vgvvE0/black",
     "nbFollowing": 113,
-    "nbFollowers": 103,
+    "nbFollowers": 104,
     "count": {
       "all": 96,
       "rated": 35,
@@ -93,7 +93,7 @@
       "win": 47,
       "winH": 47,
       "bookmark": 0,
-      "playing": 3,
+      "playing": 4,
       "import": 0,
       "me": 0
     },
