@@ -4,23 +4,30 @@
   "username": "ItsHyperBot",
   "profileUrl": "https://lichess.org/@/ItsHyperBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itshyperbot\",\"username\":\"ItsHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1821,\"rd\":292,\"prog\":0,\"prov\":true}},\"createdAt\":1617987644262,\"seenAt\":1617994227997,\"playTime\":{\"total\":488,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ItsHyperBot\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":3,\"rated\":1,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itshyperbot\",\"username\":\"ItsHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2410,\"rd\":277,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1855,\"rd\":239,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1883,\"rd\":158,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2025,\"rd\":159,\"prog\":0,\"prov\":true}},\"createdAt\":1617987644262,\"profile\":{\"country\":\"GB\",\"location\":\"South-West\",\"bio\":\"@ItsHypers\\r\\n\\r\\nMade with HyperBot:\\r\\nhttps://github.com/hyperchessbot/hyperbot\\r\\n\\r\\nIf you get annoyed, set up a custom position and destroy the bot that way :)\",\"links\":\"https://lichess.org/@/ItsHypers\"},\"seenAt\":1618008086206,\"playTime\":{\"total\":13289,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ItsHyperBot\",\"playing\":\"https://lichess.org/Mgdq2VQW/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":59,\"rated\":22,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":14,\"win\":43,\"winH\":43,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itshyperbot",
     "username": "ItsHyperBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2410,
+        "rd": 277,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1855,
+        "rd": 239,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 1883,
+        "rd": 158,
         "prog": 0,
         "prov": true
       },
@@ -39,36 +46,43 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1821,
-        "rd": 292,
+        "games": 10,
+        "rating": 2025,
+        "rd": 159,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1617987644262,
-    "seenAt": 1617994227997,
+    "profile": {
+      "country": "GB",
+      "location": "South-West",
+      "bio": "@ItsHypers\r\n\r\nMade with HyperBot:\r\nhttps://github.com/hyperchessbot/hyperbot\r\n\r\nIf you get annoyed, set up a custom position and destroy the bot that way :)",
+      "links": "https://lichess.org/@/ItsHypers"
+    },
+    "seenAt": 1618008086206,
     "playTime": {
-      "total": 488,
+      "total": 13289,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/ItsHyperBot",
+    "playing": "https://lichess.org/Mgdq2VQW/black",
     "nbFollowing": 0,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 3,
-      "rated": 1,
+      "all": 59,
+      "rated": 22,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 0,
-      "win": 1,
-      "winH": 1,
+      "loss": 16,
+      "lossH": 14,
+      "win": 43,
+      "winH": 43,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
