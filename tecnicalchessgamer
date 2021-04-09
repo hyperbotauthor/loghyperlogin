@@ -4,11 +4,11 @@
   "username": "TEcniCaLCheSSGAMER",
   "profileUrl": "https://lichess.org/@/TEcniCaLCheSSGAMER",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tecnicalchessgamer\",\"username\":\"TEcniCaLCheSSGAMER\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":170,\"rating\":2053,\"rd\":75,\"prog\":0},\"atomic\":{\"games\":8,\"rating\":1307,\"rd\":154,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1320,\"rd\":237,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":183,\"rating\":1377,\"rd\":56,\"prog\":55},\"blitz\":{\"games\":100,\"rating\":1793,\"rd\":74,\"prog\":45},\"crazyhouse\":{\"games\":1,\"rating\":1305,\"rd\":313,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":7,\"rating\":1414,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":1599,\"rd\":78,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":1723,\"rd\":113,\"prog\":-123,\"prov\":true},\"storm\":{\"runs\":116,\"score\":43}},\"createdAt\":1598865421360,\"profile\":{\"bio\":\"https://i.imgur.com/Xi1ynL6.jpg\\r\\nhttps://i.imgur.com/eBERV7r.jpg\"},\"seenAt\":1617898621407,\"playTime\":{\"total\":180941,\"tv\":193},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/TEcniCaLCheSSGAMER\",\"nbFollowing\":35,\"nbFollowers\":14,\"completionRate\":90,\"count\":{\"all\":1106,\"rated\":451,\"ai\":68,\"draw\":36,\"drawH\":30,\"loss\":434,\"lossH\":377,\"win\":636,\"winH\":631,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tecnicalchessgamer\",\"username\":\"TEcniCaLCheSSGAMER\",\"online\":false,\"perfs\":{\"puzzle\":{\"games\":170,\"rating\":2053,\"rd\":75,\"prog\":0},\"atomic\":{\"games\":8,\"rating\":1307,\"rd\":154,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1320,\"rd\":237,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":185,\"rating\":1370,\"rd\":56,\"prog\":19},\"blitz\":{\"games\":100,\"rating\":1793,\"rd\":74,\"prog\":45},\"crazyhouse\":{\"games\":1,\"rating\":1305,\"rd\":313,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":7,\"rating\":1414,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":1599,\"rd\":79,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":1723,\"rd\":114,\"prog\":-123,\"prov\":true},\"storm\":{\"runs\":116,\"score\":43}},\"createdAt\":1598865421360,\"profile\":{\"bio\":\"https://i.imgur.com/Xi1ynL6.jpg\\r\\nhttps://i.imgur.com/eBERV7r.jpg\"},\"seenAt\":1617983186041,\"playTime\":{\"total\":181016,\"tv\":193},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/TEcniCaLCheSSGAMER\",\"nbFollowing\":35,\"nbFollowers\":14,\"completionRate\":90,\"count\":{\"all\":1108,\"rated\":453,\"ai\":68,\"draw\":36,\"drawH\":30,\"loss\":435,\"lossH\":378,\"win\":637,\"winH\":632,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tecnicalchessgamer",
     "username": "TEcniCaLCheSSGAMER",
-    "online": true,
+    "online": false,
     "perfs": {
       "puzzle": {
         "games": 170,
@@ -31,10 +31,10 @@
         "prov": true
       },
       "ultraBullet": {
-        "games": 183,
-        "rating": 1377,
+        "games": 185,
+        "rating": 1370,
         "rd": 56,
-        "prog": 55
+        "prog": 19
       },
       "blitz": {
         "games": 100,
@@ -59,7 +59,7 @@
       "bullet": {
         "games": 121,
         "rating": 1599,
-        "rd": 78,
+        "rd": 79,
         "prog": -2
       },
       "correspondence": {
@@ -79,7 +79,7 @@
       "rapid": {
         "games": 27,
         "rating": 1723,
-        "rd": 113,
+        "rd": 114,
         "prog": -123,
         "prov": true
       },
@@ -92,9 +92,9 @@
     "profile": {
       "bio": "https://i.imgur.com/Xi1ynL6.jpg\r\nhttps://i.imgur.com/eBERV7r.jpg"
     },
-    "seenAt": 1617898621407,
+    "seenAt": 1617983186041,
     "playTime": {
-      "total": 180941,
+      "total": 181016,
       "tv": 193
     },
     "language": "en-GB",
@@ -103,15 +103,15 @@
     "nbFollowers": 14,
     "completionRate": 90,
     "count": {
-      "all": 1106,
-      "rated": 451,
+      "all": 1108,
+      "rated": 453,
       "ai": 68,
       "draw": 36,
       "drawH": 30,
-      "loss": 434,
-      "lossH": 377,
-      "win": 636,
-      "winH": 631,
+      "loss": 435,
+      "lossH": 378,
+      "win": 637,
+      "winH": 632,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
