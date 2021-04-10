@@ -4,7 +4,7 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":286,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":316,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":174,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":27,\"rating\":1706,\"rd\":88,\"prog\":97},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1829,\"rd\":131,\"prog\":-44,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1600,\"rd\":243,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":287,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1298,\"rd\":136,\"prog\":-69,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1617564275955,\"playTime\":{\"total\":40354,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":88,\"rated\":85,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":37,\"lossH\":37,\"win\":47,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":286,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":317,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":174,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":27,\"rating\":1706,\"rd\":90,\"prog\":97},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1829,\"rd\":132,\"prog\":-44,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1600,\"rd\":243,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":288,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1298,\"rd\":137,\"prog\":-69,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1618072262396,\"playTime\":{\"total\":40354,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/SkhE50EH/black\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":88,\"rated\":85,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":37,\"lossH\":37,\"win\":47,\"winH\":47,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
@@ -20,7 +20,7 @@
       "atomic": {
         "games": 1,
         "rating": 1359,
-        "rd": 316,
+        "rd": 317,
         "prog": 0,
         "prov": true
       },
@@ -34,7 +34,7 @@
       "blitz": {
         "games": 27,
         "rating": 1706,
-        "rd": 88,
+        "rd": 90,
         "prog": 97
       },
       "threeCheck": {
@@ -47,7 +47,7 @@
       "bullet": {
         "games": 16,
         "rating": 1829,
-        "rd": 131,
+        "rd": 132,
         "prog": -44,
         "prov": true
       },
@@ -61,20 +61,20 @@
       "classical": {
         "games": 7,
         "rating": 1527,
-        "rd": 287,
+        "rd": 288,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 13,
         "rating": 1298,
-        "rd": 136,
+        "rd": 137,
         "prog": -69,
         "prov": true
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1617564275955,
+    "seenAt": 1618072262396,
     "playTime": {
       "total": 40354,
       "tv": 428
@@ -82,8 +82,9 @@
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/SLvov-bot",
+    "playing": "https://lichess.org/SkhE50EH/black",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 5,
     "count": {
       "all": 88,
       "rated": 85,
@@ -95,7 +96,7 @@
       "win": 47,
       "winH": 47,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
