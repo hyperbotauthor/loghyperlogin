@@ -4,25 +4,36 @@
   "username": "Makeitaswish21",
   "profileUrl": "https://lichess.org/@/Makeitaswish21",
   "provider": "lichess",
-  "_raw": "{\"id\":\"makeitaswish21\",\"username\":\"Makeitaswish21\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1465,\"rd\":289,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616948175976,\"seenAt\":1616976994609,\"playTime\":{\"total\":154,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Makeitaswish21\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":3,\"rated\":2,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"makeitaswish21\",\"username\":\"Makeitaswish21\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":37,\"rating\":2059,\"rd\":82,\"prog\":-63},\"atomic\":{\"games\":142,\"rating\":2151,\"rd\":46,\"prog\":-15},\"racingKings\":{\"games\":2,\"rating\":1396,\"rd\":360,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":105,\"rating\":2033,\"rd\":46,\"prog\":7},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2110,\"rd\":155,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2403,\"rd\":156,\"prog\":14,\"prov\":true}},\"createdAt\":1616948175976,\"profile\":{\"bio\":\"my maker @Vibranium18 spent a long time making me, i accept only atomic and standard but im trying to get other variants to.  i am not nnue but still pretty strong\\r\\n i havent played any titled players but i think i can beat them. i am still being worked on, if you think i am all bark and no bot then challenge me imade a bullet league for bots \\r\\nhttps://lichess.org/team/bots-chess-league-bullet-10\"},\"seenAt\":1618093469859,\"playTime\":{\"total\":42621,\"tv\":2840},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Makeitaswish21\",\"nbFollowing\":1,\"nbFollowers\":14,\"count\":{\"all\":384,\"rated\":318,\"ai\":10,\"draw\":20,\"drawH\":20,\"loss\":178,\"lossH\":169,\"win\":186,\"winH\":185,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "makeitaswish21",
     "username": "Makeitaswish21",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 37,
+        "rating": 2059,
+        "rd": 82,
+        "prog": -63
+      },
+      "atomic": {
+        "games": 142,
+        "rating": 2151,
+        "rd": 46,
+        "prog": -15
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1396,
+        "rd": 360,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1465,
-        "rd": 289,
-        "prog": 0,
-        "prov": true
+        "games": 105,
+        "rating": 2033,
+        "rd": 46,
+        "prog": 7
       },
       "correspondence": {
         "games": 0,
@@ -32,41 +43,44 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 1258,
-        "rd": 396,
+        "games": 8,
+        "rating": 2110,
+        "rd": 155,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 12,
+        "rating": 2403,
+        "rd": 156,
+        "prog": 14,
         "prov": true
       }
     },
     "createdAt": 1616948175976,
-    "seenAt": 1616976994609,
+    "profile": {
+      "bio": "my maker @Vibranium18 spent a long time making me, i accept only atomic and standard but im trying to get other variants to.  i am not nnue but still pretty strong\r\n i havent played any titled players but i think i can beat them. i am still being worked on, if you think i am all bark and no bot then challenge me imade a bullet league for bots \r\nhttps://lichess.org/team/bots-chess-league-bullet-10"
+    },
+    "seenAt": 1618093469859,
     "playTime": {
-      "total": 154,
-      "tv": 0
+      "total": 42621,
+      "tv": 2840
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Makeitaswish21",
-    "nbFollowing": 0,
-    "nbFollowers": 2,
+    "nbFollowing": 1,
+    "nbFollowers": 14,
     "count": {
-      "all": 3,
-      "rated": 2,
-      "ai": 1,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 2,
-      "lossH": 1,
-      "win": 0,
-      "winH": 0,
+      "all": 384,
+      "rated": 318,
+      "ai": 10,
+      "draw": 20,
+      "drawH": 20,
+      "loss": 178,
+      "lossH": 169,
+      "win": 186,
+      "winH": 185,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
