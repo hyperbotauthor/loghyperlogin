@@ -1,0 +1,160 @@
+{
+  "id": "itshypers",
+  "displayName": "ItsHypers",
+  "username": "ItsHypers",
+  "profileUrl": "https://lichess.org/@/ItsHypers",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"itshypers\",\"username\":\"ItsHypers\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":7,\"rating\":1243,\"rd\":191,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1227,\"rd\":196,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1234,\"rd\":146,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1376,\"rd\":267,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":35,\"rating\":1237,\"rd\":103,\"prog\":8},\"blitz\":{\"games\":372,\"rating\":1430,\"rd\":45,\"prog\":5},\"kingOfTheHill\":{\"games\":9,\"rating\":1700,\"rd\":162,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1151,\"rd\":146,\"prog\":-53,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1321,\"rd\":205,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":355,\"rating\":1324,\"rd\":50,\"prog\":7},\"correspondence\":{\"games\":1,\"rating\":1748,\"rd\":381,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1741,\"rd\":405,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":875,\"rating\":1838,\"rd\":112,\"prog\":0,\"prov\":true},\"classical\":{\"games\":11,\"rating\":1484,\"rd\":124,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":150,\"rating\":1672,\"rd\":45,\"prog\":58},\"storm\":{\"runs\":87,\"score\":32}},\"createdAt\":1553377380998,\"profile\":{\"country\":\"GB\",\"location\":\"Devon\",\"bio\":\"Been playing chess for not too long; Want to learn and increase my awareness / thinking skills!\",\"firstName\":\"Ryan\",\"lastName\":\"Thomas\",\"links\":\"https://www.chess.com/member/itshypers\"},\"seenAt\":1618088286138,\"patron\":true,\"playTime\":{\"total\":377292,\"tv\":822},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/ItsHypers\",\"nbFollowing\":20,\"nbFollowers\":9,\"completionRate\":100,\"count\":{\"all\":1858,\"rated\":979,\"ai\":104,\"draw\":81,\"drawH\":78,\"loss\":908,\"lossH\":826,\"win\":869,\"winH\":850,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "itshypers",
+    "username": "ItsHypers",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 7,
+        "rating": 1243,
+        "rd": 191,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 7,
+        "rating": 1227,
+        "rd": 196,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 8,
+        "rating": 1234,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1376,
+        "rd": 267,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 35,
+        "rating": 1237,
+        "rd": 103,
+        "prog": 8
+      },
+      "blitz": {
+        "games": 372,
+        "rating": 1430,
+        "rd": 45,
+        "prog": 5
+      },
+      "kingOfTheHill": {
+        "games": 9,
+        "rating": 1700,
+        "rd": 162,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 15,
+        "rating": 1151,
+        "rd": 146,
+        "prog": -53,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1321,
+        "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 355,
+        "rating": 1324,
+        "rd": 50,
+        "prog": 7
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1748,
+        "rd": 381,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 405,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 875,
+        "rating": 1838,
+        "rd": 112,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 11,
+        "rating": 1484,
+        "rd": 124,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 150,
+        "rating": 1672,
+        "rd": 45,
+        "prog": 58
+      },
+      "storm": {
+        "runs": 87,
+        "score": 32
+      }
+    },
+    "createdAt": 1553377380998,
+    "profile": {
+      "country": "GB",
+      "location": "Devon",
+      "bio": "Been playing chess for not too long; Want to learn and increase my awareness / thinking skills!",
+      "firstName": "Ryan",
+      "lastName": "Thomas",
+      "links": "https://www.chess.com/member/itshypers"
+    },
+    "seenAt": 1618088286138,
+    "patron": true,
+    "playTime": {
+      "total": 377292,
+      "tv": 822
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/ItsHypers",
+    "nbFollowing": 20,
+    "nbFollowers": 9,
+    "completionRate": 100,
+    "count": {
+      "all": 1858,
+      "rated": 979,
+      "ai": 104,
+      "draw": 81,
+      "drawH": 78,
+      "loss": 908,
+      "lossH": 826,
+      "win": 869,
+      "winH": 850,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
