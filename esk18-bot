@@ -4,16 +4,16 @@
   "username": "ESK18-bot",
   "profileUrl": "https://lichess.org/@/ESK18-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"esk18-bot\",\"username\":\"ESK18-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1967,\"rd\":261,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":1934,\"rd\":102,\"prog\":18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618054837619,\"profile\":{\"country\":\"_lichess\",\"location\":\"Russia\",\"bio\":\"Моя основа @EnergyStarKos18\",\"firstName\":\"Константин\",\"lastName\":\"Курышин\"},\"seenAt\":1618116141368,\"playTime\":{\"total\":4618,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ESK18-bot\",\"playing\":\"https://lichess.org/hFKcYyel/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":28,\"rated\":20,\"ai\":7,\"draw\":3,\"drawH\":2,\"loss\":6,\"lossH\":5,\"win\":19,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"esk18-bot\",\"username\":\"ESK18-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2091,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":1934,\"rd\":102,\"prog\":18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2395,\"rd\":306,\"prog\":0,\"prov\":true}},\"createdAt\":1618054837619,\"profile\":{\"country\":\"_lichess\",\"location\":\"Russia\",\"bio\":\"Моя основа @EnergyStarKos18\",\"firstName\":\"Константин\",\"lastName\":\"Курышин\"},\"seenAt\":1618127945170,\"playTime\":{\"total\":7304,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ESK18-bot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":33,\"rated\":24,\"ai\":8,\"draw\":3,\"drawH\":2,\"loss\":6,\"lossH\":5,\"win\":24,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "esk18-bot",
     "username": "ESK18-bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1967,
-        "rd": 261,
+        "games": 3,
+        "rating": 2091,
+        "rd": 209,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2395,
+        "rd": 306,
         "prog": 0,
         "prov": true
       }
@@ -53,29 +53,28 @@
       "firstName": "Константин",
       "lastName": "Курышин"
     },
-    "seenAt": 1618116141368,
+    "seenAt": 1618127945170,
     "playTime": {
-      "total": 4618,
+      "total": 7304,
       "tv": 0
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/ESK18-bot",
-    "playing": "https://lichess.org/hFKcYyel/white",
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 28,
-      "rated": 20,
-      "ai": 7,
+      "all": 33,
+      "rated": 24,
+      "ai": 8,
       "draw": 3,
       "drawH": 2,
       "loss": 6,
       "lossH": 5,
-      "win": 19,
-      "winH": 14,
+      "win": 24,
+      "winH": 18,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
