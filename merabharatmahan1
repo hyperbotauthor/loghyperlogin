@@ -4,16 +4,23 @@
   "username": "merabharatmahan1",
   "profileUrl": "https://lichess.org/@/merabharatmahan1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"merabharatmahan1\",\"username\":\"merabharatmahan1\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1028,\"rd\":217,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":2110,\"rd\":143,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":3,\"rating\":1160,\"rd\":300,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":11,\"rating\":1393,\"rd\":186,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1187,\"rd\":269,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1899,\"rd\":272,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1166,\"rd\":347,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":37,\"rating\":1826,\"rd\":100,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2621,\"rd\":227,\"prog\":0,\"prov\":true}},\"createdAt\":1612429123506,\"seenAt\":1618045142135,\"playTime\":{\"total\":7407,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/merabharatmahan1\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":57,\"rated\":52,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":34,\"lossH\":34,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"merabharatmahan1\",\"username\":\"merabharatmahan1\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1102,\"rd\":361,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1166,\"rd\":347,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1028,\"rd\":217,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":2110,\"rd\":143,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":3,\"rating\":1160,\"rd\":300,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":11,\"rating\":1393,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1187,\"rd\":270,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1899,\"rd\":272,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1166,\"rd\":347,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":37,\"rating\":1826,\"rd\":101,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2152,\"rd\":172,\"prog\":-188,\"prov\":true}},\"createdAt\":1612429123506,\"seenAt\":1618141066646,\"playTime\":{\"total\":8380,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/merabharatmahan1\",\"nbFollowing\":3,\"nbFollowers\":4,\"count\":{\"all\":65,\"rated\":59,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":41,\"lossH\":41,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "merabharatmahan1",
     "username": "merabharatmahan1",
     "online": true,
     "perfs": {
-      "atomic": {
+      "antichess": {
         "games": 1,
-        "rating": 1258,
-        "rd": 396,
+        "rating": 1102,
+        "rd": 361,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1166,
+        "rd": 347,
         "prog": 0,
         "prov": true
       },
@@ -41,14 +48,14 @@
       "threeCheck": {
         "games": 11,
         "rating": 1393,
-        "rd": 186,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 5,
         "rating": 1187,
-        "rd": 269,
+        "rd": 270,
         "prog": 0,
         "prov": true
       },
@@ -69,7 +76,7 @@
       "puzzle": {
         "games": 37,
         "rating": 1826,
-        "rd": 100,
+        "rd": 101,
         "prog": 0
       },
       "classical": {
@@ -80,34 +87,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 9,
-        "rating": 2621,
-        "rd": 227,
-        "prog": 0,
+        "games": 14,
+        "rating": 2152,
+        "rd": 172,
+        "prog": -188,
         "prov": true
       }
     },
     "createdAt": 1612429123506,
-    "seenAt": 1618045142135,
+    "seenAt": 1618141066646,
     "playTime": {
-      "total": 7407,
+      "total": 8380,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/merabharatmahan1",
-    "nbFollowing": 0,
+    "nbFollowing": 3,
     "nbFollowers": 4,
     "count": {
-      "all": 57,
-      "rated": 52,
+      "all": 65,
+      "rated": 59,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 34,
-      "lossH": 34,
-      "win": 22,
-      "winH": 22,
+      "loss": 41,
+      "lossH": 41,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
