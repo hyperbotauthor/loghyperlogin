@@ -1,0 +1,101 @@
+{
+  "id": "winwinner37",
+  "displayName": "WinWinner37",
+  "username": "WinWinner37",
+  "profileUrl": "https://lichess.org/@/WinWinner37",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"winwinner37\",\"username\":\"WinWinner37\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1701,\"rd\":301,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":33,\"rating\":1900,\"rd\":110,\"prog\":73,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1609757231393,\"profile\":{\"country\":\"RU\",\"location\":\"37\",\"bio\":\"WinWinner клуб https://lichess.org/team/winwinners\",\"firstName\":\"Константин\"},\"seenAt\":1618133116051,\"playTime\":{\"total\":3566,\"tv\":47},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/WinWinner37\",\"nbFollowing\":11,\"nbFollowers\":11,\"completionRate\":100,\"count\":{\"all\":48,\"rated\":33,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":10,\"win\":35,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "winwinner37",
+    "username": "WinWinner37",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 1701,
+        "rd": 301,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 33,
+        "rating": 1900,
+        "rd": 110,
+        "prog": 73,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1609757231393,
+    "profile": {
+      "country": "RU",
+      "location": "37",
+      "bio": "WinWinner клуб https://lichess.org/team/winwinners",
+      "firstName": "Константин"
+    },
+    "seenAt": 1618133116051,
+    "playTime": {
+      "total": 3566,
+      "tv": 47
+    },
+    "language": "ru-RU",
+    "url": "https://lichess.org/@/WinWinner37",
+    "nbFollowing": 11,
+    "nbFollowers": 11,
+    "completionRate": 100,
+    "count": {
+      "all": 48,
+      "rated": 33,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 10,
+      "lossH": 10,
+      "win": 35,
+      "winH": 35,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
