@@ -4,11 +4,11 @@
   "username": "ItsHyperBot",
   "profileUrl": "https://lichess.org/@/ItsHyperBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itshyperbot\",\"username\":\"ItsHyperBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2410,\"rd\":277,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1855,\"rd\":239,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1998,\"rd\":127,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2225,\"rd\":108,\"prog\":190}},\"createdAt\":1617987644262,\"profile\":{\"country\":\"GB\",\"location\":\"South-West\",\"bio\":\"@ItsHypers\\r\\n\\r\\nMade with HyperBot:\\r\\nhttps://github.com/hyperchessbot/hyperbot\\r\\n\\r\\nIf you get annoyed, set up a custom position and destroy the bot that way :)\",\"links\":\"https://lichess.org/@/ItsHypers\"},\"seenAt\":1618088705964,\"playTime\":{\"total\":20655,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ItsHyperBot\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":81,\"rated\":38,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":19,\"lossH\":16,\"win\":62,\"winH\":62,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itshyperbot\",\"username\":\"ItsHyperBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2410,\"rd\":277,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1855,\"rd\":239,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":2137,\"rd\":84,\"prog\":86},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2228,\"rd\":108,\"prog\":150}},\"createdAt\":1617987644262,\"profile\":{\"country\":\"GB\",\"location\":\"South-West\",\"bio\":\"@ItsHypers\\r\\n\\r\\nMade with HyperBot:\\r\\nhttps://github.com/hyperchessbot/hyperbot\\r\\n\\r\\nIf you get annoyed, set up a custom position and destroy the bot that way :)\",\"links\":\"https://lichess.org/@/ItsHypers\"},\"seenAt\":1618106087309,\"playTime\":{\"total\":23632,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ItsHyperBot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":100,\"rated\":57,\"ai\":3,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":19,\"win\":75,\"winH\":75,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itshyperbot",
     "username": "ItsHyperBot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 3,
@@ -25,11 +25,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 11,
-        "rating": 1998,
-        "rd": 127,
-        "prog": 0,
-        "prov": true
+        "games": 29,
+        "rating": 2137,
+        "rd": 84,
+        "prog": 86
       },
       "correspondence": {
         "games": 0,
@@ -46,10 +45,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 22,
-        "rating": 2225,
+        "games": 23,
+        "rating": 2228,
         "rd": 108,
-        "prog": 190
+        "prog": 150
       }
     },
     "createdAt": 1617987644262,
@@ -59,26 +58,26 @@
       "bio": "@ItsHypers\r\n\r\nMade with HyperBot:\r\nhttps://github.com/hyperchessbot/hyperbot\r\n\r\nIf you get annoyed, set up a custom position and destroy the bot that way :)",
       "links": "https://lichess.org/@/ItsHypers"
     },
-    "seenAt": 1618088705964,
+    "seenAt": 1618106087309,
     "playTime": {
-      "total": 20655,
+      "total": 23632,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/ItsHyperBot",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
-      "all": 81,
-      "rated": 38,
+      "all": 100,
+      "rated": 57,
       "ai": 3,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 19,
-      "lossH": 16,
-      "win": 62,
-      "winH": 62,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 22,
+      "lossH": 19,
+      "win": 75,
+      "winH": 75,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
