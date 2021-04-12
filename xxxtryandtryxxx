@@ -4,7 +4,7 @@
   "username": "XXXTryandTryXXX",
   "profileUrl": "https://lichess.org/@/XXXTryandTryXXX",
   "provider": "lichess",
-  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1821,\"rd\":259,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616776722996,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nPlease Challenge Me!\"},\"seenAt\":1617368402999,\"playTime\":{\"total\":5939,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":56,\"rated\":7,\"ai\":8,\"draw\":1,\"drawH\":1,\"loss\":16,\"lossH\":12,\"win\":39,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1887,\"rd\":149,\"prog\":26,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1604,\"rd\":318,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1770,\"rd\":335,\"prog\":0,\"prov\":true}},\"createdAt\":1616776722996,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nNever makes a Mistake.\\r\\nPlease Challenge Me!\"},\"seenAt\":1618248128927,\"playTime\":{\"total\":8454,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"playing\":\"https://lichess.org/Gj57cJim/white\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":69,\"rated\":16,\"ai\":9,\"draw\":1,\"drawH\":1,\"loss\":20,\"lossH\":16,\"win\":48,\"winH\":43,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "xxxtryandtryxxx",
     "username": "XXXTryandTryXXX",
@@ -18,16 +18,16 @@
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 1821,
-        "rd": 259,
-        "prog": 0,
+        "games": 13,
+        "rating": 1887,
+        "rd": 149,
+        "prog": 26,
         "prov": true
       },
       "correspondence": {
-        "games": 1,
-        "rating": 1258,
-        "rd": 396,
+        "games": 2,
+        "rating": 1604,
+        "rd": 318,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1770,
+        "rd": 335,
         "prog": 0,
         "prov": true
       }
@@ -49,30 +49,31 @@
     "createdAt": 1616776722996,
     "profile": {
       "country": "_lichess",
-      "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\r\n\r\nThis Bot runs on Hypereasy.\r\nPlease Challenge Me!"
+      "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\r\n\r\nThis Bot runs on Hypereasy.\r\nNever makes a Mistake.\r\nPlease Challenge Me!"
     },
-    "seenAt": 1617368402999,
+    "seenAt": 1618248128927,
     "playTime": {
-      "total": 5939,
+      "total": 8454,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/XXXTryandTryXXX",
+    "playing": "https://lichess.org/Gj57cJim/white",
     "nbFollowing": 0,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
-      "all": 56,
-      "rated": 7,
-      "ai": 8,
+      "all": 69,
+      "rated": 16,
+      "ai": 9,
       "draw": 1,
       "drawH": 1,
-      "loss": 16,
-      "lossH": 12,
-      "win": 39,
-      "winH": 35,
+      "loss": 20,
+      "lossH": 16,
+      "win": 48,
+      "winH": 43,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
