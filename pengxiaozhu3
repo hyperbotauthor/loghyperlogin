@@ -1,0 +1,83 @@
+{
+  "id": "pengxiaozhu3",
+  "displayName": "pengxiaozhu3",
+  "username": "pengxiaozhu3",
+  "profileUrl": "https://lichess.org/@/pengxiaozhu3",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"pengxiaozhu3\",\"username\":\"pengxiaozhu3\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2005,\"rd\":144,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":71,\"rating\":2356,\"rd\":87,\"prog\":46},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":17,\"rating\":1889,\"rd\":108,\"prog\":189},\"rapid\":{\"games\":13,\"rating\":1890,\"rd\":131,\"prog\":-71,\"prov\":true}},\"createdAt\":1617874109973,\"profile\":{\"country\":\"_rainbow\",\"bio\":\"Created by @leon2020liao and @PeNgXiAo-ZhU\"},\"seenAt\":1618217506893,\"playTime\":{\"total\":36963,\"tv\":1140},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/pengxiaozhu3\",\"nbFollowing\":0,\"nbFollowers\":8,\"count\":{\"all\":153,\"rated\":115,\"ai\":19,\"draw\":10,\"drawH\":9,\"loss\":22,\"lossH\":12,\"win\":121,\"winH\":113,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "pengxiaozhu3",
+    "username": "pengxiaozhu3",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 2005,
+        "rd": 144,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 71,
+        "rating": 2356,
+        "rd": 87,
+        "prog": 46
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 17,
+        "rating": 1889,
+        "rd": 108,
+        "prog": 189
+      },
+      "rapid": {
+        "games": 13,
+        "rating": 1890,
+        "rd": 131,
+        "prog": -71,
+        "prov": true
+      }
+    },
+    "createdAt": 1617874109973,
+    "profile": {
+      "country": "_rainbow",
+      "bio": "Created by @leon2020liao and @PeNgXiAo-ZhU"
+    },
+    "seenAt": 1618217506893,
+    "playTime": {
+      "total": 36963,
+      "tv": 1140
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/pengxiaozhu3",
+    "nbFollowing": 0,
+    "nbFollowers": 8,
+    "count": {
+      "all": 153,
+      "rated": 115,
+      "ai": 19,
+      "draw": 10,
+      "drawH": 9,
+      "loss": 22,
+      "lossH": 12,
+      "win": 121,
+      "winH": 113,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
