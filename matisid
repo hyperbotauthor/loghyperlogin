@@ -1,0 +1,151 @@
+{
+  "id": "matisid",
+  "displayName": "MatISID",
+  "username": "MatISID",
+  "profileUrl": "https://lichess.org/@/MatISID",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"matisid\",\"username\":\"MatISID\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1217,\"rd\":227,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1710,\"rd\":272,\"prog\":0,\"prov\":true},\"horde\":{\"games\":30,\"rating\":1634,\"rd\":91,\"prog\":-36},\"atomic\":{\"games\":16,\"rating\":1023,\"rd\":128,\"prog\":77,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1541,\"rd\":225,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":87,\"rating\":1545,\"rd\":54,\"prog\":35},\"blitz\":{\"games\":50,\"rating\":1375,\"rd\":70,\"prog\":-3},\"kingOfTheHill\":{\"games\":12,\"rating\":1748,\"rd\":154,\"prog\":-56,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1297,\"rd\":187,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1507,\"rd\":272,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":103,\"rating\":1586,\"rd\":46,\"prog\":47},\"correspondence\":{\"games\":2,\"rating\":1386,\"rd\":358,\"prog\":0,\"prov\":true},\"classical\":{\"games\":12,\"rating\":1275,\"rd\":173,\"prog\":-26,\"prov\":true},\"rapid\":{\"games\":65,\"rating\":1295,\"rd\":102,\"prog\":-1},\"storm\":{\"runs\":3,\"score\":28}},\"createdAt\":1583963835694,\"profile\":{\"country\":\"_pirate\",\"location\":\"Pirate\",\"firstName\":\"⚡\\uD83C\\uDF0D⚡\\uD83C\\uDF0D⚡\\uD83C\\uDF0D⚡\\uD83C\\uDF0D\",\"lastName\":\"\\uD83D\\uDD25✨\\uD83D\\uDD25✨\\uD83D\\uDD25✨\",\"fideRating\":703,\"links\":\"Lichess.org\"},\"seenAt\":1618401572380,\"playTime\":{\"total\":100858,\"tv\":444},\"language\":\"pl-PL\",\"url\":\"https://lichess.org/@/MatISID\",\"nbFollowing\":9,\"nbFollowers\":5,\"completionRate\":90,\"count\":{\"all\":747,\"rated\":403,\"ai\":15,\"draw\":45,\"drawH\":44,\"loss\":389,\"lossH\":382,\"win\":313,\"winH\":306,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "matisid",
+    "username": "MatISID",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1217,
+        "rd": 227,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1710,
+        "rd": 272,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 30,
+        "rating": 1634,
+        "rd": 91,
+        "prog": -36
+      },
+      "atomic": {
+        "games": 16,
+        "rating": 1023,
+        "rd": 128,
+        "prog": 77,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1541,
+        "rd": 225,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 87,
+        "rating": 1545,
+        "rd": 54,
+        "prog": 35
+      },
+      "blitz": {
+        "games": 50,
+        "rating": 1375,
+        "rd": 70,
+        "prog": -3
+      },
+      "kingOfTheHill": {
+        "games": 12,
+        "rating": 1748,
+        "rd": 154,
+        "prog": -56,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 5,
+        "rating": 1297,
+        "rd": 187,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1507,
+        "rd": 272,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 103,
+        "rating": 1586,
+        "rd": 46,
+        "prog": 47
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1386,
+        "rd": 358,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 12,
+        "rating": 1275,
+        "rd": 173,
+        "prog": -26,
+        "prov": true
+      },
+      "rapid": {
+        "games": 65,
+        "rating": 1295,
+        "rd": 102,
+        "prog": -1
+      },
+      "storm": {
+        "runs": 3,
+        "score": 28
+      }
+    },
+    "createdAt": 1583963835694,
+    "profile": {
+      "country": "_pirate",
+      "location": "Pirate",
+      "firstName": "⚡🌍⚡🌍⚡🌍⚡🌍",
+      "lastName": "🔥✨🔥✨🔥✨",
+      "fideRating": 703,
+      "links": "Lichess.org"
+    },
+    "seenAt": 1618401572380,
+    "playTime": {
+      "total": 100858,
+      "tv": 444
+    },
+    "language": "pl-PL",
+    "url": "https://lichess.org/@/MatISID",
+    "nbFollowing": 9,
+    "nbFollowers": 5,
+    "completionRate": 90,
+    "count": {
+      "all": 747,
+      "rated": 403,
+      "ai": 15,
+      "draw": 45,
+      "drawH": 44,
+      "loss": 389,
+      "lossH": 382,
+      "win": 313,
+      "winH": 306,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
