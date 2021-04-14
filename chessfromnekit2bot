@@ -4,7 +4,7 @@
   "username": "chessfromnekit2BOT",
   "profileUrl": "https://lichess.org/@/chessfromnekit2BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessfromnekit2bot\",\"username\":\"chessfromnekit2BOT\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1885,\"rd\":307,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2223,\"rd\":136,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2138,\"rd\":366,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2026,\"rd\":143,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1802,\"rd\":373,\"prog\":0,\"prov\":true}},\"createdAt\":1616323451183,\"seenAt\":1618337052455,\"playTime\":{\"total\":9041,\"tv\":1365},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessfromnekit2BOT\",\"nbFollowing\":8,\"nbFollowers\":5,\"count\":{\"all\":40,\"rated\":25,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":19,\"lossH\":14,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessfromnekit2bot\",\"username\":\"chessfromnekit2BOT\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1885,\"rd\":307,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":2273,\"rd\":128,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2138,\"rd\":366,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2066,\"rd\":130,\"prog\":42,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1802,\"rd\":374,\"prog\":0,\"prov\":true}},\"createdAt\":1616323451183,\"seenAt\":1618381706286,\"playTime\":{\"total\":9734,\"tv\":1365},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessfromnekit2BOT\",\"nbFollowing\":8,\"nbFollowers\":5,\"count\":{\"all\":44,\"rated\":29,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":21,\"lossH\":16,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessfromnekit2bot",
     "username": "chessfromnekit2BOT",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 10,
-        "rating": 2223,
-        "rd": 136,
+        "games": 11,
+        "rating": 2273,
+        "rd": 128,
         "prog": 0,
         "prov": true
       },
@@ -32,10 +32,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 10,
-        "rating": 2026,
-        "rd": 143,
-        "prog": 0,
+        "games": 13,
+        "rating": 2066,
+        "rd": 130,
+        "prog": 42,
         "prov": true
       },
       "correspondence": {
@@ -55,15 +55,15 @@
       "rapid": {
         "games": 3,
         "rating": 1802,
-        "rd": 373,
+        "rd": 374,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616323451183,
-    "seenAt": 1618337052455,
+    "seenAt": 1618381706286,
     "playTime": {
-      "total": 9041,
+      "total": 9734,
       "tv": 1365
     },
     "language": "ru-RU",
@@ -72,15 +72,15 @@
     "nbFollowing": 8,
     "nbFollowers": 5,
     "count": {
-      "all": 40,
-      "rated": 25,
+      "all": 44,
+      "rated": 29,
       "ai": 5,
       "draw": 1,
       "drawH": 1,
-      "loss": 19,
-      "lossH": 14,
-      "win": 20,
-      "winH": 20,
+      "loss": 21,
+      "lossH": 16,
+      "win": 22,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
