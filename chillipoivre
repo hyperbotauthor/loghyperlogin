@@ -4,16 +4,16 @@
   "username": "ChilliPoivre",
   "profileUrl": "https://lichess.org/@/ChilliPoivre",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chillipoivre\",\"username\":\"ChilliPoivre\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2280,\"rd\":308,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618517427086,\"seenAt\":1618519324555,\"playTime\":{\"total\":551,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChilliPoivre\",\"playing\":\"https://lichess.org/ZySJl074/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chillipoivre\",\"username\":\"ChilliPoivre\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2088,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2517,\"rd\":283,\"prog\":0,\"prov\":true}},\"createdAt\":1618517427086,\"seenAt\":1618521618151,\"playTime\":{\"total\":3296,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChilliPoivre\",\"playing\":\"https://lichess.org/JFtHGY0n/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chillipoivre",
     "username": "ChilliPoivre",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 2280,
-        "rd": 308,
+        "games": 4,
+        "rating": 2088,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
@@ -39,35 +39,35 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2517,
+        "rd": 283,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1618517427086,
-    "seenAt": 1618519324555,
+    "seenAt": 1618521618151,
     "playTime": {
-      "total": 551,
+      "total": 3296,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/ChilliPoivre",
-    "playing": "https://lichess.org/ZySJl074/black",
+    "playing": "https://lichess.org/JFtHGY0n/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 3,
-      "rated": 3,
+      "all": 7,
+      "rated": 7,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 2,
-      "winH": 2,
+      "loss": 3,
+      "lossH": 3,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
