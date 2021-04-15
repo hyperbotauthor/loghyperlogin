@@ -4,38 +4,51 @@
   "username": "M-E-G-A_M",
   "profileUrl": "https://lichess.org/@/M-E-G-A_M",
   "provider": "lichess",
-  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2012,\"rd\":107,\"prog\":31},\"antichess\":{\"games\":4,\"rating\":1907,\"rd\":206,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1254,\"rd\":284,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2075,\"rd\":142,\"prog\":34,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1809,\"rd\":257,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"\\uD83C\\uDF0D\",\"bio\":\"I am created by @MATIPesO.\",\"firstName\":\"Lichess\",\"lastName\":\"BOT\"},\"seenAt\":1618465815801,\"playTime\":{\"total\":10212,\"tv\":0},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"playing\":\"https://lichess.org/bZqdkCqY/black\",\"nbFollowing\":4,\"nbFollowers\":7,\"count\":{\"all\":46,\"rated\":40,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":9,\"win\":37,\"winH\":37,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1301,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":26,\"rating\":2102,\"rd\":84,\"prog\":87},\"antichess\":{\"games\":7,\"rating\":2028,\"rd\":172,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1732,\"rd\":214,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1920,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2047,\"rd\":97,\"prog\":-28},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1235,\"rd\":370,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1755,\"rd\":221,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"Błonie\",\"bio\":\"I am created by @MATIPesO. I exist only a few days.\",\"firstName\":\"MEGA\",\"lastName\":\"BOT\"},\"seenAt\":1618484772075,\"playTime\":{\"total\":29160,\"tv\":1010},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"nbFollowing\":16,\"nbFollowers\":8,\"count\":{\"all\":90,\"rated\":78,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":25,\"lossH\":25,\"win\":65,\"winH\":65,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "m-e-g-a_m",
     "username": "M-E-G-A_M",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1301,
+        "rd": 279,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 14,
-        "rating": 2012,
-        "rd": 107,
-        "prog": 31
+        "games": 26,
+        "rating": 2102,
+        "rd": 84,
+        "prog": 87
       },
       "antichess": {
-        "games": 4,
-        "rating": 1907,
-        "rd": 206,
+        "games": 7,
+        "rating": 2028,
+        "rd": 172,
         "prog": 0,
         "prov": true
       },
       "horde": {
-        "games": 2,
-        "rating": 1254,
-        "rd": 284,
+        "games": 4,
+        "rating": 1732,
+        "rd": 214,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 4,
+        "rating": 1920,
+        "rd": 209,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 13,
-        "rating": 2075,
-        "rd": 142,
-        "prog": 34,
-        "prov": true
+        "games": 24,
+        "rating": 2047,
+        "rd": 97,
+        "prog": -28
       },
       "correspondence": {
         "games": 2,
@@ -45,16 +58,16 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 1258,
-        "rd": 396,
+        "games": 2,
+        "rating": 1235,
+        "rd": 370,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1809,
-        "rd": 257,
+        "games": 4,
+        "rating": 1755,
+        "rd": 221,
         "prog": 0,
         "prov": true
       }
@@ -62,34 +75,33 @@
     "createdAt": 1618403432890,
     "profile": {
       "country": "PL",
-      "location": "🌍",
-      "bio": "I am created by @MATIPesO.",
-      "firstName": "Lichess",
+      "location": "Błonie",
+      "bio": "I am created by @MATIPesO. I exist only a few days.",
+      "firstName": "MEGA",
       "lastName": "BOT"
     },
-    "seenAt": 1618465815801,
+    "seenAt": 1618484772075,
     "playTime": {
-      "total": 10212,
-      "tv": 0
+      "total": 29160,
+      "tv": 1010
     },
     "language": "pl-PL",
     "title": "BOT",
     "url": "https://lichess.org/@/M-E-G-A_M",
-    "playing": "https://lichess.org/bZqdkCqY/black",
-    "nbFollowing": 4,
-    "nbFollowers": 7,
+    "nbFollowing": 16,
+    "nbFollowers": 8,
     "count": {
-      "all": 46,
-      "rated": 40,
+      "all": 90,
+      "rated": 78,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 9,
-      "lossH": 9,
-      "win": 37,
-      "winH": 37,
+      "loss": 25,
+      "lossH": 25,
+      "win": 65,
+      "winH": 65,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
