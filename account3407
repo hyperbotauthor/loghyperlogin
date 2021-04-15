@@ -1,0 +1,82 @@
+{
+  "id": "account3407",
+  "displayName": "account3407",
+  "username": "account3407",
+  "profileUrl": "https://lichess.org/@/account3407",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"account3407\",\"username\":\"account3407\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1458,\"rd\":441,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1048,\"rd\":320,\"prog\":0,\"prov\":true}},\"createdAt\":1618467102398,\"seenAt\":1618478119965,\"playTime\":{\"total\":3425,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/account3407\",\"playing\":\"https://lichess.org/voRsEYDO/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":10,\"rated\":3,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":4,\"winH\":4,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "account3407",
+    "username": "account3407",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1458,
+        "rd": 441,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1048,
+        "rd": 320,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1618467102398,
+    "seenAt": 1618478119965,
+    "playTime": {
+      "total": 3425,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/account3407",
+    "playing": "https://lichess.org/voRsEYDO/black",
+    "nbFollowing": 0,
+    "nbFollowers": 3,
+    "count": {
+      "all": 10,
+      "rated": 3,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 5,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 1,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
