@@ -4,7 +4,7 @@
   "username": "Atomicandchess",
   "profileUrl": "https://lichess.org/@/Atomicandchess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":435,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":402,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2063,\"rd\":119,\"prog\":-99,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1374,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1700,\"rd\":115,\"prog\":-46,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1253,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":2220,\"rd\":130,\"prog\":-490,\"prov\":true}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\",\"links\":\"Jeez\"},\"seenAt\":1618220227090,\"playTime\":{\"total\":9361,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"nbFollowing\":4,\"nbFollowers\":4,\"count\":{\"all\":86,\"rated\":61,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":37,\"lossH\":37,\"win\":47,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":436,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":402,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2063,\"rd\":120,\"prog\":-99,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1374,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1700,\"rd\":116,\"prog\":-46,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1253,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":24,\"rating\":2190,\"rd\":123,\"prog\":-334,\"prov\":true}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\\r\\n\\r\\nBot currupted\\r\\nplaying randomly\",\"links\":\"Jeez\"},\"seenAt\":1618486016075,\"playTime\":{\"total\":9498,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"nbFollowing\":4,\"nbFollowers\":6,\"count\":{\"all\":89,\"rated\":64,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":40,\"lossH\":40,\"win\":47,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "atomicandchess",
     "username": "Atomicandchess",
@@ -13,7 +13,7 @@
       "chess960": {
         "games": 1,
         "rating": 1435,
-        "rd": 435,
+        "rd": 436,
         "prog": 0,
         "prov": true
       },
@@ -27,7 +27,7 @@
       "blitz": {
         "games": 17,
         "rating": 2063,
-        "rd": 119,
+        "rd": 120,
         "prog": -99,
         "prov": true
       },
@@ -41,7 +41,7 @@
       "bullet": {
         "games": 14,
         "rating": 1700,
-        "rd": 115,
+        "rd": 116,
         "prog": -46,
         "prov": true
       },
@@ -60,37 +60,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 21,
-        "rating": 2220,
-        "rd": 130,
-        "prog": -490,
+        "games": 24,
+        "rating": 2190,
+        "rd": 123,
+        "prog": -334,
         "prov": true
       }
     },
     "createdAt": 1611288164316,
     "profile": {
       "country": "AQ",
-      "bio": "https://i.imgur.com/cgV9QUC.jpg\r\nHi I use stockfish engine",
+      "bio": "https://i.imgur.com/cgV9QUC.jpg\r\nHi I use stockfish engine\r\n\r\nBot currupted\r\nplaying randomly",
       "links": "Jeez"
     },
-    "seenAt": 1618220227090,
+    "seenAt": 1618486016075,
     "playTime": {
-      "total": 9361,
+      "total": 9498,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Atomicandchess",
     "nbFollowing": 4,
-    "nbFollowers": 4,
+    "nbFollowers": 6,
     "count": {
-      "all": 86,
-      "rated": 61,
+      "all": 89,
+      "rated": 64,
       "ai": 2,
       "draw": 2,
       "drawH": 2,
-      "loss": 37,
-      "lossH": 37,
+      "loss": 40,
+      "lossH": 40,
       "win": 47,
       "winH": 45,
       "bookmark": 0,
