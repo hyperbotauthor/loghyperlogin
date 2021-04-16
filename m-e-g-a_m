@@ -4,7 +4,7 @@
   "username": "M-E-G-A_M",
   "profileUrl": "https://lichess.org/@/M-E-G-A_M",
   "provider": "lichess",
-  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1301,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":26,\"rating\":2102,\"rd\":84,\"prog\":87},\"antichess\":{\"games\":7,\"rating\":2028,\"rd\":172,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1732,\"rd\":214,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1920,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2047,\"rd\":97,\"prog\":-28},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1235,\"rd\":370,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1755,\"rd\":221,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"Błonie\",\"bio\":\"I am created by @MATIPesO. I exist only a few days.\",\"firstName\":\"MEGA\",\"lastName\":\"BOT\"},\"seenAt\":1618484772075,\"playTime\":{\"total\":29160,\"tv\":1010},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"nbFollowing\":16,\"nbFollowers\":8,\"count\":{\"all\":90,\"rated\":78,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":25,\"lossH\":25,\"win\":65,\"winH\":65,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1301,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":29,\"rating\":2118,\"rd\":81,\"prog\":74},\"antichess\":{\"games\":17,\"rating\":1968,\"rd\":115,\"prog\":27,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1843,\"rd\":183,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1961,\"rd\":187,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1455,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":38,\"rating\":2053,\"rd\":74,\"prog\":-24},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1956,\"rd\":362,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1755,\"rd\":221,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"Błonie\",\"bio\":\"I am created by @MATIPesO. I exist only a few days. You can challenge me in ALL standard chess and Chess960, Antichess, Atomic, Horde and KingOfTheHill. My favorite time is blitz and favorite variant antichess. I can play many games in the same time. The most I play blitz and I prefer play with bots but I can also play with humans. Follow me and my coder ( @MATIPesO). BOTs join to my team: https://lichess.org/team/bots-stars-2 .\",\"firstName\":\"MEGA\",\"lastName\":\"BOT\"},\"seenAt\":1618552725781,\"playTime\":{\"total\":55991,\"tv\":1508},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"nbFollowing\":26,\"nbFollowers\":10,\"count\":{\"all\":131,\"rated\":115,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":37,\"lossH\":37,\"win\":91,\"winH\":90,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "m-e-g-a_m",
     "username": "M-E-G-A_M",
@@ -18,37 +18,44 @@
         "prov": true
       },
       "blitz": {
-        "games": 26,
-        "rating": 2102,
-        "rd": 84,
-        "prog": 87
+        "games": 29,
+        "rating": 2118,
+        "rd": 81,
+        "prog": 74
       },
       "antichess": {
-        "games": 7,
-        "rating": 2028,
-        "rd": 172,
-        "prog": 0,
+        "games": 17,
+        "rating": 1968,
+        "rd": 115,
+        "prog": 27,
         "prov": true
       },
       "horde": {
-        "games": 4,
-        "rating": 1732,
-        "rd": 214,
+        "games": 5,
+        "rating": 1843,
+        "rd": 183,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 4,
-        "rating": 1920,
-        "rd": 209,
+        "games": 11,
+        "rating": 1961,
+        "rd": 187,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1455,
+        "rd": 435,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 24,
-        "rating": 2047,
-        "rd": 97,
-        "prog": -28
+        "games": 38,
+        "rating": 2053,
+        "rd": 74,
+        "prog": -24
       },
       "correspondence": {
         "games": 2,
@@ -58,9 +65,9 @@
         "prov": true
       },
       "classical": {
-        "games": 2,
-        "rating": 1235,
-        "rd": 370,
+        "games": 3,
+        "rating": 1956,
+        "rd": 362,
         "prog": 0,
         "prov": true
       },
@@ -76,30 +83,30 @@
     "profile": {
       "country": "PL",
       "location": "Błonie",
-      "bio": "I am created by @MATIPesO. I exist only a few days.",
+      "bio": "I am created by @MATIPesO. I exist only a few days. You can challenge me in ALL standard chess and Chess960, Antichess, Atomic, Horde and KingOfTheHill. My favorite time is blitz and favorite variant antichess. I can play many games in the same time. The most I play blitz and I prefer play with bots but I can also play with humans. Follow me and my coder ( @MATIPesO). BOTs join to my team: https://lichess.org/team/bots-stars-2 .",
       "firstName": "MEGA",
       "lastName": "BOT"
     },
-    "seenAt": 1618484772075,
+    "seenAt": 1618552725781,
     "playTime": {
-      "total": 29160,
-      "tv": 1010
+      "total": 55991,
+      "tv": 1508
     },
     "language": "pl-PL",
     "title": "BOT",
     "url": "https://lichess.org/@/M-E-G-A_M",
-    "nbFollowing": 16,
-    "nbFollowers": 8,
+    "nbFollowing": 26,
+    "nbFollowers": 10,
     "count": {
-      "all": 90,
-      "rated": 78,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 25,
-      "lossH": 25,
-      "win": 65,
-      "winH": 65,
+      "all": 131,
+      "rated": 115,
+      "ai": 1,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 37,
+      "lossH": 37,
+      "win": 91,
+      "winH": 90,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
