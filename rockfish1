@@ -4,7 +4,7 @@
   "username": "RockFish1",
   "profileUrl": "https://lichess.org/@/RockFish1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rockfish1\",\"username\":\"RockFish1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618480084034,\"profile\":{\"country\":\"_united-nations\",\"location\":\"Robot Island\",\"bio\":\"Your All New On Demand Robot Companion!\\r\\nPresenting... ROCKFISH1!\\r\\n\\r\\nCourtesy of @Risith-Jayasekara\",\"firstName\":\"Samuel \\\"Rockfish\\\"\",\"lastName\":\"Bently Lanschaf\"},\"seenAt\":1618486235005,\"playTime\":{\"total\":332,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RockFish1\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rockfish1\",\"username\":\"RockFish1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1665,\"rd\":303,\"prog\":0,\"prov\":true}},\"createdAt\":1618480084034,\"profile\":{\"country\":\"_united-nations\",\"location\":\"Robot Island\",\"bio\":\"Your All New On Demand Robot Companion!\\r\\nPresenting... ROCKFISH1!\\r\\n\\r\\nCourtesy of @Risith-Jayasekara\",\"firstName\":\"Samuel \\\"Rockfish\\\"\",\"lastName\":\"Bently Lanschaf\"},\"seenAt\":1618551091934,\"playTime\":{\"total\":1075,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RockFish1\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":13,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rockfish1",
     "username": "RockFish1",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1665,
+        "rd": 303,
         "prog": 0,
         "prov": true
       }
@@ -54,26 +54,26 @@
       "firstName": "Samuel \"Rockfish\"",
       "lastName": "Bently Lanschaf"
     },
-    "seenAt": 1618486235005,
+    "seenAt": 1618551091934,
     "playTime": {
-      "total": 332,
+      "total": 1075,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RockFish1",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 5,
-      "rated": 0,
+      "all": 13,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 5,
-      "winH": 5,
+      "loss": 1,
+      "lossH": 1,
+      "win": 12,
+      "winH": 12,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
