@@ -4,7 +4,7 @@
   "username": "APl-chess",
   "profileUrl": "https://lichess.org/@/APl-chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":64,\"rating\":2125,\"rd\":78,\"prog\":113},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":253,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2019,\"rd\":60,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":15,\"rating\":2064,\"rd\":131,\"prog\":66,\"prov\":true},\"rapid\":{\"games\":45,\"rating\":2501,\"rd\":77,\"prog\":171}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/chess-and-jokes-and-more-jokes pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @Almamuro\\r\\nFollow 4 follow? Sure!\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\",\"links\":\"lichess.org\\r\\nhttps://lichess.org/@/Fmuror02_is_back\"},\"seenAt\":1618150682907,\"playTime\":{\"total\":52012,\"tv\":6362},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"nbFollowing\":87,\"nbFollowers\":62,\"count\":{\"all\":289,\"rated\":241,\"ai\":4,\"draw\":4,\"drawH\":4,\"loss\":17,\"lossH\":17,\"win\":268,\"winH\":264,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":64,\"rating\":2125,\"rd\":80,\"prog\":113},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2019,\"rd\":62,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":16,\"rating\":2142,\"rd\":127,\"prog\":142,\"prov\":true},\"rapid\":{\"games\":45,\"rating\":2501,\"rd\":79,\"prog\":171}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @Fmuror02_is_back\\r\\nJoin https://lichess.org/team/chess-and-jokes-and-more-jokes pls\\r\\nAnd also follow my friends @Fmuror02_is_back and @Almamuro\\r\\nFollow 4 follow? Sure!\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\",\"links\":\"lichess.org\\r\\nhttps://lichess.org/@/Fmuror02_is_back\"},\"seenAt\":1618584381298,\"playTime\":{\"total\":53183,\"tv\":6362},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/VDnGWVtb/white\",\"nbFollowing\":90,\"nbFollowers\":64,\"count\":{\"all\":291,\"rated\":242,\"ai\":4,\"draw\":5,\"drawH\":5,\"loss\":17,\"lossH\":17,\"win\":269,\"winH\":265,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl-chess",
     "username": "APl-chess",
@@ -13,7 +13,7 @@
       "blitz": {
         "games": 64,
         "rating": 2125,
-        "rd": 78,
+        "rd": 80,
         "prog": 113
       },
       "antichess": {
@@ -26,14 +26,14 @@
       "atomic": {
         "games": 2,
         "rating": 1735,
-        "rd": 253,
+        "rd": 254,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 99,
         "rating": 2019,
-        "rd": 60,
+        "rd": 62,
         "prog": 24
       },
       "correspondence": {
@@ -44,16 +44,16 @@
         "prov": true
       },
       "classical": {
-        "games": 15,
-        "rating": 2064,
-        "rd": 131,
-        "prog": 66,
+        "games": 16,
+        "rating": 2142,
+        "rd": 127,
+        "prog": 142,
         "prov": true
       },
       "rapid": {
         "games": 45,
         "rating": 2501,
-        "rd": 77,
+        "rd": 79,
         "prog": 171
       }
     },
@@ -65,28 +65,29 @@
       "lastName": "BOT",
       "links": "lichess.org\r\nhttps://lichess.org/@/Fmuror02_is_back"
     },
-    "seenAt": 1618150682907,
+    "seenAt": 1618584381298,
     "playTime": {
-      "total": 52012,
+      "total": 53183,
       "tv": 6362
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/APl-chess",
-    "nbFollowing": 87,
-    "nbFollowers": 62,
+    "playing": "https://lichess.org/VDnGWVtb/white",
+    "nbFollowing": 90,
+    "nbFollowers": 64,
     "count": {
-      "all": 289,
-      "rated": 241,
+      "all": 291,
+      "rated": 242,
       "ai": 4,
-      "draw": 4,
-      "drawH": 4,
+      "draw": 5,
+      "drawH": 5,
       "loss": 17,
       "lossH": 17,
-      "win": 268,
-      "winH": 264,
+      "win": 269,
+      "winH": 265,
       "bookmark": 3,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
