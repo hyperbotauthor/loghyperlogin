@@ -4,11 +4,11 @@
   "username": "ChilliPoivre",
   "profileUrl": "https://lichess.org/@/ChilliPoivre",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chillipoivre\",\"username\":\"ChilliPoivre\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2088,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1611,\"rd\":193,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2223,\"rd\":179,\"prog\":0,\"prov\":true}},\"createdAt\":1618517427086,\"seenAt\":1618532471113,\"playTime\":{\"total\":11828,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChilliPoivre\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":18,\"rated\":17,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chillipoivre\",\"username\":\"ChilliPoivre\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2088,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1703,\"rd\":169,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2223,\"rd\":179,\"prog\":0,\"prov\":true}},\"createdAt\":1618517427086,\"seenAt\":1618576016573,\"playTime\":{\"total\":11896,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChilliPoivre\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":19,\"rated\":18,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chillipoivre",
     "username": "ChilliPoivre",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 4,
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 1611,
-        "rd": 193,
+        "games": 7,
+        "rating": 1703,
+        "rd": 169,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1618517427086,
-    "seenAt": 1618532471113,
+    "seenAt": 1618576016573,
     "playTime": {
-      "total": 11828,
+      "total": 11896,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +58,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 18,
-      "rated": 17,
+      "all": 19,
+      "rated": 18,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
       "loss": 10,
       "lossH": 10,
-      "win": 7,
-      "winH": 7,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
