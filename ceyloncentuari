@@ -4,7 +4,7 @@
   "username": "CeylonCentuari",
   "profileUrl": "https://lichess.org/@/CeylonCentuari",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ceyloncentuari\",\"username\":\"CeylonCentuari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1575,\"rd\":393,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1826,\"rd\":193,\"prog\":41,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618479217819,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Version 1.7 of Stockfish bots with single threaded Stockfish. Uses Stockfish 12, Stockfish 13, Stockfish NNUE & Stockfish ProMax\",\"firstName\":\"BOT\",\"lastName\":\"CeylonCentuari\"},\"seenAt\":1618562859456,\"playTime\":{\"total\":2639,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCentuari\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":46,\"rated\":30,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":3,\"win\":42,\"winH\":36,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ceyloncentuari\",\"username\":\"CeylonCentuari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1575,\"rd\":393,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":2046,\"rd\":157,\"prog\":247,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618479217819,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Warning! This bot is super ferocious in bullet!\",\"firstName\":\"BOT\",\"lastName\":\"CeylonCentuari\"},\"seenAt\":1618567671798,\"playTime\":{\"total\":3406,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCentuari\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":58,\"rated\":33,\"ai\":7,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":4,\"win\":52,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ceyloncentuari",
     "username": "CeylonCentuari",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 29,
-        "rating": 1826,
-        "rd": 193,
-        "prog": 41,
+        "games": 32,
+        "rating": 2046,
+        "rd": 157,
+        "prog": 247,
         "prov": true
       },
       "correspondence": {
@@ -49,13 +49,13 @@
     "createdAt": 1618479217819,
     "profile": {
       "country": "_lichess",
-      "bio": "Version 1.7 of Stockfish bots with single threaded Stockfish. Uses Stockfish 12, Stockfish 13, Stockfish NNUE & Stockfish ProMax",
+      "bio": "Warning! This bot is super ferocious in bullet!",
       "firstName": "BOT",
       "lastName": "CeylonCentuari"
     },
-    "seenAt": 1618562859456,
+    "seenAt": 1618567671798,
     "playTime": {
-      "total": 2639,
+      "total": 3406,
       "tv": 0
     },
     "language": "en-US",
@@ -64,15 +64,15 @@
     "nbFollowing": 3,
     "nbFollowers": 2,
     "count": {
-      "all": 46,
-      "rated": 30,
+      "all": 58,
+      "rated": 33,
       "ai": 7,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 4,
-      "lossH": 3,
-      "win": 42,
-      "winH": 36,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 4,
+      "win": 52,
+      "winH": 46,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
