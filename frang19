@@ -1,0 +1,110 @@
+{
+  "id": "frang19",
+  "displayName": "FranG19",
+  "username": "FranG19",
+  "profileUrl": "https://lichess.org/@/FranG19",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"frang19\",\"username\":\"FranG19\",\"online\":false,\"perfs\":{\"puzzle\":{\"games\":1526,\"rating\":2168,\"rd\":62,\"prog\":0},\"blitz\":{\"games\":463,\"rating\":1701,\"rd\":47,\"prog\":33},\"crazyhouse\":{\"games\":7,\"rating\":1172,\"rd\":161,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1338,\"rd\":152,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":13,\"rating\":1609,\"rd\":134,\"prog\":39,\"prov\":true},\"classical\":{\"games\":44,\"rating\":1554,\"rd\":86,\"prog\":79},\"rapid\":{\"games\":256,\"rating\":1679,\"rd\":62,\"prog\":13},\"storm\":{\"runs\":7,\"score\":26}},\"createdAt\":1584661987348,\"profile\":{\"country\":\"VE\",\"location\":\"Cojedes\",\"bio\":\"ID FIDE 3986233 Soy un gran amante del ajedrez y Líder del equipo Entrenamiento Ajedrecístico https://lichess.org/team/entrenamiento-ajedrecistico\",\"firstName\":\"Sebastian Francisco\",\"lastName\":\"Escalona Oviedo\",\"links\":\"https://www.chess.com/member/sebgames20\"},\"seenAt\":1618533901185,\"playTime\":{\"total\":407028,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/FranG19\",\"nbFollowing\":65,\"nbFollowers\":43,\"completionRate\":90,\"count\":{\"all\":940,\"rated\":797,\"ai\":13,\"draw\":45,\"drawH\":45,\"loss\":425,\"lossH\":418,\"win\":470,\"winH\":464,\"bookmark\":10,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "frang19",
+    "username": "FranG19",
+    "online": false,
+    "perfs": {
+      "puzzle": {
+        "games": 1526,
+        "rating": 2168,
+        "rd": 62,
+        "prog": 0
+      },
+      "blitz": {
+        "games": 463,
+        "rating": 1701,
+        "rd": 47,
+        "prog": 33
+      },
+      "crazyhouse": {
+        "games": 7,
+        "rating": 1172,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 8,
+        "rating": 1338,
+        "rd": 152,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 13,
+        "rating": 1609,
+        "rd": 134,
+        "prog": 39,
+        "prov": true
+      },
+      "classical": {
+        "games": 44,
+        "rating": 1554,
+        "rd": 86,
+        "prog": 79
+      },
+      "rapid": {
+        "games": 256,
+        "rating": 1679,
+        "rd": 62,
+        "prog": 13
+      },
+      "storm": {
+        "runs": 7,
+        "score": 26
+      }
+    },
+    "createdAt": 1584661987348,
+    "profile": {
+      "country": "VE",
+      "location": "Cojedes",
+      "bio": "ID FIDE 3986233 Soy un gran amante del ajedrez y Líder del equipo Entrenamiento Ajedrecístico https://lichess.org/team/entrenamiento-ajedrecistico",
+      "firstName": "Sebastian Francisco",
+      "lastName": "Escalona Oviedo",
+      "links": "https://www.chess.com/member/sebgames20"
+    },
+    "seenAt": 1618533901185,
+    "playTime": {
+      "total": 407028,
+      "tv": 0
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/FranG19",
+    "nbFollowing": 65,
+    "nbFollowers": 43,
+    "completionRate": 90,
+    "count": {
+      "all": 940,
+      "rated": 797,
+      "ai": 13,
+      "draw": 45,
+      "drawH": 45,
+      "loss": 425,
+      "lossH": 418,
+      "win": 470,
+      "winH": 464,
+      "bookmark": 10,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
