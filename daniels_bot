@@ -1,0 +1,85 @@
+{
+  "id": "daniels_bot",
+  "displayName": "daniels_bot",
+  "username": "daniels_bot",
+  "profileUrl": "https://lichess.org/@/daniels_bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"daniels_bot\",\"username\":\"daniels_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2175,\"rd\":161,\"prog\":2,\"prov\":true},\"bullet\":{\"games\":63,\"rating\":2023,\"rd\":54,\"prog\":87},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2217,\"rd\":372,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":1262,\"rd\":132,\"prog\":325,\"prov\":true}},\"createdAt\":1618357940407,\"profile\":{\"country\":\"US\",\"firstName\":\"daniel\",\"lastName\":\"faria\"},\"seenAt\":1618590653375,\"playTime\":{\"total\":19911,\"tv\":1626},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/daniels_bot\",\"nbFollowing\":48,\"nbFollowers\":6,\"count\":{\"all\":127,\"rated\":99,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":57,\"lossH\":57,\"win\":64,\"winH\":64,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "daniels_bot",
+    "username": "daniels_bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 12,
+        "rating": 2175,
+        "rd": 161,
+        "prog": 2,
+        "prov": true
+      },
+      "bullet": {
+        "games": 63,
+        "rating": 2023,
+        "rd": 54,
+        "prog": 87
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 2217,
+        "rd": 372,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 20,
+        "rating": 1262,
+        "rd": 132,
+        "prog": 325,
+        "prov": true
+      }
+    },
+    "createdAt": 1618357940407,
+    "profile": {
+      "country": "US",
+      "firstName": "daniel",
+      "lastName": "faria"
+    },
+    "seenAt": 1618590653375,
+    "playTime": {
+      "total": 19911,
+      "tv": 1626
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/daniels_bot",
+    "nbFollowing": 48,
+    "nbFollowers": 6,
+    "count": {
+      "all": 127,
+      "rated": 99,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 57,
+      "lossH": 57,
+      "win": 64,
+      "winH": 64,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
