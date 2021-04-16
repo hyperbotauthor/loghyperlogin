@@ -1,0 +1,89 @@
+{
+  "id": "abhay-shukla",
+  "displayName": "Abhay-Shukla",
+  "username": "Abhay-Shukla",
+  "profileUrl": "https://lichess.org/@/Abhay-Shukla",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"abhay-shukla\",\"username\":\"Abhay-Shukla\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":808,\"rating\":1878,\"rd\":51,\"prog\":-2},\"puzzle\":{\"games\":1011,\"rating\":2130,\"rd\":70,\"prog\":0},\"bullet\":{\"games\":185,\"rating\":1706,\"rd\":56,\"prog\":-6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1717,\"rd\":173,\"prog\":0,\"prov\":true}},\"createdAt\":1586760433327,\"profile\":{\"country\":\"IN\",\"location\":\"Kanpur dehat\"},\"seenAt\":1618547553918,\"playTime\":{\"total\":255202,\"tv\":1143},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Abhay-Shukla\",\"nbFollowing\":49,\"nbFollowers\":20,\"completionRate\":83,\"count\":{\"all\":1073,\"rated\":1003,\"ai\":0,\"draw\":83,\"drawH\":83,\"loss\":469,\"lossH\":469,\"win\":521,\"winH\":521,\"bookmark\":0,\"playing\":0,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "abhay-shukla",
+    "username": "Abhay-Shukla",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 808,
+        "rating": 1878,
+        "rd": 51,
+        "prog": -2
+      },
+      "puzzle": {
+        "games": 1011,
+        "rating": 2130,
+        "rd": 70,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 185,
+        "rating": 1706,
+        "rd": 56,
+        "prog": -6
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 1717,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1586760433327,
+    "profile": {
+      "country": "IN",
+      "location": "Kanpur dehat"
+    },
+    "seenAt": 1618547553918,
+    "playTime": {
+      "total": 255202,
+      "tv": 1143
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/Abhay-Shukla",
+    "nbFollowing": 49,
+    "nbFollowers": 20,
+    "completionRate": 83,
+    "count": {
+      "all": 1073,
+      "rated": 1003,
+      "ai": 0,
+      "draw": 83,
+      "drawH": 83,
+      "loss": 469,
+      "lossH": 469,
+      "win": 521,
+      "winH": 521,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 2,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
