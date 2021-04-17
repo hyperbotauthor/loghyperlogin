@@ -4,7 +4,7 @@
   "username": "Iamkid_Chessbot",
   "profileUrl": "https://lichess.org/@/Iamkid_Chessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"iamkid_chessbot\",\"username\":\"Iamkid_Chessbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1416,\"rd\":393,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1900,\"rd\":302,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1833,\"rd\":352,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":1969,\"rd\":132,\"prog\":239,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1497,\"rd\":243,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":14,\"rating\":1676,\"rd\":165,\"prog\":-1,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2049,\"rd\":107,\"prog\":12},\"correspondence\":{\"games\":25,\"rating\":1939,\"rd\":208,\"prog\":99,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2041,\"rd\":195,\"prog\":0,\"prov\":true}},\"createdAt\":1611203873781,\"profile\":{\"country\":\"IN\",\"location\":\"BOT City\",\"bio\":\"developed by Easychess website my developer is @Iamkid his cousin also has made BOT Who is stronger than me @Chessn00bbot\\r\\nhttps://i.imgur.com/GARczCy.jpgv\\r\\nI dont understand  variants but I m currently being coding to play 3check still not good that  much.\\r\\nI can also talk on own!\",\"links\":\"Hi I am bot developed by @Iamkid\"},\"seenAt\":1617867280193,\"playTime\":{\"total\":16722,\"tv\":93},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Iamkid_Chessbot\",\"playing\":\"https://lichess.org/J6GcTmRd/black\",\"nbFollowing\":5,\"nbFollowers\":17,\"count\":{\"all\":199,\"rated\":111,\"ai\":13,\"draw\":10,\"drawH\":10,\"loss\":61,\"lossH\":56,\"win\":128,\"winH\":120,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"iamkid_chessbot\",\"username\":\"Iamkid_Chessbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1416,\"rd\":394,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1900,\"rd\":303,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1833,\"rd\":353,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":1969,\"rd\":133,\"prog\":239,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1497,\"rd\":244,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1522,\"rd\":134,\"prog\":-155,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2049,\"rd\":109,\"prog\":12},\"correspondence\":{\"games\":26,\"rating\":1893,\"rd\":187,\"prog\":48,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2041,\"rd\":196,\"prog\":0,\"prov\":true}},\"createdAt\":1611203873781,\"profile\":{\"country\":\"IN\",\"location\":\"BOT City\",\"bio\":\"developed by Easychess website my developer is @Iamkid his cousin also has made BOT Who is stronger than me @Chessn00bbot\\r\\nhttps://i.imgur.com/GARczCy.jpgv\\r\\nI dont understand  variants but I m currently being coding to play 3check still not good that  much.\\r\\nI can also talk on own!\",\"links\":\"Hi I am bot developed by @Iamkid\"},\"seenAt\":1618645638342,\"playTime\":{\"total\":17093,\"tv\":93},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Iamkid_Chessbot\",\"nbFollowing\":8,\"nbFollowers\":17,\"count\":{\"all\":206,\"rated\":118,\"ai\":13,\"draw\":10,\"drawH\":10,\"loss\":68,\"lossH\":63,\"win\":128,\"winH\":120,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "iamkid_chessbot",
     "username": "Iamkid_Chessbot",
@@ -13,56 +13,56 @@
       "antichess": {
         "games": 3,
         "rating": 1416,
-        "rd": 393,
+        "rd": 394,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 6,
         "rating": 1900,
-        "rd": 302,
+        "rd": 303,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 2,
         "rating": 1833,
-        "rd": 352,
+        "rd": 353,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 16,
         "rating": 1969,
-        "rd": 132,
+        "rd": 133,
         "prog": 239,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 6,
         "rating": 1497,
-        "rd": 243,
+        "rd": 244,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
-        "games": 14,
-        "rating": 1676,
-        "rd": 165,
-        "prog": -1,
+        "games": 19,
+        "rating": 1522,
+        "rd": 134,
+        "prog": -155,
         "prov": true
       },
       "bullet": {
         "games": 27,
         "rating": 2049,
-        "rd": 107,
+        "rd": 109,
         "prog": 12
       },
       "correspondence": {
-        "games": 25,
-        "rating": 1939,
-        "rd": 208,
-        "prog": 99,
+        "games": 26,
+        "rating": 1893,
+        "rd": 187,
+        "prog": 48,
         "prov": true
       },
       "classical": {
@@ -75,7 +75,7 @@
       "rapid": {
         "games": 5,
         "rating": 2041,
-        "rd": 195,
+        "rd": 196,
         "prog": 0,
         "prov": true
       }
@@ -87,29 +87,28 @@
       "bio": "developed by Easychess website my developer is @Iamkid his cousin also has made BOT Who is stronger than me @Chessn00bbot\r\nhttps://i.imgur.com/GARczCy.jpgv\r\nI dont understand  variants but I m currently being coding to play 3check still not good that  much.\r\nI can also talk on own!",
       "links": "Hi I am bot developed by @Iamkid"
     },
-    "seenAt": 1617867280193,
+    "seenAt": 1618645638342,
     "playTime": {
-      "total": 16722,
+      "total": 17093,
       "tv": 93
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Iamkid_Chessbot",
-    "playing": "https://lichess.org/J6GcTmRd/black",
-    "nbFollowing": 5,
+    "nbFollowing": 8,
     "nbFollowers": 17,
     "count": {
-      "all": 199,
-      "rated": 111,
+      "all": 206,
+      "rated": 118,
       "ai": 13,
       "draw": 10,
       "drawH": 10,
-      "loss": 61,
-      "lossH": 56,
+      "loss": 68,
+      "lossH": 63,
       "win": 128,
       "winH": 120,
       "bookmark": 1,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
