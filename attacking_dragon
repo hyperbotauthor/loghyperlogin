@@ -4,23 +4,23 @@
   "username": "Attacking_Dragon",
   "profileUrl": "https://lichess.org/@/Attacking_Dragon",
   "provider": "lichess",
-  "_raw": "{\"id\":\"attacking_dragon\",\"username\":\"Attacking_Dragon\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614856462672,\"profile\":{\"country\":\"_pirate\",\"fideRating\":3000},\"seenAt\":1618644259155,\"playTime\":{\"total\":459,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Attacking_Dragon\",\"playing\":\"https://lichess.org/tU26htGm/black\",\"nbFollowing\":133,\"nbFollowers\":103,\"count\":{\"all\":6,\"rated\":0,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"attacking_dragon\",\"username\":\"Attacking_Dragon\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2272,\"rd\":190,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1745,\"rd\":279,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614856462672,\"profile\":{\"country\":\"_rainbow\",\"location\":\"BOT Land\",\"bio\":\"Hi! \\r\\nMy BOT Can Play With You . If You Can Win This BOT Please Chalenge ;) \\r\\nbut If Can chalenge Slow Game I Wait For You ✌\\uD83C\\uDF08\\uD83C\\uDF08\\r\\nBOT Creator  : @DrAgOn8787\"},\"seenAt\":1618662303937,\"playTime\":{\"total\":4147,\"tv\":1038},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Attacking_Dragon\",\"playing\":\"https://lichess.org/xVvIcWUw/white\",\"nbFollowing\":135,\"nbFollowers\":103,\"count\":{\"all\":26,\"rated\":11,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":7,\"lossH\":7,\"win\":17,\"winH\":13,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "attacking_dragon",
     "username": "Attacking_Dragon",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2272,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 6,
+        "rating": 1745,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
@@ -48,32 +48,33 @@
     },
     "createdAt": 1614856462672,
     "profile": {
-      "country": "_pirate",
-      "fideRating": 3000
+      "country": "_rainbow",
+      "location": "BOT Land",
+      "bio": "Hi! \r\nMy BOT Can Play With You . If You Can Win This BOT Please Chalenge ;) \r\nbut If Can chalenge Slow Game I Wait For You ✌🌈🌈\r\nBOT Creator  : @DrAgOn8787"
     },
-    "seenAt": 1618644259155,
+    "seenAt": 1618662303937,
     "playTime": {
-      "total": 459,
-      "tv": 0
+      "total": 4147,
+      "tv": 1038
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Attacking_Dragon",
-    "playing": "https://lichess.org/tU26htGm/black",
-    "nbFollowing": 133,
+    "playing": "https://lichess.org/xVvIcWUw/white",
+    "nbFollowing": 135,
     "nbFollowers": 103,
     "count": {
-      "all": 6,
-      "rated": 0,
+      "all": 26,
+      "rated": 11,
       "ai": 4,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 5,
-      "winH": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 7,
+      "lossH": 7,
+      "win": 17,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
