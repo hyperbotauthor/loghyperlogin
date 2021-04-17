@@ -4,7 +4,7 @@
   "username": "ST0CKFISH-BOT",
   "profileUrl": "https://lichess.org/@/ST0CKFISH-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"st0ckfish-bot\",\"username\":\"ST0CKFISH-BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":1777,\"rd\":141,\"prog\":-22,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1371,\"rd\":368,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1249,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2536,\"rd\":173,\"prog\":34,\"prov\":true},\"correspondence\":{\"games\":15,\"rating\":1740,\"rd\":134,\"prog\":-38,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1684,\"rd\":321,\"prog\":0,\"prov\":true}},\"createdAt\":1615625323587,\"profile\":{\"country\":\"IT\",\"location\":\"Italy\",\"bio\":\"I use stockfish I am preety sure if you are not an engien user you cant probarly beat me if you want try me out :D\",\"firstName\":\"Stockfish\",\"lastName\":\"BOT\"},\"seenAt\":1618646645445,\"playTime\":{\"total\":3689,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ST0CKFISH-BOT\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":58,\"rated\":57,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":29,\"lossH\":29,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"st0ckfish-bot\",\"username\":\"ST0CKFISH-BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":1777,\"rd\":141,\"prog\":-22,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1371,\"rd\":368,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1249,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":2361,\"rd\":154,\"prog\":-141,\"prov\":true},\"correspondence\":{\"games\":15,\"rating\":1740,\"rd\":134,\"prog\":-38,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1684,\"rd\":321,\"prog\":0,\"prov\":true}},\"createdAt\":1615625323587,\"profile\":{\"country\":\"IT\",\"location\":\"Italy\",\"bio\":\"I use stockfish I am preety sure if you are not an engien user you cant probarly beat me if you want try me out :D\",\"firstName\":\"Stockfish\",\"lastName\":\"BOT\"},\"seenAt\":1618647298774,\"playTime\":{\"total\":3743,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ST0CKFISH-BOT\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":60,\"rated\":59,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":31,\"lossH\":31,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "st0ckfish-bot",
     "username": "ST0CKFISH-BOT",
@@ -39,10 +39,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 16,
-        "rating": 2536,
-        "rd": 173,
-        "prog": 34,
+        "games": 18,
+        "rating": 2361,
+        "rd": 154,
+        "prog": -141,
         "prov": true
       },
       "correspondence": {
@@ -75,9 +75,9 @@
       "firstName": "Stockfish",
       "lastName": "BOT"
     },
-    "seenAt": 1618646645445,
+    "seenAt": 1618647298774,
     "playTime": {
-      "total": 3689,
+      "total": 3743,
       "tv": 0
     },
     "language": "en-US",
@@ -86,13 +86,13 @@
     "nbFollowing": 3,
     "nbFollowers": 0,
     "count": {
-      "all": 58,
-      "rated": 57,
+      "all": 60,
+      "rated": 59,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 29,
-      "lossH": 29,
+      "loss": 31,
+      "lossH": 31,
       "win": 27,
       "winH": 27,
       "bookmark": 0,
