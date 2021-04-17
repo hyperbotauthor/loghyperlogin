@@ -4,7 +4,7 @@
   "username": "M-E-G-A_M",
   "profileUrl": "https://lichess.org/@/M-E-G-A_M",
   "provider": "lichess",
-  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1301,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":30,\"rating\":2111,\"rd\":80,\"prog\":59},\"antichess\":{\"games\":22,\"rating\":2081,\"rd\":93,\"prog\":140},\"horde\":{\"games\":5,\"rating\":1843,\"rd\":183,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":12,\"rating\":1908,\"rd\":168,\"prog\":-53,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1455,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":1967,\"rd\":65,\"prog\":-116},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2182,\"rd\":254,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2175,\"rd\":156,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"Błonie\",\"bio\":\"I am created by @MATIPesO. I exist only a few days. You can challenge me in ALL standard chess and Chess960, Antichess, Atomic, Horde and KingOfTheHill. My favorite time is blitz and favorite variant antichess. I can play many games in the same time. The most I play blitz and I prefer play with bots but I can also play with humans. Follow me and my coder ( @MATIPesO). BOTs join to my team: https://lichess.org/team/bots-stars-2 .\",\"firstName\":\"MEGA\",\"lastName\":\"BOT\"},\"seenAt\":1618591775710,\"playTime\":{\"total\":62767,\"tv\":1624},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"nbFollowing\":56,\"nbFollowers\":10,\"count\":{\"all\":164,\"rated\":139,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":58,\"lossH\":58,\"win\":102,\"winH\":101,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"m-e-g-a_m\",\"username\":\"M-E-G-A_M\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1301,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":30,\"rating\":2111,\"rd\":80,\"prog\":59},\"antichess\":{\"games\":25,\"rating\":2041,\"rd\":87,\"prog\":83},\"horde\":{\"games\":6,\"rating\":1866,\"rd\":173,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":12,\"rating\":1908,\"rd\":168,\"prog\":-53,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1455,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":1967,\"rd\":65,\"prog\":-116},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2182,\"rd\":254,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2175,\"rd\":156,\"prog\":0,\"prov\":true}},\"createdAt\":1618403432890,\"profile\":{\"country\":\"PL\",\"location\":\"Błonie\",\"bio\":\"I am created by @MATIPesO. I exist only a few days. You can challenge me in ALL standard chess and Chess960, Antichess, Atomic, Horde and KingOfTheHill. My favorite time is blitz and favorite variant antichess. I can play many games in the same time. The most I play blitz and I prefer play with bots but I can also play with humans. Follow me and my coder ( @MATIPesO). BOTs join to my team: https://lichess.org/team/bots-stars-2 .\",\"firstName\":\"MEGA\",\"lastName\":\"BOT\"},\"seenAt\":1618646302790,\"playTime\":{\"total\":63261,\"tv\":1624},\"language\":\"pl-PL\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/M-E-G-A_M\",\"nbFollowing\":56,\"nbFollowers\":11,\"count\":{\"all\":171,\"rated\":144,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":61,\"lossH\":61,\"win\":106,\"winH\":105,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "m-e-g-a_m",
     "username": "M-E-G-A_M",
@@ -24,15 +24,15 @@
         "prog": 59
       },
       "antichess": {
-        "games": 22,
-        "rating": 2081,
-        "rd": 93,
-        "prog": 140
+        "games": 25,
+        "rating": 2041,
+        "rd": 87,
+        "prog": 83
       },
       "horde": {
-        "games": 5,
-        "rating": 1843,
-        "rd": 183,
+        "games": 6,
+        "rating": 1866,
+        "rd": 173,
         "prog": 0,
         "prov": true
       },
@@ -86,26 +86,26 @@
       "firstName": "MEGA",
       "lastName": "BOT"
     },
-    "seenAt": 1618591775710,
+    "seenAt": 1618646302790,
     "playTime": {
-      "total": 62767,
+      "total": 63261,
       "tv": 1624
     },
     "language": "pl-PL",
     "title": "BOT",
     "url": "https://lichess.org/@/M-E-G-A_M",
     "nbFollowing": 56,
-    "nbFollowers": 10,
+    "nbFollowers": 11,
     "count": {
-      "all": 164,
-      "rated": 139,
+      "all": 171,
+      "rated": 144,
       "ai": 1,
       "draw": 4,
       "drawH": 4,
-      "loss": 58,
-      "lossH": 58,
-      "win": 102,
-      "winH": 101,
+      "loss": 61,
+      "lossH": 61,
+      "win": 106,
+      "winH": 105,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
