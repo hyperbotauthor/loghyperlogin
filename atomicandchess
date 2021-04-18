@@ -4,7 +4,7 @@
   "username": "Atomicandchess",
   "profileUrl": "https://lichess.org/@/Atomicandchess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":436,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":403,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2063,\"rd\":121,\"prog\":-99,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1374,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1700,\"rd\":117,\"prog\":-46,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1253,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":29,\"rating\":1962,\"rd\":108,\"prog\":-312}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\\r\\n\\r\\nBot currupted\\r\\nplaying randomly\",\"links\":\"Jeez\"},\"seenAt\":1618643559511,\"playTime\":{\"total\":9799,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"nbFollowing\":5,\"nbFollowers\":6,\"count\":{\"all\":94,\"rated\":69,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":45,\"lossH\":45,\"win\":47,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"atomicandchess\",\"username\":\"Atomicandchess\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":436,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1603,\"rd\":403,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":17,\"rating\":2063,\"rd\":121,\"prog\":-99,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1374,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1562,\"rd\":98,\"prog\":-184},\"correspondence\":{\"games\":4,\"rating\":1253,\"rd\":255,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":29,\"rating\":1962,\"rd\":108,\"prog\":-312}},\"createdAt\":1611288164316,\"profile\":{\"country\":\"AQ\",\"bio\":\"https://i.imgur.com/cgV9QUC.jpg\\r\\nHi I use stockfish engine\\r\\n\\r\\nBot currupted\\r\\nplaying randomly\",\"links\":\"Jeez\"},\"seenAt\":1618731974222,\"playTime\":{\"total\":10021,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atomicandchess\",\"playing\":\"https://lichess.org/AboSSkHP/white\",\"nbFollowing\":5,\"nbFollowers\":6,\"count\":{\"all\":100,\"rated\":74,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":51,\"lossH\":51,\"win\":47,\"winH\":45,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "atomicandchess",
     "username": "Atomicandchess",
@@ -39,11 +39,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 14,
-        "rating": 1700,
-        "rd": 117,
-        "prog": -46,
-        "prov": true
+        "games": 19,
+        "rating": 1562,
+        "rd": 98,
+        "prog": -184
       },
       "correspondence": {
         "games": 4,
@@ -72,28 +71,29 @@
       "bio": "https://i.imgur.com/cgV9QUC.jpg\r\nHi I use stockfish engine\r\n\r\nBot currupted\r\nplaying randomly",
       "links": "Jeez"
     },
-    "seenAt": 1618643559511,
+    "seenAt": 1618731974222,
     "playTime": {
-      "total": 9799,
+      "total": 10021,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Atomicandchess",
+    "playing": "https://lichess.org/AboSSkHP/white",
     "nbFollowing": 5,
     "nbFollowers": 6,
     "count": {
-      "all": 94,
-      "rated": 69,
+      "all": 100,
+      "rated": 74,
       "ai": 2,
       "draw": 2,
       "drawH": 2,
-      "loss": 45,
-      "lossH": 45,
+      "loss": 51,
+      "lossH": 51,
       "win": 47,
       "winH": 45,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
