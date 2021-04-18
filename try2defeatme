@@ -1,0 +1,85 @@
+{
+  "id": "try2defeatme",
+  "displayName": "try2defeatme",
+  "username": "try2defeatme",
+  "profileUrl": "https://lichess.org/@/try2defeatme",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"try2defeatme\",\"username\":\"try2defeatme\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1762,\"rd\":336,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":77,\"rating\":2443,\"rd\":72,\"prog\":39},\"bullet\":{\"games\":121,\"rating\":2115,\"rd\":49,\"prog\":6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":30,\"rating\":2400,\"rd\":116,\"prog\":-246,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2457,\"rd\":97,\"prog\":198}},\"createdAt\":1616138016628,\"seenAt\":1618761318508,\"playTime\":{\"total\":114939,\"tv\":21511},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/try2defeatme\",\"nbFollowing\":3,\"nbFollowers\":17,\"count\":{\"all\":453,\"rated\":274,\"ai\":24,\"draw\":29,\"drawH\":27,\"loss\":106,\"lossH\":99,\"win\":318,\"winH\":303,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "try2defeatme",
+    "username": "try2defeatme",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1762,
+        "rd": 336,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 77,
+        "rating": 2443,
+        "rd": 72,
+        "prog": 39
+      },
+      "bullet": {
+        "games": 121,
+        "rating": 2115,
+        "rd": 49,
+        "prog": 6
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 30,
+        "rating": 2400,
+        "rd": 116,
+        "prog": -246,
+        "prov": true
+      },
+      "rapid": {
+        "games": 23,
+        "rating": 2457,
+        "rd": 97,
+        "prog": 198
+      }
+    },
+    "createdAt": 1616138016628,
+    "seenAt": 1618761318508,
+    "playTime": {
+      "total": 114939,
+      "tv": 21511
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/try2defeatme",
+    "nbFollowing": 3,
+    "nbFollowers": 17,
+    "count": {
+      "all": 453,
+      "rated": 274,
+      "ai": 24,
+      "draw": 29,
+      "drawH": 27,
+      "loss": 106,
+      "lossH": 99,
+      "win": 318,
+      "winH": 303,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
