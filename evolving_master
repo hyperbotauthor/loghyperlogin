@@ -4,30 +4,28 @@
   "username": "Evolving_Master",
   "profileUrl": "https://lichess.org/@/Evolving_Master",
   "provider": "lichess",
-  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2546,\"rd\":177,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1927,\"rd\":122,\"prog\":-6,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1387,\"rd\":313,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"IN\",\"location\":\"Gujarat\",\"bio\":\"Hello!\\r\\nMy Team- https://lichess.org/team/elite-chess-champions-team, Please Join.\\r\\nMy Actual Account- @Beginner_IM.\"},\"seenAt\":1613913182508,\"playTime\":{\"total\":6443,\"tv\":255},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/pFx7o3bc/black\",\"nbFollowing\":2,\"nbFollowers\":10,\"count\":{\"all\":35,\"rated\":26,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":10,\"lossH\":10,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":56,\"rating\":2347,\"rd\":98,\"prog\":-31},\"bullet\":{\"games\":94,\"rating\":2245,\"rd\":62,\"prog\":36},\"correspondence\":{\"games\":3,\"rating\":1758,\"rd\":290,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2018,\"rd\":194,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"_pirate\",\"fideRating\":2000},\"seenAt\":1618735782005,\"playTime\":{\"total\":34439,\"tv\":2981},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/LrUssj6c/black\",\"nbFollowing\":3,\"nbFollowers\":21,\"count\":{\"all\":217,\"rated\":163,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":38,\"lossH\":38,\"win\":170,\"winH\":170,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "evolving_master",
     "username": "Evolving_Master",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2546,
-        "rd": 177,
-        "prog": 0,
-        "prov": true
+        "games": 56,
+        "rating": 2347,
+        "rd": 98,
+        "prog": -31
       },
       "bullet": {
-        "games": 16,
-        "rating": 1927,
-        "rd": 122,
-        "prog": -6,
-        "prov": true
+        "games": 94,
+        "rating": 2245,
+        "rd": 62,
+        "prog": 36
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1758,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
@@ -39,40 +37,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1387,
-        "rd": 313,
+        "games": 6,
+        "rating": 2018,
+        "rd": 194,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613798561187,
     "profile": {
-      "country": "IN",
-      "location": "Gujarat",
-      "bio": "Hello!\r\nMy Team- https://lichess.org/team/elite-chess-champions-team, Please Join.\r\nMy Actual Account- @Beginner_IM."
+      "country": "_pirate",
+      "fideRating": 2000
     },
-    "seenAt": 1613913182508,
+    "seenAt": 1618735782005,
     "playTime": {
-      "total": 6443,
-      "tv": 255
+      "total": 34439,
+      "tv": 2981
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Evolving_Master",
-    "playing": "https://lichess.org/pFx7o3bc/black",
-    "nbFollowing": 2,
-    "nbFollowers": 10,
+    "playing": "https://lichess.org/LrUssj6c/black",
+    "nbFollowing": 3,
+    "nbFollowers": 21,
     "count": {
-      "all": 35,
-      "rated": 26,
+      "all": 217,
+      "rated": 163,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 10,
-      "lossH": 10,
-      "win": 24,
-      "winH": 24,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 38,
+      "lossH": 38,
+      "win": 170,
+      "winH": 170,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
