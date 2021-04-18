@@ -4,7 +4,7 @@
   "username": "CeylonCyclone",
   "profileUrl": "https://lichess.org/@/CeylonCyclone",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ceyloncyclone\",\"username\":\"CeylonCyclone\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618673888763,\"seenAt\":1618673914980,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCyclone\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ceyloncyclone\",\"username\":\"CeylonCyclone\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618673888763,\"profile\":{\"bio\":\"This bot is the latest version of @CeylonChess30 , @CeylonGrandmaster & @CeylonCentauri which had to be closed because of technical errors. This bot has all the stockfish versions available.\"},\"seenAt\":1618729999168,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCyclone\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ceyloncyclone",
     "username": "CeylonCyclone",
@@ -47,7 +47,10 @@
       }
     },
     "createdAt": 1618673888763,
-    "seenAt": 1618673914980,
+    "profile": {
+      "bio": "This bot is the latest version of @CeylonChess30 , @CeylonGrandmaster & @CeylonCentauri which had to be closed because of technical errors. This bot has all the stockfish versions available."
+    },
+    "seenAt": 1618729999168,
     "playTime": {
       "total": 0,
       "tv": 0
