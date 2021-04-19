@@ -4,7 +4,7 @@
   "username": "Bot2000",
   "profileUrl": "https://lichess.org/@/Bot2000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot2000\",\"username\":\"Bot2000\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":983,\"rd\":345,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":1577,\"rd\":179,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1673,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1635,\"rd\":86,\"prog\":51},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2464,\"rd\":158,\"prog\":47,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1414,\"rd\":242,\"prog\":0,\"prov\":true}},\"createdAt\":1615313803910,\"profile\":{\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n0a69c02690a511ebadaa421adcfcb612\",\"links\":\"0a69c02690a511ebadaa421adcfcb612\"},\"seenAt\":1618497903450,\"playTime\":{\"total\":44062,\"tv\":825},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot2000\",\"playing\":\"https://lichess.org/Gp1UzQPL/black\",\"nbFollowing\":0,\"nbFollowers\":6,\"count\":{\"all\":136,\"rated\":60,\"ai\":9,\"draw\":2,\"drawH\":2,\"loss\":40,\"lossH\":37,\"win\":94,\"winH\":88,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot2000\",\"username\":\"Bot2000\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":983,\"rd\":345,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":1577,\"rd\":180,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1673,\"rd\":301,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":33,\"rating\":1632,\"rd\":86,\"prog\":30},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":399,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2464,\"rd\":159,\"prog\":47,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1414,\"rd\":242,\"prog\":0,\"prov\":true}},\"createdAt\":1615313803910,\"profile\":{\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n0a69c02690a511ebadaa421adcfcb612\",\"links\":\"0a69c02690a511ebadaa421adcfcb612\"},\"seenAt\":1618844914617,\"playTime\":{\"total\":46131,\"tv\":825},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot2000\",\"playing\":\"https://lichess.org/1t7xU3Fc/white\",\"nbFollowing\":0,\"nbFollowers\":6,\"count\":{\"all\":139,\"rated\":61,\"ai\":9,\"draw\":3,\"drawH\":3,\"loss\":42,\"lossH\":39,\"win\":94,\"winH\":88,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot2000",
     "username": "Bot2000",
@@ -20,34 +20,34 @@
       "blitz": {
         "games": 5,
         "rating": 1577,
-        "rd": 179,
+        "rd": 180,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 3,
         "rating": 1673,
-        "rd": 300,
+        "rd": 301,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 32,
-        "rating": 1635,
+        "games": 33,
+        "rating": 1632,
         "rd": 86,
-        "prog": 51
+        "prog": 30
       },
       "correspondence": {
         "games": 1,
         "rating": 1741,
-        "rd": 398,
+        "rd": 399,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 13,
         "rating": 2464,
-        "rd": 158,
+        "rd": 159,
         "prog": 47,
         "prov": true
       },
@@ -64,25 +64,25 @@
       "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\r\n0a69c02690a511ebadaa421adcfcb612",
       "links": "0a69c02690a511ebadaa421adcfcb612"
     },
-    "seenAt": 1618497903450,
+    "seenAt": 1618844914617,
     "playTime": {
-      "total": 44062,
+      "total": 46131,
       "tv": 825
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Bot2000",
-    "playing": "https://lichess.org/Gp1UzQPL/black",
+    "playing": "https://lichess.org/1t7xU3Fc/white",
     "nbFollowing": 0,
     "nbFollowers": 6,
     "count": {
-      "all": 136,
-      "rated": 60,
+      "all": 139,
+      "rated": 61,
       "ai": 9,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 40,
-      "lossH": 37,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 42,
+      "lossH": 39,
       "win": 94,
       "winH": 88,
       "bookmark": 0,
