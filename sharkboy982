@@ -4,11 +4,11 @@
   "username": "sharkboy982",
   "profileUrl": "https://lichess.org/@/sharkboy982",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sharkboy982\",\"username\":\"sharkboy982\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":24,\"rating\":1134,\"rd\":105,\"prog\":-351},\"atomic\":{\"games\":302,\"rating\":1440,\"rd\":66,\"prog\":27},\"racingKings\":{\"games\":1,\"rating\":1219,\"rd\":306,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":65,\"rating\":1089,\"rd\":66,\"prog\":-9},\"blitz\":{\"games\":181,\"rating\":1178,\"rd\":45,\"prog\":18},\"kingOfTheHill\":{\"games\":3,\"rating\":1426,\"rd\":330,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":986,\"rd\":138,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1073,\"rd\":360,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":1073,\"rd\":48,\"prog\":27},\"correspondence\":{\"games\":9,\"rating\":1431,\"rd\":172,\"prog\":0,\"prov\":true},\"horde\":{\"games\":20,\"rating\":1507,\"rd\":134,\"prog\":-48,\"prov\":true},\"puzzle\":{\"games\":1327,\"rating\":1806,\"rd\":68,\"prog\":0},\"classical\":{\"games\":72,\"rating\":1310,\"rd\":64,\"prog\":-26},\"rapid\":{\"games\":145,\"rating\":1274,\"rd\":45,\"prog\":31},\"storm\":{\"runs\":9,\"score\":18},\"streak\":{\"runs\":2,\"score\":8}},\"createdAt\":1600358085807,\"profile\":{\"country\":\"KR\",\"location\":\"soeul\",\"bio\":\"my longest game is this https://lichess.org/aQuTjtN6LgTX i love chess atomic i am from south korea im supposed to be gm at chess.com\",\"firstName\":\"Aaron\",\"lastName\":\"lee\",\"fideRating\":2000,\"uscfRating\":2666,\"ecfRating\":2999},\"seenAt\":1618845189237,\"playTime\":{\"total\":418369,\"tv\":1151},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/sharkboy982\",\"playing\":\"https://lichess.org/aLhYYe0b/black\",\"nbFollowing\":27,\"nbFollowers\":36,\"completionRate\":90,\"count\":{\"all\":2418,\"rated\":1015,\"ai\":281,\"draw\":82,\"drawH\":74,\"loss\":958,\"lossH\":892,\"win\":1378,\"winH\":1171,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sharkboy982\",\"username\":\"sharkboy982\",\"online\":false,\"perfs\":{\"antichess\":{\"games\":24,\"rating\":1134,\"rd\":105,\"prog\":-351},\"atomic\":{\"games\":302,\"rating\":1440,\"rd\":66,\"prog\":27},\"racingKings\":{\"games\":1,\"rating\":1219,\"rd\":306,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":65,\"rating\":1089,\"rd\":66,\"prog\":-9},\"blitz\":{\"games\":181,\"rating\":1178,\"rd\":45,\"prog\":18},\"kingOfTheHill\":{\"games\":3,\"rating\":1426,\"rd\":330,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":986,\"rd\":138,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1073,\"rd\":360,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":1073,\"rd\":48,\"prog\":27},\"correspondence\":{\"games\":9,\"rating\":1431,\"rd\":172,\"prog\":0,\"prov\":true},\"horde\":{\"games\":20,\"rating\":1507,\"rd\":134,\"prog\":-48,\"prov\":true},\"puzzle\":{\"games\":1327,\"rating\":1806,\"rd\":68,\"prog\":0},\"classical\":{\"games\":72,\"rating\":1310,\"rd\":64,\"prog\":-26},\"rapid\":{\"games\":145,\"rating\":1274,\"rd\":45,\"prog\":31},\"storm\":{\"runs\":9,\"score\":18},\"streak\":{\"runs\":2,\"score\":8}},\"createdAt\":1600358085807,\"profile\":{\"country\":\"KR\",\"location\":\"soeul\",\"bio\":\"my longest game is this https://lichess.org/aQuTjtN6LgTX i love chess atomic i am from south korea im supposed to be gm at chess.com\",\"firstName\":\"Aaron\",\"lastName\":\"lee\",\"fideRating\":2000,\"uscfRating\":2666,\"ecfRating\":2999},\"seenAt\":1618845915543,\"playTime\":{\"total\":418369,\"tv\":1151},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/sharkboy982\",\"playing\":\"https://lichess.org/aLhYYe0b/black\",\"nbFollowing\":27,\"nbFollowers\":36,\"completionRate\":90,\"count\":{\"all\":2418,\"rated\":1015,\"ai\":281,\"draw\":82,\"drawH\":74,\"loss\":958,\"lossH\":892,\"win\":1378,\"winH\":1171,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sharkboy982",
     "username": "sharkboy982",
-    "online": true,
+    "online": false,
     "perfs": {
       "antichess": {
         "games": 24,
@@ -120,7 +120,7 @@
       "uscfRating": 2666,
       "ecfRating": 2999
     },
-    "seenAt": 1618845189237,
+    "seenAt": 1618845915543,
     "playTime": {
       "total": 418369,
       "tv": 1151
