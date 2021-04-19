@@ -4,7 +4,7 @@
   "username": "FAST_DRAGON",
   "profileUrl": "https://lichess.org/@/FAST_DRAGON",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fast_dragon\",\"username\":\"FAST_DRAGON\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":48,\"rating\":2345,\"rd\":153,\"prog\":-53,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":2448,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":101,\"rating\":2204,\"rd\":88,\"prog\":12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2210,\"rd\":372,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1744,\"rd\":289,\"prog\":0,\"prov\":true}},\"createdAt\":1614182724720,\"profile\":{\"country\":\"_rainbow\",\"location\":\"(。_。)\",\"bio\":\"BOT creator: @DrAgOn8787\\r\\nChallenge Me to play with and get fun (●'◡'●)\\r\\nhttps://i.imgur.com/g2Dx5KI.jpg\\r\\nhttps://i.imgur.com/dLVHAFh.jpg\",\"firstName\":\"Follow\",\"lastName\":\"Me\"},\"seenAt\":1618486794122,\"playTime\":{\"total\":20606,\"tv\":681},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FAST_DRAGON\",\"nbFollowing\":150,\"nbFollowers\":145,\"count\":{\"all\":213,\"rated\":166,\"ai\":7,\"draw\":8,\"drawH\":8,\"loss\":22,\"lossH\":21,\"win\":183,\"winH\":177,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fast_dragon\",\"username\":\"FAST_DRAGON\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":48,\"rating\":2345,\"rd\":154,\"prog\":-53,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":2448,\"rd\":198,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":119,\"rating\":2232,\"rd\":81,\"prog\":13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1961,\"rd\":261,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2050,\"rd\":238,\"prog\":0,\"prov\":true}},\"createdAt\":1614182724720,\"profile\":{\"country\":\"_rainbow\",\"location\":\"(。_。)\",\"bio\":\"BOT creator: @DrAgOn8787\\r\\nChallenge Me to play with and get fun (●'◡'●)\\r\\nhttps://i.imgur.com/g2Dx5KI.jpg\\r\\nhttps://i.imgur.com/dLVHAFh.jpg\",\"firstName\":\"Follow\",\"lastName\":\"Me\"},\"seenAt\":1618807653998,\"playTime\":{\"total\":32857,\"tv\":994},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/FAST_DRAGON\",\"playing\":\"https://lichess.org/YYze40t7/white\",\"nbFollowing\":153,\"nbFollowers\":147,\"count\":{\"all\":258,\"rated\":187,\"ai\":12,\"draw\":10,\"drawH\":10,\"loss\":31,\"lossH\":29,\"win\":217,\"winH\":207,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fast_dragon",
     "username": "FAST_DRAGON",
@@ -13,22 +13,22 @@
       "blitz": {
         "games": 48,
         "rating": 2345,
-        "rd": 153,
+        "rd": 154,
         "prog": -53,
         "prov": true
       },
       "atomic": {
         "games": 10,
         "rating": 2448,
-        "rd": 197,
+        "rd": 198,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 101,
-        "rating": 2204,
-        "rd": 88,
-        "prog": 12
+        "games": 119,
+        "rating": 2232,
+        "rd": 81,
+        "prog": 13
       },
       "correspondence": {
         "games": 0,
@@ -38,16 +38,16 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 2210,
-        "rd": 372,
+        "games": 2,
+        "rating": 1961,
+        "rd": 261,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1744,
-        "rd": 289,
+        "games": 3,
+        "rating": 2050,
+        "rd": 238,
         "prog": 0,
         "prov": true
       }
@@ -60,28 +60,29 @@
       "firstName": "Follow",
       "lastName": "Me"
     },
-    "seenAt": 1618486794122,
+    "seenAt": 1618807653998,
     "playTime": {
-      "total": 20606,
-      "tv": 681
+      "total": 32857,
+      "tv": 994
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/FAST_DRAGON",
-    "nbFollowing": 150,
-    "nbFollowers": 145,
+    "playing": "https://lichess.org/YYze40t7/white",
+    "nbFollowing": 153,
+    "nbFollowers": 147,
     "count": {
-      "all": 213,
-      "rated": 166,
-      "ai": 7,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 22,
-      "lossH": 21,
-      "win": 183,
-      "winH": 177,
+      "all": 258,
+      "rated": 187,
+      "ai": 12,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 31,
+      "lossH": 29,
+      "win": 217,
+      "winH": 207,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
