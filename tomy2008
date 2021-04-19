@@ -1,0 +1,143 @@
+{
+  "id": "tomy2008",
+  "displayName": "Tomy2008",
+  "username": "Tomy2008",
+  "profileUrl": "https://lichess.org/@/Tomy2008",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"tomy2008\",\"username\":\"Tomy2008\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":12,\"rating\":1366,\"rd\":144,\"prog\":33,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1706,\"rd\":234,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":1856,\"rd\":223,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":3,\"rating\":1754,\"rd\":258,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":153,\"rating\":1170,\"rd\":65,\"prog\":-10},\"crazyhouse\":{\"games\":2,\"rating\":1629,\"rd\":262,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1264,\"rd\":136,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1369,\"rd\":212,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":537,\"rating\":1800,\"rd\":98,\"prog\":0},\"classical\":{\"games\":6,\"rating\":1608,\"rd\":186,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":61,\"rating\":1255,\"rd\":68,\"prog\":34},\"storm\":{\"runs\":13,\"score\":20},\"racer\":{\"runs\":2,\"score\":11},\"streak\":{\"runs\":1,\"score\":8}},\"createdAt\":1550613031732,\"profile\":{\"country\":\"AR\",\"location\":\"Córdoba\"},\"seenAt\":1618801733985,\"playTime\":{\"total\":207313,\"tv\":4350},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/Tomy2008\",\"nbFollowing\":25,\"nbFollowers\":8,\"completionRate\":97,\"count\":{\"all\":557,\"rated\":263,\"ai\":45,\"draw\":63,\"drawH\":53,\"loss\":313,\"lossH\":296,\"win\":181,\"winH\":163,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "tomy2008",
+    "username": "Tomy2008",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 12,
+        "rating": 1366,
+        "rd": 144,
+        "prog": 33,
+        "prov": true
+      },
+      "atomic": {
+        "games": 4,
+        "rating": 1706,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 1856,
+        "rd": 223,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 3,
+        "rating": 1754,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 153,
+        "rating": 1170,
+        "rd": 65,
+        "prog": -10
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 1629,
+        "rd": 262,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 1264,
+        "rd": 136,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 6,
+        "rating": 1369,
+        "rd": 212,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 537,
+        "rating": 1800,
+        "rd": 98,
+        "prog": 0
+      },
+      "classical": {
+        "games": 6,
+        "rating": 1608,
+        "rd": 186,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 61,
+        "rating": 1255,
+        "rd": 68,
+        "prog": 34
+      },
+      "storm": {
+        "runs": 13,
+        "score": 20
+      },
+      "racer": {
+        "runs": 2,
+        "score": 11
+      },
+      "streak": {
+        "runs": 1,
+        "score": 8
+      }
+    },
+    "createdAt": 1550613031732,
+    "profile": {
+      "country": "AR",
+      "location": "Córdoba"
+    },
+    "seenAt": 1618801733985,
+    "playTime": {
+      "total": 207313,
+      "tv": 4350
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/Tomy2008",
+    "nbFollowing": 25,
+    "nbFollowers": 8,
+    "completionRate": 97,
+    "count": {
+      "all": 557,
+      "rated": 263,
+      "ai": 45,
+      "draw": 63,
+      "drawH": 53,
+      "loss": 313,
+      "lossH": 296,
+      "win": 181,
+      "winH": 163,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
