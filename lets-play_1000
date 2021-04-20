@@ -4,11 +4,11 @@
   "username": "Lets-Play_1000",
   "profileUrl": "https://lichess.org/@/Lets-Play_1000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lets-play_1000\",\"username\":\"Lets-Play_1000\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1395,\"rd\":365,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618818490140,\"seenAt\":1618835747737,\"playTime\":{\"total\":248,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lets-Play_1000\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lets-play_1000\",\"username\":\"Lets-Play_1000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1395,\"rd\":365,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618818490140,\"seenAt\":1618890643905,\"playTime\":{\"total\":296,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Lets-Play_1000\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":6,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lets-play_1000",
     "username": "Lets-Play_1000",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1618818490140,
-    "seenAt": 1618835747737,
+    "seenAt": 1618890643905,
     "playTime": {
-      "total": 248,
+      "total": 296,
       "tv": 0
     },
     "language": "en-GB",
@@ -58,13 +58,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 5,
-      "rated": 5,
+      "all": 6,
+      "rated": 6,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 2,
-      "lossH": 2,
+      "loss": 3,
+      "lossH": 3,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
