@@ -4,16 +4,16 @@
   "username": "CubaChessBOT",
   "profileUrl": "https://lichess.org/@/CubaChessBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"cubachessbot\",\"username\":\"CubaChessBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618826327753,\"profile\":{\"country\":\"CU\"},\"seenAt\":1618828845526,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CubaChessBOT\",\"playing\":\"https://lichess.org/zn3tyPpO/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"cubachessbot\",\"username\":\"CubaChessBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2152,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2262,\"rd\":279,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2469,\"rd\":282,\"prog\":0,\"prov\":true}},\"createdAt\":1618826327753,\"profile\":{\"country\":\"CU\",\"bio\":\"Live games using easychess sourcecode\\r\\n\\r\\nCorrospondence and Unlimited timed games : STOCKFISH Database moves\\r\\n\\r\\nULTIMATE POWERFUL IN Corrospondence and UNLIMITED timed games\\r\\nBeated 3000 rated bot https://lichess.org/6vwMMklzBvNi\"},\"seenAt\":1618903675703,\"playTime\":{\"total\":2181,\"tv\":540},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CubaChessBOT\",\"playing\":\"https://lichess.org/Y9oR8JYB/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":11,\"rated\":10,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":11,\"winH\":10,\"bookmark\":0,\"playing\":6,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "cubachessbot",
     "username": "CubaChessBOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2152,
+        "rd": 222,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2262,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
@@ -39,40 +39,41 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2469,
+        "rd": 282,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1618826327753,
     "profile": {
-      "country": "CU"
+      "country": "CU",
+      "bio": "Live games using easychess sourcecode\r\n\r\nCorrospondence and Unlimited timed games : STOCKFISH Database moves\r\n\r\nULTIMATE POWERFUL IN Corrospondence and UNLIMITED timed games\r\nBeated 3000 rated bot https://lichess.org/6vwMMklzBvNi"
     },
-    "seenAt": 1618828845526,
+    "seenAt": 1618903675703,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 2181,
+      "tv": 540
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/CubaChessBOT",
-    "playing": "https://lichess.org/zn3tyPpO/white",
+    "playing": "https://lichess.org/Y9oR8JYB/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 11,
+      "rated": 10,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 11,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 6,
       "import": 0,
       "me": 0
     },
