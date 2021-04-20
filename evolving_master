@@ -4,7 +4,7 @@
   "username": "Evolving_Master",
   "profileUrl": "https://lichess.org/@/Evolving_Master",
   "provider": "lichess",
-  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":2450,\"rd\":238,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1414,\"rd\":379,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":2347,\"rd\":99,\"prog\":-31},\"threeCheck\":{\"games\":1,\"rating\":1454,\"rd\":434,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":94,\"rating\":2245,\"rd\":63,\"prog\":36},\"correspondence\":{\"games\":3,\"rating\":1758,\"rd\":290,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2018,\"rd\":194,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Now, Accepting Standard & Variants (all of them) \\r\\n\\r\\nTime control: Bullet and Blitz only. No hyperbullet.\"},\"seenAt\":1618899119905,\"playTime\":{\"total\":35116,\"tv\":2981},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/LrUssj6c/black\",\"nbFollowing\":3,\"nbFollowers\":21,\"count\":{\"all\":223,\"rated\":168,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":40,\"lossH\":40,\"win\":174,\"winH\":174,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":2450,\"rd\":238,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1414,\"rd\":379,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":2347,\"rd\":99,\"prog\":-31},\"threeCheck\":{\"games\":1,\"rating\":1454,\"rd\":434,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":94,\"rating\":2245,\"rd\":63,\"prog\":36},\"correspondence\":{\"games\":3,\"rating\":1758,\"rd\":290,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2018,\"rd\":195,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Now, Accepting Standard & Variants (all of them) \\r\\n\\r\\nTime control: Bullet and Blitz only. No hyperbullet.\"},\"seenAt\":1618900438509,\"playTime\":{\"total\":35116,\"tv\":2981},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/LrUssj6c/black\",\"nbFollowing\":3,\"nbFollowers\":21,\"count\":{\"all\":223,\"rated\":168,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":40,\"lossH\":40,\"win\":174,\"winH\":174,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "evolving_master",
     "username": "Evolving_Master",
@@ -60,7 +60,7 @@
       "rapid": {
         "games": 6,
         "rating": 2018,
-        "rd": 194,
+        "rd": 195,
         "prog": 0,
         "prov": true
       }
@@ -70,7 +70,7 @@
       "country": "_pirate",
       "bio": "Now, Accepting Standard & Variants (all of them) \r\n\r\nTime control: Bullet and Blitz only. No hyperbullet."
     },
-    "seenAt": 1618899119905,
+    "seenAt": 1618900438509,
     "playTime": {
       "total": 35116,
       "tv": 2981
