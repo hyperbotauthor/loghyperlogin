@@ -1,0 +1,160 @@
+{
+  "id": "tharulsanvidu",
+  "displayName": "TharulSanvidu",
+  "username": "TharulSanvidu",
+  "profileUrl": "https://lichess.org/@/TharulSanvidu",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"tharulsanvidu\",\"username\":\"TharulSanvidu\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1227,\"rd\":191,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":149,\"rating\":1402,\"rd\":55,\"prog\":-12},\"atomic\":{\"games\":97,\"rating\":1251,\"rd\":56,\"prog\":4},\"racingKings\":{\"games\":55,\"rating\":1506,\"rd\":81,\"prog\":67},\"ultraBullet\":{\"games\":191,\"rating\":1048,\"rd\":45,\"prog\":-6},\"blitz\":{\"games\":158,\"rating\":1118,\"rd\":52,\"prog\":34},\"kingOfTheHill\":{\"games\":117,\"rating\":1332,\"rd\":65,\"prog\":1},\"crazyhouse\":{\"games\":219,\"rating\":1032,\"rd\":79,\"prog\":16},\"threeCheck\":{\"games\":55,\"rating\":1219,\"rd\":75,\"prog\":11},\"bullet\":{\"games\":109,\"rating\":1069,\"rd\":58,\"prog\":-2},\"correspondence\":{\"games\":17,\"rating\":1362,\"rd\":132,\"prog\":-143,\"prov\":true},\"horde\":{\"games\":7,\"rating\":1191,\"rd\":208,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1579,\"rating\":1337,\"rd\":89,\"prog\":0},\"classical\":{\"games\":11,\"rating\":675,\"rd\":176,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":510,\"rating\":1316,\"rd\":45,\"prog\":27},\"storm\":{\"runs\":14,\"score\":17},\"racer\":{\"runs\":6,\"score\":23},\"streak\":{\"runs\":1,\"score\":7}},\"createdAt\":1609081000705,\"profile\":{\"country\":\"LK\",\"location\":\"Panadura\",\"bio\":\"https://lichess.org/streamer/tharulsanvidu\",\"firstName\":\"Peramadura Tharul\",\"lastName\":\"Sanvidu De Silva\",\"links\":\"Lidraughts.org\\r\\nLichess.org\\r\\nlishogi.org\\r\\nBlitztactics.com\\r\\nChess.com\\r\\nPychess.org\\r\\nLichess4545.com\"},\"seenAt\":1618917702417,\"playTime\":{\"total\":372983,\"tv\":971},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/TharulSanvidu\",\"nbFollowing\":15,\"nbFollowers\":8,\"completionRate\":90,\"count\":{\"all\":2051,\"rated\":1706,\"ai\":82,\"draw\":68,\"drawH\":65,\"loss\":1115,\"lossH\":1089,\"win\":868,\"winH\":815,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "tharulsanvidu",
+    "username": "TharulSanvidu",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 8,
+        "rating": 1227,
+        "rd": 191,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 149,
+        "rating": 1402,
+        "rd": 55,
+        "prog": -12
+      },
+      "atomic": {
+        "games": 97,
+        "rating": 1251,
+        "rd": 56,
+        "prog": 4
+      },
+      "racingKings": {
+        "games": 55,
+        "rating": 1506,
+        "rd": 81,
+        "prog": 67
+      },
+      "ultraBullet": {
+        "games": 191,
+        "rating": 1048,
+        "rd": 45,
+        "prog": -6
+      },
+      "blitz": {
+        "games": 158,
+        "rating": 1118,
+        "rd": 52,
+        "prog": 34
+      },
+      "kingOfTheHill": {
+        "games": 117,
+        "rating": 1332,
+        "rd": 65,
+        "prog": 1
+      },
+      "crazyhouse": {
+        "games": 219,
+        "rating": 1032,
+        "rd": 79,
+        "prog": 16
+      },
+      "threeCheck": {
+        "games": 55,
+        "rating": 1219,
+        "rd": 75,
+        "prog": 11
+      },
+      "bullet": {
+        "games": 109,
+        "rating": 1069,
+        "rd": 58,
+        "prog": -2
+      },
+      "correspondence": {
+        "games": 17,
+        "rating": 1362,
+        "rd": 132,
+        "prog": -143,
+        "prov": true
+      },
+      "horde": {
+        "games": 7,
+        "rating": 1191,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1579,
+        "rating": 1337,
+        "rd": 89,
+        "prog": 0
+      },
+      "classical": {
+        "games": 11,
+        "rating": 675,
+        "rd": 176,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 510,
+        "rating": 1316,
+        "rd": 45,
+        "prog": 27
+      },
+      "storm": {
+        "runs": 14,
+        "score": 17
+      },
+      "racer": {
+        "runs": 6,
+        "score": 23
+      },
+      "streak": {
+        "runs": 1,
+        "score": 7
+      }
+    },
+    "createdAt": 1609081000705,
+    "profile": {
+      "country": "LK",
+      "location": "Panadura",
+      "bio": "https://lichess.org/streamer/tharulsanvidu",
+      "firstName": "Peramadura Tharul",
+      "lastName": "Sanvidu De Silva",
+      "links": "Lidraughts.org\r\nLichess.org\r\nlishogi.org\r\nBlitztactics.com\r\nChess.com\r\nPychess.org\r\nLichess4545.com"
+    },
+    "seenAt": 1618917702417,
+    "playTime": {
+      "total": 372983,
+      "tv": 971
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/TharulSanvidu",
+    "nbFollowing": 15,
+    "nbFollowers": 8,
+    "completionRate": 90,
+    "count": {
+      "all": 2051,
+      "rated": 1706,
+      "ai": 82,
+      "draw": 68,
+      "drawH": 65,
+      "loss": 1115,
+      "lossH": 1089,
+      "win": 868,
+      "winH": 815,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
