@@ -1,0 +1,86 @@
+{
+  "id": "sf-nnue",
+  "displayName": "SF-NNUE",
+  "username": "SF-NNUE",
+  "profileUrl": "https://lichess.org/@/SF-NNUE",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sf-nnue\",\"username\":\"SF-NNUE\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2314,\"rd\":206,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1982,\"rd\":132,\"prog\":-17,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":488,\"prog\":0,\"prov\":true}},\"createdAt\":1597009978872,\"profile\":{\"country\":\"CO\",\"location\":\"Kyu#3873\",\"bio\":\"Bot made by @K0410, Testing a lot of things, current test: LcFish, yes, Lc0 + SF, very impressive huh?. Also accepts challenges from other bots. Bot plays Rated/Unreated, blitz and rapid tc's.\"},\"seenAt\":1618953025694,\"playTime\":{\"total\":56613,\"tv\":1604},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SF-NNUE\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":366,\"rated\":19,\"ai\":260,\"draw\":28,\"drawH\":2,\"loss\":90,\"lossH\":11,\"win\":248,\"winH\":93,\"bookmark\":0,\"playing\":0,\"import\":7,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sf-nnue",
+    "username": "SF-NNUE",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 2314,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 1982,
+        "rd": 132,
+        "prog": -17,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2256,
+        "rd": 488,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1597009978872,
+    "profile": {
+      "country": "CO",
+      "location": "Kyu#3873",
+      "bio": "Bot made by @K0410, Testing a lot of things, current test: LcFish, yes, Lc0 + SF, very impressive huh?. Also accepts challenges from other bots. Bot plays Rated/Unreated, blitz and rapid tc's."
+    },
+    "seenAt": 1618953025694,
+    "playTime": {
+      "total": 56613,
+      "tv": 1604
+    },
+    "language": "es-ES",
+    "title": "BOT",
+    "url": "https://lichess.org/@/SF-NNUE",
+    "nbFollowing": 1,
+    "nbFollowers": 5,
+    "count": {
+      "all": 366,
+      "rated": 19,
+      "ai": 260,
+      "draw": 28,
+      "drawH": 2,
+      "loss": 90,
+      "lossH": 11,
+      "win": 248,
+      "winH": 93,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 7,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
