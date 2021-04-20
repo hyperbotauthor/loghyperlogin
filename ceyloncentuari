@@ -4,16 +4,16 @@
   "username": "CeylonCentuari",
   "profileUrl": "https://lichess.org/@/CeylonCentuari",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ceyloncentuari\",\"username\":\"CeylonCentuari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2300,\"rd\":372,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":2170,\"rd\":114,\"prog\":125,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1481,\"rd\":350,\"prog\":0,\"prov\":true}},\"createdAt\":1618479217819,\"profile\":{\"country\":\"_lichess\",\"bio\":\"This bot is developed by @TharulSanvidu\\r\\n\\r\\nhttps://giphy.com/gifs/AYFQa2JA0VjAbokACa\",\"firstName\":\"BOT\",\"lastName\":\"CeylonCentuari\"},\"seenAt\":1618918151576,\"playTime\":{\"total\":7797,\"tv\":223},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCentuari\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":96,\"rated\":47,\"ai\":11,\"draw\":5,\"drawH\":5,\"loss\":9,\"lossH\":7,\"win\":82,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ceyloncentuari\",\"username\":\"CeylonCentuari\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2410,\"rd\":274,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":2170,\"rd\":114,\"prog\":125,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1724,\"rd\":317,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1481,\"rd\":350,\"prog\":0,\"prov\":true}},\"createdAt\":1618479217819,\"profile\":{\"country\":\"_lichess\",\"bio\":\"This bot is developed by @TharulSanvidu\\r\\n\\r\\nhttps://giphy.com/gifs/AYFQa2JA0VjAbokACa\",\"firstName\":\"(ツ) BOT\",\"lastName\":\"CeylonCentuari\"},\"seenAt\":1618920850090,\"playTime\":{\"total\":8262,\"tv\":688},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CeylonCentuari\",\"nbFollowing\":3,\"nbFollowers\":1,\"count\":{\"all\":103,\"rated\":50,\"ai\":11,\"draw\":6,\"drawH\":6,\"loss\":9,\"lossH\":7,\"win\":88,\"winH\":79,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ceyloncentuari",
     "username": "CeylonCentuari",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 2300,
-        "rd": 372,
+        "games": 3,
+        "rating": 2410,
+        "rd": 274,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 1,
-        "rating": 1741,
-        "rd": 396,
+        "games": 3,
+        "rating": 1724,
+        "rd": 317,
         "prog": 0,
         "prov": true
       },
@@ -50,29 +50,29 @@
     "profile": {
       "country": "_lichess",
       "bio": "This bot is developed by @TharulSanvidu\r\n\r\nhttps://giphy.com/gifs/AYFQa2JA0VjAbokACa",
-      "firstName": "BOT",
+      "firstName": "(ツ) BOT",
       "lastName": "CeylonCentuari"
     },
-    "seenAt": 1618918151576,
+    "seenAt": 1618920850090,
     "playTime": {
-      "total": 7797,
-      "tv": 223
+      "total": 8262,
+      "tv": 688
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/CeylonCentuari",
-    "nbFollowing": 1,
+    "nbFollowing": 3,
     "nbFollowers": 1,
     "count": {
-      "all": 96,
-      "rated": 47,
+      "all": 103,
+      "rated": 50,
       "ai": 11,
-      "draw": 5,
-      "drawH": 5,
+      "draw": 6,
+      "drawH": 6,
       "loss": 9,
       "lossH": 7,
-      "win": 82,
-      "winH": 73,
+      "win": 88,
+      "winH": 79,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
