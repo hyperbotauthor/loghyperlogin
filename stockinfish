@@ -4,7 +4,7 @@
   "username": "StockinFish",
   "profileUrl": "https://lichess.org/@/StockinFish",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockinfish\",\"username\":\"StockinFish\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617603543434,\"seenAt\":1618815016274,\"playTime\":{\"total\":147,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/StockinFish\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockinfish\",\"username\":\"StockinFish\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1475,\"rd\":464,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617603543434,\"seenAt\":1619089115682,\"playTime\":{\"total\":234,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/StockinFish\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockinfish",
     "username": "StockinFish",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1475,
+        "rd": 464,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1617603543434,
-    "seenAt": 1618815016274,
+    "seenAt": 1619089115682,
     "playTime": {
-      "total": 147,
+      "total": 234,
       "tv": 0
     },
     "language": "en-US",
@@ -58,13 +58,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 4,
-      "rated": 1,
+      "all": 5,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
+      "loss": 2,
+      "lossH": 2,
       "win": 3,
       "winH": 3,
       "bookmark": 0,
