@@ -4,7 +4,7 @@
   "username": "bigboss3214",
   "profileUrl": "https://lichess.org/@/bigboss3214",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bigboss3214\",\"username\":\"bigboss3214\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1782,\"rd\":147,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":97,\"rating\":1580,\"rd\":95,\"prog\":27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2067,\"rd\":124,\"prog\":-161,\"prov\":true}},\"createdAt\":1604591053267,\"booster\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000},\"seenAt\":1618901406496,\"playTime\":{\"total\":30270,\"tv\":9541},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bigboss3214\",\"nbFollowing\":14,\"nbFollowers\":11,\"count\":{\"all\":252,\"rated\":156,\"ai\":19,\"draw\":17,\"drawH\":17,\"loss\":147,\"lossH\":131,\"win\":88,\"winH\":85,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bigboss3214\",\"username\":\"bigboss3214\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1782,\"rd\":148,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":97,\"rating\":1580,\"rd\":96,\"prog\":27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2067,\"rd\":125,\"prog\":-161,\"prov\":true}},\"createdAt\":1604591053267,\"booster\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000},\"seenAt\":1619056902743,\"playTime\":{\"total\":33953,\"tv\":9933},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bigboss3214\",\"playing\":\"https://lichess.org/PiUCELVG/white\",\"nbFollowing\":14,\"nbFollowers\":11,\"count\":{\"all\":278,\"rated\":156,\"ai\":19,\"draw\":18,\"drawH\":18,\"loss\":163,\"lossH\":147,\"win\":97,\"winH\":94,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bigboss3214",
     "username": "bigboss3214",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 11,
         "rating": 1782,
-        "rd": 147,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 97,
         "rating": 1580,
-        "rd": 95,
+        "rd": 96,
         "prog": 27
       },
       "correspondence": {
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 23,
         "rating": 2067,
-        "rd": 124,
+        "rd": 125,
         "prog": -161,
         "prov": true
       }
@@ -51,28 +51,29 @@
       "country": "_lichess",
       "fideRating": 3000
     },
-    "seenAt": 1618901406496,
+    "seenAt": 1619056902743,
     "playTime": {
-      "total": 30270,
-      "tv": 9541
+      "total": 33953,
+      "tv": 9933
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/bigboss3214",
+    "playing": "https://lichess.org/PiUCELVG/white",
     "nbFollowing": 14,
     "nbFollowers": 11,
     "count": {
-      "all": 252,
+      "all": 278,
       "rated": 156,
       "ai": 19,
-      "draw": 17,
-      "drawH": 17,
-      "loss": 147,
-      "lossH": 131,
-      "win": 88,
-      "winH": 85,
+      "draw": 18,
+      "drawH": 18,
+      "loss": 163,
+      "lossH": 147,
+      "win": 97,
+      "winH": 94,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
