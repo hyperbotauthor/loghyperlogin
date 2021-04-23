@@ -1,0 +1,92 @@
+{
+  "id": "stopracismbot",
+  "displayName": "StopRacismBOT",
+  "username": "StopRacismBOT",
+  "profileUrl": "https://lichess.org/@/StopRacismBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stopracismbot\",\"username\":\"StopRacismBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1704,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1823,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2018,\"rd\":144,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1618950521488,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Join #StopRacism to show support for change, and Justice! :)\\r\\nhttps://lichess.org/team/stopracism\"},\"seenAt\":1619138123479,\"playTime\":{\"total\":3624,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/StopRacismBOT\",\"nbFollowing\":3,\"nbFollowers\":12,\"count\":{\"all\":26,\"rated\":19,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stopracismbot",
+    "username": "StopRacismBOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1704,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 1823,
+        "rd": 222,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 2018,
+        "rd": 144,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1618950521488,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Join #StopRacism to show support for change, and Justice! :)\r\nhttps://lichess.org/team/stopracism"
+    },
+    "seenAt": 1619138123479,
+    "playTime": {
+      "total": 3624,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/StopRacismBOT",
+    "nbFollowing": 3,
+    "nbFollowers": 12,
+    "count": {
+      "all": 26,
+      "rated": 19,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 4,
+      "lossH": 4,
+      "win": 21,
+      "winH": 21,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
