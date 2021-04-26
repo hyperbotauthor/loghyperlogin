@@ -4,7 +4,7 @@
   "username": "BotEagleEye2021",
   "profileUrl": "https://lichess.org/@/BotEagleEye2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2263,\"rd\":199,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"seenAt\":1619460783126,\"playTime\":{\"total\":8341,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":49,\"rated\":6,\"ai\":39,\"draw\":2,\"drawH\":0,\"loss\":42,\"lossH\":7,\"win\":5,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2263,\"rd\":199,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"seenAt\":1619462280311,\"playTime\":{\"total\":8728,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":52,\"rated\":6,\"ai\":39,\"draw\":2,\"drawH\":0,\"loss\":45,\"lossH\":10,\"win\":5,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "boteagleeye2021",
     "username": "BotEagleEye2021",
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1619189180786,
-    "seenAt": 1619460783126,
+    "seenAt": 1619462280311,
     "playTime": {
-      "total": 8341,
+      "total": 8728,
       "tv": 0
     },
     "language": "tr-TR",
@@ -58,13 +58,13 @@
     "nbFollowing": 3,
     "nbFollowers": 0,
     "count": {
-      "all": 49,
+      "all": 52,
       "rated": 6,
       "ai": 39,
       "draw": 2,
       "drawH": 0,
-      "loss": 42,
-      "lossH": 7,
+      "loss": 45,
+      "lossH": 10,
       "win": 5,
       "winH": 3,
       "bookmark": 0,
