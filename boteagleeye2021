@@ -4,7 +4,7 @@
   "username": "BotEagleEye2021",
   "profileUrl": "https://lichess.org/@/BotEagleEye2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"seenAt\":1619189197794,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2375,\"rd\":271,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"seenAt\":1619432174738,\"playTime\":{\"total\":1228,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "boteagleeye2021",
     "username": "BotEagleEye2021",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2375,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,26 @@
       }
     },
     "createdAt": 1619189180786,
-    "seenAt": 1619189197794,
+    "seenAt": 1619432174738,
     "playTime": {
-      "total": 0,
+      "total": 1228,
       "tv": 0
     },
     "language": "tr-TR",
+    "title": "BOT",
     "url": "https://lichess.org/@/BotEagleEye2021",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 6,
+      "rated": 4,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 2,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
