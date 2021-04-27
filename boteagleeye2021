@@ -4,23 +4,23 @@
   "username": "BotEagleEye2021",
   "profileUrl": "https://lichess.org/@/BotEagleEye2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2199,\"rd\":175,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"seenAt\":1619505872760,\"playTime\":{\"total\":9973,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":56,\"rated\":7,\"ai\":39,\"draw\":2,\"drawH\":0,\"loss\":48,\"lossH\":13,\"win\":6,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"boteagleeye2021\",\"username\":\"BotEagleEye2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2355,\"rd\":281,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2164,\"rd\":161,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619189180786,\"profile\":{\"bio\":\"Never accept my sacrifices!\"},\"seenAt\":1619515045850,\"playTime\":{\"total\":13322,\"tv\":1072},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotEagleEye2021\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":80,\"rated\":10,\"ai\":44,\"draw\":4,\"drawH\":2,\"loss\":64,\"lossH\":25,\"win\":12,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "boteagleeye2021",
     "username": "BotEagleEye2021",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2355,
+        "rd": 281,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 2199,
-        "rd": 175,
+        "games": 8,
+        "rating": 2164,
+        "rd": 161,
         "prog": 0,
         "prov": true
       },
@@ -47,10 +47,13 @@
       }
     },
     "createdAt": 1619189180786,
-    "seenAt": 1619505872760,
+    "profile": {
+      "bio": "Never accept my sacrifices!"
+    },
+    "seenAt": 1619515045850,
     "playTime": {
-      "total": 9973,
-      "tv": 0
+      "total": 13322,
+      "tv": 1072
     },
     "language": "tr-TR",
     "title": "BOT",
@@ -58,15 +61,15 @@
     "nbFollowing": 3,
     "nbFollowers": 0,
     "count": {
-      "all": 56,
-      "rated": 7,
-      "ai": 39,
-      "draw": 2,
-      "drawH": 0,
-      "loss": 48,
-      "lossH": 13,
-      "win": 6,
-      "winH": 4,
+      "all": 80,
+      "rated": 10,
+      "ai": 44,
+      "draw": 4,
+      "drawH": 2,
+      "loss": 64,
+      "lossH": 25,
+      "win": 12,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
