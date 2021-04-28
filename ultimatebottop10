@@ -4,16 +4,16 @@
   "username": "UltimateBottop10",
   "profileUrl": "https://lichess.org/@/UltimateBottop10",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ultimatebottop10\",\"username\":\"UltimateBottop10\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":3,\"rating\":1628,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619516556610,\"seenAt\":1619516572542,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/UltimateBottop10\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ultimatebottop10\",\"username\":\"UltimateBottop10\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":6,\"rating\":2250,\"rd\":159,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":3,\"rating\":1628,\"rd\":202,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":2408,\"rd\":351,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2118,\"rd\":250,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619516556610,\"profile\":{\"country\":\"HM\",\"bio\":\"This bot uses stockfish 13 and only plays rapid(depending on your strength) classical and correspondence and all varaints(except 960)\\r\\nI can help you to make a strong bot\"},\"seenAt\":1619588852177,\"playTime\":{\"total\":15830,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/UltimateBottop10\",\"playing\":\"https://lichess.org/Azn4CCea/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":12,\"rated\":12,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ultimatebottop10",
     "username": "UltimateBottop10",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+      "antichess": {
+        "games": 6,
+        "rating": 2250,
+        "rd": 159,
         "prog": 0,
         "prov": true
       },
@@ -21,6 +21,20 @@
         "games": 3,
         "rating": 1628,
         "rd": 202,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 2408,
+        "rd": 351,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +53,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2118,
+        "rd": 250,
         "prog": 0,
         "prov": true
       },
@@ -54,27 +68,33 @@
       }
     },
     "createdAt": 1619516556610,
-    "seenAt": 1619516572542,
+    "profile": {
+      "country": "HM",
+      "bio": "This bot uses stockfish 13 and only plays rapid(depending on your strength) classical and correspondence and all varaints(except 960)\r\nI can help you to make a strong bot"
+    },
+    "seenAt": 1619588852177,
     "playTime": {
-      "total": 0,
+      "total": 15830,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/UltimateBottop10",
+    "playing": "https://lichess.org/Azn4CCea/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 12,
+      "rated": 12,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
