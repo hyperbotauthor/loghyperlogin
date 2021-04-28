@@ -4,7 +4,7 @@
   "username": "OurBot",
   "profileUrl": "https://lichess.org/@/OurBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ourbot\",\"username\":\"OurBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":28,\"rating\":2400,\"rd\":78,\"prog\":112},\"atomic\":{\"games\":15,\"rating\":2161,\"rd\":194,\"prog\":31,\"prov\":true},\"bullet\":{\"games\":92,\"rating\":2178,\"rd\":56,\"prog\":-3},\"correspondence\":{\"games\":8,\"rating\":1935,\"rd\":194,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2369,\"rd\":121,\"prog\":-1,\"prov\":true}},\"createdAt\":1618296168866,\"profile\":{\"country\":\"SK\",\"location\":\"For everybody\",\"bio\":\"https://i.imgur.com/saIOvIi.jpg\\r\\nMy owner is @Palko_hra_sach. Also thanks to @Gregor_42 and @XavierHall200 for testing me! I'm still in development. \\r\\nI was created on this website: https://easychess.herokuapp.com\\r\\nI have a break from arround 21:00 UTC+2 till morning, arround 9:00 UTC+2\",\"firstName\":\"Don't ask me to join\",\"lastName\":\"your Teams\",\"links\":\"lichess.org/@/Palko_hra_sach\"},\"seenAt\":1619625427352,\"playTime\":{\"total\":47377,\"tv\":4602},\"language\":\"sk-SK\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OurBot\",\"playing\":\"https://lichess.org/J7G94U3q/white\",\"nbFollowing\":3,\"nbFollowers\":20,\"count\":{\"all\":265,\"rated\":162,\"ai\":18,\"draw\":24,\"drawH\":20,\"loss\":67,\"lossH\":60,\"win\":174,\"winH\":167,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ourbot\",\"username\":\"OurBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":28,\"rating\":2400,\"rd\":78,\"prog\":112},\"atomic\":{\"games\":15,\"rating\":2161,\"rd\":194,\"prog\":31,\"prov\":true},\"bullet\":{\"games\":93,\"rating\":2181,\"rd\":55,\"prog\":1},\"correspondence\":{\"games\":8,\"rating\":1935,\"rd\":194,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2369,\"rd\":121,\"prog\":-1,\"prov\":true}},\"createdAt\":1618296168866,\"profile\":{\"country\":\"SK\",\"location\":\"For everybody\",\"bio\":\"https://i.imgur.com/saIOvIi.jpg\\r\\nMy owner is @Palko_hra_sach. Also thanks to @Gregor_42 and @XavierHall200 for testing me! I'm still in development. \\r\\nI was created on this website: https://easychess.herokuapp.com\\r\\nI have a break from arround 21:00 UTC+2 till morning, arround 9:00 UTC+2\",\"firstName\":\"Don't ask me to join\",\"lastName\":\"your Teams\",\"links\":\"lichess.org/@/Palko_hra_sach\"},\"seenAt\":1619625427352,\"playTime\":{\"total\":47441,\"tv\":4602},\"language\":\"sk-SK\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OurBot\",\"playing\":\"https://lichess.org/J7G94U3q/white\",\"nbFollowing\":3,\"nbFollowers\":20,\"count\":{\"all\":266,\"rated\":163,\"ai\":18,\"draw\":24,\"drawH\":20,\"loss\":67,\"lossH\":60,\"win\":175,\"winH\":168,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ourbot",
     "username": "OurBot",
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 92,
-        "rating": 2178,
-        "rd": 56,
-        "prog": -3
+        "games": 93,
+        "rating": 2181,
+        "rd": 55,
+        "prog": 1
       },
       "correspondence": {
         "games": 8,
@@ -62,7 +62,7 @@
     },
     "seenAt": 1619625427352,
     "playTime": {
-      "total": 47377,
+      "total": 47441,
       "tv": 4602
     },
     "language": "sk-SK",
@@ -72,15 +72,15 @@
     "nbFollowing": 3,
     "nbFollowers": 20,
     "count": {
-      "all": 265,
-      "rated": 162,
+      "all": 266,
+      "rated": 163,
       "ai": 18,
       "draw": 24,
       "drawH": 20,
       "loss": 67,
       "lossH": 60,
-      "win": 174,
-      "winH": 167,
+      "win": 175,
+      "winH": 168,
       "bookmark": 0,
       "playing": 2,
       "import": 0,
