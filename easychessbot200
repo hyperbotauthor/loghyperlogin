@@ -4,16 +4,16 @@
   "username": "Easychessbot200",
   "profileUrl": "https://lichess.org/@/Easychessbot200",
   "provider": "lichess",
-  "_raw": "{\"id\":\"easychessbot200\",\"username\":\"Easychessbot200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1477,\"rd\":293,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614504118040,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \\r\\n\\r\\n@rtd1109 my owner\"},\"seenAt\":1614675542689,\"playTime\":{\"total\":892,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Easychessbot200\",\"playing\":\"https://lichess.org/cgwIGFud/white\",\"nbFollowing\":3,\"nbFollowers\":4,\"count\":{\"all\":6,\"rated\":3,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":1,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"easychessbot200\",\"username\":\"Easychessbot200\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1561,\"rd\":265,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":400,\"prog\":0,\"prov\":true}},\"createdAt\":1614504118040,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \\r\\n\\r\\n@rtd1109 my owner \\r\\n\\r\\nhttps://media.giphy.com/media/WwbmjTK5TS87e/giphy.gif\"},\"seenAt\":1619611148992,\"playTime\":{\"total\":2065,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Easychessbot200\",\"nbFollowing\":1,\"nbFollowers\":11,\"count\":{\"all\":8,\"rated\":5,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":1,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "easychessbot200",
     "username": "Easychessbot200",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 1477,
-        "rd": 293,
+        "games": 4,
+        "rating": 1561,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1760,
+        "rd": 400,
         "prog": 0,
         "prov": true
       }
@@ -49,31 +49,30 @@
     "createdAt": 1614504118040,
     "profile": {
       "country": "_lichess",
-      "bio": "https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \r\n\r\n@rtd1109 my owner"
+      "bio": "https://lichess1.org/assets/_Uik8mV/images/icons/bot.png plz do challenge  me  \r\n\r\n@rtd1109 my owner \r\n\r\nhttps://media.giphy.com/media/WwbmjTK5TS87e/giphy.gif"
     },
-    "seenAt": 1614675542689,
+    "seenAt": 1619611148992,
     "playTime": {
-      "total": 892,
+      "total": 2065,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Easychessbot200",
-    "playing": "https://lichess.org/cgwIGFud/white",
-    "nbFollowing": 3,
-    "nbFollowers": 4,
+    "nbFollowing": 1,
+    "nbFollowers": 11,
     "count": {
-      "all": 6,
-      "rated": 3,
+      "all": 8,
+      "rated": 5,
       "ai": 3,
-      "draw": 0,
-      "drawH": 0,
+      "draw": 1,
+      "drawH": 1,
       "loss": 3,
       "lossH": 1,
-      "win": 3,
-      "winH": 2,
+      "win": 4,
+      "winH": 3,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
