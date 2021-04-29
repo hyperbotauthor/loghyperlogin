@@ -4,24 +4,24 @@
   "username": "TheGreatvirtuoso",
   "profileUrl": "https://lichess.org/@/TheGreatvirtuoso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1805,\"rd\":140,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"seenAt\":1619616357927,\"playTime\":{\"total\":2776,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"nbFollowing\":2,\"nbFollowers\":19,\"count\":{\"all\":23,\"rated\":11,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":6,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1448,\"rd\":424,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":1903,\"rd\":114,\"prog\":98,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1779,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"seenAt\":1619660370155,\"playTime\":{\"total\":4168,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"nbFollowing\":2,\"nbFollowers\":29,\"count\":{\"all\":32,\"rated\":17,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":11,\"lossH\":9,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatvirtuoso",
     "username": "TheGreatvirtuoso",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1448,
+        "rd": 424,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 11,
-        "rating": 1805,
-        "rd": 140,
-        "prog": 0,
+        "games": 15,
+        "rating": 1903,
+        "rd": 114,
+        "prog": 98,
         "prov": true
       },
       "correspondence": {
@@ -39,34 +39,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1779,
+        "rd": 288,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1619534166160,
-    "seenAt": 1619616357927,
+    "seenAt": 1619660370155,
     "playTime": {
-      "total": 2776,
+      "total": 4168,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheGreatvirtuoso",
     "nbFollowing": 2,
-    "nbFollowers": 19,
+    "nbFollowers": 29,
     "count": {
-      "all": 23,
-      "rated": 11,
+      "all": 32,
+      "rated": 17,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 8,
-      "lossH": 6,
-      "win": 15,
-      "winH": 15,
+      "loss": 11,
+      "lossH": 9,
+      "win": 21,
+      "winH": 21,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
