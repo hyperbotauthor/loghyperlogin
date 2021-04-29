@@ -4,7 +4,7 @@
   "username": "EagleEye2021",
   "profileUrl": "https://lichess.org/@/EagleEye2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"eagleeye2021\",\"username\":\"EagleEye2021\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":7,\"rating\":2235,\"rd\":165,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1935,\"rd\":173,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":57,\"rating\":2306,\"rd\":93,\"prog\":56},\"kingOfTheHill\":{\"games\":5,\"rating\":1880,\"rd\":202,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2365,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":220,\"rating\":2200,\"rd\":62,\"prog\":30},\"correspondence\":{\"games\":2,\"rating\":1493,\"rd\":352,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2183,\"rd\":498,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2426,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1610132228724,\"profile\":{\"country\":\"_pirate\",\"location\":\"Earth\",\"bio\":\"For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life\\r\\n\\r\\n                                                                                                       \\r\\n                                                                                                                                           @EagleEye2021\"},\"seenAt\":1619616833888,\"playTime\":{\"total\":151560,\"tv\":41753},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EagleEye2021\",\"nbFollowing\":89,\"nbFollowers\":41,\"count\":{\"all\":943,\"rated\":319,\"ai\":451,\"draw\":107,\"drawH\":59,\"loss\":464,\"lossH\":161,\"win\":372,\"winH\":272,\"bookmark\":22,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"eagleeye2021\",\"username\":\"EagleEye2021\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":7,\"rating\":2235,\"rd\":165,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1935,\"rd\":173,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":58,\"rating\":2288,\"rd\":90,\"prog\":86},\"kingOfTheHill\":{\"games\":5,\"rating\":1880,\"rd\":202,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2365,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":223,\"rating\":2197,\"rd\":60,\"prog\":15},\"correspondence\":{\"games\":2,\"rating\":1493,\"rd\":352,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2183,\"rd\":498,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2426,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1610132228724,\"profile\":{\"country\":\"_pirate\",\"location\":\"Earth\",\"bio\":\"For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life\\r\\n\\r\\n                                                                                                       \\r\\n                                                                                                                                           @EagleEye2021\"},\"seenAt\":1619678734187,\"playTime\":{\"total\":156182,\"tv\":42968},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EagleEye2021\",\"nbFollowing\":89,\"nbFollowers\":41,\"count\":{\"all\":981,\"rated\":323,\"ai\":451,\"draw\":115,\"drawH\":67,\"loss\":492,\"lossH\":189,\"win\":374,\"winH\":274,\"bookmark\":22,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "eagleeye2021",
     "username": "EagleEye2021",
@@ -25,10 +25,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 57,
-        "rating": 2306,
-        "rd": 93,
-        "prog": 56
+        "games": 58,
+        "rating": 2288,
+        "rd": 90,
+        "prog": 86
       },
       "kingOfTheHill": {
         "games": 5,
@@ -45,10 +45,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 220,
-        "rating": 2200,
-        "rd": 62,
-        "prog": 30
+        "games": 223,
+        "rating": 2197,
+        "rd": 60,
+        "prog": 15
       },
       "correspondence": {
         "games": 2,
@@ -78,10 +78,10 @@
       "location": "Earth",
       "bio": "For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life\r\n\r\n                                                                                                       \r\n                                                                                                                                           @EagleEye2021"
     },
-    "seenAt": 1619616833888,
+    "seenAt": 1619678734187,
     "playTime": {
-      "total": 151560,
-      "tv": 41753
+      "total": 156182,
+      "tv": 42968
     },
     "language": "tr-TR",
     "title": "BOT",
@@ -89,15 +89,15 @@
     "nbFollowing": 89,
     "nbFollowers": 41,
     "count": {
-      "all": 943,
-      "rated": 319,
+      "all": 981,
+      "rated": 323,
       "ai": 451,
-      "draw": 107,
-      "drawH": 59,
-      "loss": 464,
-      "lossH": 161,
-      "win": 372,
-      "winH": 272,
+      "draw": 115,
+      "drawH": 67,
+      "loss": 492,
+      "lossH": 189,
+      "win": 374,
+      "winH": 274,
       "bookmark": 22,
       "playing": 0,
       "import": 0,
