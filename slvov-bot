@@ -4,7 +4,7 @@
   "username": "SLvov-bot",
   "profileUrl": "https://lichess.org/@/SLvov-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":287,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":318,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":176,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":1702,\"rd\":92,\"prog\":54},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":453,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":40,\"rating\":1908,\"rd\":84,\"prog\":-49},\"correspondence\":{\"games\":5,\"rating\":1600,\"rd\":245,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":289,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1298,\"rd\":139,\"prog\":-69,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1619036265939,\"playTime\":{\"total\":42353,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"playing\":\"https://lichess.org/9s5SXxyH/black\",\"nbFollowing\":1,\"nbFollowers\":6,\"count\":{\"all\":114,\"rated\":110,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":45,\"lossH\":45,\"win\":63,\"winH\":63,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"slvov-bot\",\"username\":\"SLvov-bot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1673,\"rd\":288,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1359,\"rd\":318,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1710,\"rd\":177,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":1702,\"rd\":94,\"prog\":54},\"threeCheck\":{\"games\":1,\"rating\":1466,\"rd\":453,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":40,\"rating\":1908,\"rd\":86,\"prog\":-49},\"correspondence\":{\"games\":5,\"rating\":1600,\"rd\":245,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1527,\"rd\":289,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1298,\"rd\":141,\"prog\":-69,\"prov\":true}},\"createdAt\":1616314477036,\"seenAt\":1619716511311,\"playTime\":{\"total\":42652,\"tv\":428},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SLvov-bot\",\"nbFollowing\":1,\"nbFollowers\":6,\"count\":{\"all\":115,\"rated\":110,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":45,\"lossH\":45,\"win\":64,\"winH\":63,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "slvov-bot",
     "username": "SLvov-bot",
@@ -13,7 +13,7 @@
       "antichess": {
         "games": 4,
         "rating": 1673,
-        "rd": 287,
+        "rd": 288,
         "prog": 0,
         "prov": true
       },
@@ -27,14 +27,14 @@
       "racingKings": {
         "games": 5,
         "rating": 1710,
-        "rd": 176,
+        "rd": 177,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 28,
         "rating": 1702,
-        "rd": 92,
+        "rd": 94,
         "prog": 54
       },
       "threeCheck": {
@@ -47,7 +47,7 @@
       "bullet": {
         "games": 40,
         "rating": 1908,
-        "rd": 84,
+        "rd": 86,
         "prog": -49
       },
       "correspondence": {
@@ -67,35 +67,34 @@
       "rapid": {
         "games": 13,
         "rating": 1298,
-        "rd": 139,
+        "rd": 141,
         "prog": -69,
         "prov": true
       }
     },
     "createdAt": 1616314477036,
-    "seenAt": 1619036265939,
+    "seenAt": 1619716511311,
     "playTime": {
-      "total": 42353,
+      "total": 42652,
       "tv": 428
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/SLvov-bot",
-    "playing": "https://lichess.org/9s5SXxyH/black",
     "nbFollowing": 1,
     "nbFollowers": 6,
     "count": {
-      "all": 114,
+      "all": 115,
       "rated": 110,
-      "ai": 0,
+      "ai": 1,
       "draw": 6,
       "drawH": 6,
       "loss": 45,
       "lossH": 45,
-      "win": 63,
+      "win": 64,
       "winH": 63,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
