@@ -1,0 +1,98 @@
+{
+  "id": "creepy_face",
+  "displayName": "creepy_face",
+  "username": "creepy_face",
+  "profileUrl": "https://lichess.org/@/creepy_face",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"creepy_face\",\"username\":\"creepy_face\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":790,\"rd\":169,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":359,\"rating\":1035,\"rd\":79,\"prog\":0},\"atomic\":{\"games\":2,\"rating\":1210,\"rd\":395,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1435,\"rd\":417,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1093,\"rd\":209,\"prog\":-14,\"prov\":true},\"racer\":{\"runs\":2,\"score\":16}},\"createdAt\":1617213279239,\"seenAt\":1619729589537,\"playTime\":{\"total\":56430,\"tv\":361},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/creepy_face\",\"nbFollowing\":3,\"nbFollowers\":0,\"completionRate\":80,\"count\":{\"all\":272,\"rated\":25,\"ai\":49,\"draw\":31,\"drawH\":29,\"loss\":95,\"lossH\":77,\"win\":146,\"winH\":117,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "creepy_face",
+    "username": "creepy_face",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 790,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 359,
+        "rating": 1035,
+        "rd": 79,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1210,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1435,
+        "rd": 417,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 13,
+        "rating": 1093,
+        "rd": 209,
+        "prog": -14,
+        "prov": true
+      },
+      "racer": {
+        "runs": 2,
+        "score": 16
+      }
+    },
+    "createdAt": 1617213279239,
+    "seenAt": 1619729589537,
+    "playTime": {
+      "total": 56430,
+      "tv": 361
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/creepy_face",
+    "nbFollowing": 3,
+    "nbFollowers": 0,
+    "completionRate": 80,
+    "count": {
+      "all": 272,
+      "rated": 25,
+      "ai": 49,
+      "draw": 31,
+      "drawH": 29,
+      "loss": 95,
+      "lossH": 77,
+      "win": 146,
+      "winH": 117,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
