@@ -4,7 +4,7 @@
   "username": "Evolving_Master",
   "profileUrl": "https://lichess.org/@/Evolving_Master",
   "provider": "lichess",
-  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":2450,\"rd\":239,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1414,\"rd\":379,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":57,\"rating\":2348,\"rd\":100,\"prog\":-36},\"threeCheck\":{\"games\":1,\"rating\":1454,\"rd\":434,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2213,\"rd\":64,\"prog\":-50},\"correspondence\":{\"games\":4,\"rating\":1744,\"rd\":252,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2018,\"rd\":195,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Now, Accepting Standard & Variants (all of them) \\r\\n\\r\\nTime control: Bullet and Blitz only. No hyperbullet.\"},\"seenAt\":1619536503987,\"playTime\":{\"total\":36124,\"tv\":3128},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/nlFbXCIa/black\",\"nbFollowing\":3,\"nbFollowers\":21,\"count\":{\"all\":231,\"rated\":175,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":42,\"lossH\":42,\"win\":179,\"winH\":179,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"evolving_master\",\"username\":\"Evolving_Master\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":2450,\"rd\":239,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1414,\"rd\":379,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":57,\"rating\":2348,\"rd\":101,\"prog\":-36},\"threeCheck\":{\"games\":1,\"rating\":1454,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2213,\"rd\":64,\"prog\":-50},\"correspondence\":{\"games\":4,\"rating\":1744,\"rd\":252,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2018,\"rd\":196,\"prog\":0,\"prov\":true}},\"createdAt\":1613798561187,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Now, Accepting Standard & Variants (all of them) \\r\\n\\r\\nTime control: Bullet and Blitz only. No hyperbullet.\"},\"seenAt\":1619665751416,\"playTime\":{\"total\":36703,\"tv\":3128},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Evolving_Master\",\"playing\":\"https://lichess.org/9cKvdOFq/black\",\"nbFollowing\":3,\"nbFollowers\":22,\"count\":{\"all\":236,\"rated\":175,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":43,\"lossH\":43,\"win\":183,\"winH\":183,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "evolving_master",
     "username": "Evolving_Master",
@@ -27,13 +27,13 @@
       "blitz": {
         "games": 57,
         "rating": 2348,
-        "rd": 100,
+        "rd": 101,
         "prog": -36
       },
       "threeCheck": {
         "games": 1,
         "rating": 1454,
-        "rd": 434,
+        "rd": 435,
         "prog": 0,
         "prov": true
       },
@@ -60,7 +60,7 @@
       "rapid": {
         "games": 6,
         "rating": 2018,
-        "rd": 195,
+        "rd": 196,
         "prog": 0,
         "prov": true
       }
@@ -70,27 +70,27 @@
       "country": "_pirate",
       "bio": "Now, Accepting Standard & Variants (all of them) \r\n\r\nTime control: Bullet and Blitz only. No hyperbullet."
     },
-    "seenAt": 1619536503987,
+    "seenAt": 1619665751416,
     "playTime": {
-      "total": 36124,
+      "total": 36703,
       "tv": 3128
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Evolving_Master",
-    "playing": "https://lichess.org/nlFbXCIa/black",
+    "playing": "https://lichess.org/9cKvdOFq/black",
     "nbFollowing": 3,
-    "nbFollowers": 21,
+    "nbFollowers": 22,
     "count": {
-      "all": 231,
+      "all": 236,
       "rated": 175,
       "ai": 0,
       "draw": 10,
       "drawH": 10,
-      "loss": 42,
-      "lossH": 42,
-      "win": 179,
-      "winH": 179,
+      "loss": 43,
+      "lossH": 43,
+      "win": 183,
+      "winH": 183,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
