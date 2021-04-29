@@ -1,0 +1,106 @@
+{
+  "id": "chicken_farmer",
+  "displayName": "chicken_farmer",
+  "username": "chicken_farmer",
+  "profileUrl": "https://lichess.org/@/chicken_farmer",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chicken_farmer\",\"username\":\"chicken_farmer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":1588,\"rd\":71,\"prog\":125},\"antichess\":{\"games\":2,\"rating\":1241,\"rd\":313,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1600,\"rd\":247,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":18,\"rating\":1514,\"rd\":112,\"prog\":40,\"prov\":true},\"bullet\":{\"games\":66,\"rating\":1766,\"rd\":71,\"prog\":78},\"correspondence\":{\"games\":1,\"rating\":1926,\"rd\":382,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615211540525,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Feel free to challenge me when I am online. I am a @Bob_Sucarson BOT. PLEASE DO NOT send me links to join teams. You will be blocked.\",\"firstName\":\"Chicken Farmer\",\"lastName\":\"BOT\"},\"seenAt\":1619723406309,\"playTime\":{\"total\":13872,\"tv\":132},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chicken_farmer\",\"nbFollowing\":6,\"nbFollowers\":11,\"count\":{\"all\":207,\"rated\":140,\"ai\":25,\"draw\":29,\"drawH\":28,\"loss\":67,\"lossH\":52,\"win\":111,\"winH\":102,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chicken_farmer",
+    "username": "chicken_farmer",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 46,
+        "rating": 1588,
+        "rd": 71,
+        "prog": 125
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1241,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 5,
+        "rating": 1600,
+        "rd": 247,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 18,
+        "rating": 1514,
+        "rd": 112,
+        "prog": 40,
+        "prov": true
+      },
+      "bullet": {
+        "games": 66,
+        "rating": 1766,
+        "rd": 71,
+        "prog": 78
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1926,
+        "rd": 382,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1615211540525,
+    "profile": {
+      "country": "_pirate",
+      "bio": "Feel free to challenge me when I am online. I am a @Bob_Sucarson BOT. PLEASE DO NOT send me links to join teams. You will be blocked.",
+      "firstName": "Chicken Farmer",
+      "lastName": "BOT"
+    },
+    "seenAt": 1619723406309,
+    "playTime": {
+      "total": 13872,
+      "tv": 132
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/chicken_farmer",
+    "nbFollowing": 6,
+    "nbFollowers": 11,
+    "count": {
+      "all": 207,
+      "rated": 140,
+      "ai": 25,
+      "draw": 29,
+      "drawH": 28,
+      "loss": 67,
+      "lossH": 52,
+      "win": 111,
+      "winH": 102,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
