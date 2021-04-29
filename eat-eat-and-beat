@@ -4,7 +4,7 @@
   "username": "EAT-EAT-AND-BEAT",
   "profileUrl": "https://lichess.org/@/EAT-EAT-AND-BEAT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"eat-eat-and-beat\",\"username\":\"EAT-EAT-AND-BEAT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1369,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1917,\"rd\":308,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1982,\"rd\":247,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2515,\"rd\":287,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619078851828,\"seenAt\":1619610940376,\"playTime\":{\"total\":2075,\"tv\":1178},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EAT-EAT-AND-BEAT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":15,\"rated\":15,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"eat-eat-and-beat\",\"username\":\"EAT-EAT-AND-BEAT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1369,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1917,\"rd\":308,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1982,\"rd\":247,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2250,\"rd\":262,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619078851828,\"seenAt\":1619683662035,\"playTime\":{\"total\":2539,\"tv\":1178},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EAT-EAT-AND-BEAT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "eat-eat-and-beat",
     "username": "EAT-EAT-AND-BEAT",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "classical": {
-        "games": 2,
-        "rating": 2515,
-        "rd": 287,
+        "games": 3,
+        "rating": 2250,
+        "rd": 262,
         "prog": 0,
         "prov": true
       },
@@ -54,9 +54,9 @@
       }
     },
     "createdAt": 1619078851828,
-    "seenAt": 1619610940376,
+    "seenAt": 1619683662035,
     "playTime": {
-      "total": 2075,
+      "total": 2539,
       "tv": 1178
     },
     "language": "en-US",
@@ -65,13 +65,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 15,
-      "rated": 15,
+      "all": 16,
+      "rated": 16,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 5,
-      "lossH": 5,
+      "loss": 6,
+      "lossH": 6,
       "win": 10,
       "winH": 10,
       "bookmark": 0,
