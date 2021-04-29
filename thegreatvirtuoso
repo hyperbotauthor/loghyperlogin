@@ -4,7 +4,7 @@
   "username": "TheGreatvirtuoso",
   "profileUrl": "https://lichess.org/@/TheGreatvirtuoso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1448,\"rd\":424,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2175,\"rd\":89,\"prog\":350},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1779,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"seenAt\":1619665123666,\"playTime\":{\"total\":6023,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"playing\":\"https://lichess.org/8KLTBzRK/white\",\"nbFollowing\":2,\"nbFollowers\":29,\"count\":{\"all\":42,\"rated\":25,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":10,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1448,\"rd\":424,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2180,\"rd\":87,\"prog\":280},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1779,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"profile\":{\"country\":\"IN\",\"bio\":\"heyya! you can challenge me in blitz, bullet and rapid :) but please only rated. My owner is @bhavisha0101\"},\"seenAt\":1619666512465,\"playTime\":{\"total\":6274,\"tv\":92},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"playing\":\"https://lichess.org/8krCg9os/black\",\"nbFollowing\":2,\"nbFollowers\":31,\"count\":{\"all\":45,\"rated\":26,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":11,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatvirtuoso",
     "username": "TheGreatvirtuoso",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 23,
-        "rating": 2175,
-        "rd": 89,
-        "prog": 350
+        "games": 24,
+        "rating": 2180,
+        "rd": 87,
+        "prog": 280
       },
       "correspondence": {
         "games": 0,
@@ -46,27 +46,31 @@
       }
     },
     "createdAt": 1619534166160,
-    "seenAt": 1619665123666,
+    "profile": {
+      "country": "IN",
+      "bio": "heyya! you can challenge me in blitz, bullet and rapid :) but please only rated. My owner is @bhavisha0101"
+    },
+    "seenAt": 1619666512465,
     "playTime": {
-      "total": 6023,
-      "tv": 0
+      "total": 6274,
+      "tv": 92
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheGreatvirtuoso",
-    "playing": "https://lichess.org/8KLTBzRK/white",
+    "playing": "https://lichess.org/8krCg9os/black",
     "nbFollowing": 2,
-    "nbFollowers": 29,
+    "nbFollowers": 31,
     "count": {
-      "all": 42,
-      "rated": 25,
+      "all": 45,
+      "rated": 26,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 12,
-      "lossH": 10,
-      "win": 30,
-      "winH": 30,
+      "loss": 13,
+      "lossH": 11,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
