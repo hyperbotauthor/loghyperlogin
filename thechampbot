@@ -4,11 +4,11 @@
   "username": "TheChampBot",
   "profileUrl": "https://lichess.org/@/TheChampBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thechampbot\",\"username\":\"TheChampBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1750,\"rd\":259,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619441653069,\"profile\":{\"bio\":\"https://bot2010samanyay.herokuapp.com/\\r\\nYOU CAN BRING ME ONLINE HERE\\r\\ni play a bit slow but runs on stockfish 13\\r\\nchallenge me\\r\\nmade by @DrSamanyay\\r\\nhttps://lichess1.org/assets/_eICX5B/images/icons/bot.png\"},\"seenAt\":1619670335282,\"playTime\":{\"total\":2171,\"tv\":601},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheChampBot\",\"playing\":\"https://lichess.org/kSiSqcjo/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":13,\"rated\":4,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":11,\"winH\":8,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thechampbot\",\"username\":\"TheChampBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1750,\"rd\":259,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1878,\"rd\":185,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619441653069,\"profile\":{\"bio\":\"https://bot2010samanyay.herokuapp.com/\\r\\nYOU CAN BRING ME ONLINE HERE\\r\\ni play a bit slow but runs on stockfish 13\\r\\nchallenge me\\r\\nmade by @DrSamanyay\\r\\nhttps://lichess1.org/assets/_eICX5B/images/icons/bot.png\"},\"seenAt\":1619694130537,\"playTime\":{\"total\":2661,\"tv\":601},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheChampBot\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":21,\"rated\":10,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":19,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thechampbot",
     "username": "TheChampBot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 2,
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 1878,
+        "rd": 185,
         "prog": 0,
         "prov": true
       },
@@ -57,29 +57,28 @@
     "profile": {
       "bio": "https://bot2010samanyay.herokuapp.com/\r\nYOU CAN BRING ME ONLINE HERE\r\ni play a bit slow but runs on stockfish 13\r\nchallenge me\r\nmade by @DrSamanyay\r\nhttps://lichess1.org/assets/_eICX5B/images/icons/bot.png"
     },
-    "seenAt": 1619670335282,
+    "seenAt": 1619694130537,
     "playTime": {
-      "total": 2171,
+      "total": 2661,
       "tv": 601
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheChampBot",
-    "playing": "https://lichess.org/kSiSqcjo/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 13,
-      "rated": 4,
+      "all": 21,
+      "rated": 10,
       "ai": 3,
       "draw": 0,
       "drawH": 0,
       "loss": 2,
       "lossH": 2,
-      "win": 11,
-      "winH": 8,
+      "win": 19,
+      "winH": 16,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
