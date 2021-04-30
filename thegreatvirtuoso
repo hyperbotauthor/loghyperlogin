@@ -4,24 +4,24 @@
   "username": "TheGreatvirtuoso",
   "profileUrl": "https://lichess.org/@/TheGreatvirtuoso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1448,\"rd\":424,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2249,\"rd\":64,\"prog\":4},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1905,\"rd\":213,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"profile\":{\"country\":\"IN\",\"bio\":\"heyya! you can challenge me in blitz, bullet and rapid :) but please only rated. My owner is @bhavisha0101\\r\\nmessage me whenever you want to challenge me\"},\"seenAt\":1619757139569,\"playTime\":{\"total\":9934,\"tv\":645},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"playing\":\"https://lichess.org/bnq0l8ZK/white\",\"nbFollowing\":2,\"nbFollowers\":53,\"count\":{\"all\":80,\"rated\":55,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":21,\"lossH\":19,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thegreatvirtuoso\",\"username\":\"TheGreatvirtuoso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2172,\"rd\":362,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":54,\"rating\":2250,\"rd\":60,\"prog\":-37},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1905,\"rd\":213,\"prog\":0,\"prov\":true}},\"createdAt\":1619534166160,\"profile\":{\"country\":\"IN\",\"bio\":\"heyya! you can challenge me in blitz, bullet and rapid :) but please only rated. My owner is @bhavisha0101\\r\\nmessage me whenever you want to challenge me\"},\"seenAt\":1619760500546,\"playTime\":{\"total\":11489,\"tv\":778},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheGreatvirtuoso\",\"playing\":\"https://lichess.org/RXHUCFZk/black\",\"nbFollowing\":2,\"nbFollowers\":54,\"count\":{\"all\":92,\"rated\":63,\"ai\":2,\"draw\":4,\"drawH\":4,\"loss\":26,\"lossH\":24,\"win\":62,\"winH\":62,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thegreatvirtuoso",
     "username": "TheGreatvirtuoso",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 1448,
-        "rd": 424,
+        "games": 2,
+        "rating": 2172,
+        "rd": 362,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 47,
-        "rating": 2249,
-        "rd": 64,
-        "prog": 4
+        "games": 54,
+        "rating": 2250,
+        "rd": 60,
+        "prog": -37
       },
       "correspondence": {
         "games": 0,
@@ -50,29 +50,29 @@
       "country": "IN",
       "bio": "heyya! you can challenge me in blitz, bullet and rapid :) but please only rated. My owner is @bhavisha0101\r\nmessage me whenever you want to challenge me"
     },
-    "seenAt": 1619757139569,
+    "seenAt": 1619760500546,
     "playTime": {
-      "total": 9934,
-      "tv": 645
+      "total": 11489,
+      "tv": 778
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheGreatvirtuoso",
-    "playing": "https://lichess.org/bnq0l8ZK/white",
+    "playing": "https://lichess.org/RXHUCFZk/black",
     "nbFollowing": 2,
-    "nbFollowers": 53,
+    "nbFollowers": 54,
     "count": {
-      "all": 80,
-      "rated": 55,
+      "all": 92,
+      "rated": 63,
       "ai": 2,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 21,
-      "lossH": 19,
-      "win": 57,
-      "winH": 57,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 26,
+      "lossH": 24,
+      "win": 62,
+      "winH": 62,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
