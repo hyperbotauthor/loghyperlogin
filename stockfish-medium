@@ -4,7 +4,7 @@
   "username": "Stockfish-MEDIUM",
   "profileUrl": "https://lichess.org/@/Stockfish-MEDIUM",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfish-medium\",\"username\":\"Stockfish-MEDIUM\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1656,\"rd\":168,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":224,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1604,\"rd\":161,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1575,\"rd\":147,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":12,\"rating\":2286,\"rd\":249,\"prog\":9,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":1849,\"rd\":133,\"prog\":-110,\"prov\":true},\"kingOfTheHill\":{\"games\":4,\"rating\":1839,\"rd\":259,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":1379,\"rd\":143,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1590,\"rd\":238,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":68,\"rating\":1913,\"rd\":107,\"prog\":18},\"correspondence\":{\"games\":6,\"rating\":1481,\"rd\":228,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1769,\"rd\":176,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1685,\"rd\":159,\"prog\":0,\"prov\":true}},\"createdAt\":1615329136956,\"profile\":{\"country\":\"US\",\"location\":\"Stockfishchess.org\",\"bio\":\"BE SURE TO JOIN MY FAN CLUB: https://lichess.org/team/stockfishfriends-\\r\\nWant to learn how to make a bot?\\r\\nhttps://lichess.org/api#operation/botAccountUpgrade \\r\\nhttps://lichess.org/team/lichess-bots  <-This is the official Bot Team.\\r\\nNOTE: I do have the ability to play variants. :D\\r\\n(Also, challenge me 2 Mins Or Above.)\\r\\nStream: https://lichess.org/streamer/stockfish-medium\",\"firstName\":\"Stockfish\",\"lastName\":\"MEDIUM\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500,\"rcfRating\":2500,\"cfcRating\":2500,\"links\":\"https://stockfishchess.org/\"},\"seenAt\":1619732401480,\"playTime\":{\"total\":24482,\"tv\":247},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Stockfish-MEDIUM\",\"nbFollowing\":2,\"nbFollowers\":15,\"count\":{\"all\":278,\"rated\":160,\"ai\":40,\"draw\":30,\"drawH\":30,\"loss\":56,\"lossH\":45,\"win\":192,\"winH\":163,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfish-medium\",\"username\":\"Stockfish-MEDIUM\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1656,\"rd\":168,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1510,\"rd\":225,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1604,\"rd\":161,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1575,\"rd\":148,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":12,\"rating\":2286,\"rd\":249,\"prog\":9,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":1849,\"rd\":133,\"prog\":-110,\"prov\":true},\"kingOfTheHill\":{\"games\":4,\"rating\":1839,\"rd\":259,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":1379,\"rd\":143,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1590,\"rd\":238,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":68,\"rating\":1913,\"rd\":107,\"prog\":18},\"correspondence\":{\"games\":6,\"rating\":1481,\"rd\":228,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1769,\"rd\":176,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1685,\"rd\":160,\"prog\":0,\"prov\":true}},\"createdAt\":1615329136956,\"profile\":{\"country\":\"US\",\"location\":\"Stockfishchess.org\",\"bio\":\"BE SURE TO JOIN MY FAN CLUB: https://lichess.org/team/stockfishfriends-\\r\\nWant to learn how to make a bot?\\r\\nhttps://lichess.org/api#operation/botAccountUpgrade \\r\\nhttps://lichess.org/team/lichess-bots  <-This is the official Bot Team.\\r\\nNOTE: I do have the ability to play variants. :D\\r\\n(Also, challenge me 2 Mins Or Above.)\\r\\nStream: https://lichess.org/streamer/stockfish-medium\",\"firstName\":\"Stockfish\",\"lastName\":\"MEDIUM\",\"fideRating\":2500,\"uscfRating\":2500,\"ecfRating\":2500,\"rcfRating\":2500,\"cfcRating\":2500,\"links\":\"https://stockfishchess.org/\"},\"seenAt\":1619898574980,\"playTime\":{\"total\":24482,\"tv\":247},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Stockfish-MEDIUM\",\"nbFollowing\":1,\"nbFollowers\":15,\"count\":{\"all\":279,\"rated\":160,\"ai\":41,\"draw\":30,\"drawH\":30,\"loss\":56,\"lossH\":45,\"win\":193,\"winH\":163,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfish-medium",
     "username": "Stockfish-MEDIUM",
@@ -20,7 +20,7 @@
       "antichess": {
         "games": 3,
         "rating": 1510,
-        "rd": 224,
+        "rd": 225,
         "prog": 0,
         "prov": true
       },
@@ -34,7 +34,7 @@
       "atomic": {
         "games": 8,
         "rating": 1575,
-        "rd": 147,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
@@ -96,7 +96,7 @@
       "rapid": {
         "games": 6,
         "rating": 1685,
-        "rd": 159,
+        "rd": 160,
         "prog": 0,
         "prov": true
       }
@@ -115,7 +115,7 @@
       "cfcRating": 2500,
       "links": "https://stockfishchess.org/"
     },
-    "seenAt": 1619732401480,
+    "seenAt": 1619898574980,
     "playTime": {
       "total": 24482,
       "tv": 247
@@ -123,17 +123,17 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Stockfish-MEDIUM",
-    "nbFollowing": 2,
+    "nbFollowing": 1,
     "nbFollowers": 15,
     "count": {
-      "all": 278,
+      "all": 279,
       "rated": 160,
-      "ai": 40,
+      "ai": 41,
       "draw": 30,
       "drawH": 30,
       "loss": 56,
       "lossH": 45,
-      "win": 192,
+      "win": 193,
       "winH": 163,
       "bookmark": 0,
       "playing": 0,
