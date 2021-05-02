@@ -4,7 +4,7 @@
   "username": "Pulkit1047",
   "profileUrl": "https://lichess.org/@/Pulkit1047",
   "provider": "lichess",
-  "_raw": "{\"id\":\"pulkit1047\",\"username\":\"Pulkit1047\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1060,\"rd\":180,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1157,\"rd\":211,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1316,\"rd\":293,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1227,\"rating\":1489,\"rd\":45,\"prog\":15},\"blitz\":{\"games\":101,\"rating\":1624,\"rd\":55,\"prog\":5},\"kingOfTheHill\":{\"games\":3,\"rating\":1567,\"rd\":223,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1242,\"rd\":249,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":17,\"rating\":1608,\"rd\":119,\"prog\":63,\"prov\":true},\"bullet\":{\"games\":1049,\"rating\":1749,\"rd\":45,\"prog\":43},\"correspondence\":{\"games\":7,\"rating\":1888,\"rd\":162,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1415,\"rd\":381,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":219,\"rating\":1880,\"rd\":70,\"prog\":0},\"classical\":{\"games\":46,\"rating\":1668,\"rd\":97,\"prog\":-5},\"rapid\":{\"games\":57,\"rating\":1733,\"rd\":86,\"prog\":70},\"storm\":{\"runs\":64,\"score\":39}},\"createdAt\":1576161470493,\"profile\":{\"country\":\"IN\",\"fideRating\":1208},\"seenAt\":1618761050466,\"playTime\":{\"total\":488265,\"tv\":5054},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Pulkit1047\",\"nbFollowing\":211,\"nbFollowers\":17,\"completionRate\":93,\"count\":{\"all\":4338,\"rated\":2642,\"ai\":223,\"draw\":255,\"drawH\":196,\"loss\":1478,\"lossH\":1381,\"win\":2605,\"winH\":2538,\"bookmark\":11,\"playing\":0,\"import\":20,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"pulkit1047\",\"username\":\"Pulkit1047\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1258,\"rd\":398,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1060,\"rd\":182,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1157,\"rd\":212,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1316,\"rd\":294,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1533,\"rating\":1517,\"rd\":45,\"prog\":1},\"blitz\":{\"games\":103,\"rating\":1631,\"rd\":57,\"prog\":5},\"kingOfTheHill\":{\"games\":3,\"rating\":1567,\"rd\":224,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1242,\"rd\":250,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":21,\"rating\":1645,\"rd\":111,\"prog\":100,\"prov\":true},\"bullet\":{\"games\":1198,\"rating\":1676,\"rd\":45,\"prog\":-3},\"correspondence\":{\"games\":7,\"rating\":1888,\"rd\":163,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1898,\"rd\":311,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":219,\"rating\":1880,\"rd\":73,\"prog\":0},\"classical\":{\"games\":48,\"rating\":1674,\"rd\":95,\"prog\":24},\"rapid\":{\"games\":60,\"rating\":1751,\"rd\":81,\"prog\":78},\"storm\":{\"runs\":65,\"score\":39},\"racer\":{\"runs\":1,\"score\":29}},\"createdAt\":1576161470493,\"profile\":{\"country\":\"IN\",\"fideRating\":1208},\"seenAt\":1619958600865,\"playTime\":{\"total\":530983,\"tv\":5054},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Pulkit1047\",\"nbFollowing\":218,\"nbFollowers\":19,\"completionRate\":80,\"count\":{\"all\":4894,\"rated\":3116,\"ai\":233,\"draw\":274,\"drawH\":212,\"loss\":1695,\"lossH\":1597,\"win\":2925,\"winH\":2852,\"bookmark\":12,\"playing\":0,\"import\":21,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "pulkit1047",
     "username": "Pulkit1047",
@@ -13,105 +13,109 @@
       "chess960": {
         "games": 1,
         "rating": 1258,
-        "rd": 397,
+        "rd": 398,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 7,
         "rating": 1060,
-        "rd": 180,
+        "rd": 182,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 4,
         "rating": 1157,
-        "rd": 211,
+        "rd": 212,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 2,
         "rating": 1316,
-        "rd": 293,
+        "rd": 294,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
-        "games": 1227,
-        "rating": 1489,
+        "games": 1533,
+        "rating": 1517,
         "rd": 45,
-        "prog": 15
+        "prog": 1
       },
       "blitz": {
-        "games": 101,
-        "rating": 1624,
-        "rd": 55,
+        "games": 103,
+        "rating": 1631,
+        "rd": 57,
         "prog": 5
       },
       "kingOfTheHill": {
         "games": 3,
         "rating": 1567,
-        "rd": 223,
+        "rd": 224,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 2,
         "rating": 1242,
-        "rd": 249,
+        "rd": 250,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
-        "games": 17,
-        "rating": 1608,
-        "rd": 119,
-        "prog": 63,
+        "games": 21,
+        "rating": 1645,
+        "rd": 111,
+        "prog": 100,
         "prov": true
       },
       "bullet": {
-        "games": 1049,
-        "rating": 1749,
+        "games": 1198,
+        "rating": 1676,
         "rd": 45,
-        "prog": 43
+        "prog": -3
       },
       "correspondence": {
         "games": 7,
         "rating": 1888,
-        "rd": 162,
+        "rd": 163,
         "prog": 0,
         "prov": true
       },
       "horde": {
-        "games": 1,
-        "rating": 1415,
-        "rd": 381,
+        "games": 2,
+        "rating": 1898,
+        "rd": 311,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
         "games": 219,
         "rating": 1880,
-        "rd": 70,
+        "rd": 73,
         "prog": 0
       },
       "classical": {
-        "games": 46,
-        "rating": 1668,
-        "rd": 97,
-        "prog": -5
+        "games": 48,
+        "rating": 1674,
+        "rd": 95,
+        "prog": 24
       },
       "rapid": {
-        "games": 57,
-        "rating": 1733,
-        "rd": 86,
-        "prog": 70
+        "games": 60,
+        "rating": 1751,
+        "rd": 81,
+        "prog": 78
       },
       "storm": {
-        "runs": 64,
+        "runs": 65,
         "score": 39
+      },
+      "racer": {
+        "runs": 1,
+        "score": 29
       }
     },
     "createdAt": 1576161470493,
@@ -119,29 +123,29 @@
       "country": "IN",
       "fideRating": 1208
     },
-    "seenAt": 1618761050466,
+    "seenAt": 1619958600865,
     "playTime": {
-      "total": 488265,
+      "total": 530983,
       "tv": 5054
     },
     "language": "en-US",
     "url": "https://lichess.org/@/Pulkit1047",
-    "nbFollowing": 211,
-    "nbFollowers": 17,
-    "completionRate": 93,
+    "nbFollowing": 218,
+    "nbFollowers": 19,
+    "completionRate": 80,
     "count": {
-      "all": 4338,
-      "rated": 2642,
-      "ai": 223,
-      "draw": 255,
-      "drawH": 196,
-      "loss": 1478,
-      "lossH": 1381,
-      "win": 2605,
-      "winH": 2538,
-      "bookmark": 11,
+      "all": 4894,
+      "rated": 3116,
+      "ai": 233,
+      "draw": 274,
+      "drawH": 212,
+      "loss": 1695,
+      "lossH": 1597,
+      "win": 2925,
+      "winH": 2852,
+      "bookmark": 12,
       "playing": 0,
-      "import": 20,
+      "import": 21,
       "me": 0
     },
     "followable": true,
