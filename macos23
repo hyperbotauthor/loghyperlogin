@@ -1,0 +1,94 @@
+{
+  "id": "macos23",
+  "displayName": "macOS23",
+  "username": "macOS23",
+  "profileUrl": "https://lichess.org/@/macOS23",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"macos23\",\"username\":\"macOS23\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1969,\"rd\":243,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":1786,\"rd\":176,\"prog\":-62,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":11,\"rating\":1979,\"rd\":206,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":28,\"rating\":2230,\"rd\":185,\"prog\":121,\"prov\":true}},\"createdAt\":1613830941800,\"profile\":{\"country\":\"_lichess\",\"location\":\"Chancellor ;\",\"bio\":\"DOB -03.05.2006\\r\\nName - Sougata Ghosh \\r\\nAge - 14 \\r\\nChess Title - Life Master (LM)\\r\\n  Clarification - \\r\\nGM (Grandmaster ) -2014  - 2 times\\r\\nIM (International Master) - 2018 - 3 times   \\r\\nLM (Life Master) - 2021 - 1 time\\r\\nAcademy Name - Dibendu Barua Chess Academy\\r\\nChampion - CSCE  Chess Tournament , National Chess Tournament , Blitz Chess Tournament.\",\"firstName\":\"LM\",\"lastName\":\"Sougata Ghosh\",\"fideRating\":2890,\"uscfRating\":2560,\"ecfRating\":2451,\"rcfRating\":2580,\"cfcRating\":2456,\"links\":\"Twitter \\r\\nFacebook\\r\\nMessenger\\r\\nGithub\\r\\nYouTube\\r\\nTwich \\r\\nChess.com\\r\\nClonochess\\r\\nInstargram\\r\\nGrandmaster \\r\\nInternationalMaster\\r\\nLifeMaster\\r\\nNationalMaster\\r\\nALL_INDIA_CHESS_FEDRATION\"},\"seenAt\":1619954985880,\"playTime\":{\"total\":68188,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/macOS23\",\"nbFollowing\":4,\"nbFollowers\":13,\"count\":{\"all\":665,\"rated\":133,\"ai\":167,\"draw\":101,\"drawH\":67,\"loss\":66,\"lossH\":33,\"win\":498,\"winH\":398,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "macos23",
+    "username": "macOS23",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 7,
+        "rating": 1969,
+        "rd": 243,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 37,
+        "rating": 1786,
+        "rd": 176,
+        "prog": -62,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 11,
+        "rating": 1979,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 28,
+        "rating": 2230,
+        "rd": 185,
+        "prog": 121,
+        "prov": true
+      }
+    },
+    "createdAt": 1613830941800,
+    "profile": {
+      "country": "_lichess",
+      "location": "Chancellor ;",
+      "bio": "DOB -03.05.2006\r\nName - Sougata Ghosh \r\nAge - 14 \r\nChess Title - Life Master (LM)\r\n  Clarification - \r\nGM (Grandmaster ) -2014  - 2 times\r\nIM (International Master) - 2018 - 3 times   \r\nLM (Life Master) - 2021 - 1 time\r\nAcademy Name - Dibendu Barua Chess Academy\r\nChampion - CSCE  Chess Tournament , National Chess Tournament , Blitz Chess Tournament.",
+      "firstName": "LM",
+      "lastName": "Sougata Ghosh",
+      "fideRating": 2890,
+      "uscfRating": 2560,
+      "ecfRating": 2451,
+      "rcfRating": 2580,
+      "cfcRating": 2456,
+      "links": "Twitter \r\nFacebook\r\nMessenger\r\nGithub\r\nYouTube\r\nTwich \r\nChess.com\r\nClonochess\r\nInstargram\r\nGrandmaster \r\nInternationalMaster\r\nLifeMaster\r\nNationalMaster\r\nALL_INDIA_CHESS_FEDRATION"
+    },
+    "seenAt": 1619954985880,
+    "playTime": {
+      "total": 68188,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/macOS23",
+    "nbFollowing": 4,
+    "nbFollowers": 13,
+    "count": {
+      "all": 665,
+      "rated": 133,
+      "ai": 167,
+      "draw": 101,
+      "drawH": 67,
+      "loss": 66,
+      "lossH": 33,
+      "win": 498,
+      "winH": 398,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
