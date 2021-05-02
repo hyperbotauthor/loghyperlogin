@@ -4,73 +4,73 @@
   "username": "pengxiaozhu3",
   "profileUrl": "https://lichess.org/@/pengxiaozhu3",
   "provider": "lichess",
-  "_raw": "{\"id\":\"pengxiaozhu3\",\"username\":\"pengxiaozhu3\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2005,\"rd\":144,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":71,\"rating\":2356,\"rd\":87,\"prog\":46},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":17,\"rating\":1889,\"rd\":108,\"prog\":189},\"rapid\":{\"games\":13,\"rating\":1890,\"rd\":131,\"prog\":-71,\"prov\":true}},\"createdAt\":1617874109973,\"profile\":{\"country\":\"_rainbow\",\"bio\":\"Created by @leon2020liao and @PeNgXiAo-ZhU\"},\"seenAt\":1618217506893,\"playTime\":{\"total\":36963,\"tv\":1140},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/pengxiaozhu3\",\"nbFollowing\":0,\"nbFollowers\":8,\"count\":{\"all\":153,\"rated\":115,\"ai\":19,\"draw\":10,\"drawH\":9,\"loss\":22,\"lossH\":12,\"win\":121,\"winH\":113,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"pengxiaozhu3\",\"username\":\"pengxiaozhu3\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2032,\"rd\":109,\"prog\":28},\"bullet\":{\"games\":169,\"rating\":2379,\"rd\":48,\"prog\":-10},\"correspondence\":{\"games\":1,\"rating\":2014,\"rd\":393,\"prog\":0,\"prov\":true},\"classical\":{\"games\":20,\"rating\":1882,\"rd\":107,\"prog\":182},\"rapid\":{\"games\":21,\"rating\":2066,\"rd\":111,\"prog\":105,\"prov\":true}},\"createdAt\":1617874109973,\"profile\":{\"country\":\"_earth\",\"bio\":\"Created by @leon2020liao and @PeNgXiAo_ZhU\\r\\nhttps://i.imgur.com/KVSpH7b.jpg\\r\\nhttps://i.imgur.com/GARczCy.jpg\"},\"seenAt\":1619949931114,\"playTime\":{\"total\":58261,\"tv\":3812},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/pengxiaozhu3\",\"playing\":\"https://lichess.org/EehBEKO9/black\",\"nbFollowing\":4,\"nbFollowers\":19,\"count\":{\"all\":316,\"rated\":237,\"ai\":30,\"draw\":15,\"drawH\":14,\"loss\":48,\"lossH\":34,\"win\":253,\"winH\":238,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "pengxiaozhu3",
     "username": "pengxiaozhu3",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 11,
-        "rating": 2005,
-        "rd": 144,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 2032,
+        "rd": 109,
+        "prog": 28
       },
       "bullet": {
-        "games": 71,
-        "rating": 2356,
-        "rd": 87,
-        "prog": 46
+        "games": 169,
+        "rating": 2379,
+        "rd": 48,
+        "prog": -10
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2014,
+        "rd": 393,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 17,
-        "rating": 1889,
-        "rd": 108,
-        "prog": 189
+        "games": 20,
+        "rating": 1882,
+        "rd": 107,
+        "prog": 182
       },
       "rapid": {
-        "games": 13,
-        "rating": 1890,
-        "rd": 131,
-        "prog": -71,
+        "games": 21,
+        "rating": 2066,
+        "rd": 111,
+        "prog": 105,
         "prov": true
       }
     },
     "createdAt": 1617874109973,
     "profile": {
-      "country": "_rainbow",
-      "bio": "Created by @leon2020liao and @PeNgXiAo-ZhU"
+      "country": "_earth",
+      "bio": "Created by @leon2020liao and @PeNgXiAo_ZhU\r\nhttps://i.imgur.com/KVSpH7b.jpg\r\nhttps://i.imgur.com/GARczCy.jpg"
     },
-    "seenAt": 1618217506893,
+    "seenAt": 1619949931114,
     "playTime": {
-      "total": 36963,
-      "tv": 1140
+      "total": 58261,
+      "tv": 3812
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/pengxiaozhu3",
-    "nbFollowing": 0,
-    "nbFollowers": 8,
+    "playing": "https://lichess.org/EehBEKO9/black",
+    "nbFollowing": 4,
+    "nbFollowers": 19,
     "count": {
-      "all": 153,
-      "rated": 115,
-      "ai": 19,
-      "draw": 10,
-      "drawH": 9,
-      "loss": 22,
-      "lossH": 12,
-      "win": 121,
-      "winH": 113,
+      "all": 316,
+      "rated": 237,
+      "ai": 30,
+      "draw": 15,
+      "drawH": 14,
+      "loss": 48,
+      "lossH": 34,
+      "win": 253,
+      "winH": 238,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
