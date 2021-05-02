@@ -1,0 +1,111 @@
+{
+  "id": "ilyakanira",
+  "displayName": "ilyakanira",
+  "username": "ilyakanira",
+  "profileUrl": "https://lichess.org/@/ilyakanira",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ilyakanira\",\"username\":\"ilyakanira\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":901,\"rd\":377,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":174,\"rating\":1133,\"rd\":51,\"prog\":24},\"puzzle\":{\"games\":88,\"rating\":1391,\"rd\":93,\"prog\":0},\"atomic\":{\"games\":3,\"rating\":1619,\"rd\":211,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":383,\"rating\":1249,\"rd\":65,\"prog\":-9},\"bullet\":{\"games\":477,\"rating\":1200,\"rd\":63,\"prog\":31},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":63,\"rating\":1165,\"rd\":68,\"prog\":4}},\"createdAt\":1614360893432,\"profile\":{\"country\":\"KZ\",\"location\":\"Zambyl\",\"bio\":\"ANI⚡M\\uD83D\\uDCA5EW\\uD83D\\uDCA2 \\r\\nИлья\",\"firstName\":\"Илья\",\"lastName\":\"Кармаев\"},\"seenAt\":1619948056556,\"playTime\":{\"total\":175693,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/ilyakanira\",\"nbFollowing\":6,\"nbFollowers\":4,\"completionRate\":97,\"count\":{\"all\":1258,\"rated\":1103,\"ai\":23,\"draw\":23,\"drawH\":23,\"loss\":741,\"lossH\":723,\"win\":494,\"winH\":489,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ilyakanira",
+    "username": "ilyakanira",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 901,
+        "rd": 377,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 174,
+        "rating": 1133,
+        "rd": 51,
+        "prog": 24
+      },
+      "puzzle": {
+        "games": 88,
+        "rating": 1391,
+        "rd": 93,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 1619,
+        "rd": 211,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 383,
+        "rating": 1249,
+        "rd": 65,
+        "prog": -9
+      },
+      "bullet": {
+        "games": 477,
+        "rating": 1200,
+        "rd": 63,
+        "prog": 31
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 63,
+        "rating": 1165,
+        "rd": 68,
+        "prog": 4
+      }
+    },
+    "createdAt": 1614360893432,
+    "profile": {
+      "country": "KZ",
+      "location": "Zambyl",
+      "bio": "ANI⚡M💥EW💢 \r\nИлья",
+      "firstName": "Илья",
+      "lastName": "Кармаев"
+    },
+    "seenAt": 1619948056556,
+    "playTime": {
+      "total": 175693,
+      "tv": 0
+    },
+    "language": "ru-RU",
+    "url": "https://lichess.org/@/ilyakanira",
+    "nbFollowing": 6,
+    "nbFollowers": 4,
+    "completionRate": 97,
+    "count": {
+      "all": 1258,
+      "rated": 1103,
+      "ai": 23,
+      "draw": 23,
+      "drawH": 23,
+      "loss": 741,
+      "lossH": 723,
+      "win": 494,
+      "winH": 489,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
