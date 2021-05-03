@@ -1,0 +1,81 @@
+{
+  "id": "eksi-sozluk-bot",
+  "displayName": "EKSI-SOZLUK-BOT",
+  "username": "EKSI-SOZLUK-BOT",
+  "profileUrl": "https://lichess.org/@/EKSI-SOZLUK-BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"eksi-sozluk-bot\",\"username\":\"EKSI-SOZLUK-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620069981347,\"seenAt\":1620080313032,\"playTime\":{\"total\":4966,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EKSI-SOZLUK-BOT\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":33,\"rated\":0,\"ai\":13,\"draw\":2,\"drawH\":1,\"loss\":6,\"lossH\":0,\"win\":25,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "eksi-sozluk-bot",
+    "username": "EKSI-SOZLUK-BOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1620069981347,
+    "seenAt": 1620080313032,
+    "playTime": {
+      "total": 4966,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/EKSI-SOZLUK-BOT",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "count": {
+      "all": 33,
+      "rated": 0,
+      "ai": 13,
+      "draw": 2,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 0,
+      "win": 25,
+      "winH": 19,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
