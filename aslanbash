@@ -1,0 +1,109 @@
+{
+  "id": "aslanbash",
+  "displayName": "aslanbash",
+  "username": "aslanbash",
+  "profileUrl": "https://lichess.org/@/aslanbash",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"aslanbash\",\"username\":\"aslanbash\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":21,\"rating\":1724,\"rd\":97,\"prog\":-7},\"blitz\":{\"games\":5329,\"rating\":1937,\"rd\":45,\"prog\":-16},\"puzzle\":{\"games\":3567,\"rating\":2197,\"rd\":61,\"prog\":0},\"ultraBullet\":{\"games\":62,\"rating\":1393,\"rd\":125,\"prog\":19,\"prov\":true},\"bullet\":{\"games\":17078,\"rating\":1882,\"rd\":45,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":359,\"rating\":2021,\"rd\":47,\"prog\":-20},\"storm\":{\"runs\":28,\"score\":34},\"racer\":{\"runs\":4,\"score\":31},\"streak\":{\"runs\":2,\"score\":19}},\"createdAt\":1469997534807,\"seenAt\":1620079760808,\"playTime\":{\"total\":3968924,\"tv\":527},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/aslanbash\",\"nbFollowing\":6,\"nbFollowers\":34,\"completionRate\":93,\"count\":{\"all\":22988,\"rated\":22851,\"ai\":42,\"draw\":943,\"drawH\":943,\"loss\":10506,\"lossH\":10472,\"win\":11539,\"winH\":11531,\"bookmark\":7,\"playing\":0,\"import\":18,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "aslanbash",
+    "username": "aslanbash",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 21,
+        "rating": 1724,
+        "rd": 97,
+        "prog": -7
+      },
+      "blitz": {
+        "games": 5329,
+        "rating": 1937,
+        "rd": 45,
+        "prog": -16
+      },
+      "puzzle": {
+        "games": 3567,
+        "rating": 2197,
+        "rd": 61,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 62,
+        "rating": 1393,
+        "rd": 125,
+        "prog": 19,
+        "prov": true
+      },
+      "bullet": {
+        "games": 17078,
+        "rating": 1882,
+        "rd": 45,
+        "prog": 17
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 359,
+        "rating": 2021,
+        "rd": 47,
+        "prog": -20
+      },
+      "storm": {
+        "runs": 28,
+        "score": 34
+      },
+      "racer": {
+        "runs": 4,
+        "score": 31
+      },
+      "streak": {
+        "runs": 2,
+        "score": 19
+      }
+    },
+    "createdAt": 1469997534807,
+    "seenAt": 1620079760808,
+    "playTime": {
+      "total": 3968924,
+      "tv": 527
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/aslanbash",
+    "nbFollowing": 6,
+    "nbFollowers": 34,
+    "completionRate": 93,
+    "count": {
+      "all": 22988,
+      "rated": 22851,
+      "ai": 42,
+      "draw": 943,
+      "drawH": 943,
+      "loss": 10506,
+      "lossH": 10472,
+      "win": 11539,
+      "winH": 11531,
+      "bookmark": 7,
+      "playing": 0,
+      "import": 18,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
