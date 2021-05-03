@@ -4,11 +4,11 @@
   "username": "Kapablanca_balls",
   "profileUrl": "https://lichess.org/@/Kapablanca_balls",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kapablanca_balls\",\"username\":\"Kapablanca_balls\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1684,\"rd\":178,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1586,\"rd\":284,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619990405198,\"seenAt\":1620063276758,\"playTime\":{\"total\":21388,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kapablanca_balls\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":43,\"rated\":11,\"ai\":31,\"draw\":1,\"drawH\":1,\"loss\":38,\"lossH\":8,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kapablanca_balls\",\"username\":\"Kapablanca_balls\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1684,\"rd\":178,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1586,\"rd\":284,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619990405198,\"seenAt\":1620080898380,\"playTime\":{\"total\":21388,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Kapablanca_balls\",\"playing\":\"https://lichess.org/n4IklKkW/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":43,\"rated\":11,\"ai\":31,\"draw\":1,\"drawH\":1,\"loss\":38,\"lossH\":8,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kapablanca_balls",
     "username": "Kapablanca_balls",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 4,
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1619990405198,
-    "seenAt": 1620063276758,
+    "seenAt": 1620080898380,
     "playTime": {
       "total": 21388,
       "tv": 0
@@ -55,6 +55,7 @@
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Kapablanca_balls",
+    "playing": "https://lichess.org/n4IklKkW/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
@@ -68,7 +69,7 @@
       "win": 4,
       "winH": 3,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
