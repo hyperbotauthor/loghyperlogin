@@ -4,23 +4,30 @@
   "username": "TheDangerousBot2010",
   "profileUrl": "https://lichess.org/@/TheDangerousBot2010",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thedangerousbot2010\",\"username\":\"TheDangerousBot2010\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1646,\"rd\":314,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619957561309,\"seenAt\":1619958253403,\"playTime\":{\"total\":156,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheDangerousBot2010\",\"nbFollowing\":3,\"nbFollowers\":1,\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thedangerousbot2010\",\"username\":\"TheDangerousBot2010\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1815,\"rd\":234,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":420,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1800,\"rd\":291,\"prog\":0,\"prov\":true}},\"createdAt\":1619957561309,\"seenAt\":1620019740427,\"playTime\":{\"total\":1522,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheDangerousBot2010\",\"nbFollowing\":3,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thedangerousbot2010",
     "username": "TheDangerousBot2010",
     "online": true,
     "perfs": {
       "blitz": {
+        "games": 2,
+        "rating": 1815,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
         "games": 1,
-        "rating": 1646,
-        "rd": 314,
+        "rating": 1741,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2214,
+        "rd": 420,
         "prog": 0,
         "prov": true
       },
@@ -39,17 +46,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1800,
+        "rd": 291,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1619957561309,
-    "seenAt": 1619958253403,
+    "seenAt": 1620019740427,
     "playTime": {
-      "total": 156,
+      "total": 1522,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +65,15 @@
     "nbFollowing": 3,
     "nbFollowers": 1,
     "count": {
-      "all": 2,
-      "rated": 1,
+      "all": 9,
+      "rated": 5,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 2,
-      "winH": 2,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
