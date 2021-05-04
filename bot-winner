@@ -4,7 +4,7 @@
   "username": "Bot-Winner",
   "profileUrl": "https://lichess.org/@/Bot-Winner",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot-winner\",\"username\":\"Bot-Winner\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2190,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2360,\"rd\":177,\"prog\":-203,\"prov\":true}},\"createdAt\":1618134525265,\"profile\":{\"country\":\"_lichess\",\"location\":\"Russia\",\"firstName\":\"Константин\",\"lastName\":\"Курышин\"},\"seenAt\":1619930420251,\"playTime\":{\"total\":11188,\"tv\":558},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot-Winner\",\"nbFollowing\":2,\"nbFollowers\":5,\"count\":{\"all\":22,\"rated\":22,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot-winner\",\"username\":\"Bot-Winner\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2190,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2204,\"rd\":174,\"prog\":-359,\"prov\":true}},\"createdAt\":1618134525265,\"profile\":{\"country\":\"_lichess\",\"location\":\"Russia\",\"firstName\":\"Константин\",\"lastName\":\"Курышин\"},\"seenAt\":1620129746459,\"playTime\":{\"total\":11645,\"tv\":558},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot-Winner\",\"nbFollowing\":2,\"nbFollowers\":5,\"count\":{\"all\":23,\"rated\":23,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot-winner",
     "username": "Bot-Winner",
@@ -39,10 +39,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 18,
-        "rating": 2360,
-        "rd": 177,
-        "prog": -203,
+        "games": 19,
+        "rating": 2204,
+        "rd": 174,
+        "prog": -359,
         "prov": true
       }
     },
@@ -53,9 +53,9 @@
       "firstName": "Константин",
       "lastName": "Курышин"
     },
-    "seenAt": 1619930420251,
+    "seenAt": 1620129746459,
     "playTime": {
-      "total": 11188,
+      "total": 11645,
       "tv": 558
     },
     "language": "ru-RU",
@@ -64,13 +64,13 @@
     "nbFollowing": 2,
     "nbFollowers": 5,
     "count": {
-      "all": 22,
-      "rated": 22,
+      "all": 23,
+      "rated": 23,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 2,
-      "lossH": 2,
+      "loss": 3,
+      "lossH": 3,
       "win": 19,
       "winH": 19,
       "bookmark": 0,
