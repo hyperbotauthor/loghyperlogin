@@ -4,11 +4,11 @@
   "username": "RIFKI-ABI",
   "profileUrl": "https://lichess.org/@/RIFKI-ABI",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rifki-abi\",\"username\":\"RIFKI-ABI\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620080491272,\"seenAt\":1620084533691,\"playTime\":{\"total\":1191,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RIFKI-ABI\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":0,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":13,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rifki-abi\",\"username\":\"RIFKI-ABI\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1481,\"rd\":474,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620080491272,\"seenAt\":1620162722402,\"playTime\":{\"total\":1304,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RIFKI-ABI\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":2,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":14,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rifki-abi",
     "username": "RIFKI-ABI",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1481,
+        "rd": 474,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1620080491272,
-    "seenAt": 1620084533691,
+    "seenAt": 1620162722402,
     "playTime": {
-      "total": 1191,
+      "total": 1304,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +58,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 13,
-      "rated": 0,
+      "all": 16,
+      "rated": 2,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 13,
-      "winH": 11,
+      "loss": 2,
+      "lossH": 2,
+      "win": 14,
+      "winH": 12,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
