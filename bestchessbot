@@ -4,7 +4,7 @@
   "username": "bestchessbot",
   "profileUrl": "https://lichess.org/@/bestchessbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bestchessbot\",\"username\":\"bestchessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2277,\"rd\":97,\"prog\":78},\"bullet\":{\"games\":2,\"rating\":1602,\"rd\":343,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1676,\"rd\":313,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1602388737786,\"profile\":{\"bio\":\"I was created on 2nd May by 11 year old @Aviaansh92. Feel free to send me a challenge and I will try to accept it. Also, please join https://lichess.org/team/1800-blitzrapid\"},\"seenAt\":1620106511220,\"playTime\":{\"total\":5456,\"tv\":497},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bestchessbot\",\"playing\":\"https://lichess.org/rMKI5u82/white\",\"nbFollowing\":18,\"nbFollowers\":2,\"count\":{\"all\":20,\"rated\":18,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bestchessbot\",\"username\":\"bestchessbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2277,\"rd\":98,\"prog\":78},\"bullet\":{\"games\":11,\"rating\":1988,\"rd\":122,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1676,\"rd\":313,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1602388737786,\"profile\":{\"bio\":\"I was created on 2nd May by 11 year old @Aviaansh92. Feel free to send me a challenge and I will try to accept it. Also, please join https://lichess.org/team/1800-blitzrapid\"},\"seenAt\":1620176712210,\"playTime\":{\"total\":7690,\"tv\":497},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bestchessbot\",\"playing\":\"https://lichess.org/LpuzB8g0/black\",\"nbFollowing\":18,\"nbFollowers\":2,\"count\":{\"all\":29,\"rated\":27,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bestchessbot",
     "username": "bestchessbot",
@@ -13,13 +13,13 @@
       "blitz": {
         "games": 15,
         "rating": 2277,
-        "rd": 97,
+        "rd": 98,
         "prog": 78
       },
       "bullet": {
-        "games": 2,
-        "rating": 1602,
-        "rd": 343,
+        "games": 11,
+        "rating": 1988,
+        "rd": 122,
         "prog": 0,
         "prov": true
       },
@@ -49,27 +49,27 @@
     "profile": {
       "bio": "I was created on 2nd May by 11 year old @Aviaansh92. Feel free to send me a challenge and I will try to accept it. Also, please join https://lichess.org/team/1800-blitzrapid"
     },
-    "seenAt": 1620106511220,
+    "seenAt": 1620176712210,
     "playTime": {
-      "total": 5456,
+      "total": 7690,
       "tv": 497
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/bestchessbot",
-    "playing": "https://lichess.org/rMKI5u82/white",
+    "playing": "https://lichess.org/LpuzB8g0/black",
     "nbFollowing": 18,
     "nbFollowers": 2,
     "count": {
-      "all": 20,
-      "rated": 18,
+      "all": 29,
+      "rated": 27,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 18,
-      "winH": 18,
+      "loss": 7,
+      "lossH": 7,
+      "win": 22,
+      "winH": 22,
       "bookmark": 0,
       "playing": 2,
       "import": 0,
