@@ -4,7 +4,7 @@
   "username": "RealChessRobot",
   "profileUrl": "https://lichess.org/@/RealChessRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"realchessrobot\",\"username\":\"RealChessRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620188455666,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Source Code: https://github.com/Lichess-Source/lichess-bot\"},\"seenAt\":1620188493099,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/RealChessRobot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"realchessrobot\",\"username\":\"RealChessRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2514,\"rd\":132,\"prog\":-192,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620188455666,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Source Code: https://github.com/Lichess-Source/lichess-bot | I'm Running on Stockfish 13 + Heroku Server! | Accepting All Standart & Chess960 Challanges with Any Time Control | Available For Team / Follow Requests!\"},\"seenAt\":1620194806423,\"playTime\":{\"total\":948,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealChessRobot\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":29,\"rated\":20,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":5,\"lossH\":5,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "realchessrobot",
     "username": "RealChessRobot",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 17,
+        "rating": 2514,
+        "rd": 132,
+        "prog": -192,
         "prov": true
       },
       "correspondence": {
@@ -49,27 +49,28 @@
     "createdAt": 1620188455666,
     "profile": {
       "country": "_lichess",
-      "bio": "Source Code: https://github.com/Lichess-Source/lichess-bot"
+      "bio": "Source Code: https://github.com/Lichess-Source/lichess-bot | I'm Running on Stockfish 13 + Heroku Server! | Accepting All Standart & Chess960 Challanges with Any Time Control | Available For Team / Follow Requests!"
     },
-    "seenAt": 1620188493099,
+    "seenAt": 1620194806423,
     "playTime": {
-      "total": 0,
+      "total": 948,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/RealChessRobot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 2,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 29,
+      "rated": 20,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 5,
+      "lossH": 5,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
