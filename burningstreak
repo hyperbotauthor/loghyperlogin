@@ -1,0 +1,91 @@
+{
+  "id": "burningstreak",
+  "displayName": "burningstreak",
+  "username": "burningstreak",
+  "profileUrl": "https://lichess.org/@/burningstreak",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"burningstreak\",\"username\":\"burningstreak\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":26,\"rating\":3371,\"rd\":141,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1877,\"rd\":318,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":5,\"score\":20}},\"createdAt\":1618805547249,\"seenAt\":1620282698336,\"playTime\":{\"total\":184,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/burningstreak\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "burningstreak",
+    "username": "burningstreak",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 26,
+        "rating": 3371,
+        "rd": 141,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1877,
+        "rd": 318,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 5,
+        "score": 20
+      }
+    },
+    "createdAt": 1618805547249,
+    "seenAt": 1620282698336,
+    "playTime": {
+      "total": 184,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/burningstreak",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 4,
+      "rated": 4,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
