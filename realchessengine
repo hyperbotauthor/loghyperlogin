@@ -4,30 +4,30 @@
   "username": "RealChessEngine",
   "profileUrl": "https://lichess.org/@/RealChessEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"realchessengine\",\"username\":\"RealChessEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1868,\"rd\":229,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620122733016,\"seenAt\":1620137136112,\"playTime\":{\"total\":252,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealChessEngine\",\"playing\":\"https://lichess.org/RZFc1A3H/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":4,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"realchessengine\",\"username\":\"RealChessEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2281,\"rd\":119,\"prog\":20,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2120,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1958,\"rd\":190,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1620122733016,\"profile\":{\"country\":\"_earth\",\"location\":\"UAE\"},\"seenAt\":1620293500875,\"playTime\":{\"total\":9792,\"tv\":410},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealChessEngine\",\"nbFollowing\":6,\"nbFollowers\":8,\"count\":{\"all\":97,\"rated\":45,\"ai\":23,\"draw\":10,\"drawH\":10,\"loss\":16,\"lossH\":12,\"win\":71,\"winH\":52,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "realchessengine",
     "username": "RealChessEngine",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 22,
+        "rating": 2281,
+        "rd": 119,
+        "prog": 20,
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 1868,
-        "rd": 229,
+        "games": 11,
+        "rating": 2120,
+        "rd": 128,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 1958,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
@@ -39,37 +39,40 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2399,
+        "rd": 288,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1620122733016,
-    "seenAt": 1620137136112,
+    "profile": {
+      "country": "_earth",
+      "location": "UAE"
+    },
+    "seenAt": 1620293500875,
     "playTime": {
-      "total": 252,
-      "tv": 0
+      "total": 9792,
+      "tv": 410
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RealChessEngine",
-    "playing": "https://lichess.org/RZFc1A3H/white",
-    "nbFollowing": 0,
-    "nbFollowers": 1,
+    "nbFollowing": 6,
+    "nbFollowers": 8,
     "count": {
-      "all": 9,
-      "rated": 4,
-      "ai": 2,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 1,
-      "lossH": 1,
-      "win": 5,
-      "winH": 3,
+      "all": 97,
+      "rated": 45,
+      "ai": 23,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 16,
+      "lossH": 12,
+      "win": 71,
+      "winH": 52,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
