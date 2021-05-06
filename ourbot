@@ -4,7 +4,7 @@
   "username": "OurBot",
   "profileUrl": "https://lichess.org/@/OurBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ourbot\",\"username\":\"OurBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":57,\"rating\":2317,\"rd\":58,\"prog\":-44},\"atomic\":{\"games\":15,\"rating\":2161,\"rd\":195,\"prog\":31,\"prov\":true},\"bullet\":{\"games\":131,\"rating\":2172,\"rd\":46,\"prog\":-13},\"correspondence\":{\"games\":10,\"rating\":1824,\"rd\":183,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2369,\"rd\":96,\"prog\":1}},\"createdAt\":1618296168866,\"profile\":{\"country\":\"SK\",\"location\":\"For everybody\",\"bio\":\"https://i.imgur.com/saIOvIi.jpg\\r\\nMy owner and developer is @Palko_hra_sach. I'm using semi-own book, some moves are by @Palko_hra_sach repertoire and some by Stockfish 13, kind of healthy mix \\uD83D\\uDE09\\r\\nAlso thanks to @Gregor42. I'm still in development, but feel free to challenge me!\\r\\nI was made here: https://easychess.herokuapp.com\\r\\nI have a break from arround 21:00 UTC+2 till morning, arround 9:00 UTC+2\\r\\nFARMING ME WILL RESULT IN A BLOCKING AND MAYBE A REPORT!\",\"firstName\":\"Don't ask me to join\",\"lastName\":\"your Teams\",\"links\":\"lichess.org/@/Palko_hra_sach\"},\"seenAt\":1620245297398,\"playTime\":{\"total\":67824,\"tv\":6567},\"language\":\"sk-SK\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OurBot\",\"playing\":\"https://lichess.org/nvLenVvC/black\",\"nbFollowing\":3,\"nbFollowers\":21,\"count\":{\"all\":358,\"rated\":243,\"ai\":19,\"draw\":47,\"drawH\":42,\"loss\":106,\"lossH\":99,\"win\":205,\"winH\":198,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ourbot\",\"username\":\"OurBot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":57,\"rating\":2317,\"rd\":58,\"prog\":-44},\"atomic\":{\"games\":15,\"rating\":2161,\"rd\":195,\"prog\":31,\"prov\":true},\"bullet\":{\"games\":131,\"rating\":2172,\"rd\":46,\"prog\":-13},\"correspondence\":{\"games\":10,\"rating\":1824,\"rd\":183,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2369,\"rd\":96,\"prog\":1}},\"createdAt\":1618296168866,\"profile\":{\"country\":\"SK\",\"location\":\"For everybody\",\"bio\":\"https://i.imgur.com/saIOvIi.jpg\\r\\nMy owner and developer is @Palko_hra_sach. I'm using semi-own book, some moves are by @Palko_hra_sach repertoire and some by Stockfish 13, kind of healthy mix \\uD83D\\uDE09\\r\\nAlso thanks to @Gregor42. I'm still in development, but feel free to challenge me!\\r\\nI was made here: https://easychess.herokuapp.com\\r\\nI have a break from arround 21:00 UTC+2 till morning, arround 9:00 UTC+2\\r\\nFARMING ME WILL RESULT IN A BLOCKING AND MAYBE A REPORT!\",\"firstName\":\"Don't ask me to join\",\"lastName\":\"your Teams\",\"links\":\"lichess.org/@/Palko_hra_sach\"},\"seenAt\":1620281157563,\"playTime\":{\"total\":67824,\"tv\":6567},\"language\":\"sk-SK\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OurBot\",\"playing\":\"https://lichess.org/nvLenVvC/black\",\"nbFollowing\":3,\"nbFollowers\":20,\"count\":{\"all\":358,\"rated\":243,\"ai\":19,\"draw\":47,\"drawH\":42,\"loss\":106,\"lossH\":99,\"win\":205,\"winH\":198,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ourbot",
     "username": "OurBot",
@@ -59,7 +59,7 @@
       "lastName": "your Teams",
       "links": "lichess.org/@/Palko_hra_sach"
     },
-    "seenAt": 1620245297398,
+    "seenAt": 1620281157563,
     "playTime": {
       "total": 67824,
       "tv": 6567
@@ -69,7 +69,7 @@
     "url": "https://lichess.org/@/OurBot",
     "playing": "https://lichess.org/nvLenVvC/black",
     "nbFollowing": 3,
-    "nbFollowers": 21,
+    "nbFollowers": 20,
     "count": {
       "all": 358,
       "rated": 243,
