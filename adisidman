@@ -4,7 +4,7 @@
   "username": "adisidman",
   "profileUrl": "https://lichess.org/@/adisidman",
   "provider": "lichess",
-  "_raw": "{\"id\":\"adisidman\",\"username\":\"adisidman\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1390,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1310,\"rd\":280,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1312,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1781,\"rd\":379,\"prog\":0,\"prov\":true}},\"createdAt\":1614771891671,\"seenAt\":1619760667660,\"playTime\":{\"total\":2862,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/adisidman\",\"nbFollowing\":5,\"nbFollowers\":6,\"count\":{\"all\":21,\"rated\":10,\"ai\":2,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":7,\"win\":8,\"winH\":8,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"adisidman\",\"username\":\"adisidman\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1390,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1310,\"rd\":280,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1312,\"rd\":326,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1445,\"rd\":223,\"prog\":0,\"prov\":true}},\"createdAt\":1614771891671,\"seenAt\":1620309084400,\"playTime\":{\"total\":3099,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/adisidman\",\"nbFollowing\":5,\"nbFollowers\":5,\"count\":{\"all\":26,\"rated\":15,\"ai\":2,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":12,\"win\":8,\"winH\":8,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "adisidman",
     "username": "adisidman",
@@ -27,7 +27,7 @@
       "correspondence": {
         "games": 2,
         "rating": 1312,
-        "rd": 325,
+        "rd": 326,
         "prog": 0,
         "prov": true
       },
@@ -39,32 +39,32 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1781,
-        "rd": 379,
+        "games": 7,
+        "rating": 1445,
+        "rd": 223,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1614771891671,
-    "seenAt": 1619760667660,
+    "seenAt": 1620309084400,
     "playTime": {
-      "total": 2862,
+      "total": 3099,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/adisidman",
     "nbFollowing": 5,
-    "nbFollowers": 6,
+    "nbFollowers": 5,
     "count": {
-      "all": 21,
-      "rated": 10,
+      "all": 26,
+      "rated": 15,
       "ai": 2,
       "draw": 4,
       "drawH": 4,
-      "loss": 9,
-      "lossH": 7,
+      "loss": 14,
+      "lossH": 12,
       "win": 8,
       "winH": 8,
       "bookmark": 1,
