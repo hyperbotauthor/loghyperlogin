@@ -1,0 +1,85 @@
+{
+  "id": "zodibacc",
+  "displayName": "Zodibacc",
+  "username": "Zodibacc",
+  "profileUrl": "https://lichess.org/@/Zodibacc",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"zodibacc\",\"username\":\"Zodibacc\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":51,\"rating\":1481,\"rd\":52,\"prog\":-6},\"puzzle\":{\"games\":38,\"rating\":1692,\"rd\":82,\"prog\":0},\"bullet\":{\"games\":75,\"rating\":1546,\"rd\":48,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619418534138,\"seenAt\":1620367876992,\"playTime\":{\"total\":29017,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/Zodibacc\",\"nbFollowing\":2,\"nbFollowers\":0,\"completionRate\":93,\"count\":{\"all\":173,\"rated\":126,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":83,\"lossH\":83,\"win\":81,\"winH\":81,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "zodibacc",
+    "username": "Zodibacc",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 51,
+        "rating": 1481,
+        "rd": 52,
+        "prog": -6
+      },
+      "puzzle": {
+        "games": 38,
+        "rating": 1692,
+        "rd": 82,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 75,
+        "rating": 1546,
+        "rd": 48,
+        "prog": -13
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1619418534138,
+    "seenAt": 1620367876992,
+    "playTime": {
+      "total": 29017,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/Zodibacc",
+    "nbFollowing": 2,
+    "nbFollowers": 0,
+    "completionRate": 93,
+    "count": {
+      "all": 173,
+      "rated": 126,
+      "ai": 0,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 83,
+      "lossH": 83,
+      "win": 81,
+      "winH": 81,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
