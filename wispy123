@@ -4,7 +4,7 @@
   "username": "Wispy123",
   "profileUrl": "https://lichess.org/@/Wispy123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wispy123\",\"username\":\"Wispy123\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620323134530,\"seenAt\":1620369371094,\"playTime\":{\"total\":1727,\"tv\":128},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Wispy123\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":17,\"rated\":1,\"ai\":14,\"draw\":1,\"drawH\":0,\"loss\":12,\"lossH\":1,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wispy123\",\"username\":\"Wispy123\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620323134530,\"seenAt\":1620370323976,\"playTime\":{\"total\":1727,\"tv\":128},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Wispy123\",\"playing\":\"https://lichess.org/ITAHxEgI/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":17,\"rated\":1,\"ai\":14,\"draw\":1,\"drawH\":0,\"loss\":12,\"lossH\":1,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wispy123",
     "username": "Wispy123",
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1620323134530,
-    "seenAt": 1620369371094,
+    "seenAt": 1620370323976,
     "playTime": {
       "total": 1727,
       "tv": 128
@@ -55,6 +55,7 @@
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Wispy123",
+    "playing": "https://lichess.org/ITAHxEgI/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
@@ -68,7 +69,7 @@
       "win": 4,
       "winH": 2,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
