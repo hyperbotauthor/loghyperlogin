@@ -4,16 +4,16 @@
   "username": "Security-BOT",
   "profileUrl": "https://lichess.org/@/Security-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"security-bot\",\"username\":\"Security-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2339,\"rd\":200,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620332453368,\"profile\":{\"bio\":\"Using 2600 rated Stocfish\\r\\nhttps://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1620480041719,\"playTime\":{\"total\":1571,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Security-BOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"security-bot\",\"username\":\"Security-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2401,\"rd\":137,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620332453368,\"profile\":{\"country\":\"US\",\"bio\":\"Using 2700 rated Stocfish.With powerfull opening book.\\r\\nhttps://github.com/ShailChoksi/lichess-bot\\r\\nhttps://i.imgur.com/mva8o2M.jpg\",\"firstName\":\"Stockfish\",\"fideRating\":2700,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1620486744023,\"playTime\":{\"total\":2862,\"tv\":352},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Security-BOT\",\"nbFollowing\":3,\"nbFollowers\":0,\"count\":{\"all\":12,\"rated\":10,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "security-bot",
     "username": "Security-BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 5,
-        "rating": 2339,
-        "rd": 200,
+        "games": 10,
+        "rating": 2401,
+        "rd": 137,
         "prog": 0,
         "prov": true
       },
@@ -48,28 +48,32 @@
     },
     "createdAt": 1620332453368,
     "profile": {
-      "bio": "Using 2600 rated Stocfish\r\nhttps://github.com/ShailChoksi/lichess-bot"
+      "country": "US",
+      "bio": "Using 2700 rated Stocfish.With powerfull opening book.\r\nhttps://github.com/ShailChoksi/lichess-bot\r\nhttps://i.imgur.com/mva8o2M.jpg",
+      "firstName": "Stockfish",
+      "fideRating": 2700,
+      "links": "https://github.com/ShailChoksi/lichess-bot"
     },
-    "seenAt": 1620480041719,
+    "seenAt": 1620486744023,
     "playTime": {
-      "total": 1571,
-      "tv": 0
+      "total": 2862,
+      "tv": 352
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/Security-BOT",
-    "nbFollowing": 0,
+    "nbFollowing": 3,
     "nbFollowers": 0,
     "count": {
-      "all": 6,
-      "rated": 5,
+      "all": 12,
+      "rated": 10,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 4,
-      "winH": 4,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
