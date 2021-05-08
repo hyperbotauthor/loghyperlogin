@@ -4,24 +4,23 @@
   "username": "RealChessEngine",
   "profileUrl": "https://lichess.org/@/RealChessEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"realchessengine\",\"username\":\"RealChessEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2281,\"rd\":119,\"prog\":20,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2120,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1958,\"rd\":190,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":288,\"prog\":0,\"prov\":true}},\"createdAt\":1620122733016,\"profile\":{\"country\":\"_earth\",\"location\":\"UAE\"},\"seenAt\":1620293500875,\"playTime\":{\"total\":9792,\"tv\":410},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealChessEngine\",\"nbFollowing\":6,\"nbFollowers\":8,\"count\":{\"all\":97,\"rated\":45,\"ai\":23,\"draw\":10,\"drawH\":10,\"loss\":16,\"lossH\":12,\"win\":71,\"winH\":52,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"realchessengine\",\"username\":\"RealChessEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2280,\"rd\":107,\"prog\":40},\"bullet\":{\"games\":19,\"rating\":2190,\"rd\":110,\"prog\":70,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1958,\"rd\":190,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2487,\"rd\":229,\"prog\":0,\"prov\":true}},\"createdAt\":1620122733016,\"profile\":{\"country\":\"_earth\",\"location\":\"UAE\"},\"seenAt\":1620456886755,\"playTime\":{\"total\":13122,\"tv\":410},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealChessEngine\",\"playing\":\"https://lichess.org/jzrakbVm/white\",\"nbFollowing\":7,\"nbFollowers\":11,\"count\":{\"all\":118,\"rated\":64,\"ai\":25,\"draw\":10,\"drawH\":10,\"loss\":17,\"lossH\":13,\"win\":91,\"winH\":70,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "realchessengine",
     "username": "RealChessEngine",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 22,
-        "rating": 2281,
-        "rd": 119,
-        "prog": 20,
-        "prov": true
+        "games": 31,
+        "rating": 2280,
+        "rd": 107,
+        "prog": 40
       },
       "bullet": {
-        "games": 11,
-        "rating": 2120,
-        "rd": 128,
-        "prog": 0,
+        "games": 19,
+        "rating": 2190,
+        "rd": 110,
+        "prog": 70,
         "prov": true
       },
       "correspondence": {
@@ -39,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2399,
-        "rd": 288,
+        "games": 4,
+        "rating": 2487,
+        "rd": 229,
         "prog": 0,
         "prov": true
       }
@@ -51,28 +50,29 @@
       "country": "_earth",
       "location": "UAE"
     },
-    "seenAt": 1620293500875,
+    "seenAt": 1620456886755,
     "playTime": {
-      "total": 9792,
+      "total": 13122,
       "tv": 410
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RealChessEngine",
-    "nbFollowing": 6,
-    "nbFollowers": 8,
+    "playing": "https://lichess.org/jzrakbVm/white",
+    "nbFollowing": 7,
+    "nbFollowers": 11,
     "count": {
-      "all": 97,
-      "rated": 45,
-      "ai": 23,
+      "all": 118,
+      "rated": 64,
+      "ai": 25,
       "draw": 10,
       "drawH": 10,
-      "loss": 16,
-      "lossH": 12,
-      "win": 71,
-      "winH": 52,
+      "loss": 17,
+      "lossH": 13,
+      "win": 91,
+      "winH": 70,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
