@@ -4,23 +4,30 @@
   "username": "Overpoweredplayerbot",
   "profileUrl": "https://lichess.org/@/Overpoweredplayerbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"overpoweredplayerbot\",\"username\":\"Overpoweredplayerbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613467607108,\"seenAt\":1613467906619,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Overpoweredplayerbot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"overpoweredplayerbot\",\"username\":\"Overpoweredplayerbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1330,\"rd\":305,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1372,\"rd\":346,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1352,\"rd\":317,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1374,\"rd\":235,\"prog\":0,\"prov\":true}},\"createdAt\":1613467607108,\"profile\":{\"country\":\"IN\",\"location\":\"India\",\"bio\":\"I will join your team if you fulfill one of these options \\r\\n1: Make me leader in your team i will help your team grow.\\r\\n2: Make 2 titled players join lichess.org/team/friends-team-special.\\r\\n3: Make 10 people join lichess.org/team/friends-team-special.\"},\"seenAt\":1620655189324,\"playTime\":{\"total\":838,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Overpoweredplayerbot\",\"nbFollowing\":3,\"nbFollowers\":6,\"count\":{\"all\":16,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":15,\"lossH\":15,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "overpoweredplayerbot",
     "username": "Overpoweredplayerbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1330,
+        "rd": 305,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1372,
+        "rd": 346,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1352,
+        "rd": 317,
         "prog": 0,
         "prov": true
       },
@@ -39,34 +46,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1374,
+        "rd": 235,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1613467607108,
-    "seenAt": 1613467906619,
+    "profile": {
+      "country": "IN",
+      "location": "India",
+      "bio": "I will join your team if you fulfill one of these options \r\n1: Make me leader in your team i will help your team grow.\r\n2: Make 2 titled players join lichess.org/team/friends-team-special.\r\n3: Make 10 people join lichess.org/team/friends-team-special."
+    },
+    "seenAt": 1620655189324,
     "playTime": {
-      "total": 0,
+      "total": 838,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Overpoweredplayerbot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 3,
+    "nbFollowers": 6,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 16,
+      "rated": 11,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 15,
+      "lossH": 15,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
