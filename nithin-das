@@ -4,7 +4,7 @@
   "username": "Nithin-das",
   "profileUrl": "https://lichess.org/@/Nithin-das",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2017,\"rd\":231,\"prog\":0,\"prov\":true}},\"createdAt\":1620460522765,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a low stockfish leveled bot created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for any games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1620627353528,\"playTime\":{\"total\":7079,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithin-das\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":9,\"rated\":4,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2045,\"rd\":223,\"prog\":0,\"prov\":true}},\"createdAt\":1620460522765,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a low stockfish leveled bot created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for any games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1620629773119,\"playTime\":{\"total\":7856,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithin-das\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":10,\"rated\":5,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":1,\"lossH\":1,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nithin-das",
     "username": "Nithin-das",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2017,
-        "rd": 231,
+        "games": 4,
+        "rating": 2045,
+        "rd": 223,
         "prog": 0,
         "prov": true
       }
@@ -55,26 +55,26 @@
       "lastName": "das (BOT)",
       "links": "https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA"
     },
-    "seenAt": 1620627353528,
+    "seenAt": 1620629773119,
     "playTime": {
-      "total": 7079,
+      "total": 7856,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Nithin-das",
-    "nbFollowing": 2,
+    "nbFollowing": 4,
     "nbFollowers": 3,
     "count": {
-      "all": 9,
-      "rated": 4,
+      "all": 10,
+      "rated": 5,
       "ai": 0,
       "draw": 3,
       "drawH": 3,
       "loss": 1,
       "lossH": 1,
-      "win": 5,
-      "winH": 5,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
