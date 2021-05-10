@@ -4,12 +4,19 @@
   "username": "dasneer",
   "profileUrl": "https://lichess.org/@/dasneer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2077,\"rd\":180,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1489,\"rd\":365,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2278,\"rd\":307,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1873,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1620629798526,\"playTime\":{\"total\":22023,\"tv\":401},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"playing\":\"https://lichess.org/MC1Tc3Re/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":59,\"rated\":20,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":26,\"lossH\":26,\"win\":29,\"winH\":29,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":2,\"rating\":2311,\"rd\":296,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":2077,\"rd\":180,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":2112,\"rd\":206,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2088,\"rd\":350,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2010,\"rd\":217,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1873,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1620640726045,\"playTime\":{\"total\":24609,\"tv\":401},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":83,\"rated\":29,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":37,\"lossH\":37,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dasneer",
     "username": "dasneer",
     "online": true,
     "perfs": {
+      "racingKings": {
+        "games": 2,
+        "rating": 2311,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 4,
         "rating": 2077,
@@ -18,16 +25,23 @@
         "prov": true
       },
       "kingOfTheHill": {
-        "games": 2,
-        "rating": 1489,
-        "rd": 365,
+        "games": 5,
+        "rating": 2112,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 2088,
+        "rd": 350,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 2278,
-        "rd": 307,
+        "games": 4,
+        "rating": 2010,
+        "rd": 217,
         "prog": 0,
         "prov": true
       },
@@ -61,29 +75,28 @@
       "firstName": "Neeraj",
       "lastName": "das"
     },
-    "seenAt": 1620629798526,
+    "seenAt": 1620640726045,
     "playTime": {
-      "total": 22023,
+      "total": 24609,
       "tv": 401
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dasneer",
-    "playing": "https://lichess.org/MC1Tc3Re/white",
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 59,
-      "rated": 20,
+      "all": 83,
+      "rated": 29,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 26,
-      "lossH": 26,
-      "win": 29,
-      "winH": 29,
+      "loss": 37,
+      "lossH": 37,
+      "win": 42,
+      "winH": 42,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
