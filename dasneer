@@ -4,16 +4,16 @@
   "username": "dasneer",
   "profileUrl": "https://lichess.org/@/dasneer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":2,\"rating\":2311,\"rd\":296,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":2077,\"rd\":180,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":2112,\"rd\":206,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2088,\"rd\":350,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2010,\"rd\":217,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1873,\"rd\":158,\"prog\":0,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1620640726045,\"playTime\":{\"total\":24609,\"tv\":401},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":83,\"rated\":29,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":37,\"lossH\":37,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"racingKings\":{\"games\":5,\"rating\":2415,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":2077,\"rd\":180,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":2112,\"rd\":206,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2088,\"rd\":350,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2097,\"rd\":176,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1981,\"rd\":148,\"prog\":0,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"lichess.org/@/neerdas\"},\"seenAt\":1620648276039,\"playTime\":{\"total\":27539,\"tv\":723},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"playing\":\"https://lichess.org/Gn4HgFqA/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":99,\"rated\":35,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":42,\"lossH\":42,\"win\":53,\"winH\":53,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dasneer",
     "username": "dasneer",
     "online": true,
     "perfs": {
       "racingKings": {
-        "games": 2,
-        "rating": 2311,
-        "rd": 296,
+        "games": 5,
+        "rating": 2415,
+        "rd": 220,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 2010,
-        "rd": 217,
+        "games": 6,
+        "rating": 2097,
+        "rd": 176,
         "prog": 0,
         "prov": true
       },
@@ -60,9 +60,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 9,
-        "rating": 1873,
-        "rd": 158,
+        "games": 10,
+        "rating": 1981,
+        "rd": 148,
         "prog": 0,
         "prov": true
       }
@@ -73,30 +73,32 @@
       "location": "Kerala",
       "bio": "Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\r\nhttps://imgur.com/LEbSvLy",
       "firstName": "Neeraj",
-      "lastName": "das"
+      "lastName": "das",
+      "links": "lichess.org/@/neerdas"
     },
-    "seenAt": 1620640726045,
+    "seenAt": 1620648276039,
     "playTime": {
-      "total": 24609,
-      "tv": 401
+      "total": 27539,
+      "tv": 723
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dasneer",
+    "playing": "https://lichess.org/Gn4HgFqA/white",
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 83,
-      "rated": 29,
+      "all": 99,
+      "rated": 35,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 37,
-      "lossH": 37,
-      "win": 42,
-      "winH": 42,
+      "loss": 42,
+      "lossH": 42,
+      "win": 53,
+      "winH": 53,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
