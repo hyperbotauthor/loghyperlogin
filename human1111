@@ -4,7 +4,7 @@
   "username": "Human1111",
   "profileUrl": "https://lichess.org/@/Human1111",
   "provider": "lichess",
-  "_raw": "{\"id\":\"human1111\",\"username\":\"Human1111\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2549,\"rd\":299,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615533427714,\"seenAt\":1620623489215,\"playTime\":{\"total\":2949,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Human1111\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":54,\"rated\":2,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":19,\"lossH\":15,\"win\":34,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"human1111\",\"username\":\"Human1111\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2549,\"rd\":299,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615533427714,\"seenAt\":1620714488328,\"playTime\":{\"total\":3264,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Human1111\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":61,\"rated\":2,\"ai\":13,\"draw\":1,\"drawH\":1,\"loss\":20,\"lossH\":15,\"win\":40,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "human1111",
     "username": "Human1111",
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1615533427714,
-    "seenAt": 1620623489215,
+    "seenAt": 1620714488328,
     "playTime": {
-      "total": 2949,
+      "total": 3264,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +58,15 @@
     "nbFollowing": 7,
     "nbFollowers": 5,
     "count": {
-      "all": 54,
+      "all": 61,
       "rated": 2,
-      "ai": 12,
+      "ai": 13,
       "draw": 1,
       "drawH": 1,
-      "loss": 19,
+      "loss": 20,
       "lossH": 15,
-      "win": 34,
-      "winH": 26,
+      "win": 40,
+      "winH": 32,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
