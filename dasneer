@@ -4,7 +4,7 @@
   "username": "dasneer",
   "profileUrl": "https://lichess.org/@/dasneer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1665,\"rd\":187,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":2105,\"rd\":165,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":15,\"rating\":2357,\"rd\":148,\"prog\":45,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":2232,\"rd\":129,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":2146,\"rd\":189,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2130,\"rd\":313,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":2172,\"rd\":332,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2003,\"rd\":87,\"prog\":-162},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2427,\"rd\":247,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2058,\"rd\":138,\"prog\":0,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\\r\\nanyone can challenge me in any game except ANTICHESS\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"lichess.org/@/neerdas\"},\"seenAt\":1620741181343,\"playTime\":{\"total\":41484,\"tv\":2457},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"playing\":\"https://lichess.org/iKUOCNLh/black\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":178,\"rated\":89,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":64,\"lossH\":64,\"win\":108,\"winH\":108,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1665,\"rd\":187,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":2105,\"rd\":165,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":17,\"rating\":2257,\"rd\":140,\"prog\":-55,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":2232,\"rd\":129,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":2146,\"rd\":189,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2130,\"rd\":313,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":2172,\"rd\":332,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2003,\"rd\":87,\"prog\":-162},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2427,\"rd\":247,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2012,\"rd\":135,\"prog\":-40,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\\r\\nanyone can challenge me in any game except ANTICHESS\\r\\nHelped by: @Kingnandi\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"lichess.org/@/neerdas\"},\"seenAt\":1620742641718,\"playTime\":{\"total\":42986,\"tv\":2457},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":182,\"rated\":93,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":66,\"lossH\":66,\"win\":110,\"winH\":110,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dasneer",
     "username": "dasneer",
@@ -25,10 +25,10 @@
         "prov": true
       },
       "racingKings": {
-        "games": 15,
-        "rating": 2357,
-        "rd": 148,
-        "prog": 45,
+        "games": 17,
+        "rating": 2257,
+        "rd": 140,
+        "prog": -55,
         "prov": true
       },
       "blitz": {
@@ -80,10 +80,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 11,
-        "rating": 2058,
-        "rd": 138,
-        "prog": 0,
+        "games": 13,
+        "rating": 2012,
+        "rd": 135,
+        "prog": -40,
         "prov": true
       }
     },
@@ -91,34 +91,33 @@
     "profile": {
       "country": "IN",
       "location": "Kerala",
-      "bio": "Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\r\nhttps://imgur.com/LEbSvLy\r\nanyone can challenge me in any game except ANTICHESS",
+      "bio": "Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\r\nhttps://imgur.com/LEbSvLy\r\nanyone can challenge me in any game except ANTICHESS\r\nHelped by: @Kingnandi",
       "firstName": "Neeraj",
       "lastName": "das",
       "links": "lichess.org/@/neerdas"
     },
-    "seenAt": 1620741181343,
+    "seenAt": 1620742641718,
     "playTime": {
-      "total": 41484,
+      "total": 42986,
       "tv": 2457
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dasneer",
-    "playing": "https://lichess.org/iKUOCNLh/black",
     "nbFollowing": 3,
     "nbFollowers": 3,
     "count": {
-      "all": 178,
-      "rated": 89,
+      "all": 182,
+      "rated": 93,
       "ai": 0,
       "draw": 6,
       "drawH": 6,
-      "loss": 64,
-      "lossH": 64,
-      "win": 108,
-      "winH": 108,
+      "loss": 66,
+      "lossH": 66,
+      "win": 110,
+      "winH": 110,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
