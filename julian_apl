@@ -1,0 +1,166 @@
+{
+  "id": "julian_apl",
+  "displayName": "Julian_APL",
+  "username": "Julian_APL",
+  "profileUrl": "https://lichess.org/@/Julian_APL",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"julian_apl\",\"username\":\"Julian_APL\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1288,\"rd\":287,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1237,\"rd\":236,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":14,\"rating\":1052,\"rd\":129,\"prog\":62,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1275,\"rd\":179,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":33,\"rating\":904,\"rd\":96,\"prog\":-67},\"blitz\":{\"games\":84,\"rating\":1328,\"rd\":59,\"prog\":-21},\"kingOfTheHill\":{\"games\":4,\"rating\":1128,\"rd\":248,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1275,\"rd\":294,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1527,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":246,\"rating\":975,\"rd\":46,\"prog\":-10},\"correspondence\":{\"games\":10,\"rating\":2106,\"rd\":238,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1529,\"rd\":224,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1074,\"rating\":1951,\"rd\":92,\"prog\":0},\"classical\":{\"games\":8,\"rating\":1493,\"rd\":240,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":58,\"rating\":1374,\"rd\":71,\"prog\":-102},\"storm\":{\"runs\":26,\"score\":26},\"racer\":{\"runs\":7,\"score\":31},\"streak\":{\"runs\":5,\"score\":15}},\"createdAt\":1613245562353,\"profile\":{\"country\":\"US\",\"location\":\"Lakeland, Florida\",\"firstName\":\"Julian\",\"lastName\":\"Castillo\",\"uscfRating\":565},\"seenAt\":1620745144876,\"playTime\":{\"total\":63305,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Julian_APL\",\"playing\":\"https://lichess.org/3woruqyr/white\",\"nbFollowing\":89,\"nbFollowers\":9,\"completionRate\":80,\"count\":{\"all\":605,\"rated\":492,\"ai\":29,\"draw\":11,\"drawH\":10,\"loss\":306,\"lossH\":295,\"win\":288,\"winH\":271,\"bookmark\":0,\"playing\":5,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "julian_apl",
+    "username": "Julian_APL",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1288,
+        "rd": 287,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 4,
+        "rating": 1237,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 14,
+        "rating": 1052,
+        "rd": 129,
+        "prog": 62,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 5,
+        "rating": 1275,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 33,
+        "rating": 904,
+        "rd": 96,
+        "prog": -67
+      },
+      "blitz": {
+        "games": 84,
+        "rating": 1328,
+        "rd": 59,
+        "prog": -21
+      },
+      "kingOfTheHill": {
+        "games": 4,
+        "rating": 1128,
+        "rd": 248,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1275,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1527,
+        "rd": 240,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 246,
+        "rating": 975,
+        "rd": 46,
+        "prog": -10
+      },
+      "correspondence": {
+        "games": 10,
+        "rating": 2106,
+        "rd": 238,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 6,
+        "rating": 1529,
+        "rd": 224,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1074,
+        "rating": 1951,
+        "rd": 92,
+        "prog": 0
+      },
+      "classical": {
+        "games": 8,
+        "rating": 1493,
+        "rd": 240,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 58,
+        "rating": 1374,
+        "rd": 71,
+        "prog": -102
+      },
+      "storm": {
+        "runs": 26,
+        "score": 26
+      },
+      "racer": {
+        "runs": 7,
+        "score": 31
+      },
+      "streak": {
+        "runs": 5,
+        "score": 15
+      }
+    },
+    "createdAt": 1613245562353,
+    "profile": {
+      "country": "US",
+      "location": "Lakeland, Florida",
+      "firstName": "Julian",
+      "lastName": "Castillo",
+      "uscfRating": 565
+    },
+    "seenAt": 1620745144876,
+    "playTime": {
+      "total": 63305,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Julian_APL",
+    "playing": "https://lichess.org/3woruqyr/white",
+    "nbFollowing": 89,
+    "nbFollowers": 9,
+    "completionRate": 80,
+    "count": {
+      "all": 605,
+      "rated": 492,
+      "ai": 29,
+      "draw": 11,
+      "drawH": 10,
+      "loss": 306,
+      "lossH": 295,
+      "win": 288,
+      "winH": 271,
+      "bookmark": 0,
+      "playing": 5,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
