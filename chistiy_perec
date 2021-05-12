@@ -4,37 +4,72 @@
   "username": "CHISTIY_PEREC",
   "profileUrl": "https://lichess.org/@/CHISTIY_PEREC",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chistiy_perec\",\"username\":\"CHISTIY_PEREC\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619948583333,\"seenAt\":1619948604010,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/CHISTIY_PEREC\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chistiy_perec\",\"username\":\"CHISTIY_PEREC\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1424,\"rd\":395,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1709,\"rd\":292,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1722,\"rd\":145,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1841,\"rd\":236,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":1848,\"rd\":110,\"prog\":-70,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1833,\"rd\":347,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1478,\"rd\":471,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619948583333,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess\",\"bio\":\"@Daniilkocherga2008 @ilya_karmaev\\r\\n\\r\\nhttps://i.imgur.com/Ga3kTGH.jpg\\r\\nMy club https://lichess.org/team/game-liders\",\"firstName\":\"$$$\",\"lastName\":\"@@@\",\"fideRating\":3000},\"seenAt\":1620832166679,\"playTime\":{\"total\":7214,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CHISTIY_PEREC\",\"nbFollowing\":32,\"nbFollowers\":21,\"count\":{\"all\":108,\"rated\":51,\"ai\":12,\"draw\":0,\"drawH\":0,\"loss\":19,\"lossH\":19,\"win\":89,\"winH\":77,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chistiy_perec",
     "username": "CHISTIY_PEREC",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1424,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1709,
+        "rd": 292,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 10,
+        "rating": 1722,
+        "rd": 145,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1841,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 21,
+        "rating": 1848,
+        "rd": 110,
+        "prog": -70,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1833,
+        "rd": 347,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1478,
+        "rd": 471,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +82,34 @@
       }
     },
     "createdAt": 1619948583333,
-    "seenAt": 1619948604010,
+    "profile": {
+      "country": "_earth",
+      "location": "Lichess",
+      "bio": "@Daniilkocherga2008 @ilya_karmaev\r\n\r\nhttps://i.imgur.com/Ga3kTGH.jpg\r\nMy club https://lichess.org/team/game-liders",
+      "firstName": "$$$",
+      "lastName": "@@@",
+      "fideRating": 3000
+    },
+    "seenAt": 1620832166679,
     "playTime": {
-      "total": 0,
+      "total": 7214,
       "tv": 0
     },
     "language": "ru-RU",
+    "title": "BOT",
     "url": "https://lichess.org/@/CHISTIY_PEREC",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 32,
+    "nbFollowers": 21,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 108,
+      "rated": 51,
+      "ai": 12,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 19,
+      "lossH": 19,
+      "win": 89,
+      "winH": 77,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
