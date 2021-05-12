@@ -1,0 +1,123 @@
+{
+  "id": "ilya_karmaev",
+  "displayName": "ilya_karmaev",
+  "username": "ilya_karmaev",
+  "profileUrl": "https://lichess.org/@/ilya_karmaev",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ilya_karmaev\",\"username\":\"ilya_karmaev\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":690,\"rating\":1473,\"rd\":45,\"prog\":-6},\"racingKings\":{\"games\":5,\"rating\":1494,\"rd\":180,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":77,\"rating\":1225,\"rd\":53,\"prog\":8},\"bullet\":{\"games\":467,\"rating\":1564,\"rd\":45,\"prog\":8},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1620,\"rd\":448,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1873,\"rating\":1847,\"rd\":74,\"prog\":0},\"classical\":{\"games\":11,\"rating\":1545,\"rd\":113,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":183,\"rating\":1503,\"rd\":49,\"prog\":10},\"storm\":{\"runs\":6,\"score\":17},\"racer\":{\"runs\":6,\"score\":30},\"streak\":{\"runs\":4,\"score\":26}},\"createdAt\":1616145817394,\"profile\":{\"country\":\"KZ\",\"location\":\"Zhambyl.obl\",\"bio\":\"https://i.imgur.com/xX005ri.jpg       \\r\\n  https://i.imgur.com/wmdwGVH.jpg                   https://i.imgur.com/tpj5CWM.jpg    https://i.imgur.com/Gr7jl9R.jpg        https://i.imgur.com/Mrp5PD4.jpg\",\"firstName\":\"Илья\",\"lastName\":\"Кармаев\"},\"seenAt\":1620831696945,\"playTime\":{\"total\":394035,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/ilya_karmaev\",\"nbFollowing\":28,\"nbFollowers\":18,\"completionRate\":97,\"count\":{\"all\":1493,\"rated\":1435,\"ai\":11,\"draw\":65,\"drawH\":62,\"loss\":734,\"lossH\":731,\"win\":694,\"winH\":689,\"bookmark\":33,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ilya_karmaev",
+    "username": "ilya_karmaev",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 690,
+        "rating": 1473,
+        "rd": 45,
+        "prog": -6
+      },
+      "racingKings": {
+        "games": 5,
+        "rating": 1494,
+        "rd": 180,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 77,
+        "rating": 1225,
+        "rd": 53,
+        "prog": 8
+      },
+      "bullet": {
+        "games": 467,
+        "rating": 1564,
+        "rd": 45,
+        "prog": 8
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1620,
+        "rd": 448,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1873,
+        "rating": 1847,
+        "rd": 74,
+        "prog": 0
+      },
+      "classical": {
+        "games": 11,
+        "rating": 1545,
+        "rd": 113,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 183,
+        "rating": 1503,
+        "rd": 49,
+        "prog": 10
+      },
+      "storm": {
+        "runs": 6,
+        "score": 17
+      },
+      "racer": {
+        "runs": 6,
+        "score": 30
+      },
+      "streak": {
+        "runs": 4,
+        "score": 26
+      }
+    },
+    "createdAt": 1616145817394,
+    "profile": {
+      "country": "KZ",
+      "location": "Zhambyl.obl",
+      "bio": "https://i.imgur.com/xX005ri.jpg       \r\n  https://i.imgur.com/wmdwGVH.jpg                   https://i.imgur.com/tpj5CWM.jpg    https://i.imgur.com/Gr7jl9R.jpg        https://i.imgur.com/Mrp5PD4.jpg",
+      "firstName": "Илья",
+      "lastName": "Кармаев"
+    },
+    "seenAt": 1620831696945,
+    "playTime": {
+      "total": 394035,
+      "tv": 0
+    },
+    "language": "ru-RU",
+    "url": "https://lichess.org/@/ilya_karmaev",
+    "nbFollowing": 28,
+    "nbFollowers": 18,
+    "completionRate": 97,
+    "count": {
+      "all": 1493,
+      "rated": 1435,
+      "ai": 11,
+      "draw": 65,
+      "drawH": 62,
+      "loss": 734,
+      "lossH": 731,
+      "win": 694,
+      "winH": 689,
+      "bookmark": 33,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
