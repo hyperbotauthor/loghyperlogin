@@ -4,7 +4,7 @@
   "username": "Nithindasbot",
   "profileUrl": "https://lichess.org/@/Nithindasbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nithindasbot\",\"username\":\"Nithindasbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1498,\"rd\":498,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620715115074,\"seenAt\":1620901900765,\"playTime\":{\"total\":1239,\"tv\":521},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithindasbot\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nithindasbot\",\"username\":\"Nithindasbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2227,\"rd\":121,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1390,\"rd\":352,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620715115074,\"seenAt\":1620904385120,\"playTime\":{\"total\":2152,\"tv\":521},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithindasbot\",\"playing\":\"https://lichess.org/O5TPEccd/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":13,\"rated\":11,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":7,\"lossH\":7,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nithindasbot",
     "username": "Nithindasbot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1498,
-        "rd": 498,
+        "games": 10,
+        "rating": 2227,
+        "rd": 121,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1390,
+        "rd": 352,
         "prog": 0,
         "prov": true
       },
@@ -47,28 +47,29 @@
       }
     },
     "createdAt": 1620715115074,
-    "seenAt": 1620901900765,
+    "seenAt": 1620904385120,
     "playTime": {
-      "total": 1239,
+      "total": 2152,
       "tv": 521
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Nithindasbot",
+    "playing": "https://lichess.org/O5TPEccd/white",
     "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 3,
-      "rated": 1,
+      "all": 13,
+      "rated": 11,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 2,
-      "lossH": 2,
-      "win": 0,
-      "winH": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 7,
+      "lossH": 7,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
