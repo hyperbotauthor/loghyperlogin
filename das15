@@ -4,25 +4,24 @@
   "username": "das15",
   "profileUrl": "https://lichess.org/@/das15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1745,\"rd\":287,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"seenAt\":1620814828946,\"playTime\":{\"total\":456,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":3,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2415,\"rd\":226,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":2246,\"rd\":86,\"prog\":23},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2624,\"rd\":216,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"profile\":{\"bio\":\"I am a coded bot created by @neerdas . Please challenge me only for bullet games\\r\\nhttps://imgur.com/URsewiX\"},\"seenAt\":1620883082340,\"playTime\":{\"total\":8003,\"tv\":386},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":3,\"nbFollowers\":2,\"count\":{\"all\":51,\"rated\":33,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":38,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "das15",
     "username": "das15",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2415,
+        "rd": 226,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1745,
-        "rd": 287,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 2246,
+        "rd": 86,
+        "prog": 23
       },
       "correspondence": {
         "games": 0,
@@ -39,34 +38,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2624,
+        "rd": 216,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1620714929236,
-    "seenAt": 1620814828946,
+    "profile": {
+      "bio": "I am a coded bot created by @neerdas . Please challenge me only for bullet games\r\nhttps://imgur.com/URsewiX"
+    },
+    "seenAt": 1620883082340,
     "playTime": {
-      "total": 456,
-      "tv": 0
+      "total": 8003,
+      "tv": 386
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/das15",
-    "nbFollowing": 2,
-    "nbFollowers": 1,
+    "nbFollowing": 3,
+    "nbFollowers": 2,
     "count": {
-      "all": 3,
-      "rated": 1,
+      "all": 51,
+      "rated": 33,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 1,
-      "winH": 1,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 9,
+      "lossH": 9,
+      "win": 38,
+      "winH": 38,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
