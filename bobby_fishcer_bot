@@ -4,7 +4,7 @@
   "username": "Bobby_Fishcer_Bot",
   "profileUrl": "https://lichess.org/@/Bobby_Fishcer_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobby_fishcer_bot\",\"username\":\"Bobby_Fishcer_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":343,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1523,\"rd\":467,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1782,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2260,\"rd\":466,\"prog\":0,\"prov\":true}},\"createdAt\":1620745845048,\"profile\":{\"country\":\"_earth\",\"location\":\"Lakeland,FL\",\"firstName\":\"Julian\",\"lastName\":\"Castillo\"},\"seenAt\":1620767455019,\"playTime\":{\"total\":3046,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fishcer_Bot\",\"playing\":\"https://lichess.org/lMuxgXYc/white\",\"nbFollowing\":9,\"nbFollowers\":3,\"count\":{\"all\":25,\"rated\":11,\"ai\":9,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":1,\"win\":23,\"winH\":15,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobby_fishcer_bot\",\"username\":\"Bobby_Fishcer_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":343,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1821,\"rd\":294,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1512,\"rd\":424,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":21,\"rating\":2000,\"rd\":138,\"prog\":12,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1462,\"rd\":248,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2266,\"rd\":459,\"prog\":0,\"prov\":true}},\"createdAt\":1620745845048,\"profile\":{\"country\":\"_earth\",\"location\":\"Lakeland,FL\",\"firstName\":\"Julian\",\"lastName\":\"Castillo\"},\"seenAt\":1620928965465,\"playTime\":{\"total\":7738,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fishcer_Bot\",\"playing\":\"https://lichess.org/lMuxgXYc/white\",\"nbFollowing\":27,\"nbFollowers\":10,\"count\":{\"all\":99,\"rated\":37,\"ai\":55,\"draw\":0,\"drawH\":0,\"loss\":11,\"lossH\":6,\"win\":88,\"winH\":38,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobby_fishcer_bot",
     "username": "Bobby_Fishcer_Bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1821,
+        "rd": 294,
         "prog": 0,
         "prov": true
       },
@@ -32,30 +32,30 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1523,
-        "rd": 467,
+        "games": 4,
+        "rating": 1512,
+        "rd": 424,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 4,
-        "rating": 1782,
-        "rd": 227,
-        "prog": 0,
+        "games": 21,
+        "rating": 2000,
+        "rd": 138,
+        "prog": 12,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1462,
+        "rd": 248,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2260,
-        "rd": 466,
+        "games": 5,
+        "rating": 2266,
+        "rd": 459,
         "prog": 0,
         "prov": true
       }
@@ -67,29 +67,29 @@
       "firstName": "Julian",
       "lastName": "Castillo"
     },
-    "seenAt": 1620767455019,
+    "seenAt": 1620928965465,
     "playTime": {
-      "total": 3046,
+      "total": 7738,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Bobby_Fishcer_Bot",
     "playing": "https://lichess.org/lMuxgXYc/white",
-    "nbFollowing": 9,
-    "nbFollowers": 3,
+    "nbFollowing": 27,
+    "nbFollowers": 10,
     "count": {
-      "all": 25,
-      "rated": 11,
-      "ai": 9,
+      "all": 99,
+      "rated": 37,
+      "ai": 55,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 1,
-      "win": 23,
-      "winH": 15,
+      "loss": 11,
+      "lossH": 6,
+      "win": 88,
+      "winH": 38,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
