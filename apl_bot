@@ -4,7 +4,7 @@
   "username": "APL_Bot",
   "profileUrl": "https://lichess.org/@/APL_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl_bot\",\"username\":\"APL_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620766994366,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1620935436791,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APL_Bot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl_bot\",\"username\":\"APL_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1398,\"rd\":369,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620766994366,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1620939935805,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APL_Bot\",\"playing\":\"https://lichess.org/O5639ybg/white\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl_bot",
     "username": "APL_Bot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1398,
+        "rd": 369,
         "prog": 0,
         "prov": true
       },
@@ -50,7 +50,7 @@
     "profile": {
       "country": "_earth"
     },
-    "seenAt": 1620935436791,
+    "seenAt": 1620939935805,
     "playTime": {
       "total": 0,
       "tv": 0
@@ -58,20 +58,21 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/APL_Bot",
-    "nbFollowing": 0,
-    "nbFollowers": 2,
+    "playing": "https://lichess.org/O5639ybg/white",
+    "nbFollowing": 1,
+    "nbFollowers": 3,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 2,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 2,
+      "lossH": 2,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
