@@ -1,0 +1,84 @@
+{
+  "id": "take_with_check",
+  "displayName": "Take_With_Check",
+  "username": "Take_With_Check",
+  "profileUrl": "https://lichess.org/@/Take_With_Check",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"take_with_check\",\"username\":\"Take_With_Check\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2484,\"rd\":196,\"prog\":130,\"prov\":true},\"bullet\":{\"games\":318,\"rating\":2350,\"rd\":50,\"prog\":-9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1919,\"rd\":249,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2272,\"rd\":179,\"prog\":0,\"prov\":true}},\"createdAt\":1620221879749,\"profile\":{\"bio\":\"https://i.imgur.com/REzxr6a.png\\r\\nFor now i did a lot of draws with stockfish level 8.\\r\\nChess Engine Stockfish level 7.\\r\\nMy Creator : @MonsterTrucks944 \\r\\nMy best Keyboarder brother : @Keyboarder_BOT\\r\\nChallenge me ONLY Standart chess.\\r\\nNo variants. Accepting challenges from human.\",\"fideRating\":3000},\"seenAt\":1620916339631,\"playTime\":{\"total\":44837,\"tv\":5379},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Take_With_Check\",\"nbFollowing\":4,\"nbFollowers\":7,\"count\":{\"all\":459,\"rated\":370,\"ai\":32,\"draw\":22,\"drawH\":16,\"loss\":52,\"lossH\":35,\"win\":385,\"winH\":376,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "take_with_check",
+    "username": "Take_With_Check",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 2484,
+        "rd": 196,
+        "prog": 130,
+        "prov": true
+      },
+      "bullet": {
+        "games": 318,
+        "rating": 2350,
+        "rd": 50,
+        "prog": -9
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1919,
+        "rd": 249,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 11,
+        "rating": 2272,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1620221879749,
+    "profile": {
+      "bio": "https://i.imgur.com/REzxr6a.png\r\nFor now i did a lot of draws with stockfish level 8.\r\nChess Engine Stockfish level 7.\r\nMy Creator : @MonsterTrucks944 \r\nMy best Keyboarder brother : @Keyboarder_BOT\r\nChallenge me ONLY Standart chess.\r\nNo variants. Accepting challenges from human.",
+      "fideRating": 3000
+    },
+    "seenAt": 1620916339631,
+    "playTime": {
+      "total": 44837,
+      "tv": 5379
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Take_With_Check",
+    "nbFollowing": 4,
+    "nbFollowers": 7,
+    "count": {
+      "all": 459,
+      "rated": 370,
+      "ai": 32,
+      "draw": 22,
+      "drawH": 16,
+      "loss": 52,
+      "lossH": 35,
+      "win": 385,
+      "winH": 376,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
