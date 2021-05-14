@@ -4,7 +4,7 @@
   "username": "Bobby_Fishcer_Bot",
   "profileUrl": "https://lichess.org/@/Bobby_Fishcer_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobby_fishcer_bot\",\"username\":\"Bobby_Fishcer_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":343,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1821,\"rd\":294,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1512,\"rd\":424,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":25,\"rating\":1966,\"rd\":118,\"prog\":-59,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1462,\"rd\":248,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2266,\"rd\":459,\"prog\":0,\"prov\":true}},\"createdAt\":1620745845048,\"profile\":{\"country\":\"_earth\",\"location\":\"Lakeland,FL\",\"firstName\":\"Julian\",\"lastName\":\"Castillo\"},\"seenAt\":1620934784920,\"playTime\":{\"total\":7738,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fishcer_Bot\",\"playing\":\"https://lichess.org/DJWhmIni/black\",\"nbFollowing\":29,\"nbFollowers\":11,\"count\":{\"all\":103,\"rated\":41,\"ai\":55,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":8,\"win\":90,\"winH\":40,\"bookmark\":0,\"playing\":6,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobby_fishcer_bot\",\"username\":\"Bobby_Fishcer_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":343,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1821,\"rd\":294,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1436,\"rd\":335,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":31,\"rating\":1956,\"rd\":109,\"prog\":-110},\"classical\":{\"games\":3,\"rating\":1424,\"rd\":224,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2266,\"rd\":459,\"prog\":0,\"prov\":true}},\"createdAt\":1620745845048,\"profile\":{\"country\":\"_earth\",\"location\":\"Lakeland,FL\",\"firstName\":\"Julian\",\"lastName\":\"Castillo\"},\"seenAt\":1620997296198,\"playTime\":{\"total\":7988,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bobby_Fishcer_Bot\",\"playing\":\"https://lichess.org/lx8thW7o/black\",\"nbFollowing\":29,\"nbFollowers\":12,\"count\":{\"all\":118,\"rated\":49,\"ai\":62,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":11,\"win\":102,\"winH\":45,\"bookmark\":0,\"playing\":6,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobby_fishcer_bot",
     "username": "Bobby_Fishcer_Bot",
@@ -32,23 +32,22 @@
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 1512,
-        "rd": 424,
+        "games": 5,
+        "rating": 1436,
+        "rd": 335,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 25,
-        "rating": 1966,
-        "rd": 118,
-        "prog": -59,
-        "prov": true
+        "games": 31,
+        "rating": 1956,
+        "rd": 109,
+        "prog": -110
       },
       "classical": {
-        "games": 2,
-        "rating": 1462,
-        "rd": 248,
+        "games": 3,
+        "rating": 1424,
+        "rd": 224,
         "prog": 0,
         "prov": true
       },
@@ -67,27 +66,27 @@
       "firstName": "Julian",
       "lastName": "Castillo"
     },
-    "seenAt": 1620934784920,
+    "seenAt": 1620997296198,
     "playTime": {
-      "total": 7738,
+      "total": 7988,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Bobby_Fishcer_Bot",
-    "playing": "https://lichess.org/DJWhmIni/black",
+    "playing": "https://lichess.org/lx8thW7o/black",
     "nbFollowing": 29,
-    "nbFollowers": 11,
+    "nbFollowers": 12,
     "count": {
-      "all": 103,
-      "rated": 41,
-      "ai": 55,
+      "all": 118,
+      "rated": 49,
+      "ai": 62,
       "draw": 0,
       "drawH": 0,
-      "loss": 13,
-      "lossH": 8,
-      "win": 90,
-      "winH": 40,
+      "loss": 16,
+      "lossH": 11,
+      "win": 102,
+      "winH": 45,
       "bookmark": 0,
       "playing": 6,
       "import": 0,
