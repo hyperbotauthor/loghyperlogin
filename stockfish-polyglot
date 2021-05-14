@@ -1,0 +1,87 @@
+{
+  "id": "stockfish-polyglot",
+  "displayName": "Stockfish-polyglot",
+  "username": "Stockfish-polyglot",
+  "profileUrl": "https://lichess.org/@/Stockfish-polyglot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stockfish-polyglot\",\"username\":\"Stockfish-polyglot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620980698118,\"profile\":{\"bio\":\"Stockfish Polyglot is a free, powerful UCI chess engine derived from Glaurung 2.1 able to read up to four Polyglot book. It features two evaluation functions, the classical evaluation based on handcrafted terms, and the NNUE evaluation based on efficiently updateable neural networks. The classical evaluation runs efficiently on most 64bit CPU architectures, while the NNUE evaluation benefits strongly from the vector intrinsics available on modern CPUs (avx2 or similar).\",\"firstName\":\"stockfish\",\"lastName\":\"polyglot\",\"fideRating\":3000,\"links\":\"https://github.com/massimilianogoi/Stockfish-Polyglot\"},\"seenAt\":1620980736621,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Stockfish-polyglot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stockfish-polyglot",
+    "username": "Stockfish-polyglot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1620980698118,
+    "profile": {
+      "bio": "Stockfish Polyglot is a free, powerful UCI chess engine derived from Glaurung 2.1 able to read up to four Polyglot book. It features two evaluation functions, the classical evaluation based on handcrafted terms, and the NNUE evaluation based on efficiently updateable neural networks. The classical evaluation runs efficiently on most 64bit CPU architectures, while the NNUE evaluation benefits strongly from the vector intrinsics available on modern CPUs (avx2 or similar).",
+      "firstName": "stockfish",
+      "lastName": "polyglot",
+      "fideRating": 3000,
+      "links": "https://github.com/massimilianogoi/Stockfish-Polyglot"
+    },
+    "seenAt": 1620980736621,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Stockfish-polyglot",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 0,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
