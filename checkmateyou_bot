@@ -4,7 +4,7 @@
   "username": "CheckmateYou_Bot",
   "profileUrl": "https://lichess.org/@/CheckmateYou_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"checkmateyou_bot\",\"username\":\"CheckmateYou_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":8,\"rating\":2270,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2157,\"rd\":381,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1428,\"rd\":395,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1956,\"rd\":322,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2134,\"rd\":203,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620919675796,\"seenAt\":1620951904205,\"playTime\":{\"total\":2292,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CheckmateYou_Bot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":22,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"checkmateyou_bot\",\"username\":\"CheckmateYou_Bot\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":8,\"rating\":2270,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":2203,\"rd\":357,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1428,\"rd\":395,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1956,\"rd\":322,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2134,\"rd\":203,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620919675796,\"seenAt\":1621001193765,\"playTime\":{\"total\":2349,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CheckmateYou_Bot\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":23,\"rated\":17,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "checkmateyou_bot",
     "username": "CheckmateYou_Bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "racingKings": {
-        "games": 2,
-        "rating": 2157,
-        "rd": 381,
+        "games": 3,
+        "rating": 2203,
+        "rd": 357,
         "prog": 0,
         "prov": true
       },
@@ -75,9 +75,9 @@
       }
     },
     "createdAt": 1620919675796,
-    "seenAt": 1620951904205,
+    "seenAt": 1621001193765,
     "playTime": {
-      "total": 2292,
+      "total": 2349,
       "tv": 0
     },
     "language": "en-US",
@@ -86,15 +86,15 @@
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 22,
-      "rated": 16,
+      "all": 23,
+      "rated": 17,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 8,
       "lossH": 8,
-      "win": 14,
-      "winH": 14,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
