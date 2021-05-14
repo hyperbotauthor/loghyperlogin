@@ -1,0 +1,114 @@
+{
+  "id": "jaylonapl",
+  "displayName": "jaylonapl",
+  "username": "jaylonapl",
+  "profileUrl": "https://lichess.org/@/jaylonapl",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jaylonapl\",\"username\":\"jaylonapl\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":507,\"rating\":1537,\"rd\":75,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":988,\"rd\":375,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":160,\"rating\":1234,\"rd\":46,\"prog\":-18},\"kingOfTheHill\":{\"games\":7,\"rating\":1567,\"rd\":179,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1330,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":370,\"rating\":870,\"rd\":45,\"prog\":-15},\"correspondence\":{\"games\":2,\"rating\":1368,\"rd\":295,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1447,\"rd\":334,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":45,\"rating\":1345,\"rd\":84,\"prog\":8},\"storm\":{\"runs\":16,\"score\":20},\"streak\":{\"runs\":4,\"score\":11}},\"createdAt\":1601396596892,\"seenAt\":1621012237060,\"playTime\":{\"total\":101238,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/jaylonapl\",\"playing\":\"https://lichess.org/lx8thW7o/white\",\"nbFollowing\":1,\"nbFollowers\":3,\"completionRate\":83,\"count\":{\"all\":613,\"rated\":587,\"ai\":0,\"draw\":20,\"drawH\":20,\"loss\":321,\"lossH\":321,\"win\":272,\"winH\":272,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jaylonapl",
+    "username": "jaylonapl",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 507,
+        "rating": 1537,
+        "rd": 75,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 988,
+        "rd": 375,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 160,
+        "rating": 1234,
+        "rd": 46,
+        "prog": -18
+      },
+      "kingOfTheHill": {
+        "games": 7,
+        "rating": 1567,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1330,
+        "rd": 345,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 370,
+        "rating": 870,
+        "rd": 45,
+        "prog": -15
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1368,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1447,
+        "rd": 334,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 45,
+        "rating": 1345,
+        "rd": 84,
+        "prog": 8
+      },
+      "storm": {
+        "runs": 16,
+        "score": 20
+      },
+      "streak": {
+        "runs": 4,
+        "score": 11
+      }
+    },
+    "createdAt": 1601396596892,
+    "seenAt": 1621012237060,
+    "playTime": {
+      "total": 101238,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/jaylonapl",
+    "playing": "https://lichess.org/lx8thW7o/white",
+    "nbFollowing": 1,
+    "nbFollowers": 3,
+    "completionRate": 83,
+    "count": {
+      "all": 613,
+      "rated": 587,
+      "ai": 0,
+      "draw": 20,
+      "drawH": 20,
+      "loss": 321,
+      "lossH": 321,
+      "win": 272,
+      "winH": 272,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
