@@ -4,16 +4,16 @@
   "username": "KKKA-SA",
   "profileUrl": "https://lichess.org/@/KKKA-SA",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kkka-sa\",\"username\":\"KKKA-SA\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":448,\"prog\":0,\"prov\":true}},\"createdAt\":1621056020443,\"seenAt\":1621076146590,\"playTime\":{\"total\":3996,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KKKA-SA\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kkka-sa\",\"username\":\"KKKA-SA\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":456,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2419,\"rd\":309,\"prog\":0,\"prov\":true}},\"createdAt\":1621056020443,\"seenAt\":1621078335674,\"playTime\":{\"total\":6005,\"tv\":698},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KKKA-SA\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":3,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kkka-sa",
     "username": "KKKA-SA",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2224,
+        "rd": 456,
         "prog": 0,
         "prov": true
       },
@@ -39,34 +39,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2256,
-        "rd": 448,
+        "games": 2,
+        "rating": 2419,
+        "rd": 309,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1621056020443,
-    "seenAt": 1621076146590,
+    "seenAt": 1621078335674,
     "playTime": {
-      "total": 3996,
-      "tv": 0
+      "total": 6005,
+      "tv": 698
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/KKKA-SA",
     "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 7,
-      "rated": 1,
+      "all": 9,
+      "rated": 3,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
+      "draw": 1,
+      "drawH": 1,
       "loss": 2,
       "lossH": 2,
-      "win": 5,
-      "winH": 5,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
