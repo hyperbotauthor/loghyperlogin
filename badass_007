@@ -1,0 +1,86 @@
+{
+  "id": "badass_007",
+  "displayName": "badass_007",
+  "username": "badass_007",
+  "profileUrl": "https://lichess.org/@/badass_007",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"badass_007\",\"username\":\"badass_007\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":1282,\"rd\":148,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":13,\"rating\":1402,\"rd\":106,\"prog\":-41},\"bullet\":{\"games\":20,\"rating\":1411,\"rd\":107,\"prog\":-107},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1568,\"rd\":297,\"prog\":0,\"prov\":true}},\"createdAt\":1619601188365,\"seenAt\":1621099784531,\"playTime\":{\"total\":4161,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/badass_007\",\"nbFollowing\":2,\"nbFollowers\":0,\"completionRate\":89,\"count\":{\"all\":44,\"rated\":44,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":33,\"lossH\":33,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "badass_007",
+    "username": "badass_007",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 10,
+        "rating": 1282,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 13,
+        "rating": 1402,
+        "rd": 106,
+        "prog": -41
+      },
+      "bullet": {
+        "games": 20,
+        "rating": 1411,
+        "rd": 107,
+        "prog": -107
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1568,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1619601188365,
+    "seenAt": 1621099784531,
+    "playTime": {
+      "total": 4161,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/badass_007",
+    "nbFollowing": 2,
+    "nbFollowers": 0,
+    "completionRate": 89,
+    "count": {
+      "all": 44,
+      "rated": 44,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 33,
+      "lossH": 33,
+      "win": 10,
+      "winH": 10,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
