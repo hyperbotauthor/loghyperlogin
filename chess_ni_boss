@@ -1,0 +1,84 @@
+{
+  "id": "chess_ni_boss",
+  "displayName": "Chess_ni_BOSS",
+  "username": "Chess_ni_BOSS",
+  "profileUrl": "https://lichess.org/@/Chess_ni_BOSS",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_ni_boss\",\"username\":\"Chess_ni_BOSS\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2173,\"rd\":109,\"prog\":19},\"bullet\":{\"games\":71,\"rating\":1902,\"rd\":52,\"prog\":26},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2142,\"rd\":232,\"prog\":0,\"prov\":true}},\"createdAt\":1620894887989,\"profile\":{\"country\":\"MY\",\"bio\":\"I am a bot running on github.com/hyperchessbot/hyperbot on a Stockfish 13 NNUE engine updated to the latest version. I use a 3-4-5 piece SYZYGY tablebase and I use my own MongoDB book made out of all my past games. I play all time controls and variants except for ultrabullet. My creator and owner is anonymous and I'm obviously an Anime lover\\uD83D\\uDE09.\",\"fideRating\":3000},\"seenAt\":1621052595304,\"playTime\":{\"total\":12535,\"tv\":1509},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chess_ni_BOSS\",\"nbFollowing\":12,\"nbFollowers\":2,\"count\":{\"all\":97,\"rated\":96,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":20,\"lossH\":19,\"win\":73,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_ni_boss",
+    "username": "Chess_ni_BOSS",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 16,
+        "rating": 2173,
+        "rd": 109,
+        "prog": 19
+      },
+      "bullet": {
+        "games": 71,
+        "rating": 1902,
+        "rd": 52,
+        "prog": 26
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2142,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1620894887989,
+    "profile": {
+      "country": "MY",
+      "bio": "I am a bot running on github.com/hyperchessbot/hyperbot on a Stockfish 13 NNUE engine updated to the latest version. I use a 3-4-5 piece SYZYGY tablebase and I use my own MongoDB book made out of all my past games. I play all time controls and variants except for ultrabullet. My creator and owner is anonymous and I'm obviously an Anime lover😉.",
+      "fideRating": 3000
+    },
+    "seenAt": 1621052595304,
+    "playTime": {
+      "total": 12535,
+      "tv": 1509
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Chess_ni_BOSS",
+    "nbFollowing": 12,
+    "nbFollowers": 2,
+    "count": {
+      "all": 97,
+      "rated": 96,
+      "ai": 1,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 20,
+      "lossH": 19,
+      "win": 73,
+      "winH": 73,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
