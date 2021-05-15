@@ -1,0 +1,94 @@
+{
+  "id": "chess_bot-child",
+  "displayName": "Chess_Bot-Child",
+  "username": "Chess_Bot-Child",
+  "profileUrl": "https://lichess.org/@/Chess_Bot-Child",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_bot-child\",\"username\":\"Chess_Bot-Child\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2255,\"rd\":346,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1501,\"rd\":211,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2201,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":20,\"rating\":1652,\"rd\":102,\"prog\":193},\"classical\":{\"games\":2,\"rating\":1871,\"rd\":350,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1271,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1611217894031,\"profile\":{\"country\":\"_rainbow\",\"bio\":\"Hello Im a chess bot And also a communication bot you can compose mail in my inbox. Creator @cheetah_cats, You can defeat me in 30% i can defeat you 70%! You can challenge me bullet, rapid, classical, blitz, correspondence, now do not accept variants.  I much became draw.\",\"firstName\":\"Cheetah\",\"lastName\":\"Bot\",\"uscfRating\":1988},\"seenAt\":1621043635366,\"playTime\":{\"total\":19309,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chess_Bot-Child\",\"nbFollowing\":9,\"nbFollowers\":9,\"count\":{\"all\":122,\"rated\":53,\"ai\":58,\"draw\":11,\"drawH\":9,\"loss\":16,\"lossH\":14,\"win\":95,\"winH\":41,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_bot-child",
+    "username": "Chess_Bot-Child",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 2255,
+        "rd": 346,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 1501,
+        "rd": 211,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 2201,
+        "rd": 198,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 20,
+        "rating": 1652,
+        "rd": 102,
+        "prog": 193
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1871,
+        "rd": 350,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 1271,
+        "rd": 285,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1611217894031,
+    "profile": {
+      "country": "_rainbow",
+      "bio": "Hello Im a chess bot And also a communication bot you can compose mail in my inbox. Creator @cheetah_cats, You can defeat me in 30% i can defeat you 70%! You can challenge me bullet, rapid, classical, blitz, correspondence, now do not accept variants.  I much became draw.",
+      "firstName": "Cheetah",
+      "lastName": "Bot",
+      "uscfRating": 1988
+    },
+    "seenAt": 1621043635366,
+    "playTime": {
+      "total": 19309,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Chess_Bot-Child",
+    "nbFollowing": 9,
+    "nbFollowers": 9,
+    "count": {
+      "all": 122,
+      "rated": 53,
+      "ai": 58,
+      "draw": 11,
+      "drawH": 9,
+      "loss": 16,
+      "lossH": 14,
+      "win": 95,
+      "winH": 41,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
