@@ -4,7 +4,7 @@
   "username": "das15",
   "profileUrl": "https://lichess.org/@/das15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1883,\"rd\":309,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":2541,\"rd\":169,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":124,\"rating\":2347,\"rd\":45,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2495,\"rd\":213,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2638,\"rd\":209,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a coded bot created by @neerdas . Please challenge me only for 1+0 bullet games\\r\\nhttps://imgur.com/URsewiX\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1620996123118,\"playTime\":{\"total\":28600,\"tv\":3738},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":6,\"nbFollowers\":5,\"count\":{\"all\":193,\"rated\":152,\"ai\":0,\"draw\":30,\"drawH\":30,\"loss\":32,\"lossH\":32,\"win\":131,\"winH\":131,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1883,\"rd\":309,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2563,\"rd\":160,\"prog\":23,\"prov\":true},\"bullet\":{\"games\":126,\"rating\":2349,\"rd\":45,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2525,\"rd\":203,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2638,\"rd\":209,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a coded bot created by @neerdas . Please challenge me only for 1+0 bullet games\\r\\nhttps://imgur.com/URsewiX\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1621063540694,\"playTime\":{\"total\":33268,\"tv\":4231},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":203,\"rated\":158,\"ai\":0,\"draw\":30,\"drawH\":30,\"loss\":35,\"lossH\":35,\"win\":138,\"winH\":138,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "das15",
     "username": "das15",
@@ -18,15 +18,15 @@
         "prov": true
       },
       "blitz": {
-        "games": 11,
-        "rating": 2541,
-        "rd": 169,
-        "prog": 0,
+        "games": 13,
+        "rating": 2563,
+        "rd": 160,
+        "prog": 23,
         "prov": true
       },
       "bullet": {
-        "games": 124,
-        "rating": 2347,
+        "games": 126,
+        "rating": 2349,
         "rd": 45,
         "prog": 0
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "classical": {
-        "games": 4,
-        "rating": 2495,
-        "rd": 213,
+        "games": 5,
+        "rating": 2525,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
@@ -60,26 +60,26 @@
       "firstName": "Neeraj",
       "lastName": "das"
     },
-    "seenAt": 1620996123118,
+    "seenAt": 1621063540694,
     "playTime": {
-      "total": 28600,
-      "tv": 3738
+      "total": 33268,
+      "tv": 4231
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/das15",
-    "nbFollowing": 6,
+    "nbFollowing": 7,
     "nbFollowers": 5,
     "count": {
-      "all": 193,
-      "rated": 152,
+      "all": 203,
+      "rated": 158,
       "ai": 0,
       "draw": 30,
       "drawH": 30,
-      "loss": 32,
-      "lossH": 32,
-      "win": 131,
-      "winH": 131,
+      "loss": 35,
+      "lossH": 35,
+      "win": 138,
+      "winH": 138,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
