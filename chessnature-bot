@@ -4,7 +4,7 @@
   "username": "ChessNature-BOT",
   "profileUrl": "https://lichess.org/@/ChessNature-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessnature-bot\",\"username\":\"ChessNature-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620282904659,\"seenAt\":1620282921454,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/ChessNature-BOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessnature-bot\",\"username\":\"ChessNature-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":100,\"rating\":2502,\"rd\":49,\"prog\":-7},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1735,\"rd\":383,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":486,\"prog\":0,\"prov\":true}},\"createdAt\":1620282904659,\"profile\":{\"location\":\"Plays Bullet and Blitz\",\"bio\":\"https://i.imgur.com/sduLRvf.jpg\\r\\nMessage me for playing\\r\\nI usually get exhausted when played 15 games in 45mins\\r\\nThat is why disabled challenges\\r\\n24/7 Online  made by @Grandmaster_notnoob and @KINGNANDI\\r\\n\\r\\nI mostly use @Iamkidpowerfullbot to test if this bot is working or not\\r\\n\\r\\n\\r\\n\\r\\n\\r\\nI dont play variants but I play 0+1 and 1/2 chess also!\"},\"seenAt\":1621162686727,\"playTime\":{\"total\":14357,\"tv\":3497},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessNature-BOT\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":149,\"rated\":110,\"ai\":1,\"draw\":31,\"drawH\":31,\"loss\":49,\"lossH\":48,\"win\":69,\"winH\":69,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessnature-bot",
     "username": "ChessNature-BOT",
@@ -18,11 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 100,
+        "rating": 2502,
+        "rd": 49,
+        "prog": -7
       },
       "correspondence": {
         "games": 0,
@@ -32,40 +31,45 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1735,
+        "rd": 383,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2256,
+        "rd": 486,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1620282904659,
-    "seenAt": 1620282921454,
+    "profile": {
+      "location": "Plays Bullet and Blitz",
+      "bio": "https://i.imgur.com/sduLRvf.jpg\r\nMessage me for playing\r\nI usually get exhausted when played 15 games in 45mins\r\nThat is why disabled challenges\r\n24/7 Online  made by @Grandmaster_notnoob and @KINGNANDI\r\n\r\nI mostly use @Iamkidpowerfullbot to test if this bot is working or not\r\n\r\n\r\n\r\n\r\nI dont play variants but I play 0+1 and 1/2 chess also!"
+    },
+    "seenAt": 1621162686727,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 14357,
+      "tv": 3497
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/ChessNature-BOT",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 149,
+      "rated": 110,
+      "ai": 1,
+      "draw": 31,
+      "drawH": 31,
+      "loss": 49,
+      "lossH": 48,
+      "win": 69,
+      "winH": 69,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
