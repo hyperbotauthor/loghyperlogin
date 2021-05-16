@@ -1,0 +1,104 @@
+{
+  "id": "variantchessbot-test",
+  "displayName": "VariantchessBOT-test",
+  "username": "VariantchessBOT-test",
+  "profileUrl": "https://lichess.org/@/VariantchessBOT-test",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"variantchessbot-test\",\"username\":\"VariantchessBOT-test\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":2200,\"rd\":444,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":12,\"rating\":2635,\"rd\":159,\"prog\":3,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":2054,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":2043,\"rd\":262,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":94,\"rating\":2610,\"rd\":49,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2449,\"rd\":221,\"prog\":0,\"prov\":true}},\"createdAt\":1620374362822,\"profile\":{\"bio\":\"Uses stockfish 13 also plays variants visit @Ready-to-lose for Best standard chess exprience uses Stockfish DEV\\r\\n\\r\\nI coded this but @Kingnandi gave all requirments  so thanks to him\"},\"seenAt\":1621147295812,\"playTime\":{\"total\":16093,\"tv\":5429},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/VariantchessBOT-test\",\"nbFollowing\":9,\"nbFollowers\":12,\"count\":{\"all\":162,\"rated\":126,\"ai\":0,\"draw\":43,\"drawH\":43,\"loss\":27,\"lossH\":27,\"win\":92,\"winH\":92,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "variantchessbot-test",
+    "username": "VariantchessBOT-test",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 2200,
+        "rd": 444,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 12,
+        "rating": 2635,
+        "rd": 159,
+        "prog": 3,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 2054,
+        "rd": 242,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 2043,
+        "rd": 262,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 94,
+        "rating": 2610,
+        "rd": 49,
+        "prog": 0
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 2449,
+        "rd": 221,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1620374362822,
+    "profile": {
+      "bio": "Uses stockfish 13 also plays variants visit @Ready-to-lose for Best standard chess exprience uses Stockfish DEV\r\n\r\nI coded this but @Kingnandi gave all requirments  so thanks to him"
+    },
+    "seenAt": 1621147295812,
+    "playTime": {
+      "total": 16093,
+      "tv": 5429
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/VariantchessBOT-test",
+    "nbFollowing": 9,
+    "nbFollowers": 12,
+    "count": {
+      "all": 162,
+      "rated": 126,
+      "ai": 0,
+      "draw": 43,
+      "drawH": 43,
+      "loss": 27,
+      "lossH": 27,
+      "win": 92,
+      "winH": 92,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
