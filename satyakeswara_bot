@@ -4,7 +4,7 @@
   "username": "Satyakeswara_BOT",
   "profileUrl": "https://lichess.org/@/Satyakeswara_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"satyakeswara_bot\",\"username\":\"Satyakeswara_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621093582078,\"profile\":{\"country\":\"IN\"},\"seenAt\":1621140932372,\"playTime\":{\"total\":191,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Satyakeswara_BOT\",\"playing\":\"https://lichess.org/9tecKfUu/black\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":3,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"satyakeswara_bot\",\"username\":\"Satyakeswara_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1477,\"rd\":472,\"prog\":0,\"prov\":true}},\"createdAt\":1621093582078,\"profile\":{\"country\":\"IN\"},\"seenAt\":1621168045532,\"playTime\":{\"total\":1596,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Satyakeswara_BOT\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":12,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "satyakeswara_bot",
     "username": "Satyakeswara_BOT",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1477,
+        "rd": 472,
         "prog": 0,
         "prov": true
       }
@@ -50,29 +50,28 @@
     "profile": {
       "country": "IN"
     },
-    "seenAt": 1621140932372,
+    "seenAt": 1621168045532,
     "playTime": {
-      "total": 191,
+      "total": 1596,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Satyakeswara_BOT",
-    "playing": "https://lichess.org/9tecKfUu/black",
     "nbFollowing": 2,
     "nbFollowers": 1,
     "count": {
-      "all": 3,
-      "rated": 0,
+      "all": 12,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 1,
-      "winH": 1,
+      "loss": 5,
+      "lossH": 5,
+      "win": 7,
+      "winH": 7,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
