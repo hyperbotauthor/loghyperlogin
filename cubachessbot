@@ -4,7 +4,7 @@
   "username": "CubaChessBOT",
   "profileUrl": "https://lichess.org/@/CubaChessBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"cubachessbot\",\"username\":\"CubaChessBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2153,\"rd\":222,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":2275,\"rd\":195,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1459,\"rd\":450,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":10,\"rating\":1790,\"rd\":201,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2013,\"rd\":267,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2469,\"rd\":283,\"prog\":0,\"prov\":true}},\"createdAt\":1618826327753,\"profile\":{\"country\":\"CU\",\"bio\":\"Live games using easychess sourcecode\\r\\n\\r\\nCorrospondence and Unlimited timed games : STOCKFISH Database moves\\r\\n\\r\\nULTIMATE POWERFUL IN Corrospondence and UNLIMITED timed games\\r\\nBeated 3000 rated bot https://lichess.org/6vwMMklzBvNi\"},\"seenAt\":1619614038074,\"playTime\":{\"total\":6156,\"tv\":804},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CubaChessBOT\",\"playing\":\"https://lichess.org/XeBMms0S/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":35,\"rated\":30,\"ai\":2,\"draw\":4,\"drawH\":4,\"loss\":11,\"lossH\":11,\"win\":20,\"winH\":18,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"cubachessbot\",\"username\":\"CubaChessBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2153,\"rd\":225,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":10,\"rating\":2203,\"rd\":174,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1459,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":10,\"rating\":1790,\"rd\":203,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2013,\"rd\":269,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2202,\"rd\":262,\"prog\":0,\"prov\":true}},\"createdAt\":1618826327753,\"profile\":{\"country\":\"CU\",\"bio\":\"Live games using easychess sourcecode\\r\\n\\r\\nCorrospondence and Unlimited timed games : STOCKFISH Database moves\\r\\n\\r\\nULTIMATE POWERFUL IN Corrospondence and UNLIMITED timed games\\r\\nBeated 3000 rated bot https://lichess.org/6vwMMklzBvNi\"},\"seenAt\":1621349974124,\"playTime\":{\"total\":6715,\"tv\":804},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/CubaChessBOT\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":40,\"rated\":35,\"ai\":2,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":15,\"win\":20,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "cubachessbot",
     "username": "CubaChessBOT",
@@ -13,21 +13,21 @@
       "blitz": {
         "games": 5,
         "rating": 2153,
-        "rd": 222,
+        "rd": 225,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 7,
-        "rating": 2275,
-        "rd": 195,
+        "games": 10,
+        "rating": 2203,
+        "rd": 174,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 1,
         "rating": 1459,
-        "rd": 450,
+        "rd": 452,
         "prog": 0,
         "prov": true
       },
@@ -41,21 +41,21 @@
       "correspondence": {
         "games": 10,
         "rating": 1790,
-        "rd": 201,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 5,
         "rating": 2013,
-        "rd": 267,
+        "rd": 269,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2469,
-        "rd": 283,
+        "games": 4,
+        "rating": 2202,
+        "rd": 262,
         "prog": 0,
         "prov": true
       }
@@ -65,29 +65,28 @@
       "country": "CU",
       "bio": "Live games using easychess sourcecode\r\n\r\nCorrospondence and Unlimited timed games : STOCKFISH Database moves\r\n\r\nULTIMATE POWERFUL IN Corrospondence and UNLIMITED timed games\r\nBeated 3000 rated bot https://lichess.org/6vwMMklzBvNi"
     },
-    "seenAt": 1619614038074,
+    "seenAt": 1621349974124,
     "playTime": {
-      "total": 6156,
+      "total": 6715,
       "tv": 804
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/CubaChessBOT",
-    "playing": "https://lichess.org/XeBMms0S/black",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
-      "all": 35,
-      "rated": 30,
+      "all": 40,
+      "rated": 35,
       "ai": 2,
-      "draw": 4,
-      "drawH": 4,
-      "loss": 11,
-      "lossH": 11,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 15,
+      "lossH": 15,
       "win": 20,
       "winH": 18,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
