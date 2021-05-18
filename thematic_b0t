@@ -1,0 +1,109 @@
+{
+  "id": "thematic_b0t",
+  "displayName": "Thematic_B0T",
+  "username": "Thematic_B0T",
+  "profileUrl": "https://lichess.org/@/Thematic_B0T",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thematic_b0t\",\"username\":\"Thematic_B0T\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1069,\"rd\":316,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1365,\"rd\":334,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2050,\"rd\":157,\"prog\":-169,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1472,\"rd\":459,\"prog\":0,\"prov\":true}},\"createdAt\":1621179693292,\"profile\":{\"country\":\"_pirate\",\"location\":\"Unknown\",\"bio\":\"Hi, you can ask for me to get a bot\",\"firstName\":\"Thematic\",\"lastName\":\"is coming\"},\"seenAt\":1621345180182,\"playTime\":{\"total\":1840,\"tv\":3},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thematic_B0T\",\"nbFollowing\":12,\"nbFollowers\":12,\"count\":{\"all\":36,\"rated\":18,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":12,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thematic_b0t",
+    "username": "Thematic_B0T",
+    "online": true,
+    "perfs": {
+      "atomic": {
+        "games": 1,
+        "rating": 1069,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1365,
+        "rd": 334,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 2050,
+        "rd": 157,
+        "prog": -169,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1472,
+        "rd": 459,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1621179693292,
+    "profile": {
+      "country": "_pirate",
+      "location": "Unknown",
+      "bio": "Hi, you can ask for me to get a bot",
+      "firstName": "Thematic",
+      "lastName": "is coming"
+    },
+    "seenAt": 1621345180182,
+    "playTime": {
+      "total": 1840,
+      "tv": 3
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Thematic_B0T",
+    "nbFollowing": 12,
+    "nbFollowers": 12,
+    "count": {
+      "all": 36,
+      "rated": 18,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 12,
+      "lossH": 12,
+      "win": 22,
+      "winH": 21,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
