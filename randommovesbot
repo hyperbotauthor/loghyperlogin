@@ -4,7 +4,7 @@
   "username": "Randommovesbot",
   "profileUrl": "https://lichess.org/@/Randommovesbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1318,\"rd\":351,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":351,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1365,\"rd\":353,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":992,\"rd\":276,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1541,\"rd\":244,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":7,\"rating\":1223,\"rd\":295,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1073,\"rd\":216,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":14,\"rating\":1311,\"rd\":199,\"prog\":-76,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1401,\"rd\":141,\"prog\":-50,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1163,\"rd\":291,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1056,\"rd\":294,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":997,\"rd\":268,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1621350367063,\"playTime\":{\"total\":18546,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":98,\"rated\":85,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":86,\"lossH\":86,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommovesbot\",\"username\":\"Randommovesbot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1318,\"rd\":351,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1140,\"rd\":351,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1365,\"rd\":353,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":992,\"rd\":276,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1541,\"rd\":244,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":17,\"rating\":1205,\"rd\":282,\"prog\":-10,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1073,\"rd\":216,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":14,\"rating\":1311,\"rd\":199,\"prog\":-76,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1401,\"rd\":141,\"prog\":-50,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1163,\"rd\":291,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1056,\"rd\":294,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":997,\"rd\":268,\"prog\":0,\"prov\":true}},\"createdAt\":1613709594340,\"seenAt\":1621352839739,\"playTime\":{\"total\":18711,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Randommovesbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":108,\"rated\":95,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":96,\"lossH\":96,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommovesbot",
     "username": "Randommovesbot",
@@ -46,10 +46,10 @@
         "prov": true
       },
       "kingOfTheHill": {
-        "games": 7,
-        "rating": 1223,
-        "rd": 295,
-        "prog": 0,
+        "games": 17,
+        "rating": 1205,
+        "rd": 282,
+        "prog": -10,
         "prov": true
       },
       "crazyhouse": {
@@ -96,9 +96,9 @@
       }
     },
     "createdAt": 1613709594340,
-    "seenAt": 1621350367063,
+    "seenAt": 1621352839739,
     "playTime": {
-      "total": 18546,
+      "total": 18711,
       "tv": 0
     },
     "language": "en-US",
@@ -107,13 +107,13 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 98,
-      "rated": 85,
+      "all": 108,
+      "rated": 95,
       "ai": 0,
       "draw": 3,
       "drawH": 3,
-      "loss": 86,
-      "lossH": 86,
+      "loss": 96,
+      "lossH": 96,
       "win": 9,
       "winH": 9,
       "bookmark": 0,
