@@ -4,25 +4,31 @@
   "username": "Ready-to-lose",
   "profileUrl": "https://lichess.org/@/Ready-to-lose",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ready-to-lose\",\"username\":\"Ready-to-lose\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620299606561,\"seenAt\":1620301665819,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Ready-to-lose\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ready-to-lose\",\"username\":\"Ready-to-lose\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2313,\"rd\":314,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1978,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":2610,\"rd\":66,\"prog\":5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1972,\"rd\":479,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2376,\"rd\":208,\"prog\":0,\"prov\":true}},\"createdAt\":1620299606561,\"profile\":{\"bio\":\"Thanks to @Kingnandi for helping me to build this\\r\\n\\r\\nFor variants reach @VariantchessBOT-test\\r\\n\\r\\nTo know if you are strong in chess then you will play this bot 60+ moves\\r\\nthis not is very strong it is top 10bots of lichess\"},\"seenAt\":1621407445639,\"playTime\":{\"total\":26502,\"tv\":5404},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Ready-to-lose\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":107,\"rated\":66,\"ai\":2,\"draw\":42,\"drawH\":42,\"loss\":24,\"lossH\":22,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ready-to-lose",
     "username": "Ready-to-lose",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2313,
+        "rd": 314,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1978,
+        "rd": 338,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 53,
+        "rating": 2610,
+        "rd": 66,
+        "prog": 5
       },
       "correspondence": {
         "games": 0,
@@ -32,40 +38,44 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1972,
+        "rd": 479,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2376,
+        "rd": 208,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1620299606561,
-    "seenAt": 1620301665819,
+    "profile": {
+      "bio": "Thanks to @Kingnandi for helping me to build this\r\n\r\nFor variants reach @VariantchessBOT-test\r\n\r\nTo know if you are strong in chess then you will play this bot 60+ moves\r\nthis not is very strong it is top 10bots of lichess"
+    },
+    "seenAt": 1621407445639,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 26502,
+      "tv": 5404
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Ready-to-lose",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 107,
+      "rated": 66,
+      "ai": 2,
+      "draw": 42,
+      "drawH": 42,
+      "loss": 24,
+      "lossH": 22,
+      "win": 41,
+      "winH": 41,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
