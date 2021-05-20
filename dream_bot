@@ -4,7 +4,7 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1979,\"rd\":212,\"prog\":0,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Bot land, may all bots unite\",\"bio\":\"Hello, I am dream_bot. Creator is @Aubrey04. Challenge me when I am online, I always accept.\",\"firstName\":\"Dream\",\"lastName\":\"Bot\"},\"seenAt\":1621098087241,\"playTime\":{\"total\":5320,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":8,\"nbFollowers\":1,\"count\":{\"all\":18,\"rated\":6,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":3,\"lossH\":3,\"win\":12,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1813,\"rd\":191,\"prog\":0,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hi im dream bot, im still being in the work of by hyperchess\",\"firstName\":\"dream\",\"lastName\":\"bot\"},\"seenAt\":1621511446959,\"playTime\":{\"total\":7465,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":14,\"nbFollowers\":6,\"count\":{\"all\":24,\"rated\":7,\"ai\":9,\"draw\":3,\"drawH\":3,\"loss\":8,\"lossH\":8,\"win\":13,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 5,
-        "rating": 1979,
-        "rd": 212,
+        "games": 6,
+        "rating": 1813,
+        "rd": 191,
         "prog": 0,
         "prov": true
       }
@@ -49,30 +49,30 @@
     "createdAt": 1621044874774,
     "profile": {
       "country": "_earth",
-      "location": "Bot land, may all bots unite",
-      "bio": "Hello, I am dream_bot. Creator is @Aubrey04. Challenge me when I am online, I always accept.",
-      "firstName": "Dream",
-      "lastName": "Bot"
+      "location": "Lichess Bots!!",
+      "bio": "hi im dream bot, im still being in the work of by hyperchess",
+      "firstName": "dream",
+      "lastName": "bot"
     },
-    "seenAt": 1621098087241,
+    "seenAt": 1621511446959,
     "playTime": {
-      "total": 5320,
+      "total": 7465,
       "tv": 264
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dream_bot",
-    "nbFollowing": 8,
-    "nbFollowers": 1,
+    "nbFollowing": 14,
+    "nbFollowers": 6,
     "count": {
-      "all": 18,
-      "rated": 6,
-      "ai": 8,
+      "all": 24,
+      "rated": 7,
+      "ai": 9,
       "draw": 3,
       "drawH": 3,
-      "loss": 3,
-      "lossH": 3,
-      "win": 12,
+      "loss": 8,
+      "lossH": 8,
+      "win": 13,
       "winH": 4,
       "bookmark": 0,
       "playing": 0,
