@@ -1,0 +1,85 @@
+{
+  "id": "dragonbot",
+  "displayName": "DragonBOT",
+  "username": "DragonBOT",
+  "profileUrl": "https://lichess.org/@/DragonBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dragonbot\",\"username\":\"DragonBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1852,\"rd\":189,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1443,\"rd\":307,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":9,\"rating\":1505,\"rd\":159,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1466,\"rd\":458,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":50,\"rating\":1852,\"rd\":94,\"prog\":-17}},\"createdAt\":1599761890297,\"profile\":{\"bio\":\"I'm a machine, I am strong, I am difficult, I will withdraw when you realize that you will be defeated NOTE: I am not invincible\",\"firstName\":\"Dragon\",\"lastName\":\"BOT\"},\"seenAt\":1621495515504,\"playTime\":{\"total\":96868,\"tv\":26431},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DragonBOT\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":591,\"rated\":71,\"ai\":427,\"draw\":21,\"drawH\":13,\"loss\":504,\"lossH\":100,\"win\":66,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dragonbot",
+    "username": "DragonBOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 6,
+        "rating": 1852,
+        "rd": 189,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 1443,
+        "rd": 307,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 9,
+        "rating": 1505,
+        "rd": 159,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1466,
+        "rd": 458,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 50,
+        "rating": 1852,
+        "rd": 94,
+        "prog": -17
+      }
+    },
+    "createdAt": 1599761890297,
+    "profile": {
+      "bio": "I'm a machine, I am strong, I am difficult, I will withdraw when you realize that you will be defeated NOTE: I am not invincible",
+      "firstName": "Dragon",
+      "lastName": "BOT"
+    },
+    "seenAt": 1621495515504,
+    "playTime": {
+      "total": 96868,
+      "tv": 26431
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/DragonBOT",
+    "nbFollowing": 0,
+    "nbFollowers": 3,
+    "count": {
+      "all": 591,
+      "rated": 71,
+      "ai": 427,
+      "draw": 21,
+      "drawH": 13,
+      "loss": 504,
+      "lossH": 100,
+      "win": 66,
+      "winH": 51,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
