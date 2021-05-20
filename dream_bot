@@ -4,7 +4,7 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1854,\"rd\":160,\"prog\":0,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"Dream bot is a 2600 rated bot (trying to play more rated games). Go ahead and challenge me, I will accept. I play bullet, blitz, rapid, classical and correspondence! I prefer 15+0 though!\",\"firstName\":\"dream\",\"lastName\":\"bot - 2600\",\"fideRating\":2600},\"seenAt\":1621541744360,\"playTime\":{\"total\":11903,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":36,\"rated\":14,\"ai\":11,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":14,\"win\":18,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1875,\"rd\":152,\"prog\":0,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"Dream bot is a 2600 rated bot (trying to play more rated games). Go ahead and challenge me, I will accept. I play bullet, blitz, rapid, classical and correspondence! I prefer 15+0 though!\",\"firstName\":\"dream\",\"lastName\":\"bot - 2600\",\"fideRating\":2600},\"seenAt\":1621553764231,\"playTime\":{\"total\":13439,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":38,\"rated\":15,\"ai\":12,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":14,\"win\":20,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 9,
-        "rating": 1854,
-        "rd": 160,
+        "games": 10,
+        "rating": 1875,
+        "rd": 152,
         "prog": 0,
         "prov": true
       }
@@ -55,9 +55,9 @@
       "lastName": "bot - 2600",
       "fideRating": 2600
     },
-    "seenAt": 1621541744360,
+    "seenAt": 1621553764231,
     "playTime": {
-      "total": 11903,
+      "total": 13439,
       "tv": 264
     },
     "language": "en-US",
@@ -66,15 +66,15 @@
     "nbFollowing": 7,
     "nbFollowers": 5,
     "count": {
-      "all": 36,
-      "rated": 14,
-      "ai": 11,
+      "all": 38,
+      "rated": 15,
+      "ai": 12,
       "draw": 4,
       "drawH": 4,
       "loss": 14,
       "lossH": 14,
-      "win": 18,
-      "winH": 7,
+      "win": 20,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
