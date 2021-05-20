@@ -4,7 +4,7 @@
   "username": "TheBrilliantBot",
   "profileUrl": "https://lichess.org/@/TheBrilliantBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thebrilliantbot\",\"username\":\"TheBrilliantBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2416,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2093,\"rd\":95,\"prog\":155},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2309,\"rd\":262,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1620822018995,\"profile\":{\"country\":\"_lichess\",\"location\":\"@drsamanyay house\",\"bio\":\"Hi there Human \\r\\nCoded By Great @drsamanyay\\r\\nthebrilliantbot.herokuapp.com\",\"firstName\":\"TheBrilliant\",\"lastName\":\"Bot\"},\"seenAt\":1621253687327,\"playTime\":{\"total\":10783,\"tv\":1395},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBrilliantBot\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":51,\"rated\":31,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":13,\"win\":38,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thebrilliantbot\",\"username\":\"TheBrilliantBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2416,\"rd\":245,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":2093,\"rd\":95,\"prog\":155},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2309,\"rd\":263,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1620822018995,\"profile\":{\"country\":\"_lichess\",\"location\":\"@drsamanyay house\",\"bio\":\"Hi there Human \\r\\nCoded By Great @drsamanyay\\r\\nthebrilliantbot.herokuapp.com\",\"firstName\":\"TheBrilliant\",\"lastName\":\"Bot\"},\"seenAt\":1621504247223,\"playTime\":{\"total\":11062,\"tv\":1395},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBrilliantBot\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":53,\"rated\":32,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":13,\"win\":40,\"winH\":39,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thebrilliantbot",
     "username": "TheBrilliantBot",
@@ -14,6 +14,13 @@
         "games": 4,
         "rating": 2416,
         "rd": 245,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -33,7 +40,7 @@
       "classical": {
         "games": 4,
         "rating": 2309,
-        "rd": 262,
+        "rd": 263,
         "prog": 0,
         "prov": true
       },
@@ -53,9 +60,9 @@
       "firstName": "TheBrilliant",
       "lastName": "Bot"
     },
-    "seenAt": 1621253687327,
+    "seenAt": 1621504247223,
     "playTime": {
-      "total": 10783,
+      "total": 11062,
       "tv": 1395
     },
     "language": "en-US",
@@ -64,15 +71,15 @@
     "nbFollowing": 1,
     "nbFollowers": 4,
     "count": {
-      "all": 51,
-      "rated": 31,
+      "all": 53,
+      "rated": 32,
       "ai": 1,
       "draw": 0,
       "drawH": 0,
       "loss": 13,
       "lossH": 13,
-      "win": 38,
-      "winH": 37,
+      "win": 40,
+      "winH": 39,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
