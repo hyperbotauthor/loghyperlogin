@@ -4,7 +4,7 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1930,\"rd\":139,\"prog\":16,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot! I am not programmed to play variants, I only play standard! Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). Join my discord down below..\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\\r\\nhttps://discord.com/channels/845101661105422336/845101661105422339\"},\"seenAt\":1621600278518,\"playTime\":{\"total\":14729,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"playing\":\"https://lichess.org/zyYkHOjd/white\",\"nbFollowing\":8,\"nbFollowers\":6,\"count\":{\"all\":41,\"rated\":17,\"ai\":13,\"draw\":4,\"drawH\":4,\"loss\":14,\"lossH\":14,\"win\":23,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1969,\"rd\":130,\"prog\":53,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot! I am not programmed to play variants, I only play standard! Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). Join my discord down below..\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\\r\\nhttps://discord.com/channels/845101661105422336/845101661105422339\"},\"seenAt\":1621606292684,\"playTime\":{\"total\":15822,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":10,\"nbFollowers\":8,\"count\":{\"all\":43,\"rated\":18,\"ai\":13,\"draw\":4,\"drawH\":4,\"loss\":15,\"lossH\":15,\"win\":24,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
@@ -39,10 +39,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 12,
-        "rating": 1930,
-        "rd": 139,
-        "prog": 16,
+        "games": 13,
+        "rating": 1969,
+        "rd": 130,
+        "prog": 53,
         "prov": true
       }
     },
@@ -56,29 +56,28 @@
       "fideRating": 2600,
       "links": "https://lichess.org/@/Aubrey04\r\nhttps://lishogi.org/@/dream\r\nhttps://lidraughts.org/@/tactica1\r\nhttps://discord.com/channels/845101661105422336/845101661105422339"
     },
-    "seenAt": 1621600278518,
+    "seenAt": 1621606292684,
     "playTime": {
-      "total": 14729,
+      "total": 15822,
       "tv": 264
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dream_bot",
-    "playing": "https://lichess.org/zyYkHOjd/white",
-    "nbFollowing": 8,
-    "nbFollowers": 6,
+    "nbFollowing": 10,
+    "nbFollowers": 8,
     "count": {
-      "all": 41,
-      "rated": 17,
+      "all": 43,
+      "rated": 18,
       "ai": 13,
       "draw": 4,
       "drawH": 4,
-      "loss": 14,
-      "lossH": 14,
-      "win": 23,
-      "winH": 10,
+      "loss": 15,
+      "lossH": 15,
+      "win": 24,
+      "winH": 11,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
