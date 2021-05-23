@@ -4,7 +4,7 @@
   "username": "puzzlesbot",
   "profileUrl": "https://lichess.org/@/puzzlesbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"puzzlesbot\",\"username\":\"puzzlesbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1737,\"rd\":233,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1859,\"rd\":286,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1337,\"rd\":244,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2128,\"rd\":133,\"prog\":-34,\"prov\":true}},\"createdAt\":1594585735940,\"profile\":{\"bio\":\"Accepting rated and casual correspondence challenges, casual you can set your level by saying in the chat... use levels 1-20. 20 is how I usually play in rated\\r\\n\\r\\nvery rarely will accept rated rapid/classical\"},\"seenAt\":1620919240497,\"playTime\":{\"total\":11773,\"tv\":1598},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":32,\"rated\":29,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":16,\"lossH\":14,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"puzzlesbot\",\"username\":\"puzzlesbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1737,\"rd\":233,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1859,\"rd\":286,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1337,\"rd\":244,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2128,\"rd\":134,\"prog\":-34,\"prov\":true}},\"createdAt\":1594585735940,\"profile\":{\"bio\":\"Accepting rated and casual correspondence challenges, casual you can set your level by saying in the chat... use levels 1-20. 20 is how I usually play in rated\\r\\n\\r\\nvery rarely will accept rated rapid/classical\"},\"seenAt\":1621808419019,\"playTime\":{\"total\":11773,\"tv\":1598},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/puzzlesbot\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":32,\"rated\":29,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":16,\"lossH\":14,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "puzzlesbot",
     "username": "puzzlesbot",
@@ -41,7 +41,7 @@
       "rapid": {
         "games": 13,
         "rating": 2128,
-        "rd": 133,
+        "rd": 134,
         "prog": -34,
         "prov": true
       }
@@ -50,7 +50,7 @@
     "profile": {
       "bio": "Accepting rated and casual correspondence challenges, casual you can set your level by saying in the chat... use levels 1-20. 20 is how I usually play in rated\r\n\r\nvery rarely will accept rated rapid/classical"
     },
-    "seenAt": 1620919240497,
+    "seenAt": 1621808419019,
     "playTime": {
       "total": 11773,
       "tv": 1598
