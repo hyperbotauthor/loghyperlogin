@@ -4,7 +4,7 @@
   "username": "Disgusting_Warrior",
   "profileUrl": "https://lichess.org/@/Disgusting_Warrior",
   "provider": "lichess",
-  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2081,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"IN\",\"location\":\"Hypereasy.herokuapp.com\",\"bio\":\"Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1621740817979,\"playTime\":{\"total\":2333,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":28,\"rated\":9,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":24,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2081,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"IN\",\"location\":\"Hypereasy.herokuapp.com\",\"bio\":\"Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1621746206496,\"playTime\":{\"total\":2333,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"playing\":\"https://lichess.org/gLEkfFRY/white\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":28,\"rated\":9,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":24,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "disgusting_warrior",
     "username": "Disgusting_Warrior",
@@ -55,7 +55,7 @@
       "lastName": "Engine",
       "fideRating": 3000
     },
-    "seenAt": 1621740817979,
+    "seenAt": 1621746206496,
     "playTime": {
       "total": 2333,
       "tv": 0
@@ -63,6 +63,7 @@
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Disgusting_Warrior",
+    "playing": "https://lichess.org/gLEkfFRY/white",
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
@@ -76,7 +77,7 @@
       "win": 24,
       "winH": 23,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
