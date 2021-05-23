@@ -4,7 +4,7 @@
   "username": "TheBrilliantBot",
   "profileUrl": "https://lichess.org/@/TheBrilliantBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thebrilliantbot\",\"username\":\"TheBrilliantBot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2314,\"rd\":288,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":2473,\"rd\":210,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":2149,\"rd\":364,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2117,\"rd\":93,\"prog\":179},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2309,\"rd\":263,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":286,\"prog\":0,\"prov\":true}},\"createdAt\":1620822018995,\"profile\":{\"country\":\"_lichess\",\"location\":\"@drsamanyay house\",\"bio\":\"Hi there Human \\r\\nCoded By Great @drsamanyay\\r\\nthebrilliantbot.herokuapp.com\",\"firstName\":\"TheBrilliant\",\"lastName\":\"Bot\"},\"seenAt\":1621707870870,\"playTime\":{\"total\":13875,\"tv\":1568},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBrilliantBot\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":75,\"rated\":42,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":17,\"lossH\":17,\"win\":58,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thebrilliantbot\",\"username\":\"TheBrilliantBot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2314,\"rd\":288,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2510,\"rd\":190,\"prog\":21,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":2149,\"rd\":364,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2145,\"rd\":88,\"prog\":189},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2309,\"rd\":263,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2399,\"rd\":286,\"prog\":0,\"prov\":true}},\"createdAt\":1620822018995,\"profile\":{\"country\":\"_lichess\",\"location\":\"@drsamanyay house\",\"bio\":\"Hi there Human \\r\\nCoded By Great @drsamanyay\\r\\nthebrilliantbot.herokuapp.com\",\"firstName\":\"TheBrilliant\",\"lastName\":\"Bot\"},\"seenAt\":1621772857000,\"playTime\":{\"total\":15890,\"tv\":1751},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TheBrilliantBot\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":86,\"rated\":49,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":20,\"lossH\":20,\"win\":66,\"winH\":65,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thebrilliantbot",
     "username": "TheBrilliantBot",
@@ -25,10 +25,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 9,
-        "rating": 2473,
-        "rd": 210,
-        "prog": 0,
+        "games": 14,
+        "rating": 2510,
+        "rd": 190,
+        "prog": 21,
         "prov": true
       },
       "kingOfTheHill": {
@@ -39,10 +39,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 21,
-        "rating": 2117,
-        "rd": 93,
-        "prog": 179
+        "games": 23,
+        "rating": 2145,
+        "rd": 88,
+        "prog": 189
       },
       "correspondence": {
         "games": 0,
@@ -74,26 +74,26 @@
       "firstName": "TheBrilliant",
       "lastName": "Bot"
     },
-    "seenAt": 1621707870870,
+    "seenAt": 1621772857000,
     "playTime": {
-      "total": 13875,
-      "tv": 1568
+      "total": 15890,
+      "tv": 1751
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TheBrilliantBot",
     "nbFollowing": 1,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 75,
-      "rated": 42,
+      "all": 86,
+      "rated": 49,
       "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 17,
-      "lossH": 17,
-      "win": 58,
-      "winH": 57,
+      "loss": 20,
+      "lossH": 20,
+      "win": 66,
+      "winH": 65,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
