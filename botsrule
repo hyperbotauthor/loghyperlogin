@@ -4,30 +4,30 @@
   "username": "BotsRule",
   "profileUrl": "https://lichess.org/@/BotsRule",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botsrule\",\"username\":\"BotsRule\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2111,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1456,\"rd\":437,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1624,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2380,\"rd\":292,\"prog\":0,\"prov\":true}},\"createdAt\":1621181769110,\"profile\":{\"bio\":\"https://i.imgur.com/UIe2IOX.jpg\",\"firstName\":\"Nero\"},\"seenAt\":1621845810550,\"playTime\":{\"total\":6765,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotsRule\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":21,\"rated\":13,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":16,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botsrule\",\"username\":\"BotsRule\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2072,\"rd\":138,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1432,\"rd\":407,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1720,\"rd\":244,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1835,\"rd\":256,\"prog\":0,\"prov\":true}},\"createdAt\":1621181769110,\"profile\":{\"bio\":\"https://i.imgur.com/UIe2IOX.jpg\",\"firstName\":\"Nero\"},\"seenAt\":1621854520351,\"playTime\":{\"total\":8907,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotsRule\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":31,\"rated\":23,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botsrule",
     "username": "BotsRule",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2111,
-        "rd": 175,
+        "games": 7,
+        "rating": 2072,
+        "rd": 138,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1456,
-        "rd": 437,
+        "games": 3,
+        "rating": 1432,
+        "rd": 407,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 3,
-        "rating": 1624,
-        "rd": 304,
+        "games": 4,
+        "rating": 1720,
+        "rd": 244,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2380,
-        "rd": 292,
+        "games": 7,
+        "rating": 1835,
+        "rd": 256,
         "prog": 0,
         "prov": true
       }
@@ -51,9 +51,9 @@
       "bio": "https://i.imgur.com/UIe2IOX.jpg",
       "firstName": "Nero"
     },
-    "seenAt": 1621845810550,
+    "seenAt": 1621854520351,
     "playTime": {
-      "total": 6765,
+      "total": 8907,
       "tv": 0
     },
     "language": "en-US",
@@ -62,15 +62,15 @@
     "nbFollowing": 2,
     "nbFollowers": 4,
     "count": {
-      "all": 21,
-      "rated": 13,
+      "all": 31,
+      "rated": 23,
       "ai": 1,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 4,
-      "lossH": 4,
-      "win": 16,
-      "winH": 15,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 9,
+      "lossH": 9,
+      "win": 18,
+      "winH": 17,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
