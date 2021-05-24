@@ -4,11 +4,11 @@
   "username": "chessbot1863",
   "profileUrl": "https://lichess.org/@/chessbot1863",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessbot1863\",\"username\":\"chessbot1863\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":386,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2045,\"rd\":157,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621560082217,\"seenAt\":1621831076651,\"playTime\":{\"total\":4378,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessbot1863\",\"playing\":\"https://lichess.org/I6JBHYv4/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":44,\"rated\":9,\"ai\":28,\"draw\":1,\"drawH\":1,\"loss\":27,\"lossH\":5,\"win\":16,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessbot1863\",\"username\":\"chessbot1863\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":386,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1914,\"rd\":115,\"prog\":-113,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621560082217,\"seenAt\":1621838104103,\"playTime\":{\"total\":7219,\"tv\":26},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chessbot1863\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":59,\"rated\":14,\"ai\":29,\"draw\":2,\"drawH\":2,\"loss\":36,\"lossH\":13,\"win\":21,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessbot1863",
     "username": "chessbot1863",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 1,
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 8,
-        "rating": 2045,
-        "rd": 157,
-        "prog": 0,
+        "games": 13,
+        "rating": 1914,
+        "rd": 115,
+        "prog": -113,
         "prov": true
       },
       "correspondence": {
@@ -47,29 +47,28 @@
       }
     },
     "createdAt": 1621560082217,
-    "seenAt": 1621831076651,
+    "seenAt": 1621838104103,
     "playTime": {
-      "total": 4378,
-      "tv": 0
+      "total": 7219,
+      "tv": 26
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/chessbot1863",
-    "playing": "https://lichess.org/I6JBHYv4/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 44,
-      "rated": 9,
-      "ai": 28,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 27,
-      "lossH": 5,
-      "win": 16,
-      "winH": 10,
+      "all": 59,
+      "rated": 14,
+      "ai": 29,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 36,
+      "lossH": 13,
+      "win": 21,
+      "winH": 15,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
