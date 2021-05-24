@@ -4,7 +4,7 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":359,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":1969,\"rd\":130,\"prog\":53,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621692322181,\"playTime\":{\"total\":18835,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":10,\"nbFollowers\":10,\"count\":{\"all\":53,\"rated\":20,\"ai\":16,\"draw\":4,\"drawH\":4,\"loss\":17,\"lossH\":17,\"win\":32,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":359,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1956,\"rd\":127,\"prog\":43,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621858637954,\"playTime\":{\"total\":20313,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":10,\"nbFollowers\":10,\"count\":{\"all\":54,\"rated\":21,\"ai\":16,\"draw\":4,\"drawH\":4,\"loss\":18,\"lossH\":18,\"win\":32,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
@@ -46,10 +46,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 13,
-        "rating": 1969,
-        "rd": 130,
-        "prog": 53,
+        "games": 14,
+        "rating": 1956,
+        "rd": 127,
+        "prog": 43,
         "prov": true
       }
     },
@@ -63,9 +63,9 @@
       "fideRating": 2600,
       "links": "https://lichess.org/@/Aubrey04\r\nhttps://lishogi.org/@/dream\r\nhttps://lidraughts.org/@/tactica1"
     },
-    "seenAt": 1621692322181,
+    "seenAt": 1621858637954,
     "playTime": {
-      "total": 18835,
+      "total": 20313,
       "tv": 264
     },
     "language": "en-US",
@@ -74,13 +74,13 @@
     "nbFollowing": 10,
     "nbFollowers": 10,
     "count": {
-      "all": 53,
-      "rated": 20,
+      "all": 54,
+      "rated": 21,
       "ai": 16,
       "draw": 4,
       "drawH": 4,
-      "loss": 17,
-      "lossH": 17,
+      "loss": 18,
+      "lossH": 18,
       "win": 32,
       "winH": 16,
       "bookmark": 0,
