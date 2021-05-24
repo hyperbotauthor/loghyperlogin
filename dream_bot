@@ -4,11 +4,11 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":359,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1956,\"rd\":127,\"prog\":43,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621861048581,\"playTime\":{\"total\":21050,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":10,\"nbFollowers\":10,\"count\":{\"all\":58,\"rated\":21,\"ai\":17,\"draw\":5,\"drawH\":5,\"loss\":18,\"lossH\":18,\"win\":35,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":359,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1956,\"rd\":127,\"prog\":43,\"prov\":true}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2600 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2600\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621865990800,\"playTime\":{\"total\":21050,\"tv\":264},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":10,\"nbFollowers\":10,\"count\":{\"all\":58,\"rated\":21,\"ai\":17,\"draw\":5,\"drawH\":5,\"loss\":18,\"lossH\":18,\"win\":35,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -63,7 +63,7 @@
       "fideRating": 2600,
       "links": "https://lichess.org/@/Aubrey04\r\nhttps://lishogi.org/@/dream\r\nhttps://lidraughts.org/@/tactica1"
     },
-    "seenAt": 1621861048581,
+    "seenAt": 1621865990800,
     "playTime": {
       "total": 21050,
       "tv": 264
