@@ -1,0 +1,107 @@
+{
+  "id": "chessmonk1999",
+  "displayName": "chessmonk1999",
+  "username": "chessmonk1999",
+  "profileUrl": "https://lichess.org/@/chessmonk1999",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessmonk1999\",\"username\":\"chessmonk1999\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1379,\"rd\":448,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":18,\"rating\":1861,\"rd\":138,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":16,\"rating\":1680,\"rd\":102,\"prog\":-24},\"blitz\":{\"games\":8,\"rating\":1746,\"rd\":147,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1379,\"rd\":448,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":283,\"rating\":1925,\"rd\":47,\"prog\":-11},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1323,\"rd\":296,\"prog\":0,\"prov\":true}},\"createdAt\":1619588611295,\"seenAt\":1621924976173,\"playTime\":{\"total\":34161,\"tv\":52},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/chessmonk1999\",\"nbFollowing\":13,\"nbFollowers\":2,\"completionRate\":77,\"count\":{\"all\":317,\"rated\":312,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":164,\"lossH\":164,\"win\":147,\"winH\":147,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessmonk1999",
+    "username": "chessmonk1999",
+    "online": false,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1379,
+        "rd": 448,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 18,
+        "rating": 1861,
+        "rd": 138,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 16,
+        "rating": 1680,
+        "rd": 102,
+        "prog": -24
+      },
+      "blitz": {
+        "games": 8,
+        "rating": 1746,
+        "rd": 147,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1379,
+        "rd": 448,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 283,
+        "rating": 1925,
+        "rd": 47,
+        "prog": -11
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1323,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1619588611295,
+    "seenAt": 1621924976173,
+    "playTime": {
+      "total": 34161,
+      "tv": 52
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/chessmonk1999",
+    "nbFollowing": 13,
+    "nbFollowers": 2,
+    "completionRate": 77,
+    "count": {
+      "all": 317,
+      "rated": 312,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 164,
+      "lossH": 164,
+      "win": 147,
+      "winH": 147,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
