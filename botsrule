@@ -4,7 +4,7 @@
   "username": "BotsRule",
   "profileUrl": "https://lichess.org/@/BotsRule",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botsrule\",\"username\":\"BotsRule\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2072,\"rd\":138,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1432,\"rd\":407,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1720,\"rd\":245,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1835,\"rd\":256,\"prog\":0,\"prov\":true}},\"createdAt\":1621181769110,\"profile\":{\"bio\":\"https://i.imgur.com/UIe2IOX.jpg\",\"firstName\":\"Nero\"},\"seenAt\":1621860842019,\"playTime\":{\"total\":8907,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotsRule\",\"playing\":\"https://lichess.org/X2OmHD5d/black\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":31,\"rated\":23,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botsrule\",\"username\":\"BotsRule\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2072,\"rd\":138,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1432,\"rd\":407,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1720,\"rd\":245,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1835,\"rd\":256,\"prog\":0,\"prov\":true}},\"createdAt\":1621181769110,\"profile\":{\"bio\":\"https://i.imgur.com/UIe2IOX.jpg\",\"firstName\":\"Nero\"},\"seenAt\":1621937607730,\"playTime\":{\"total\":9036,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotsRule\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":33,\"rated\":23,\"ai\":2,\"draw\":5,\"drawH\":5,\"loss\":9,\"lossH\":9,\"win\":19,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botsrule",
     "username": "BotsRule",
@@ -34,7 +34,7 @@
       "classical": {
         "games": 1,
         "rating": 1748,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
@@ -51,29 +51,28 @@
       "bio": "https://i.imgur.com/UIe2IOX.jpg",
       "firstName": "Nero"
     },
-    "seenAt": 1621860842019,
+    "seenAt": 1621937607730,
     "playTime": {
-      "total": 8907,
+      "total": 9036,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BotsRule",
-    "playing": "https://lichess.org/X2OmHD5d/black",
     "nbFollowing": 2,
     "nbFollowers": 4,
     "count": {
-      "all": 31,
+      "all": 33,
       "rated": 23,
-      "ai": 1,
-      "draw": 4,
-      "drawH": 4,
+      "ai": 2,
+      "draw": 5,
+      "drawH": 5,
       "loss": 9,
       "lossH": 9,
-      "win": 18,
+      "win": 19,
       "winH": 17,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
