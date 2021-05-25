@@ -4,7 +4,7 @@
   "username": "Disgusting_Warrior",
   "profileUrl": "https://lichess.org/@/Disgusting_Warrior",
   "provider": "lichess",
-  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1341,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2070,\"rd\":110,\"prog\":-55,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"IN\",\"location\":\"Hypereasy.herokuapp.com\",\"bio\":\"Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1621916023199,\"playTime\":{\"total\":3900,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":47,\"rated\":25,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":37,\"winH\":36,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1341,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2070,\"rd\":110,\"prog\":-55,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"IN\",\"location\":\"Hypereasy.herokuapp.com\",\"bio\":\"Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.https://hypereasy.herokuapp.com/ - Visit this link to bring me online.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1621921480087,\"playTime\":{\"total\":4041,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":49,\"rated\":26,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":39,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "disgusting_warrior",
     "username": "Disgusting_Warrior",
@@ -50,14 +50,14 @@
     "profile": {
       "country": "IN",
       "location": "Hypereasy.herokuapp.com",
-      "bio": "Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.",
+      "bio": "Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid or classical.https://hypereasy.herokuapp.com/ - Visit this link to bring me online.",
       "firstName": "Lichess",
       "lastName": "Engine",
       "fideRating": 3000
     },
-    "seenAt": 1621916023199,
+    "seenAt": 1621921480087,
     "playTime": {
-      "total": 3900,
+      "total": 4041,
       "tv": 0
     },
     "language": "en-GB",
@@ -66,15 +66,15 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 47,
-      "rated": 25,
+      "all": 49,
+      "rated": 26,
       "ai": 1,
       "draw": 2,
       "drawH": 2,
       "loss": 8,
       "lossH": 8,
-      "win": 37,
-      "winH": 36,
+      "win": 39,
+      "winH": 38,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
