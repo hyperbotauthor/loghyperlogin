@@ -4,7 +4,7 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":360,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2094,\"rd\":100,\"prog\":181}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"hello, I am dream_bot, a 2000 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\\r\\n\\r\\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\\r\\nhello! Join my discord, under this text ^^\",\"firstName\":\"Dream Bot - 2000\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621944412841,\"playTime\":{\"total\":29272,\"tv\":1904},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":11,\"nbFollowers\":10,\"count\":{\"all\":65,\"rated\":26,\"ai\":17,\"draw\":6,\"drawH\":6,\"loss\":19,\"lossH\":19,\"win\":40,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2271,\"rd\":276,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":360,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2137,\"rd\":90,\"prog\":223}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"Hi, I am dream_bot, owner: @Aubrey04! I play standard & variants! I don't play bullet or ultrabullet anymore, it's turned off for now. Anyways, go ahead challenge and follow me! I appreciate the support. (Made with hyper easy heroku app.)\",\"firstName\":\"Dream Bot - 2000\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1621967615159,\"playTime\":{\"total\":33329,\"tv\":2053},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"playing\":\"https://lichess.org/ZgkjIfJR/white\",\"nbFollowing\":12,\"nbFollowers\":10,\"count\":{\"all\":74,\"rated\":31,\"ai\":17,\"draw\":7,\"drawH\":7,\"loss\":23,\"lossH\":23,\"win\":44,\"winH\":27,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1496,
-        "rd": 495,
+        "games": 3,
+        "rating": 2271,
+        "rd": 276,
         "prog": 0,
         "prov": true
       },
@@ -46,44 +46,45 @@
         "prov": true
       },
       "rapid": {
-        "games": 19,
-        "rating": 2094,
-        "rd": 100,
-        "prog": 181
+        "games": 22,
+        "rating": 2137,
+        "rd": 90,
+        "prog": 223
       }
     },
     "createdAt": 1621044874774,
     "profile": {
       "country": "_earth",
       "location": "Lichess Bots!!",
-      "bio": "hello, I am dream_bot, a 2000 rated lichess bot!  Challenge me whenever you'd like, I play casual AND rated (depending on if you're a bot or not). (PS: I will not be doing f4f anymore)\r\n\r\nhttps://media.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.gif\r\nhello! Join my discord, under this text ^^",
+      "bio": "Hi, I am dream_bot, owner: @Aubrey04! I play standard & variants! I don't play bullet or ultrabullet anymore, it's turned off for now. Anyways, go ahead challenge and follow me! I appreciate the support. (Made with hyper easy heroku app.)",
       "firstName": "Dream Bot - 2000",
       "lastName": "(Challenge Me!)",
       "fideRating": 2600,
       "links": "https://lichess.org/@/Aubrey04\r\nhttps://lishogi.org/@/dream\r\nhttps://lidraughts.org/@/tactica1"
     },
-    "seenAt": 1621944412841,
+    "seenAt": 1621967615159,
     "playTime": {
-      "total": 29272,
-      "tv": 1904
+      "total": 33329,
+      "tv": 2053
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dream_bot",
-    "nbFollowing": 11,
+    "playing": "https://lichess.org/ZgkjIfJR/white",
+    "nbFollowing": 12,
     "nbFollowers": 10,
     "count": {
-      "all": 65,
-      "rated": 26,
+      "all": 74,
+      "rated": 31,
       "ai": 17,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 19,
-      "lossH": 19,
-      "win": 40,
-      "winH": 23,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 23,
+      "lossH": 23,
+      "win": 44,
+      "winH": 27,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
