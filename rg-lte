@@ -1,0 +1,82 @@
+{
+  "id": "rg-lte",
+  "displayName": "RG-LTe",
+  "username": "RG-LTe",
+  "profileUrl": "https://lichess.org/@/RG-LTe",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rg-lte\",\"username\":\"RG-LTe\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1404,\"rd\":362,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2417,\"rd\":221,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621921811418,\"seenAt\":1621925539840,\"playTime\":{\"total\":1540,\"tv\":540},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RG-LTe\",\"playing\":\"https://lichess.org/knI9n5DB/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":11,\"rated\":7,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":3,\"win\":7,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rg-lte",
+    "username": "RG-LTe",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1404,
+        "rd": 362,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 6,
+        "rating": 2417,
+        "rd": 221,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1621921811418,
+    "seenAt": 1621925539840,
+    "playTime": {
+      "total": 1540,
+      "tv": 540
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/RG-LTe",
+    "playing": "https://lichess.org/knI9n5DB/white",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 11,
+      "rated": 7,
+      "ai": 2,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 3,
+      "win": 7,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
