@@ -1,0 +1,120 @@
+{
+  "id": "knight_128",
+  "displayName": "knight_128",
+  "username": "knight_128",
+  "profileUrl": "https://lichess.org/@/knight_128",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"knight_128\",\"username\":\"knight_128\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":30,\"rating\":1525,\"rd\":84,\"prog\":24},\"racingKings\":{\"games\":2,\"rating\":2144,\"rd\":380,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":131,\"rating\":1914,\"rd\":58,\"prog\":121},\"kingOfTheHill\":{\"games\":8,\"rating\":1233,\"rd\":198,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1274,\"rd\":258,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1563,\"rd\":205,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":181,\"rating\":1951,\"rd\":59,\"prog\":-14},\"correspondence\":{\"games\":1,\"rating\":1705,\"rd\":316,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2031,\"rd\":258,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1930,\"rd\":181,\"prog\":0,\"prov\":true}},\"createdAt\":1618967079219,\"profile\":{\"country\":\"_lichess\",\"bio\":\"@knight128 @knight_128 @KnightDragon728\",\"firstName\":\"Getting better\",\"lastName\":\"at chess\",\"fideRating\":2080},\"seenAt\":1621968631916,\"playTime\":{\"total\":29967,\"tv\":1512},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/knight_128\",\"nbFollowing\":83,\"nbFollowers\":22,\"count\":{\"all\":534,\"rated\":384,\"ai\":21,\"draw\":24,\"drawH\":24,\"loss\":96,\"lossH\":80,\"win\":414,\"winH\":409,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "knight_128",
+    "username": "knight_128",
+    "online": true,
+    "perfs": {
+      "atomic": {
+        "games": 30,
+        "rating": 1525,
+        "rd": 84,
+        "prog": 24
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 2144,
+        "rd": 380,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 131,
+        "rating": 1914,
+        "rd": 58,
+        "prog": 121
+      },
+      "kingOfTheHill": {
+        "games": 8,
+        "rating": 1233,
+        "rd": 198,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1274,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1563,
+        "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 181,
+        "rating": 1951,
+        "rd": 59,
+        "prog": -14
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1705,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 2031,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 1930,
+        "rd": 181,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1618967079219,
+    "profile": {
+      "country": "_lichess",
+      "bio": "@knight128 @knight_128 @KnightDragon728",
+      "firstName": "Getting better",
+      "lastName": "at chess",
+      "fideRating": 2080
+    },
+    "seenAt": 1621968631916,
+    "playTime": {
+      "total": 29967,
+      "tv": 1512
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/knight_128",
+    "nbFollowing": 83,
+    "nbFollowers": 22,
+    "count": {
+      "all": 534,
+      "rated": 384,
+      "ai": 21,
+      "draw": 24,
+      "drawH": 24,
+      "loss": 96,
+      "lossH": 80,
+      "win": 414,
+      "winH": 409,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
