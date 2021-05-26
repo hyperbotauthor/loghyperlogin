@@ -4,11 +4,11 @@
   "username": "dream_bot",
   "profileUrl": "https://lichess.org/@/dream_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":292,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2271,\"rd\":276,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":360,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2159,\"rd\":88,\"prog\":229}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"Hi, I am dream_bot, owner: @Aubrey04! I play standard & variants! I don't play bullet or ultrabullet anymore, it's turned off for now. Anyways, go ahead challenge and follow me! I appreciate the support. (Made with hyper easy heroku app.)\",\"firstName\":\"Dream Bot - 2000\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1622044668121,\"playTime\":{\"total\":34496,\"tv\":2053},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":12,\"nbFollowers\":10,\"count\":{\"all\":75,\"rated\":32,\"ai\":17,\"draw\":7,\"drawH\":7,\"loss\":23,\"lossH\":23,\"win\":45,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dream_bot\",\"username\":\"dream_bot\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1739,\"rd\":292,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2271,\"rd\":276,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1375,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1979,\"rd\":360,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":26,\"rating\":2223,\"rd\":80,\"prog\":238}},\"createdAt\":1621044874774,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess Bots!!\",\"bio\":\"Hi, I am dream_bot, owner: @Aubrey04! I play standard & variants! I don't play bullet or ultrabullet anymore, it's turned off for now. Anyways, go ahead challenge and follow me! I appreciate the support. (Made with hyper easy heroku app.)\",\"firstName\":\"Dream Bot - 2000\",\"lastName\":\"(Challenge Me!)\",\"fideRating\":2600,\"links\":\"https://lichess.org/@/Aubrey04\\r\\nhttps://lishogi.org/@/dream\\r\\nhttps://lidraughts.org/@/tactica1\"},\"seenAt\":1622053646553,\"playTime\":{\"total\":39865,\"tv\":2053},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dream_bot\",\"nbFollowing\":18,\"nbFollowers\":14,\"count\":{\"all\":78,\"rated\":35,\"ai\":17,\"draw\":7,\"drawH\":7,\"loss\":23,\"lossH\":23,\"win\":48,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dream_bot",
     "username": "dream_bot",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -46,10 +46,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 23,
-        "rating": 2159,
-        "rd": 88,
-        "prog": 229
+        "games": 26,
+        "rating": 2223,
+        "rd": 80,
+        "prog": 238
       }
     },
     "createdAt": 1621044874774,
@@ -62,26 +62,26 @@
       "fideRating": 2600,
       "links": "https://lichess.org/@/Aubrey04\r\nhttps://lishogi.org/@/dream\r\nhttps://lidraughts.org/@/tactica1"
     },
-    "seenAt": 1622044668121,
+    "seenAt": 1622053646553,
     "playTime": {
-      "total": 34496,
+      "total": 39865,
       "tv": 2053
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dream_bot",
-    "nbFollowing": 12,
-    "nbFollowers": 10,
+    "nbFollowing": 18,
+    "nbFollowers": 14,
     "count": {
-      "all": 75,
-      "rated": 32,
+      "all": 78,
+      "rated": 35,
       "ai": 17,
       "draw": 7,
       "drawH": 7,
       "loss": 23,
       "lossH": 23,
-      "win": 45,
-      "winH": 28,
+      "win": 48,
+      "winH": 31,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
