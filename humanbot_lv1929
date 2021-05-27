@@ -1,13 +1,13 @@
 {
   "id": "humanbot_lv1929",
-  "displayName": "Humanbot_lv1929",
-  "username": "Humanbot_lv1929",
-  "profileUrl": "https://lichess.org/@/Humanbot_lv1929",
+  "displayName": "HumanBOT_lv1929",
+  "username": "HumanBOT_lv1929",
+  "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"Humanbot_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1372,\"rd\":211,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"My owner is @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622125241020,\"playTime\":{\"total\":289,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Humanbot_lv1929\",\"playing\":\"https://lichess.org/6hz6SrOV/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":13,\"rated\":4,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":10,\"lossH\":6,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1418,\"rd\":168,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1670,\"rd\":304,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"My owner is @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622140010216,\"playTime\":{\"total\":2115,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/hfk4bNCZ/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":18,\"rated\":8,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":7,\"win\":6,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
-    "username": "Humanbot_lv1929",
+    "username": "HumanBOT_lv1929",
     "online": true,
     "perfs": {
       "blitz": {
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 3,
-        "rating": 1372,
-        "rd": 211,
+        "games": 5,
+        "rating": 1418,
+        "rd": 168,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1670,
+        "rd": 304,
         "prog": 0,
         "prov": true
       }
@@ -54,27 +54,27 @@
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1622125241020,
+    "seenAt": 1622140010216,
     "playTime": {
-      "total": 289,
+      "total": 2115,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
-    "url": "https://lichess.org/@/Humanbot_lv1929",
-    "playing": "https://lichess.org/6hz6SrOV/black",
-    "nbFollowing": 1,
+    "url": "https://lichess.org/@/HumanBOT_lv1929",
+    "playing": "https://lichess.org/hfk4bNCZ/white",
+    "nbFollowing": 2,
     "nbFollowers": 1,
     "count": {
-      "all": 13,
-      "rated": 4,
-      "ai": 6,
+      "all": 18,
+      "rated": 8,
+      "ai": 7,
       "draw": 0,
       "drawH": 0,
-      "loss": 10,
-      "lossH": 6,
-      "win": 3,
-      "winH": 1,
+      "loss": 12,
+      "lossH": 7,
+      "win": 6,
+      "winH": 4,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
