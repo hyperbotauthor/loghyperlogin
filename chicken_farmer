@@ -4,7 +4,7 @@
   "username": "chicken_farmer",
   "profileUrl": "https://lichess.org/@/chicken_farmer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chicken_farmer\",\"username\":\"chicken_farmer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":419,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":65,\"rating\":1953,\"rd\":66,\"prog\":175},\"antichess\":{\"games\":2,\"rating\":1241,\"rd\":315,\"prog\":0,\"prov\":true},\"horde\":{\"games\":8,\"rating\":1557,\"rd\":222,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":18,\"rating\":1514,\"rd\":118,\"prog\":40,\"prov\":true},\"bullet\":{\"games\":114,\"rating\":2071,\"rd\":51,\"prog\":36},\"correspondence\":{\"games\":1,\"rating\":1926,\"rd\":384,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615211540525,\"profile\":{\"country\":\"CN\",\"bio\":\"I have exactly 2,597.47 chickens! If you are asking how I can have .47 of a chicken, let me explain. In short, a coyote ate .53 of one of my chickens so I have .47 of a chicken left. Start running @silasschultzbot. Race to 2700 anything @less_of_a_threat?\",\"firstName\":\"A Very Smart Chicken\",\"lastName\":\"Farmer...\"},\"seenAt\":1622049053369,\"playTime\":{\"total\":37836,\"tv\":5166},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chicken_farmer\",\"nbFollowing\":79,\"nbFollowers\":31,\"count\":{\"all\":291,\"rated\":213,\"ai\":31,\"draw\":31,\"drawH\":30,\"loss\":92,\"lossH\":72,\"win\":168,\"winH\":158,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chicken_farmer\",\"username\":\"chicken_farmer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1435,\"rd\":420,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":65,\"rating\":1953,\"rd\":66,\"prog\":175},\"antichess\":{\"games\":2,\"rating\":1241,\"rd\":315,\"prog\":0,\"prov\":true},\"horde\":{\"games\":8,\"rating\":1557,\"rd\":222,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":18,\"rating\":1514,\"rd\":119,\"prog\":40,\"prov\":true},\"bullet\":{\"games\":114,\"rating\":2071,\"rd\":52,\"prog\":36},\"correspondence\":{\"games\":1,\"rating\":1926,\"rd\":384,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2345,\"rd\":388,\"prog\":0,\"prov\":true}},\"createdAt\":1615211540525,\"profile\":{\"country\":\"CN\",\"bio\":\"I have exactly 2,597.47 chickens! If you are asking how I can have .47 of a chicken, let me explain. In short, a coyote ate .53 of one of my chickens so I have .47 of a chicken left. Start running @silasschultzbot. Race to 2700 anything @less_of_a_threat?\",\"firstName\":\"A Very Smart Chicken\",\"lastName\":\"Farmer...\"},\"seenAt\":1622118497077,\"playTime\":{\"total\":39983,\"tv\":5166},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chicken_farmer\",\"nbFollowing\":85,\"nbFollowers\":35,\"count\":{\"all\":297,\"rated\":215,\"ai\":31,\"draw\":31,\"drawH\":30,\"loss\":93,\"lossH\":73,\"win\":173,\"winH\":163,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chicken_farmer",
     "username": "chicken_farmer",
@@ -13,7 +13,7 @@
       "chess960": {
         "games": 1,
         "rating": 1435,
-        "rd": 419,
+        "rd": 420,
         "prog": 0,
         "prov": true
       },
@@ -40,14 +40,14 @@
       "atomic": {
         "games": 18,
         "rating": 1514,
-        "rd": 118,
+        "rd": 119,
         "prog": 40,
         "prov": true
       },
       "bullet": {
         "games": 114,
         "rating": 2071,
-        "rd": 51,
+        "rd": 52,
         "prog": 36
       },
       "correspondence": {
@@ -65,9 +65,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2345,
+        "rd": 388,
         "prog": 0,
         "prov": true
       }
@@ -79,26 +79,26 @@
       "firstName": "A Very Smart Chicken",
       "lastName": "Farmer..."
     },
-    "seenAt": 1622049053369,
+    "seenAt": 1622118497077,
     "playTime": {
-      "total": 37836,
+      "total": 39983,
       "tv": 5166
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chicken_farmer",
-    "nbFollowing": 79,
-    "nbFollowers": 31,
+    "nbFollowing": 85,
+    "nbFollowers": 35,
     "count": {
-      "all": 291,
-      "rated": 213,
+      "all": 297,
+      "rated": 215,
       "ai": 31,
       "draw": 31,
       "drawH": 30,
-      "loss": 92,
-      "lossH": 72,
-      "win": 168,
-      "winH": 158,
+      "loss": 93,
+      "lossH": 73,
+      "win": 173,
+      "winH": 163,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
