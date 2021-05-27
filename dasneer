@@ -4,7 +4,7 @@
   "username": "dasneer",
   "profileUrl": "https://lichess.org/@/dasneer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1665,\"rd\":188,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":13,\"rating\":2128,\"rd\":156,\"prog\":15,\"prov\":true},\"racingKings\":{\"games\":19,\"rating\":2191,\"rd\":129,\"prog\":-121,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2245,\"rd\":126,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":2146,\"rd\":189,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":2158,\"rd\":291,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":2242,\"rd\":285,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1973,\"rd\":81,\"prog\":-90},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2462,\"rd\":225,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2012,\"rd\":136,\"prog\":-40,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\\r\\nanyone can challenge me in any game except ANTICHESS\\r\\nHelped by: @Kingnandi\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"lichess.org/@/neerdas\"},\"seenAt\":1621149714801,\"playTime\":{\"total\":48478,\"tv\":2457},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"nbFollowing\":7,\"nbFollowers\":4,\"count\":{\"all\":209,\"rated\":109,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":74,\"lossH\":74,\"win\":128,\"winH\":128,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dasneer\",\"username\":\"dasneer\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1665,\"rd\":190,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":13,\"rating\":2128,\"rd\":158,\"prog\":15,\"prov\":true},\"racingKings\":{\"games\":20,\"rating\":2209,\"rd\":126,\"prog\":-103,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2245,\"rd\":128,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":2146,\"rd\":191,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":2158,\"rd\":292,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":2242,\"rd\":286,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1973,\"rd\":84,\"prog\":-90},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2462,\"rd\":226,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2012,\"rd\":138,\"prog\":-40,\"prov\":true}},\"createdAt\":1620465749290,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello all. Welcome to my Profile. I am a BOT created by @neerdas .\\r\\nhttps://imgur.com/LEbSvLy\\r\\nanyone can challenge me in any game except ANTICHESS\\r\\nHelped by: @Kingnandi\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"lichess.org/@/neerdas\"},\"seenAt\":1622093181921,\"playTime\":{\"total\":48784,\"tv\":2457},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/dasneer\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":210,\"rated\":110,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":74,\"lossH\":74,\"win\":129,\"winH\":129,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dasneer",
     "username": "dasneer",
@@ -13,56 +13,56 @@
       "chess960": {
         "games": 4,
         "rating": 1665,
-        "rd": 188,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 13,
         "rating": 2128,
-        "rd": 156,
+        "rd": 158,
         "prog": 15,
         "prov": true
       },
       "racingKings": {
-        "games": 19,
-        "rating": 2191,
-        "rd": 129,
-        "prog": -121,
+        "games": 20,
+        "rating": 2209,
+        "rd": 126,
+        "prog": -103,
         "prov": true
       },
       "blitz": {
         "games": 10,
         "rating": 2245,
-        "rd": 126,
+        "rd": 128,
         "prog": 0,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 6,
         "rating": 2146,
-        "rd": 189,
+        "rd": 191,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 3,
         "rating": 2158,
-        "rd": 291,
+        "rd": 292,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 4,
         "rating": 2242,
-        "rd": 285,
+        "rd": 286,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 25,
         "rating": 1973,
-        "rd": 81,
+        "rd": 84,
         "prog": -90
       },
       "correspondence": {
@@ -75,14 +75,14 @@
       "classical": {
         "games": 4,
         "rating": 2462,
-        "rd": 225,
+        "rd": 226,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 13,
         "rating": 2012,
-        "rd": 136,
+        "rd": 138,
         "prog": -40,
         "prov": true
       }
@@ -96,26 +96,26 @@
       "lastName": "das",
       "links": "lichess.org/@/neerdas"
     },
-    "seenAt": 1621149714801,
+    "seenAt": 1622093181921,
     "playTime": {
-      "total": 48478,
+      "total": 48784,
       "tv": 2457
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/dasneer",
     "nbFollowing": 7,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 209,
-      "rated": 109,
+      "all": 210,
+      "rated": 110,
       "ai": 0,
       "draw": 7,
       "drawH": 7,
       "loss": 74,
       "lossH": 74,
-      "win": 128,
-      "winH": 128,
+      "win": 129,
+      "winH": 129,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
