@@ -4,7 +4,7 @@
   "username": "SiLaSScHuLtZBOT",
   "profileUrl": "https://lichess.org/@/SiLaSScHuLtZBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"silasschultzbot\",\"username\":\"SiLaSScHuLtZBOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1371,\"rd\":336,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1660,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1661,\"rd\":312,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":1913,\"rd\":74,\"prog\":115},\"crazyhouse\":{\"games\":18,\"rating\":1679,\"rd\":240,\"prog\":-266,\"prov\":true},\"bullet\":{\"games\":59,\"rating\":1986,\"rd\":79,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":938,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2539,\"rd\":237,\"prog\":0,\"prov\":true}},\"createdAt\":1615304267381,\"profile\":{\"country\":\"US\",\"bio\":\"This BOT's engine is run by easychess. created by @silasschultz, Race to 2.7K? @Chicken_farmer\"},\"seenAt\":1622151826604,\"playTime\":{\"total\":23095,\"tv\":897},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SiLaSScHuLtZBOT\",\"nbFollowing\":24,\"nbFollowers\":28,\"count\":{\"all\":208,\"rated\":185,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":64,\"lossH\":63,\"win\":142,\"winH\":136,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"silasschultzbot\",\"username\":\"SiLaSScHuLtZBOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1371,\"rd\":336,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1660,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":10,\"rating\":1661,\"rd\":313,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":56,\"rating\":1913,\"rd\":75,\"prog\":115},\"crazyhouse\":{\"games\":18,\"rating\":1679,\"rd\":240,\"prog\":-266,\"prov\":true},\"bullet\":{\"games\":59,\"rating\":1986,\"rd\":80,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":938,\"rd\":354,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2539,\"rd\":237,\"prog\":0,\"prov\":true}},\"createdAt\":1615304267381,\"profile\":{\"country\":\"US\",\"bio\":\"This BOT's engine is run by easychess. created by @silasschultz, Race to 2.7K? @Chicken_farmer\"},\"seenAt\":1622232157794,\"playTime\":{\"total\":23095,\"tv\":897},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SiLaSScHuLtZBOT\",\"nbFollowing\":25,\"nbFollowers\":28,\"count\":{\"all\":209,\"rated\":185,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":64,\"lossH\":63,\"win\":143,\"winH\":136,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "silasschultzbot",
     "username": "SiLaSScHuLtZBOT",
@@ -27,14 +27,14 @@
       "atomic": {
         "games": 10,
         "rating": 1661,
-        "rd": 312,
+        "rd": 313,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 56,
         "rating": 1913,
-        "rd": 74,
+        "rd": 75,
         "prog": 115
       },
       "crazyhouse": {
@@ -47,7 +47,7 @@
       "bullet": {
         "games": 59,
         "rating": 1986,
-        "rd": 79,
+        "rd": 80,
         "prog": -2
       },
       "correspondence": {
@@ -77,7 +77,7 @@
       "country": "US",
       "bio": "This BOT's engine is run by easychess. created by @silasschultz, Race to 2.7K? @Chicken_farmer"
     },
-    "seenAt": 1622151826604,
+    "seenAt": 1622232157794,
     "playTime": {
       "total": 23095,
       "tv": 897
@@ -85,17 +85,17 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/SiLaSScHuLtZBOT",
-    "nbFollowing": 24,
+    "nbFollowing": 25,
     "nbFollowers": 28,
     "count": {
-      "all": 208,
+      "all": 209,
       "rated": 185,
-      "ai": 7,
+      "ai": 8,
       "draw": 2,
       "drawH": 2,
       "loss": 64,
       "lossH": 63,
-      "win": 142,
+      "win": 143,
       "winH": 136,
       "bookmark": 2,
       "playing": 0,
