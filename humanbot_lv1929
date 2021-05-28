@@ -4,7 +4,7 @@
   "username": "HumanBOT_lv1929",
   "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1481,\"rd\":157,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1760,\"rd\":244,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622203695318,\"playTime\":{\"total\":2536,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":28,\"rated\":10,\"ai\":15,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":7,\"win\":15,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1481,\"rd\":157,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1760,\"rd\":244,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622207498232,\"playTime\":{\"total\":2536,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/XClEZrRi/white\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":31,\"rated\":10,\"ai\":17,\"draw\":0,\"drawH\":0,\"loss\":14,\"lossH\":8,\"win\":17,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
     "username": "HumanBOT_lv1929",
@@ -54,7 +54,7 @@
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1622203695318,
+    "seenAt": 1622207498232,
     "playTime": {
       "total": 2536,
       "tv": 0
@@ -62,20 +62,21 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HumanBOT_lv1929",
+    "playing": "https://lichess.org/XClEZrRi/white",
     "nbFollowing": 2,
     "nbFollowers": 2,
     "count": {
-      "all": 28,
+      "all": 31,
       "rated": 10,
-      "ai": 15,
+      "ai": 17,
       "draw": 0,
       "drawH": 0,
-      "loss": 13,
-      "lossH": 7,
-      "win": 15,
+      "loss": 14,
+      "lossH": 8,
+      "win": 17,
       "winH": 6,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
