@@ -4,7 +4,7 @@
   "username": "HumanBOT_lv1929",
   "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":20,\"rating\":1683,\"rd\":101,\"prog\":69},\"classical\":{\"games\":4,\"rating\":1586,\"rd\":305,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1895,\"rd\":191,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622221723357,\"playTime\":{\"total\":5143,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/G5Cxa2DD/white\",\"nbFollowing\":4,\"nbFollowers\":2,\"count\":{\"all\":55,\"rated\":33,\"ai\":17,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":10,\"win\":39,\"winH\":28,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":20,\"rating\":1683,\"rd\":101,\"prog\":69},\"classical\":{\"games\":5,\"rating\":1621,\"rd\":286,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1895,\"rd\":191,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622226009100,\"playTime\":{\"total\":5418,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/t7OqVxA6/white\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":56,\"rated\":34,\"ai\":17,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":10,\"win\":40,\"winH\":29,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
     "username": "HumanBOT_lv1929",
@@ -31,9 +31,9 @@
         "prog": 69
       },
       "classical": {
-        "games": 4,
-        "rating": 1586,
-        "rd": 305,
+        "games": 5,
+        "rating": 1621,
+        "rd": 286,
         "prog": 0,
         "prov": true
       },
@@ -49,31 +49,31 @@
     "profile": {
       "country": "_lichess",
       "location": "Unknown cuz I’m a bot",
-      "bio": "Official bot of @CISAdRiAnYaNgPs160\r\nPlease challenge me anytime",
+      "bio": "Official bot of @CISAdRiAnYaNgPs160\r\nPlease challenge me anytime\r\nI am a bot. I mostly play correspondence.\r\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees",
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1622221723357,
+    "seenAt": 1622226009100,
     "playTime": {
-      "total": 5143,
+      "total": 5418,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HumanBOT_lv1929",
-    "playing": "https://lichess.org/G5Cxa2DD/white",
+    "playing": "https://lichess.org/t7OqVxA6/white",
     "nbFollowing": 4,
-    "nbFollowers": 2,
+    "nbFollowers": 3,
     "count": {
-      "all": 55,
-      "rated": 33,
+      "all": 56,
+      "rated": 34,
       "ai": 17,
       "draw": 0,
       "drawH": 0,
       "loss": 16,
       "lossH": 10,
-      "win": 39,
-      "winH": 28,
+      "win": 40,
+      "winH": 29,
       "bookmark": 0,
       "playing": 2,
       "import": 0,
