@@ -4,7 +4,7 @@
   "username": "HumanBOT_lv1929",
   "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":21,\"rating\":1667,\"rd\":99,\"prog\":53},\"classical\":{\"games\":7,\"rating\":1662,\"rd\":264,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1895,\"rd\":192,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622292019162,\"playTime\":{\"total\":5944,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":59,\"rated\":37,\"ai\":17,\"draw\":1,\"drawH\":1,\"loss\":16,\"lossH\":10,\"win\":42,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":26,\"rating\":1660,\"rd\":90,\"prog\":-24},\"classical\":{\"games\":9,\"rating\":1688,\"rd\":251,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1895,\"rd\":192,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me anytime\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622296785060,\"playTime\":{\"total\":6805,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/SoxG2A2i/white\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":66,\"rated\":44,\"ai\":17,\"draw\":3,\"drawH\":3,\"loss\":16,\"lossH\":10,\"win\":47,\"winH\":36,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
     "username": "HumanBOT_lv1929",
@@ -25,15 +25,15 @@
         "prov": true
       },
       "correspondence": {
-        "games": 21,
-        "rating": 1667,
-        "rd": 99,
-        "prog": 53
+        "games": 26,
+        "rating": 1660,
+        "rd": 90,
+        "prog": -24
       },
       "classical": {
-        "games": 7,
-        "rating": 1662,
-        "rd": 264,
+        "games": 9,
+        "rating": 1688,
+        "rd": 251,
         "prog": 0,
         "prov": true
       },
@@ -53,28 +53,29 @@
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1622292019162,
+    "seenAt": 1622296785060,
     "playTime": {
-      "total": 5944,
+      "total": 6805,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HumanBOT_lv1929",
+    "playing": "https://lichess.org/SoxG2A2i/white",
     "nbFollowing": 4,
     "nbFollowers": 3,
     "count": {
-      "all": 59,
-      "rated": 37,
+      "all": 66,
+      "rated": 44,
       "ai": 17,
-      "draw": 1,
-      "drawH": 1,
+      "draw": 3,
+      "drawH": 3,
       "loss": 16,
       "lossH": 10,
-      "win": 42,
-      "winH": 31,
+      "win": 47,
+      "winH": 36,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
