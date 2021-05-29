@@ -4,7 +4,7 @@
   "username": "LogicalRobot",
   "profileUrl": "https://lichess.org/@/LogicalRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2161,\"rd\":362,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":323,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"seenAt\":1622264827594,\"playTime\":{\"total\":248,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":4,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2161,\"rd\":362,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":323,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"seenAt\":1622277524390,\"playTime\":{\"total\":248,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":4,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "logicalrobot",
     "username": "LogicalRobot",
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1622198492811,
-    "seenAt": 1622264827594,
+    "seenAt": 1622277524390,
     "playTime": {
       "total": 248,
       "tv": 0
@@ -55,8 +55,8 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LogicalRobot",
-    "nbFollowing": 2,
-    "nbFollowers": 2,
+    "nbFollowing": 3,
+    "nbFollowers": 3,
     "count": {
       "all": 4,
       "rated": 3,
