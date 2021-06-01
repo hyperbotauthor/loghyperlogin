@@ -1,0 +1,88 @@
+{
+  "id": "provishnu_07",
+  "displayName": "proVISHNU_07",
+  "username": "proVISHNU_07",
+  "profileUrl": "https://lichess.org/@/proVISHNU_07",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"provishnu_07\",\"username\":\"proVISHNU_07\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":29,\"rating\":1240,\"rd\":94,\"prog\":107},\"ultraBullet\":{\"games\":36,\"rating\":808,\"rd\":126,\"prog\":-57,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":880,\"rd\":252,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1483,\"rd\":278,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1305,\"rd\":300,\"prog\":0,\"prov\":true}},\"createdAt\":1604295342729,\"seenAt\":1622549878639,\"playTime\":{\"total\":12461,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/proVISHNU_07\",\"playing\":\"https://lichess.org/1UE2oAhz/white\",\"nbFollowing\":0,\"nbFollowers\":2,\"completionRate\":87,\"count\":{\"all\":111,\"rated\":72,\"ai\":9,\"draw\":8,\"drawH\":7,\"loss\":75,\"lossH\":70,\"win\":28,\"winH\":25,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "provishnu_07",
+    "username": "proVISHNU_07",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 29,
+        "rating": 1240,
+        "rd": 94,
+        "prog": 107
+      },
+      "ultraBullet": {
+        "games": 36,
+        "rating": 808,
+        "rd": 126,
+        "prog": -57,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 880,
+        "rd": 252,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 4,
+        "rating": 1483,
+        "rd": 278,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1305,
+        "rd": 300,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604295342729,
+    "seenAt": 1622549878639,
+    "playTime": {
+      "total": 12461,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/proVISHNU_07",
+    "playing": "https://lichess.org/1UE2oAhz/white",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "completionRate": 87,
+    "count": {
+      "all": 111,
+      "rated": 72,
+      "ai": 9,
+      "draw": 8,
+      "drawH": 7,
+      "loss": 75,
+      "lossH": 70,
+      "win": 28,
+      "winH": 25,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
