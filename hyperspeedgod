@@ -4,12 +4,26 @@
   "username": "HyperSpeedGod",
   "profileUrl": "https://lichess.org/@/HyperSpeedGod",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperspeedgod\",\"username\":\"HyperSpeedGod\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1439,\"rd\":446,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2158,\"rd\":176,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1911,\"rd\":274,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620938708649,\"seenAt\":1621645200122,\"playTime\":{\"total\":1010,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperSpeedGod\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":21,\"rated\":15,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":16,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperspeedgod\",\"username\":\"HyperSpeedGod\",\"online\":true,\"perfs\":{\"horde\":{\"games\":1,\"rating\":1399,\"rd\":359,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2139,\"rd\":438,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1465,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2238,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1911,\"rd\":275,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620938708649,\"seenAt\":1622582773550,\"playTime\":{\"total\":2192,\"tv\":245},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperSpeedGod\",\"nbFollowing\":5,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":22,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":7,\"win\":23,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperspeedgod",
     "username": "HyperSpeedGod",
     "online": true,
     "perfs": {
+      "horde": {
+        "games": 1,
+        "rating": 1399,
+        "rd": 359,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 2139,
+        "rd": 438,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 0,
         "rating": 1500,
@@ -17,24 +31,24 @@
         "prog": 0,
         "prov": true
       },
-      "racingKings": {
+      "kingOfTheHill": {
         "games": 1,
-        "rating": 1439,
-        "rd": 446,
+        "rating": 1465,
+        "rd": 451,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 8,
-        "rating": 2158,
-        "rd": 176,
+        "games": 11,
+        "rating": 2238,
+        "rd": 152,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 4,
         "rating": 1911,
-        "rd": 274,
+        "rd": 275,
         "prog": 0,
         "prov": true
       },
@@ -54,26 +68,26 @@
       }
     },
     "createdAt": 1620938708649,
-    "seenAt": 1621645200122,
+    "seenAt": 1622582773550,
     "playTime": {
-      "total": 1010,
-      "tv": 0
+      "total": 2192,
+      "tv": 245
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HyperSpeedGod",
-    "nbFollowing": 4,
+    "nbFollowing": 5,
     "nbFollowers": 1,
     "count": {
-      "all": 21,
-      "rated": 15,
+      "all": 31,
+      "rated": 22,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 4,
-      "lossH": 4,
-      "win": 16,
-      "winH": 15,
+      "loss": 7,
+      "lossH": 7,
+      "win": 23,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
