@@ -4,24 +4,24 @@
   "username": "Disgusting_Warrior",
   "profileUrl": "https://lichess.org/@/Disgusting_Warrior",
   "provider": "lichess",
-  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1546,\"rd\":158,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2047,\"rd\":108,\"prog\":-90},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"_lichess\",\"location\":\"Master BOT\",\"bio\":\"Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid. https://hypereasy.herokuapp.com/?lichessbotlogin=ok   - Visit this link to bring me online.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1622269521968,\"playTime\":{\"total\":10761,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":68,\"rated\":38,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":11,\"lossH\":11,\"win\":52,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"disgusting_warrior\",\"username\":\"Disgusting_Warrior\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1745,\"rd\":118,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":1943,\"rd\":103,\"prog\":-107},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2002,\"rd\":323,\"prog\":0,\"prov\":true}},\"createdAt\":1621668923299,\"profile\":{\"country\":\"_lichess\",\"location\":\"Master BOT\",\"bio\":\"Hello, I created by @SamannoyB. Not active 24/7. I accept challenges when I am online. Written in C++ and python. Recently using stockfish engine. My server:https://easychess.herokuapp.com/?login-lichess-bot=ok. During games, if opponent insists , I can also play random moves.\",\"firstName\":\"Lichess\",\"lastName\":\"Engine\",\"fideRating\":3000},\"seenAt\":1622614444261,\"playTime\":{\"total\":13171,\"tv\":260},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Disgusting_Warrior\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":86,\"rated\":47,\"ai\":2,\"draw\":5,\"drawH\":5,\"loss\":16,\"lossH\":15,\"win\":65,\"winH\":64,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "disgusting_warrior",
     "username": "Disgusting_Warrior",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 5,
-        "rating": 1546,
-        "rd": 158,
+        "games": 9,
+        "rating": 1745,
+        "rd": 118,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 24,
-        "rating": 2047,
-        "rd": 108,
-        "prog": -90
+        "games": 27,
+        "rating": 1943,
+        "rd": 103,
+        "prog": -107
       },
       "correspondence": {
         "games": 0,
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2002,
+        "rd": 323,
         "prog": 0,
         "prov": true
       }
@@ -49,31 +49,31 @@
     "profile": {
       "country": "_lichess",
       "location": "Master BOT",
-      "bio": "Hello, this is a BOT created by @SamannOyB. This BOT is powered by hypereasy.herokuapp.com. Not active, 24/7, but can beat you in 0 secs!! BE AWARE!! This BOT cannot play classical, rapid. https://hypereasy.herokuapp.com/?lichessbotlogin=ok   - Visit this link to bring me online.",
+      "bio": "Hello, I created by @SamannoyB. Not active 24/7. I accept challenges when I am online. Written in C++ and python. Recently using stockfish engine. My server:https://easychess.herokuapp.com/?login-lichess-bot=ok. During games, if opponent insists , I can also play random moves.",
       "firstName": "Lichess",
       "lastName": "Engine",
       "fideRating": 3000
     },
-    "seenAt": 1622269521968,
+    "seenAt": 1622614444261,
     "playTime": {
-      "total": 10761,
-      "tv": 0
+      "total": 13171,
+      "tv": 260
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Disgusting_Warrior",
-    "nbFollowing": 2,
+    "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 68,
-      "rated": 38,
-      "ai": 1,
+      "all": 86,
+      "rated": 47,
+      "ai": 2,
       "draw": 5,
       "drawH": 5,
-      "loss": 11,
-      "lossH": 11,
-      "win": 52,
-      "winH": 51,
+      "loss": 16,
+      "lossH": 15,
+      "win": 65,
+      "winH": 64,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
