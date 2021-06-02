@@ -1,0 +1,81 @@
+{
+  "id": "teamleaderbot",
+  "displayName": "Teamleaderbot",
+  "username": "Teamleaderbot",
+  "profileUrl": "https://lichess.org/@/Teamleaderbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"teamleaderbot\",\"username\":\"Teamleaderbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":35,\"rating\":1744,\"rd\":88,\"prog\":-99},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1414,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1069,\"rd\":314,\"prog\":0,\"prov\":true}},\"createdAt\":1622443025007,\"seenAt\":1622627696762,\"playTime\":{\"total\":6046,\"tv\":998},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Teamleaderbot\",\"playing\":\"https://lichess.org/VRUTyVrV/white\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":43,\"rated\":38,\"ai\":3,\"draw\":3,\"drawH\":3,\"loss\":28,\"lossH\":26,\"win\":12,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "teamleaderbot",
+    "username": "Teamleaderbot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 35,
+        "rating": 1744,
+        "rd": 88,
+        "prog": -99
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1414,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1069,
+        "rd": 314,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1622443025007,
+    "seenAt": 1622627696762,
+    "playTime": {
+      "total": 6046,
+      "tv": 998
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Teamleaderbot",
+    "playing": "https://lichess.org/VRUTyVrV/white",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "count": {
+      "all": 43,
+      "rated": 38,
+      "ai": 3,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 28,
+      "lossH": 26,
+      "win": 12,
+      "winH": 11,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
