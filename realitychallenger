@@ -4,7 +4,7 @@
   "username": "RealityChallenger",
   "profileUrl": "https://lichess.org/@/RealityChallenger",
   "provider": "lichess",
-  "_raw": "{\"id\":\"realitychallenger\",\"username\":\"RealityChallenger\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1167,\"rd\":303,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1685,\"rd\":334,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1575,\"rd\":405,\"prog\":0,\"prov\":true}},\"createdAt\":1621821645112,\"profile\":{\"bio\":\"I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!!\"},\"seenAt\":1622674720095,\"playTime\":{\"total\":690,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealityChallenger\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":7,\"ai\":6,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":0,\"win\":12,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"realitychallenger\",\"username\":\"RealityChallenger\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1167,\"rd\":303,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1685,\"rd\":334,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1575,\"rd\":405,\"prog\":0,\"prov\":true}},\"createdAt\":1621821645112,\"profile\":{\"bio\":\"I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!!\"},\"seenAt\":1622679910145,\"playTime\":{\"total\":690,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealityChallenger\",\"playing\":\"https://lichess.org/3jbQTblv/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":18,\"rated\":7,\"ai\":8,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":0,\"win\":13,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "realitychallenger",
     "username": "RealityChallenger",
@@ -57,7 +57,7 @@
     "profile": {
       "bio": "I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!!"
     },
-    "seenAt": 1622674720095,
+    "seenAt": 1622679910145,
     "playTime": {
       "total": 690,
       "tv": 0
@@ -65,20 +65,21 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RealityChallenger",
+    "playing": "https://lichess.org/3jbQTblv/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 16,
+      "all": 18,
       "rated": 7,
-      "ai": 6,
+      "ai": 8,
       "draw": 1,
       "drawH": 1,
-      "loss": 3,
+      "loss": 4,
       "lossH": 0,
-      "win": 12,
+      "win": 13,
       "winH": 9,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
