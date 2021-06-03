@@ -4,11 +4,11 @@
   "username": "HumanBOT_lv1929",
   "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1591,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":28,\"rating\":1675,\"rd\":90,\"prog\":-20},\"classical\":{\"games\":9,\"rating\":1688,\"rd\":251,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1922,\"rd\":187,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622730903790,\"playTime\":{\"total\":7907,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/77i0jDKK/black\",\"nbFollowing\":7,\"nbFollowers\":3,\"count\":{\"all\":80,\"rated\":48,\"ai\":25,\"draw\":3,\"drawH\":3,\"loss\":23,\"lossH\":11,\"win\":54,\"winH\":41,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":340,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1591,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":28,\"rating\":1675,\"rd\":90,\"prog\":-20},\"classical\":{\"games\":9,\"rating\":1688,\"rd\":251,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1922,\"rd\":187,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1622745798090,\"playTime\":{\"total\":7907,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/85DKMxdD/black\",\"nbFollowing\":7,\"nbFollowers\":4,\"count\":{\"all\":80,\"rated\":48,\"ai\":25,\"draw\":3,\"drawH\":3,\"loss\":23,\"lossH\":11,\"win\":54,\"winH\":41,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
     "username": "HumanBOT_lv1929",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
         "games": 1,
@@ -53,7 +53,7 @@
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1622730903790,
+    "seenAt": 1622745798090,
     "playTime": {
       "total": 7907,
       "tv": 0
@@ -61,9 +61,9 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HumanBOT_lv1929",
-    "playing": "https://lichess.org/77i0jDKK/black",
+    "playing": "https://lichess.org/85DKMxdD/black",
     "nbFollowing": 7,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
       "all": 80,
       "rated": 48,
@@ -75,7 +75,7 @@
       "win": 54,
       "winH": 41,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
