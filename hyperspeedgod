@@ -4,7 +4,7 @@
   "username": "HyperSpeedGod",
   "profileUrl": "https://lichess.org/@/HyperSpeedGod",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperspeedgod\",\"username\":\"HyperSpeedGod\",\"online\":true,\"perfs\":{\"horde\":{\"games\":1,\"rating\":1399,\"rd\":359,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2139,\"rd\":438,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1465,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2238,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1911,\"rd\":275,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620938708649,\"seenAt\":1622582773550,\"playTime\":{\"total\":2192,\"tv\":245},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperSpeedGod\",\"nbFollowing\":5,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":22,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":7,\"win\":23,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperspeedgod\",\"username\":\"HyperSpeedGod\",\"online\":true,\"perfs\":{\"horde\":{\"games\":1,\"rating\":1399,\"rd\":359,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2139,\"rd\":438,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1801,\"rd\":285,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1465,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2201,\"rd\":132,\"prog\":-37,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":1911,\"rd\":276,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1620938708649,\"seenAt\":1622834402932,\"playTime\":{\"total\":2794,\"tv\":245},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperSpeedGod\",\"nbFollowing\":5,\"nbFollowers\":2,\"count\":{\"all\":36,\"rated\":27,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":9,\"win\":26,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperspeedgod",
     "username": "HyperSpeedGod",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1801,
+        "rd": 285,
         "prog": 0,
         "prov": true
       },
@@ -39,16 +39,16 @@
         "prov": true
       },
       "bullet": {
-        "games": 11,
-        "rating": 2238,
-        "rd": 152,
-        "prog": 0,
+        "games": 14,
+        "rating": 2201,
+        "rd": 132,
+        "prog": -37,
         "prov": true
       },
       "correspondence": {
         "games": 4,
         "rating": 1911,
-        "rd": 275,
+        "rd": 276,
         "prog": 0,
         "prov": true
       },
@@ -68,26 +68,26 @@
       }
     },
     "createdAt": 1620938708649,
-    "seenAt": 1622582773550,
+    "seenAt": 1622834402932,
     "playTime": {
-      "total": 2192,
+      "total": 2794,
       "tv": 245
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HyperSpeedGod",
     "nbFollowing": 5,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 31,
-      "rated": 22,
+      "all": 36,
+      "rated": 27,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 7,
-      "lossH": 7,
-      "win": 23,
-      "winH": 22,
+      "loss": 9,
+      "lossH": 9,
+      "win": 26,
+      "winH": 25,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
