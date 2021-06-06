@@ -4,7 +4,7 @@
   "username": "RealityChallenger",
   "profileUrl": "https://lichess.org/@/RealityChallenger",
   "provider": "lichess",
-  "_raw": "{\"id\":\"realitychallenger\",\"username\":\"RealityChallenger\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1167,\"rd\":303,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1978,\"rd\":234,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1575,\"rd\":405,\"prog\":0,\"prov\":true}},\"createdAt\":1621821645112,\"profile\":{\"bio\":\"I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!!\"},\"seenAt\":1622854298795,\"playTime\":{\"total\":690,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealityChallenger\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":26,\"rated\":9,\"ai\":14,\"draw\":2,\"drawH\":1,\"loss\":7,\"lossH\":0,\"win\":17,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"realitychallenger\",\"username\":\"RealityChallenger\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1167,\"rd\":303,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1978,\"rd\":234,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1575,\"rd\":405,\"prog\":0,\"prov\":true}},\"createdAt\":1621821645112,\"profile\":{\"bio\":\"I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!! Contact this bot's developer with this email if you have any questions, concerns, or suggestions to improve this bot.\\r\\n\\r\\n\\r\\nEmail Address: realitychallengerchessbot@gmail.com\"},\"seenAt\":1622954287821,\"playTime\":{\"total\":690,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RealityChallenger\",\"playing\":\"https://lichess.org/gx8ZOcHN/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":28,\"rated\":9,\"ai\":16,\"draw\":3,\"drawH\":1,\"loss\":7,\"lossH\":0,\"win\":18,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "realitychallenger",
     "username": "RealityChallenger",
@@ -55,9 +55,9 @@
     },
     "createdAt": 1621821645112,
     "profile": {
-      "bio": "I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!!"
+      "bio": "I am a bot which plays chess with you! :) My creator is @VKFunChess. I am an epic bot. Playing chess is really really fun!!! Contact this bot's developer with this email if you have any questions, concerns, or suggestions to improve this bot.\r\n\r\n\r\nEmail Address: realitychallengerchessbot@gmail.com"
     },
-    "seenAt": 1622854298795,
+    "seenAt": 1622954287821,
     "playTime": {
       "total": 690,
       "tv": 0
@@ -65,20 +65,21 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RealityChallenger",
+    "playing": "https://lichess.org/gx8ZOcHN/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 26,
+      "all": 28,
       "rated": 9,
-      "ai": 14,
-      "draw": 2,
+      "ai": 16,
+      "draw": 3,
       "drawH": 1,
       "loss": 7,
       "lossH": 0,
-      "win": 17,
+      "win": 18,
       "winH": 11,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
