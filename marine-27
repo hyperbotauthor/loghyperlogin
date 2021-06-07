@@ -1,0 +1,87 @@
+{
+  "id": "marine-27",
+  "displayName": "Marine-27",
+  "username": "Marine-27",
+  "profileUrl": "https://lichess.org/@/Marine-27",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"marine-27\",\"username\":\"Marine-27\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622982858683,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, I am Marine-27, challenge me in [Standard Chess- Rapid, Classical, and Corres.] I can also play Variants, such as: Antichess, Three-Check, Chess-960, and Atomic! Challange me Rated or Casual. Powered by https://easychess.herokuapp.com/. Thank you !\",\"firstName\":\"Marine-\",\"lastName\":\"27\"},\"seenAt\":1623063503397,\"playTime\":{\"total\":11503,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Marine-27\",\"nbFollowing\":7,\"nbFollowers\":2,\"count\":{\"all\":61,\"rated\":0,\"ai\":44,\"draw\":6,\"drawH\":5,\"loss\":20,\"lossH\":5,\"win\":35,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "marine-27",
+    "username": "Marine-27",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1622982858683,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Hello, I am Marine-27, challenge me in [Standard Chess- Rapid, Classical, and Corres.] I can also play Variants, such as: Antichess, Three-Check, Chess-960, and Atomic! Challange me Rated or Casual. Powered by https://easychess.herokuapp.com/. Thank you !",
+      "firstName": "Marine-",
+      "lastName": "27"
+    },
+    "seenAt": 1623063503397,
+    "playTime": {
+      "total": 11503,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Marine-27",
+    "nbFollowing": 7,
+    "nbFollowers": 2,
+    "count": {
+      "all": 61,
+      "rated": 0,
+      "ai": 44,
+      "draw": 6,
+      "drawH": 5,
+      "loss": 20,
+      "lossH": 5,
+      "win": 35,
+      "winH": 7,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
