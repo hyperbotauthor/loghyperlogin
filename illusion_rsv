@@ -4,7 +4,7 @@
   "username": "Illusion_RSV",
   "profileUrl": "https://lichess.org/@/Illusion_RSV",
   "provider": "lichess",
-  "_raw": "{\"id\":\"illusion_rsv\",\"username\":\"Illusion_RSV\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1259,\"rd\":302,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1139,\"rd\":224,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":168,\"rating\":1094,\"rd\":56,\"prog\":2},\"racingKings\":{\"games\":38,\"rating\":1149,\"rd\":96,\"prog\":-58},\"ultraBullet\":{\"games\":24,\"rating\":880,\"rd\":120,\"prog\":-107,\"prov\":true},\"blitz\":{\"games\":149,\"rating\":927,\"rd\":51,\"prog\":19},\"kingOfTheHill\":{\"games\":53,\"rating\":1414,\"rd\":103,\"prog\":-42},\"crazyhouse\":{\"games\":6,\"rating\":1150,\"rd\":195,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":20,\"rating\":1054,\"rd\":109,\"prog\":-77},\"bullet\":{\"games\":201,\"rating\":837,\"rd\":45,\"prog\":9},\"correspondence\":{\"games\":31,\"rating\":1344,\"rd\":93,\"prog\":-63},\"horde\":{\"games\":2,\"rating\":1238,\"rd\":292,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":473,\"rating\":1091,\"rd\":79,\"prog\":0},\"classical\":{\"games\":6,\"rating\":1062,\"rd\":180,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":34,\"rating\":1083,\"rd\":91,\"prog\":-49},\"racer\":{\"runs\":26,\"score\":17},\"streak\":{\"runs\":7,\"score\":4}},\"createdAt\":1608442131379,\"profile\":{\"country\":\"_lichess\",\"location\":\"Coder\",\"bio\":\"My Bot \\uD83E\\uDD16 - @RSVMentor\",\"firstName\":\"Rishaan\",\"lastName\":\"Sindhwani Vohra\",\"links\":\"https://www.chess.com/member/illusion_r \\r\\nhttps://chess24.com/en/profile/illusion_rsv\\r\\nhttps://www.twitch.tv/illusion_rsv\"},\"seenAt\":1623161723450,\"playTime\":{\"total\":117544,\"tv\":522},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Illusion_RSV\",\"playing\":\"https://lichess.org/qjNdbcHH/black\",\"nbFollowing\":0,\"nbFollowers\":15,\"completionRate\":97,\"count\":{\"all\":953,\"rated\":741,\"ai\":51,\"draw\":42,\"drawH\":25,\"loss\":540,\"lossH\":514,\"win\":371,\"winH\":363,\"bookmark\":3,\"playing\":21,\"import\":15,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"illusion_rsv\",\"username\":\"Illusion_RSV\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1259,\"rd\":302,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1139,\"rd\":224,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":168,\"rating\":1094,\"rd\":56,\"prog\":2},\"racingKings\":{\"games\":38,\"rating\":1149,\"rd\":96,\"prog\":-58},\"ultraBullet\":{\"games\":24,\"rating\":880,\"rd\":121,\"prog\":-107,\"prov\":true},\"blitz\":{\"games\":163,\"rating\":955,\"rd\":48,\"prog\":11},\"kingOfTheHill\":{\"games\":53,\"rating\":1414,\"rd\":103,\"prog\":-42},\"crazyhouse\":{\"games\":6,\"rating\":1150,\"rd\":195,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":20,\"rating\":1054,\"rd\":109,\"prog\":-77},\"bullet\":{\"games\":202,\"rating\":833,\"rd\":45,\"prog\":12},\"correspondence\":{\"games\":31,\"rating\":1344,\"rd\":94,\"prog\":-63},\"horde\":{\"games\":2,\"rating\":1238,\"rd\":293,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":473,\"rating\":1091,\"rd\":79,\"prog\":0},\"classical\":{\"games\":6,\"rating\":1062,\"rd\":180,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":34,\"rating\":1083,\"rd\":92,\"prog\":-49},\"racer\":{\"runs\":26,\"score\":17},\"streak\":{\"runs\":7,\"score\":4}},\"createdAt\":1608442131379,\"profile\":{\"country\":\"_lichess\",\"location\":\"Coder\",\"bio\":\"My Bot \\uD83E\\uDD16 - @RSVMentor\",\"firstName\":\"Rishaan\",\"lastName\":\"Sindhwani Vohra\",\"links\":\"https://www.chess.com/member/illusion_r \\r\\nhttps://chess24.com/en/profile/illusion_rsv\\r\\nhttps://www.twitch.tv/illusion_rsv\"},\"seenAt\":1623221291219,\"playTime\":{\"total\":120881,\"tv\":522},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Illusion_RSV\",\"playing\":\"https://lichess.org/RLN8dF0z/white\",\"nbFollowing\":0,\"nbFollowers\":15,\"completionRate\":100,\"count\":{\"all\":970,\"rated\":757,\"ai\":51,\"draw\":43,\"drawH\":26,\"loss\":551,\"lossH\":525,\"win\":376,\"winH\":368,\"bookmark\":3,\"playing\":20,\"import\":15,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "illusion_rsv",
     "username": "Illusion_RSV",
@@ -39,15 +39,15 @@
       "ultraBullet": {
         "games": 24,
         "rating": 880,
-        "rd": 120,
+        "rd": 121,
         "prog": -107,
         "prov": true
       },
       "blitz": {
-        "games": 149,
-        "rating": 927,
-        "rd": 51,
-        "prog": 19
+        "games": 163,
+        "rating": 955,
+        "rd": 48,
+        "prog": 11
       },
       "kingOfTheHill": {
         "games": 53,
@@ -69,21 +69,21 @@
         "prog": -77
       },
       "bullet": {
-        "games": 201,
-        "rating": 837,
+        "games": 202,
+        "rating": 833,
         "rd": 45,
-        "prog": 9
+        "prog": 12
       },
       "correspondence": {
         "games": 31,
         "rating": 1344,
-        "rd": 93,
+        "rd": 94,
         "prog": -63
       },
       "horde": {
         "games": 2,
         "rating": 1238,
-        "rd": 292,
+        "rd": 293,
         "prog": 0,
         "prov": true
       },
@@ -103,7 +103,7 @@
       "rapid": {
         "games": 34,
         "rating": 1083,
-        "rd": 91,
+        "rd": 92,
         "prog": -49
       },
       "racer": {
@@ -124,29 +124,29 @@
       "lastName": "Sindhwani Vohra",
       "links": "https://www.chess.com/member/illusion_r \r\nhttps://chess24.com/en/profile/illusion_rsv\r\nhttps://www.twitch.tv/illusion_rsv"
     },
-    "seenAt": 1623161723450,
+    "seenAt": 1623221291219,
     "playTime": {
-      "total": 117544,
+      "total": 120881,
       "tv": 522
     },
     "language": "en-US",
     "url": "https://lichess.org/@/Illusion_RSV",
-    "playing": "https://lichess.org/qjNdbcHH/black",
+    "playing": "https://lichess.org/RLN8dF0z/white",
     "nbFollowing": 0,
     "nbFollowers": 15,
-    "completionRate": 97,
+    "completionRate": 100,
     "count": {
-      "all": 953,
-      "rated": 741,
+      "all": 970,
+      "rated": 757,
       "ai": 51,
-      "draw": 42,
-      "drawH": 25,
-      "loss": 540,
-      "lossH": 514,
-      "win": 371,
-      "winH": 363,
+      "draw": 43,
+      "drawH": 26,
+      "loss": 551,
+      "lossH": 525,
+      "win": 376,
+      "winH": 368,
       "bookmark": 3,
-      "playing": 21,
+      "playing": 20,
       "import": 15,
       "me": 0
     },
