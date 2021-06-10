@@ -1,0 +1,104 @@
+{
+  "id": "chess_gmgame",
+  "displayName": "Chess_GMGame",
+  "username": "Chess_GMGame",
+  "profileUrl": "https://lichess.org/@/Chess_GMGame",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_gmgame\",\"username\":\"Chess_GMGame\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1694,\"rd\":193,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":77,\"rating\":1814,\"rd\":82,\"prog\":0},\"ultraBullet\":{\"games\":83,\"rating\":1433,\"rd\":50,\"prog\":13},\"bullet\":{\"games\":8,\"rating\":1953,\"rd\":260,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":8,\"score\":31},\"streak\":{\"runs\":4,\"score\":13}},\"createdAt\":1614438338305,\"profile\":{\"country\":\"TR\"},\"seenAt\":1623304809784,\"playTime\":{\"total\":26668,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/Chess_GMGame\",\"nbFollowing\":12,\"nbFollowers\":3,\"completionRate\":97,\"count\":{\"all\":288,\"rated\":96,\"ai\":35,\"draw\":9,\"drawH\":9,\"loss\":118,\"lossH\":100,\"win\":161,\"winH\":144,\"bookmark\":4,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_gmgame",
+    "username": "Chess_GMGame",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 1694,
+        "rd": 193,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 77,
+        "rating": 1814,
+        "rd": 82,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 83,
+        "rating": 1433,
+        "rd": 50,
+        "prog": 13
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 1953,
+        "rd": 260,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 8,
+        "score": 31
+      },
+      "streak": {
+        "runs": 4,
+        "score": 13
+      }
+    },
+    "createdAt": 1614438338305,
+    "profile": {
+      "country": "TR"
+    },
+    "seenAt": 1623304809784,
+    "playTime": {
+      "total": 26668,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/Chess_GMGame",
+    "nbFollowing": 12,
+    "nbFollowers": 3,
+    "completionRate": 97,
+    "count": {
+      "all": 288,
+      "rated": 96,
+      "ai": 35,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 118,
+      "lossH": 100,
+      "win": 161,
+      "winH": 144,
+      "bookmark": 4,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
