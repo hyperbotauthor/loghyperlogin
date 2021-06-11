@@ -1,0 +1,85 @@
+{
+  "id": "killer_bot2021",
+  "displayName": "KILLER_BOT2021",
+  "username": "KILLER_BOT2021",
+  "profileUrl": "https://lichess.org/@/KILLER_BOT2021",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"killer_bot2021\",\"username\":\"KILLER_BOT2021\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2090,\"rd\":192,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623421367269,\"profile\":{\"country\":\"_lichess\",\"bio\":\"This bot was created on 6/11/2021 \\r\\nThis robot is a good engine.\\r\\nChallenge me at anytime when I am online.\"},\"seenAt\":1623426207268,\"playTime\":{\"total\":1188,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KILLER_BOT2021\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":6,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":1,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "killer_bot2021",
+    "username": "KILLER_BOT2021",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 6,
+        "rating": 2090,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623421367269,
+    "profile": {
+      "country": "_lichess",
+      "bio": "This bot was created on 6/11/2021 \r\nThis robot is a good engine.\r\nChallenge me at anytime when I am online."
+    },
+    "seenAt": 1623426207268,
+    "playTime": {
+      "total": 1188,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/KILLER_BOT2021",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 9,
+      "rated": 6,
+      "ai": 2,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 3,
+      "lossH": 1,
+      "win": 6,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
