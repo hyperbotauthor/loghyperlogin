@@ -1,0 +1,92 @@
+{
+  "id": "thefastestflcon",
+  "displayName": "Thefastestflcon",
+  "username": "Thefastestflcon",
+  "profileUrl": "https://lichess.org/@/Thefastestflcon",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thefastestflcon\",\"username\":\"Thefastestflcon\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1704,\"rd\":298,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1948,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2053,\"rd\":203,\"prog\":0,\"prov\":true}},\"createdAt\":1604674907367,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi my fav player is Wandathegreat\"},\"seenAt\":1623409109405,\"playTime\":{\"total\":1968,\"tv\":522},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Thefastestflcon\",\"nbFollowing\":4,\"nbFollowers\":5,\"count\":{\"all\":16,\"rated\":14,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thefastestflcon",
+    "username": "Thefastestflcon",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1704,
+        "rd": 298,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 1948,
+        "rd": 201,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2053,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1604674907367,
+    "profile": {
+      "country": "IN",
+      "bio": "Hi my fav player is Wandathegreat"
+    },
+    "seenAt": 1623409109405,
+    "playTime": {
+      "total": 1968,
+      "tv": 522
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Thefastestflcon",
+    "nbFollowing": 4,
+    "nbFollowers": 5,
+    "count": {
+      "all": 16,
+      "rated": 14,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 12,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
