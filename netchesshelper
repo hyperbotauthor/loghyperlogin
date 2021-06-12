@@ -1,0 +1,92 @@
+{
+  "id": "netchesshelper",
+  "displayName": "NetChessHelper",
+  "username": "NetChessHelper",
+  "profileUrl": "https://lichess.org/@/NetChessHelper",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"netchesshelper\",\"username\":\"NetChessHelper\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":1871,\"rd\":103,\"prog\":116},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":373,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1686,\"rd\":146,\"prog\":-61,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623421920609,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\\r\\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!\",\"firstName\":\"BOT\"},\"seenAt\":1623508576924,\"playTime\":{\"total\":10208,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NetChessHelper\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":39,\"rated\":39,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":28,\"lossH\":28,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "netchesshelper",
+    "username": "NetChessHelper",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 23,
+        "rating": 1871,
+        "rd": 103,
+        "prog": 116
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1291,
+        "rd": 373,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 1686,
+        "rd": 146,
+        "prog": -61,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623421920609,
+    "profile": {
+      "country": "_united-nations",
+      "bio": "Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\r\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!",
+      "firstName": "BOT"
+    },
+    "seenAt": 1623508576924,
+    "playTime": {
+      "total": 10208,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/NetChessHelper",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 39,
+      "rated": 39,
+      "ai": 0,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 28,
+      "lossH": 28,
+      "win": 6,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
