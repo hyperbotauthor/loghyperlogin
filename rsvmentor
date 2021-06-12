@@ -4,7 +4,7 @@
   "username": "RSVMentor",
   "profileUrl": "https://lichess.org/@/RSVMentor",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":465,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":2149,\"rd\":87,\"prog\":-80},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":307,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":387,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":45,\"rating\":2117,\"rd\":75,\"prog\":-39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Developed By - @Illusion_RSV,\\r\\nChallenge Me!!                                                        https://imgur.com/coWn8e6\",\"firstName\":\"BOT RSV\",\"lastName\":\"Mentor\",\"fideRating\":3000},\"seenAt\":1623230699264,\"playTime\":{\"total\":21300,\"tv\":3271},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":127,\"rated\":95,\"ai\":21,\"draw\":11,\"drawH\":8,\"loss\":32,\"lossH\":28,\"win\":84,\"winH\":70,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":2149,\"rd\":88,\"prog\":-80},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":308,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":387,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":46,\"rating\":2128,\"rd\":75,\"prog\":-30},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Developed By - @Illusion_RSV,h\\r\\nChallenge Me!!                                                        https://imgur.com/hoIkBWE\",\"firstName\":\"BOT RSV\",\"lastName\":\"Mentor\",\"fideRating\":3000},\"seenAt\":1623481574648,\"playTime\":{\"total\":21429,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":128,\"rated\":96,\"ai\":21,\"draw\":11,\"drawH\":8,\"loss\":32,\"lossH\":28,\"win\":85,\"winH\":71,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rsvmentor",
     "username": "RSVMentor",
@@ -13,20 +13,20 @@
       "atomic": {
         "games": 1,
         "rating": 1476,
-        "rd": 465,
+        "rd": 466,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 28,
         "rating": 2149,
-        "rd": 87,
+        "rd": 88,
         "prog": -80
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1196,
-        "rd": 307,
+        "rd": 308,
         "prog": 0,
         "prov": true
       },
@@ -38,10 +38,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 45,
-        "rating": 2117,
+        "games": 46,
+        "rating": 2128,
         "rd": 75,
-        "prog": -39
+        "prog": -30
       },
       "correspondence": {
         "games": 0,
@@ -69,15 +69,15 @@
     "profile": {
       "country": "_lichess",
       "location": "BOT",
-      "bio": "Developed By - @Illusion_RSV,\r\nChallenge Me!!                                                        https://imgur.com/coWn8e6",
+      "bio": "Developed By - @Illusion_RSV,h\r\nChallenge Me!!                                                        https://imgur.com/hoIkBWE",
       "firstName": "BOT RSV",
       "lastName": "Mentor",
       "fideRating": 3000
     },
-    "seenAt": 1623230699264,
+    "seenAt": 1623481574648,
     "playTime": {
-      "total": 21300,
-      "tv": 3271
+      "total": 21429,
+      "tv": 3400
     },
     "language": "en-US",
     "title": "BOT",
@@ -85,15 +85,15 @@
     "nbFollowing": 1,
     "nbFollowers": 5,
     "count": {
-      "all": 127,
-      "rated": 95,
+      "all": 128,
+      "rated": 96,
       "ai": 21,
       "draw": 11,
       "drawH": 8,
       "loss": 32,
       "lossH": 28,
-      "win": 84,
-      "winH": 70,
+      "win": 85,
+      "winH": 71,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
