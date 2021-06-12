@@ -1,0 +1,85 @@
+{
+  "id": "actchessgroupbot",
+  "displayName": "ACTChessGroupBot",
+  "username": "ACTChessGroupBot",
+  "profileUrl": "https://lichess.org/@/ACTChessGroupBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"actchessgroupbot\",\"username\":\"ACTChessGroupBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1495,\"rd\":493,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623488332673,\"profile\":{\"country\":\"NL\",\"bio\":\"Official Botting Account Of ACT Chess Group. Accepting All Standart & Chess 960 Challanges By Everyone. Let's Enjoy!\"},\"seenAt\":1623494936594,\"playTime\":{\"total\":116,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ACTChessGroupBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "actchessgroupbot",
+    "username": "ACTChessGroupBot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1495,
+        "rd": 493,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623488332673,
+    "profile": {
+      "country": "NL",
+      "bio": "Official Botting Account Of ACT Chess Group. Accepting All Standart & Chess 960 Challanges By Everyone. Let's Enjoy!"
+    },
+    "seenAt": 1623494936594,
+    "playTime": {
+      "total": 116,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ACTChessGroupBot",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 2,
+      "rated": 1,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
