@@ -4,7 +4,7 @@
   "username": "das15",
   "profileUrl": "https://lichess.org/@/das15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1883,\"rd\":311,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2563,\"rd\":162,\"prog\":23,\"prov\":true},\"bullet\":{\"games\":147,\"rating\":2374,\"rd\":54,\"prog\":1},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2525,\"rd\":206,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2486,\"rd\":159,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a coded bot created by @neerdas . Please challenge me only for 1+0 bullet games\\r\\nhttps://imgur.com/URsewiX\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1622618928216,\"playTime\":{\"total\":38399,\"tv\":6229},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":7,\"nbFollowers\":5,\"count\":{\"all\":234,\"rated\":182,\"ai\":0,\"draw\":44,\"drawH\":44,\"loss\":45,\"lossH\":45,\"win\":145,\"winH\":145,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"das15\",\"username\":\"das15\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1883,\"rd\":312,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2563,\"rd\":164,\"prog\":23,\"prov\":true},\"bullet\":{\"games\":153,\"rating\":2356,\"rd\":57,\"prog\":-15},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2525,\"rd\":207,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2486,\"rd\":161,\"prog\":0,\"prov\":true}},\"createdAt\":1620714929236,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a coded bot created by @neerdas . Please challenge me only for 1+0 bullet games\\r\\nhttps://imgur.com/URsewiX\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1623670072851,\"playTime\":{\"total\":39104,\"tv\":6481},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/das15\",\"nbFollowing\":7,\"nbFollowers\":8,\"count\":{\"all\":242,\"rated\":188,\"ai\":0,\"draw\":44,\"drawH\":44,\"loss\":49,\"lossH\":49,\"win\":149,\"winH\":149,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "das15",
     "username": "das15",
@@ -13,22 +13,22 @@
       "chess960": {
         "games": 1,
         "rating": 1883,
-        "rd": 311,
+        "rd": 312,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 13,
         "rating": 2563,
-        "rd": 162,
+        "rd": 164,
         "prog": 23,
         "prov": true
       },
       "bullet": {
-        "games": 147,
-        "rating": 2374,
-        "rd": 54,
-        "prog": 1
+        "games": 153,
+        "rating": 2356,
+        "rd": 57,
+        "prog": -15
       },
       "correspondence": {
         "games": 0,
@@ -40,14 +40,14 @@
       "classical": {
         "games": 5,
         "rating": 2525,
-        "rd": 206,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 9,
         "rating": 2486,
-        "rd": 159,
+        "rd": 161,
         "prog": 0,
         "prov": true
       }
@@ -60,26 +60,26 @@
       "firstName": "Neeraj",
       "lastName": "das"
     },
-    "seenAt": 1622618928216,
+    "seenAt": 1623670072851,
     "playTime": {
-      "total": 38399,
-      "tv": 6229
+      "total": 39104,
+      "tv": 6481
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/das15",
     "nbFollowing": 7,
-    "nbFollowers": 5,
+    "nbFollowers": 8,
     "count": {
-      "all": 234,
-      "rated": 182,
+      "all": 242,
+      "rated": 188,
       "ai": 0,
       "draw": 44,
       "drawH": 44,
-      "loss": 45,
-      "lossH": 45,
-      "win": 145,
-      "winH": 145,
+      "loss": 49,
+      "lossH": 49,
+      "win": 149,
+      "winH": 149,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
