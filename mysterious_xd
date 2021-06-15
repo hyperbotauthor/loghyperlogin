@@ -1,0 +1,85 @@
+{
+  "id": "mysterious_xd",
+  "displayName": "mysterious_xD",
+  "username": "mysterious_xD",
+  "profileUrl": "https://lichess.org/@/mysterious_xD",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"mysterious_xd\",\"username\":\"mysterious_xD\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":907,\"rd\":92,\"prog\":8},\"puzzle\":{\"games\":132,\"rating\":1226,\"rd\":75,\"prog\":0},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623380479090,\"seenAt\":1623724483614,\"playTime\":{\"total\":5817,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/mysterious_xD\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":16,\"rated\":15,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":10,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "mysterious_xd",
+    "username": "mysterious_xD",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 15,
+        "rating": 907,
+        "rd": 92,
+        "prog": 8
+      },
+      "puzzle": {
+        "games": 132,
+        "rating": 1226,
+        "rd": 75,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623380479090,
+    "seenAt": 1623724483614,
+    "playTime": {
+      "total": 5817,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/mysterious_xD",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
+    "count": {
+      "all": 16,
+      "rated": 15,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 10,
+      "lossH": 10,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
