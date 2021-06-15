@@ -4,7 +4,7 @@
   "username": "DenizOzen_Bot",
   "profileUrl": "https://lichess.org/@/DenizOzen_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"denizozen_bot\",\"username\":\"DenizOzen_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":467,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619772095096,\"profile\":{\"country\":\"TR\"},\"seenAt\":1623305211343,\"playTime\":{\"total\":4698,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DenizOzen_Bot\",\"playing\":\"https://lichess.org/CGzKcqou/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":26,\"rated\":1,\"ai\":23,\"draw\":0,\"drawH\":0,\"loss\":22,\"lossH\":1,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"denizozen_bot\",\"username\":\"DenizOzen_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":467,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619772095096,\"profile\":{\"country\":\"TR\"},\"seenAt\":1623741761343,\"playTime\":{\"total\":5261,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DenizOzen_Bot\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":29,\"rated\":1,\"ai\":26,\"draw\":0,\"drawH\":0,\"loss\":25,\"lossH\":1,\"win\":4,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "denizozen_bot",
     "username": "DenizOzen_Bot",
@@ -50,29 +50,28 @@
     "profile": {
       "country": "TR"
     },
-    "seenAt": 1623305211343,
+    "seenAt": 1623741761343,
     "playTime": {
-      "total": 4698,
+      "total": 5261,
       "tv": 0
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/DenizOzen_Bot",
-    "playing": "https://lichess.org/CGzKcqou/white",
     "nbFollowing": 2,
     "nbFollowers": 1,
     "count": {
-      "all": 26,
+      "all": 29,
       "rated": 1,
-      "ai": 23,
+      "ai": 26,
       "draw": 0,
       "drawH": 0,
-      "loss": 22,
+      "loss": 25,
       "lossH": 1,
       "win": 4,
       "winH": 2,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
