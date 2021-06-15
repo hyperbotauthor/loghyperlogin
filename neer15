@@ -4,23 +4,23 @@
   "username": "neer15",
   "profileUrl": "https://lichess.org/@/neer15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2254,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"seenAt\":1623762544833,\"playTime\":{\"total\":2600,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":25,\"rated\":5,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":9,\"lossH\":9,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2601,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2358,\"rd\":152,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2566,\"rd\":220,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"seenAt\":1623772393663,\"playTime\":{\"total\":6721,\"tv\":1278},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"playing\":\"https://lichess.org/XkDecCmA/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":39,\"rated\":18,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":9,\"lossH\":9,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "neer15",
     "username": "neer15",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2601,
+        "rd": 197,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 2254,
-        "rd": 198,
+        "games": 9,
+        "rating": 2358,
+        "rd": 152,
         "prog": 0,
         "prov": true
       },
@@ -39,36 +39,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2566,
+        "rd": 220,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1622617860046,
-    "seenAt": 1623762544833,
+    "seenAt": 1623772393663,
     "playTime": {
-      "total": 2600,
-      "tv": 0
+      "total": 6721,
+      "tv": 1278
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/neer15",
+    "playing": "https://lichess.org/XkDecCmA/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 25,
-      "rated": 5,
+      "all": 39,
+      "rated": 18,
       "ai": 0,
       "draw": 7,
       "drawH": 7,
       "loss": 9,
       "lossH": 9,
-      "win": 9,
-      "winH": 9,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
