@@ -4,11 +4,11 @@
   "username": "Unbeatable_by_anyone",
   "profileUrl": "https://lichess.org/@/Unbeatable_by_anyone",
   "provider": "lichess",
-  "_raw": "{\"id\":\"unbeatable_by_anyone\",\"username\":\"Unbeatable_by_anyone\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1814,\"rd\":203,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622230602887,\"profile\":{\"country\":\"_lichess\",\"fideRating\":2999,\"links\":\"Follow me plz and my main @KONSTANTINSOROKO\"},\"seenAt\":1623654698611,\"playTime\":{\"total\":523,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Unbeatable_by_anyone\",\"nbFollowing\":4,\"nbFollowers\":5,\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"unbeatable_by_anyone\",\"username\":\"Unbeatable_by_anyone\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1770,\"rd\":184,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1622230602887,\"profile\":{\"country\":\"_lichess\",\"fideRating\":2999,\"links\":\"Follow me plz and my main @KONSTANTINSOROKO\"},\"seenAt\":1623655303347,\"playTime\":{\"total\":611,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Unbeatable_by_anyone\",\"nbFollowing\":4,\"nbFollowers\":6,\"count\":{\"all\":6,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "unbeatable_by_anyone",
     "username": "Unbeatable_by_anyone",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 1814,
-        "rd": 203,
+        "games": 6,
+        "rating": 1770,
+        "rd": 184,
         "prog": 0,
         "prov": true
       },
@@ -52,24 +52,24 @@
       "fideRating": 2999,
       "links": "Follow me plz and my main @KONSTANTINSOROKO"
     },
-    "seenAt": 1623654698611,
+    "seenAt": 1623655303347,
     "playTime": {
-      "total": 523,
+      "total": 611,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Unbeatable_by_anyone",
     "nbFollowing": 4,
-    "nbFollowers": 5,
+    "nbFollowers": 6,
     "count": {
-      "all": 5,
-      "rated": 5,
+      "all": 6,
+      "rated": 6,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 1,
+      "lossH": 1,
       "win": 5,
       "winH": 5,
       "bookmark": 0,
