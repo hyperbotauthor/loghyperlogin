@@ -4,17 +4,17 @@
   "username": "NetChessHelper",
   "profileUrl": "https://lichess.org/@/NetChessHelper",
   "provider": "lichess",
-  "_raw": "{\"id\":\"netchesshelper\",\"username\":\"NetChessHelper\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":1871,\"rd\":103,\"prog\":116},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":373,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1709,\"rd\":90,\"prog\":23},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623421920609,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\\r\\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!\",\"firstName\":\"BOT\"},\"seenAt\":1623511196840,\"playTime\":{\"total\":11107,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NetChessHelper\",\"playing\":\"https://lichess.org/ff36rXjf/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":50,\"rated\":50,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":35,\"lossH\":35,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"netchesshelper\",\"username\":\"NetChessHelper\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1827,\"rd\":79,\"prog\":-94},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":373,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":38,\"rating\":1615,\"rd\":71,\"prog\":-68},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623421920609,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\\r\\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!\\r\\nI also test engines like Stockfish, Komodo, Houdini, and many more! Sometimes even custom built engines!\",\"firstName\":\"BOT\"},\"seenAt\":1623729812477,\"playTime\":{\"total\":15888,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NetChessHelper\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":73,\"rated\":73,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":53,\"lossH\":53,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "netchesshelper",
     "username": "NetChessHelper",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 23,
-        "rating": 1871,
-        "rd": 103,
-        "prog": 116
+        "games": 32,
+        "rating": 1827,
+        "rd": 79,
+        "prog": -94
       },
       "kingOfTheHill": {
         "games": 1,
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 25,
-        "rating": 1709,
-        "rd": 90,
-        "prog": 23
+        "games": 38,
+        "rating": 1615,
+        "rd": 71,
+        "prog": -68
       },
       "correspondence": {
         "games": 1,
@@ -54,32 +54,31 @@
     "createdAt": 1623421920609,
     "profile": {
       "country": "_united-nations",
-      "bio": "Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\r\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!",
+      "bio": "Im a chess bot helper who creates studies from multiple platforms. It could be from books, chess courses, and games played by humans! Here are the given examples that i study on Lichess\r\nOpening, Middlegame, Endgame, Positional Play, Bewildered attack, etc!\r\nI also test engines like Stockfish, Komodo, Houdini, and many more! Sometimes even custom built engines!",
       "firstName": "BOT"
     },
-    "seenAt": 1623511196840,
+    "seenAt": 1623729812477,
     "playTime": {
-      "total": 11107,
+      "total": 15888,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NetChessHelper",
-    "playing": "https://lichess.org/ff36rXjf/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 50,
-      "rated": 50,
+      "all": 73,
+      "rated": 73,
       "ai": 0,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 35,
-      "lossH": 35,
-      "win": 9,
-      "winH": 9,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 53,
+      "lossH": 53,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
