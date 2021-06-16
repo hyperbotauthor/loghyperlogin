@@ -1,0 +1,131 @@
+{
+  "id": "frogjumps",
+  "displayName": "frogjumps",
+  "username": "frogjumps",
+  "profileUrl": "https://lichess.org/@/frogjumps",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"frogjumps\",\"username\":\"frogjumps\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1655,\"rd\":288,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1233,\"rd\":226,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":39,\"rating\":837,\"rd\":94,\"prog\":-91},\"blitz\":{\"games\":147,\"rating\":1144,\"rd\":46,\"prog\":17},\"threeCheck\":{\"games\":30,\"rating\":1210,\"rd\":92,\"prog\":-31},\"bullet\":{\"games\":187,\"rating\":1078,\"rd\":45,\"prog\":-17},\"correspondence\":{\"games\":28,\"rating\":1357,\"rd\":89,\"prog\":87},\"horde\":{\"games\":2,\"rating\":1246,\"rd\":254,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":649,\"rating\":1418,\"rd\":61,\"prog\":0},\"classical\":{\"games\":5,\"rating\":1269,\"rd\":173,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":692,\"rating\":1412,\"rd\":45,\"prog\":34},\"storm\":{\"runs\":3,\"score\":13},\"racer\":{\"runs\":37,\"score\":31}},\"createdAt\":1591013064111,\"profile\":{\"country\":\"_lichess\",\"location\":\"world\",\"bio\":\"https://lichess.org/team/frogjumps-super-team join this my own superteam full of amazing player!!!!\\r\\nhttps://www.youtube.com/channel/UCW_n54zYfvynlw_Tp2k3wzw is my youtube channel pls subscribe like and comment also share\\r\\npls follow me on lichess\\r\\nk bye bye\\r\\nstay tuned!!!\\r\\nhttps://media.giphy.com/media/L401DcVHvYuwqhyE9C/giphy.gif\",\"fideRating\":600},\"seenAt\":1623817160835,\"playTime\":{\"total\":382100,\"tv\":175},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/frogjumps\",\"playing\":\"https://lichess.org/iXA0FCT8/white\",\"nbFollowing\":81,\"nbFollowers\":27,\"completionRate\":80,\"count\":{\"all\":1465,\"rated\":1148,\"ai\":16,\"draw\":149,\"drawH\":141,\"loss\":798,\"lossH\":792,\"win\":518,\"winH\":516,\"bookmark\":49,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "frogjumps",
+    "username": "frogjumps",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1655,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 4,
+        "rating": 1233,
+        "rd": 226,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 39,
+        "rating": 837,
+        "rd": 94,
+        "prog": -91
+      },
+      "blitz": {
+        "games": 147,
+        "rating": 1144,
+        "rd": 46,
+        "prog": 17
+      },
+      "threeCheck": {
+        "games": 30,
+        "rating": 1210,
+        "rd": 92,
+        "prog": -31
+      },
+      "bullet": {
+        "games": 187,
+        "rating": 1078,
+        "rd": 45,
+        "prog": -17
+      },
+      "correspondence": {
+        "games": 28,
+        "rating": 1357,
+        "rd": 89,
+        "prog": 87
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1246,
+        "rd": 254,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 649,
+        "rating": 1418,
+        "rd": 61,
+        "prog": 0
+      },
+      "classical": {
+        "games": 5,
+        "rating": 1269,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 692,
+        "rating": 1412,
+        "rd": 45,
+        "prog": 34
+      },
+      "storm": {
+        "runs": 3,
+        "score": 13
+      },
+      "racer": {
+        "runs": 37,
+        "score": 31
+      }
+    },
+    "createdAt": 1591013064111,
+    "profile": {
+      "country": "_lichess",
+      "location": "world",
+      "bio": "https://lichess.org/team/frogjumps-super-team join this my own superteam full of amazing player!!!!\r\nhttps://www.youtube.com/channel/UCW_n54zYfvynlw_Tp2k3wzw is my youtube channel pls subscribe like and comment also share\r\npls follow me on lichess\r\nk bye bye\r\nstay tuned!!!\r\nhttps://media.giphy.com/media/L401DcVHvYuwqhyE9C/giphy.gif",
+      "fideRating": 600
+    },
+    "seenAt": 1623817160835,
+    "playTime": {
+      "total": 382100,
+      "tv": 175
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/frogjumps",
+    "playing": "https://lichess.org/iXA0FCT8/white",
+    "nbFollowing": 81,
+    "nbFollowers": 27,
+    "completionRate": 80,
+    "count": {
+      "all": 1465,
+      "rated": 1148,
+      "ai": 16,
+      "draw": 149,
+      "drawH": 141,
+      "loss": 798,
+      "lossH": 792,
+      "win": 518,
+      "winH": 516,
+      "bookmark": 49,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
