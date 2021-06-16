@@ -1,0 +1,81 @@
+{
+  "id": "lightspeedcomet",
+  "displayName": "LightSpeedComet",
+  "username": "LightSpeedComet",
+  "profileUrl": "https://lichess.org/@/LightSpeedComet",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lightspeedcomet\",\"username\":\"LightSpeedComet\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1361,\"rd\":322,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619622741047,\"seenAt\":1623829651742,\"playTime\":{\"total\":1279,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LightSpeedComet\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":12,\"rated\":2,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":5,\"win\":3,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lightspeedcomet",
+    "username": "LightSpeedComet",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1361,
+        "rd": 322,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1619622741047,
+    "seenAt": 1623829651742,
+    "playTime": {
+      "total": 1279,
+      "tv": 0
+    },
+    "language": "fr-FR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/LightSpeedComet",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "count": {
+      "all": 12,
+      "rated": 2,
+      "ai": 5,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 8,
+      "lossH": 5,
+      "win": 3,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
