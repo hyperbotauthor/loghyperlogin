@@ -4,7 +4,7 @@
   "username": "neer15",
   "profileUrl": "https://lichess.org/@/neer15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2622,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2356,\"rd\":80,\"prog\":26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2650,\"rd\":181,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a BOT created and owned by @neerdas\",\"firstName\":\"neer\",\"lastName\":\"15\"},\"seenAt\":1623838302261,\"playTime\":{\"total\":12728,\"tv\":1416},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":87,\"rated\":46,\"ai\":0,\"draw\":24,\"drawH\":24,\"loss\":21,\"lossH\":21,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2622,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2356,\"rd\":80,\"prog\":26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2528,\"rd\":230,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2723,\"rd\":151,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a BOT created and owned by @neerdas\",\"firstName\":\"neer\",\"lastName\":\"15\"},\"seenAt\":1623847747487,\"playTime\":{\"total\":18912,\"tv\":1416},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":96,\"rated\":53,\"ai\":0,\"draw\":24,\"drawH\":24,\"loss\":22,\"lossH\":22,\"win\":50,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "neer15",
     "username": "neer15",
@@ -31,16 +31,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2528,
+        "rd": 230,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 2650,
-        "rd": 181,
+        "games": 10,
+        "rating": 2723,
+        "rd": 151,
         "prog": 0,
         "prov": true
       }
@@ -53,9 +53,9 @@
       "firstName": "neer",
       "lastName": "15"
     },
-    "seenAt": 1623838302261,
+    "seenAt": 1623847747487,
     "playTime": {
-      "total": 12728,
+      "total": 18912,
       "tv": 1416
     },
     "language": "en-US",
@@ -64,15 +64,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 87,
-      "rated": 46,
+      "all": 96,
+      "rated": 53,
       "ai": 0,
       "draw": 24,
       "drawH": 24,
-      "loss": 21,
-      "lossH": 21,
-      "win": 42,
-      "winH": 42,
+      "loss": 22,
+      "lossH": 22,
+      "win": 50,
+      "winH": 50,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
