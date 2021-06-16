@@ -4,25 +4,24 @@
   "username": "neer15",
   "profileUrl": "https://lichess.org/@/neer15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2601,\"rd\":198,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2348,\"rd\":144,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2566,\"rd\":220,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"seenAt\":1623826829162,\"playTime\":{\"total\":7063,\"tv\":1387},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":43,\"rated\":20,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":10,\"lossH\":10,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"neer15\",\"username\":\"neer15\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2622,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2356,\"rd\":80,\"prog\":26},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2650,\"rd\":181,\"prog\":0,\"prov\":true}},\"createdAt\":1622617860046,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"I am a BOT created and owned by @neerdas\",\"firstName\":\"neer\",\"lastName\":\"15\"},\"seenAt\":1623838302261,\"playTime\":{\"total\":12728,\"tv\":1416},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/neer15\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":87,\"rated\":46,\"ai\":0,\"draw\":24,\"drawH\":24,\"loss\":21,\"lossH\":21,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "neer15",
     "username": "neer15",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 5,
-        "rating": 2601,
-        "rd": 198,
+        "games": 6,
+        "rating": 2622,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 11,
-        "rating": 2348,
-        "rd": 144,
-        "prog": 0,
-        "prov": true
+        "games": 34,
+        "rating": 2356,
+        "rd": 80,
+        "prog": 26
       },
       "correspondence": {
         "games": 0,
@@ -39,18 +38,25 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2566,
-        "rd": 220,
+        "games": 6,
+        "rating": 2650,
+        "rd": 181,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1622617860046,
-    "seenAt": 1623826829162,
+    "profile": {
+      "country": "IN",
+      "location": "Kerala",
+      "bio": "I am a BOT created and owned by @neerdas",
+      "firstName": "neer",
+      "lastName": "15"
+    },
+    "seenAt": 1623838302261,
     "playTime": {
-      "total": 7063,
-      "tv": 1387
+      "total": 12728,
+      "tv": 1416
     },
     "language": "en-US",
     "title": "BOT",
@@ -58,15 +64,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 43,
-      "rated": 20,
+      "all": 87,
+      "rated": 46,
       "ai": 0,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 10,
-      "lossH": 10,
-      "win": 25,
-      "winH": 25,
+      "draw": 24,
+      "drawH": 24,
+      "loss": 21,
+      "lossH": 21,
+      "win": 42,
+      "winH": 42,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
