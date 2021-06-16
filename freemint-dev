@@ -1,0 +1,86 @@
+{
+  "id": "freemint-dev",
+  "displayName": "Freemint-dev",
+  "username": "Freemint-dev",
+  "profileUrl": "https://lichess.org/@/Freemint-dev",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"freemint-dev\",\"username\":\"Freemint-dev\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623862871924,\"profile\":{\"country\":\"_lichess\",\"bio\":\"This is the development build of @FreemintMCTS! The current version uses neural networks and Monte Carlo Tree Search. It was built by @Doggo34 and @blueepchess, and is running on an Intel Core i5. It has the power to tie Stockfish 13 in a 22-game long match.\",\"firstName\":\"Freemint-dev\",\"lastName\":\"v2.0.1 Beta\"},\"seenAt\":1623862897030,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Freemint-dev\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "freemint-dev",
+    "username": "Freemint-dev",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623862871924,
+    "profile": {
+      "country": "_lichess",
+      "bio": "This is the development build of @FreemintMCTS! The current version uses neural networks and Monte Carlo Tree Search. It was built by @Doggo34 and @blueepchess, and is running on an Intel Core i5. It has the power to tie Stockfish 13 in a 22-game long match.",
+      "firstName": "Freemint-dev",
+      "lastName": "v2.0.1 Beta"
+    },
+    "seenAt": 1623862897030,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Freemint-dev",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 0,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
