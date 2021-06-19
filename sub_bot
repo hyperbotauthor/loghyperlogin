@@ -4,7 +4,7 @@
   "username": "Sub_Bot",
   "profileUrl": "https://lichess.org/@/Sub_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":266,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2178,\"rd\":180,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":365,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":392,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"Hi. Hope you had and will have a good day.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1623857755320,\"playTime\":{\"total\":10370,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":9,\"nbFollowers\":4,\"count\":{\"all\":35,\"rated\":26,\"ai\":3,\"draw\":7,\"drawH\":5,\"loss\":6,\"lossH\":6,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":267,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2195,\"rd\":172,\"prog\":17,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":365,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":392,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"Hi. Hope you had and will have a good day.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1624119423157,\"playTime\":{\"total\":11306,\"tv\":2755},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":9,\"nbFollowers\":4,\"count\":{\"all\":42,\"rated\":27,\"ai\":9,\"draw\":7,\"drawH\":5,\"loss\":11,\"lossH\":6,\"win\":24,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sub_bot",
     "username": "Sub_Bot",
@@ -20,15 +20,15 @@
       "atomic": {
         "games": 2,
         "rating": 1974,
-        "rd": 266,
+        "rd": 267,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 11,
-        "rating": 2178,
-        "rd": 180,
-        "prog": 0,
+        "games": 12,
+        "rating": 2195,
+        "rd": 172,
+        "prog": 17,
         "prov": true
       },
       "correspondence": {
@@ -62,9 +62,9 @@
       "lastName": "Made by Suban1",
       "links": "lichess.org"
     },
-    "seenAt": 1623857755320,
+    "seenAt": 1624119423157,
     "playTime": {
-      "total": 10370,
+      "total": 11306,
       "tv": 2755
     },
     "language": "ru-RU",
@@ -73,15 +73,15 @@
     "nbFollowing": 9,
     "nbFollowers": 4,
     "count": {
-      "all": 35,
-      "rated": 26,
-      "ai": 3,
+      "all": 42,
+      "rated": 27,
+      "ai": 9,
       "draw": 7,
       "drawH": 5,
-      "loss": 6,
+      "loss": 11,
       "lossH": 6,
-      "win": 22,
-      "winH": 21,
+      "win": 24,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
