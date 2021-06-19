@@ -4,17 +4,17 @@
   "username": "APl-chess",
   "profileUrl": "https://lichess.org/@/APl-chess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":67,\"rating\":2145,\"rd\":94,\"prog\":108},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":260,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":101,\"rating\":1995,\"rd\":83,\"prog\":-5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":17,\"rating\":2147,\"rd\":138,\"prog\":149,\"prov\":true},\"rapid\":{\"games\":48,\"rating\":2512,\"rd\":95,\"prog\":110}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @fmuror02\\r\\nJoin https://lichess.org/team/chess-and-jokes-and-more-jokes pls\\r\\nAnd also follow my friend @Almamuro\\r\\nFollow 4 follow? Sure!\",\"firstName\":\"Hyper-Easy running\",\"lastName\":\"BOT\",\"links\":\"lichess.org\"},\"seenAt\":1623940194480,\"playTime\":{\"total\":58966,\"tv\":7326},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/XtlR7LqS/white\",\"nbFollowing\":161,\"nbFollowers\":103,\"count\":{\"all\":311,\"rated\":251,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":25,\"lossH\":24,\"win\":281,\"winH\":277,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl-chess\",\"username\":\"APl-chess\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":77,\"rating\":2170,\"rd\":89,\"prog\":29},\"antichess\":{\"games\":6,\"rating\":1424,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1735,\"rd\":260,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":116,\"rating\":2059,\"rd\":72,\"prog\":53},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":18,\"rating\":2159,\"rd\":134,\"prog\":161,\"prov\":true},\"rapid\":{\"games\":49,\"rating\":2491,\"rd\":94,\"prog\":71}},\"createdAt\":1616158487110,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Made by @fmuror02\\r\\nI accept standard challenges any time control casual or rated, but when I am free. I am usually studying on lichess so I might not be available all the time. If you know and want to teach me how to run this BOT 24h please contact me. \\r\\n\\r\\nAlso please join https://lichess.org/team/chess-and-jokes-and-more-jokes.\\r\\nI also accept follow 4 follow.\",\"firstName\":\"Github-coded\",\"lastName\":\"Api chess BOT\",\"links\":\"lichess.org\"},\"seenAt\":1624111783836,\"playTime\":{\"total\":66388,\"tv\":8097},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/APl-chess\",\"playing\":\"https://lichess.org/tFjsX98h/white\",\"nbFollowing\":162,\"nbFollowers\":103,\"count\":{\"all\":344,\"rated\":279,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":26,\"lossH\":25,\"win\":313,\"winH\":309,\"bookmark\":4,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl-chess",
     "username": "APl-chess",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 67,
-        "rating": 2145,
-        "rd": 94,
-        "prog": 108
+        "games": 77,
+        "rating": 2170,
+        "rd": 89,
+        "prog": 29
       },
       "antichess": {
         "games": 6,
@@ -31,10 +31,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 101,
-        "rating": 1995,
-        "rd": 83,
-        "prog": -5
+        "games": 116,
+        "rating": 2059,
+        "rd": 72,
+        "prog": 53
       },
       "correspondence": {
         "games": 0,
@@ -44,49 +44,49 @@
         "prov": true
       },
       "classical": {
-        "games": 17,
-        "rating": 2147,
-        "rd": 138,
-        "prog": 149,
+        "games": 18,
+        "rating": 2159,
+        "rd": 134,
+        "prog": 161,
         "prov": true
       },
       "rapid": {
-        "games": 48,
-        "rating": 2512,
-        "rd": 95,
-        "prog": 110
+        "games": 49,
+        "rating": 2491,
+        "rd": 94,
+        "prog": 71
       }
     },
     "createdAt": 1616158487110,
     "profile": {
       "country": "_lichess",
-      "bio": "Made by @fmuror02\r\nJoin https://lichess.org/team/chess-and-jokes-and-more-jokes pls\r\nAnd also follow my friend @Almamuro\r\nFollow 4 follow? Sure!",
-      "firstName": "Hyper-Easy running",
-      "lastName": "BOT",
+      "bio": "Made by @fmuror02\r\nI accept standard challenges any time control casual or rated, but when I am free. I am usually studying on lichess so I might not be available all the time. If you know and want to teach me how to run this BOT 24h please contact me. \r\n\r\nAlso please join https://lichess.org/team/chess-and-jokes-and-more-jokes.\r\nI also accept follow 4 follow.",
+      "firstName": "Github-coded",
+      "lastName": "Api chess BOT",
       "links": "lichess.org"
     },
-    "seenAt": 1623940194480,
+    "seenAt": 1624111783836,
     "playTime": {
-      "total": 58966,
-      "tv": 7326
+      "total": 66388,
+      "tv": 8097
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/APl-chess",
-    "playing": "https://lichess.org/XtlR7LqS/white",
-    "nbFollowing": 161,
+    "playing": "https://lichess.org/tFjsX98h/white",
+    "nbFollowing": 162,
     "nbFollowers": 103,
     "count": {
-      "all": 311,
-      "rated": 251,
+      "all": 344,
+      "rated": 279,
       "ai": 5,
       "draw": 5,
       "drawH": 5,
-      "loss": 25,
-      "lossH": 24,
-      "win": 281,
-      "winH": 277,
-      "bookmark": 3,
+      "loss": 26,
+      "lossH": 25,
+      "win": 313,
+      "winH": 309,
+      "bookmark": 4,
       "playing": 1,
       "import": 0,
       "me": 0
