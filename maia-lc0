@@ -4,7 +4,7 @@
   "username": "maia-Lc0",
   "profileUrl": "https://lichess.org/@/maia-Lc0",
   "provider": "lichess",
-  "_raw": "{\"id\":\"maia-lc0\",\"username\":\"maia-Lc0\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2171,\"rd\":165,\"prog\":82,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621196696556,\"profile\":{\"location\":\"Lichess.org\",\"bio\":\"A Simple Implementation Of Lc0.\\r\\n\\r\\n\\r\\nHosted On A Heroku Server\"},\"seenAt\":1624058252972,\"playTime\":{\"total\":2650,\"tv\":251},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/maia-Lc0\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":31,\"rated\":13,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":13,\"lossH\":13,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"maia-lc0\",\"username\":\"maia-Lc0\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2171,\"rd\":165,\"prog\":82,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621196696556,\"profile\":{\"location\":\"Lichess.org\",\"bio\":\"A Simple Implementation Of Lc0.\\r\\n\\r\\n\\r\\nHosted On A Heroku Server\"},\"seenAt\":1624138990909,\"playTime\":{\"total\":2746,\"tv\":251},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/maia-Lc0\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":35,\"rated\":13,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":17,\"lossH\":17,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "maia-lc0",
     "username": "maia-Lc0",
@@ -51,9 +51,9 @@
       "location": "Lichess.org",
       "bio": "A Simple Implementation Of Lc0.\r\n\r\n\r\nHosted On A Heroku Server"
     },
-    "seenAt": 1624058252972,
+    "seenAt": 1624138990909,
     "playTime": {
-      "total": 2650,
+      "total": 2746,
       "tv": 251
     },
     "language": "en-US",
@@ -62,13 +62,13 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 31,
+      "all": 35,
       "rated": 13,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 13,
-      "lossH": 13,
+      "loss": 17,
+      "lossH": 17,
       "win": 14,
       "winH": 14,
       "bookmark": 0,
