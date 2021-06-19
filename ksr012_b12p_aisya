@@ -1,0 +1,79 @@
+{
+  "id": "ksr012_b12p_aisya",
+  "displayName": "KSR012_B12P_AISYA",
+  "username": "KSR012_B12P_AISYA",
+  "profileUrl": "https://lichess.org/@/KSR012_B12P_AISYA",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ksr012_b12p_aisya\",\"username\":\"KSR012_B12P_AISYA\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":97,\"rating\":1800,\"rd\":46,\"prog\":3},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":153,\"rating\":1924,\"rd\":45,\"prog\":-20}},\"createdAt\":1623143715665,\"seenAt\":1624120665762,\"playTime\":{\"total\":97362,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/KSR012_B12P_AISYA\",\"nbFollowing\":0,\"nbFollowers\":2,\"completionRate\":93,\"count\":{\"all\":250,\"rated\":250,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":75,\"lossH\":75,\"win\":169,\"winH\":169,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ksr012_b12p_aisya",
+    "username": "KSR012_B12P_AISYA",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 97,
+        "rating": 1800,
+        "rd": 46,
+        "prog": 3
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 153,
+        "rating": 1924,
+        "rd": 45,
+        "prog": -20
+      }
+    },
+    "createdAt": 1623143715665,
+    "seenAt": 1624120665762,
+    "playTime": {
+      "total": 97362,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/KSR012_B12P_AISYA",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "completionRate": 93,
+    "count": {
+      "all": 250,
+      "rated": 250,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 75,
+      "lossH": 75,
+      "win": 169,
+      "winH": 169,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
