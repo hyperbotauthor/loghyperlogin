@@ -4,7 +4,7 @@
   "username": "I_steel_steel",
   "profileUrl": "https://lichess.org/@/I_steel_steel",
   "provider": "lichess",
-  "_raw": "{\"id\":\"i_steel_steel\",\"username\":\"I_steel_steel\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1239,\"rd\":271,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623099933857,\"seenAt\":1623099935801,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/I_steel_steel\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"i_steel_steel\",\"username\":\"I_steel_steel\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1239,\"rd\":272,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623099933857,\"seenAt\":1624208974970,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/I_steel_steel\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":1,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "i_steel_steel",
     "username": "I_steel_steel",
@@ -20,7 +20,7 @@
       "puzzle": {
         "games": 2,
         "rating": 1239,
-        "rd": 271,
+        "rd": 272,
         "prog": 0,
         "prov": true
       },
@@ -54,24 +54,25 @@
       }
     },
     "createdAt": 1623099933857,
-    "seenAt": 1623099935801,
+    "seenAt": 1624208974970,
     "playTime": {
       "total": 0,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/I_steel_steel",
-    "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
+      "all": 1,
       "rated": 0,
-      "ai": 0,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
+      "win": 1,
       "winH": 0,
       "bookmark": 0,
       "playing": 0,
