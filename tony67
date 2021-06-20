@@ -1,0 +1,90 @@
+{
+  "id": "tony67",
+  "displayName": "Tony67",
+  "username": "Tony67",
+  "profileUrl": "https://lichess.org/@/Tony67",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"tony67\",\"username\":\"Tony67\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1204,\"rating\":1066,\"rd\":199,\"prog\":9,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1365,\"rd\":272,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1453,\"rd\":318,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":105,\"rating\":1952,\"rd\":105,\"prog\":40}},\"createdAt\":1535078055831,\"tosViolation\":true,\"profile\":{\"country\":\"IR\"},\"seenAt\":1624166142996,\"playTime\":{\"total\":968103,\"tv\":0},\"language\":\"fa-IR\",\"url\":\"https://lichess.org/@/Tony67\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":1966,\"rated\":109,\"ai\":457,\"draw\":62,\"drawH\":48,\"loss\":706,\"lossH\":422,\"win\":1198,\"winH\":1039,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "tony67",
+    "username": "Tony67",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1204,
+        "rating": 1066,
+        "rd": 199,
+        "prog": 9,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1365,
+        "rd": 272,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1453,
+        "rd": 318,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 105,
+        "rating": 1952,
+        "rd": 105,
+        "prog": 40
+      }
+    },
+    "createdAt": 1535078055831,
+    "tosViolation": true,
+    "profile": {
+      "country": "IR"
+    },
+    "seenAt": 1624166142996,
+    "playTime": {
+      "total": 968103,
+      "tv": 0
+    },
+    "language": "fa-IR",
+    "url": "https://lichess.org/@/Tony67",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "count": {
+      "all": 1966,
+      "rated": 109,
+      "ai": 457,
+      "draw": 62,
+      "drawH": 48,
+      "loss": 706,
+      "lossH": 422,
+      "win": 1198,
+      "winH": 1039,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": false,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
