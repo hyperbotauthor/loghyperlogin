@@ -1,0 +1,121 @@
+{
+  "id": "great2010",
+  "displayName": "GReat2010",
+  "username": "GReat2010",
+  "profileUrl": "https://lichess.org/@/GReat2010",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"great2010\",\"username\":\"GReat2010\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":9,\"rating\":1293,\"rd\":128,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":26,\"rating\":1510,\"rd\":86,\"prog\":0},\"ultraBullet\":{\"games\":49,\"rating\":1191,\"rd\":69,\"prog\":45},\"blitz\":{\"games\":48,\"rating\":1665,\"rd\":63,\"prog\":-27},\"threeCheck\":{\"games\":11,\"rating\":1432,\"rd\":117,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":100,\"rating\":1602,\"rd\":45,\"prog\":-10},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1637,\"rd\":321,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":25,\"rating\":2119,\"rd\":82,\"prog\":140},\"storm\":{\"runs\":1,\"score\":23},\"racer\":{\"runs\":78,\"score\":40},\"streak\":{\"runs\":1,\"score\":10}},\"createdAt\":1623005620872,\"profile\":{\"country\":\"NG\",\"bio\":\"Jesus loves u\",\"firstName\":\"Ebube\"},\"seenAt\":1624207964058,\"playTime\":{\"total\":57770,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/GReat2010\",\"nbFollowing\":22,\"nbFollowers\":6,\"completionRate\":90,\"count\":{\"all\":246,\"rated\":246,\"ai\":0,\"draw\":12,\"drawH\":12,\"loss\":131,\"lossH\":131,\"win\":103,\"winH\":103,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "great2010",
+    "username": "GReat2010",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 9,
+        "rating": 1293,
+        "rd": 128,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 26,
+        "rating": 1510,
+        "rd": 86,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 49,
+        "rating": 1191,
+        "rd": 69,
+        "prog": 45
+      },
+      "blitz": {
+        "games": 48,
+        "rating": 1665,
+        "rd": 63,
+        "prog": -27
+      },
+      "threeCheck": {
+        "games": 11,
+        "rating": 1432,
+        "rd": 117,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 100,
+        "rating": 1602,
+        "rd": 45,
+        "prog": -10
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1637,
+        "rd": 321,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 25,
+        "rating": 2119,
+        "rd": 82,
+        "prog": 140
+      },
+      "storm": {
+        "runs": 1,
+        "score": 23
+      },
+      "racer": {
+        "runs": 78,
+        "score": 40
+      },
+      "streak": {
+        "runs": 1,
+        "score": 10
+      }
+    },
+    "createdAt": 1623005620872,
+    "profile": {
+      "country": "NG",
+      "bio": "Jesus loves u",
+      "firstName": "Ebube"
+    },
+    "seenAt": 1624207964058,
+    "playTime": {
+      "total": 57770,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/GReat2010",
+    "nbFollowing": 22,
+    "nbFollowers": 6,
+    "completionRate": 90,
+    "count": {
+      "all": 246,
+      "rated": 246,
+      "ai": 0,
+      "draw": 12,
+      "drawH": 12,
+      "loss": 131,
+      "lossH": 131,
+      "win": 103,
+      "winH": 103,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
