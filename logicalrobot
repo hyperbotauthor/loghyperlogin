@@ -4,16 +4,16 @@
   "username": "LogicalRobot",
   "profileUrl": "https://lichess.org/@/LogicalRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1442,\"rd\":442,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2234,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":324,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1679,\"rd\":301,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"profile\":{\"bio\":\"I GOT A FOLLOWED HIS NAME IS @LITTLEJENNYWREN\"},\"seenAt\":1623945932723,\"playTime\":{\"total\":1078,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"playing\":\"https://lichess.org/FlSubnAI/black\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":7,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":312,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1442,\"rd\":442,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2234,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1679,\"rd\":301,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"profile\":{\"bio\":\"I GOT A FOLLOWER HIS NAME IS @LITTLEJENNYWREN\"},\"seenAt\":1624204992661,\"playTime\":{\"total\":1138,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"playing\":\"https://lichess.org/vlMAVcwS/white\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":8,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "logicalrobot",
     "username": "LogicalRobot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1656,
+        "rd": 312,
         "prog": 0,
         "prov": true
       },
@@ -34,7 +34,7 @@
       "correspondence": {
         "games": 1,
         "rating": 1930,
-        "rd": 324,
+        "rd": 325,
         "prog": 0,
         "prov": true
       },
@@ -55,29 +55,29 @@
     },
     "createdAt": 1622198492811,
     "profile": {
-      "bio": "I GOT A FOLLOWED HIS NAME IS @LITTLEJENNYWREN"
+      "bio": "I GOT A FOLLOWER HIS NAME IS @LITTLEJENNYWREN"
     },
-    "seenAt": 1623945932723,
+    "seenAt": 1624204992661,
     "playTime": {
-      "total": 1078,
+      "total": 1138,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LogicalRobot",
-    "playing": "https://lichess.org/FlSubnAI/black",
+    "playing": "https://lichess.org/vlMAVcwS/white",
     "nbFollowing": 0,
     "nbFollowers": 3,
     "count": {
-      "all": 7,
-      "rated": 6,
+      "all": 8,
+      "rated": 7,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 2,
       "lossH": 2,
-      "win": 5,
-      "winH": 5,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
