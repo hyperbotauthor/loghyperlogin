@@ -4,7 +4,7 @@
   "username": "RSVMentor",
   "profileUrl": "https://lichess.org/@/RSVMentor",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":2149,\"rd\":88,\"prog\":-80},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":308,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":387,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2130,\"rd\":75,\"prog\":-28},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Developed By - @Illusion_RSV, My Brother - @UltraEasyBOT\\r\\nChallenge Me!!                                                        https://imgur.com/hoIkBWE\",\"firstName\":\"BOT RSV\",\"lastName\":\"Mentor\",\"fideRating\":3000},\"seenAt\":1623572279250,\"playTime\":{\"total\":21740,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":6,\"count\":{\"all\":130,\"rated\":97,\"ai\":21,\"draw\":11,\"drawH\":8,\"loss\":33,\"lossH\":29,\"win\":86,\"winH\":72,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":30,\"rating\":2149,\"rd\":90,\"prog\":-53},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":308,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2130,\"rd\":77,\"prog\":-28},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Developed By - @Illusion_RSV, My Brother - @UltraEasyBOT\\r\\nChallenge Me!!                                                        https://imgur.com/hoIkBWE\",\"firstName\":\"BOT RSV\",\"lastName\":\"Mentor\",\"fideRating\":3000},\"seenAt\":1624168237697,\"playTime\":{\"total\":21818,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":132,\"rated\":99,\"ai\":21,\"draw\":11,\"drawH\":8,\"loss\":33,\"lossH\":29,\"win\":88,\"winH\":74,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rsvmentor",
     "username": "RSVMentor",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 28,
+        "games": 30,
         "rating": 2149,
-        "rd": 88,
-        "prog": -80
+        "rd": 90,
+        "prog": -53
       },
       "kingOfTheHill": {
         "games": 1,
@@ -33,14 +33,14 @@
       "crazyhouse": {
         "games": 1,
         "rating": 862,
-        "rd": 387,
+        "rd": 388,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 47,
         "rating": 2130,
-        "rd": 75,
+        "rd": 77,
         "prog": -28
       },
       "correspondence": {
@@ -74,26 +74,26 @@
       "lastName": "Mentor",
       "fideRating": 3000
     },
-    "seenAt": 1623572279250,
+    "seenAt": 1624168237697,
     "playTime": {
-      "total": 21740,
+      "total": 21818,
       "tv": 3400
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RSVMentor",
     "nbFollowing": 1,
-    "nbFollowers": 6,
+    "nbFollowers": 4,
     "count": {
-      "all": 130,
-      "rated": 97,
+      "all": 132,
+      "rated": 99,
       "ai": 21,
       "draw": 11,
       "drawH": 8,
       "loss": 33,
       "lossH": 29,
-      "win": 86,
-      "winH": 72,
+      "win": 88,
+      "winH": 74,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
