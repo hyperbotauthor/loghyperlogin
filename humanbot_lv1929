@@ -4,7 +4,7 @@
   "username": "HumanBOT_lv1929",
   "profileUrl": "https://lichess.org/@/HumanBOT_lv1929",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1844,\"rd\":331,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":341,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1844,\"rd\":331,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1446,\"rd\":173,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":33,\"rating\":1714,\"rd\":90,\"prog\":38},\"classical\":{\"games\":10,\"rating\":1706,\"rd\":244,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1922,\"rd\":189,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1624124506458,\"playTime\":{\"total\":10190,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/85DKMxdD/black\",\"nbFollowing\":9,\"nbFollowers\":6,\"count\":{\"all\":104,\"rated\":68,\"ai\":25,\"draw\":4,\"drawH\":4,\"loss\":26,\"lossH\":14,\"win\":74,\"winH\":61,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_lv1929\",\"username\":\"HumanBOT_lv1929\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1844,\"rd\":331,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":341,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1844,\"rd\":331,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1446,\"rd\":173,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":33,\"rating\":1714,\"rd\":90,\"prog\":38},\"classical\":{\"games\":10,\"rating\":1706,\"rd\":245,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1922,\"rd\":189,\"prog\":0,\"prov\":true}},\"createdAt\":1621607423831,\"profile\":{\"country\":\"_lichess\",\"location\":\"Unknown cuz I’m a bot\",\"bio\":\"Official bot of @CISAdRiAnYaNgPs160\\r\\nPlease challenge me\\r\\nI am a bot. I mostly play correspondence.\\r\\nJoin my owners team: https://lichess.org/team/stop-cutting-down-trees\",\"firstName\":\"Human\",\"lastName\":\"Bot\"},\"seenAt\":1624199208528,\"playTime\":{\"total\":10300,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HumanBOT_lv1929\",\"playing\":\"https://lichess.org/3qfzDmXY/white\",\"nbFollowing\":9,\"nbFollowers\":6,\"count\":{\"all\":106,\"rated\":68,\"ai\":26,\"draw\":4,\"drawH\":4,\"loss\":27,\"lossH\":15,\"win\":75,\"winH\":61,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_lv1929",
     "username": "HumanBOT_lv1929",
@@ -54,7 +54,7 @@
       "classical": {
         "games": 10,
         "rating": 1706,
-        "rd": 244,
+        "rd": 245,
         "prog": 0,
         "prov": true
       },
@@ -74,26 +74,26 @@
       "firstName": "Human",
       "lastName": "Bot"
     },
-    "seenAt": 1624124506458,
+    "seenAt": 1624199208528,
     "playTime": {
-      "total": 10190,
+      "total": 10300,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HumanBOT_lv1929",
-    "playing": "https://lichess.org/85DKMxdD/black",
+    "playing": "https://lichess.org/3qfzDmXY/white",
     "nbFollowing": 9,
     "nbFollowers": 6,
     "count": {
-      "all": 104,
+      "all": 106,
       "rated": 68,
-      "ai": 25,
+      "ai": 26,
       "draw": 4,
       "drawH": 4,
-      "loss": 26,
-      "lossH": 14,
-      "win": 74,
+      "loss": 27,
+      "lossH": 15,
+      "win": 75,
       "winH": 61,
       "bookmark": 0,
       "playing": 4,
