@@ -4,29 +4,29 @@
   "username": "HarsheelK",
   "profileUrl": "https://lichess.org/@/HarsheelK",
   "provider": "lichess",
-  "_raw": "{\"id\":\"harsheelk\",\"username\":\"HarsheelK\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":29,\"rating\":2207,\"rd\":92,\"prog\":3},\"bullet\":{\"games\":6,\"rating\":1733,\"rd\":197,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1579,\"rd\":413,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614684382662,\"profile\":{\"country\":\"IN\",\"location\":\"Gujarat\",\"bio\":\"I am the BOT of @SuperHarsheel. Please subscribe my channel \\r\\nhttps://youtube.com/channel/UCH4paBlkoSra_IViCpSTxhQ\",\"firstName\":\"Harsheel\",\"lastName\":\"Kothari\",\"fideRating\":2825,\"links\":\"https://youtube.com/channel/UCH4paBlkoSra_IViCpSTxhQ\"},\"seenAt\":1620450538152,\"playTime\":{\"total\":13499,\"tv\":2600},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HarsheelK\",\"nbFollowing\":7,\"nbFollowers\":7,\"count\":{\"all\":47,\"rated\":37,\"ai\":3,\"draw\":5,\"drawH\":5,\"loss\":8,\"lossH\":5,\"win\":34,\"winH\":34,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"harsheelk\",\"username\":\"HarsheelK\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2216,\"rd\":102,\"prog\":45},\"bullet\":{\"games\":6,\"rating\":1733,\"rd\":203,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1579,\"rd\":415,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614684382662,\"profile\":{\"country\":\"IN\",\"location\":\"Gujarat\",\"bio\":\"I am the BOT of @SuperHarsheel. Please subscribe my channel \\r\\nhttps://youtube.com/channel/UCH4paBlkoSra_IViCpSTxhQ\",\"firstName\":\"Harsheel\",\"lastName\":\"Kothari\",\"fideRating\":2825,\"links\":\"https://youtube.com/channel/UCH4paBlkoSra_IViCpSTxhQ\"},\"seenAt\":1624083355202,\"playTime\":{\"total\":15056,\"tv\":2968},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HarsheelK\",\"nbFollowing\":10,\"nbFollowers\":10,\"count\":{\"all\":53,\"rated\":40,\"ai\":3,\"draw\":6,\"drawH\":6,\"loss\":9,\"lossH\":6,\"win\":38,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "harsheelk",
     "username": "HarsheelK",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
-        "games": 29,
-        "rating": 2207,
-        "rd": 92,
-        "prog": 3
+        "games": 31,
+        "rating": 2216,
+        "rd": 102,
+        "prog": 45
       },
       "bullet": {
         "games": 6,
         "rating": 1733,
-        "rd": 197,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 1,
         "rating": 1579,
-        "rd": 413,
+        "rd": 415,
         "prog": 0,
         "prov": true
       },
@@ -55,26 +55,26 @@
       "fideRating": 2825,
       "links": "https://youtube.com/channel/UCH4paBlkoSra_IViCpSTxhQ"
     },
-    "seenAt": 1620450538152,
+    "seenAt": 1624083355202,
     "playTime": {
-      "total": 13499,
-      "tv": 2600
+      "total": 15056,
+      "tv": 2968
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/HarsheelK",
-    "nbFollowing": 7,
-    "nbFollowers": 7,
+    "nbFollowing": 10,
+    "nbFollowers": 10,
     "count": {
-      "all": 47,
-      "rated": 37,
+      "all": 53,
+      "rated": 40,
       "ai": 3,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 8,
-      "lossH": 5,
-      "win": 34,
-      "winH": 34,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 9,
+      "lossH": 6,
+      "win": 38,
+      "winH": 38,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
