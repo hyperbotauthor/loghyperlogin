@@ -4,7 +4,7 @@
   "username": "DenizOzen_Bot",
   "profileUrl": "https://lichess.org/@/DenizOzen_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"denizozen_bot\",\"username\":\"DenizOzen_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":468,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619772095096,\"profile\":{\"country\":\"TR\"},\"seenAt\":1624271961760,\"playTime\":{\"total\":9154,\"tv\":184},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DenizOzen_Bot\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":64,\"rated\":1,\"ai\":52,\"draw\":1,\"drawH\":1,\"loss\":50,\"lossH\":7,\"win\":13,\"winH\":4,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"denizozen_bot\",\"username\":\"DenizOzen_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":468,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1619772095096,\"profile\":{\"country\":\"TR\"},\"seenAt\":1624286882954,\"playTime\":{\"total\":9513,\"tv\":184},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DenizOzen_Bot\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":66,\"rated\":1,\"ai\":54,\"draw\":1,\"drawH\":1,\"loss\":51,\"lossH\":7,\"win\":14,\"winH\":4,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "denizozen_bot",
     "username": "DenizOzen_Bot",
@@ -50,9 +50,9 @@
     "profile": {
       "country": "TR"
     },
-    "seenAt": 1624271961760,
+    "seenAt": 1624286882954,
     "playTime": {
-      "total": 9154,
+      "total": 9513,
       "tv": 184
     },
     "language": "tr-TR",
@@ -61,14 +61,14 @@
     "nbFollowing": 4,
     "nbFollowers": 3,
     "count": {
-      "all": 64,
+      "all": 66,
       "rated": 1,
-      "ai": 52,
+      "ai": 54,
       "draw": 1,
       "drawH": 1,
-      "loss": 50,
+      "loss": 51,
       "lossH": 7,
-      "win": 13,
+      "win": 14,
       "winH": 4,
       "bookmark": 2,
       "playing": 0,
