@@ -4,116 +4,124 @@
   "username": "Nihar_Raju_23",
   "profileUrl": "https://lichess.org/@/Nihar_Raju_23",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nihar_raju_23\",\"username\":\"Nihar_Raju_23\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":203,\"rating\":1640,\"rd\":82,\"prog\":0},\"atomic\":{\"games\":5,\"rating\":818,\"rd\":201,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1353,\"rd\":321,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":3,\"rating\":1449,\"rd\":229,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":97,\"rating\":1172,\"rd\":69,\"prog\":21},\"kingOfTheHill\":{\"games\":3,\"rating\":1225,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":1349,\"rd\":81,\"prog\":7},\"correspondence\":{\"games\":7,\"rating\":1226,\"rd\":268,\"prog\":0,\"prov\":true},\"classical\":{\"games\":16,\"rating\":1257,\"rd\":155,\"prog\":210,\"prov\":true},\"rapid\":{\"games\":376,\"rating\":1154,\"rd\":46,\"prog\":8},\"storm\":{\"runs\":6,\"score\":20}},\"createdAt\":1604727637833,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hi.I am Nihar Raju.I am from Kerala.I like to become a GrandMaster in chess:).I also want to be a fide rated player.\\r\\n\\r\\nJoin my chess team- https://lichess.org/team/nihars-pro-chess-team\",\"firstName\":\"Nihar\",\"lastName\":\"Raju\",\"ecfRating\":0,\"links\":\"https://www.youtube.com/channel/UC_bhPtGPdhSb-AiBmWSI50A\"},\"seenAt\":1616231679666,\"playTime\":{\"total\":117850,\"tv\":173},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Nihar_Raju_23\",\"playing\":\"https://lichess.org/ueoEeaZo/white\",\"nbFollowing\":14,\"nbFollowers\":24,\"completionRate\":100,\"count\":{\"all\":602,\"rated\":563,\"ai\":11,\"draw\":18,\"drawH\":18,\"loss\":394,\"lossH\":386,\"win\":190,\"winH\":187,\"bookmark\":2,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nihar_raju_23\",\"username\":\"Nihar_Raju_23\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":277,\"rating\":1405,\"rd\":77,\"prog\":0},\"atomic\":{\"games\":5,\"rating\":818,\"rd\":213,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1353,\"rd\":328,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":3,\"rating\":1449,\"rd\":239,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":182,\"rating\":1335,\"rd\":75,\"prog\":6},\"kingOfTheHill\":{\"games\":3,\"rating\":1225,\"rd\":251,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1396,\"rd\":357,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":1328,\"rd\":104,\"prog\":-41},\"correspondence\":{\"games\":12,\"rating\":1350,\"rd\":191,\"prog\":34,\"prov\":true},\"classical\":{\"games\":25,\"rating\":1170,\"rd\":143,\"prog\":-114,\"prov\":true},\"rapid\":{\"games\":627,\"rating\":1250,\"rd\":49,\"prog\":-18},\"storm\":{\"runs\":6,\"score\":20},\"racer\":{\"runs\":1,\"score\":31}},\"createdAt\":1604727637833,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"firstName\":\"Nihar\",\"lastName\":\"Raju\"},\"seenAt\":1624246759334,\"playTime\":{\"total\":235065,\"tv\":173},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Nihar_Raju_23\",\"playing\":\"https://lichess.org/3E55B4GO/white\",\"nbFollowing\":1,\"nbFollowers\":27,\"completionRate\":90,\"count\":{\"all\":1110,\"rated\":945,\"ai\":43,\"draw\":38,\"drawH\":38,\"loss\":706,\"lossH\":671,\"win\":366,\"winH\":358,\"bookmark\":3,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nihar_raju_23",
     "username": "Nihar_Raju_23",
     "online": true,
     "perfs": {
       "puzzle": {
-        "games": 203,
-        "rating": 1640,
-        "rd": 82,
+        "games": 277,
+        "rating": 1405,
+        "rd": 77,
         "prog": 0
       },
       "atomic": {
         "games": 5,
         "rating": 818,
-        "rd": 201,
+        "rd": 213,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1353,
-        "rd": 321,
+        "rd": 328,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
         "games": 3,
         "rating": 1449,
-        "rd": 229,
+        "rd": 239,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 97,
-        "rating": 1172,
-        "rd": 69,
-        "prog": 21
+        "games": 182,
+        "rating": 1335,
+        "rd": 75,
+        "prog": 6
       },
       "kingOfTheHill": {
         "games": 3,
         "rating": 1225,
-        "rd": 241,
+        "rd": 251,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1396,
+        "rd": 357,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 47,
-        "rating": 1349,
-        "rd": 81,
-        "prog": 7
+        "games": 49,
+        "rating": 1328,
+        "rd": 104,
+        "prog": -41
       },
       "correspondence": {
-        "games": 7,
-        "rating": 1226,
-        "rd": 268,
-        "prog": 0,
+        "games": 12,
+        "rating": 1350,
+        "rd": 191,
+        "prog": 34,
         "prov": true
       },
       "classical": {
-        "games": 16,
-        "rating": 1257,
-        "rd": 155,
-        "prog": 210,
+        "games": 25,
+        "rating": 1170,
+        "rd": 143,
+        "prog": -114,
         "prov": true
       },
       "rapid": {
-        "games": 376,
-        "rating": 1154,
-        "rd": 46,
-        "prog": 8
+        "games": 627,
+        "rating": 1250,
+        "rd": 49,
+        "prog": -18
       },
       "storm": {
         "runs": 6,
         "score": 20
+      },
+      "racer": {
+        "runs": 1,
+        "score": 31
       }
     },
     "createdAt": 1604727637833,
     "profile": {
       "country": "IN",
       "location": "Kerala",
-      "bio": "Hi.I am Nihar Raju.I am from Kerala.I like to become a GrandMaster in chess:).I also want to be a fide rated player.\r\n\r\nJoin my chess team- https://lichess.org/team/nihars-pro-chess-team",
       "firstName": "Nihar",
-      "lastName": "Raju",
-      "ecfRating": 0,
-      "links": "https://www.youtube.com/channel/UC_bhPtGPdhSb-AiBmWSI50A"
+      "lastName": "Raju"
     },
-    "seenAt": 1616231679666,
+    "seenAt": 1624246759334,
     "playTime": {
-      "total": 117850,
+      "total": 235065,
       "tv": 173
     },
     "language": "en-US",
     "url": "https://lichess.org/@/Nihar_Raju_23",
-    "playing": "https://lichess.org/ueoEeaZo/white",
-    "nbFollowing": 14,
-    "nbFollowers": 24,
-    "completionRate": 100,
+    "playing": "https://lichess.org/3E55B4GO/white",
+    "nbFollowing": 1,
+    "nbFollowers": 27,
+    "completionRate": 90,
     "count": {
-      "all": 602,
-      "rated": 563,
-      "ai": 11,
-      "draw": 18,
-      "drawH": 18,
-      "loss": 394,
-      "lossH": 386,
-      "win": 190,
-      "winH": 187,
-      "bookmark": 2,
-      "playing": 1,
+      "all": 1110,
+      "rated": 945,
+      "ai": 43,
+      "draw": 38,
+      "drawH": 38,
+      "loss": 706,
+      "lossH": 671,
+      "win": 366,
+      "winH": 358,
+      "bookmark": 3,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
