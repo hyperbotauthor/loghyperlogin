@@ -4,65 +4,63 @@
   "username": "neerdas",
   "profileUrl": "https://lichess.org/@/neerdas",
   "provider": "lichess",
-  "_raw": "{\"id\":\"neerdas\",\"username\":\"neerdas\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":8,\"rating\":2106,\"rd\":208,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1859,\"rd\":344,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2114,\"rd\":213,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":28,\"rating\":2030,\"rd\":103,\"prog\":66},\"kingOfTheHill\":{\"games\":10,\"rating\":2327,\"rd\":248,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":2048,\"rd\":226,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":2225,\"rd\":195,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":44,\"rating\":1580,\"rd\":65,\"prog\":-17},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":2037,\"rd\":259,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":2219,\"rd\":394,\"prog\":0,\"prov\":true},\"classical\":{\"games\":20,\"rating\":2049,\"rd\":109,\"prog\":118},\"rapid\":{\"games\":68,\"rating\":2073,\"rd\":67,\"prog\":0},\"streak\":{\"runs\":15,\"score\":27}},\"createdAt\":1619860950516,\"profile\":{\"country\":\"IN\",\"location\":\"Palakkad, Kerala\",\"bio\":\"My own BOT @dasneer\\r\\nPlease follow him\",\"firstName\":\"Neeraj\",\"lastName\":\"das\"},\"seenAt\":1620578476889,\"playTime\":{\"total\":112261,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/neerdas\",\"nbFollowing\":15,\"nbFollowers\":7,\"count\":{\"all\":232,\"rated\":213,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":48,\"lossH\":48,\"win\":182,\"winH\":182,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"neerdas\",\"username\":\"neerdas\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":14,\"rating\":2217,\"rd\":173,\"prog\":46,\"prov\":true},\"antichess\":{\"games\":10,\"rating\":2191,\"rd\":210,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":22,\"rating\":2177,\"rd\":136,\"prog\":42,\"prov\":true},\"blitz\":{\"games\":51,\"rating\":1955,\"rd\":85,\"prog\":46},\"kingOfTheHill\":{\"games\":30,\"rating\":1989,\"rd\":113,\"prog\":-1,\"prov\":true},\"crazyhouse\":{\"games\":29,\"rating\":1555,\"rd\":104,\"prog\":-114},\"threeCheck\":{\"games\":64,\"rating\":1801,\"rd\":72,\"prog\":-64},\"bullet\":{\"games\":402,\"rating\":1656,\"rd\":51,\"prog\":14},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":9,\"rating\":1880,\"rd\":209,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":42,\"rating\":1976,\"rd\":85,\"prog\":0},\"classical\":{\"games\":21,\"rating\":2040,\"rd\":117,\"prog\":109,\"prov\":true},\"rapid\":{\"games\":108,\"rating\":2028,\"rd\":65,\"prog\":0},\"streak\":{\"runs\":66,\"score\":41}},\"createdAt\":1619860950516,\"profile\":{\"country\":\"IN\",\"location\":\"Palakkad, Kerala\",\"bio\":\"My BOTS\\r\\nlichess.org/@/neer15\\r\\nlichess.org/@/das15\\r\\nlichess.org/@/dasneer\",\"firstName\":\"Neeraj\",\"lastName\":\"das\",\"links\":\"https://www.youtube.com/channel/UCpZ098-JnNNGo3NLn-Es-_g\"},\"seenAt\":1624266228876,\"playTime\":{\"total\":243041,\"tv\":2273},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/neerdas\",\"nbFollowing\":297,\"nbFollowers\":9,\"completionRate\":80,\"count\":{\"all\":818,\"rated\":763,\"ai\":2,\"draw\":15,\"drawH\":15,\"loss\":297,\"lossH\":296,\"win\":506,\"winH\":505,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "neerdas",
     "username": "neerdas",
     "online": true,
     "perfs": {
       "chess960": {
-        "games": 8,
-        "rating": 2106,
-        "rd": 208,
-        "prog": 0,
+        "games": 14,
+        "rating": 2217,
+        "rd": 173,
+        "prog": 46,
         "prov": true
       },
       "antichess": {
-        "games": 2,
-        "rating": 1859,
-        "rd": 344,
+        "games": 10,
+        "rating": 2191,
+        "rd": 210,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 7,
-        "rating": 2114,
-        "rd": 213,
-        "prog": 0,
+        "games": 22,
+        "rating": 2177,
+        "rd": 136,
+        "prog": 42,
         "prov": true
       },
       "blitz": {
-        "games": 28,
-        "rating": 2030,
-        "rd": 103,
-        "prog": 66
+        "games": 51,
+        "rating": 1955,
+        "rd": 85,
+        "prog": 46
       },
       "kingOfTheHill": {
-        "games": 10,
-        "rating": 2327,
-        "rd": 248,
-        "prog": 0,
+        "games": 30,
+        "rating": 1989,
+        "rd": 113,
+        "prog": -1,
         "prov": true
       },
       "crazyhouse": {
-        "games": 8,
-        "rating": 2048,
-        "rd": 226,
-        "prog": 0,
-        "prov": true
+        "games": 29,
+        "rating": 1555,
+        "rd": 104,
+        "prog": -114
       },
       "threeCheck": {
-        "games": 10,
-        "rating": 2225,
-        "rd": 195,
-        "prog": 0,
-        "prov": true
+        "games": 64,
+        "rating": 1801,
+        "rd": 72,
+        "prog": -64
       },
       "bullet": {
-        "games": 44,
-        "rating": 1580,
-        "rd": 65,
-        "prog": -17
+        "games": 402,
+        "rating": 1656,
+        "rd": 51,
+        "prog": 14
       },
       "correspondence": {
         "games": 0,
@@ -72,63 +70,65 @@
         "prov": true
       },
       "horde": {
-        "games": 5,
-        "rating": 2037,
-        "rd": 259,
+        "games": 9,
+        "rating": 1880,
+        "rd": 209,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 2,
-        "rating": 2219,
-        "rd": 394,
-        "prog": 0,
-        "prov": true
+        "games": 42,
+        "rating": 1976,
+        "rd": 85,
+        "prog": 0
       },
       "classical": {
-        "games": 20,
-        "rating": 2049,
-        "rd": 109,
-        "prog": 118
+        "games": 21,
+        "rating": 2040,
+        "rd": 117,
+        "prog": 109,
+        "prov": true
       },
       "rapid": {
-        "games": 68,
-        "rating": 2073,
-        "rd": 67,
+        "games": 108,
+        "rating": 2028,
+        "rd": 65,
         "prog": 0
       },
       "streak": {
-        "runs": 15,
-        "score": 27
+        "runs": 66,
+        "score": 41
       }
     },
     "createdAt": 1619860950516,
     "profile": {
       "country": "IN",
       "location": "Palakkad, Kerala",
-      "bio": "My own BOT @dasneer\r\nPlease follow him",
+      "bio": "My BOTS\r\nlichess.org/@/neer15\r\nlichess.org/@/das15\r\nlichess.org/@/dasneer",
       "firstName": "Neeraj",
-      "lastName": "das"
+      "lastName": "das",
+      "links": "https://www.youtube.com/channel/UCpZ098-JnNNGo3NLn-Es-_g"
     },
-    "seenAt": 1620578476889,
+    "seenAt": 1624266228876,
     "playTime": {
-      "total": 112261,
-      "tv": 0
+      "total": 243041,
+      "tv": 2273
     },
     "language": "en-US",
     "url": "https://lichess.org/@/neerdas",
-    "nbFollowing": 15,
-    "nbFollowers": 7,
+    "nbFollowing": 297,
+    "nbFollowers": 9,
+    "completionRate": 80,
     "count": {
-      "all": 232,
-      "rated": 213,
-      "ai": 0,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 48,
-      "lossH": 48,
-      "win": 182,
-      "winH": 182,
+      "all": 818,
+      "rated": 763,
+      "ai": 2,
+      "draw": 15,
+      "drawH": 15,
+      "loss": 297,
+      "lossH": 296,
+      "win": 506,
+      "winH": 505,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
