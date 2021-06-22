@@ -4,24 +4,31 @@
   "username": "Atharv_Is_GM",
   "profileUrl": "https://lichess.org/@/Atharv_Is_GM",
   "provider": "lichess",
-  "_raw": "{\"id\":\"atharv_is_gm\",\"username\":\"Atharv_Is_GM\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616752746728,\"seenAt\":1616752776554,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Atharv_Is_GM\",\"nbFollowing\":4,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"atharv_is_gm\",\"username\":\"Atharv_Is_GM\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2388,\"rd\":239,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":2038,\"rd\":247,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2165,\"rd\":135,\"prog\":-43,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2423,\"rd\":282,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2602,\"rd\":215,\"prog\":0,\"prov\":true}},\"createdAt\":1616752746728,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/UqT8fPQrWYxavdbCzJ/giphy.gif\\r\\nHello , I Am A Bot . Feel Free To Challenge Me When I Am Online . But Challenge Me Only Bullet , Blitz , Rapid , Classical And Atomic. Soon..... I Will All Play Variants . You Can Only Challenge Me Casual . But I Can Challenge You Rated .\"},\"seenAt\":1624343424806,\"playTime\":{\"total\":17676,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Atharv_Is_GM\",\"nbFollowing\":4,\"nbFollowers\":3,\"count\":{\"all\":86,\"rated\":33,\"ai\":21,\"draw\":5,\"drawH\":4,\"loss\":10,\"lossH\":6,\"win\":71,\"winH\":55,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "atharv_is_gm",
     "username": "Atharv_Is_GM",
-    "online": false,
+    "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2388,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 2038,
+        "rd": 247,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 16,
+        "rating": 2165,
+        "rd": 135,
+        "prog": -43,
         "prov": true
       },
       "correspondence": {
@@ -32,40 +39,45 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2423,
+        "rd": 282,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2602,
+        "rd": 215,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616752746728,
-    "seenAt": 1616752776554,
+    "profile": {
+      "country": "_lichess",
+      "bio": "https://media.giphy.com/media/UqT8fPQrWYxavdbCzJ/giphy.gif\r\nHello , I Am A Bot . Feel Free To Challenge Me When I Am Online . But Challenge Me Only Bullet , Blitz , Rapid , Classical And Atomic. Soon..... I Will All Play Variants . You Can Only Challenge Me Casual . But I Can Challenge You Rated ."
+    },
+    "seenAt": 1624343424806,
     "playTime": {
-      "total": 0,
+      "total": 17676,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Atharv_Is_GM",
     "nbFollowing": 4,
-    "nbFollowers": 0,
+    "nbFollowers": 3,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 86,
+      "rated": 33,
+      "ai": 21,
+      "draw": 5,
+      "drawH": 4,
+      "loss": 10,
+      "lossH": 6,
+      "win": 71,
+      "winH": 55,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
