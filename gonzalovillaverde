@@ -1,0 +1,150 @@
+{
+  "id": "gonzalovillaverde",
+  "displayName": "GonzaloVillaverde",
+  "username": "GonzaloVillaverde",
+  "profileUrl": "https://lichess.org/@/GonzaloVillaverde",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"gonzalovillaverde\",\"username\":\"GonzaloVillaverde\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":38,\"rating\":1483,\"rd\":105,\"prog\":38},\"antichess\":{\"games\":164,\"rating\":1416,\"rd\":82,\"prog\":-58},\"atomic\":{\"games\":87,\"rating\":1254,\"rd\":84,\"prog\":-50},\"racingKings\":{\"games\":173,\"rating\":1767,\"rd\":69,\"prog\":-23},\"ultraBullet\":{\"games\":955,\"rating\":1307,\"rd\":60,\"prog\":-26},\"blitz\":{\"games\":1957,\"rating\":1872,\"rd\":46,\"prog\":7},\"kingOfTheHill\":{\"games\":8,\"rating\":1650,\"rd\":156,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":190,\"rating\":1533,\"rd\":69,\"prog\":54},\"threeCheck\":{\"games\":60,\"rating\":1447,\"rd\":96,\"prog\":-66},\"bullet\":{\"games\":1024,\"rating\":1749,\"rd\":50,\"prog\":-28},\"correspondence\":{\"games\":8,\"rating\":1772,\"rd\":159,\"prog\":0,\"prov\":true},\"horde\":{\"games\":8,\"rating\":1603,\"rd\":149,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":777,\"rating\":2276,\"rd\":88,\"prog\":0},\"classical\":{\"games\":130,\"rating\":1772,\"rd\":66,\"prog\":5},\"rapid\":{\"games\":1335,\"rating\":1866,\"rd\":47,\"prog\":3},\"storm\":{\"runs\":7,\"score\":38},\"racer\":{\"runs\":7,\"score\":42}},\"createdAt\":1557082064097,\"profile\":{\"country\":\"PE\"},\"seenAt\":1624489573257,\"playTime\":{\"total\":1784078,\"tv\":6774},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/GonzaloVillaverde\",\"nbFollowing\":26,\"nbFollowers\":30,\"completionRate\":93,\"count\":{\"all\":6427,\"rated\":6194,\"ai\":56,\"draw\":228,\"drawH\":225,\"loss\":3293,\"lossH\":3256,\"win\":2906,\"winH\":2890,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "gonzalovillaverde",
+    "username": "GonzaloVillaverde",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 38,
+        "rating": 1483,
+        "rd": 105,
+        "prog": 38
+      },
+      "antichess": {
+        "games": 164,
+        "rating": 1416,
+        "rd": 82,
+        "prog": -58
+      },
+      "atomic": {
+        "games": 87,
+        "rating": 1254,
+        "rd": 84,
+        "prog": -50
+      },
+      "racingKings": {
+        "games": 173,
+        "rating": 1767,
+        "rd": 69,
+        "prog": -23
+      },
+      "ultraBullet": {
+        "games": 955,
+        "rating": 1307,
+        "rd": 60,
+        "prog": -26
+      },
+      "blitz": {
+        "games": 1957,
+        "rating": 1872,
+        "rd": 46,
+        "prog": 7
+      },
+      "kingOfTheHill": {
+        "games": 8,
+        "rating": 1650,
+        "rd": 156,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 190,
+        "rating": 1533,
+        "rd": 69,
+        "prog": 54
+      },
+      "threeCheck": {
+        "games": 60,
+        "rating": 1447,
+        "rd": 96,
+        "prog": -66
+      },
+      "bullet": {
+        "games": 1024,
+        "rating": 1749,
+        "rd": 50,
+        "prog": -28
+      },
+      "correspondence": {
+        "games": 8,
+        "rating": 1772,
+        "rd": 159,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 8,
+        "rating": 1603,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 777,
+        "rating": 2276,
+        "rd": 88,
+        "prog": 0
+      },
+      "classical": {
+        "games": 130,
+        "rating": 1772,
+        "rd": 66,
+        "prog": 5
+      },
+      "rapid": {
+        "games": 1335,
+        "rating": 1866,
+        "rd": 47,
+        "prog": 3
+      },
+      "storm": {
+        "runs": 7,
+        "score": 38
+      },
+      "racer": {
+        "runs": 7,
+        "score": 42
+      }
+    },
+    "createdAt": 1557082064097,
+    "profile": {
+      "country": "PE"
+    },
+    "seenAt": 1624489573257,
+    "playTime": {
+      "total": 1784078,
+      "tv": 6774
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/GonzaloVillaverde",
+    "nbFollowing": 26,
+    "nbFollowers": 30,
+    "completionRate": 93,
+    "count": {
+      "all": 6427,
+      "rated": 6194,
+      "ai": 56,
+      "draw": 228,
+      "drawH": 225,
+      "loss": 3293,
+      "lossH": 3256,
+      "win": 2906,
+      "winH": 2890,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
