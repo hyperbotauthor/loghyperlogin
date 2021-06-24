@@ -1,0 +1,85 @@
+{
+  "id": "thestockfish12bot",
+  "displayName": "thestockfish12bot",
+  "username": "thestockfish12bot",
+  "profileUrl": "https://lichess.org/@/thestockfish12bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thestockfish12bot\",\"username\":\"thestockfish12bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":33,\"rating\":2601,\"rd\":129,\"prog\":-4,\"prov\":true},\"bullet\":{\"games\":88,\"rating\":2354,\"rd\":95,\"prog\":-34},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":489,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2529,\"rd\":179,\"prog\":0,\"prov\":true}},\"createdAt\":1609753961828,\"profile\":{\"bio\":\"This is muhammed-enis-almis's bot written via python uses Stockfish 12\",\"firstName\":\"Enis\",\"lastName\":\"Almiş\"},\"seenAt\":1624564014046,\"playTime\":{\"total\":60820,\"tv\":18987},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/thestockfish12bot\",\"nbFollowing\":12,\"nbFollowers\":18,\"count\":{\"all\":241,\"rated\":134,\"ai\":43,\"draw\":40,\"drawH\":36,\"loss\":85,\"lossH\":59,\"win\":116,\"winH\":103,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thestockfish12bot",
+    "username": "thestockfish12bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 33,
+        "rating": 2601,
+        "rd": 129,
+        "prog": -4,
+        "prov": true
+      },
+      "bullet": {
+        "games": 88,
+        "rating": 2354,
+        "rd": 95,
+        "prog": -34
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 2221,
+        "rd": 489,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2529,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1609753961828,
+    "profile": {
+      "bio": "This is muhammed-enis-almis's bot written via python uses Stockfish 12",
+      "firstName": "Enis",
+      "lastName": "Almiş"
+    },
+    "seenAt": 1624564014046,
+    "playTime": {
+      "total": 60820,
+      "tv": 18987
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/thestockfish12bot",
+    "nbFollowing": 12,
+    "nbFollowers": 18,
+    "count": {
+      "all": 241,
+      "rated": 134,
+      "ai": 43,
+      "draw": 40,
+      "drawH": 36,
+      "loss": 85,
+      "lossH": 59,
+      "win": 116,
+      "winH": 103,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
