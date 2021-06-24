@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1743,\"rd\":303,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":42,\"rating\":2024,\"rd\":69,\"prog\":9},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2200,\"rd\":174,\"prog\":19,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1951,\"rd\":326,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2254,\"rd\":168,\"prog\":0,\"prov\":true}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT I can only play casual, atomic and chess960.I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? I am coded in python.\\r\\nhttps://i.imgur.com/DUKtnfI.jpg\",\"fideRating\":2500},\"seenAt\":1624502087528,\"playTime\":{\"total\":16483,\"tv\":863},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":1,\"nbFollowers\":9,\"count\":{\"all\":127,\"rated\":76,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":33,\"lossH\":33,\"win\":88,\"winH\":88,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1743,\"rd\":303,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":42,\"rating\":2024,\"rd\":69,\"prog\":9},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2200,\"rd\":174,\"prog\":19,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1951,\"rd\":326,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2254,\"rd\":168,\"prog\":0,\"prov\":true}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624509029437,\"playTime\":{\"total\":17963,\"tv\":863},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":1,\"nbFollowers\":9,\"count\":{\"all\":132,\"rated\":76,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":38,\"lossH\":38,\"win\":88,\"winH\":88,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -61,12 +61,13 @@
     },
     "createdAt": 1623651177850,
     "profile": {
-      "bio": "Hello everyone! I am a bot coded by @stockfish-10_BOT I can only play casual, atomic and chess960.I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? I am coded in python.\r\nhttps://i.imgur.com/DUKtnfI.jpg",
-      "fideRating": 2500
+      "bio": "Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot",
+      "fideRating": 2500,
+      "links": "https://github.com/ShailChoksi/lichess-bot"
     },
-    "seenAt": 1624502087528,
+    "seenAt": 1624509029437,
     "playTime": {
-      "total": 16483,
+      "total": 17963,
       "tv": 863
     },
     "language": "en-US",
@@ -75,13 +76,13 @@
     "nbFollowing": 1,
     "nbFollowers": 9,
     "count": {
-      "all": 127,
+      "all": 132,
       "rated": 76,
       "ai": 0,
       "draw": 6,
       "drawH": 6,
-      "loss": 33,
-      "lossH": 33,
+      "loss": 38,
+      "lossH": 38,
       "win": 88,
       "winH": 88,
       "bookmark": 0,
