@@ -4,16 +4,23 @@
   "username": "WearySyrupBOT",
   "profileUrl": "https://lichess.org/@/WearySyrupBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wearysyrupbot\",\"username\":\"WearySyrupBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1833,\"rd\":347,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1958,\"rd\":363,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1970,\"rd\":249,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1617,\"rd\":252,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":2518,\"rd\":130,\"prog\":-77,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1322,\"rd\":287,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1395,\"rd\":360,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":107,\"rating\":2195,\"rd\":45,\"prog\":-6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1917,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":2384,\"rd\":139,\"prog\":17,\"prov\":true}},\"createdAt\":1624532169451,\"profile\":{\"fideRating\":2303,\"uscfRating\":2331,\"ecfRating\":2311,\"rcfRating\":2312,\"cfcRating\":1232,\"dsbRating\":2309},\"seenAt\":1624623134301,\"playTime\":{\"total\":23597,\"tv\":2210},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WearySyrupBOT\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":189,\"rated\":166,\"ai\":1,\"draw\":17,\"drawH\":17,\"loss\":37,\"lossH\":36,\"win\":135,\"winH\":135,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wearysyrupbot\",\"username\":\"WearySyrupBOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1477,\"rd\":467,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1740,\"rd\":264,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1958,\"rd\":363,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1970,\"rd\":249,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1617,\"rd\":252,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2535,\"rd\":125,\"prog\":-61,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1322,\"rd\":287,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1395,\"rd\":360,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":118,\"rating\":2185,\"rd\":45,\"prog\":-10},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1917,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2325,\"rd\":130,\"prog\":-41,\"prov\":true}},\"createdAt\":1624532169451,\"profile\":{\"fideRating\":2303,\"uscfRating\":2331,\"ecfRating\":2311,\"rcfRating\":2312,\"cfcRating\":1232,\"dsbRating\":2309},\"seenAt\":1624633250079,\"playTime\":{\"total\":25899,\"tv\":2396},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WearySyrupBOT\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":208,\"rated\":183,\"ai\":1,\"draw\":17,\"drawH\":17,\"loss\":47,\"lossH\":46,\"win\":144,\"winH\":144,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wearysyrupbot",
     "username": "WearySyrupBOT",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1477,
+        "rd": 467,
+        "prog": 0,
+        "prov": true
+      },
       "antichess": {
-        "games": 2,
-        "rating": 1833,
-        "rd": 347,
+        "games": 4,
+        "rating": 1740,
+        "rd": 264,
         "prog": 0,
         "prov": true
       },
@@ -39,10 +46,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 13,
-        "rating": 2518,
-        "rd": 130,
-        "prog": -77,
+        "games": 15,
+        "rating": 2535,
+        "rd": 125,
+        "prog": -61,
         "prov": true
       },
       "kingOfTheHill": {
@@ -67,10 +74,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 107,
-        "rating": 2195,
+        "games": 118,
+        "rating": 2185,
         "rd": 45,
-        "prog": -6
+        "prog": -10
       },
       "correspondence": {
         "games": 0,
@@ -87,10 +94,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 14,
-        "rating": 2384,
-        "rd": 139,
-        "prog": 17,
+        "games": 15,
+        "rating": 2325,
+        "rd": 130,
+        "prog": -41,
         "prov": true
       }
     },
@@ -103,10 +110,10 @@
       "cfcRating": 1232,
       "dsbRating": 2309
     },
-    "seenAt": 1624623134301,
+    "seenAt": 1624633250079,
     "playTime": {
-      "total": 23597,
-      "tv": 2210
+      "total": 25899,
+      "tv": 2396
     },
     "language": "en-US",
     "title": "BOT",
@@ -114,15 +121,15 @@
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 189,
-      "rated": 166,
+      "all": 208,
+      "rated": 183,
       "ai": 1,
       "draw": 17,
       "drawH": 17,
-      "loss": 37,
-      "lossH": 36,
-      "win": 135,
-      "winH": 135,
+      "loss": 47,
+      "lossH": 46,
+      "win": 144,
+      "winH": 144,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
