@@ -1,0 +1,81 @@
+{
+  "id": "chesseftal",
+  "displayName": "ChessEftal",
+  "username": "ChessEftal",
+  "profileUrl": "https://lichess.org/@/ChessEftal",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chesseftal\",\"username\":\"ChessEftal\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1567,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1462,\"rd\":179,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1980,\"rd\":199,\"prog\":0,\"prov\":true}},\"createdAt\":1592389746963,\"seenAt\":1624630804203,\"playTime\":{\"total\":14692,\"tv\":3928},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ChessEftal\",\"nbFollowing\":15,\"nbFollowers\":8,\"count\":{\"all\":62,\"rated\":20,\"ai\":13,\"draw\":6,\"drawH\":4,\"loss\":32,\"lossH\":25,\"win\":24,\"winH\":20,\"bookmark\":11,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chesseftal",
+    "username": "ChessEftal",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1567,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 1462,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1980,
+        "rd": 199,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1592389746963,
+    "seenAt": 1624630804203,
+    "playTime": {
+      "total": 14692,
+      "tv": 3928
+    },
+    "language": "tr-TR",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ChessEftal",
+    "nbFollowing": 15,
+    "nbFollowers": 8,
+    "count": {
+      "all": 62,
+      "rated": 20,
+      "ai": 13,
+      "draw": 6,
+      "drawH": 4,
+      "loss": 32,
+      "lossH": 25,
+      "win": 24,
+      "winH": 20,
+      "bookmark": 11,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
