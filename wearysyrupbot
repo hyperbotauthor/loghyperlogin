@@ -4,7 +4,7 @@
   "username": "WearySyrupBOT",
   "profileUrl": "https://lichess.org/@/WearySyrupBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wearysyrupbot\",\"username\":\"WearySyrupBOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1707,\"rd\":380,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1740,\"rd\":264,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1958,\"rd\":363,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":2084,\"rd\":203,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1617,\"rd\":252,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2535,\"rd\":125,\"prog\":-61,\"prov\":true},\"kingOfTheHill\":{\"games\":3,\"rating\":1458,\"rd\":264,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":316,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":120,\"rating\":2174,\"rd\":45,\"prog\":-22},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1917,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2325,\"rd\":130,\"prog\":-41,\"prov\":true}},\"createdAt\":1624532169451,\"profile\":{\"fideRating\":2303,\"uscfRating\":2331,\"ecfRating\":2311,\"rcfRating\":2312,\"cfcRating\":1232,\"dsbRating\":2309},\"seenAt\":1624658479576,\"playTime\":{\"total\":27810,\"tv\":2674},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WearySyrupBOT\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":214,\"rated\":189,\"ai\":1,\"draw\":17,\"drawH\":17,\"loss\":49,\"lossH\":48,\"win\":148,\"winH\":148,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wearysyrupbot\",\"username\":\"WearySyrupBOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1707,\"rd\":380,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":1740,\"rd\":264,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1958,\"rd\":363,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":2084,\"rd\":203,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1617,\"rd\":252,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":2537,\"rd\":124,\"prog\":-58,\"prov\":true},\"kingOfTheHill\":{\"games\":3,\"rating\":1458,\"rd\":264,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1573,\"rd\":316,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":120,\"rating\":2174,\"rd\":45,\"prog\":-22},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1917,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2325,\"rd\":130,\"prog\":-41,\"prov\":true}},\"createdAt\":1624532169451,\"profile\":{\"fideRating\":2303,\"uscfRating\":2331,\"ecfRating\":2311,\"rcfRating\":2312,\"cfcRating\":1232,\"dsbRating\":2309},\"seenAt\":1624663877515,\"playTime\":{\"total\":28087,\"tv\":2674},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/WearySyrupBOT\",\"playing\":\"https://lichess.org/PFRlxBLC/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":215,\"rated\":190,\"ai\":1,\"draw\":17,\"drawH\":17,\"loss\":49,\"lossH\":48,\"win\":149,\"winH\":149,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wearysyrupbot",
     "username": "WearySyrupBOT",
@@ -46,10 +46,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 15,
-        "rating": 2535,
-        "rd": 125,
-        "prog": -61,
+        "games": 16,
+        "rating": 2537,
+        "rd": 124,
+        "prog": -58,
         "prov": true
       },
       "kingOfTheHill": {
@@ -110,28 +110,29 @@
       "cfcRating": 1232,
       "dsbRating": 2309
     },
-    "seenAt": 1624658479576,
+    "seenAt": 1624663877515,
     "playTime": {
-      "total": 27810,
+      "total": 28087,
       "tv": 2674
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/WearySyrupBOT",
+    "playing": "https://lichess.org/PFRlxBLC/white",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 214,
-      "rated": 189,
+      "all": 215,
+      "rated": 190,
       "ai": 1,
       "draw": 17,
       "drawH": 17,
       "loss": 49,
       "lossH": 48,
-      "win": 148,
-      "winH": 148,
+      "win": 149,
+      "winH": 149,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
