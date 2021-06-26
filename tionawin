@@ -4,12 +4,19 @@
   "username": "Tionawin",
   "profileUrl": "https://lichess.org/@/Tionawin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624714378713,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Tionawin\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1616,\"rd\":368,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1463,\"rd\":450,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":404,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2028,\"rd\":340,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2450,\"rd\":156,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624749542500,\"playTime\":{\"total\":4749,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tionawin\",\"playing\":\"https://lichess.org/1OqCs8BK/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":12,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tionawin",
     "username": "Tionawin",
     "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1616,
+        "rd": 368,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 0,
         "rating": 1500,
@@ -17,17 +24,24 @@
         "prog": 0,
         "prov": true
       },
+      "atomic": {
+        "games": 1,
+        "rating": 1463,
+        "rd": 450,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2214,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2028,
+        "rd": 340,
         "prog": 0,
         "prov": true
       },
@@ -39,35 +53,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 2450,
+        "rd": 156,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1624714191872,
-    "seenAt": 1624714378713,
+    "seenAt": 1624749542500,
     "playTime": {
-      "total": 0,
+      "total": 4749,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Tionawin",
+    "playing": "https://lichess.org/1OqCs8BK/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 13,
+      "rated": 12,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
