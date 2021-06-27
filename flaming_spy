@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":46,\"rating\":2023,\"rd\":66,\"prog\":-14},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1951,\"rd\":327,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2307,\"rd\":148,\"prog\":16,\"prov\":true}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624715243962,\"playTime\":{\"total\":23545,\"tv\":1670},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":3,\"nbFollowers\":9,\"count\":{\"all\":153,\"rated\":86,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":44,\"lossH\":44,\"win\":102,\"winH\":102,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":46,\"rating\":2023,\"rd\":66,\"prog\":-14},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1951,\"rd\":327,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2359,\"rd\":127,\"prog\":69,\"prov\":true}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624772536764,\"playTime\":{\"total\":25015,\"tv\":1670},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":3,\"nbFollowers\":10,\"count\":{\"all\":156,\"rated\":88,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":45,\"lossH\":45,\"win\":103,\"winH\":103,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -52,10 +52,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 13,
-        "rating": 2307,
-        "rd": 148,
-        "prog": 16,
+        "games": 15,
+        "rating": 2359,
+        "rd": 127,
+        "prog": 69,
         "prov": true
       }
     },
@@ -65,26 +65,26 @@
       "fideRating": 2500,
       "links": "https://github.com/ShailChoksi/lichess-bot"
     },
-    "seenAt": 1624715243962,
+    "seenAt": 1624772536764,
     "playTime": {
-      "total": 23545,
+      "total": 25015,
       "tv": 1670
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Flaming_spy",
     "nbFollowing": 3,
-    "nbFollowers": 9,
+    "nbFollowers": 10,
     "count": {
-      "all": 153,
-      "rated": 86,
+      "all": 156,
+      "rated": 88,
       "ai": 0,
-      "draw": 7,
-      "drawH": 7,
-      "loss": 44,
-      "lossH": 44,
-      "win": 102,
-      "winH": 102,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 45,
+      "lossH": 45,
+      "win": 103,
+      "winH": 103,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
