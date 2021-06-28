@@ -4,11 +4,11 @@
   "username": "Tionawin",
   "profileUrl": "https://lichess.org/@/Tionawin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1665,\"rd\":327,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1735,\"rd\":280,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2404,\"rd\":228,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1758,\"rd\":297,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1479,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2327,\"rd\":205,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2145,\"rd\":246,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2460,\"rd\":153,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624816708928,\"playTime\":{\"total\":12143,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tionawin\",\"playing\":\"https://lichess.org/bRlpbybL/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":43,\"rated\":38,\"ai\":4,\"draw\":5,\"drawH\":5,\"loss\":13,\"lossH\":10,\"win\":25,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1665,\"rd\":327,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1735,\"rd\":280,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2404,\"rd\":229,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1758,\"rd\":297,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1479,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2320,\"rd\":166,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2145,\"rd\":246,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2460,\"rd\":153,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624827423600,\"playTime\":{\"total\":12365,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tionawin\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":46,\"rated\":41,\"ai\":4,\"draw\":5,\"drawH\":5,\"loss\":14,\"lossH\":11,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tionawin",
     "username": "Tionawin",
-    "online": true,
+    "online": false,
     "perfs": {
       "chess960": {
         "games": 2,
@@ -27,7 +27,7 @@
       "blitz": {
         "games": 5,
         "rating": 2404,
-        "rd": 228,
+        "rd": 229,
         "prog": 0,
         "prov": true
       },
@@ -46,9 +46,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 2327,
-        "rd": 205,
+        "games": 7,
+        "rating": 2320,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
@@ -75,29 +75,28 @@
       }
     },
     "createdAt": 1624714191872,
-    "seenAt": 1624816708928,
+    "seenAt": 1624827423600,
     "playTime": {
-      "total": 12143,
+      "total": 12365,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Tionawin",
-    "playing": "https://lichess.org/bRlpbybL/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 43,
-      "rated": 38,
+      "all": 46,
+      "rated": 41,
       "ai": 4,
       "draw": 5,
       "drawH": 5,
-      "loss": 13,
-      "lossH": 10,
-      "win": 25,
-      "winH": 24,
+      "loss": 14,
+      "lossH": 11,
+      "win": 27,
+      "winH": 26,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
