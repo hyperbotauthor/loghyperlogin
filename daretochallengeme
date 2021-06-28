@@ -4,23 +4,23 @@
   "username": "daretochallengeme",
   "profileUrl": "https://lichess.org/@/daretochallengeme",
   "provider": "lichess",
-  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"daretochallengeme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2357,\"rd\":162,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2160,\"rd\":144,\"prog\":97,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":422,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"seenAt\":1623667758330,\"playTime\":{\"total\":5934,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/daretochallengeme\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":42,\"rated\":22,\"ai\":8,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":7,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"daretochallengeme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2297,\"rd\":160,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2160,\"rd\":147,\"prog\":97,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":423,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"seenAt\":1624866648394,\"playTime\":{\"total\":6204,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/daretochallengeme\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":43,\"rated\":23,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":14,\"lossH\":7,\"win\":27,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "daretochallengeme",
     "username": "daretochallengeme",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2357,
-        "rd": 162,
+        "games": 9,
+        "rating": 2297,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 13,
         "rating": 2160,
-        "rd": 144,
+        "rd": 147,
         "prog": 97,
         "prov": true
       },
@@ -41,28 +41,28 @@
       "rapid": {
         "games": 1,
         "rating": 2256,
-        "rd": 422,
+        "rd": 423,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616774039995,
-    "seenAt": 1623667758330,
+    "seenAt": 1624866648394,
     "playTime": {
-      "total": 5934,
+      "total": 6204,
       "tv": 348
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/daretochallengeme",
     "nbFollowing": 0,
-    "nbFollowers": 4,
+    "nbFollowers": 3,
     "count": {
-      "all": 42,
-      "rated": 22,
+      "all": 43,
+      "rated": 23,
       "ai": 8,
-      "draw": 1,
-      "drawH": 1,
+      "draw": 2,
+      "drawH": 2,
       "loss": 14,
       "lossH": 7,
       "win": 27,
