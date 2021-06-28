@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":65,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2412,\"rd\":103,\"prog\":120}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624797643786,\"playTime\":{\"total\":33271,\"tv\":5864},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":4,\"nbFollowers\":12,\"count\":{\"all\":171,\"rated\":95,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":50,\"lossH\":50,\"win\":113,\"winH\":113,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":66,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2412,\"rd\":104,\"prog\":122}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT  and @ChessGreatPlayer. I can play standard only, rated and casual. \\r\\nI am currently being developed, I am currently using Stockfish 12 I will be using stockfish13 + very soon!\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624885350874,\"playTime\":{\"total\":33875,\"tv\":5864},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":5,\"nbFollowers\":12,\"count\":{\"all\":172,\"rated\":96,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":50,\"lossH\":50,\"win\":114,\"winH\":114,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -20,7 +20,7 @@
       "blitz": {
         "games": 47,
         "rating": 2036,
-        "rd": 65,
+        "rd": 66,
         "prog": -8
       },
       "atomic": {
@@ -52,38 +52,38 @@
         "prov": true
       },
       "rapid": {
-        "games": 19,
+        "games": 20,
         "rating": 2412,
-        "rd": 103,
-        "prog": 120
+        "rd": 104,
+        "prog": 122
       }
     },
     "createdAt": 1623651177850,
     "profile": {
-      "bio": "Hello everyone! I am a bot coded by @stockfish-10_BOT I can play standard and variants rated and casual. I will give you a tough fight. @Stockfish-10_BOT is really working on improving and coding me so when I am online do challenge me! If I am offline you can challenge me to     correspondence and I will accept when I am online! So... are you ready? Repo- https://github.com/ShailChoksi/lichess-bot",
+      "bio": "Hello everyone! I am a bot coded by @stockfish-10_BOT  and @ChessGreatPlayer. I can play standard only, rated and casual. \r\nI am currently being developed, I am currently using Stockfish 12 I will be using stockfish13 + very soon!",
       "fideRating": 2500,
       "links": "https://github.com/ShailChoksi/lichess-bot"
     },
-    "seenAt": 1624797643786,
+    "seenAt": 1624885350874,
     "playTime": {
-      "total": 33271,
+      "total": 33875,
       "tv": 5864
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Flaming_spy",
-    "nbFollowing": 4,
+    "nbFollowing": 5,
     "nbFollowers": 12,
     "count": {
-      "all": 171,
-      "rated": 95,
+      "all": 172,
+      "rated": 96,
       "ai": 0,
       "draw": 8,
       "drawH": 8,
       "loss": 50,
       "lossH": 50,
-      "win": 113,
-      "winH": 113,
+      "win": 114,
+      "winH": 114,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
