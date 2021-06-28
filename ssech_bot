@@ -1,0 +1,84 @@
+{
+  "id": "ssech_bot",
+  "displayName": "Ssech_BOT",
+  "username": "Ssech_BOT",
+  "profileUrl": "https://lichess.org/@/Ssech_BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ssech_bot\",\"username\":\"Ssech_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2308,\"rd\":153,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":1889,\"rd\":96,\"prog\":-71},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624802414762,\"profile\":{\"bio\":\"Hello I am Ssech_BOT , anyone can play with me any time . You can play Blitz , Rapid or you can also try bullet .\\r\\nI will be extremely happy if you play with me . And I want all of you guys to try playing with me . \\r\\n:) \\r\\nOperator : ditchess\"},\"seenAt\":1624880520596,\"playTime\":{\"total\":5694,\"tv\":54},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Ssech_BOT\",\"playing\":\"https://lichess.org/NjbSMC6o/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":48,\"rated\":40,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":9,\"lossH\":9,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ssech_bot",
+    "username": "Ssech_BOT",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 2308,
+        "rd": 153,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 24,
+        "rating": 1889,
+        "rd": 96,
+        "prog": -71
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1624802414762,
+    "profile": {
+      "bio": "Hello I am Ssech_BOT , anyone can play with me any time . You can play Blitz , Rapid or you can also try bullet .\r\nI will be extremely happy if you play with me . And I want all of you guys to try playing with me . \r\n:) \r\nOperator : ditchess"
+    },
+    "seenAt": 1624880520596,
+    "playTime": {
+      "total": 5694,
+      "tv": 54
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Ssech_BOT",
+    "playing": "https://lichess.org/NjbSMC6o/white",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 48,
+      "rated": 40,
+      "ai": 0,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 9,
+      "lossH": 9,
+      "win": 31,
+      "winH": 31,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
