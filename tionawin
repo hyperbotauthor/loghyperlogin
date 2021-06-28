@@ -4,7 +4,7 @@
   "username": "Tionawin",
   "profileUrl": "https://lichess.org/@/Tionawin",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1665,\"rd\":327,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1735,\"rd\":280,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2454,\"rd\":202,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1758,\"rd\":297,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1479,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2214,\"rd\":150,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2145,\"rd\":246,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2468,\"rd\":150,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624893405115,\"playTime\":{\"total\":13433,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tionawin\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":50,\"rated\":45,\"ai\":4,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":12,\"win\":30,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tionawin\",\"username\":\"Tionawin\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1665,\"rd\":327,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1735,\"rd\":280,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2454,\"rd\":202,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1758,\"rd\":297,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1479,\"rd\":472,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2226,\"rd\":145,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2145,\"rd\":246,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2468,\"rd\":150,\"prog\":0,\"prov\":true}},\"createdAt\":1624714191872,\"seenAt\":1624900008129,\"playTime\":{\"total\":13630,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tionawin\",\"playing\":\"https://lichess.org/9uB4ps1s/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":52,\"rated\":47,\"ai\":4,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":12,\"win\":32,\"winH\":31,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tionawin",
     "username": "Tionawin",
@@ -46,9 +46,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 2214,
-        "rd": 150,
+        "games": 11,
+        "rating": 2226,
+        "rd": 145,
         "prog": 0,
         "prov": true
       },
@@ -75,28 +75,29 @@
       }
     },
     "createdAt": 1624714191872,
-    "seenAt": 1624893405115,
+    "seenAt": 1624900008129,
     "playTime": {
-      "total": 13433,
+      "total": 13630,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Tionawin",
+    "playing": "https://lichess.org/9uB4ps1s/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 50,
-      "rated": 45,
+      "all": 52,
+      "rated": 47,
       "ai": 4,
       "draw": 5,
       "drawH": 5,
       "loss": 15,
       "lossH": 12,
-      "win": 30,
-      "winH": 29,
+      "win": 32,
+      "winH": 31,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
