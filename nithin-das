@@ -4,7 +4,7 @@
   "username": "Nithin-das",
   "profileUrl": "https://lichess.org/@/Nithin-das",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2136,\"rd\":182,\"prog\":0,\"prov\":true}},\"createdAt\":1620460522765,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for rapid games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1623838329386,\"playTime\":{\"total\":14322,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithin-das\",\"playing\":\"https://lichess.org/DG6tHzE2/white\",\"nbFollowing\":5,\"nbFollowers\":5,\"count\":{\"all\":19,\"rated\":9,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":1,\"lossH\":1,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2178,\"rd\":166,\"prog\":0,\"prov\":true}},\"createdAt\":1620460522765,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for rapid games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1624860015101,\"playTime\":{\"total\":15906,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithin-das\",\"nbFollowing\":6,\"nbFollowers\":5,\"count\":{\"all\":21,\"rated\":11,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":1,\"lossH\":1,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nithin-das",
     "username": "Nithin-das",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 2136,
-        "rd": 182,
+        "games": 10,
+        "rating": 2178,
+        "rd": 166,
         "prog": 0,
         "prov": true
       }
@@ -55,29 +55,28 @@
       "lastName": "das (BOT)",
       "links": "https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA"
     },
-    "seenAt": 1623838329386,
+    "seenAt": 1624860015101,
     "playTime": {
-      "total": 14322,
+      "total": 15906,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Nithin-das",
-    "playing": "https://lichess.org/DG6tHzE2/white",
-    "nbFollowing": 5,
+    "nbFollowing": 6,
     "nbFollowers": 5,
     "count": {
-      "all": 19,
-      "rated": 9,
+      "all": 21,
+      "rated": 11,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
       "loss": 1,
       "lossH": 1,
-      "win": 14,
-      "winH": 14,
+      "win": 16,
+      "winH": 16,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
