@@ -4,11 +4,11 @@
   "username": "Chlorophyll21111212",
   "profileUrl": "https://lichess.org/@/Chlorophyll21111212",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chlorophyll21111212\",\"username\":\"Chlorophyll21111212\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":2217,\"rd\":108,\"prog\":-200},\"bullet\":{\"games\":3,\"rating\":1827,\"rd\":246,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2314,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1624279718380,\"seenAt\":1624704027845,\"playTime\":{\"total\":29419,\"tv\":236},\"language\":\"vi-VN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chlorophyll21111212\",\"playing\":\"https://lichess.org/RSlzHIiB/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":164,\"rated\":37,\"ai\":107,\"draw\":21,\"drawH\":10,\"loss\":73,\"lossH\":15,\"win\":70,\"winH\":32,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chlorophyll21111212\",\"username\":\"Chlorophyll21111212\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":2217,\"rd\":108,\"prog\":-200},\"bullet\":{\"games\":4,\"rating\":1816,\"rd\":239,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2314,\"rd\":226,\"prog\":0,\"prov\":true}},\"createdAt\":1624279718380,\"profile\":{\"country\":\"VN\"},\"seenAt\":1624725100279,\"playTime\":{\"total\":29793,\"tv\":236},\"language\":\"vi-VN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chlorophyll21111212\",\"playing\":\"https://lichess.org/7pOfMRrD/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":168,\"rated\":38,\"ai\":108,\"draw\":22,\"drawH\":11,\"loss\":75,\"lossH\":16,\"win\":71,\"winH\":33,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chlorophyll21111212",
     "username": "Chlorophyll21111212",
-    "online": true,
+    "online": false,
     "perfs": {
       "blitz": {
         "games": 23,
@@ -17,9 +17,9 @@
         "prog": -200
       },
       "bullet": {
-        "games": 3,
-        "rating": 1827,
-        "rd": 246,
+        "games": 4,
+        "rating": 1816,
+        "rd": 239,
         "prog": 0,
         "prov": true
       },
@@ -46,27 +46,30 @@
       }
     },
     "createdAt": 1624279718380,
-    "seenAt": 1624704027845,
+    "profile": {
+      "country": "VN"
+    },
+    "seenAt": 1624725100279,
     "playTime": {
-      "total": 29419,
+      "total": 29793,
       "tv": 236
     },
     "language": "vi-VN",
     "title": "BOT",
     "url": "https://lichess.org/@/Chlorophyll21111212",
-    "playing": "https://lichess.org/RSlzHIiB/white",
-    "nbFollowing": 0,
+    "playing": "https://lichess.org/7pOfMRrD/white",
+    "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 164,
-      "rated": 37,
-      "ai": 107,
-      "draw": 21,
-      "drawH": 10,
-      "loss": 73,
-      "lossH": 15,
-      "win": 70,
-      "winH": 32,
+      "all": 168,
+      "rated": 38,
+      "ai": 108,
+      "draw": 22,
+      "drawH": 11,
+      "loss": 75,
+      "lossH": 16,
+      "win": 71,
+      "winH": 33,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
