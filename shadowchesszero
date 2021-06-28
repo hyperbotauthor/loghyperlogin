@@ -1,0 +1,97 @@
+{
+  "id": "shadowchesszero",
+  "displayName": "ShadowChessZero",
+  "username": "ShadowChessZero",
+  "profileUrl": "https://lichess.org/@/ShadowChessZero",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"shadowchesszero\",\"username\":\"ShadowChessZero\",\"online\":false,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1375,\"rd\":334,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":5,\"rating\":1859,\"rd\":195,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":40,\"rating\":1589,\"rd\":60,\"prog\":18},\"bullet\":{\"games\":25,\"rating\":1651,\"rd\":74,\"prog\":50},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":2,\"score\":22}},\"createdAt\":1619081610708,\"seenAt\":1624875647592,\"playTime\":{\"total\":6560,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/ShadowChessZero\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":100,\"count\":{\"all\":93,\"rated\":66,\"ai\":20,\"draw\":2,\"drawH\":2,\"loss\":46,\"lossH\":31,\"win\":45,\"winH\":40,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "shadowchesszero",
+    "username": "ShadowChessZero",
+    "online": false,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1375,
+        "rd": 334,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 5,
+        "rating": 1859,
+        "rd": 195,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 40,
+        "rating": 1589,
+        "rd": 60,
+        "prog": 18
+      },
+      "bullet": {
+        "games": 25,
+        "rating": 1651,
+        "rd": 74,
+        "prog": 50
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 2,
+        "score": 22
+      }
+    },
+    "createdAt": 1619081610708,
+    "seenAt": 1624875647592,
+    "playTime": {
+      "total": 6560,
+      "tv": 0
+    },
+    "language": "tr-TR",
+    "url": "https://lichess.org/@/ShadowChessZero",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 100,
+    "count": {
+      "all": 93,
+      "rated": 66,
+      "ai": 20,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 46,
+      "lossH": 31,
+      "win": 45,
+      "winH": 40,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
