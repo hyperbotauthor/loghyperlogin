@@ -1,0 +1,87 @@
+{
+  "id": "roopamanish",
+  "displayName": "Roopamanish",
+  "username": "Roopamanish",
+  "profileUrl": "https://lichess.org/@/Roopamanish",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"roopamanish\",\"username\":\"Roopamanish\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":390,\"prog\":0,\"prov\":true}},\"createdAt\":1624527925188,\"profile\":{\"country\":\"IN\",\"location\":\"karnataka\",\"firstName\":\"Roopamanish\",\"lastName\":\"manish\"},\"seenAt\":1624965040182,\"playTime\":{\"total\":421,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Roopamanish\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":25,\"rated\":1,\"ai\":2,\"draw\":9,\"drawH\":9,\"loss\":1,\"lossH\":0,\"win\":15,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "roopamanish",
+    "username": "Roopamanish",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2256,
+        "rd": 390,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1624527925188,
+    "profile": {
+      "country": "IN",
+      "location": "karnataka",
+      "firstName": "Roopamanish",
+      "lastName": "manish"
+    },
+    "seenAt": 1624965040182,
+    "playTime": {
+      "total": 421,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Roopamanish",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 25,
+      "rated": 1,
+      "ai": 2,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 1,
+      "lossH": 0,
+      "win": 15,
+      "winH": 14,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
