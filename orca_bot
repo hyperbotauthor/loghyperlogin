@@ -4,17 +4,24 @@
   "username": "Orca_Bot",
   "profileUrl": "https://lichess.org/@/Orca_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"orca_bot\",\"username\":\"Orca_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2268,\"rd\":104,\"prog\":-196},\"bullet\":{\"games\":16,\"rating\":1905,\"rd\":115,\"prog\":121,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1665,\"rd\":314,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624771820734,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I'm Orca_Bot I one day wish to be the best bot in the world\\r\\nPS: Challenge me whenever you want I will be happy to accept bullet, blitz, rapid, classical games of the standard variant\\r\\n\\r\\nOperator: @Chesserphate\\r\\nRepresented website: Lichess.org\\r\\nI'm a coo boi actually bot\",\"firstName\":\"Orca\",\"lastName\":\"Bot\"},\"seenAt\":1624880474806,\"playTime\":{\"total\":9684,\"tv\":1465},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Orca_Bot\",\"playing\":\"https://lichess.org/NjbSMC6o/black\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":52,\"rated\":44,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":13,\"lossH\":13,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"orca_bot\",\"username\":\"Orca_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":28,\"rating\":2260,\"rd\":92,\"prog\":-46},\"atomic\":{\"games\":7,\"rating\":1308,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1905,\"rd\":115,\"prog\":121,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1665,\"rd\":314,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1372,\"rd\":355,\"prog\":0,\"prov\":true}},\"createdAt\":1624771820734,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I'm Orca_Bot I one day wish to be the best bot in the world\\r\\nPS: Challenge me whenever you want I will be happy to accept bullet, blitz, rapid, classical games of the standard variant\\r\\n\\r\\nOperator: @Chesserphate\\r\\nRepresented website: Lichess.org\\r\\nI'm a coo boi actually bot\",\"firstName\":\"Orca\",\"lastName\":\"Bot\"},\"seenAt\":1624936888366,\"playTime\":{\"total\":14084,\"tv\":2918},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Orca_Bot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":65,\"rated\":56,\"ai\":0,\"draw\":13,\"drawH\":13,\"loss\":20,\"lossH\":20,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "orca_bot",
     "username": "Orca_Bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 24,
-        "rating": 2268,
-        "rd": 104,
-        "prog": -196
+        "games": 28,
+        "rating": 2260,
+        "rd": 92,
+        "prog": -46
+      },
+      "atomic": {
+        "games": 7,
+        "rating": 1308,
+        "rd": 245,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
         "games": 16,
@@ -38,9 +45,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1760,
-        "rd": 396,
+        "games": 2,
+        "rating": 1372,
+        "rd": 355,
         "prog": 0,
         "prov": true
       }
@@ -52,29 +59,28 @@
       "firstName": "Orca",
       "lastName": "Bot"
     },
-    "seenAt": 1624880474806,
+    "seenAt": 1624936888366,
     "playTime": {
-      "total": 9684,
-      "tv": 1465
+      "total": 14084,
+      "tv": 2918
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Orca_Bot",
-    "playing": "https://lichess.org/NjbSMC6o/black",
     "nbFollowing": 1,
     "nbFollowers": 3,
     "count": {
-      "all": 52,
-      "rated": 44,
+      "all": 65,
+      "rated": 56,
       "ai": 0,
-      "draw": 11,
-      "drawH": 11,
-      "loss": 13,
-      "lossH": 13,
-      "win": 28,
-      "winH": 28,
+      "draw": 13,
+      "drawH": 13,
+      "loss": 20,
+      "lossH": 20,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
