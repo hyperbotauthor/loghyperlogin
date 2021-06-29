@@ -1,0 +1,89 @@
+{
+  "id": "manish-123",
+  "displayName": "Manish-123",
+  "username": "Manish-123",
+  "profileUrl": "https://lichess.org/@/Manish-123",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"manish-123\",\"username\":\"Manish-123\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1357,\"rd\":171,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":3,\"rating\":1213,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1199,\"rd\":178,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1615866586133,\"seenAt\":1624964811904,\"playTime\":{\"total\":2813,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Manish-123\",\"playing\":\"https://lichess.org/OfU4pDbQ/black\",\"nbFollowing\":0,\"nbFollowers\":2,\"completionRate\":100,\"count\":{\"all\":68,\"rated\":13,\"ai\":28,\"draw\":4,\"drawH\":4,\"loss\":48,\"lossH\":20,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":5,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "manish-123",
+    "username": "Manish-123",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 1357,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 3,
+        "rating": 1213,
+        "rd": 241,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 1199,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1615866586133,
+    "seenAt": 1624964811904,
+    "playTime": {
+      "total": 2813,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Manish-123",
+    "playing": "https://lichess.org/OfU4pDbQ/black",
+    "nbFollowing": 0,
+    "nbFollowers": 2,
+    "completionRate": 100,
+    "count": {
+      "all": 68,
+      "rated": 13,
+      "ai": 28,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 48,
+      "lossH": 20,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 0,
+      "playing": 5,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
