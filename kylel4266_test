@@ -4,7 +4,7 @@
   "username": "kylel4266_test",
   "profileUrl": "https://lichess.org/@/kylel4266_test",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kylel4266_test\",\"username\":\"kylel4266_test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624832300816,\"seenAt\":1624900177187,\"playTime\":{\"total\":149,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kylel4266_test\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kylel4266_test\",\"username\":\"kylel4266_test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624832300816,\"profile\":{},\"seenAt\":1624971521761,\"playTime\":{\"total\":1777,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kylel4266_test\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":1,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":3,\"lossH\":2,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kylel4266_test",
     "username": "kylel4266_test",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
+        "games": 1,
         "rating": 1500,
-        "rd": 500,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,10 @@
       }
     },
     "createdAt": 1624832300816,
-    "seenAt": 1624900177187,
+    "profile": {},
+    "seenAt": 1624971521761,
     "playTime": {
-      "total": 149,
+      "total": 1777,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +59,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 0,
-      "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 0,
-      "win": 1,
-      "winH": 1,
+      "all": 9,
+      "rated": 1,
+      "ai": 2,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 3,
+      "lossH": 2,
+      "win": 4,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
