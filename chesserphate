@@ -1,0 +1,153 @@
+{
+  "id": "chesserphate",
+  "displayName": "Chesserphate",
+  "username": "Chesserphate",
+  "profileUrl": "https://lichess.org/@/Chesserphate",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chesserphate\",\"username\":\"Chesserphate\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":20,\"rating\":1045,\"rd\":112,\"prog\":-92,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1163,\"rd\":146,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":8,\"rating\":1380,\"rd\":160,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":28,\"rating\":1130,\"rd\":95,\"prog\":-81},\"blitz\":{\"games\":575,\"rating\":1178,\"rd\":45,\"prog\":31},\"kingOfTheHill\":{\"games\":18,\"rating\":1436,\"rd\":114,\"prog\":-121,\"prov\":true},\"crazyhouse\":{\"games\":18,\"rating\":1226,\"rd\":137,\"prog\":-21,\"prov\":true},\"threeCheck\":{\"games\":39,\"rating\":1479,\"rd\":83,\"prog\":-41},\"bullet\":{\"games\":141,\"rating\":1311,\"rd\":52,\"prog\":2},\"correspondence\":{\"games\":1,\"rating\":1258,\"rd\":399,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1379,\"rd\":337,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":300,\"rating\":1615,\"rd\":97,\"prog\":0},\"classical\":{\"games\":9,\"rating\":1204,\"rd\":149,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":212,\"rating\":1312,\"rd\":53,\"prog\":4},\"racer\":{\"runs\":7,\"score\":26},\"streak\":{\"runs\":10,\"score\":14}},\"createdAt\":1620218288789,\"profile\":{\"country\":\"GB\",\"location\":\"Edinburgh\",\"bio\":\"I like the middle game and endgame\\r\\nspecifically :\\r\\nking and pawn\\r\\nqueen and queen\\r\\nqueen and king\\r\\nrook and king\\r\\nrook and rook\\r\\nI also love making youtube videos and playing chess\\r\\nand I also love computer programming\\r\\nbots, apps, websites, etc\",\"fideRating\":1545,\"links\":\"replit - https://replit.com/@Calaphate\\r\\nyoutube - https://www.youtube.com/channel/UCjtLR4PMF5Udq3S8zqOcAJw\"},\"seenAt\":1624936805776,\"playTime\":{\"total\":240546,\"tv\":130},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Chesserphate\",\"nbFollowing\":12,\"nbFollowers\":5,\"completionRate\":97,\"count\":{\"all\":1165,\"rated\":1078,\"ai\":9,\"draw\":61,\"drawH\":60,\"loss\":684,\"lossH\":679,\"win\":420,\"winH\":417,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chesserphate",
+    "username": "Chesserphate",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 20,
+        "rating": 1045,
+        "rd": 112,
+        "prog": -92,
+        "prov": true
+      },
+      "atomic": {
+        "games": 8,
+        "rating": 1163,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 8,
+        "rating": 1380,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 28,
+        "rating": 1130,
+        "rd": 95,
+        "prog": -81
+      },
+      "blitz": {
+        "games": 575,
+        "rating": 1178,
+        "rd": 45,
+        "prog": 31
+      },
+      "kingOfTheHill": {
+        "games": 18,
+        "rating": 1436,
+        "rd": 114,
+        "prog": -121,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 18,
+        "rating": 1226,
+        "rd": 137,
+        "prog": -21,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 39,
+        "rating": 1479,
+        "rd": 83,
+        "prog": -41
+      },
+      "bullet": {
+        "games": 141,
+        "rating": 1311,
+        "rd": 52,
+        "prog": 2
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 399,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1379,
+        "rd": 337,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 300,
+        "rating": 1615,
+        "rd": 97,
+        "prog": 0
+      },
+      "classical": {
+        "games": 9,
+        "rating": 1204,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 212,
+        "rating": 1312,
+        "rd": 53,
+        "prog": 4
+      },
+      "racer": {
+        "runs": 7,
+        "score": 26
+      },
+      "streak": {
+        "runs": 10,
+        "score": 14
+      }
+    },
+    "createdAt": 1620218288789,
+    "profile": {
+      "country": "GB",
+      "location": "Edinburgh",
+      "bio": "I like the middle game and endgame\r\nspecifically :\r\nking and pawn\r\nqueen and queen\r\nqueen and king\r\nrook and king\r\nrook and rook\r\nI also love making youtube videos and playing chess\r\nand I also love computer programming\r\nbots, apps, websites, etc",
+      "fideRating": 1545,
+      "links": "replit - https://replit.com/@Calaphate\r\nyoutube - https://www.youtube.com/channel/UCjtLR4PMF5Udq3S8zqOcAJw"
+    },
+    "seenAt": 1624936805776,
+    "playTime": {
+      "total": 240546,
+      "tv": 130
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Chesserphate",
+    "nbFollowing": 12,
+    "nbFollowers": 5,
+    "completionRate": 97,
+    "count": {
+      "all": 1165,
+      "rated": 1078,
+      "ai": 9,
+      "draw": 61,
+      "drawH": 60,
+      "loss": 684,
+      "lossH": 679,
+      "win": 420,
+      "winH": 417,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
