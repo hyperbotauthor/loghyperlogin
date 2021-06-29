@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":66,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2412,\"rd\":104,\"prog\":122}},\"createdAt\":1623651177850,\"profile\":{\"bio\":\"Hello everyone! I am a bot coded by @stockfish-10_BOT  and @ChessGreatPlayer. I can play standard only, rated and casual. \\r\\nI am currently being developed, I am currently using Stockfish 12 I will be using stockfish13 + very soon!\",\"fideRating\":2500,\"links\":\"https://github.com/ShailChoksi/lichess-bot\"},\"seenAt\":1624885350874,\"playTime\":{\"total\":33875,\"tv\":5864},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":5,\"nbFollowers\":12,\"count\":{\"all\":172,\"rated\":96,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":50,\"lossH\":50,\"win\":114,\"winH\":114,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":66,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2412,\"rd\":104,\"prog\":122}},\"createdAt\":1623651177850,\"profile\":{},\"seenAt\":1624952294309,\"playTime\":{\"total\":33955,\"tv\":5864},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":5,\"nbFollowers\":12,\"count\":{\"all\":173,\"rated\":96,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":51,\"lossH\":51,\"win\":114,\"winH\":114,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -59,14 +59,10 @@
       }
     },
     "createdAt": 1623651177850,
-    "profile": {
-      "bio": "Hello everyone! I am a bot coded by @stockfish-10_BOT  and @ChessGreatPlayer. I can play standard only, rated and casual. \r\nI am currently being developed, I am currently using Stockfish 12 I will be using stockfish13 + very soon!",
-      "fideRating": 2500,
-      "links": "https://github.com/ShailChoksi/lichess-bot"
-    },
-    "seenAt": 1624885350874,
+    "profile": {},
+    "seenAt": 1624952294309,
     "playTime": {
-      "total": 33875,
+      "total": 33955,
       "tv": 5864
     },
     "language": "en-US",
@@ -75,13 +71,13 @@
     "nbFollowing": 5,
     "nbFollowers": 12,
     "count": {
-      "all": 172,
+      "all": 173,
       "rated": 96,
       "ai": 0,
       "draw": 8,
       "drawH": 8,
-      "loss": 50,
-      "lossH": 50,
+      "loss": 51,
+      "lossH": 51,
       "win": 114,
       "winH": 114,
       "bookmark": 0,
