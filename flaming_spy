@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":66,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2412,\"rd\":104,\"prog\":122}},\"createdAt\":1623651177850,\"profile\":{},\"seenAt\":1624954938698,\"playTime\":{\"total\":35746,\"tv\":7573},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":1,\"nbFollowers\":12,\"count\":{\"all\":175,\"rated\":96,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":53,\"lossH\":53,\"win\":114,\"winH\":114,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":234,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":47,\"rating\":2036,\"rd\":66,\"prog\":-8},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2205,\"rd\":172,\"prog\":24,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":227,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":212,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2412,\"rd\":104,\"prog\":122}},\"createdAt\":1623651177850,\"profile\":{},\"seenAt\":1624954938698,\"playTime\":{\"total\":35814,\"tv\":7641},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"playing\":\"https://lichess.org/eQmaqzQc/white\",\"nbFollowing\":1,\"nbFollowers\":12,\"count\":{\"all\":176,\"rated\":96,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":54,\"lossH\":54,\"win\":114,\"winH\":114,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -62,26 +62,27 @@
     "profile": {},
     "seenAt": 1624954938698,
     "playTime": {
-      "total": 35746,
-      "tv": 7573
+      "total": 35814,
+      "tv": 7641
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Flaming_spy",
+    "playing": "https://lichess.org/eQmaqzQc/white",
     "nbFollowing": 1,
     "nbFollowers": 12,
     "count": {
-      "all": 175,
+      "all": 176,
       "rated": 96,
       "ai": 0,
       "draw": 8,
       "drawH": 8,
-      "loss": 53,
-      "lossH": 53,
+      "loss": 54,
+      "lossH": 54,
       "win": 114,
       "winH": 114,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
