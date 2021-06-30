@@ -4,23 +4,23 @@
   "username": "LartsecrBot",
   "profileUrl": "https://lichess.org/@/LartsecrBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2108,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":2276,\"rd\":214,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"seenAt\":1625063110085,\"playTime\":{\"total\":2401,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/Cg8jeI6B/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1596,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2132,\"rd\":159,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":2276,\"rd\":214,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1732,\"rd\":290,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"profile\":{\"links\":\"https://www.twitch.tv/justdabor\"},\"seenAt\":1625074867470,\"playTime\":{\"total\":3437,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/fjWSdSq9/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":21,\"rated\":20,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lartsecrbot",
     "username": "LartsecrBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1596,
+        "rd": 368,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 2108,
-        "rd": 170,
+        "games": 11,
+        "rating": 2132,
+        "rd": 159,
         "prog": 0,
         "prov": true
       },
@@ -28,6 +28,20 @@
         "games": 6,
         "rating": 2276,
         "rd": 214,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1446,
+        "rd": 422,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 1732,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
@@ -47,29 +61,32 @@
       }
     },
     "createdAt": 1624900950474,
-    "seenAt": 1625063110085,
+    "profile": {
+      "links": "https://www.twitch.tv/justdabor"
+    },
+    "seenAt": 1625074867470,
     "playTime": {
-      "total": 2401,
+      "total": 3437,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LartsecrBot",
-    "playing": "https://lichess.org/Cg8jeI6B/black",
+    "playing": "https://lichess.org/fjWSdSq9/black",
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 16,
-      "rated": 16,
-      "ai": 0,
+      "all": 21,
+      "rated": 20,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 14,
-      "winH": 14,
+      "loss": 3,
+      "lossH": 3,
+      "win": 18,
+      "winH": 17,
       "bookmark": 0,
-      "playing": 3,
+      "playing": 4,
       "import": 0,
       "me": 0
     },
