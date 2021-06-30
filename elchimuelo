@@ -1,0 +1,80 @@
+{
+  "id": "elchimuelo",
+  "displayName": "ElChimuelo",
+  "username": "ElChimuelo",
+  "profileUrl": "https://lichess.org/@/ElChimuelo",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"elchimuelo\",\"username\":\"ElChimuelo\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1958,\"rd\":97,\"prog\":-124},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1566699555580,\"seenAt\":1625024647032,\"playTime\":{\"total\":9730,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/ElChimuelo\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":100,\"count\":{\"all\":33,\"rated\":32,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":15,\"lossH\":15,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "elchimuelo",
+    "username": "ElChimuelo",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 32,
+        "rating": 1958,
+        "rd": 97,
+        "prog": -124
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1566699555580,
+    "seenAt": 1625024647032,
+    "playTime": {
+      "total": 9730,
+      "tv": 0
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/ElChimuelo",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 100,
+    "count": {
+      "all": 33,
+      "rated": 32,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 15,
+      "lossH": 15,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
