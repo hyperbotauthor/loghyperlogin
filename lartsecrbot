@@ -4,7 +4,7 @@
   "username": "LartsecrBot",
   "profileUrl": "https://lichess.org/@/LartsecrBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2108,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":2263,\"rd\":221,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"seenAt\":1625013939518,\"playTime\":{\"total\":1417,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/W6I0Cuos/black\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":14,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2108,\"rd\":170,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":2276,\"rd\":214,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"seenAt\":1625059943199,\"playTime\":{\"total\":2401,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/aGwA68ha/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lartsecrbot",
     "username": "LartsecrBot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 5,
-        "rating": 2263,
-        "rd": 221,
+        "games": 6,
+        "rating": 2276,
+        "rd": 214,
         "prog": 0,
         "prov": true
       },
@@ -39,37 +39,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1760,
+        "rd": 396,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1624900950474,
-    "seenAt": 1625013939518,
+    "seenAt": 1625059943199,
     "playTime": {
-      "total": 1417,
+      "total": 2401,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LartsecrBot",
-    "playing": "https://lichess.org/W6I0Cuos/black",
-    "nbFollowing": 1,
+    "playing": "https://lichess.org/aGwA68ha/black",
+    "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 14,
-      "rated": 14,
+      "all": 16,
+      "rated": 16,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 2,
       "lossH": 2,
-      "win": 12,
-      "winH": 12,
+      "win": 14,
+      "winH": 14,
       "bookmark": 0,
-      "playing": 4,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
