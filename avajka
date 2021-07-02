@@ -1,0 +1,81 @@
+{
+  "id": "avajka",
+  "displayName": "AvAjKa",
+  "username": "AvAjKa",
+  "profileUrl": "https://lichess.org/@/AvAjKa",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"avajka\",\"username\":\"AvAjKa\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1612,\"rd\":318,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623144761260,\"seenAt\":1625239410909,\"playTime\":{\"total\":375,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/AvAjKa\",\"nbFollowing\":8,\"nbFollowers\":3,\"count\":{\"all\":10,\"rated\":1,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":1,\"win\":4,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "avajka",
+    "username": "AvAjKa",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1612,
+        "rd": 318,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623144761260,
+    "seenAt": 1625239410909,
+    "playTime": {
+      "total": 375,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/AvAjKa",
+    "nbFollowing": 8,
+    "nbFollowers": 3,
+    "count": {
+      "all": 10,
+      "rated": 1,
+      "ai": 5,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 1,
+      "win": 4,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
