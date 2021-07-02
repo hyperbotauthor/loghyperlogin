@@ -4,7 +4,7 @@
   "username": "LartsecrBot",
   "profileUrl": "https://lichess.org/@/LartsecrBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1596,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2132,\"rd\":159,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":2276,\"rd\":214,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1819,\"rd\":234,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"profile\":{\"links\":\"https://www.twitch.tv/justdabor\"},\"seenAt\":1625075819725,\"playTime\":{\"total\":3492,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/fjWSdSq9/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":22,\"rated\":20,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":3,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lartsecrbot\",\"username\":\"LartsecrBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1596,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2132,\"rd\":160,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":2214,\"rd\":187,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1446,\"rd\":422,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1819,\"rd\":234,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1760,\"rd\":396,\"prog\":0,\"prov\":true}},\"createdAt\":1624900950474,\"profile\":{\"links\":\"https://www.twitch.tv/justdabor\"},\"seenAt\":1625186402208,\"playTime\":{\"total\":3492,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LartsecrBot\",\"playing\":\"https://lichess.org/aGwA68ha/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":23,\"rated\":21,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":4,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lartsecrbot",
     "username": "LartsecrBot",
@@ -20,14 +20,14 @@
       "bullet": {
         "games": 11,
         "rating": 2132,
-        "rd": 159,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 6,
-        "rating": 2276,
-        "rd": 214,
+        "games": 7,
+        "rating": 2214,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
@@ -64,7 +64,7 @@
     "profile": {
       "links": "https://www.twitch.tv/justdabor"
     },
-    "seenAt": 1625075819725,
+    "seenAt": 1625186402208,
     "playTime": {
       "total": 3492,
       "tv": 0
@@ -72,21 +72,21 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LartsecrBot",
-    "playing": "https://lichess.org/fjWSdSq9/black",
+    "playing": "https://lichess.org/aGwA68ha/black",
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 22,
-      "rated": 20,
+      "all": 23,
+      "rated": 21,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 3,
+      "loss": 5,
+      "lossH": 4,
       "win": 18,
       "winH": 17,
       "bookmark": 0,
-      "playing": 4,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
