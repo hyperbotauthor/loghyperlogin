@@ -4,7 +4,7 @@
   "username": "SortfulBot",
   "profileUrl": "https://lichess.org/@/SortfulBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sortfulbot\",\"username\":\"SortfulBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2289,\"rd\":149,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2388,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1625092581826,\"seenAt\":1625149842909,\"playTime\":{\"total\":3888,\"tv\":378},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SortfulBot\",\"playing\":\"https://lichess.org/AlJKx5Ir/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":11,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sortfulbot\",\"username\":\"SortfulBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2289,\"rd\":149,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2388,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1625092581826,\"seenAt\":1625235218539,\"playTime\":{\"total\":3888,\"tv\":378},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SortfulBot\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":12,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sortfulbot",
     "username": "SortfulBot",
@@ -47,7 +47,7 @@
       }
     },
     "createdAt": 1625092581826,
-    "seenAt": 1625149842909,
+    "seenAt": 1625235218539,
     "playTime": {
       "total": 3888,
       "tv": 378
@@ -55,21 +55,20 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/SortfulBot",
-    "playing": "https://lichess.org/AlJKx5Ir/black",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 1,
     "count": {
-      "all": 11,
+      "all": 12,
       "rated": 11,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 2,
       "lossH": 2,
-      "win": 9,
-      "winH": 9,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
