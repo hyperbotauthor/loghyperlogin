@@ -1,0 +1,152 @@
+{
+  "id": "zapadoz",
+  "displayName": "Zapadoz",
+  "username": "Zapadoz",
+  "profileUrl": "https://lichess.org/@/Zapadoz",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"zapadoz\",\"username\":\"Zapadoz\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":5,\"rating\":1729,\"rd\":247,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":23,\"rating\":1607,\"rd\":161,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":20,\"rating\":1543,\"rd\":108,\"prog\":10},\"ultraBullet\":{\"games\":73,\"rating\":1125,\"rd\":60,\"prog\":-26},\"blitz\":{\"games\":39,\"rating\":1800,\"rd\":114,\"prog\":-26,\"prov\":true},\"kingOfTheHill\":{\"games\":4,\"rating\":1526,\"rd\":317,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1600,\"rd\":187,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1895,\"rd\":319,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1320,\"rd\":160,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":95,\"rating\":1433,\"rd\":46,\"prog\":14},\"storm\":{\"runs\":3,\"score\":24},\"racer\":{\"runs\":3,\"score\":30},\"streak\":{\"runs\":9,\"score\":10}},\"createdAt\":1622809270663,\"profile\":{\"country\":\"LK\",\"location\":\"Western Province\",\"firstName\":\"(ツ) BzM\",\"lastName\":\"Zapadoz\"},\"seenAt\":1625290256546,\"playTime\":{\"total\":50162,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Zapadoz\",\"nbFollowing\":3,\"nbFollowers\":0,\"completionRate\":97,\"count\":{\"all\":297,\"rated\":257,\"ai\":0,\"draw\":17,\"drawH\":17,\"loss\":142,\"lossH\":142,\"win\":138,\"winH\":138,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "zapadoz",
+    "username": "Zapadoz",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 5,
+        "rating": 1729,
+        "rd": 247,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 23,
+        "rating": 1607,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 20,
+        "rating": 1543,
+        "rd": 108,
+        "prog": 10
+      },
+      "ultraBullet": {
+        "games": 73,
+        "rating": 1125,
+        "rd": 60,
+        "prog": -26
+      },
+      "blitz": {
+        "games": 39,
+        "rating": 1800,
+        "rd": 114,
+        "prog": -26,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 4,
+        "rating": 1526,
+        "rd": 317,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 8,
+        "rating": 1600,
+        "rd": 187,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1895,
+        "rd": 319,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 1320,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 95,
+        "rating": 1433,
+        "rd": 46,
+        "prog": 14
+      },
+      "storm": {
+        "runs": 3,
+        "score": 24
+      },
+      "racer": {
+        "runs": 3,
+        "score": 30
+      },
+      "streak": {
+        "runs": 9,
+        "score": 10
+      }
+    },
+    "createdAt": 1622809270663,
+    "profile": {
+      "country": "LK",
+      "location": "Western Province",
+      "firstName": "(ツ) BzM",
+      "lastName": "Zapadoz"
+    },
+    "seenAt": 1625290256546,
+    "playTime": {
+      "total": 50162,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Zapadoz",
+    "nbFollowing": 3,
+    "nbFollowers": 0,
+    "completionRate": 97,
+    "count": {
+      "all": 297,
+      "rated": 257,
+      "ai": 0,
+      "draw": 17,
+      "drawH": 17,
+      "loss": 142,
+      "lossH": 142,
+      "win": 138,
+      "winH": 138,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
