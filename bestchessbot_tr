@@ -4,7 +4,7 @@
   "username": "BestChessBot_TR",
   "profileUrl": "https://lichess.org/@/BestChessBot_TR",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bestchessbot_tr\",\"username\":\"BestChessBot_TR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1625248052867,\"profile\":{\"country\":\"TR\"},\"seenAt\":1625305421972,\"playTime\":{\"total\":448,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BestChessBot_TR\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":0,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bestchessbot_tr\",\"username\":\"BestChessBot_TR\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1625248052867,\"profile\":{\"country\":\"TR\"},\"seenAt\":1625388792285,\"playTime\":{\"total\":2412,\"tv\":0},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BestChessBot_TR\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":22,\"rated\":0,\"ai\":19,\"draw\":2,\"drawH\":0,\"loss\":12,\"lossH\":3,\"win\":8,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bestchessbot_tr",
     "username": "BestChessBot_TR",
@@ -50,25 +50,25 @@
     "profile": {
       "country": "TR"
     },
-    "seenAt": 1625305421972,
+    "seenAt": 1625388792285,
     "playTime": {
-      "total": 448,
+      "total": 2412,
       "tv": 0
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/BestChessBot_TR",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
-      "all": 5,
+      "all": 22,
       "rated": 0,
-      "ai": 5,
-      "draw": 0,
+      "ai": 19,
+      "draw": 2,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 5,
+      "loss": 12,
+      "lossH": 3,
+      "win": 8,
       "winH": 0,
       "bookmark": 0,
       "playing": 0,
