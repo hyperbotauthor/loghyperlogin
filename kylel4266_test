@@ -4,7 +4,7 @@
   "username": "kylel4266_test",
   "profileUrl": "https://lichess.org/@/kylel4266_test",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kylel4266_test\",\"username\":\"kylel4266_test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624832300816,\"profile\":{},\"seenAt\":1625228602515,\"playTime\":{\"total\":2656,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kylel4266_test\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":25,\"rated\":1,\"ai\":14,\"draw\":4,\"drawH\":2,\"loss\":9,\"lossH\":2,\"win\":12,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kylel4266_test\",\"username\":\"kylel4266_test\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":397,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624832300816,\"profile\":{},\"seenAt\":1625360113462,\"playTime\":{\"total\":2656,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kylel4266_test\",\"playing\":\"https://lichess.org/v23Hi5xc/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":25,\"rated\":1,\"ai\":14,\"draw\":4,\"drawH\":2,\"loss\":9,\"lossH\":2,\"win\":12,\"winH\":7,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kylel4266_test",
     "username": "kylel4266_test",
@@ -27,7 +27,7 @@
       "correspondence": {
         "games": 1,
         "rating": 1500,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
@@ -48,7 +48,7 @@
     },
     "createdAt": 1624832300816,
     "profile": {},
-    "seenAt": 1625228602515,
+    "seenAt": 1625360113462,
     "playTime": {
       "total": 2656,
       "tv": 0
@@ -56,6 +56,7 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/kylel4266_test",
+    "playing": "https://lichess.org/v23Hi5xc/black",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
@@ -69,7 +70,7 @@
       "win": 12,
       "winH": 7,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
