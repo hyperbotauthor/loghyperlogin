@@ -4,7 +4,7 @@
   "username": "SortfulBot",
   "profileUrl": "https://lichess.org/@/SortfulBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sortfulbot\",\"username\":\"SortfulBot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1224,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2503,\"rd\":229,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1707,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2403,\"rd\":96,\"prog\":96},\"correspondence\":{\"games\":1,\"rating\":1586,\"rd\":414,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2432,\"rd\":255,\"prog\":0,\"prov\":true}},\"createdAt\":1625092581826,\"seenAt\":1625531868697,\"playTime\":{\"total\":12113,\"tv\":543},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SortfulBot\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":50,\"rated\":33,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":8,\"win\":38,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sortfulbot\",\"username\":\"SortfulBot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1224,\"rd\":220,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":2503,\"rd\":229,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1707,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2403,\"rd\":96,\"prog\":96},\"correspondence\":{\"games\":1,\"rating\":1586,\"rd\":414,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2446,\"rd\":246,\"prog\":0,\"prov\":true}},\"createdAt\":1625092581826,\"seenAt\":1625574949657,\"playTime\":{\"total\":12467,\"tv\":543},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SortfulBot\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":51,\"rated\":34,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":8,\"win\":39,\"winH\":39,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sortfulbot",
     "username": "SortfulBot",
@@ -52,17 +52,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2432,
-        "rd": 255,
+        "games": 5,
+        "rating": 2446,
+        "rd": 246,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625092581826,
-    "seenAt": 1625531868697,
+    "seenAt": 1625574949657,
     "playTime": {
-      "total": 12113,
+      "total": 12467,
       "tv": 543
     },
     "language": "en-US",
@@ -71,15 +71,15 @@
     "nbFollowing": 2,
     "nbFollowers": 3,
     "count": {
-      "all": 50,
-      "rated": 33,
+      "all": 51,
+      "rated": 34,
       "ai": 4,
       "draw": 0,
       "drawH": 0,
       "loss": 12,
       "lossH": 8,
-      "win": 38,
-      "winH": 38,
+      "win": 39,
+      "winH": 39,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
