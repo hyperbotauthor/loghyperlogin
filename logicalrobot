@@ -4,7 +4,7 @@
   "username": "LogicalRobot",
   "profileUrl": "https://lichess.org/@/LogicalRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1442,\"rd\":443,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2234,\"rd\":296,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":326,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1679,\"rd\":303,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"profile\":{\"bio\":\"I GOT A FOLLOWER HIS NAME IS @ALeXey_DyaDyK08\"},\"seenAt\":1625474868726,\"playTime\":{\"total\":1704,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"nbFollowing\":2,\"nbFollowers\":4,\"count\":{\"all\":15,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"logicalrobot\",\"username\":\"LogicalRobot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1656,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1442,\"rd\":443,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2450,\"rd\":167,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1930,\"rd\":326,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1679,\"rd\":303,\"prog\":0,\"prov\":true}},\"createdAt\":1622198492811,\"profile\":{\"bio\":\"I GOT A FOLLOWER HIS NAME IS @ALeXey_DyaDyK08\"},\"seenAt\":1625574429924,\"playTime\":{\"total\":2065,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LogicalRobot\",\"nbFollowing\":2,\"nbFollowers\":5,\"count\":{\"all\":22,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "logicalrobot",
     "username": "LogicalRobot",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 2234,
-        "rd": 296,
+        "games": 10,
+        "rating": 2450,
+        "rd": 167,
         "prog": 0,
         "prov": true
       },
@@ -57,26 +57,26 @@
     "profile": {
       "bio": "I GOT A FOLLOWER HIS NAME IS @ALeXey_DyaDyK08"
     },
-    "seenAt": 1625474868726,
+    "seenAt": 1625574429924,
     "playTime": {
-      "total": 1704,
+      "total": 2065,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LogicalRobot",
     "nbFollowing": 2,
-    "nbFollowers": 4,
+    "nbFollowers": 5,
     "count": {
-      "all": 15,
-      "rated": 7,
+      "all": 22,
+      "rated": 14,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 4,
       "lossH": 4,
-      "win": 11,
-      "winH": 11,
+      "win": 18,
+      "winH": 18,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
