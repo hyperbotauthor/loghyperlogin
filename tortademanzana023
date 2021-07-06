@@ -4,12 +4,19 @@
   "username": "TORTADEMANZANA023",
   "profileUrl": "https://lichess.org/@/TORTADEMANZANA023",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tortademanzana023\",\"username\":\"TORTADEMANZANA023\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":18,\"rating\":1338,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617901421043,\"profile\":{\"country\":\"CL\",\"location\":\"tu casa XD\",\"bio\":\":v cambiate a movistar y notaras la diferencia :bb\\r\\n\\r\\nhttps://imgur.com/t1ClMgB\",\"firstName\":\"La_esposa_de_yoongi_\",\"lastName\":\"7u7\",\"links\":\"https://www.pinterest.es/uwu00029229/_saved/\\r\\nhttps://www.facebook.com/panquesito.delimon.52/\"},\"seenAt\":1625589440497,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TORTADEMANZANA023\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tortademanzana023\",\"username\":\"TORTADEMANZANA023\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":18,\"rating\":1338,\"rd\":187,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1233,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1617901421043,\"profile\":{\"country\":\"CL\",\"location\":\"tu casa XD\",\"bio\":\":v cambiate a movistar y notaras la diferencia :bb\\r\\n\\r\\nhttps://imgur.com/t1ClMgB\",\"firstName\":\"La_esposa_de_yoongi_\",\"lastName\":\"7u7\",\"links\":\"https://www.pinterest.es/uwu00029229/_saved/\\r\\nhttps://www.facebook.com/panquesito.delimon.52/\"},\"seenAt\":1625599152862,\"playTime\":{\"total\":248,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TORTADEMANZANA023\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":4,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tortademanzana023",
     "username": "TORTADEMANZANA023",
     "online": true,
     "perfs": {
+      "puzzle": {
+        "games": 18,
+        "rating": 1338,
+        "rd": 187,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 0,
         "rating": 1500,
@@ -17,10 +24,10 @@
         "prog": 0,
         "prov": true
       },
-      "puzzle": {
-        "games": 18,
-        "rating": 1338,
-        "rd": 187,
+      "threeCheck": {
+        "games": 4,
+        "rating": 1233,
+        "rd": 305,
         "prog": 0,
         "prov": true
       },
@@ -62,9 +69,9 @@
       "lastName": "7u7",
       "links": "https://www.pinterest.es/uwu00029229/_saved/\r\nhttps://www.facebook.com/panquesito.delimon.52/"
     },
-    "seenAt": 1625589440497,
+    "seenAt": 1625599152862,
     "playTime": {
-      "total": 0,
+      "total": 248,
       "tv": 0
     },
     "language": "es-ES",
@@ -73,14 +80,14 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 5,
+      "rated": 4,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 1,
       "winH": 0,
       "bookmark": 0,
       "playing": 0,
