@@ -1,0 +1,81 @@
+{
+  "id": "kingofchess2k9",
+  "displayName": "KingOfChess2K9",
+  "username": "KingOfChess2K9",
+  "profileUrl": "https://lichess.org/@/KingOfChess2K9",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kingofchess2k9\",\"username\":\"KingOfChess2K9\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2047,\"rd\":307,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2330,\"rd\":120,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1883,\"rd\":266,\"prog\":0,\"prov\":true}},\"createdAt\":1625568491221,\"seenAt\":1625573885542,\"playTime\":{\"total\":2204,\"tv\":0},\"language\":\"vi-VN\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KingOfChess2K9\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":23,\"rated\":18,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":5,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kingofchess2k9",
+    "username": "KingOfChess2K9",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 2,
+        "rating": 2047,
+        "rd": 307,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 11,
+        "rating": 2330,
+        "rd": 120,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1883,
+        "rd": 266,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1625568491221,
+    "seenAt": 1625573885542,
+    "playTime": {
+      "total": 2204,
+      "tv": 0
+    },
+    "language": "vi-VN",
+    "title": "BOT",
+    "url": "https://lichess.org/@/KingOfChess2K9",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 23,
+      "rated": 18,
+      "ai": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 7,
+      "lossH": 5,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
