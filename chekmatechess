@@ -4,7 +4,7 @@
   "username": "chekmatechess",
   "profileUrl": "https://lichess.org/@/chekmatechess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1248,\"rd\":240,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1487,\"rd\":231,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":11,\"rating\":1796,\"rd\":167,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":31,\"rating\":2199,\"rd\":125,\"prog\":-22,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":328,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":2152,\"rd\":121,\"prog\":62,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1250,\"rd\":330,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2580,\"rd\":296,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .  But my performance has reached down so i was repaired by @pranavsupramaniyam . Thanks to him i am working great also challenge my friends bot @skyblaster and @chessmagicionbot\",\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1624417667333,\"playTime\":{\"total\":31944,\"tv\":5381},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":14,\"nbFollowers\":51,\"count\":{\"all\":193,\"rated\":93,\"ai\":24,\"draw\":18,\"drawH\":16,\"loss\":63,\"lossH\":55,\"win\":112,\"winH\":98,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1248,\"rd\":241,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1487,\"rd\":232,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":11,\"rating\":1796,\"rd\":170,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":32,\"rating\":2157,\"rd\":127,\"prog\":-69,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":2152,\"rd\":124,\"prog\":62,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1250,\"rd\":331,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2580,\"rd\":297,\"prog\":0,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .\",\"firstName\":\"Darsh\",\"lastName\":\"R.\"},\"seenAt\":1625634459980,\"playTime\":{\"total\":31980,\"tv\":5381},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"nbFollowing\":17,\"nbFollowers\":56,\"count\":{\"all\":194,\"rated\":94,\"ai\":24,\"draw\":18,\"drawH\":16,\"loss\":64,\"lossH\":56,\"win\":112,\"winH\":98,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chekmatechess",
     "username": "chekmatechess",
@@ -13,49 +13,49 @@
       "antichess": {
         "games": 4,
         "rating": 1248,
-        "rd": 240,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 5,
         "rating": 1487,
-        "rd": 231,
+        "rd": 232,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 11,
         "rating": 1796,
-        "rd": 167,
+        "rd": 170,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 31,
-        "rating": 2199,
-        "rd": 125,
-        "prog": -22,
+        "games": 32,
+        "rating": 2157,
+        "rd": 127,
+        "prog": -69,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1088,
-        "rd": 328,
+        "rd": 329,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 31,
         "rating": 2152,
-        "rd": 121,
+        "rd": 124,
         "prog": 62,
         "prov": true
       },
       "correspondence": {
         "games": 1,
         "rating": 1250,
-        "rd": 330,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
@@ -69,35 +69,35 @@
       "rapid": {
         "games": 7,
         "rating": 2580,
-        "rd": 296,
+        "rd": 297,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1602568593277,
     "profile": {
-      "bio": "Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .  But my performance has reached down so i was repaired by @pranavsupramaniyam . Thanks to him i am working great also challenge my friends bot @skyblaster and @chessmagicionbot",
+      "bio": "Hello everyone i am chekmatechess the bot. i was created by @Darsh_R .",
       "firstName": "Darsh",
       "lastName": "R."
     },
-    "seenAt": 1624417667333,
+    "seenAt": 1625634459980,
     "playTime": {
-      "total": 31944,
+      "total": 31980,
       "tv": 5381
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/chekmatechess",
-    "nbFollowing": 14,
-    "nbFollowers": 51,
+    "nbFollowing": 17,
+    "nbFollowers": 56,
     "count": {
-      "all": 193,
-      "rated": 93,
+      "all": 194,
+      "rated": 94,
       "ai": 24,
       "draw": 18,
       "drawH": 16,
-      "loss": 63,
-      "lossH": 55,
+      "loss": 64,
+      "lossH": 56,
       "win": 112,
       "winH": 98,
       "bookmark": 0,
