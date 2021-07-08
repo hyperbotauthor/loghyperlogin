@@ -4,37 +4,36 @@
   "username": "Chess_GMGame",
   "profileUrl": "https://lichess.org/@/Chess_GMGame",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chess_gmgame\",\"username\":\"Chess_GMGame\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1694,\"rd\":193,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":77,\"rating\":1814,\"rd\":82,\"prog\":0},\"ultraBullet\":{\"games\":83,\"rating\":1433,\"rd\":50,\"prog\":13},\"bullet\":{\"games\":8,\"rating\":1953,\"rd\":260,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":8,\"score\":31},\"streak\":{\"runs\":4,\"score\":13}},\"createdAt\":1614438338305,\"profile\":{\"country\":\"TR\"},\"seenAt\":1623304809784,\"playTime\":{\"total\":26668,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/Chess_GMGame\",\"nbFollowing\":12,\"nbFollowers\":3,\"completionRate\":97,\"count\":{\"all\":288,\"rated\":96,\"ai\":35,\"draw\":9,\"drawH\":9,\"loss\":118,\"lossH\":100,\"win\":161,\"winH\":144,\"bookmark\":4,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chess_gmgame\",\"username\":\"Chess_GMGame\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1401,\"rd\":137,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":95,\"rating\":1684,\"rd\":83,\"prog\":0},\"ultraBullet\":{\"games\":131,\"rating\":1406,\"rd\":55,\"prog\":15},\"bullet\":{\"games\":100,\"rating\":1760,\"rd\":45,\"prog\":-6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":8,\"score\":31},\"racer\":{\"runs\":3,\"score\":36},\"streak\":{\"runs\":7,\"score\":14}},\"createdAt\":1614438338305,\"profile\":{\"country\":\"TR\",\"bio\":\"i m @EagleEye2021\"},\"seenAt\":1625757252317,\"playTime\":{\"total\":42333,\"tv\":0},\"language\":\"tr-TR\",\"url\":\"https://lichess.org/@/Chess_GMGame\",\"nbFollowing\":17,\"nbFollowers\":4,\"completionRate\":77,\"count\":{\"all\":470,\"rated\":242,\"ai\":63,\"draw\":18,\"drawH\":15,\"loss\":199,\"lossH\":162,\"win\":253,\"winH\":230,\"bookmark\":10,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chess_gmgame",
     "username": "Chess_GMGame",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 5,
-        "rating": 1694,
-        "rd": 193,
+        "games": 11,
+        "rating": 1401,
+        "rd": 137,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 77,
-        "rating": 1814,
-        "rd": 82,
+        "games": 95,
+        "rating": 1684,
+        "rd": 83,
         "prog": 0
       },
       "ultraBullet": {
-        "games": 83,
-        "rating": 1433,
-        "rd": 50,
-        "prog": 13
+        "games": 131,
+        "rating": 1406,
+        "rd": 55,
+        "prog": 15
       },
       "bullet": {
-        "games": 8,
-        "rating": 1953,
-        "rd": 260,
-        "prog": 0,
-        "prov": true
+        "games": 100,
+        "rating": 1760,
+        "rd": 45,
+        "prog": -6
       },
       "correspondence": {
         "games": 0,
@@ -61,36 +60,41 @@
         "runs": 8,
         "score": 31
       },
+      "racer": {
+        "runs": 3,
+        "score": 36
+      },
       "streak": {
-        "runs": 4,
-        "score": 13
+        "runs": 7,
+        "score": 14
       }
     },
     "createdAt": 1614438338305,
     "profile": {
-      "country": "TR"
+      "country": "TR",
+      "bio": "i m @EagleEye2021"
     },
-    "seenAt": 1623304809784,
+    "seenAt": 1625757252317,
     "playTime": {
-      "total": 26668,
+      "total": 42333,
       "tv": 0
     },
     "language": "tr-TR",
     "url": "https://lichess.org/@/Chess_GMGame",
-    "nbFollowing": 12,
-    "nbFollowers": 3,
-    "completionRate": 97,
+    "nbFollowing": 17,
+    "nbFollowers": 4,
+    "completionRate": 77,
     "count": {
-      "all": 288,
-      "rated": 96,
-      "ai": 35,
-      "draw": 9,
-      "drawH": 9,
-      "loss": 118,
-      "lossH": 100,
-      "win": 161,
-      "winH": 144,
-      "bookmark": 4,
+      "all": 470,
+      "rated": 242,
+      "ai": 63,
+      "draw": 18,
+      "drawH": 15,
+      "loss": 199,
+      "lossH": 162,
+      "win": 253,
+      "winH": 230,
+      "bookmark": 10,
       "playing": 0,
       "import": 1,
       "me": 0
