@@ -4,7 +4,7 @@
   "username": "daretochallengeme",
   "profileUrl": "https://lichess.org/@/daretochallengeme",
   "provider": "lichess",
-  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"daretochallengeme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2302,\"rd\":158,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2050,\"rd\":144,\"prog\":-12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":423,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"seenAt\":1624962641093,\"playTime\":{\"total\":6408,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/daretochallengeme\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":45,\"rated\":25,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":8,\"win\":28,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"daretochallengeme\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2302,\"rd\":159,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2050,\"rd\":145,\"prog\":-12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":424,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"seenAt\":1625740145101,\"playTime\":{\"total\":6408,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/daretochallengeme\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":45,\"rated\":25,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":8,\"win\":28,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "daretochallengeme",
     "username": "daretochallengeme",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 10,
         "rating": 2302,
-        "rd": 158,
+        "rd": 159,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 14,
         "rating": 2050,
-        "rd": 144,
+        "rd": 145,
         "prog": -12,
         "prov": true
       },
@@ -41,13 +41,13 @@
       "rapid": {
         "games": 1,
         "rating": 2256,
-        "rd": 423,
+        "rd": 424,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1616774039995,
-    "seenAt": 1624962641093,
+    "seenAt": 1625740145101,
     "playTime": {
       "total": 6408,
       "tv": 348
