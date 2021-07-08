@@ -1,0 +1,87 @@
+{
+  "id": "administracionbot",
+  "displayName": "Administracionbot",
+  "username": "Administracionbot",
+  "profileUrl": "https://lichess.org/@/Administracionbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1837,\"rd\":195,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1652,\"rd\":101,\"prog\":75},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1535,\"rd\":332,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"firstName\":\"SUPER BOY\",\"lastName\":\"A1\"},\"seenAt\":1625751657253,\"playTime\":{\"total\":3996,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/uYIxAWIP/white\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":45,\"rated\":25,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "administracionbot",
+    "username": "Administracionbot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 1837,
+        "rd": 195,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 19,
+        "rating": 1652,
+        "rd": 101,
+        "prog": 75
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1535,
+        "rd": 332,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623891674481,
+    "profile": {
+      "country": "CO",
+      "location": "Jamundi",
+      "firstName": "SUPER BOY",
+      "lastName": "A1"
+    },
+    "seenAt": 1625751657253,
+    "playTime": {
+      "total": 3996,
+      "tv": 85
+    },
+    "language": "es-ES",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Administracionbot",
+    "playing": "https://lichess.org/uYIxAWIP/white",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
+    "count": {
+      "all": 45,
+      "rated": 25,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 11,
+      "lossH": 11,
+      "win": 32,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
