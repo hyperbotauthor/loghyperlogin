@@ -1,0 +1,120 @@
+{
+  "id": "movesbyvalueofpieces",
+  "displayName": "MovesByValueOfPieces",
+  "username": "MovesByValueOfPieces",
+  "profileUrl": "https://lichess.org/@/MovesByValueOfPieces",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"movesbyvalueofpieces\",\"username\":\"MovesByValueOfPieces\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":11,\"rating\":1782,\"rd\":148,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1201,\"rd\":388,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1588,\"rd\":240,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1375,\"rd\":223,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1289,\"rd\":261,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":1772,\"rd\":204,\"prog\":-80,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1625204604234,\"profile\":{\"bio\":\"Bot made in C# and bit of Python\\r\\nNEW:Can also play good type !good to make bot play good\\r\\n\\r\\nMoves by pieces value If capture then capture first\\r\\nTime controls: UltraBullet,Bullet and Blitz (Minium 0+0 Maxium 3min\\r\\nVariants: All\"},\"seenAt\":1625838687324,\"playTime\":{\"total\":10968,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MovesByValueOfPieces\",\"playing\":\"https://lichess.org/T3wJvW0V/white\",\"nbFollowing\":149,\"nbFollowers\":44,\"count\":{\"all\":93,\"rated\":52,\"ai\":1,\"draw\":8,\"drawH\":8,\"loss\":66,\"lossH\":65,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "movesbyvalueofpieces",
+    "username": "MovesByValueOfPieces",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 11,
+        "rating": 1782,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1201,
+        "rd": 388,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 1588,
+        "rd": 240,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 8,
+        "rating": 1375,
+        "rd": 223,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 1289,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 16,
+        "rating": 1772,
+        "rd": 204,
+        "prog": -80,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1625204604234,
+    "profile": {
+      "bio": "Bot made in C# and bit of Python\r\nNEW:Can also play good type !good to make bot play good\r\n\r\nMoves by pieces value If capture then capture first\r\nTime controls: UltraBullet,Bullet and Blitz (Minium 0+0 Maxium 3min\r\nVariants: All"
+    },
+    "seenAt": 1625838687324,
+    "playTime": {
+      "total": 10968,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/MovesByValueOfPieces",
+    "playing": "https://lichess.org/T3wJvW0V/white",
+    "nbFollowing": 149,
+    "nbFollowers": 44,
+    "count": {
+      "all": 93,
+      "rated": 52,
+      "ai": 1,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 66,
+      "lossH": 65,
+      "win": 19,
+      "winH": 19,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
