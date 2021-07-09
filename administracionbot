@@ -4,7 +4,7 @@
   "username": "Administracionbot",
   "profileUrl": "https://lichess.org/@/Administracionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1996,\"rd\":182,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":36,\"rating\":1669,\"rd\":81,\"prog\":15},\"correspondence\":{\"games\":1,\"rating\":1717,\"rd\":327,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1535,\"rd\":332,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"firstName\":\"SUPER BOY\",\"lastName\":\"A1\"},\"seenAt\":1625841644795,\"playTime\":{\"total\":12070,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/e4x2bcQA/black\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":89,\"rated\":45,\"ai\":2,\"draw\":2,\"drawH\":2,\"loss\":20,\"lossH\":19,\"win\":67,\"winH\":66,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1996,\"rd\":182,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":36,\"rating\":1669,\"rd\":81,\"prog\":15},\"correspondence\":{\"games\":1,\"rating\":1717,\"rd\":327,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1535,\"rd\":332,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"firstName\":\"SUPER BOY\",\"lastName\":\"A1\"},\"seenAt\":1625860072244,\"playTime\":{\"total\":12627,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/e4x2bcQA/black\",\"nbFollowing\":2,\"nbFollowers\":3,\"count\":{\"all\":90,\"rated\":45,\"ai\":3,\"draw\":2,\"drawH\":2,\"loss\":20,\"lossH\":19,\"win\":68,\"winH\":66,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "administracionbot",
     "username": "Administracionbot",
@@ -52,9 +52,9 @@
       "firstName": "SUPER BOY",
       "lastName": "A1"
     },
-    "seenAt": 1625841644795,
+    "seenAt": 1625860072244,
     "playTime": {
-      "total": 12070,
+      "total": 12627,
       "tv": 85
     },
     "language": "es-ES",
@@ -64,14 +64,14 @@
     "nbFollowing": 2,
     "nbFollowers": 3,
     "count": {
-      "all": 89,
+      "all": 90,
       "rated": 45,
-      "ai": 2,
+      "ai": 3,
       "draw": 2,
       "drawH": 2,
       "loss": 20,
       "lossH": 19,
-      "win": 67,
+      "win": 68,
       "winH": 66,
       "bookmark": 0,
       "playing": 3,
