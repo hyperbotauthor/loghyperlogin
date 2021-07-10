@@ -4,16 +4,23 @@
   "username": "NienishiEngine",
   "profileUrl": "https://lichess.org/@/NienishiEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2501,\"rd\":282,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1625937584857,\"playTime\":{\"total\":1584,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2176,\"rd\":392,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1890,\"rd\":401,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2604,\"rd\":217,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1625960873843,\"playTime\":{\"total\":5781,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"playing\":\"https://lichess.org/2PDD0ESW/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":7,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nienishiengine",
     "username": "NienishiEngine",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2176,
+        "rd": 392,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1890,
+        "rd": 401,
         "prog": 0,
         "prov": true
       },
@@ -39,36 +46,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2501,
-        "rd": 282,
+        "games": 4,
+        "rating": 2604,
+        "rd": 217,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625932513048,
-    "seenAt": 1625937584857,
+    "seenAt": 1625960873843,
     "playTime": {
-      "total": 1584,
+      "total": 5781,
       "tv": 772
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NienishiEngine",
+    "playing": "https://lichess.org/2PDD0ESW/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 2,
+      "all": 7,
+      "rated": 7,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 2,
-      "winH": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 1,
+      "lossH": 1,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
