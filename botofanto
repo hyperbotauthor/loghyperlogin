@@ -1,0 +1,88 @@
+{
+  "id": "botofanto",
+  "displayName": "BotOfAnto",
+  "username": "BotOfAnto",
+  "profileUrl": "https://lichess.org/@/BotOfAnto",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"botofanto\",\"username\":\"BotOfAnto\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1638,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1457,\"rd\":442,\"prog\":0,\"prov\":true}},\"createdAt\":1619867119556,\"profile\":{\"country\":\"AU\",\"bio\":\"I am the official  bot of Antonio Gonzalvez... do follow him\",\"firstName\":\"Antonio\",\"lastName\":\"Gonzalvez\",\"fideRating\":1789},\"seenAt\":1625986204376,\"playTime\":{\"total\":511,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BotOfAnto\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "botofanto",
+    "username": "BotOfAnto",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1638,
+        "rd": 266,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1457,
+        "rd": 442,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1619867119556,
+    "profile": {
+      "country": "AU",
+      "bio": "I am the official  bot of Antonio Gonzalvez... do follow him",
+      "firstName": "Antonio",
+      "lastName": "Gonzalvez",
+      "fideRating": 1789
+    },
+    "seenAt": 1625986204376,
+    "playTime": {
+      "total": 511,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/BotOfAnto",
+    "nbFollowing": 1,
+    "nbFollowers": 0,
+    "count": {
+      "all": 9,
+      "rated": 4,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 6,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
