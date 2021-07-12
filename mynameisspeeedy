@@ -1,0 +1,93 @@
+{
+  "id": "mynameisspeeedy",
+  "displayName": "MyNameIsSpeeedy",
+  "username": "MyNameIsSpeeedy",
+  "profileUrl": "https://lichess.org/@/MyNameIsSpeeedy",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2441,\"rd\":159,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":99,\"rating\":2670,\"rd\":56,\"prog\":-14},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2129,\"rd\":184,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2414,\"rd\":183,\"prog\":0,\"prov\":true}},\"createdAt\":1625684055061,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Just a BOT which is learning chess with his programer and friend striker2211. striker2211:First it was hard to learn variants but later if you can play them you will think that it is the easiest thing ever.\"},\"seenAt\":1626091009490,\"playTime\":{\"total\":43780,\"tv\":3548},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/WLW7J9LJ/black\",\"nbFollowing\":1,\"nbFollowers\":10,\"count\":{\"all\":259,\"rated\":129,\"ai\":122,\"draw\":6,\"drawH\":2,\"loss\":89,\"lossH\":22,\"win\":164,\"winH\":113,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "mynameisspeeedy",
+    "username": "MyNameIsSpeeedy",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 2441,
+        "rd": 159,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 8,
+        "rating": 1147,
+        "rd": 170,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 99,
+        "rating": 2670,
+        "rd": 56,
+        "prog": -14
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 2129,
+        "rd": 184,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2414,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1625684055061,
+    "profile": {
+      "country": "LV",
+      "location": "Riga",
+      "bio": "Just a BOT which is learning chess with his programer and friend striker2211. striker2211:First it was hard to learn variants but later if you can play them you will think that it is the easiest thing ever."
+    },
+    "seenAt": 1626091009490,
+    "playTime": {
+      "total": 43780,
+      "tv": 3548
+    },
+    "language": "de-DE",
+    "title": "BOT",
+    "url": "https://lichess.org/@/MyNameIsSpeeedy",
+    "playing": "https://lichess.org/WLW7J9LJ/black",
+    "nbFollowing": 1,
+    "nbFollowers": 10,
+    "count": {
+      "all": 259,
+      "rated": 129,
+      "ai": 122,
+      "draw": 6,
+      "drawH": 2,
+      "loss": 89,
+      "lossH": 22,
+      "win": 164,
+      "winH": 113,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
