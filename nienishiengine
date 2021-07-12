@@ -4,7 +4,7 @@
   "username": "NienishiEngine",
   "profileUrl": "https://lichess.org/@/NienishiEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2311,\"rd\":273,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2194,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":439,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2604,\"rd\":217,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1626032955771,\"playTime\":{\"total\":9350,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"playing\":\"https://lichess.org/5wrgbshc/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":16,\"rated\":11,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":1,\"win\":12,\"winH\":9,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2311,\"rd\":273,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":2260,\"rd\":197,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2194,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":439,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2604,\"rd\":218,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1626047975011,\"playTime\":{\"total\":10245,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"playing\":\"https://lichess.org/5wrgbshc/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":23,\"rated\":17,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":3,\"win\":17,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nienishiengine",
     "username": "NienishiEngine",
@@ -14,6 +14,13 @@
         "games": 3,
         "rating": 2311,
         "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 6,
+        "rating": 2260,
+        "rd": 197,
         "prog": 0,
         "prov": true
       },
@@ -48,15 +55,15 @@
       "rapid": {
         "games": 4,
         "rating": 2604,
-        "rd": 217,
+        "rd": 218,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625932513048,
-    "seenAt": 1626032955771,
+    "seenAt": 1626047975011,
     "playTime": {
-      "total": 9350,
+      "total": 10245,
       "tv": 772
     },
     "language": "en-US",
@@ -66,15 +73,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 16,
-      "rated": 11,
+      "all": 23,
+      "rated": 17,
       "ai": 5,
       "draw": 1,
       "drawH": 1,
-      "loss": 3,
-      "lossH": 1,
-      "win": 12,
-      "winH": 9,
+      "loss": 5,
+      "lossH": 3,
+      "win": 17,
+      "winH": 14,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
