@@ -4,7 +4,7 @@
   "username": "Bot_AaravN",
   "profileUrl": "https://lichess.org/@/Bot_AaravN",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_aaravn\",\"username\":\"Bot_AaravN\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624110554826,\"seenAt\":1624110586535,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Bot_AaravN\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_aaravn\",\"username\":\"Bot_AaravN\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1675,\"rd\":187,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1624110554826,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1626060671163,\"playTime\":{\"total\":1372,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot_AaravN\",\"nbFollowing\":4,\"nbFollowers\":4,\"count\":{\"all\":10,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_aaravn",
     "username": "Bot_AaravN",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1675,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,29 @@
       }
     },
     "createdAt": 1624110554826,
-    "seenAt": 1624110586535,
+    "profile": {
+      "country": "_earth"
+    },
+    "seenAt": 1626060671163,
     "playTime": {
-      "total": 0,
+      "total": 1372,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/Bot_AaravN",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 4,
+    "nbFollowers": 4,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 10,
+      "rated": 4,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
