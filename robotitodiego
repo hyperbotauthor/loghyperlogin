@@ -1,0 +1,82 @@
+{
+  "id": "robotitodiego",
+  "displayName": "RobotitoDiego",
+  "username": "RobotitoDiego",
+  "profileUrl": "https://lichess.org/@/RobotitoDiego",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"robotitodiego\",\"username\":\"RobotitoDiego\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1623978445078,\"seenAt\":1626093372575,\"playTime\":{\"total\":444,\"tv\":0},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RobotitoDiego\",\"playing\":\"https://lichess.org/oJSyeTAc/black\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":4,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "robotitodiego",
+    "username": "RobotitoDiego",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1623978445078,
+    "seenAt": 1626093372575,
+    "playTime": {
+      "total": 444,
+      "tv": 0
+    },
+    "language": "es-ES",
+    "title": "BOT",
+    "url": "https://lichess.org/@/RobotitoDiego",
+    "playing": "https://lichess.org/oJSyeTAc/black",
+    "nbFollowing": 1,
+    "nbFollowers": 2,
+    "count": {
+      "all": 4,
+      "rated": 0,
+      "ai": 1,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 0,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
