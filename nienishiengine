@@ -4,23 +4,23 @@
   "username": "NienishiEngine",
   "profileUrl": "https://lichess.org/@/NienishiEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2311,\"rd\":273,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":2260,\"rd\":197,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2194,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":439,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2604,\"rd\":218,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1626047975011,\"playTime\":{\"total\":10245,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"playing\":\"https://lichess.org/5wrgbshc/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":23,\"rated\":17,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":3,\"win\":17,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nienishiengine\",\"username\":\"NienishiEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2368,\"rd\":235,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":2304,\"rd\":177,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2194,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2423,\"rd\":242,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2608,\"rd\":216,\"prog\":0,\"prov\":true}},\"createdAt\":1625932513048,\"seenAt\":1626091778977,\"playTime\":{\"total\":11938,\"tv\":772},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NienishiEngine\",\"playing\":\"https://lichess.org/5wrgbshc/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":31,\"rated\":25,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":3,\"win\":25,\"winH\":22,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nienishiengine",
     "username": "NienishiEngine",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 3,
-        "rating": 2311,
-        "rd": 273,
+        "games": 4,
+        "rating": 2368,
+        "rd": 235,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 6,
-        "rating": 2260,
-        "rd": 197,
+        "games": 7,
+        "rating": 2304,
+        "rd": 177,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2214,
-        "rd": 439,
+        "games": 5,
+        "rating": 2423,
+        "rd": 242,
         "prog": 0,
         "prov": true
       },
@@ -53,17 +53,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2604,
-        "rd": 218,
+        "games": 5,
+        "rating": 2608,
+        "rd": 216,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625932513048,
-    "seenAt": 1626047975011,
+    "seenAt": 1626091778977,
     "playTime": {
-      "total": 10245,
+      "total": 11938,
       "tv": 772
     },
     "language": "en-US",
@@ -73,15 +73,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 23,
-      "rated": 17,
+      "all": 31,
+      "rated": 25,
       "ai": 5,
       "draw": 1,
       "drawH": 1,
       "loss": 5,
       "lossH": 3,
-      "win": 17,
-      "winH": 14,
+      "win": 25,
+      "winH": 22,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
