@@ -1,0 +1,143 @@
+{
+  "id": "darsh_arora",
+  "displayName": "Darsh_Arora",
+  "username": "Darsh_Arora",
+  "profileUrl": "https://lichess.org/@/Darsh_Arora",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"darsh_arora\",\"username\":\"Darsh_Arora\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":809,\"rd\":292,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1640,\"rd\":326,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":49,\"rating\":1614,\"rd\":89,\"prog\":0},\"atomic\":{\"games\":33,\"rating\":1489,\"rd\":109,\"prog\":-1},\"racingKings\":{\"games\":31,\"rating\":1768,\"rd\":101,\"prog\":-9},\"ultraBullet\":{\"games\":22,\"rating\":863,\"rd\":106,\"prog\":44},\"blitz\":{\"games\":35,\"rating\":1372,\"rd\":90,\"prog\":-49},\"crazyhouse\":{\"games\":5,\"rating\":1131,\"rd\":212,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1591,\"rd\":377,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":1171,\"rd\":113,\"prog\":28,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1264,\"rd\":273,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1475,\"rd\":253,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":3,\"score\":27},\"streak\":{\"runs\":8,\"score\":16}},\"createdAt\":1621396534008,\"profile\":{\"bio\":\"hi \\r\\nhttps://media.giphy.com/media/40FBkyJU7IrotYvrGX/giphy.gif\"},\"seenAt\":1626061500160,\"playTime\":{\"total\":27001,\"tv\":691},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Darsh_Arora\",\"nbFollowing\":4,\"nbFollowers\":19,\"completionRate\":81,\"count\":{\"all\":212,\"rated\":162,\"ai\":24,\"draw\":12,\"drawH\":11,\"loss\":86,\"lossH\":83,\"win\":114,\"winH\":94,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "darsh_arora",
+    "username": "Darsh_Arora",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 3,
+        "rating": 809,
+        "rd": 292,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 1640,
+        "rd": 326,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 49,
+        "rating": 1614,
+        "rd": 89,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 33,
+        "rating": 1489,
+        "rd": 109,
+        "prog": -1
+      },
+      "racingKings": {
+        "games": 31,
+        "rating": 1768,
+        "rd": 101,
+        "prog": -9
+      },
+      "ultraBullet": {
+        "games": 22,
+        "rating": 863,
+        "rd": 106,
+        "prog": 44
+      },
+      "blitz": {
+        "games": 35,
+        "rating": 1372,
+        "rd": 90,
+        "prog": -49
+      },
+      "crazyhouse": {
+        "games": 5,
+        "rating": 1131,
+        "rd": 212,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1591,
+        "rd": 377,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 21,
+        "rating": 1171,
+        "rd": 113,
+        "prog": 28,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1264,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1475,
+        "rd": 253,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 3,
+        "score": 27
+      },
+      "streak": {
+        "runs": 8,
+        "score": 16
+      }
+    },
+    "createdAt": 1621396534008,
+    "profile": {
+      "bio": "hi \r\nhttps://media.giphy.com/media/40FBkyJU7IrotYvrGX/giphy.gif"
+    },
+    "seenAt": 1626061500160,
+    "playTime": {
+      "total": 27001,
+      "tv": 691
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Darsh_Arora",
+    "nbFollowing": 4,
+    "nbFollowers": 19,
+    "completionRate": 81,
+    "count": {
+      "all": 212,
+      "rated": 162,
+      "ai": 24,
+      "draw": 12,
+      "drawH": 11,
+      "loss": 86,
+      "lossH": 83,
+      "win": 114,
+      "winH": 94,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
