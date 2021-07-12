@@ -1,0 +1,87 @@
+{
+  "id": "thatgiy",
+  "displayName": "ThatgIY",
+  "username": "ThatgIY",
+  "profileUrl": "https://lichess.org/@/ThatgIY",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thatgiy\",\"username\":\"ThatgIY\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":82,\"rating\":1555,\"rd\":80,\"prog\":0},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1613918989989,\"seenAt\":1626097338041,\"playTime\":{\"total\":433,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ThatgIY\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":0,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thatgiy",
+    "username": "ThatgIY",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 82,
+        "rating": 1555,
+        "rd": 80,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1613918989989,
+    "seenAt": 1626097338041,
+    "playTime": {
+      "total": 433,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/ThatgIY",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 3,
+      "rated": 0,
+      "ai": 3,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 3,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
