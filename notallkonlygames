@@ -4,7 +4,7 @@
   "username": "NoTallkOnlyGames",
   "profileUrl": "https://lichess.org/@/NoTallkOnlyGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":294,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":196,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":1922,\"rd\":121,\"prog\":21,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":292,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1688,\"rd\":97,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":1912,\"rd\":122,\"prog\":98,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"NZ\",\"bio\":\"Custom made bot running on Heroku server.\\r\\nElo: 1600 - 2500.\\r\\nNoTallkonlyGames will be your all-round favourite bot on Lichess :)\",\"firstName\":\"NoTallkOnlyGames\",\"lastName\":\"v2021.3.17\",\"links\":\"Heroku.com\"},\"seenAt\":1615970633950,\"playTime\":{\"total\":92226,\"tv\":2364},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":5,\"nbFollowers\":16,\"count\":{\"all\":203,\"rated\":71,\"ai\":64,\"draw\":11,\"drawH\":11,\"loss\":104,\"lossH\":62,\"win\":88,\"winH\":66,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notallkonlygames\",\"username\":\"NoTallkOnlyGames\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1871,\"rd\":305,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1610,\"rd\":212,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":405,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":13,\"rating\":1922,\"rd\":145,\"prog\":21,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1291,\"rd\":303,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1293,\"rd\":301,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1688,\"rd\":125,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":1912,\"rd\":146,\"prog\":98,\"prov\":true}},\"createdAt\":1612930350221,\"profile\":{\"country\":\"NZ\",\"bio\":\"Custom made bot running on Heroku server.\\r\\nElo: 1600 - 2500.\\r\\nNoTallkonlyGames will be your all-round favourite bot on Lichess :)\",\"firstName\":\"NoTallkOnlyGames\",\"lastName\":\"v2021.3.17\",\"links\":\"Heroku.com\"},\"seenAt\":1626304554152,\"playTime\":{\"total\":92226,\"tv\":2364},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NoTallkOnlyGames\",\"nbFollowing\":5,\"nbFollowers\":16,\"count\":{\"all\":203,\"rated\":71,\"ai\":64,\"draw\":11,\"drawH\":11,\"loss\":104,\"lossH\":62,\"win\":88,\"winH\":66,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notallkonlygames",
     "username": "NoTallkOnlyGames",
@@ -13,50 +13,51 @@
       "antichess": {
         "games": 3,
         "rating": 1871,
-        "rd": 294,
+        "rd": 305,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 6,
         "rating": 1610,
-        "rd": 196,
+        "rd": 212,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1741,
-        "rd": 397,
+        "rd": 405,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 13,
         "rating": 1922,
-        "rd": 121,
+        "rd": 145,
         "prog": 21,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1291,
-        "rd": 292,
+        "rd": 303,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1293,
-        "rd": 291,
+        "rd": 301,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 29,
         "rating": 1688,
-        "rd": 97,
-        "prog": 0
+        "rd": 125,
+        "prog": 0,
+        "prov": true
       },
       "correspondence": {
         "games": 0,
@@ -75,7 +76,7 @@
       "rapid": {
         "games": 16,
         "rating": 1912,
-        "rd": 122,
+        "rd": 146,
         "prog": 98,
         "prov": true
       }
@@ -88,7 +89,7 @@
       "lastName": "v2021.3.17",
       "links": "Heroku.com"
     },
-    "seenAt": 1615970633950,
+    "seenAt": 1626304554152,
     "playTime": {
       "total": 92226,
       "tv": 2364
