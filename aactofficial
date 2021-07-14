@@ -4,7 +4,7 @@
   "username": "AACTOfficial",
   "profileUrl": "https://lichess.org/@/AACTOfficial",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aactofficial\",\"username\":\"AACTOfficial\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":43,\"rating\":2376,\"rd\":82,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":1400,\"rd\":357,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":70,\"rating\":1496,\"rd\":57,\"prog\":75},\"blitz\":{\"games\":19,\"rating\":2219,\"rd\":86,\"prog\":-108},\"crazyhouse\":{\"games\":4,\"rating\":1597,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":70,\"rating\":2242,\"rd\":50,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2436,\"rd\":86,\"prog\":-65},\"racer\":{\"runs\":2,\"score\":53}},\"createdAt\":1624421508478,\"seenAt\":1626245940925,\"playTime\":{\"total\":83337,\"tv\":915},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/AACTOfficial\",\"playing\":\"https://lichess.org/rINbF5h2/black\",\"nbFollowing\":1,\"nbFollowers\":34,\"completionRate\":73,\"count\":{\"all\":304,\"rated\":190,\"ai\":0,\"draw\":19,\"drawH\":19,\"loss\":118,\"lossH\":118,\"win\":167,\"winH\":167,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aactofficial\",\"username\":\"AACTOfficial\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":43,\"rating\":2376,\"rd\":82,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":1400,\"rd\":357,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":70,\"rating\":1496,\"rd\":57,\"prog\":75},\"blitz\":{\"games\":19,\"rating\":2219,\"rd\":86,\"prog\":-108},\"crazyhouse\":{\"games\":4,\"rating\":1597,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":70,\"rating\":2242,\"rd\":50,\"prog\":-12},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2436,\"rd\":86,\"prog\":-65},\"racer\":{\"runs\":2,\"score\":53}},\"createdAt\":1624421508478,\"seenAt\":1626246564214,\"playTime\":{\"total\":83337,\"tv\":915},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/AACTOfficial\",\"playing\":\"https://lichess.org/rINbF5h2/black\",\"nbFollowing\":1,\"nbFollowers\":34,\"completionRate\":70,\"count\":{\"all\":304,\"rated\":190,\"ai\":0,\"draw\":19,\"drawH\":19,\"loss\":118,\"lossH\":118,\"win\":167,\"winH\":167,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aactofficial",
     "username": "AACTOfficial",
@@ -74,7 +74,7 @@
       }
     },
     "createdAt": 1624421508478,
-    "seenAt": 1626245940925,
+    "seenAt": 1626246564214,
     "playTime": {
       "total": 83337,
       "tv": 915
@@ -84,7 +84,7 @@
     "playing": "https://lichess.org/rINbF5h2/black",
     "nbFollowing": 1,
     "nbFollowers": 34,
-    "completionRate": 73,
+    "completionRate": 70,
     "count": {
       "all": 304,
       "rated": 190,
