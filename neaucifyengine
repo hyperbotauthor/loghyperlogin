@@ -4,7 +4,7 @@
   "username": "NeaucifyEngine",
   "profileUrl": "https://lichess.org/@/NeaucifyEngine",
   "provider": "lichess",
-  "_raw": "{\"id\":\"neaucifyengine\",\"username\":\"NeaucifyEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2188,\"rd\":489,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2118,\"rd\":219,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2455,\"rd\":212,\"prog\":0,\"prov\":true}},\"createdAt\":1626224964419,\"seenAt\":1626351201109,\"playTime\":{\"total\":4288,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NeaucifyEngine\",\"playing\":\"https://lichess.org/s92MbYI9/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":13,\"rated\":12,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"neaucifyengine\",\"username\":\"NeaucifyEngine\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2921,\"rd\":290,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2118,\"rd\":219,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2473,\"rd\":202,\"prog\":0,\"prov\":true}},\"createdAt\":1626224964419,\"seenAt\":1626359191067,\"playTime\":{\"total\":6039,\"tv\":339},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/NeaucifyEngine\",\"playing\":\"https://lichess.org/R3i4UD3R/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":19,\"rated\":18,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "neaucifyengine",
     "username": "NeaucifyEngine",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 2188,
-        "rd": 489,
+        "games": 6,
+        "rating": 2921,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
@@ -39,35 +39,35 @@
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 2455,
-        "rd": 212,
+        "games": 7,
+        "rating": 2473,
+        "rd": 202,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1626224964419,
-    "seenAt": 1626351201109,
+    "seenAt": 1626359191067,
     "playTime": {
-      "total": 4288,
-      "tv": 0
+      "total": 6039,
+      "tv": 339
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/NeaucifyEngine",
-    "playing": "https://lichess.org/s92MbYI9/white",
+    "playing": "https://lichess.org/R3i4UD3R/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 13,
-      "rated": 12,
+      "all": 19,
+      "rated": 18,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 3,
-      "lossH": 3,
-      "win": 9,
-      "winH": 9,
+      "loss": 4,
+      "lossH": 4,
+      "win": 14,
+      "winH": 14,
       "bookmark": 0,
       "playing": 2,
       "import": 0,
