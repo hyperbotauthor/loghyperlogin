@@ -1,0 +1,91 @@
+{
+  "id": "navneetbansal",
+  "displayName": "NavneetBansal",
+  "username": "NavneetBansal",
+  "profileUrl": "https://lichess.org/@/NavneetBansal",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"navneetbansal\",\"username\":\"NavneetBansal\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":8,\"rating\":933,\"rd\":247,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":927,\"rating\":1491,\"rd\":89,\"prog\":0},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1866,\"rd\":263,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":1514,\"rd\":128,\"prog\":-45,\"prov\":true},\"racer\":{\"runs\":2,\"score\":22}},\"createdAt\":1604648579516,\"seenAt\":1626350456180,\"playTime\":{\"total\":65860,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/NavneetBansal\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":88,\"count\":{\"all\":100,\"rated\":30,\"ai\":7,\"draw\":6,\"drawH\":5,\"loss\":40,\"lossH\":36,\"win\":54,\"winH\":52,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "navneetbansal",
+    "username": "NavneetBansal",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 933,
+        "rd": 247,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 927,
+        "rating": 1491,
+        "rd": 89,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1866,
+        "rd": 263,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 1514,
+        "rd": 128,
+        "prog": -45,
+        "prov": true
+      },
+      "racer": {
+        "runs": 2,
+        "score": 22
+      }
+    },
+    "createdAt": 1604648579516,
+    "seenAt": 1626350456180,
+    "playTime": {
+      "total": 65860,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/NavneetBansal",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 88,
+    "count": {
+      "all": 100,
+      "rated": 30,
+      "ai": 7,
+      "draw": 6,
+      "drawH": 5,
+      "loss": 40,
+      "lossH": 36,
+      "win": 54,
+      "winH": 52,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
