@@ -4,7 +4,7 @@
   "username": "EagleEye2021",
   "profileUrl": "https://lichess.org/@/EagleEye2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"eagleeye2021\",\"username\":\"EagleEye2021\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":7,\"rating\":2235,\"rd\":177,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1935,\"rd\":185,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":58,\"rating\":2288,\"rd\":111,\"prog\":86,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":1880,\"rd\":212,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2365,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":272,\"rating\":2207,\"rd\":71,\"prog\":33},\"correspondence\":{\"games\":2,\"rating\":1493,\"rd\":358,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2183,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2426,\"rd\":175,\"prog\":0,\"prov\":true}},\"createdAt\":1610132228724,\"profile\":{\"country\":\"_earth\",\"location\":\"Earth\",\"bio\":\"For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life I am @Chess_GMGame\\r\\n\\r\\n                                                                                                       \\r\\n                                                                                                                                           @EagleEye2021\"},\"seenAt\":1626516518192,\"playTime\":{\"total\":199507,\"tv\":58909},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EagleEye2021\",\"nbFollowing\":119,\"nbFollowers\":54,\"count\":{\"all\":1320,\"rated\":374,\"ai\":647,\"draw\":141,\"drawH\":84,\"loss\":724,\"lossH\":274,\"win\":455,\"winH\":315,\"bookmark\":29,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"eagleeye2021\",\"username\":\"EagleEye2021\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":7,\"rating\":2235,\"rd\":177,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1935,\"rd\":185,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":58,\"rating\":2288,\"rd\":111,\"prog\":86,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":1880,\"rd\":212,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2365,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":277,\"rating\":2234,\"rd\":67,\"prog\":14},\"correspondence\":{\"games\":2,\"rating\":1493,\"rd\":358,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2183,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2426,\"rd\":175,\"prog\":0,\"prov\":true}},\"createdAt\":1610132228724,\"profile\":{\"country\":\"_earth\",\"location\":\"Earth\",\"bio\":\"For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life I am @Chess_GMGame\\r\\n\\r\\n                                                                                                       \\r\\n                                                                                                                                           @EagleEye2021\"},\"seenAt\":1626536043254,\"playTime\":{\"total\":202074,\"tv\":60651},\"language\":\"tr-TR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EagleEye2021\",\"nbFollowing\":119,\"nbFollowers\":55,\"count\":{\"all\":1339,\"rated\":379,\"ai\":654,\"draw\":144,\"drawH\":86,\"loss\":729,\"lossH\":276,\"win\":466,\"winH\":323,\"bookmark\":29,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "eagleeye2021",
     "username": "EagleEye2021",
@@ -46,10 +46,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 272,
-        "rating": 2207,
-        "rd": 71,
-        "prog": 33
+        "games": 277,
+        "rating": 2234,
+        "rd": 67,
+        "prog": 14
       },
       "correspondence": {
         "games": 2,
@@ -79,26 +79,26 @@
       "location": "Earth",
       "bio": "For 2021 to be better than 2020 and 2019 and to end the coronavirus and to return to our old life I am @Chess_GMGame\r\n\r\n                                                                                                       \r\n                                                                                                                                           @EagleEye2021"
     },
-    "seenAt": 1626516518192,
+    "seenAt": 1626536043254,
     "playTime": {
-      "total": 199507,
-      "tv": 58909
+      "total": 202074,
+      "tv": 60651
     },
     "language": "tr-TR",
     "title": "BOT",
     "url": "https://lichess.org/@/EagleEye2021",
     "nbFollowing": 119,
-    "nbFollowers": 54,
+    "nbFollowers": 55,
     "count": {
-      "all": 1320,
-      "rated": 374,
-      "ai": 647,
-      "draw": 141,
-      "drawH": 84,
-      "loss": 724,
-      "lossH": 274,
-      "win": 455,
-      "winH": 315,
+      "all": 1339,
+      "rated": 379,
+      "ai": 654,
+      "draw": 144,
+      "drawH": 86,
+      "loss": 729,
+      "lossH": 276,
+      "win": 466,
+      "winH": 323,
       "bookmark": 29,
       "playing": 0,
       "import": 0,
