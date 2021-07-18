@@ -4,7 +4,7 @@
   "username": "Administracionbot",
   "profileUrl": "https://lichess.org/@/Administracionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1996,\"rd\":183,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1669,\"rd\":84,\"prog\":44},\"correspondence\":{\"games\":9,\"rating\":1933,\"rd\":200,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1535,\"rd\":332,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"bio\":\"https://i.imgur.com/KM403sa.jpg\",\"firstName\":\"꧁SUPER BOY\",\"lastName\":\"A1꧂\"},\"seenAt\":1626445425055,\"playTime\":{\"total\":27297,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/9a2NZR97/white\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":120,\"rated\":56,\"ai\":7,\"draw\":3,\"drawH\":3,\"loss\":24,\"lossH\":23,\"win\":93,\"winH\":87,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":1996,\"rd\":183,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1669,\"rd\":84,\"prog\":44},\"correspondence\":{\"games\":9,\"rating\":1933,\"rd\":200,\"prog\":0,\"prov\":true},\"classical\":{\"games\":16,\"rating\":1246,\"rd\":167,\"prog\":40,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1535,\"rd\":332,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"bio\":\"https://i.imgur.com/KM403sa.jpg\",\"firstName\":\"꧁SUPER BOY\",\"lastName\":\"A1꧂\"},\"seenAt\":1626625026711,\"playTime\":{\"total\":29243,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/26ITqAKa/white\",\"nbFollowing\":2,\"nbFollowers\":7,\"count\":{\"all\":142,\"rated\":72,\"ai\":7,\"draw\":3,\"drawH\":3,\"loss\":27,\"lossH\":26,\"win\":112,\"winH\":106,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "administracionbot",
     "username": "Administracionbot",
@@ -31,10 +31,10 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 16,
+        "rating": 1246,
+        "rd": 167,
+        "prog": 40,
         "prov": true
       },
       "rapid": {
@@ -53,29 +53,29 @@
       "firstName": "꧁SUPER BOY",
       "lastName": "A1꧂"
     },
-    "seenAt": 1626445425055,
+    "seenAt": 1626625026711,
     "playTime": {
-      "total": 27297,
+      "total": 29243,
       "tv": 85
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/Administracionbot",
-    "playing": "https://lichess.org/9a2NZR97/white",
+    "playing": "https://lichess.org/26ITqAKa/white",
     "nbFollowing": 2,
     "nbFollowers": 7,
     "count": {
-      "all": 120,
-      "rated": 56,
+      "all": 142,
+      "rated": 72,
       "ai": 7,
       "draw": 3,
       "drawH": 3,
-      "loss": 24,
-      "lossH": 23,
-      "win": 93,
-      "winH": 87,
+      "loss": 27,
+      "lossH": 26,
+      "win": 112,
+      "winH": 106,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
