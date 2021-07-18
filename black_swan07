@@ -1,0 +1,81 @@
+{
+  "id": "black_swan07",
+  "displayName": "Black_Swan07",
+  "username": "Black_Swan07",
+  "profileUrl": "https://lichess.org/@/Black_Swan07",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"black_swan07\",\"username\":\"Black_Swan07\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2224,\"rd\":423,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1644,\"rd\":342,\"prog\":0,\"prov\":true}},\"createdAt\":1626541843983,\"seenAt\":1626595608657,\"playTime\":{\"total\":2619,\"tv\":137},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Black_Swan07\",\"nbFollowing\":13,\"nbFollowers\":2,\"count\":{\"all\":31,\"rated\":6,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":6,\"lossH\":5,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "black_swan07",
+    "username": "Black_Swan07",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2224,
+        "rd": 423,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1644,
+        "rd": 342,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1626541843983,
+    "seenAt": 1626595608657,
+    "playTime": {
+      "total": 2619,
+      "tv": 137
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Black_Swan07",
+    "nbFollowing": 13,
+    "nbFollowers": 2,
+    "count": {
+      "all": 31,
+      "rated": 6,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 6,
+      "lossH": 5,
+      "win": 23,
+      "winH": 23,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
