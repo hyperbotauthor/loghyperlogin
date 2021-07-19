@@ -1,0 +1,95 @@
+{
+  "id": "berserk127",
+  "displayName": "Berserk127",
+  "username": "Berserk127",
+  "profileUrl": "https://lichess.org/@/Berserk127",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"berserk127\",\"username\":\"Berserk127\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1677,\"rd\":161,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":35,\"rating\":2188,\"rd\":75,\"prog\":-10},\"crazyhouse\":{\"games\":1,\"rating\":1432,\"rd\":403,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":36,\"rating\":2223,\"rd\":83,\"prog\":-137},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2362,\"rd\":104,\"prog\":81}},\"createdAt\":1625718038731,\"profile\":{\"bio\":\"Join my team https://lichess.org/team/chess-kings127\\r\\nThis is an all variant Bot\"},\"seenAt\":1626675307900,\"playTime\":{\"total\":28196,\"tv\":5939},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Berserk127\",\"nbFollowing\":0,\"nbFollowers\":11,\"count\":{\"all\":110,\"rated\":103,\"ai\":2,\"draw\":8,\"drawH\":8,\"loss\":35,\"lossH\":33,\"win\":67,\"winH\":67,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "berserk127",
+    "username": "Berserk127",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 8,
+        "rating": 1677,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 35,
+        "rating": 2188,
+        "rd": 75,
+        "prog": -10
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1432,
+        "rd": 403,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 36,
+        "rating": 2223,
+        "rd": 83,
+        "prog": -137
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 2362,
+        "rd": 104,
+        "prog": 81
+      }
+    },
+    "createdAt": 1625718038731,
+    "profile": {
+      "bio": "Join my team https://lichess.org/team/chess-kings127\r\nThis is an all variant Bot"
+    },
+    "seenAt": 1626675307900,
+    "playTime": {
+      "total": 28196,
+      "tv": 5939
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Berserk127",
+    "nbFollowing": 0,
+    "nbFollowers": 11,
+    "count": {
+      "all": 110,
+      "rated": 103,
+      "ai": 2,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 35,
+      "lossH": 33,
+      "win": 67,
+      "winH": 67,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
