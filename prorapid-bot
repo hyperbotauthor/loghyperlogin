@@ -4,7 +4,7 @@
   "username": "ProRaPid-BOT",
   "profileUrl": "https://lichess.org/@/ProRaPid-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2277,\"rd\":362,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2194,\"rd\":297,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2338,\"rd\":304,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"seenAt\":1626720202419,\"playTime\":{\"total\":2572,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"playing\":\"https://lichess.org/66bveLj7/white\",\"nbFollowing\":19,\"nbFollowers\":3,\"count\":{\"all\":13,\"rated\":9,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2277,\"rd\":362,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2031,\"rd\":227,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2113,\"rd\":237,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"seenAt\":1626720809553,\"playTime\":{\"total\":4358,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"nbFollowing\":19,\"nbFollowers\":3,\"count\":{\"all\":15,\"rated\":11,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prorapid-bot",
     "username": "ProRaPid-BOT",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 2194,
-        "rd": 297,
+        "games": 3,
+        "rating": 2031,
+        "rd": 227,
         "prog": 0,
         "prov": true
       },
@@ -39,37 +39,36 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2338,
-        "rd": 304,
+        "games": 4,
+        "rating": 2113,
+        "rd": 237,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1626683416565,
-    "seenAt": 1626720202419,
+    "seenAt": 1626720809553,
     "playTime": {
-      "total": 2572,
+      "total": 4358,
       "tv": 0
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/ProRaPid-BOT",
-    "playing": "https://lichess.org/66bveLj7/white",
     "nbFollowing": 19,
     "nbFollowers": 3,
     "count": {
-      "all": 13,
-      "rated": 9,
+      "all": 15,
+      "rated": 11,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
+      "loss": 3,
+      "lossH": 3,
       "win": 11,
       "winH": 11,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
