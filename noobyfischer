@@ -4,7 +4,7 @@
   "username": "noobyfischer",
   "profileUrl": "https://lichess.org/@/noobyfischer",
   "provider": "lichess",
-  "_raw": "{\"id\":\"noobyfischer\",\"username\":\"noobyfischer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1277,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1093,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626727860251,\"seenAt\":1626728715216,\"playTime\":{\"total\":12,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/noobyfischer\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"noobyfischer\",\"username\":\"noobyfischer\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1277,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":996,\"rd\":242,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626727860251,\"seenAt\":1626728715216,\"playTime\":{\"total\":24,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/noobyfischer\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "noobyfischer",
     "username": "noobyfischer",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1093,
-        "rd": 311,
+        "games": 2,
+        "rating": 996,
+        "rd": 242,
         "prog": 0,
         "prov": true
       },
@@ -49,7 +49,7 @@
     "createdAt": 1626727860251,
     "seenAt": 1626728715216,
     "playTime": {
-      "total": 12,
+      "total": 24,
       "tv": 0
     },
     "language": "en-US",
@@ -57,13 +57,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 2,
+      "all": 3,
+      "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
+      "loss": 3,
+      "lossH": 3,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
