@@ -1,0 +1,130 @@
+{
+  "id": "m0chess",
+  "displayName": "M0chess",
+  "username": "M0chess",
+  "profileUrl": "https://lichess.org/@/M0chess",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"m0chess\",\"username\":\"M0chess\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1074,\"rd\":229,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":16,\"rating\":1205,\"rd\":113,\"prog\":23,\"prov\":true},\"puzzle\":{\"games\":282,\"rating\":1322,\"rd\":86,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":1230,\"rd\":301,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":1073,\"rd\":178,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":830,\"rd\":343,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1110,\"rd\":213,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":931,\"rd\":165,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1214,\"rd\":234,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1328,\"rd\":128,\"prog\":-35,\"prov\":true}},\"createdAt\":1610258030525,\"seenAt\":1626877717983,\"playTime\":{\"total\":29703,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/M0chess\",\"playing\":\"https://lichess.org/kYyoO2nr/white\",\"nbFollowing\":4,\"nbFollowers\":0,\"completionRate\":50,\"count\":{\"all\":173,\"rated\":59,\"ai\":55,\"draw\":4,\"drawH\":3,\"loss\":129,\"lossH\":87,\"win\":40,\"winH\":28,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "m0chess",
+    "username": "M0chess",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 4,
+        "rating": 1074,
+        "rd": 229,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 16,
+        "rating": 1205,
+        "rd": 113,
+        "prog": 23,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 282,
+        "rating": 1322,
+        "rd": 86,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1230,
+        "rd": 301,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 7,
+        "rating": 1073,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 830,
+        "rd": 343,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1110,
+        "rd": 213,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 931,
+        "rd": 165,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1214,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 14,
+        "rating": 1328,
+        "rd": 128,
+        "prog": -35,
+        "prov": true
+      }
+    },
+    "createdAt": 1610258030525,
+    "seenAt": 1626877717983,
+    "playTime": {
+      "total": 29703,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/M0chess",
+    "playing": "https://lichess.org/kYyoO2nr/white",
+    "nbFollowing": 4,
+    "nbFollowers": 0,
+    "completionRate": 50,
+    "count": {
+      "all": 173,
+      "rated": 59,
+      "ai": 55,
+      "draw": 4,
+      "drawH": 3,
+      "loss": 129,
+      "lossH": 87,
+      "win": 40,
+      "winH": 28,
+      "bookmark": 1,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
