@@ -4,7 +4,7 @@
   "username": "Stockfish-10_BOT",
   "profileUrl": "https://lichess.org/@/Stockfish-10_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfish-10_bot\",\"username\":\"Stockfish-10_BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1164,\"rd\":275,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":24,\"rating\":1371,\"rd\":99,\"prog\":-317},\"atomic\":{\"games\":152,\"rating\":1192,\"rd\":60,\"prog\":-14},\"racingKings\":{\"games\":2,\"rating\":1180,\"rd\":246,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":140,\"rating\":1225,\"rd\":47,\"prog\":27},\"blitz\":{\"games\":40,\"rating\":1768,\"rd\":89,\"prog\":-37},\"kingOfTheHill\":{\"games\":5,\"rating\":1010,\"rd\":207,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1906,\"rd\":318,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":34,\"rating\":1418,\"rd\":99,\"prog\":27},\"bullet\":{\"games\":198,\"rating\":1585,\"rd\":46,\"prog\":-19},\"correspondence\":{\"games\":23,\"rating\":1983,\"rd\":135,\"prog\":28,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1128,\"rd\":230,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":70,\"rating\":2186,\"rd\":106,\"prog\":0},\"classical\":{\"games\":100,\"rating\":1735,\"rd\":63,\"prog\":8},\"rapid\":{\"games\":125,\"rating\":1795,\"rd\":54,\"prog\":18},\"storm\":{\"runs\":9,\"score\":34},\"racer\":{\"runs\":3,\"score\":33},\"streak\":{\"runs\":2,\"score\":19}},\"createdAt\":1606277688229,\"profile\":{\"country\":\"IN\",\"bio\":\"I have 12 bots. Check out my recent bot  @Flaming_spy now! He runs on stockfish 8! Please join my team https://lichess.org/team/lichess-online-24-hr \\r\\nFollow for follow? sure. I like Antichess of all variants;) Currently trying to improve standard chess.( Working on tactics). Team limit full.(almost).\\r\\nI code bots in python using API.\\r\\nhttps://i.imgur.com/mwo9eTL.jpg\\r\\nhttps://imgur.com/DGJfusg\",\"firstName\":\"Am I titled yet?\",\"fideRating\":1354,\"links\":\"https://lichess.org/account/close\"},\"seenAt\":1624430032449,\"playTime\":{\"total\":243830,\"tv\":3919},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Stockfish-10_BOT\",\"playing\":\"https://lichess.org/BTPDVswO/black\",\"nbFollowing\":148,\"nbFollowers\":133,\"completionRate\":75,\"count\":{\"all\":1251,\"rated\":869,\"ai\":8,\"draw\":42,\"drawH\":42,\"loss\":586,\"lossH\":578,\"win\":623,\"winH\":623,\"bookmark\":1,\"playing\":5,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfish-10_bot\",\"username\":\"Stockfish-10_BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1164,\"rd\":278,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":30,\"rating\":1358,\"rd\":92,\"prog\":-53},\"atomic\":{\"games\":152,\"rating\":1192,\"rd\":72,\"prog\":-14},\"racingKings\":{\"games\":28,\"rating\":1411,\"rd\":87,\"prog\":169},\"ultraBullet\":{\"games\":239,\"rating\":1236,\"rd\":45,\"prog\":-20},\"blitz\":{\"games\":68,\"rating\":1642,\"rd\":62,\"prog\":-65},\"kingOfTheHill\":{\"games\":5,\"rating\":1010,\"rd\":210,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1906,\"rd\":321,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":35,\"rating\":1384,\"rd\":102,\"prog\":7},\"bullet\":{\"games\":247,\"rating\":1549,\"rd\":48,\"prog\":-28},\"correspondence\":{\"games\":24,\"rating\":1988,\"rd\":139,\"prog\":20,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1352,\"rd\":214,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":71,\"rating\":2160,\"rd\":110,\"prog\":0,\"prov\":true},\"classical\":{\"games\":104,\"rating\":1769,\"rd\":74,\"prog\":42},\"rapid\":{\"games\":180,\"rating\":1735,\"rd\":49,\"prog\":-34},\"storm\":{\"runs\":9,\"score\":34},\"racer\":{\"runs\":3,\"score\":33},\"streak\":{\"runs\":2,\"score\":19}},\"createdAt\":1606277688229,\"profile\":{\"country\":\"_lichess\",\"bio\":\"»\",\"fideRating\":1354,\"links\":\"https://lichess.org/account/close\"},\"seenAt\":1627037004787,\"playTime\":{\"total\":317421,\"tv\":4967},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Stockfish-10_BOT\",\"playing\":\"https://lichess.org/wjYOkIBf/white\",\"nbFollowing\":169,\"nbFollowers\":142,\"completionRate\":73,\"count\":{\"all\":1660,\"rated\":1141,\"ai\":25,\"draw\":48,\"drawH\":48,\"loss\":849,\"lossH\":829,\"win\":763,\"winH\":758,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfish-10_bot",
     "username": "Stockfish-10_BOT",
@@ -13,98 +13,98 @@
       "chess960": {
         "games": 4,
         "rating": 1164,
-        "rd": 275,
+        "rd": 278,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 24,
-        "rating": 1371,
-        "rd": 99,
-        "prog": -317
+        "games": 30,
+        "rating": 1358,
+        "rd": 92,
+        "prog": -53
       },
       "atomic": {
         "games": 152,
         "rating": 1192,
-        "rd": 60,
+        "rd": 72,
         "prog": -14
       },
       "racingKings": {
-        "games": 2,
-        "rating": 1180,
-        "rd": 246,
-        "prog": 0,
-        "prov": true
+        "games": 28,
+        "rating": 1411,
+        "rd": 87,
+        "prog": 169
       },
       "ultraBullet": {
-        "games": 140,
-        "rating": 1225,
-        "rd": 47,
-        "prog": 27
+        "games": 239,
+        "rating": 1236,
+        "rd": 45,
+        "prog": -20
       },
       "blitz": {
-        "games": 40,
-        "rating": 1768,
-        "rd": 89,
-        "prog": -37
+        "games": 68,
+        "rating": 1642,
+        "rd": 62,
+        "prog": -65
       },
       "kingOfTheHill": {
         "games": 5,
         "rating": 1010,
-        "rd": 207,
+        "rd": 210,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 1906,
-        "rd": 318,
+        "rd": 321,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
-        "games": 34,
-        "rating": 1418,
-        "rd": 99,
-        "prog": 27
+        "games": 35,
+        "rating": 1384,
+        "rd": 102,
+        "prog": 7
       },
       "bullet": {
-        "games": 198,
-        "rating": 1585,
-        "rd": 46,
-        "prog": -19
+        "games": 247,
+        "rating": 1549,
+        "rd": 48,
+        "prog": -28
       },
       "correspondence": {
-        "games": 23,
-        "rating": 1983,
-        "rd": 135,
-        "prog": 28,
+        "games": 24,
+        "rating": 1988,
+        "rd": 139,
+        "prog": 20,
         "prov": true
       },
       "horde": {
-        "games": 3,
-        "rating": 1128,
-        "rd": 230,
+        "games": 4,
+        "rating": 1352,
+        "rd": 214,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 70,
-        "rating": 2186,
-        "rd": 106,
-        "prog": 0
+        "games": 71,
+        "rating": 2160,
+        "rd": 110,
+        "prog": 0,
+        "prov": true
       },
       "classical": {
-        "games": 100,
-        "rating": 1735,
-        "rd": 63,
-        "prog": 8
+        "games": 104,
+        "rating": 1769,
+        "rd": 74,
+        "prog": 42
       },
       "rapid": {
-        "games": 125,
-        "rating": 1795,
-        "rd": 54,
-        "prog": 18
+        "games": 180,
+        "rating": 1735,
+        "rd": 49,
+        "prog": -34
       },
       "storm": {
         "runs": 9,
@@ -121,35 +121,34 @@
     },
     "createdAt": 1606277688229,
     "profile": {
-      "country": "IN",
-      "bio": "I have 12 bots. Check out my recent bot  @Flaming_spy now! He runs on stockfish 8! Please join my team https://lichess.org/team/lichess-online-24-hr \r\nFollow for follow? sure. I like Antichess of all variants;) Currently trying to improve standard chess.( Working on tactics). Team limit full.(almost).\r\nI code bots in python using API.\r\nhttps://i.imgur.com/mwo9eTL.jpg\r\nhttps://imgur.com/DGJfusg",
-      "firstName": "Am I titled yet?",
+      "country": "_lichess",
+      "bio": "»",
       "fideRating": 1354,
       "links": "https://lichess.org/account/close"
     },
-    "seenAt": 1624430032449,
+    "seenAt": 1627037004787,
     "playTime": {
-      "total": 243830,
-      "tv": 3919
+      "total": 317421,
+      "tv": 4967
     },
-    "language": "en-US",
+    "language": "en-GB",
     "url": "https://lichess.org/@/Stockfish-10_BOT",
-    "playing": "https://lichess.org/BTPDVswO/black",
-    "nbFollowing": 148,
-    "nbFollowers": 133,
-    "completionRate": 75,
+    "playing": "https://lichess.org/wjYOkIBf/white",
+    "nbFollowing": 169,
+    "nbFollowers": 142,
+    "completionRate": 73,
     "count": {
-      "all": 1251,
-      "rated": 869,
-      "ai": 8,
-      "draw": 42,
-      "drawH": 42,
-      "loss": 586,
-      "lossH": 578,
-      "win": 623,
-      "winH": 623,
+      "all": 1660,
+      "rated": 1141,
+      "ai": 25,
+      "draw": 48,
+      "drawH": 48,
+      "loss": 849,
+      "lossH": 829,
+      "win": 763,
+      "winH": 758,
       "bookmark": 1,
-      "playing": 5,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
