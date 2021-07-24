@@ -1,0 +1,81 @@
+{
+  "id": "the_best_bot-world",
+  "displayName": "THE_BEST_BOT-world",
+  "username": "THE_BEST_BOT-world",
+  "profileUrl": "https://lichess.org/@/THE_BEST_BOT-world",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2362,\"rd\":341,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1122,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627130828976,\"seenAt\":1627136242460,\"playTime\":{\"total\":3873,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"nbFollowing\":3,\"nbFollowers\":4,\"count\":{\"all\":5,\"rated\":3,\"ai\":1,\"draw\":1,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "the_best_bot-world",
+    "username": "THE_BEST_BOT-world",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 2,
+        "rating": 2362,
+        "rd": 341,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1122,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1627130828976,
+    "seenAt": 1627136242460,
+    "playTime": {
+      "total": 3873,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/THE_BEST_BOT-world",
+    "nbFollowing": 3,
+    "nbFollowers": 4,
+    "count": {
+      "all": 5,
+      "rated": 3,
+      "ai": 1,
+      "draw": 1,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
