@@ -4,7 +4,7 @@
   "username": "Flaming_spy",
   "profileUrl": "https://lichess.org/@/Flaming_spy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":236,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":53,\"rating\":1971,\"rd\":71,\"prog\":-53},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":199,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1183,\"rd\":256,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":2002,\"rd\":144,\"prog\":-179,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":230,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":214,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2398,\"rd\":101,\"prog\":99}},\"createdAt\":1623651177850,\"profile\":{},\"seenAt\":1626597095803,\"playTime\":{\"total\":40731,\"tv\":8557},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":6,\"nbFollowers\":17,\"count\":{\"all\":201,\"rated\":112,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":72,\"lossH\":72,\"win\":120,\"winH\":120,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flaming_spy\",\"username\":\"Flaming_spy\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1852,\"rd\":237,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":53,\"rating\":1971,\"rd\":74,\"prog\":-53},\"atomic\":{\"games\":6,\"rating\":1582,\"rd\":200,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1183,\"rd\":257,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":2002,\"rd\":146,\"prog\":-179,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":230,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2200,\"rd\":215,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2398,\"rd\":102,\"prog\":99}},\"createdAt\":1623651177850,\"profile\":{},\"seenAt\":1627137300249,\"playTime\":{\"total\":40777,\"tv\":8557},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Flaming_spy\",\"nbFollowing\":6,\"nbFollowers\":17,\"count\":{\"all\":202,\"rated\":112,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":72,\"lossH\":72,\"win\":121,\"winH\":121,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flaming_spy",
     "username": "Flaming_spy",
@@ -13,34 +13,34 @@
       "chess960": {
         "games": 4,
         "rating": 1852,
-        "rd": 236,
+        "rd": 237,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 53,
         "rating": 1971,
-        "rd": 71,
+        "rd": 74,
         "prog": -53
       },
       "atomic": {
         "games": 6,
         "rating": 1582,
-        "rd": 199,
+        "rd": 200,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 2,
         "rating": 1183,
-        "rd": 256,
+        "rd": 257,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 18,
         "rating": 2002,
-        "rd": 144,
+        "rd": 146,
         "prog": -179,
         "prov": true
       },
@@ -54,22 +54,22 @@
       "classical": {
         "games": 3,
         "rating": 2200,
-        "rd": 214,
+        "rd": 215,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 23,
         "rating": 2398,
-        "rd": 101,
+        "rd": 102,
         "prog": 99
       }
     },
     "createdAt": 1623651177850,
     "profile": {},
-    "seenAt": 1626597095803,
+    "seenAt": 1627137300249,
     "playTime": {
-      "total": 40731,
+      "total": 40777,
       "tv": 8557
     },
     "language": "en-US",
@@ -78,15 +78,15 @@
     "nbFollowing": 6,
     "nbFollowers": 17,
     "count": {
-      "all": 201,
+      "all": 202,
       "rated": 112,
       "ai": 0,
       "draw": 9,
       "drawH": 9,
       "loss": 72,
       "lossH": 72,
-      "win": 120,
-      "winH": 120,
+      "win": 121,
+      "winH": 121,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
