@@ -4,23 +4,23 @@
   "username": "I_Magnus_Carlsen_pro",
   "profileUrl": "https://lichess.org/@/I_Magnus_Carlsen_pro",
   "provider": "lichess",
-  "_raw": "{\"id\":\"i_magnus_carlsen_pro\",\"username\":\"I_Magnus_Carlsen_pro\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1625427515488,\"seenAt\":1625495366472,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/I_Magnus_Carlsen_pro\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"i_magnus_carlsen_pro\",\"username\":\"I_Magnus_Carlsen_pro\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2419,\"rd\":211,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2539,\"rd\":131,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1977,\"rd\":246,\"prog\":0,\"prov\":true}},\"createdAt\":1625427515488,\"profile\":{\"bio\":\"This bot used chess engine \\\"MarcoEngine 2.8\\\".\"},\"seenAt\":1627188637497,\"playTime\":{\"total\":3724,\"tv\":444},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/I_Magnus_Carlsen_pro\",\"nbFollowing\":14,\"nbFollowers\":11,\"count\":{\"all\":20,\"rated\":15,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":6,\"lossH\":5,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "i_magnus_carlsen_pro",
     "username": "I_Magnus_Carlsen_pro",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2419,
+        "rd": 211,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 2539,
+        "rd": 131,
         "prog": 0,
         "prov": true
       },
@@ -39,33 +39,37 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1977,
+        "rd": 246,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625427515488,
-    "seenAt": 1625495366472,
+    "profile": {
+      "bio": "This bot used chess engine \"MarcoEngine 2.8\"."
+    },
+    "seenAt": 1627188637497,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 3724,
+      "tv": 444
     },
     "language": "ru-RU",
+    "title": "BOT",
     "url": "https://lichess.org/@/I_Magnus_Carlsen_pro",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 14,
+    "nbFollowers": 11,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 20,
+      "rated": 15,
+      "ai": 1,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 6,
+      "lossH": 5,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
