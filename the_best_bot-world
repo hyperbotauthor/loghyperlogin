@@ -4,7 +4,7 @@
   "username": "THE_BEST_BOT-world",
   "profileUrl": "https://lichess.org/@/THE_BEST_BOT-world",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":441,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2170,\"rd\":215,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1411,\"rd\":379,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":2303,\"rd\":147,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1122,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627130828976,\"seenAt\":1627196493793,\"playTime\":{\"total\":9941,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"nbFollowing\":11,\"nbFollowers\":8,\"count\":{\"all\":46,\"rated\":23,\"ai\":12,\"draw\":2,\"drawH\":0,\"loss\":15,\"lossH\":9,\"win\":29,\"winH\":25,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":441,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":2174,\"rd\":179,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1411,\"rd\":379,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":12,\"rating\":2316,\"rd\":142,\"prog\":13,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1122,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627130828976,\"seenAt\":1627202557547,\"playTime\":{\"total\":11763,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"playing\":\"https://lichess.org/TGfumgdV/white\",\"nbFollowing\":10,\"nbFollowers\":8,\"count\":{\"all\":54,\"rated\":27,\"ai\":15,\"draw\":3,\"drawH\":0,\"loss\":18,\"lossH\":11,\"win\":33,\"winH\":28,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_best_bot-world",
     "username": "THE_BEST_BOT-world",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 7,
-        "rating": 2170,
-        "rd": 215,
+        "games": 9,
+        "rating": 2174,
+        "rd": 179,
         "prog": 0,
         "prov": true
       },
@@ -32,10 +32,10 @@
         "prov": true
       },
       "atomic": {
-        "games": 11,
-        "rating": 2303,
-        "rd": 147,
-        "prog": 0,
+        "games": 12,
+        "rating": 2316,
+        "rd": 142,
+        "prog": 13,
         "prov": true
       },
       "bullet": {
@@ -68,28 +68,29 @@
       }
     },
     "createdAt": 1627130828976,
-    "seenAt": 1627196493793,
+    "seenAt": 1627202557547,
     "playTime": {
-      "total": 9941,
+      "total": 11763,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_BEST_BOT-world",
-    "nbFollowing": 11,
+    "playing": "https://lichess.org/TGfumgdV/white",
+    "nbFollowing": 10,
     "nbFollowers": 8,
     "count": {
-      "all": 46,
-      "rated": 23,
-      "ai": 12,
-      "draw": 2,
+      "all": 54,
+      "rated": 27,
+      "ai": 15,
+      "draw": 3,
       "drawH": 0,
-      "loss": 15,
-      "lossH": 9,
-      "win": 29,
-      "winH": 25,
+      "loss": 18,
+      "lossH": 11,
+      "win": 33,
+      "winH": 28,
       "bookmark": 1,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
