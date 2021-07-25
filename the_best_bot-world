@@ -4,7 +4,7 @@
   "username": "THE_BEST_BOT-world",
   "profileUrl": "https://lichess.org/@/THE_BEST_BOT-world",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":441,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":12,\"rating\":2216,\"rd\":148,\"prog\":27,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1411,\"rd\":379,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":13,\"rating\":2320,\"rd\":141,\"prog\":17,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1122,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":463,\"prog\":0,\"prov\":true}},\"createdAt\":1627130828976,\"seenAt\":1627207071567,\"playTime\":{\"total\":14063,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"nbFollowing\":10,\"nbFollowers\":9,\"count\":{\"all\":60,\"rated\":32,\"ai\":16,\"draw\":3,\"drawH\":0,\"loss\":20,\"lossH\":12,\"win\":37,\"winH\":32,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":441,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2224,\"rd\":146,\"prog\":36,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1411,\"rd\":379,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":2327,\"rd\":139,\"prog\":24,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1496,\"rd\":494,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1122,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":463,\"prog\":0,\"prov\":true}},\"createdAt\":1627130828976,\"seenAt\":1627219943119,\"playTime\":{\"total\":15975,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"nbFollowing\":12,\"nbFollowers\":9,\"count\":{\"all\":70,\"rated\":37,\"ai\":19,\"draw\":4,\"drawH\":0,\"loss\":23,\"lossH\":13,\"win\":43,\"winH\":38,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_best_bot-world",
     "username": "THE_BEST_BOT-world",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 12,
-        "rating": 2216,
-        "rd": 148,
-        "prog": 27,
+        "games": 14,
+        "rating": 2224,
+        "rd": 146,
+        "prog": 36,
         "prov": true
       },
       "antichess": {
@@ -32,10 +32,10 @@
         "prov": true
       },
       "atomic": {
-        "games": 13,
-        "rating": 2320,
-        "rd": 141,
-        "prog": 17,
+        "games": 16,
+        "rating": 2327,
+        "rd": 139,
+        "prog": 24,
         "prov": true
       },
       "bullet": {
@@ -68,26 +68,26 @@
       }
     },
     "createdAt": 1627130828976,
-    "seenAt": 1627207071567,
+    "seenAt": 1627219943119,
     "playTime": {
-      "total": 14063,
+      "total": 15975,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_BEST_BOT-world",
-    "nbFollowing": 10,
+    "nbFollowing": 12,
     "nbFollowers": 9,
     "count": {
-      "all": 60,
-      "rated": 32,
-      "ai": 16,
-      "draw": 3,
+      "all": 70,
+      "rated": 37,
+      "ai": 19,
+      "draw": 4,
       "drawH": 0,
-      "loss": 20,
-      "lossH": 12,
-      "win": 37,
-      "winH": 32,
+      "loss": 23,
+      "lossH": 13,
+      "win": 43,
+      "winH": 38,
       "bookmark": 1,
       "playing": 0,
       "import": 0,
