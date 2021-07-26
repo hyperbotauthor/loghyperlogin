@@ -4,7 +4,7 @@
   "username": "Future_Chess_Pro",
   "profileUrl": "https://lichess.org/@/Future_Chess_Pro",
   "provider": "lichess",
-  "_raw": "{\"id\":\"future_chess_pro\",\"username\":\"Future_Chess_Pro\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1233,\"rd\":289,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":33,\"rating\":2145,\"rd\":109,\"prog\":55},\"atomic\":{\"games\":2,\"rating\":1453,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":120,\"rating\":2019,\"rd\":46,\"prog\":16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2247,\"rd\":239,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2122,\"rd\":134,\"prog\":0,\"prov\":true}},\"createdAt\":1626942220399,\"seenAt\":1627230329273,\"playTime\":{\"total\":25249,\"tv\":960},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Future_Chess_Pro\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":200,\"rated\":171,\"ai\":5,\"draw\":11,\"drawH\":11,\"loss\":43,\"lossH\":39,\"win\":146,\"winH\":145,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"future_chess_pro\",\"username\":\"Future_Chess_Pro\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1233,\"rd\":289,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":33,\"rating\":2145,\"rd\":109,\"prog\":55},\"atomic\":{\"games\":2,\"rating\":1453,\"rd\":435,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":120,\"rating\":2019,\"rd\":46,\"prog\":16},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2247,\"rd\":239,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2122,\"rd\":134,\"prog\":0,\"prov\":true}},\"createdAt\":1626942220399,\"profile\":{\"bio\":\"this bot's server is down for few days, so please don't challenge.\"},\"seenAt\":1627279698768,\"playTime\":{\"total\":25356,\"tv\":960},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Future_Chess_Pro\",\"playing\":\"https://lichess.org/mkKFPxGy/white\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":201,\"rated\":171,\"ai\":6,\"draw\":11,\"drawH\":11,\"loss\":43,\"lossH\":39,\"win\":147,\"winH\":145,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "future_chess_pro",
     "username": "Future_Chess_Pro",
@@ -59,28 +59,32 @@
       }
     },
     "createdAt": 1626942220399,
-    "seenAt": 1627230329273,
+    "profile": {
+      "bio": "this bot's server is down for few days, so please don't challenge."
+    },
+    "seenAt": 1627279698768,
     "playTime": {
-      "total": 25249,
+      "total": 25356,
       "tv": 960
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Future_Chess_Pro",
+    "playing": "https://lichess.org/mkKFPxGy/white",
     "nbFollowing": 1,
     "nbFollowers": 4,
     "count": {
-      "all": 200,
+      "all": 201,
       "rated": 171,
-      "ai": 5,
+      "ai": 6,
       "draw": 11,
       "drawH": 11,
       "loss": 43,
       "lossH": 39,
-      "win": 146,
+      "win": 147,
       "winH": 145,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
