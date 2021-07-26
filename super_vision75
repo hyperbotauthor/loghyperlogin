@@ -4,7 +4,7 @@
   "username": "super_vision75",
   "profileUrl": "https://lichess.org/@/super_vision75",
   "provider": "lichess",
-  "_raw": "{\"id\":\"super_vision75\",\"username\":\"super_vision75\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1082,\"rd\":175,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1520,\"rd\":218,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1230,\"rd\":282,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621157605449,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Please follow my real account @LeilaSchach1\",\"firstName\":\"Lichess reporter\"},\"seenAt\":1627032245572,\"playTime\":{\"total\":3259,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/super_vision75\",\"nbFollowing\":37,\"nbFollowers\":20,\"count\":{\"all\":37,\"rated\":14,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":30,\"lossH\":27,\"win\":7,\"winH\":6,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"super_vision75\",\"username\":\"super_vision75\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1082,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1520,\"rd\":219,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1227,\"rd\":279,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621157605449,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Please follow my real account @LeilaSchach1\",\"firstName\":\"Lichess reporter\"},\"seenAt\":1627297806891,\"playTime\":{\"total\":3684,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/super_vision75\",\"nbFollowing\":150,\"nbFollowers\":42,\"count\":{\"all\":41,\"rated\":15,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":32,\"lossH\":29,\"win\":7,\"winH\":6,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "super_vision75",
     "username": "super_vision75",
@@ -13,21 +13,21 @@
       "blitz": {
         "games": 7,
         "rating": 1082,
-        "rd": 175,
+        "rd": 176,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 3,
         "rating": 1520,
-        "rd": 218,
+        "rd": 219,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 1230,
-        "rd": 282,
+        "games": 4,
+        "rating": 1227,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
@@ -59,24 +59,24 @@
       "bio": "Please follow my real account @LeilaSchach1",
       "firstName": "Lichess reporter"
     },
-    "seenAt": 1627032245572,
+    "seenAt": 1627297806891,
     "playTime": {
-      "total": 3259,
+      "total": 3684,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/super_vision75",
-    "nbFollowing": 37,
-    "nbFollowers": 20,
+    "nbFollowing": 150,
+    "nbFollowers": 42,
     "count": {
-      "all": 37,
-      "rated": 14,
+      "all": 41,
+      "rated": 15,
       "ai": 4,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 30,
-      "lossH": 27,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 32,
+      "lossH": 29,
       "win": 7,
       "winH": 6,
       "bookmark": 1,
