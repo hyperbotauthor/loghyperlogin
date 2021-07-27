@@ -4,92 +4,92 @@
   "username": "ElPeonElectrico",
   "profileUrl": "https://lichess.org/@/ElPeonElectrico",
   "provider": "lichess",
-  "_raw": "{\"id\":\"elpeonelectrico\",\"username\":\"ElPeonElectrico\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":63,\"rating\":2174,\"rd\":98,\"prog\":54},\"antichess\":{\"games\":423,\"rating\":2257,\"rd\":45,\"prog\":17},\"horde\":{\"games\":35,\"rating\":2145,\"rd\":65,\"prog\":-9},\"atomic\":{\"games\":53,\"rating\":2146,\"rd\":67,\"prog\":6},\"racingKings\":{\"games\":187,\"rating\":2599,\"rd\":52,\"prog\":3},\"blitz\":{\"games\":150,\"rating\":2284,\"rd\":58,\"prog\":12},\"kingOfTheHill\":{\"games\":45,\"rating\":2249,\"rd\":66,\"prog\":38},\"crazyhouse\":{\"games\":168,\"rating\":2331,\"rd\":49,\"prog\":36},\"threeCheck\":{\"games\":12,\"rating\":2012,\"rd\":171,\"prog\":1,\"prov\":true},\"bullet\":{\"games\":1453,\"rating\":2511,\"rd\":45,\"prog\":8},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":15,\"rating\":2407,\"rd\":160,\"prog\":67,\"prov\":true},\"rapid\":{\"games\":109,\"rating\":2418,\"rd\":84,\"prog\":-127}},\"createdAt\":1603481025449,\"profile\":{\"country\":\"ES\",\"bio\":\"https://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1F www.peonelectrico.com \\uD83C\\uDF1F\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1FI PLAY ALL VARIANTS \\uD83C\\uDF1F\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1F Equipo El Peón Eléctrico \\uD83C\\uDF1F\\r\\n\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\nhttps://i.imgur.com/bHHFVD5.jpg\\r\\nhttps://lichess.org/team/el-peon-electrico\\r\\nBot Peón Eléctrico.\\r\\nAcepto retos.\\r\\nChallenge me.\",\"firstName\":\"PEÓN\",\"lastName\":\"ELÉCTRICO\"},\"seenAt\":1613936443873,\"playTime\":{\"total\":763669,\"tv\":219311},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ElPeonElectrico\",\"playing\":\"https://lichess.org/Y9QMWWko/white\",\"nbFollowing\":128,\"nbFollowers\":92,\"count\":{\"all\":5418,\"rated\":2758,\"ai\":190,\"draw\":226,\"drawH\":212,\"loss\":1561,\"lossH\":1443,\"win\":3631,\"winH\":3573,\"bookmark\":7,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"elpeonelectrico\",\"username\":\"ElPeonElectrico\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":99,\"rating\":2118,\"rd\":98,\"prog\":3},\"antichess\":{\"games\":806,\"rating\":2493,\"rd\":64,\"prog\":10},\"horde\":{\"games\":50,\"rating\":2167,\"rd\":101,\"prog\":71},\"atomic\":{\"games\":149,\"rating\":2218,\"rd\":82,\"prog\":-4},\"racingKings\":{\"games\":215,\"rating\":2574,\"rd\":97,\"prog\":-28},\"blitz\":{\"games\":228,\"rating\":2386,\"rd\":65,\"prog\":-4},\"kingOfTheHill\":{\"games\":55,\"rating\":2318,\"rd\":100,\"prog\":72},\"crazyhouse\":{\"games\":989,\"rating\":2357,\"rd\":72,\"prog\":-12},\"threeCheck\":{\"games\":48,\"rating\":2319,\"rd\":108,\"prog\":-13},\"bullet\":{\"games\":2927,\"rating\":2522,\"rd\":47,\"prog\":13},\"correspondence\":{\"games\":9,\"rating\":1692,\"rd\":175,\"prog\":0,\"prov\":true},\"classical\":{\"games\":15,\"rating\":2407,\"rd\":184,\"prog\":67,\"prov\":true},\"rapid\":{\"games\":114,\"rating\":2418,\"rd\":116,\"prog\":-105,\"prov\":true}},\"createdAt\":1603481025449,\"profile\":{\"country\":\"ES\",\"bio\":\"https://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1F www.peonelectrico.com \\uD83C\\uDF1F\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1FI PLAY ALL VARIANTS \\uD83C\\uDF1F\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\n\\uD83C\\uDF1F Equipo El Peón Eléctrico \\uD83C\\uDF1F\\r\\n\\r\\nhttps://i.imgur.com/BEIgrRe.jpg\\r\\nhttps://i.imgur.com/bHHFVD5.jpg\\r\\nhttps://lichess.org/team/el-peon-electrico\\r\\nBot Peón Eléctrico.\\r\\nAcepto retos.\\r\\nChallenge me.\",\"firstName\":\"PEÓN\",\"lastName\":\"ELÉCTRICO\",\"links\":\"https://www.peonelectrico.com/\"},\"seenAt\":1627422831794,\"playTime\":{\"total\":1201551,\"tv\":304615},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ElPeonElectrico\",\"playing\":\"https://lichess.org/MxWd9RE7/white\",\"nbFollowing\":147,\"nbFollowers\":124,\"count\":{\"all\":20069,\"rated\":5876,\"ai\":741,\"draw\":664,\"drawH\":642,\"loss\":2970,\"lossH\":2633,\"win\":16435,\"winH\":16053,\"bookmark\":8,\"playing\":24,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "elpeonelectrico",
     "username": "ElPeonElectrico",
     "online": true,
     "perfs": {
       "chess960": {
-        "games": 63,
-        "rating": 2174,
+        "games": 99,
+        "rating": 2118,
         "rd": 98,
-        "prog": 54
-      },
-      "antichess": {
-        "games": 423,
-        "rating": 2257,
-        "rd": 45,
-        "prog": 17
-      },
-      "horde": {
-        "games": 35,
-        "rating": 2145,
-        "rd": 65,
-        "prog": -9
-      },
-      "atomic": {
-        "games": 53,
-        "rating": 2146,
-        "rd": 67,
-        "prog": 6
-      },
-      "racingKings": {
-        "games": 187,
-        "rating": 2599,
-        "rd": 52,
         "prog": 3
       },
+      "antichess": {
+        "games": 806,
+        "rating": 2493,
+        "rd": 64,
+        "prog": 10
+      },
+      "horde": {
+        "games": 50,
+        "rating": 2167,
+        "rd": 101,
+        "prog": 71
+      },
+      "atomic": {
+        "games": 149,
+        "rating": 2218,
+        "rd": 82,
+        "prog": -4
+      },
+      "racingKings": {
+        "games": 215,
+        "rating": 2574,
+        "rd": 97,
+        "prog": -28
+      },
       "blitz": {
-        "games": 150,
-        "rating": 2284,
-        "rd": 58,
-        "prog": 12
+        "games": 228,
+        "rating": 2386,
+        "rd": 65,
+        "prog": -4
       },
       "kingOfTheHill": {
-        "games": 45,
-        "rating": 2249,
-        "rd": 66,
-        "prog": 38
+        "games": 55,
+        "rating": 2318,
+        "rd": 100,
+        "prog": 72
       },
       "crazyhouse": {
-        "games": 168,
-        "rating": 2331,
-        "rd": 49,
-        "prog": 36
+        "games": 989,
+        "rating": 2357,
+        "rd": 72,
+        "prog": -12
       },
       "threeCheck": {
-        "games": 12,
-        "rating": 2012,
-        "rd": 171,
-        "prog": 1,
-        "prov": true
+        "games": 48,
+        "rating": 2319,
+        "rd": 108,
+        "prog": -13
       },
       "bullet": {
-        "games": 1453,
-        "rating": 2511,
-        "rd": 45,
-        "prog": 8
+        "games": 2927,
+        "rating": 2522,
+        "rd": 47,
+        "prog": 13
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 9,
+        "rating": 1692,
+        "rd": 175,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 15,
         "rating": 2407,
-        "rd": 160,
+        "rd": 184,
         "prog": 67,
         "prov": true
       },
       "rapid": {
-        "games": 109,
+        "games": 114,
         "rating": 2418,
-        "rd": 84,
-        "prog": -127
+        "rd": 116,
+        "prog": -105,
+        "prov": true
       }
     },
     "createdAt": 1603481025449,
@@ -97,31 +97,32 @@
       "country": "ES",
       "bio": "https://i.imgur.com/BEIgrRe.jpg\r\n🌟 www.peonelectrico.com 🌟\r\nhttps://i.imgur.com/BEIgrRe.jpg\r\n🌟I PLAY ALL VARIANTS 🌟\r\nhttps://i.imgur.com/BEIgrRe.jpg\r\n🌟 Equipo El Peón Eléctrico 🌟\r\n\r\nhttps://i.imgur.com/BEIgrRe.jpg\r\nhttps://i.imgur.com/bHHFVD5.jpg\r\nhttps://lichess.org/team/el-peon-electrico\r\nBot Peón Eléctrico.\r\nAcepto retos.\r\nChallenge me.",
       "firstName": "PEÓN",
-      "lastName": "ELÉCTRICO"
+      "lastName": "ELÉCTRICO",
+      "links": "https://www.peonelectrico.com/"
     },
-    "seenAt": 1613936443873,
+    "seenAt": 1627422831794,
     "playTime": {
-      "total": 763669,
-      "tv": 219311
+      "total": 1201551,
+      "tv": 304615
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/ElPeonElectrico",
-    "playing": "https://lichess.org/Y9QMWWko/white",
-    "nbFollowing": 128,
-    "nbFollowers": 92,
+    "playing": "https://lichess.org/MxWd9RE7/white",
+    "nbFollowing": 147,
+    "nbFollowers": 124,
     "count": {
-      "all": 5418,
-      "rated": 2758,
-      "ai": 190,
-      "draw": 226,
-      "drawH": 212,
-      "loss": 1561,
-      "lossH": 1443,
-      "win": 3631,
-      "winH": 3573,
-      "bookmark": 7,
-      "playing": 1,
+      "all": 20069,
+      "rated": 5876,
+      "ai": 741,
+      "draw": 664,
+      "drawH": 642,
+      "loss": 2970,
+      "lossH": 2633,
+      "win": 16435,
+      "winH": 16053,
+      "bookmark": 8,
+      "playing": 24,
       "import": 0,
       "me": 0
     },
