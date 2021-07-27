@@ -4,22 +4,37 @@
   "username": "LadyaBOT",
   "profileUrl": "https://lichess.org/@/LadyaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2087,\"rd\":93,\"prog\":171},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2498,\"rd\":117,\"prog\":16,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1616562180009,\"playTime\":{\"total\":21978,\"tv\":2125},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":83,\"nbFollowers\":44,\"count\":{\"all\":46,\"rated\":39,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":14,\"win\":29,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2073,\"rd\":118,\"prog\":-2,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1218,\"rd\":369,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1260,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":404,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2564,\"rd\":250,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":2024,\"rd\":121,\"prog\":-473,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1627383274825,\"playTime\":{\"total\":37686,\"tv\":6141},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":7,\"nbFollowers\":51,\"count\":{\"all\":72,\"rated\":60,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":29,\"lossH\":28,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ladyabot",
     "username": "LadyaBOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 22,
-        "rating": 2087,
-        "rd": 93,
-        "prog": 171
+        "games": 27,
+        "rating": 2073,
+        "rd": 118,
+        "prog": -2,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1218,
+        "rd": 369,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1260,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1258,
-        "rd": 396,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
@@ -31,17 +46,17 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2564,
+        "rd": 250,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 16,
-        "rating": 2498,
-        "rd": 117,
-        "prog": 16,
+        "games": 27,
+        "rating": 2024,
+        "rd": 121,
+        "prog": -473,
         "prov": true
       }
     },
@@ -53,26 +68,26 @@
       "firstName": "секрет",
       "lastName": "секрет"
     },
-    "seenAt": 1616562180009,
+    "seenAt": 1627383274825,
     "playTime": {
-      "total": 21978,
-      "tv": 2125
+      "total": 37686,
+      "tv": 6141
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/LadyaBOT",
-    "nbFollowing": 83,
-    "nbFollowers": 44,
+    "nbFollowing": 7,
+    "nbFollowers": 51,
     "count": {
-      "all": 46,
-      "rated": 39,
+      "all": 72,
+      "rated": 60,
       "ai": 1,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 15,
-      "lossH": 14,
-      "win": 29,
-      "winH": 29,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 29,
+      "lossH": 28,
+      "win": 40,
+      "winH": 40,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
