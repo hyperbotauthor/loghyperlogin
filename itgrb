@@ -4,7 +4,7 @@
   "username": "iTgrB",
   "profileUrl": "https://lichess.org/@/iTgrB",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itgrb\",\"username\":\"iTgrB\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1232,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627331743490,\"seenAt\":1627383748170,\"playTime\":{\"total\":17,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB\",\"playing\":\"https://lichess.org/u5T59LuB/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":5,\"rated\":1,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":1,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itgrb\",\"username\":\"iTgrB\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1232,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627331743490,\"seenAt\":1627402935913,\"playTime\":{\"total\":17,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":6,\"rated\":1,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":1,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itgrb",
     "username": "iTgrB",
@@ -54,7 +54,7 @@
       }
     },
     "createdAt": 1627331743490,
-    "seenAt": 1627383748170,
+    "seenAt": 1627402935913,
     "playTime": {
       "total": 17,
       "tv": 0
@@ -62,21 +62,20 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/iTgrB",
-    "playing": "https://lichess.org/u5T59LuB/white",
-    "nbFollowing": 0,
+    "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
-      "all": 5,
+      "all": 6,
       "rated": 1,
-      "ai": 2,
+      "ai": 3,
       "draw": 0,
       "drawH": 0,
-      "loss": 3,
+      "loss": 4,
       "lossH": 1,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
