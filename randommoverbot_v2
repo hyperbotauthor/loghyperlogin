@@ -4,7 +4,7 @@
   "username": "RandomMoverBot_V2",
   "profileUrl": "https://lichess.org/@/RandomMoverBot_V2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommoverbot_v2\",\"username\":\"RandomMoverBot_V2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1453,\"rd\":431,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1186,\"rd\":384,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true}},\"createdAt\":1627280450529,\"seenAt\":1627363763856,\"playTime\":{\"total\":64,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomMoverBot_V2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommoverbot_v2\",\"username\":\"RandomMoverBot_V2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1453,\"rd\":431,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1186,\"rd\":384,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1165,\"rd\":364,\"prog\":0,\"prov\":true}},\"createdAt\":1627280450529,\"profile\":{\"bio\":\"RandomMoverBot_V2, Plays random moves, Accepts casual only, Supports any variants.\"},\"seenAt\":1627378323394,\"playTime\":{\"total\":413,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomMoverBot_V2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":10,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":10,\"lossH\":10,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommoverbot_v2",
     "username": "RandomMoverBot_V2",
@@ -46,17 +46,20 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1200,
-        "rd": 400,
+        "games": 1,
+        "rating": 1165,
+        "rd": 364,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1627280450529,
-    "seenAt": 1627363763856,
+    "profile": {
+      "bio": "RandomMoverBot_V2, Plays random moves, Accepts casual only, Supports any variants."
+    },
+    "seenAt": 1627378323394,
     "playTime": {
-      "total": 64,
+      "total": 413,
       "tv": 0
     },
     "language": "en-US",
@@ -65,13 +68,13 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 2,
+      "all": 10,
+      "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
+      "loss": 10,
+      "lossH": 10,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
