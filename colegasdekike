@@ -4,44 +4,58 @@
   "username": "ColegasDeKike",
   "profileUrl": "https://lichess.org/@/ColegasDeKike",
   "provider": "lichess",
-  "_raw": "{\"id\":\"colegasdekike\",\"username\":\"ColegasDeKike\",\"online\":false,\"perfs\":{\"chess960\":{\"games\":24,\"rating\":1973,\"rd\":137,\"prog\":53,\"prov\":true},\"antichess\":{\"games\":109,\"rating\":2597,\"rd\":98,\"prog\":-42},\"blitz\":{\"games\":35,\"rating\":2541,\"rd\":112,\"prog\":27,\"prov\":true},\"crazyhouse\":{\"games\":12,\"rating\":1985,\"rd\":212,\"prog\":-237,\"prov\":true},\"bullet\":{\"games\":85,\"rating\":2576,\"rd\":77,\"prog\":6},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611574444528,\"profile\":{\"country\":\"ES\",\"bio\":\"My boss is @ajedrezconzeta \\uD83D\\uDE09 , my teacher @endicraft \\uD83D\\uDE07 and this is my team!! lichess.org/team/colegas-de-kike \\uD83D\\uDCAA/////////////////////////////////////\\r\\nI play like @ajedrezconzeta @endicraft @eloyoff34 @superbohemio @strikerperruno @faustercio @estupendo @gcu4tl0 & @mamasitaisback\",\"firstName\":\"Colegas de\",\"lastName\":\"Kike\"},\"seenAt\":1613475638280,\"playTime\":{\"total\":37236,\"tv\":4781},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ColegasDeKike\",\"nbFollowing\":26,\"nbFollowers\":19,\"count\":{\"all\":353,\"rated\":266,\"ai\":8,\"draw\":8,\"drawH\":4,\"loss\":12,\"lossH\":10,\"win\":333,\"winH\":331,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"colegasdekike\",\"username\":\"ColegasDeKike\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":27,\"rating\":1983,\"rd\":162,\"prog\":45,\"prov\":true},\"antichess\":{\"games\":112,\"rating\":2407,\"rd\":125,\"prog\":-234,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":1317,\"rd\":297,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":72,\"rating\":2381,\"rd\":91,\"prog\":-35},\"kingOfTheHill\":{\"games\":2,\"rating\":1457,\"rd\":448,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":27,\"rating\":1690,\"rd\":127,\"prog\":-267,\"prov\":true},\"bullet\":{\"games\":135,\"rating\":2294,\"rd\":84,\"prog\":-18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1497,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1611574444528,\"profile\":{\"country\":\"ES\",\"bio\":\"My boss is @ajedrezconzeta \\uD83D\\uDE09 , my teacher @endicraft \\uD83D\\uDE07 and this is my team!! lichess.org/team/colegas-de-kike \\uD83D\\uDCAA/////////////////////////////////////\\r\\nI play like @ajedrezconzeta @endicraft @eloyoff34 @superbohemio @strikerperruno @faustercio @estupendo @gcu4tl0 & @mamasitaisback\",\"firstName\":\"Colegas de\",\"lastName\":\"Kike\"},\"seenAt\":1627423233734,\"playTime\":{\"total\":81285,\"tv\":11557},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ColegasDeKike\",\"nbFollowing\":26,\"nbFollowers\":49,\"count\":{\"all\":587,\"rated\":389,\"ai\":20,\"draw\":24,\"drawH\":20,\"loss\":139,\"lossH\":126,\"win\":424,\"winH\":421,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "colegasdekike",
     "username": "ColegasDeKike",
-    "online": false,
+    "online": true,
     "perfs": {
       "chess960": {
-        "games": 24,
-        "rating": 1973,
-        "rd": 137,
-        "prog": 53,
+        "games": 27,
+        "rating": 1983,
+        "rd": 162,
+        "prog": 45,
         "prov": true
       },
       "antichess": {
-        "games": 109,
-        "rating": 2597,
-        "rd": 98,
-        "prog": -42
+        "games": 112,
+        "rating": 2407,
+        "rd": 125,
+        "prog": -234,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 1317,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
       },
       "blitz": {
-        "games": 35,
-        "rating": 2541,
-        "rd": 112,
-        "prog": 27,
+        "games": 72,
+        "rating": 2381,
+        "rd": 91,
+        "prog": -35
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1457,
+        "rd": 448,
+        "prog": 0,
         "prov": true
       },
       "crazyhouse": {
-        "games": 12,
-        "rating": 1985,
-        "rd": 212,
-        "prog": -237,
+        "games": 27,
+        "rating": 1690,
+        "rd": 127,
+        "prog": -267,
         "prov": true
       },
       "bullet": {
-        "games": 85,
-        "rating": 2576,
-        "rd": 77,
-        "prog": 6
+        "games": 135,
+        "rating": 2294,
+        "rd": 84,
+        "prog": -18
       },
       "correspondence": {
         "games": 0,
@@ -58,8 +72,8 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
+        "games": 1,
+        "rating": 1497,
         "rd": 500,
         "prog": 0,
         "prov": true
@@ -72,26 +86,26 @@
       "firstName": "Colegas de",
       "lastName": "Kike"
     },
-    "seenAt": 1613475638280,
+    "seenAt": 1627423233734,
     "playTime": {
-      "total": 37236,
-      "tv": 4781
+      "total": 81285,
+      "tv": 11557
     },
     "language": "es-ES",
     "title": "BOT",
     "url": "https://lichess.org/@/ColegasDeKike",
     "nbFollowing": 26,
-    "nbFollowers": 19,
+    "nbFollowers": 49,
     "count": {
-      "all": 353,
-      "rated": 266,
-      "ai": 8,
-      "draw": 8,
-      "drawH": 4,
-      "loss": 12,
-      "lossH": 10,
-      "win": 333,
-      "winH": 331,
+      "all": 587,
+      "rated": 389,
+      "ai": 20,
+      "draw": 24,
+      "drawH": 20,
+      "loss": 139,
+      "lossH": 126,
+      "win": 424,
+      "winH": 421,
       "bookmark": 1,
       "playing": 0,
       "import": 0,
