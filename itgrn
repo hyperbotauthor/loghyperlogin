@@ -4,7 +4,7 @@
   "username": "itgrn",
   "profileUrl": "https://lichess.org/@/itgrn",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itgrn\",\"username\":\"itgrn\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1158,\"rd\":245,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1260,\"rd\":156,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":1458,\"rd\":108,\"prog\":138},\"racingKings\":{\"games\":15,\"rating\":1631,\"rd\":114,\"prog\":16,\"prov\":true},\"ultraBullet\":{\"games\":11,\"rating\":1057,\"rd\":148,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":66,\"rating\":1513,\"rd\":48,\"prog\":-18},\"kingOfTheHill\":{\"games\":8,\"rating\":1719,\"rd\":151,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":17,\"rating\":1639,\"rd\":106,\"prog\":3},\"threeCheck\":{\"games\":4,\"rating\":1221,\"rd\":218,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":86,\"rating\":1292,\"rd\":45,\"prog\":-10},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1301,\"rd\":271,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":25,\"rating\":1637,\"rd\":86,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":46,\"rating\":1759,\"rd\":56,\"prog\":11}},\"createdAt\":1626895251620,\"profile\":{\"country\":\"DZ\",\"location\":\"from the moon\",\"bio\":\"https://imgur.com/LX1GHa1\",\"firstName\":\"imed\",\"lastName\":\"benkolli\",\"links\":\"facebook.com/IxTGRxx\"},\"seenAt\":1627380635453,\"patron\":true,\"playTime\":{\"total\":63551,\"tv\":393},\"language\":\"fr-FR\",\"url\":\"https://lichess.org/@/itgrn\",\"nbFollowing\":3,\"nbFollowers\":3,\"completionRate\":80,\"count\":{\"all\":306,\"rated\":293,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":181,\"lossH\":181,\"win\":119,\"winH\":119,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itgrn\",\"username\":\"itgrn\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1158,\"rd\":245,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":9,\"rating\":1239,\"rd\":133,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":35,\"rating\":1399,\"rd\":82,\"prog\":-62},\"racingKings\":{\"games\":24,\"rating\":1643,\"rd\":100,\"prog\":27},\"ultraBullet\":{\"games\":15,\"rating\":1109,\"rd\":126,\"prog\":52,\"prov\":true},\"blitz\":{\"games\":66,\"rating\":1513,\"rd\":48,\"prog\":-18},\"kingOfTheHill\":{\"games\":22,\"rating\":1702,\"rd\":87,\"prog\":-7},\"crazyhouse\":{\"games\":18,\"rating\":1686,\"rd\":103,\"prog\":50},\"threeCheck\":{\"games\":4,\"rating\":1221,\"rd\":218,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":88,\"rating\":1283,\"rd\":45,\"prog\":-13},\"correspondence\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1198,\"rd\":225,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":25,\"rating\":1637,\"rd\":86,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":51,\"rating\":1757,\"rd\":54,\"prog\":0}},\"createdAt\":1626895251620,\"profile\":{\"country\":\"DZ\",\"location\":\"from the moon\",\"bio\":\"https://imgur.com/LX1GHa1\",\"firstName\":\"imed\",\"lastName\":\"benkolli\",\"links\":\"facebook.com/IxTGRxx\"},\"seenAt\":1627425576398,\"patron\":true,\"playTime\":{\"total\":70235,\"tv\":907},\"language\":\"fr-FR\",\"url\":\"https://lichess.org/@/itgrn\",\"nbFollowing\":3,\"nbFollowers\":5,\"completionRate\":93,\"count\":{\"all\":374,\"rated\":350,\"ai\":1,\"draw\":9,\"drawH\":9,\"loss\":227,\"lossH\":226,\"win\":138,\"winH\":138,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itgrn",
     "username": "itgrn",
@@ -18,30 +18,29 @@
         "prov": true
       },
       "antichess": {
-        "games": 7,
-        "rating": 1260,
-        "rd": 156,
+        "games": 9,
+        "rating": 1239,
+        "rd": 133,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 17,
-        "rating": 1458,
-        "rd": 108,
-        "prog": 138
+        "games": 35,
+        "rating": 1399,
+        "rd": 82,
+        "prog": -62
       },
       "racingKings": {
-        "games": 15,
-        "rating": 1631,
-        "rd": 114,
-        "prog": 16,
-        "prov": true
+        "games": 24,
+        "rating": 1643,
+        "rd": 100,
+        "prog": 27
       },
       "ultraBullet": {
-        "games": 11,
-        "rating": 1057,
-        "rd": 148,
-        "prog": 0,
+        "games": 15,
+        "rating": 1109,
+        "rd": 126,
+        "prog": 52,
         "prov": true
       },
       "blitz": {
@@ -51,17 +50,16 @@
         "prog": -18
       },
       "kingOfTheHill": {
-        "games": 8,
-        "rating": 1719,
-        "rd": 151,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 1702,
+        "rd": 87,
+        "prog": -7
       },
       "crazyhouse": {
-        "games": 17,
-        "rating": 1639,
-        "rd": 106,
-        "prog": 3
+        "games": 18,
+        "rating": 1686,
+        "rd": 103,
+        "prog": 50
       },
       "threeCheck": {
         "games": 4,
@@ -71,22 +69,22 @@
         "prov": true
       },
       "bullet": {
-        "games": 86,
-        "rating": 1292,
+        "games": 88,
+        "rating": 1283,
         "rd": 45,
-        "prog": -10
+        "prog": -13
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1741,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
       "horde": {
-        "games": 3,
-        "rating": 1301,
-        "rd": 271,
+        "games": 4,
+        "rating": 1198,
+        "rd": 225,
         "prog": 0,
         "prov": true
       },
@@ -104,10 +102,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 46,
-        "rating": 1759,
-        "rd": 56,
-        "prog": 11
+        "games": 51,
+        "rating": 1757,
+        "rd": 54,
+        "prog": 0
       }
     },
     "createdAt": 1626895251620,
@@ -119,27 +117,27 @@
       "lastName": "benkolli",
       "links": "facebook.com/IxTGRxx"
     },
-    "seenAt": 1627380635453,
+    "seenAt": 1627425576398,
     "patron": true,
     "playTime": {
-      "total": 63551,
-      "tv": 393
+      "total": 70235,
+      "tv": 907
     },
     "language": "fr-FR",
     "url": "https://lichess.org/@/itgrn",
     "nbFollowing": 3,
-    "nbFollowers": 3,
-    "completionRate": 80,
+    "nbFollowers": 5,
+    "completionRate": 93,
     "count": {
-      "all": 306,
-      "rated": 293,
-      "ai": 0,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 181,
-      "lossH": 181,
-      "win": 119,
-      "winH": 119,
+      "all": 374,
+      "rated": 350,
+      "ai": 1,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 227,
+      "lossH": 226,
+      "win": 138,
+      "winH": 138,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
