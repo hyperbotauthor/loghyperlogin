@@ -4,16 +4,23 @@
   "username": "iTgrB_Ti",
   "profileUrl": "https://lichess.org/@/iTgrB_Ti",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itgrb_ti\",\"username\":\"iTgrB_Ti\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627384522908,\"seenAt\":1627422917032,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB_Ti\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itgrb_ti\",\"username\":\"iTgrB_Ti\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1975,\"rd\":157,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1399,\"rd\":203,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1500,\"rd\":331,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627384522908,\"seenAt\":1627432313168,\"playTime\":{\"total\":3345,\"tv\":0},\"language\":\"fr-FR\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB_Ti\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":16,\"rated\":13,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":6,\"lossH\":6,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itgrb_ti",
     "username": "iTgrB_Ti",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 1975,
+        "rd": 157,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 4,
+        "rating": 1399,
+        "rd": 203,
         "prog": 0,
         "prov": true
       },
@@ -25,9 +32,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
+        "games": 2,
         "rating": 1500,
-        "rd": 500,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
@@ -47,26 +54,26 @@
       }
     },
     "createdAt": 1627384522908,
-    "seenAt": 1627422917032,
+    "seenAt": 1627432313168,
     "playTime": {
-      "total": 0,
+      "total": 3345,
       "tv": 0
     },
     "language": "fr-FR",
     "title": "BOT",
     "url": "https://lichess.org/@/iTgrB_Ti",
     "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 16,
+      "rated": 13,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 6,
+      "lossH": 6,
+      "win": 7,
+      "winH": 7,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
