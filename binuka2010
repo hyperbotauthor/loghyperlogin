@@ -1,0 +1,152 @@
+{
+  "id": "binuka2010",
+  "displayName": "Binuka2010",
+  "username": "Binuka2010",
+  "profileUrl": "https://lichess.org/@/Binuka2010",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"binuka2010\",\"username\":\"Binuka2010\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1236,\"rd\":244,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":1050,\"rd\":171,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":118,\"rating\":1181,\"rd\":93,\"prog\":0},\"atomic\":{\"games\":3,\"rating\":676,\"rd\":328,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":1424,\"rd\":178,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":11,\"rating\":1054,\"rd\":132,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":135,\"rating\":1092,\"rd\":50,\"prog\":15},\"crazyhouse\":{\"games\":4,\"rating\":1277,\"rd\":273,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":6,\"rating\":1123,\"rd\":174,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":58,\"rating\":921,\"rd\":76,\"prog\":-3},\"correspondence\":{\"games\":1,\"rating\":1178,\"rd\":310,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":910,\"rd\":192,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":148,\"rating\":1256,\"rd\":63,\"prog\":-40},\"storm\":{\"runs\":22,\"score\":14},\"racer\":{\"runs\":106,\"score\":24},\"streak\":{\"runs\":1,\"score\":4}},\"createdAt\":1605350396956,\"profile\":{\"country\":\"LK\",\"location\":\"Galle\",\"firstName\":\"Binuka\",\"lastName\":\"Narangoda\",\"fideRating\":909},\"seenAt\":1627455214028,\"playTime\":{\"total\":184696,\"tv\":247},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Binuka2010\",\"nbFollowing\":59,\"nbFollowers\":22,\"completionRate\":90,\"count\":{\"all\":648,\"rated\":390,\"ai\":13,\"draw\":21,\"drawH\":20,\"loss\":498,\"lossH\":488,\"win\":129,\"winH\":127,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "binuka2010",
+    "username": "Binuka2010",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1236,
+        "rd": 244,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 6,
+        "rating": 1050,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 118,
+        "rating": 1181,
+        "rd": 93,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 676,
+        "rd": 328,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 6,
+        "rating": 1424,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 11,
+        "rating": 1054,
+        "rd": 132,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 135,
+        "rating": 1092,
+        "rd": 50,
+        "prog": 15
+      },
+      "crazyhouse": {
+        "games": 4,
+        "rating": 1277,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 6,
+        "rating": 1123,
+        "rd": 174,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 58,
+        "rating": 921,
+        "rd": 76,
+        "prog": -3
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1178,
+        "rd": 310,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 6,
+        "rating": 910,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 148,
+        "rating": 1256,
+        "rd": 63,
+        "prog": -40
+      },
+      "storm": {
+        "runs": 22,
+        "score": 14
+      },
+      "racer": {
+        "runs": 106,
+        "score": 24
+      },
+      "streak": {
+        "runs": 1,
+        "score": 4
+      }
+    },
+    "createdAt": 1605350396956,
+    "profile": {
+      "country": "LK",
+      "location": "Galle",
+      "firstName": "Binuka",
+      "lastName": "Narangoda",
+      "fideRating": 909
+    },
+    "seenAt": 1627455214028,
+    "playTime": {
+      "total": 184696,
+      "tv": 247
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Binuka2010",
+    "nbFollowing": 59,
+    "nbFollowers": 22,
+    "completionRate": 90,
+    "count": {
+      "all": 648,
+      "rated": 390,
+      "ai": 13,
+      "draw": 21,
+      "drawH": 20,
+      "loss": 498,
+      "lossH": 488,
+      "win": 129,
+      "winH": 127,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
