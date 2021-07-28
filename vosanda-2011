@@ -1,0 +1,137 @@
+{
+  "id": "vosanda-2011",
+  "displayName": "Vosanda-2011",
+  "username": "Vosanda-2011",
+  "profileUrl": "https://lichess.org/@/Vosanda-2011",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"vosanda-2011\",\"username\":\"Vosanda-2011\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1299,\"rd\":278,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":235,\"rating\":1768,\"rd\":122,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":249,\"rating\":1212,\"rd\":45,\"prog\":-11},\"racingKings\":{\"games\":1,\"rating\":1207,\"rd\":295,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":300,\"rating\":1108,\"rd\":45,\"prog\":-21},\"blitz\":{\"games\":97,\"rating\":1128,\"rd\":51,\"prog\":12},\"crazyhouse\":{\"games\":1,\"rating\":1288,\"rd\":372,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":250,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":1085,\"rd\":92,\"prog\":-63},\"correspondence\":{\"games\":1,\"rating\":1272,\"rd\":288,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":11,\"score\":24}},\"createdAt\":1625939049332,\"profile\":{\"country\":\"LK\",\"location\":\"Karapitiya\",\"bio\":\"My Name is Vosanda Kithsara\",\"firstName\":\"Vosanda Kithsara\",\"lastName\":\"Hettige\"},\"seenAt\":1627477419723,\"playTime\":{\"total\":53367,\"tv\":201},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Vosanda-2011\",\"nbFollowing\":48,\"nbFollowers\":54,\"completionRate\":73,\"count\":{\"all\":929,\"rated\":700,\"ai\":6,\"draw\":14,\"drawH\":14,\"loss\":609,\"lossH\":608,\"win\":306,\"winH\":301,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "vosanda-2011",
+    "username": "Vosanda-2011",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 3,
+        "rating": 1299,
+        "rd": 278,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 235,
+        "rating": 1768,
+        "rd": 122,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 249,
+        "rating": 1212,
+        "rd": 45,
+        "prog": -11
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1207,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 300,
+        "rating": 1108,
+        "rd": 45,
+        "prog": -21
+      },
+      "blitz": {
+        "games": 97,
+        "rating": 1128,
+        "rd": 51,
+        "prog": 12
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1288,
+        "rd": 372,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1507,
+        "rd": 250,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 28,
+        "rating": 1085,
+        "rd": 92,
+        "prog": -63
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1272,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 11,
+        "score": 24
+      }
+    },
+    "createdAt": 1625939049332,
+    "profile": {
+      "country": "LK",
+      "location": "Karapitiya",
+      "bio": "My Name is Vosanda Kithsara",
+      "firstName": "Vosanda Kithsara",
+      "lastName": "Hettige"
+    },
+    "seenAt": 1627477419723,
+    "playTime": {
+      "total": 53367,
+      "tv": 201
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Vosanda-2011",
+    "nbFollowing": 48,
+    "nbFollowers": 54,
+    "completionRate": 73,
+    "count": {
+      "all": 929,
+      "rated": 700,
+      "ai": 6,
+      "draw": 14,
+      "drawH": 14,
+      "loss": 609,
+      "lossH": 608,
+      "win": 306,
+      "winH": 301,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
