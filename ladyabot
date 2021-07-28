@@ -4,17 +4,17 @@
   "username": "LadyaBOT",
   "profileUrl": "https://lichess.org/@/LadyaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2073,\"rd\":118,\"prog\":-2,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1218,\"rd\":369,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1260,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1258,\"rd\":404,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2564,\"rd\":250,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":2024,\"rd\":121,\"prog\":-473,\"prov\":true}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"RU\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/HIupUo7j вступайте в мой клуб\",\"firstName\":\"секрет\",\"lastName\":\"секрет\"},\"seenAt\":1627383274825,\"playTime\":{\"total\":37686,\"tv\":6141},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":7,\"nbFollowers\":51,\"count\":{\"all\":72,\"rated\":60,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":29,\"lossH\":28,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ladyabot\",\"username\":\"LadyaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":28,\"rating\":2049,\"rd\":112,\"prog\":-49,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1218,\"rd\":369,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1260,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1763,\"rd\":312,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2564,\"rd\":250,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":39,\"rating\":2224,\"rd\":80,\"prog\":147}},\"createdAt\":1612780145070,\"profile\":{\"country\":\"NO\",\"location\":\"Личесс\",\"bio\":\"https://lichess.org/team/oneleday--friends вступайте в мой клуб\\r\\nhttps://lichess.org/team/oneleday--friends join my club\\r\\nЯ https://lichess.org/@/Kilo_vika_2012pro\\r\\nI https://lichess.org/@/Kilo_vika_2012pro\",\"firstName\":\"https://lichess.org/\"},\"seenAt\":1627455216751,\"playTime\":{\"total\":47392,\"tv\":8973},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LadyaBOT\",\"nbFollowing\":13,\"nbFollowers\":54,\"count\":{\"all\":89,\"rated\":76,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":34,\"lossH\":33,\"win\":49,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ladyabot",
     "username": "LadyaBOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 27,
-        "rating": 2073,
-        "rd": 118,
-        "prog": -2,
+        "games": 28,
+        "rating": 2049,
+        "rd": 112,
+        "prog": -49,
         "prov": true
       },
       "antichess": {
@@ -32,9 +32,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1258,
-        "rd": 404,
+        "games": 4,
+        "rating": 1763,
+        "rd": 312,
         "prog": 0,
         "prov": true
       },
@@ -53,41 +53,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 27,
-        "rating": 2024,
-        "rd": 121,
-        "prog": -473,
-        "prov": true
+        "games": 39,
+        "rating": 2224,
+        "rd": 80,
+        "prog": 147
       }
     },
     "createdAt": 1612780145070,
     "profile": {
-      "country": "RU",
+      "country": "NO",
       "location": "Личесс",
-      "bio": "https://lichess.org/team/HIupUo7j вступайте в мой клуб",
-      "firstName": "секрет",
-      "lastName": "секрет"
+      "bio": "https://lichess.org/team/oneleday--friends вступайте в мой клуб\r\nhttps://lichess.org/team/oneleday--friends join my club\r\nЯ https://lichess.org/@/Kilo_vika_2012pro\r\nI https://lichess.org/@/Kilo_vika_2012pro",
+      "firstName": "https://lichess.org/"
     },
-    "seenAt": 1627383274825,
+    "seenAt": 1627455216751,
     "playTime": {
-      "total": 37686,
-      "tv": 6141
+      "total": 47392,
+      "tv": 8973
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/LadyaBOT",
-    "nbFollowing": 7,
-    "nbFollowers": 51,
+    "nbFollowing": 13,
+    "nbFollowers": 54,
     "count": {
-      "all": 72,
-      "rated": 60,
+      "all": 89,
+      "rated": 76,
       "ai": 1,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 29,
-      "lossH": 28,
-      "win": 40,
-      "winH": 40,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 34,
+      "lossH": 33,
+      "win": 49,
+      "winH": 49,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
