@@ -4,7 +4,7 @@
   "username": "iTgrB_Su",
   "profileUrl": "https://lichess.org/@/iTgrB_Su",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itgrb_su\",\"username\":\"iTgrB_Su\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627509668142,\"profile\":{\"bio\":\"By x @itgrn\"},\"seenAt\":1627509707482,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/iTgrB_Su\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itgrb_su\",\"username\":\"iTgrB_Su\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1820,\"rd\":190,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2329,\"rd\":366,\"prog\":0,\"prov\":true}},\"createdAt\":1627509668142,\"profile\":{\"bio\":\"By x @itgrn\"},\"seenAt\":1627520681350,\"playTime\":{\"total\":5585,\"tv\":270},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB_Su\",\"playing\":\"https://lichess.org/uzeGaKZp/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":10,\"rated\":9,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":6,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itgrb_su",
     "username": "iTgrB_Su",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 1820,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2329,
+        "rd": 366,
         "prog": 0,
         "prov": true
       }
@@ -50,27 +50,29 @@
     "profile": {
       "bio": "By x @itgrn"
     },
-    "seenAt": 1627509707482,
+    "seenAt": 1627520681350,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 5585,
+      "tv": 270
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/iTgrB_Su",
+    "playing": "https://lichess.org/uzeGaKZp/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 10,
+      "rated": 9,
+      "ai": 1,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 6,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
