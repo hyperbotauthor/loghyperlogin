@@ -4,7 +4,7 @@
   "username": "DareToChallengeMe",
   "profileUrl": "https://lichess.org/@/DareToChallengeMe",
   "provider": "lichess",
-  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"DareToChallengeMe\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2302,\"rd\":162,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2070,\"rd\":141,\"prog\":8,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":425,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"profile\":{\"bio\":\"DADADA\"},\"seenAt\":1627112315781,\"playTime\":{\"total\":6484,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DareToChallengeMe\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":46,\"rated\":26,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":8,\"win\":29,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"daretochallengeme\",\"username\":\"DareToChallengeMe\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2302,\"rd\":163,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2070,\"rd\":142,\"prog\":8,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":425,\"prog\":0,\"prov\":true}},\"createdAt\":1616774039995,\"profile\":{\"bio\":\"La La La\"},\"seenAt\":1627544844023,\"playTime\":{\"total\":6484,\"tv\":348},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DareToChallengeMe\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":46,\"rated\":26,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":15,\"lossH\":8,\"win\":29,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "daretochallengeme",
     "username": "DareToChallengeMe",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 10,
         "rating": 2302,
-        "rd": 162,
+        "rd": 163,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 15,
         "rating": 2070,
-        "rd": 141,
+        "rd": 142,
         "prog": 8,
         "prov": true
       },
@@ -48,9 +48,9 @@
     },
     "createdAt": 1616774039995,
     "profile": {
-      "bio": "DADADA"
+      "bio": "La La La"
     },
-    "seenAt": 1627112315781,
+    "seenAt": 1627544844023,
     "playTime": {
       "total": 6484,
       "tv": 348
