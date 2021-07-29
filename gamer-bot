@@ -4,18 +4,17 @@
   "username": "gamer-bot",
   "profileUrl": "https://lichess.org/@/gamer-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"gamer-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2396,\"rd\":223,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"seenAt\":1627449407117,\"playTime\":{\"total\":5645,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gamer-bot\",\"playing\":\"https://lichess.org/BCCZaUE3/white\",\"nbFollowing\":5,\"nbFollowers\":3,\"count\":{\"all\":21,\"rated\":8,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":2,\"win\":14,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"gamer-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":2154,\"rd\":93,\"prog\":-60},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2225,\"rd\":441,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"seenAt\":1627534725437,\"playTime\":{\"total\":14541,\"tv\":309},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gamer-bot\",\"nbFollowing\":11,\"nbFollowers\":5,\"count\":{\"all\":40,\"rated\":26,\"ai\":13,\"draw\":3,\"drawH\":3,\"loss\":16,\"lossH\":11,\"win\":21,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gamer-bot",
     "username": "gamer-bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 7,
-        "rating": 2396,
-        "rd": 223,
-        "prog": 0,
-        "prov": true
+        "games": 23,
+        "rating": 2154,
+        "rd": 93,
+        "prog": -60
       },
       "bullet": {
         "games": 0,
@@ -39,37 +38,36 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2225,
+        "rd": 441,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1627391401262,
-    "seenAt": 1627449407117,
+    "seenAt": 1627534725437,
     "playTime": {
-      "total": 5645,
-      "tv": 0
+      "total": 14541,
+      "tv": 309
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/gamer-bot",
-    "playing": "https://lichess.org/BCCZaUE3/white",
-    "nbFollowing": 5,
-    "nbFollowers": 3,
+    "nbFollowing": 11,
+    "nbFollowers": 5,
     "count": {
-      "all": 21,
-      "rated": 8,
-      "ai": 12,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 6,
-      "lossH": 2,
-      "win": 14,
-      "winH": 6,
+      "all": 40,
+      "rated": 26,
+      "ai": 13,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 16,
+      "lossH": 11,
+      "win": 21,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
