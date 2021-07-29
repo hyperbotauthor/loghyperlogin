@@ -4,23 +4,37 @@
   "username": "Binuka-2010",
   "profileUrl": "https://lichess.org/@/Binuka-2010",
   "provider": "lichess",
-  "_raw": "{\"id\":\"binuka-2010\",\"username\":\"Binuka-2010\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627454495071,\"seenAt\":1627454576908,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Binuka-2010\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"binuka-2010\",\"username\":\"Binuka-2010\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":9,\"rating\":791,\"rd\":174,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1036,\"rd\":228,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1097,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":630,\"rd\":190,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627454495071,\"profile\":{\"country\":\"LK\",\"location\":\"Galle\",\"firstName\":\"Binuka\",\"lastName\":\"Narangoda\",\"fideRating\":909},\"seenAt\":1627537009896,\"playTime\":{\"total\":1799,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Binuka-2010\",\"nbFollowing\":9,\"nbFollowers\":7,\"count\":{\"all\":26,\"rated\":25,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":25,\"lossH\":25,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "binuka-2010",
     "username": "Binuka-2010",
     "online": true,
     "perfs": {
+      "antichess": {
+        "games": 9,
+        "rating": 791,
+        "rd": 174,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1036,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1097,
+        "rd": 221,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 9,
+        "rating": 630,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
@@ -47,26 +61,33 @@
       }
     },
     "createdAt": 1627454495071,
-    "seenAt": 1627454576908,
+    "profile": {
+      "country": "LK",
+      "location": "Galle",
+      "firstName": "Binuka",
+      "lastName": "Narangoda",
+      "fideRating": 909
+    },
+    "seenAt": 1627537009896,
     "playTime": {
-      "total": 0,
+      "total": 1799,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Binuka-2010",
-    "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowing": 9,
+    "nbFollowers": 7,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 26,
+      "rated": 25,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 25,
+      "lossH": 25,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
