@@ -4,17 +4,17 @@
   "username": "gamer-bot",
   "profileUrl": "https://lichess.org/@/gamer-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"gamer-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":2154,\"rd\":93,\"prog\":-60},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2225,\"rd\":441,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"seenAt\":1627534725437,\"playTime\":{\"total\":14541,\"tv\":309},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gamer-bot\",\"nbFollowing\":11,\"nbFollowers\":5,\"count\":{\"all\":40,\"rated\":26,\"ai\":13,\"draw\":3,\"drawH\":3,\"loss\":16,\"lossH\":11,\"win\":21,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"gamer-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2151,\"rd\":89,\"prog\":-14},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2225,\"rd\":441,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"profile\":{\"country\":\"LK\",\"location\":\"Horana\",\"bio\":\"i am a stockfish 12 bot.\\r\\nthis bot is created by 15 years boy.\\r\\nplease follow this my account and my friends.\\r\\nthis account is mine account. @last_dragon_kingdom   those are my friends @bot_sl_b2k , garena_offecial  .\\r\\nchallenge me hurry.\\r\\nand try to eat me.\",\"fideRating\":2700},\"seenAt\":1627563753431,\"playTime\":{\"total\":16568,\"tv\":1291},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gamer-bot\",\"playing\":\"https://lichess.org/PMs5SC2j/white\",\"nbFollowing\":19,\"nbFollowers\":5,\"count\":{\"all\":43,\"rated\":29,\"ai\":13,\"draw\":4,\"drawH\":4,\"loss\":16,\"lossH\":11,\"win\":23,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gamer-bot",
     "username": "gamer-bot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 23,
-        "rating": 2154,
-        "rd": 93,
-        "prog": -60
+        "games": 26,
+        "rating": 2151,
+        "rd": 89,
+        "prog": -14
       },
       "bullet": {
         "games": 0,
@@ -46,28 +46,35 @@
       }
     },
     "createdAt": 1627391401262,
-    "seenAt": 1627534725437,
+    "profile": {
+      "country": "LK",
+      "location": "Horana",
+      "bio": "i am a stockfish 12 bot.\r\nthis bot is created by 15 years boy.\r\nplease follow this my account and my friends.\r\nthis account is mine account. @last_dragon_kingdom   those are my friends @bot_sl_b2k , garena_offecial  .\r\nchallenge me hurry.\r\nand try to eat me.",
+      "fideRating": 2700
+    },
+    "seenAt": 1627563753431,
     "playTime": {
-      "total": 14541,
-      "tv": 309
+      "total": 16568,
+      "tv": 1291
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/gamer-bot",
-    "nbFollowing": 11,
+    "playing": "https://lichess.org/PMs5SC2j/white",
+    "nbFollowing": 19,
     "nbFollowers": 5,
     "count": {
-      "all": 40,
-      "rated": 26,
+      "all": 43,
+      "rated": 29,
       "ai": 13,
-      "draw": 3,
-      "drawH": 3,
+      "draw": 4,
+      "drawH": 4,
       "loss": 16,
       "lossH": 11,
-      "win": 21,
-      "winH": 13,
+      "win": 23,
+      "winH": 15,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
