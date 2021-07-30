@@ -4,17 +4,17 @@
   "username": "GothamChessBot",
   "profileUrl": "https://lichess.org/@/GothamChessBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gothamchessbot\",\"username\":\"GothamChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":23,\"rating\":2264,\"rd\":87,\"prog\":-41},\"crazyhouse\":{\"games\":1,\"rating\":1358,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2193,\"rd\":106,\"prog\":97},\"correspondence\":{\"games\":6,\"rating\":2183,\"rd\":208,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2376,\"rd\":306,\"prog\":0,\"prov\":true}},\"createdAt\":1627410984760,\"seenAt\":1627607680941,\"playTime\":{\"total\":14538,\"tv\":525},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GothamChessBot\",\"playing\":\"https://lichess.org/Ndo6wbIJ/black\",\"nbFollowing\":3,\"nbFollowers\":3,\"count\":{\"all\":68,\"rated\":64,\"ai\":2,\"draw\":23,\"drawH\":23,\"loss\":16,\"lossH\":15,\"win\":29,\"winH\":28,\"bookmark\":0,\"playing\":6,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gothamchessbot\",\"username\":\"GothamChessBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2255,\"rd\":85,\"prog\":-29},\"crazyhouse\":{\"games\":1,\"rating\":1358,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2193,\"rd\":106,\"prog\":97},\"correspondence\":{\"games\":6,\"rating\":2183,\"rd\":208,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2376,\"rd\":306,\"prog\":0,\"prov\":true}},\"createdAt\":1627410984760,\"seenAt\":1627653513269,\"playTime\":{\"total\":14890,\"tv\":525},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GothamChessBot\",\"playing\":\"https://lichess.org/wUqNqyOg/black\",\"nbFollowing\":5,\"nbFollowers\":3,\"count\":{\"all\":69,\"rated\":65,\"ai\":2,\"draw\":23,\"drawH\":23,\"loss\":17,\"lossH\":16,\"win\":29,\"winH\":28,\"bookmark\":0,\"playing\":6,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gothamchessbot",
     "username": "GothamChessBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 23,
-        "rating": 2264,
-        "rd": 87,
-        "prog": -41
+        "games": 24,
+        "rating": 2255,
+        "rd": 85,
+        "prog": -29
       },
       "crazyhouse": {
         "games": 1,
@@ -52,25 +52,25 @@
       }
     },
     "createdAt": 1627410984760,
-    "seenAt": 1627607680941,
+    "seenAt": 1627653513269,
     "playTime": {
-      "total": 14538,
+      "total": 14890,
       "tv": 525
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/GothamChessBot",
-    "playing": "https://lichess.org/Ndo6wbIJ/black",
-    "nbFollowing": 3,
+    "playing": "https://lichess.org/wUqNqyOg/black",
+    "nbFollowing": 5,
     "nbFollowers": 3,
     "count": {
-      "all": 68,
-      "rated": 64,
+      "all": 69,
+      "rated": 65,
       "ai": 2,
       "draw": 23,
       "drawH": 23,
-      "loss": 16,
-      "lossH": 15,
+      "loss": 17,
+      "lossH": 16,
       "win": 29,
       "winH": 28,
       "bookmark": 0,
