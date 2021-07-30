@@ -1,0 +1,160 @@
+{
+  "id": "rishab1",
+  "displayName": "Rishab1",
+  "username": "Rishab1",
+  "profileUrl": "https://lichess.org/@/Rishab1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rishab1\",\"username\":\"Rishab1\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":96,\"rating\":1543,\"rd\":96,\"prog\":10},\"antichess\":{\"games\":172,\"rating\":1368,\"rd\":80,\"prog\":-2},\"atomic\":{\"games\":1107,\"rating\":1476,\"rd\":66,\"prog\":-45},\"racingKings\":{\"games\":46,\"rating\":1479,\"rd\":110,\"prog\":18,\"prov\":true},\"ultraBullet\":{\"games\":9066,\"rating\":1579,\"rd\":46,\"prog\":-10},\"blitz\":{\"games\":210,\"rating\":1286,\"rd\":73,\"prog\":82},\"kingOfTheHill\":{\"games\":129,\"rating\":1461,\"rd\":94,\"prog\":-31},\"crazyhouse\":{\"games\":232,\"rating\":1430,\"rd\":91,\"prog\":-44},\"threeCheck\":{\"games\":219,\"rating\":1495,\"rd\":68,\"prog\":1},\"bullet\":{\"games\":1033,\"rating\":1696,\"rd\":54,\"prog\":-19},\"correspondence\":{\"games\":19,\"rating\":1234,\"rd\":148,\"prog\":55,\"prov\":true},\"horde\":{\"games\":52,\"rating\":1519,\"rd\":110,\"prog\":6,\"prov\":true},\"puzzle\":{\"games\":938,\"rating\":2772,\"rd\":88,\"prog\":0},\"classical\":{\"games\":54,\"rating\":1375,\"rd\":111,\"prog\":21,\"prov\":true},\"rapid\":{\"games\":687,\"rating\":1559,\"rd\":48,\"prog\":-1},\"storm\":{\"runs\":71,\"score\":29},\"racer\":{\"runs\":35,\"score\":44},\"streak\":{\"runs\":499,\"score\":24}},\"createdAt\":1605867096524,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram\",\"bio\":\"My best game are defeating, 2 WCM https://lichess.org/Q2rARcRS and https://lichess.org/xBlUlbCt ,    3 IM  https://lichess.org/zpc51hox , https://lichess.org/Os6P6W1qWdCm and https://lichess.org/o2MlFaU8BxxT ,       2 CM   https://lichess.org/vNoVHJT20lKE and https://lichess.org/B8IVPzQTLqZs ,    2 FM https://lichess.org/MyJGCnKE and https://lichess.org/h5hglI66, 1 WIM https://lichess.org/8KNMA2hp\",\"firstName\":\"Rishab\",\"lastName\":\"Bindal\",\"links\":\"https://Lichess.org/@/Rishab1\\r\\nhttps://Chess.com/member/rishabbindal\\r\\nhttps://Chesskid.com/user/InkyFullBall/profile\\r\\nhttps://Lidraughts.org/@/Rishab1\\r\\nhttps://Chess24.com/en/profile/rishab_bindal\\r\\nhttps://Chess-academy.net/@/Rishab1\"},\"seenAt\":1627654218248,\"playTime\":{\"total\":764435,\"tv\":2327},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/Rishab1\",\"nbFollowing\":348,\"nbFollowers\":66,\"completionRate\":97,\"count\":{\"all\":14374,\"rated\":13307,\"ai\":57,\"draw\":279,\"drawH\":279,\"loss\":7142,\"lossH\":7116,\"win\":6953,\"winH\":6922,\"bookmark\":4,\"playing\":0,\"import\":5,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rishab1",
+    "username": "Rishab1",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 96,
+        "rating": 1543,
+        "rd": 96,
+        "prog": 10
+      },
+      "antichess": {
+        "games": 172,
+        "rating": 1368,
+        "rd": 80,
+        "prog": -2
+      },
+      "atomic": {
+        "games": 1107,
+        "rating": 1476,
+        "rd": 66,
+        "prog": -45
+      },
+      "racingKings": {
+        "games": 46,
+        "rating": 1479,
+        "rd": 110,
+        "prog": 18,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 9066,
+        "rating": 1579,
+        "rd": 46,
+        "prog": -10
+      },
+      "blitz": {
+        "games": 210,
+        "rating": 1286,
+        "rd": 73,
+        "prog": 82
+      },
+      "kingOfTheHill": {
+        "games": 129,
+        "rating": 1461,
+        "rd": 94,
+        "prog": -31
+      },
+      "crazyhouse": {
+        "games": 232,
+        "rating": 1430,
+        "rd": 91,
+        "prog": -44
+      },
+      "threeCheck": {
+        "games": 219,
+        "rating": 1495,
+        "rd": 68,
+        "prog": 1
+      },
+      "bullet": {
+        "games": 1033,
+        "rating": 1696,
+        "rd": 54,
+        "prog": -19
+      },
+      "correspondence": {
+        "games": 19,
+        "rating": 1234,
+        "rd": 148,
+        "prog": 55,
+        "prov": true
+      },
+      "horde": {
+        "games": 52,
+        "rating": 1519,
+        "rd": 110,
+        "prog": 6,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 938,
+        "rating": 2772,
+        "rd": 88,
+        "prog": 0
+      },
+      "classical": {
+        "games": 54,
+        "rating": 1375,
+        "rd": 111,
+        "prog": 21,
+        "prov": true
+      },
+      "rapid": {
+        "games": 687,
+        "rating": 1559,
+        "rd": 48,
+        "prog": -1
+      },
+      "storm": {
+        "runs": 71,
+        "score": 29
+      },
+      "racer": {
+        "runs": 35,
+        "score": 44
+      },
+      "streak": {
+        "runs": 499,
+        "score": 24
+      }
+    },
+    "createdAt": 1605867096524,
+    "profile": {
+      "country": "IN",
+      "location": "Gurugram",
+      "bio": "My best game are defeating, 2 WCM https://lichess.org/Q2rARcRS and https://lichess.org/xBlUlbCt ,    3 IM  https://lichess.org/zpc51hox , https://lichess.org/Os6P6W1qWdCm and https://lichess.org/o2MlFaU8BxxT ,       2 CM   https://lichess.org/vNoVHJT20lKE and https://lichess.org/B8IVPzQTLqZs ,    2 FM https://lichess.org/MyJGCnKE and https://lichess.org/h5hglI66, 1 WIM https://lichess.org/8KNMA2hp",
+      "firstName": "Rishab",
+      "lastName": "Bindal",
+      "links": "https://Lichess.org/@/Rishab1\r\nhttps://Chess.com/member/rishabbindal\r\nhttps://Chesskid.com/user/InkyFullBall/profile\r\nhttps://Lidraughts.org/@/Rishab1\r\nhttps://Chess24.com/en/profile/rishab_bindal\r\nhttps://Chess-academy.net/@/Rishab1"
+    },
+    "seenAt": 1627654218248,
+    "playTime": {
+      "total": 764435,
+      "tv": 2327
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/Rishab1",
+    "nbFollowing": 348,
+    "nbFollowers": 66,
+    "completionRate": 97,
+    "count": {
+      "all": 14374,
+      "rated": 13307,
+      "ai": 57,
+      "draw": 279,
+      "drawH": 279,
+      "loss": 7142,
+      "lossH": 7116,
+      "win": 6953,
+      "winH": 6922,
+      "bookmark": 4,
+      "playing": 0,
+      "import": 5,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
