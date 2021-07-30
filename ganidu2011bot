@@ -4,7 +4,7 @@
   "username": "Ganidu2011BOT",
   "profileUrl": "https://lichess.org/@/Ganidu2011BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"Ganidu2011BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627552474941,\"seenAt\":1627557938652,\"playTime\":{\"total\":337,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Ganidu2011BOT\",\"playing\":\"https://lichess.org/2WTb1W5f/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":6,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"Ganidu2011BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1944,\"rd\":313,\"prog\":0,\"prov\":true}},\"createdAt\":1627552474941,\"profile\":{\"bio\":\"Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet\"},\"seenAt\":1627616758831,\"playTime\":{\"total\":2257,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Ganidu2011BOT\",\"playing\":\"https://lichess.org/z7ElVAfW/white\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":16,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ganidu2011bot",
     "username": "Ganidu2011BOT",
@@ -39,37 +39,40 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1944,
+        "rd": 313,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1627552474941,
-    "seenAt": 1627557938652,
+    "profile": {
+      "bio": "Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet"
+    },
+    "seenAt": 1627616758831,
     "playTime": {
-      "total": 337,
+      "total": 2257,
       "tv": 0
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/Ganidu2011BOT",
-    "playing": "https://lichess.org/2WTb1W5f/black",
+    "playing": "https://lichess.org/z7ElVAfW/white",
     "nbFollowing": 1,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 6,
-      "rated": 0,
+      "all": 16,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 4,
-      "winH": 4,
+      "loss": 8,
+      "lossH": 8,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
