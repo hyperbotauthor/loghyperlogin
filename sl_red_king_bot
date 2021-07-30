@@ -4,7 +4,7 @@
   "username": "SL_Red_King_BOT",
   "profileUrl": "https://lichess.org/@/SL_Red_King_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sl_red_king_bot\",\"username\":\"SL_Red_King_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2163,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2087,\"rd\":102,\"prog\":-18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2056,\"rd\":242,\"prog\":0,\"prov\":true}},\"createdAt\":1625494737833,\"profile\":{\"country\":\"LK\",\"bio\":\"Hi there! I am a bot ,  I only play standard chess , Currently accepts Rated or Casual, Bullet , Blitz , Rapid , Classical \\r\\nChallenge me!\\r\\n------------\\r\\nCreated by @tharindu-1212\",\"firstName\":\"SriLankan_Red_King\"},\"seenAt\":1627491795820,\"playTime\":{\"total\":7730,\"tv\":344},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SL_Red_King_BOT\",\"nbFollowing\":23,\"nbFollowers\":12,\"count\":{\"all\":57,\"rated\":41,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":4,\"win\":51,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sl_red_king_bot\",\"username\":\"SL_Red_King_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2163,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2087,\"rd\":103,\"prog\":-18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2056,\"rd\":242,\"prog\":0,\"prov\":true}},\"createdAt\":1625494737833,\"profile\":{\"country\":\"LK\",\"bio\":\"Hi there! I am a bot ,  I only play standard chess , Currently accepts Rated or Casual, Bullet , Blitz , Rapid , Classical \\r\\nChallenge me. Created by @Tharindu-1212. Please join to be a https://lichess.org/team/sanuka-mintharu...!\",\"firstName\":\"SL Red King\",\"lastName\":\"BOT\"},\"seenAt\":1627658513666,\"playTime\":{\"total\":7927,\"tv\":344},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SL_Red_King_BOT\",\"nbFollowing\":24,\"nbFollowers\":12,\"count\":{\"all\":60,\"rated\":41,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":6,\"lossH\":4,\"win\":52,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sl_red_king_bot",
     "username": "SL_Red_King_BOT",
@@ -20,7 +20,7 @@
       "bullet": {
         "games": 34,
         "rating": 2087,
-        "rd": 102,
+        "rd": 103,
         "prog": -18
       },
       "correspondence": {
@@ -48,28 +48,29 @@
     "createdAt": 1625494737833,
     "profile": {
       "country": "LK",
-      "bio": "Hi there! I am a bot ,  I only play standard chess , Currently accepts Rated or Casual, Bullet , Blitz , Rapid , Classical \r\nChallenge me!\r\n------------\r\nCreated by @tharindu-1212",
-      "firstName": "SriLankan_Red_King"
+      "bio": "Hi there! I am a bot ,  I only play standard chess , Currently accepts Rated or Casual, Bullet , Blitz , Rapid , Classical \r\nChallenge me. Created by @Tharindu-1212. Please join to be a https://lichess.org/team/sanuka-mintharu...!",
+      "firstName": "SL Red King",
+      "lastName": "BOT"
     },
-    "seenAt": 1627491795820,
+    "seenAt": 1627658513666,
     "playTime": {
-      "total": 7730,
+      "total": 7927,
       "tv": 344
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/SL_Red_King_BOT",
-    "nbFollowing": 23,
+    "nbFollowing": 24,
     "nbFollowers": 12,
     "count": {
-      "all": 57,
+      "all": 60,
       "rated": 41,
-      "ai": 5,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 5,
+      "ai": 7,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 6,
       "lossH": 4,
-      "win": 51,
+      "win": 52,
       "winH": 47,
       "bookmark": 0,
       "playing": 0,
