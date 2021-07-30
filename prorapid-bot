@@ -4,17 +4,17 @@
   "username": "ProRaPid-BOT",
   "profileUrl": "https://lichess.org/@/ProRaPid-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":74,\"rating\":2579,\"rd\":93,\"prog\":25},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":478,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1919,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1968,\"rd\":268,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2113,\"rd\":239,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi Follow me pls!\"},\"seenAt\":1627553516860,\"playTime\":{\"total\":20672,\"tv\":3422},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"nbFollowing\":22,\"nbFollowers\":9,\"count\":{\"all\":124,\"rated\":86,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":22,\"lossH\":22,\"win\":91,\"winH\":91,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":76,\"rating\":2580,\"rd\":93,\"prog\":14},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":478,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1919,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1968,\"rd\":269,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2037,\"rd\":201,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi Follow me pls!\"},\"seenAt\":1627628213604,\"playTime\":{\"total\":21043,\"tv\":3422},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"nbFollowing\":22,\"nbFollowers\":9,\"count\":{\"all\":127,\"rated\":89,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":23,\"lossH\":23,\"win\":93,\"winH\":93,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prorapid-bot",
     "username": "ProRaPid-BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 74,
-        "rating": 2579,
+        "games": 76,
+        "rating": 2580,
         "rd": 93,
-        "prog": 25
+        "prog": 14
       },
       "racingKings": {
         "games": 1,
@@ -40,14 +40,14 @@
       "classical": {
         "games": 2,
         "rating": 1968,
-        "rd": 268,
+        "rd": 269,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2113,
-        "rd": 239,
+        "games": 5,
+        "rating": 2037,
+        "rd": 201,
         "prog": 0,
         "prov": true
       }
@@ -57,9 +57,9 @@
       "country": "_earth",
       "bio": "Hi Follow me pls!"
     },
-    "seenAt": 1627553516860,
+    "seenAt": 1627628213604,
     "playTime": {
-      "total": 20672,
+      "total": 21043,
       "tv": 3422
     },
     "language": "ru-RU",
@@ -68,15 +68,15 @@
     "nbFollowing": 22,
     "nbFollowers": 9,
     "count": {
-      "all": 124,
-      "rated": 86,
+      "all": 127,
+      "rated": 89,
       "ai": 0,
       "draw": 11,
       "drawH": 11,
-      "loss": 22,
-      "lossH": 22,
-      "win": 91,
-      "winH": 91,
+      "loss": 23,
+      "lossH": 23,
+      "win": 93,
+      "winH": 93,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
