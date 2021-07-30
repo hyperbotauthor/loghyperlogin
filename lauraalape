@@ -1,0 +1,131 @@
+{
+  "id": "lauraalape",
+  "displayName": "Lauraalape",
+  "username": "Lauraalape",
+  "profileUrl": "https://lichess.org/@/Lauraalape",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lauraalape\",\"username\":\"Lauraalape\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":12,\"rating\":1731,\"rd\":185,\"prog\":-14,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1281,\"rd\":287,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":949,\"rating\":2423,\"rd\":75,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":1372,\"rd\":293,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":464,\"rating\":1656,\"rd\":48,\"prog\":35},\"threeCheck\":{\"games\":1,\"rating\":1188,\"rd\":314,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1041,\"rd\":87,\"prog\":40},\"correspondence\":{\"games\":2,\"rating\":2001,\"rd\":313,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":41,\"rating\":1608,\"rd\":101,\"prog\":99},\"storm\":{\"runs\":188,\"score\":31},\"racer\":{\"runs\":272,\"score\":47},\"streak\":{\"runs\":7,\"score\":28}},\"createdAt\":1591645804357,\"profile\":{\"country\":\"CO\",\"location\":\"Villapaz corregimiento de Jamundi\",\"firstName\":\"Laura Sofia\",\"lastName\":\"Alape Gonzalez\"},\"seenAt\":1627661576441,\"playTime\":{\"total\":280046,\"tv\":0},\"language\":\"es-ES\",\"url\":\"https://lichess.org/@/Lauraalape\",\"playing\":\"https://lichess.org/26ITqAKa/black\",\"nbFollowing\":2,\"nbFollowers\":17,\"completionRate\":83,\"count\":{\"all\":836,\"rated\":559,\"ai\":179,\"draw\":69,\"drawH\":50,\"loss\":371,\"lossH\":313,\"win\":396,\"winH\":294,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lauraalape",
+    "username": "Lauraalape",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 12,
+        "rating": 1731,
+        "rd": 185,
+        "prog": -14,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1281,
+        "rd": 287,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 949,
+        "rating": 2423,
+        "rd": 75,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1372,
+        "rd": 293,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 464,
+        "rating": 1656,
+        "rd": 48,
+        "prog": 35
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1188,
+        "rd": 314,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 25,
+        "rating": 1041,
+        "rd": 87,
+        "prog": 40
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 2001,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 41,
+        "rating": 1608,
+        "rd": 101,
+        "prog": 99
+      },
+      "storm": {
+        "runs": 188,
+        "score": 31
+      },
+      "racer": {
+        "runs": 272,
+        "score": 47
+      },
+      "streak": {
+        "runs": 7,
+        "score": 28
+      }
+    },
+    "createdAt": 1591645804357,
+    "profile": {
+      "country": "CO",
+      "location": "Villapaz corregimiento de Jamundi",
+      "firstName": "Laura Sofia",
+      "lastName": "Alape Gonzalez"
+    },
+    "seenAt": 1627661576441,
+    "playTime": {
+      "total": 280046,
+      "tv": 0
+    },
+    "language": "es-ES",
+    "url": "https://lichess.org/@/Lauraalape",
+    "playing": "https://lichess.org/26ITqAKa/black",
+    "nbFollowing": 2,
+    "nbFollowers": 17,
+    "completionRate": 83,
+    "count": {
+      "all": 836,
+      "rated": 559,
+      "ai": 179,
+      "draw": 69,
+      "drawH": 50,
+      "loss": 371,
+      "lossH": 313,
+      "win": 396,
+      "winH": 294,
+      "bookmark": 3,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
