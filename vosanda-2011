@@ -4,7 +4,7 @@
   "username": "Vosanda-2011",
   "profileUrl": "https://lichess.org/@/Vosanda-2011",
   "provider": "lichess",
-  "_raw": "{\"id\":\"vosanda-2011\",\"username\":\"Vosanda-2011\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1299,\"rd\":278,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":235,\"rating\":1768,\"rd\":123,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":250,\"rating\":1211,\"rd\":45,\"prog\":-11},\"racingKings\":{\"games\":1,\"rating\":1207,\"rd\":295,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":304,\"rating\":1103,\"rd\":45,\"prog\":-17},\"blitz\":{\"games\":100,\"rating\":1128,\"rd\":50,\"prog\":4},\"crazyhouse\":{\"games\":1,\"rating\":1288,\"rd\":373,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":250,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":63,\"rating\":1224,\"rd\":69,\"prog\":-4},\"correspondence\":{\"games\":1,\"rating\":1272,\"rd\":289,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":12,\"score\":24}},\"createdAt\":1625939049332,\"profile\":{\"country\":\"LK\",\"location\":\"Karapitiya\",\"bio\":\"My Name is Vosanda Kithsara\",\"firstName\":\"Vosanda Kithsara\",\"lastName\":\"Hettige\"},\"seenAt\":1627531905109,\"playTime\":{\"total\":56382,\"tv\":201},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Vosanda-2011\",\"nbFollowing\":48,\"nbFollowers\":53,\"completionRate\":93,\"count\":{\"all\":981,\"rated\":743,\"ai\":7,\"draw\":17,\"drawH\":17,\"loss\":642,\"lossH\":641,\"win\":322,\"winH\":316,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"vosanda-2011\",\"username\":\"Vosanda-2011\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1299,\"rd\":278,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":243,\"rating\":1791,\"rd\":119,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":256,\"rating\":1190,\"rd\":45,\"prog\":-37},\"racingKings\":{\"games\":1,\"rating\":1207,\"rd\":295,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":315,\"rating\":1134,\"rd\":45,\"prog\":31},\"blitz\":{\"games\":103,\"rating\":1145,\"rd\":49,\"prog\":29},\"crazyhouse\":{\"games\":1,\"rating\":1288,\"rd\":373,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1507,\"rd\":250,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":89,\"rating\":1246,\"rd\":59,\"prog\":22},\"correspondence\":{\"games\":1,\"rating\":1272,\"rd\":289,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1022,\"rd\":331,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":12,\"score\":24}},\"createdAt\":1625939049332,\"profile\":{\"country\":\"LK\",\"location\":\"Karapitiya\",\"bio\":\"My Name is Vosanda Kithsara\\r\\nhttps://imgur.com/gallery/oWbwRUv\",\"firstName\":\"Vosanda Kithsara\",\"lastName\":\"Hettige\"},\"seenAt\":1627613847024,\"playTime\":{\"total\":60683,\"tv\":201},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Vosanda-2011\",\"nbFollowing\":48,\"nbFollowers\":53,\"completionRate\":87,\"count\":{\"all\":1048,\"rated\":791,\"ai\":11,\"draw\":20,\"drawH\":20,\"loss\":686,\"lossH\":684,\"win\":342,\"winH\":333,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "vosanda-2011",
     "username": "Vosanda-2011",
@@ -18,17 +18,17 @@
         "prov": true
       },
       "puzzle": {
-        "games": 235,
-        "rating": 1768,
-        "rd": 123,
+        "games": 243,
+        "rating": 1791,
+        "rd": 119,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 250,
-        "rating": 1211,
+        "games": 256,
+        "rating": 1190,
         "rd": 45,
-        "prog": -11
+        "prog": -37
       },
       "racingKings": {
         "games": 1,
@@ -38,16 +38,16 @@
         "prov": true
       },
       "ultraBullet": {
-        "games": 304,
-        "rating": 1103,
+        "games": 315,
+        "rating": 1134,
         "rd": 45,
-        "prog": -17
+        "prog": 31
       },
       "blitz": {
-        "games": 100,
-        "rating": 1128,
-        "rd": 50,
-        "prog": 4
+        "games": 103,
+        "rating": 1145,
+        "rd": 49,
+        "prog": 29
       },
       "crazyhouse": {
         "games": 1,
@@ -64,10 +64,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 63,
-        "rating": 1224,
-        "rd": 69,
-        "prog": -4
+        "games": 89,
+        "rating": 1246,
+        "rd": 59,
+        "prog": 22
       },
       "correspondence": {
         "games": 1,
@@ -77,9 +77,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1022,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
@@ -99,30 +99,30 @@
     "profile": {
       "country": "LK",
       "location": "Karapitiya",
-      "bio": "My Name is Vosanda Kithsara",
+      "bio": "My Name is Vosanda Kithsara\r\nhttps://imgur.com/gallery/oWbwRUv",
       "firstName": "Vosanda Kithsara",
       "lastName": "Hettige"
     },
-    "seenAt": 1627531905109,
+    "seenAt": 1627613847024,
     "playTime": {
-      "total": 56382,
+      "total": 60683,
       "tv": 201
     },
     "language": "en-US",
     "url": "https://lichess.org/@/Vosanda-2011",
     "nbFollowing": 48,
     "nbFollowers": 53,
-    "completionRate": 93,
+    "completionRate": 87,
     "count": {
-      "all": 981,
-      "rated": 743,
-      "ai": 7,
-      "draw": 17,
-      "drawH": 17,
-      "loss": 642,
-      "lossH": 641,
-      "win": 322,
-      "winH": 316,
+      "all": 1048,
+      "rated": 791,
+      "ai": 11,
+      "draw": 20,
+      "drawH": 20,
+      "loss": 686,
+      "lossH": 684,
+      "win": 342,
+      "winH": 333,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
