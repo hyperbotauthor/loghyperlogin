@@ -4,7 +4,7 @@
   "username": "Tirthankarbarman4",
   "profileUrl": "https://lichess.org/@/Tirthankarbarman4",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tirthankarbarman4\",\"username\":\"Tirthankarbarman4\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626075100096,\"seenAt\":1627541800810,\"playTime\":{\"total\":337,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tirthankarbarman4\",\"playing\":\"https://lichess.org/01haCNVY/black\",\"nbFollowing\":6,\"nbFollowers\":7,\"count\":{\"all\":6,\"rated\":1,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":2,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tirthankarbarman4\",\"username\":\"Tirthankarbarman4\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626075100096,\"seenAt\":1627728705303,\"playTime\":{\"total\":615,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Tirthankarbarman4\",\"playing\":\"https://lichess.org/01haCNVY/black\",\"nbFollowing\":6,\"nbFollowers\":8,\"count\":{\"all\":7,\"rated\":1,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":2,\"winH\":0,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tirthankarbarman4",
     "username": "Tirthankarbarman4",
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1626075100096,
-    "seenAt": 1627541800810,
+    "seenAt": 1627728705303,
     "playTime": {
-      "total": 337,
+      "total": 615,
       "tv": 0
     },
     "language": "en-US",
@@ -57,18 +57,18 @@
     "url": "https://lichess.org/@/Tirthankarbarman4",
     "playing": "https://lichess.org/01haCNVY/black",
     "nbFollowing": 6,
-    "nbFollowers": 7,
+    "nbFollowers": 8,
     "count": {
-      "all": 6,
+      "all": 7,
       "rated": 1,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
+      "loss": 5,
+      "lossH": 5,
       "win": 2,
       "winH": 0,
-      "bookmark": 0,
+      "bookmark": 1,
       "playing": 1,
       "import": 0,
       "me": 0
