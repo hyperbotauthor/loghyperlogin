@@ -4,23 +4,30 @@
   "username": "Administracionbot",
   "profileUrl": "https://lichess.org/@/Administracionbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2144,\"rd\":115,\"prog\":-10,\"prov\":true},\"antichess\":{\"games\":4,\"rating\":2442,\"rd\":242,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1669,\"rd\":88,\"prog\":44},\"correspondence\":{\"games\":9,\"rating\":1933,\"rd\":202,\"prog\":0,\"prov\":true},\"classical\":{\"games\":20,\"rating\":1493,\"rd\":124,\"prog\":286,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2166,\"rd\":323,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"bio\":\"https://i.imgur.com/KM403sa.jpg\",\"firstName\":\"꧁SUPER BOY\",\"lastName\":\"A1꧂\"},\"seenAt\":1627650076302,\"playTime\":{\"total\":36399,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/26ITqAKa/white\",\"nbFollowing\":2,\"nbFollowers\":8,\"count\":{\"all\":165,\"rated\":90,\"ai\":8,\"draw\":7,\"drawH\":7,\"loss\":30,\"lossH\":29,\"win\":128,\"winH\":121,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"administracionbot\",\"username\":\"Administracionbot\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":2442,\"rd\":242,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2144,\"rd\":116,\"prog\":-10,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1765,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1669,\"rd\":88,\"prog\":44},\"correspondence\":{\"games\":9,\"rating\":1933,\"rd\":202,\"prog\":0,\"prov\":true},\"classical\":{\"games\":20,\"rating\":1493,\"rd\":125,\"prog\":286,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2204,\"rd\":292,\"prog\":0,\"prov\":true}},\"createdAt\":1623891674481,\"profile\":{\"country\":\"CO\",\"location\":\"Jamundi\",\"bio\":\"https://i.imgur.com/KM403sa.jpg\",\"firstName\":\"꧁SUPER BOY\",\"lastName\":\"A1꧂\"},\"seenAt\":1627753321709,\"playTime\":{\"total\":37451,\"tv\":85},\"language\":\"es-ES\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Administracionbot\",\"playing\":\"https://lichess.org/26ITqAKa/white\",\"nbFollowing\":2,\"nbFollowers\":8,\"count\":{\"all\":178,\"rated\":93,\"ai\":17,\"draw\":8,\"drawH\":7,\"loss\":31,\"lossH\":29,\"win\":139,\"winH\":125,\"bookmark\":0,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "administracionbot",
     "username": "Administracionbot",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 15,
-        "rating": 2144,
-        "rd": 115,
-        "prog": -10,
-        "prov": true
-      },
       "antichess": {
         "games": 4,
         "rating": 2442,
         "rd": 242,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 15,
+        "rating": 2144,
+        "rd": 116,
+        "prog": -10,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1765,
+        "rd": 246,
         "prog": 0,
         "prov": true
       },
@@ -40,14 +47,14 @@
       "classical": {
         "games": 20,
         "rating": 1493,
-        "rd": 124,
+        "rd": 125,
         "prog": 286,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2166,
-        "rd": 323,
+        "games": 3,
+        "rating": 2204,
+        "rd": 292,
         "prog": 0,
         "prov": true
       }
@@ -60,9 +67,9 @@
       "firstName": "꧁SUPER BOY",
       "lastName": "A1꧂"
     },
-    "seenAt": 1627650076302,
+    "seenAt": 1627753321709,
     "playTime": {
-      "total": 36399,
+      "total": 37451,
       "tv": 85
     },
     "language": "es-ES",
@@ -72,15 +79,15 @@
     "nbFollowing": 2,
     "nbFollowers": 8,
     "count": {
-      "all": 165,
-      "rated": 90,
-      "ai": 8,
-      "draw": 7,
+      "all": 178,
+      "rated": 93,
+      "ai": 17,
+      "draw": 8,
       "drawH": 7,
-      "loss": 30,
+      "loss": 31,
       "lossH": 29,
-      "win": 128,
-      "winH": 121,
+      "win": 139,
+      "winH": 125,
       "bookmark": 0,
       "playing": 3,
       "import": 0,
