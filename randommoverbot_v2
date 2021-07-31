@@ -4,37 +4,57 @@
   "username": "RandomMoverBot_V2",
   "profileUrl": "https://lichess.org/@/RandomMoverBot_V2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommoverbot_v2\",\"username\":\"RandomMoverBot_V2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1453,\"rd\":431,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1186,\"rd\":384,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1165,\"rd\":364,\"prog\":0,\"prov\":true}},\"createdAt\":1627280450529,\"profile\":{\"bio\":\"RandomMoverBot_V2, Plays random moves, Accepts casual only, Supports any variants.\"},\"seenAt\":1627378323394,\"playTime\":{\"total\":413,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomMoverBot_V2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":10,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":10,\"lossH\":10,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommoverbot_v2\",\"username\":\"RandomMoverBot_V2\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":5,\"rating\":1869,\"rd\":304,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":53,\"rating\":1336,\"rd\":58,\"prog\":-11},\"racingKings\":{\"games\":12,\"rating\":1898,\"rd\":132,\"prog\":-53,\"prov\":true},\"blitz\":{\"games\":5,\"rating\":1078,\"rd\":290,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":19,\"rating\":1263,\"rd\":227,\"prog\":-331,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":1248,\"rd\":204,\"prog\":-86,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":992,\"rd\":301,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1200,\"rd\":400,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":873,\"rd\":232,\"prog\":0,\"prov\":true}},\"createdAt\":1627280450529,\"profile\":{\"country\":\"MY\",\"bio\":\"RandomMoverBot_V2, Plays random moves, Accepts casual and rated, Supports any variants. Antichess will not play random. Malaysia chess engine\"},\"seenAt\":1627694577683,\"playTime\":{\"total\":8290,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomMoverBot_V2\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":163,\"rated\":116,\"ai\":11,\"draw\":8,\"drawH\":7,\"loss\":124,\"lossH\":114,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommoverbot_v2",
     "username": "RandomMoverBot_V2",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1200,
-        "rd": 400,
+      "antichess": {
+        "games": 5,
+        "rating": 1869,
+        "rd": 304,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1453,
-        "rd": 431,
+        "games": 53,
+        "rating": 1336,
+        "rd": 58,
+        "prog": -11
+      },
+      "racingKings": {
+        "games": 12,
+        "rating": 1898,
+        "rd": 132,
+        "prog": -53,
+        "prov": true
+      },
+      "blitz": {
+        "games": 5,
+        "rating": 1078,
+        "rd": 290,
         "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 19,
+        "rating": 1263,
+        "rd": 227,
+        "prog": -331,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1186,
-        "rd": 384,
-        "prog": 0,
+        "games": 15,
+        "rating": 1248,
+        "rd": 204,
+        "prog": -86,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1200,
-        "rd": 400,
+        "games": 2,
+        "rating": 992,
+        "rd": 301,
         "prog": 0,
         "prov": true
       },
@@ -46,37 +66,38 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 1165,
-        "rd": 364,
+        "games": 3,
+        "rating": 873,
+        "rd": 232,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1627280450529,
     "profile": {
-      "bio": "RandomMoverBot_V2, Plays random moves, Accepts casual only, Supports any variants."
+      "country": "MY",
+      "bio": "RandomMoverBot_V2, Plays random moves, Accepts casual and rated, Supports any variants. Antichess will not play random. Malaysia chess engine"
     },
-    "seenAt": 1627378323394,
+    "seenAt": 1627694577683,
     "playTime": {
-      "total": 413,
+      "total": 8290,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/RandomMoverBot_V2",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 3,
     "count": {
-      "all": 10,
-      "rated": 3,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 10,
-      "lossH": 10,
-      "win": 0,
-      "winH": 0,
+      "all": 163,
+      "rated": 116,
+      "ai": 11,
+      "draw": 8,
+      "drawH": 7,
+      "loss": 124,
+      "lossH": 114,
+      "win": 31,
+      "winH": 31,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
