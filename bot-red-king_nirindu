@@ -4,25 +4,31 @@
   "username": "BOT-RED-KING_NIRINDU",
   "profileUrl": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1627714539175,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"playing\":\"https://lichess.org/tFWex11R/white\",\"nbFollowing\":3,\"nbFollowers\":5,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1742,\"rd\":278,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1151,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":1852,\"rd\":99,\"prog\":-43},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1683,\"rd\":296,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1627745719977,\"playTime\":{\"total\":5262,\"tv\":14},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"nbFollowing\":5,\"nbFollowers\":8,\"count\":{\"all\":35,\"rated\":28,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":13,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot-red-king_nirindu",
     "username": "BOT-RED-KING_NIRINDU",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1742,
+        "rd": 278,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1151,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 1852,
+        "rd": 99,
+        "prog": -43
       },
       "correspondence": {
         "games": 0,
@@ -39,9 +45,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1683,
+        "rd": 296,
         "prog": 0,
         "prov": true
       }
@@ -50,29 +56,28 @@
     "profile": {
       "bio": "I AM NIRINDU"
     },
-    "seenAt": 1627714539175,
+    "seenAt": 1627745719977,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 5262,
+      "tv": 14
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
-    "playing": "https://lichess.org/tFWex11R/white",
-    "nbFollowing": 3,
-    "nbFollowers": 5,
+    "nbFollowing": 5,
+    "nbFollowers": 8,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 35,
+      "rated": 28,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 13,
+      "lossH": 13,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
