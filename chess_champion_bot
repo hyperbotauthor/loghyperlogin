@@ -1,0 +1,110 @@
+{
+  "id": "chess_champion_bot",
+  "displayName": "Chess_Champion_BOT",
+  "username": "Chess_Champion_BOT",
+  "profileUrl": "https://lichess.org/@/Chess_Champion_BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_champion_bot\",\"username\":\"Chess_Champion_BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":19,\"rating\":1393,\"rd\":98,\"prog\":-16},\"puzzle\":{\"games\":94,\"rating\":1888,\"rd\":79,\"prog\":0},\"ultraBullet\":{\"games\":59,\"rating\":1109,\"rd\":53,\"prog\":1},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1595,\"rd\":366,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626689270659,\"profile\":{\"country\":\"_lichess\",\"location\":\"World\"},\"seenAt\":1627741478497,\"playTime\":{\"total\":4356,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Chess_Champion_BOT\",\"nbFollowing\":3,\"nbFollowers\":1,\"completionRate\":73,\"count\":{\"all\":80,\"rated\":80,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":33,\"lossH\":33,\"win\":46,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_champion_bot",
+    "username": "Chess_Champion_BOT",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 19,
+        "rating": 1393,
+        "rd": 98,
+        "prog": -16
+      },
+      "puzzle": {
+        "games": 94,
+        "rating": 1888,
+        "rd": 79,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 59,
+        "rating": 1109,
+        "rd": 53,
+        "prog": 1
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1595,
+        "rd": 366,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1626689270659,
+    "profile": {
+      "country": "_lichess",
+      "location": "World"
+    },
+    "seenAt": 1627741478497,
+    "playTime": {
+      "total": 4356,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Chess_Champion_BOT",
+    "nbFollowing": 3,
+    "nbFollowers": 1,
+    "completionRate": 73,
+    "count": {
+      "all": 80,
+      "rated": 80,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 33,
+      "lossH": 33,
+      "win": 46,
+      "winH": 46,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
