@@ -4,7 +4,7 @@
   "username": "iTgrB_Su",
   "profileUrl": "https://lichess.org/@/iTgrB_Su",
   "provider": "lichess",
-  "_raw": "{\"id\":\"itgrb_su\",\"username\":\"iTgrB_Su\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1726,\"rd\":371,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1849,\"rd\":184,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":39,\"rating\":2533,\"rd\":165,\"prog\":89,\"prov\":true}},\"createdAt\":1627509668142,\"profile\":{\"bio\":\"i am a human—like but i am just made By @itgrn\"},\"seenAt\":1627601823144,\"playTime\":{\"total\":20699,\"tv\":270},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB_Su\",\"playing\":\"https://lichess.org/ei8QtjBP/black\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":72,\"rated\":51,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":4,\"lossH\":4,\"win\":66,\"winH\":62,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"itgrb_su\",\"username\":\"iTgrB_Su\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1726,\"rd\":371,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1849,\"rd\":184,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":41,\"rating\":2554,\"rd\":158,\"prog\":101,\"prov\":true}},\"createdAt\":1627509668142,\"profile\":{\"bio\":\"i am a human—like but i am just made By @itgrn\"},\"seenAt\":1627774485202,\"playTime\":{\"total\":24850,\"tv\":270},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/iTgrB_Su\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":76,\"rated\":53,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":4,\"lossH\":4,\"win\":70,\"winH\":66,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "itgrb_su",
     "username": "iTgrB_Su",
@@ -39,10 +39,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 39,
-        "rating": 2533,
-        "rd": 165,
-        "prog": 89,
+        "games": 41,
+        "rating": 2554,
+        "rd": 158,
+        "prog": 101,
         "prov": true
       }
     },
@@ -50,29 +50,28 @@
     "profile": {
       "bio": "i am a human—like but i am just made By @itgrn"
     },
-    "seenAt": 1627601823144,
+    "seenAt": 1627774485202,
     "playTime": {
-      "total": 20699,
+      "total": 24850,
       "tv": 270
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/iTgrB_Su",
-    "playing": "https://lichess.org/ei8QtjBP/black",
     "nbFollowing": 1,
     "nbFollowers": 1,
     "count": {
-      "all": 72,
-      "rated": 51,
+      "all": 76,
+      "rated": 53,
       "ai": 4,
       "draw": 2,
       "drawH": 2,
       "loss": 4,
       "lossH": 4,
-      "win": 66,
-      "winH": 62,
+      "win": 70,
+      "winH": 66,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
