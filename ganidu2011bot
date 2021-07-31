@@ -4,7 +4,7 @@
   "username": "GANIDU2011BOT",
   "profileUrl": "https://lichess.org/@/GANIDU2011BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"GANIDU2011BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":996,\"rd\":338,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1248,\"rd\":287,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1270,\"rd\":287,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":7,\"rating\":1498,\"rd\":182,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1620,\"rd\":200,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2333,\"rd\":160,\"prog\":-56,\"prov\":true}},\"createdAt\":1627552474941,\"profile\":{\"country\":\"LK\",\"location\":\"Gampaha\",\"bio\":\"Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet\",\"firstName\":\"BOT\",\"lastName\":\"Ganidu\",\"fideRating\":2600},\"seenAt\":1627701509853,\"playTime\":{\"total\":17087,\"tv\":206},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GANIDU2011BOT\",\"playing\":\"https://lichess.org/PXZnOtWQ/white\",\"nbFollowing\":10,\"nbFollowers\":12,\"count\":{\"all\":59,\"rated\":26,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":21,\"lossH\":20,\"win\":36,\"winH\":36,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"GANIDU2011BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":996,\"rd\":338,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1515,\"rd\":163,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1628,\"rd\":231,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1340,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1620,\"rd\":200,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2333,\"rd\":160,\"prog\":-56,\"prov\":true}},\"createdAt\":1627552474941,\"profile\":{\"country\":\"LK\",\"location\":\"Gampaha\",\"bio\":\"Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet\",\"firstName\":\"BOT\",\"lastName\":\"Ganidu\",\"fideRating\":2600},\"seenAt\":1627717196382,\"playTime\":{\"total\":25904,\"tv\":206},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GANIDU2011BOT\",\"playing\":\"https://lichess.org/THBjWoWb/black\",\"nbFollowing\":13,\"nbFollowers\":12,\"count\":{\"all\":85,\"rated\":35,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":29,\"lossH\":28,\"win\":52,\"winH\":52,\"bookmark\":2,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ganidu2011bot",
     "username": "GANIDU2011BOT",
@@ -18,23 +18,23 @@
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1248,
-        "rd": 287,
+        "games": 6,
+        "rating": 1515,
+        "rd": 163,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 1,
-        "rating": 1270,
-        "rd": 287,
+        "games": 4,
+        "rating": 1628,
+        "rd": 231,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
-        "games": 7,
-        "rating": 1498,
-        "rd": 182,
+        "games": 8,
+        "rating": 1340,
+        "rd": 175,
         "prog": 0,
         "prov": true
       },
@@ -76,28 +76,28 @@
       "lastName": "Ganidu",
       "fideRating": 2600
     },
-    "seenAt": 1627701509853,
+    "seenAt": 1627717196382,
     "playTime": {
-      "total": 17087,
+      "total": 25904,
       "tv": 206
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/GANIDU2011BOT",
-    "playing": "https://lichess.org/PXZnOtWQ/white",
-    "nbFollowing": 10,
+    "playing": "https://lichess.org/THBjWoWb/black",
+    "nbFollowing": 13,
     "nbFollowers": 12,
     "count": {
-      "all": 59,
-      "rated": 26,
+      "all": 85,
+      "rated": 35,
       "ai": 1,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 21,
-      "lossH": 20,
-      "win": 36,
-      "winH": 36,
-      "bookmark": 1,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 29,
+      "lossH": 28,
+      "win": 52,
+      "winH": 52,
+      "bookmark": 2,
       "playing": 1,
       "import": 0,
       "me": 0
