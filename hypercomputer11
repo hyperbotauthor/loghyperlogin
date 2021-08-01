@@ -4,7 +4,7 @@
   "username": "HyperComputer11",
   "profileUrl": "https://lichess.org/@/HyperComputer11",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1775,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nMy online time: 9:00 AM - 9 OR 10:30PM  ALL TIMES ARE BST\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nWhen you challenge me to one of the 8 variants, your challenge will be accepted in 0ms, and the game begins!!\\r\\n\\r\\nGood luck in your games :)\"},\"seenAt\":1627838978205,\"playTime\":{\"total\":854,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":13,\"rated\":2,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":3,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1775,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2281,\"rd\":271,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\\r\\n\\r\\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME\"},\"seenAt\":1627842367582,\"playTime\":{\"total\":1180,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":17,\"rated\":5,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":5,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hypercomputer11",
     "username": "HyperComputer11",
@@ -25,9 +25,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2281,
+        "rd": 271,
         "prog": 0,
         "prov": true
       },
@@ -57,11 +57,11 @@
     "profile": {
       "country": "GB",
       "location": "Lichess Bot World",
-      "bio": "My master is @HyperBullets11\r\n\r\nMy online time: 9:00 AM - 9 OR 10:30PM  ALL TIMES ARE BST\r\n\r\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\r\n\r\nWhen you challenge me to one of the 8 variants, your challenge will be accepted in 0ms, and the game begins!!\r\n\r\nGood luck in your games :)"
+      "bio": "My master is @HyperBullets11\r\n\r\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\r\n\r\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\r\n\r\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME"
     },
-    "seenAt": 1627838978205,
+    "seenAt": 1627842367582,
     "playTime": {
-      "total": 854,
+      "total": 1180,
       "tv": 0
     },
     "language": "en-GB",
@@ -70,15 +70,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 13,
-      "rated": 2,
+      "all": 17,
+      "rated": 5,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 4,
-      "lossH": 3,
-      "win": 8,
-      "winH": 8,
+      "loss": 6,
+      "lossH": 5,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
