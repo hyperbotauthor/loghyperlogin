@@ -4,7 +4,7 @@
   "username": "HyperComputer11",
   "profileUrl": "https://lichess.org/@/HyperComputer11",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"seenAt\":1627756440673,\"playTime\":{\"total\":56,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept blitz to classical, so make sure you challenge me and my master when I am online \\uD83D\\uDE0A\"},\"seenAt\":1627825848210,\"playTime\":{\"total\":56,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hypercomputer11",
     "username": "HyperComputer11",
@@ -47,7 +47,12 @@
       }
     },
     "createdAt": 1627656412723,
-    "seenAt": 1627756440673,
+    "profile": {
+      "country": "GB",
+      "location": "Lichess Bot World",
+      "bio": "My master is @HyperBullets11\r\n\r\nI accept blitz to classical, so make sure you challenge me and my master when I am online 😊"
+    },
+    "seenAt": 1627825848210,
     "playTime": {
       "total": 56,
       "tv": 0
