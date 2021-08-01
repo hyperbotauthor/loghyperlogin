@@ -4,7 +4,7 @@
   "username": "onyx_2",
   "profileUrl": "https://lichess.org/@/onyx_2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"onyx_2\",\"username\":\"onyx_2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1926,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627615038310,\"seenAt\":1627703644281,\"playTime\":{\"total\":4687,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/onyx_2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":42,\"rated\":9,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":12,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"onyx_2\",\"username\":\"onyx_2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1926,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2075,\"rd\":233,\"prog\":0,\"prov\":true}},\"createdAt\":1627615038310,\"seenAt\":1627780054635,\"playTime\":{\"total\":5579,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/onyx_2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":47,\"rated\":12,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":12,\"win\":33,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "onyx_2",
     "username": "onyx_2",
@@ -39,17 +39,17 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2075,
+        "rd": 233,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1627615038310,
-    "seenAt": 1627703644281,
+    "seenAt": 1627780054635,
     "playTime": {
-      "total": 4687,
+      "total": 5579,
       "tv": 0
     },
     "language": "en-US",
@@ -58,15 +58,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 42,
-      "rated": 9,
+      "all": 47,
+      "rated": 12,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
       "loss": 12,
       "lossH": 12,
-      "win": 28,
-      "winH": 28,
+      "win": 33,
+      "winH": 33,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
