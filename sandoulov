@@ -1,0 +1,161 @@
+{
+  "id": "sandoulov",
+  "displayName": "Sandoulov",
+  "username": "Sandoulov",
+  "profileUrl": "https://lichess.org/@/Sandoulov",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sandoulov\",\"username\":\"Sandoulov\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":101,\"rating\":1511,\"rd\":68,\"prog\":1},\"antichess\":{\"games\":1074,\"rating\":1542,\"rd\":57,\"prog\":26},\"atomic\":{\"games\":2808,\"rating\":1740,\"rd\":49,\"prog\":14},\"racingKings\":{\"games\":252,\"rating\":1588,\"rd\":79,\"prog\":-22},\"ultraBullet\":{\"games\":2095,\"rating\":1553,\"rd\":50,\"prog\":19},\"blitz\":{\"games\":1120,\"rating\":1530,\"rd\":51,\"prog\":-52},\"kingOfTheHill\":{\"games\":386,\"rating\":1627,\"rd\":56,\"prog\":-20},\"crazyhouse\":{\"games\":169,\"rating\":1463,\"rd\":61,\"prog\":17},\"threeCheck\":{\"games\":384,\"rating\":1550,\"rd\":56,\"prog\":9},\"bullet\":{\"games\":1657,\"rating\":1628,\"rd\":51,\"prog\":2},\"correspondence\":{\"games\":27,\"rating\":1633,\"rd\":101,\"prog\":175},\"horde\":{\"games\":60,\"rating\":1491,\"rd\":81,\"prog\":39},\"puzzle\":{\"games\":4199,\"rating\":1749,\"rd\":67,\"prog\":0},\"classical\":{\"games\":18,\"rating\":1436,\"rd\":132,\"prog\":105,\"prov\":true},\"rapid\":{\"games\":476,\"rating\":1632,\"rd\":58,\"prog\":-25},\"storm\":{\"runs\":9,\"score\":23},\"racer\":{\"runs\":14,\"score\":41},\"streak\":{\"runs\":14,\"score\":17}},\"createdAt\":1584463614098,\"profile\":{\"country\":\"BG\",\"location\":\"Pleven lichess.org\",\"bio\":\"❗❗❗ ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗\\r\\nhttps://lichess.org/team/sandoulovs-all-variants-club\\r\\nhttps://media.giphy.com/media/7Z1tDI8DCjaO9WtGrZ/giphy.gif\",\"fideRating\":1734,\"uscfRating\":1734,\"ecfRating\":800,\"rcfRating\":800,\"cfcRating\":1734,\"dsbRating\":800,\"links\":\"https://lichess.org/team/sandoulovs-all-variants-club\\r\\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjABegQICBAB&usg=AOvVaw03wgySFmI2uOEWJNHnqc-C\\r\\nhttps://www.google.com/url?q=https://www.anna-schmidt-schule.de/home-slider/hibbdebach-dribbdebach&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjAAegQIAhAB&usg=AOvVaw3VyxIC9qHX0YmDAyGiO8QO\\r\\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjABegQICBAB&usg=AOvVaw03wgySFmI2uOEWJNHnqc-C\\r\\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjtmZH58qPxAhXkhf0HHS0bAWAQFjABegQICRAB&usg=AOvVaw1K3J_0kbaIpcVUisWpJ1De\"},\"seenAt\":1627917541321,\"playTime\":{\"total\":1248627,\"tv\":12131},\"language\":\"bg-BG\",\"url\":\"https://lichess.org/@/Sandoulov\",\"nbFollowing\":40,\"nbFollowers\":58,\"completionRate\":97,\"count\":{\"all\":12025,\"rated\":10710,\"ai\":135,\"draw\":311,\"drawH\":308,\"loss\":6353,\"lossH\":6288,\"win\":5361,\"winH\":5294,\"bookmark\":32,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sandoulov",
+    "username": "Sandoulov",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 101,
+        "rating": 1511,
+        "rd": 68,
+        "prog": 1
+      },
+      "antichess": {
+        "games": 1074,
+        "rating": 1542,
+        "rd": 57,
+        "prog": 26
+      },
+      "atomic": {
+        "games": 2808,
+        "rating": 1740,
+        "rd": 49,
+        "prog": 14
+      },
+      "racingKings": {
+        "games": 252,
+        "rating": 1588,
+        "rd": 79,
+        "prog": -22
+      },
+      "ultraBullet": {
+        "games": 2095,
+        "rating": 1553,
+        "rd": 50,
+        "prog": 19
+      },
+      "blitz": {
+        "games": 1120,
+        "rating": 1530,
+        "rd": 51,
+        "prog": -52
+      },
+      "kingOfTheHill": {
+        "games": 386,
+        "rating": 1627,
+        "rd": 56,
+        "prog": -20
+      },
+      "crazyhouse": {
+        "games": 169,
+        "rating": 1463,
+        "rd": 61,
+        "prog": 17
+      },
+      "threeCheck": {
+        "games": 384,
+        "rating": 1550,
+        "rd": 56,
+        "prog": 9
+      },
+      "bullet": {
+        "games": 1657,
+        "rating": 1628,
+        "rd": 51,
+        "prog": 2
+      },
+      "correspondence": {
+        "games": 27,
+        "rating": 1633,
+        "rd": 101,
+        "prog": 175
+      },
+      "horde": {
+        "games": 60,
+        "rating": 1491,
+        "rd": 81,
+        "prog": 39
+      },
+      "puzzle": {
+        "games": 4199,
+        "rating": 1749,
+        "rd": 67,
+        "prog": 0
+      },
+      "classical": {
+        "games": 18,
+        "rating": 1436,
+        "rd": 132,
+        "prog": 105,
+        "prov": true
+      },
+      "rapid": {
+        "games": 476,
+        "rating": 1632,
+        "rd": 58,
+        "prog": -25
+      },
+      "storm": {
+        "runs": 9,
+        "score": 23
+      },
+      "racer": {
+        "runs": 14,
+        "score": 41
+      },
+      "streak": {
+        "runs": 14,
+        "score": 17
+      }
+    },
+    "createdAt": 1584463614098,
+    "profile": {
+      "country": "BG",
+      "location": "Pleven lichess.org",
+      "bio": "❗❗❗ ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗\r\nhttps://lichess.org/team/sandoulovs-all-variants-club\r\nhttps://media.giphy.com/media/7Z1tDI8DCjaO9WtGrZ/giphy.gif",
+      "fideRating": 1734,
+      "uscfRating": 1734,
+      "ecfRating": 800,
+      "rcfRating": 800,
+      "cfcRating": 1734,
+      "dsbRating": 800,
+      "links": "https://lichess.org/team/sandoulovs-all-variants-club\r\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjABegQICBAB&usg=AOvVaw03wgySFmI2uOEWJNHnqc-C\r\nhttps://www.google.com/url?q=https://www.anna-schmidt-schule.de/home-slider/hibbdebach-dribbdebach&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjAAegQIAhAB&usg=AOvVaw3VyxIC9qHX0YmDAyGiO8QO\r\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjvkono8aPxAhWCzqQKHXmdAgoQFjABegQICBAB&usg=AOvVaw03wgySFmI2uOEWJNHnqc-C\r\nhttps://www.google.com/url?q=https://www.schachclub-eschborn.de/jugend/vereinsmeisterschaft-2020-21/&sa=U&ved=2ahUKEwjtmZH58qPxAhXkhf0HHS0bAWAQFjABegQICRAB&usg=AOvVaw1K3J_0kbaIpcVUisWpJ1De"
+    },
+    "seenAt": 1627917541321,
+    "playTime": {
+      "total": 1248627,
+      "tv": 12131
+    },
+    "language": "bg-BG",
+    "url": "https://lichess.org/@/Sandoulov",
+    "nbFollowing": 40,
+    "nbFollowers": 58,
+    "completionRate": 97,
+    "count": {
+      "all": 12025,
+      "rated": 10710,
+      "ai": 135,
+      "draw": 311,
+      "drawH": 308,
+      "loss": 6353,
+      "lossH": 6288,
+      "win": 5361,
+      "winH": 5294,
+      "bookmark": 32,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
