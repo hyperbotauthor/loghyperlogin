@@ -4,7 +4,7 @@
   "username": "HyperComputer11",
   "profileUrl": "https://lichess.org/@/HyperComputer11",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1775,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1894,\"rd\":315,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2334,\"rd\":235,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\\r\\n\\r\\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME\"},\"seenAt\":1627847769794,\"playTime\":{\"total\":1384,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":19,\"rated\":7,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":5,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1775,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1894,\"rd\":315,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2294,\"rd\":109,\"prog\":-19},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\\r\\n\\r\\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME\"},\"seenAt\":1627881789665,\"playTime\":{\"total\":3526,\"tv\":150},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":33,\"rated\":18,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":11,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hypercomputer11",
     "username": "HyperComputer11",
@@ -32,11 +32,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 2334,
-        "rd": 235,
-        "prog": 0,
-        "prov": true
+        "games": 15,
+        "rating": 2294,
+        "rd": 109,
+        "prog": -19
       },
       "correspondence": {
         "games": 0,
@@ -66,10 +65,10 @@
       "location": "Lichess Bot World",
       "bio": "My master is @HyperBullets11\r\n\r\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\r\n\r\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\r\n\r\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME"
     },
-    "seenAt": 1627847769794,
+    "seenAt": 1627881789665,
     "playTime": {
-      "total": 1384,
-      "tv": 0
+      "total": 3526,
+      "tv": 150
     },
     "language": "en-GB",
     "title": "BOT",
@@ -77,15 +76,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 19,
-      "rated": 7,
+      "all": 33,
+      "rated": 18,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 6,
-      "lossH": 5,
-      "win": 12,
-      "winH": 12,
+      "loss": 12,
+      "lossH": 11,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
