@@ -4,17 +4,24 @@
   "username": "GAMER-BOT",
   "profileUrl": "https://lichess.org/@/GAMER-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"GAMER-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":36,\"rating\":2158,\"rd\":74,\"prog\":-9},\"bullet\":{\"games\":4,\"rating\":1667,\"rd\":286,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2507,\"rd\":137,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"profile\":{\"country\":\"LK\",\"location\":\"Horana\",\"bio\":\"i am a stockfish 12 bot.\\r\\nthis bot is created by 15 years boy.\\r\\nplease follow this my account and my friends.\\r\\nthis account is mine account. @last_dragon_kingdom   those are my friends @bot_sl_b2k , @garena_official  .\\r\\nchallenge me hurry.\\r\\nand try to eat me.\\r\\nand please join to our great fan club please please join all .\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\",\"fideRating\":2700},\"seenAt\":1627794759793,\"playTime\":{\"total\":27239,\"tv\":3961},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GAMER-BOT\",\"playing\":\"https://lichess.org/8jvoX9vZ/white\",\"nbFollowing\":58,\"nbFollowers\":13,\"count\":{\"all\":78,\"rated\":52,\"ai\":17,\"draw\":8,\"drawH\":8,\"loss\":30,\"lossH\":23,\"win\":40,\"winH\":30,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gamer-bot\",\"username\":\"GAMER-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":38,\"rating\":2185,\"rd\":71,\"prog\":43},\"kingOfTheHill\":{\"games\":13,\"rating\":2040,\"rd\":117,\"prog\":-35,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1667,\"rd\":286,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2507,\"rd\":137,\"prog\":0,\"prov\":true}},\"createdAt\":1627391401262,\"profile\":{\"country\":\"LK\",\"location\":\"Horana\",\"bio\":\"i am a stockfish 12 bot.\\r\\nthis bot is created by 15 years boy.\\r\\nplease follow this my account and my friends.\\r\\nthis account is mine account. @last_dragon_kingdom   those are my friends @bot_sl_b2k , @garena_official  .\\r\\nchallenge me hurry.\\r\\nand try to eat me.\\r\\nand please join to our great fan club please please join all .\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\",\"fideRating\":2700},\"seenAt\":1627868416536,\"playTime\":{\"total\":28110,\"tv\":4176},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GAMER-BOT\",\"playing\":\"https://lichess.org/Bpp0I2RI/white\",\"nbFollowing\":60,\"nbFollowers\":13,\"count\":{\"all\":93,\"rated\":67,\"ai\":17,\"draw\":8,\"drawH\":8,\"loss\":35,\"lossH\":28,\"win\":50,\"winH\":40,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gamer-bot",
     "username": "GAMER-BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 36,
-        "rating": 2158,
-        "rd": 74,
-        "prog": -9
+        "games": 38,
+        "rating": 2185,
+        "rd": 71,
+        "prog": 43
+      },
+      "kingOfTheHill": {
+        "games": 13,
+        "rating": 2040,
+        "rd": 117,
+        "prog": -35,
+        "prov": true
       },
       "bullet": {
         "games": 4,
@@ -52,27 +59,27 @@
       "bio": "i am a stockfish 12 bot.\r\nthis bot is created by 15 years boy.\r\nplease follow this my account and my friends.\r\nthis account is mine account. @last_dragon_kingdom   those are my friends @bot_sl_b2k , @garena_official  .\r\nchallenge me hurry.\r\nand try to eat me.\r\nand please join to our great fan club please please join all .\r\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club",
       "fideRating": 2700
     },
-    "seenAt": 1627794759793,
+    "seenAt": 1627868416536,
     "playTime": {
-      "total": 27239,
-      "tv": 3961
+      "total": 28110,
+      "tv": 4176
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/GAMER-BOT",
-    "playing": "https://lichess.org/8jvoX9vZ/white",
-    "nbFollowing": 58,
+    "playing": "https://lichess.org/Bpp0I2RI/white",
+    "nbFollowing": 60,
     "nbFollowers": 13,
     "count": {
-      "all": 78,
-      "rated": 52,
+      "all": 93,
+      "rated": 67,
       "ai": 17,
       "draw": 8,
       "drawH": 8,
-      "loss": 30,
-      "lossH": 23,
-      "win": 40,
-      "winH": 30,
+      "loss": 35,
+      "lossH": 28,
+      "win": 50,
+      "winH": 40,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
