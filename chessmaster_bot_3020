@@ -4,30 +4,30 @@
   "username": "Chessmaster_BOT_3020",
   "profileUrl": "https://lichess.org/@/Chessmaster_BOT_3020",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":2366,\"rd\":198,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"seenAt\":1627837030839,\"playTime\":{\"total\":602,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1487,\"rd\":482,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":2386,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1446,\"rd\":425,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"profile\":{\"bio\":\"hello every one challenge me @anytime ill accept send me atomic the best !\"},\"seenAt\":1627870843173,\"playTime\":{\"total\":1243,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"playing\":\"https://lichess.org/wgdXdpl4/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":8,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmaster_bot_3020",
     "username": "Chessmaster_BOT_3020",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1487,
+        "rd": 482,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 4,
-        "rating": 2366,
-        "rd": 198,
+        "games": 5,
+        "rating": 2386,
+        "rd": 187,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1446,
+        "rd": 425,
         "prog": 0,
         "prov": true
       },
@@ -54,28 +54,32 @@
       }
     },
     "createdAt": 1627823694481,
-    "seenAt": 1627837030839,
+    "profile": {
+      "bio": "hello every one challenge me @anytime ill accept send me atomic the best !"
+    },
+    "seenAt": 1627870843173,
     "playTime": {
-      "total": 602,
+      "total": 1243,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Chessmaster_BOT_3020",
+    "playing": "https://lichess.org/wgdXdpl4/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 4,
-      "rated": 4,
+      "all": 8,
+      "rated": 8,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 0,
-      "lossH": 0,
-      "win": 3,
-      "winH": 3,
+      "loss": 3,
+      "lossH": 3,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
