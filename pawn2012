@@ -1,0 +1,105 @@
+{
+  "id": "pawn2012",
+  "displayName": "pawn2012",
+  "username": "pawn2012",
+  "profileUrl": "https://lichess.org/@/pawn2012",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"pawn2012\",\"username\":\"pawn2012\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":518,\"rating\":1559,\"rd\":47,\"prog\":-14},\"puzzle\":{\"games\":74,\"rating\":2020,\"rd\":78,\"prog\":0},\"atomic\":{\"games\":2,\"rating\":1239,\"rd\":258,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":19,\"rating\":1391,\"rd\":112,\"prog\":-14,\"prov\":true},\"bullet\":{\"games\":170,\"rating\":1279,\"rd\":47,\"prog\":17},\"correspondence\":{\"games\":1,\"rating\":1371,\"rd\":274,\"prog\":0,\"prov\":true},\"classical\":{\"games\":58,\"rating\":1948,\"rd\":89,\"prog\":136},\"rapid\":{\"games\":180,\"rating\":1912,\"rd\":51,\"prog\":24},\"storm\":{\"runs\":4,\"score\":25},\"racer\":{\"runs\":35,\"score\":35}},\"createdAt\":1585219361225,\"seenAt\":1627908576760,\"playTime\":{\"total\":505766,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/pawn2012\",\"nbFollowing\":3,\"nbFollowers\":4,\"completionRate\":97,\"count\":{\"all\":1064,\"rated\":964,\"ai\":10,\"draw\":68,\"drawH\":67,\"loss\":559,\"lossH\":551,\"win\":437,\"winH\":436,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "pawn2012",
+    "username": "pawn2012",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 518,
+        "rating": 1559,
+        "rd": 47,
+        "prog": -14
+      },
+      "puzzle": {
+        "games": 74,
+        "rating": 2020,
+        "rd": 78,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1239,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 19,
+        "rating": 1391,
+        "rd": 112,
+        "prog": -14,
+        "prov": true
+      },
+      "bullet": {
+        "games": 170,
+        "rating": 1279,
+        "rd": 47,
+        "prog": 17
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1371,
+        "rd": 274,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 58,
+        "rating": 1948,
+        "rd": 89,
+        "prog": 136
+      },
+      "rapid": {
+        "games": 180,
+        "rating": 1912,
+        "rd": 51,
+        "prog": 24
+      },
+      "storm": {
+        "runs": 4,
+        "score": 25
+      },
+      "racer": {
+        "runs": 35,
+        "score": 35
+      }
+    },
+    "createdAt": 1585219361225,
+    "seenAt": 1627908576760,
+    "playTime": {
+      "total": 505766,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/pawn2012",
+    "nbFollowing": 3,
+    "nbFollowers": 4,
+    "completionRate": 97,
+    "count": {
+      "all": 1064,
+      "rated": 964,
+      "ai": 10,
+      "draw": 68,
+      "drawH": 67,
+      "loss": 559,
+      "lossH": 551,
+      "win": 437,
+      "winH": 436,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
