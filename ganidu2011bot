@@ -4,7 +4,7 @@
   "username": "GANIDU2011BOT",
   "profileUrl": "https://lichess.org/@/GANIDU2011BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"GANIDU2011BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":996,\"rd\":338,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1515,\"rd\":163,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1628,\"rd\":231,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1340,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1620,\"rd\":200,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2333,\"rd\":160,\"prog\":-56,\"prov\":true}},\"createdAt\":1627552474941,\"profile\":{\"country\":\"LK\",\"location\":\"Gampaha\",\"bio\":\"Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet\",\"firstName\":\"BOT\",\"lastName\":\"Ganidu\",\"fideRating\":2600},\"seenAt\":1627812565800,\"playTime\":{\"total\":27014,\"tv\":484},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GANIDU2011BOT\",\"nbFollowing\":14,\"nbFollowers\":12,\"count\":{\"all\":92,\"rated\":35,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":29,\"lossH\":28,\"win\":59,\"winH\":59,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ganidu2011bot\",\"username\":\"GANIDU2011BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":996,\"rd\":338,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1515,\"rd\":163,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1628,\"rd\":231,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1340,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1620,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2333,\"rd\":160,\"prog\":-56,\"prov\":true}},\"createdAt\":1627552474941,\"profile\":{\"country\":\"LK\",\"location\":\"Gampaha\",\"bio\":\"Hi I Am A Lichess Bot Powered by Hypereasy. Wanna Look Who Made Me? Here is the link @Ganidu_2011_yapa plese dont challenge me in bullet I m Not Good at bullet\",\"firstName\":\"BOT\",\"lastName\":\"Ganidu\",\"fideRating\":2600},\"seenAt\":1627902018746,\"playTime\":{\"total\":27144,\"tv\":484},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/GANIDU2011BOT\",\"playing\":\"https://lichess.org/W0lZ58Vs/white\",\"nbFollowing\":14,\"nbFollowers\":12,\"count\":{\"all\":93,\"rated\":35,\"ai\":1,\"draw\":4,\"drawH\":4,\"loss\":29,\"lossH\":28,\"win\":60,\"winH\":60,\"bookmark\":2,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ganidu2011bot",
     "username": "GANIDU2011BOT",
@@ -41,7 +41,7 @@
       "bullet": {
         "games": 4,
         "rating": 1620,
-        "rd": 200,
+        "rd": 201,
         "prog": 0,
         "prov": true
       },
@@ -76,28 +76,29 @@
       "lastName": "Ganidu",
       "fideRating": 2600
     },
-    "seenAt": 1627812565800,
+    "seenAt": 1627902018746,
     "playTime": {
-      "total": 27014,
+      "total": 27144,
       "tv": 484
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/GANIDU2011BOT",
+    "playing": "https://lichess.org/W0lZ58Vs/white",
     "nbFollowing": 14,
     "nbFollowers": 12,
     "count": {
-      "all": 92,
+      "all": 93,
       "rated": 35,
       "ai": 1,
       "draw": 4,
       "drawH": 4,
       "loss": 29,
       "lossH": 28,
-      "win": 59,
-      "winH": 59,
+      "win": 60,
+      "winH": 60,
       "bookmark": 2,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
