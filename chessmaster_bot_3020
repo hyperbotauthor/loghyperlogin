@@ -4,32 +4,59 @@
   "username": "Chessmaster_BOT_3020",
   "profileUrl": "https://lichess.org/@/Chessmaster_BOT_3020",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1487,\"rd\":482,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":2386,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1446,\"rd\":425,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"profile\":{\"bio\":\"hello every one challenge me @anytime ill accept send me atomic the best !\"},\"seenAt\":1627870843173,\"playTime\":{\"total\":1243,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"playing\":\"https://lichess.org/wgdXdpl4/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":8,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1546,\"rd\":220,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":2214,\"rd\":134,\"prog\":-124,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1247,\"rd\":259,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2101,\"rd\":134,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2168,\"rd\":427,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1254,\"rd\":273,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":1849,\"rd\":75,\"prog\":-46},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1903,\"rd\":228,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"profile\":{\"bio\":\"hello every one challenge me @anytime ill accept send me atomic the best !\"},\"seenAt\":1627953941686,\"playTime\":{\"total\":13853,\"tv\":704},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":72,\"rated\":69,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":36,\"lossH\":36,\"win\":34,\"winH\":34,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmaster_bot_3020",
     "username": "Chessmaster_BOT_3020",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 1,
-        "rating": 1487,
-        "rd": 482,
+      "antichess": {
+        "games": 3,
+        "rating": 1546,
+        "rd": 220,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 5,
-        "rating": 2386,
-        "rd": 187,
+        "games": 16,
+        "rating": 2214,
+        "rd": 134,
+        "prog": -124,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1247,
+        "rd": 259,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 10,
+        "rating": 2101,
+        "rd": 134,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 2168,
+        "rd": 427,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1254,
+        "rd": 273,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 1446,
-        "rd": 425,
-        "prog": 0,
-        "prov": true
+        "games": 28,
+        "rating": 1849,
+        "rd": 75,
+        "prog": -46
       },
       "correspondence": {
         "games": 0,
@@ -46,9 +73,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1903,
+        "rd": 228,
         "prog": 0,
         "prov": true
       }
@@ -57,29 +84,28 @@
     "profile": {
       "bio": "hello every one challenge me @anytime ill accept send me atomic the best !"
     },
-    "seenAt": 1627870843173,
+    "seenAt": 1627953941686,
     "playTime": {
-      "total": 1243,
-      "tv": 0
+      "total": 13853,
+      "tv": 704
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Chessmaster_BOT_3020",
-    "playing": "https://lichess.org/wgdXdpl4/black",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 2,
     "count": {
-      "all": 8,
-      "rated": 8,
+      "all": 72,
+      "rated": 69,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 3,
-      "lossH": 3,
-      "win": 4,
-      "winH": 4,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 36,
+      "lossH": 36,
+      "win": 34,
+      "winH": 34,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
