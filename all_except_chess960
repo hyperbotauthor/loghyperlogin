@@ -4,25 +4,31 @@
   "username": "All_Except_Chess960",
   "profileUrl": "https://lichess.org/@/All_Except_Chess960",
   "provider": "lichess",
-  "_raw": "{\"id\":\"all_except_chess960\",\"username\":\"All_Except_Chess960\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627449282424,\"seenAt\":1627449290149,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/All_Except_Chess960\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"all_except_chess960\",\"username\":\"All_Except_Chess960\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2273,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":2389,\"rd\":234,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2407,\"rd\":88,\"prog\":53},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627449282424,\"profile\":{\"country\":\"_earth\",\"location\":\"Somewhere on...\",\"bio\":\"Kind o' like overrated. Written in python. Additional server for bullet and blitz - easychess.herokuapp.com\\r\\nPlease message me before challenging me to variants. Currently available for standard & Chess960 challenges. I've won against Sf 13 l-7! https://lichess.org/Qcn1lDTx\",\"firstName\":\"Now accepting\",\"lastName\":\"Chess960!\"},\"seenAt\":1627986567668,\"playTime\":{\"total\":10641,\"tv\":334},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/All_Except_Chess960\",\"nbFollowing\":151,\"nbFollowers\":13,\"count\":{\"all\":42,\"rated\":35,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":3,\"lossH\":2,\"win\":34,\"winH\":30,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "all_except_chess960",
     "username": "All_Except_Chess960",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 5,
+        "rating": 2273,
+        "rd": 176,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 5,
+        "rating": 2389,
+        "rd": 234,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 24,
+        "rating": 2407,
+        "rd": 88,
+        "prog": 53
       },
       "correspondence": {
         "games": 0,
@@ -47,25 +53,33 @@
       }
     },
     "createdAt": 1627449282424,
-    "seenAt": 1627449290149,
+    "profile": {
+      "country": "_earth",
+      "location": "Somewhere on...",
+      "bio": "Kind o' like overrated. Written in python. Additional server for bullet and blitz - easychess.herokuapp.com\r\nPlease message me before challenging me to variants. Currently available for standard & Chess960 challenges. I've won against Sf 13 l-7! https://lichess.org/Qcn1lDTx",
+      "firstName": "Now accepting",
+      "lastName": "Chess960!"
+    },
+    "seenAt": 1627986567668,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 10641,
+      "tv": 334
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/All_Except_Chess960",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 151,
+    "nbFollowers": 13,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 42,
+      "rated": 35,
+      "ai": 5,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 3,
+      "lossH": 2,
+      "win": 34,
+      "winH": 30,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
