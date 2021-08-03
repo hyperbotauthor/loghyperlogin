@@ -1,0 +1,81 @@
+{
+  "id": "bot-chess_master_345",
+  "displayName": "BOT-chess_master_345",
+  "username": "BOT-chess_master_345",
+  "profileUrl": "https://lichess.org/@/BOT-chess_master_345",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bot-chess_master_345\",\"username\":\"BOT-chess_master_345\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1932,\"rd\":178,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627954347786,\"seenAt\":1627955008203,\"playTime\":{\"total\":275,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-chess_master_345\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bot-chess_master_345",
+    "username": "BOT-chess_master_345",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 1932,
+        "rd": 178,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1627954347786,
+    "seenAt": 1627955008203,
+    "playTime": {
+      "total": 275,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/BOT-chess_master_345",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 4,
+      "rated": 4,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
