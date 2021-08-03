@@ -4,7 +4,7 @@
   "username": "Chessmaster_BOT_3020",
   "profileUrl": "https://lichess.org/@/Chessmaster_BOT_3020",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1546,\"rd\":220,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":2214,\"rd\":134,\"prog\":-124,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1247,\"rd\":259,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2101,\"rd\":134,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2168,\"rd\":427,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1254,\"rd\":273,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":28,\"rating\":1849,\"rd\":75,\"prog\":-46},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1903,\"rd\":228,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"profile\":{\"bio\":\"hello every one challenge me @anytime ill accept send me atomic the best !\"},\"seenAt\":1627953941686,\"playTime\":{\"total\":13853,\"tv\":704},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":72,\"rated\":69,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":36,\"lossH\":36,\"win\":34,\"winH\":34,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessmaster_bot_3020\",\"username\":\"Chessmaster_BOT_3020\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1546,\"rd\":220,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":2214,\"rd\":134,\"prog\":-124,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1247,\"rd\":259,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":10,\"rating\":2101,\"rd\":134,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2168,\"rd\":427,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1254,\"rd\":273,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1846,\"rd\":71,\"prog\":-63},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1903,\"rd\":228,\"prog\":0,\"prov\":true}},\"createdAt\":1627823694481,\"profile\":{\"bio\":\"hello every one challenge me @anytime ill accept send me atomic the best !\"},\"seenAt\":1627960170103,\"playTime\":{\"total\":14537,\"tv\":1086},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Chessmaster_BOT_3020\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":76,\"rated\":73,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":39,\"lossH\":39,\"win\":35,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessmaster_bot_3020",
     "username": "Chessmaster_BOT_3020",
@@ -53,10 +53,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 28,
-        "rating": 1849,
-        "rd": 75,
-        "prog": -46
+        "games": 32,
+        "rating": 1846,
+        "rd": 71,
+        "prog": -63
       },
       "correspondence": {
         "games": 0,
@@ -84,10 +84,10 @@
     "profile": {
       "bio": "hello every one challenge me @anytime ill accept send me atomic the best !"
     },
-    "seenAt": 1627953941686,
+    "seenAt": 1627960170103,
     "playTime": {
-      "total": 13853,
-      "tv": 704
+      "total": 14537,
+      "tv": 1086
     },
     "language": "en-US",
     "title": "BOT",
@@ -95,15 +95,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 72,
-      "rated": 69,
+      "all": 76,
+      "rated": 73,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 36,
-      "lossH": 36,
-      "win": 34,
-      "winH": 34,
+      "loss": 39,
+      "lossH": 39,
+      "win": 35,
+      "winH": 35,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
