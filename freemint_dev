@@ -4,7 +4,7 @@
   "username": "Freemint_dev",
   "profileUrl": "https://lichess.org/@/Freemint_dev",
   "provider": "lichess",
-  "_raw": "{\"id\":\"freemint_dev\",\"username\":\"Freemint_dev\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2484,\"rd\":235,\"prog\":0,\"prov\":true}},\"createdAt\":1623887490313,\"profile\":{\"bio\":\"This is the development build of @FreemintMCTS! Freemint was made by @blueepchess and once beat Stockfish 12.\",\"firstName\":\"Freemint\",\"lastName\":\"Dev\"},\"seenAt\":1623947466871,\"playTime\":{\"total\":3249,\"tv\":866},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Freemint_dev\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"freemint_dev\",\"username\":\"Freemint_dev\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2609,\"rd\":203,\"prog\":0,\"prov\":true}},\"createdAt\":1623887490313,\"profile\":{\"bio\":\"This is the development build of @FreemintMCTS! Freemint was made by @blueepchess and once beat Stockfish 12.\",\"firstName\":\"Freemint\",\"lastName\":\"Dev\"},\"seenAt\":1627963430109,\"playTime\":{\"total\":4162,\"tv\":866},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Freemint_dev\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "freemint_dev",
     "username": "Freemint_dev",
@@ -39,9 +39,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2484,
-        "rd": 235,
+        "games": 5,
+        "rating": 2609,
+        "rd": 203,
         "prog": 0,
         "prov": true
       }
@@ -52,26 +52,26 @@
       "firstName": "Freemint",
       "lastName": "Dev"
     },
-    "seenAt": 1623947466871,
+    "seenAt": 1627963430109,
     "playTime": {
-      "total": 3249,
+      "total": 4162,
       "tv": 866
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Freemint_dev",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 4,
     "count": {
-      "all": 4,
-      "rated": 4,
+      "all": 5,
+      "rated": 5,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 4,
-      "winH": 4,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
