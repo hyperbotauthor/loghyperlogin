@@ -4,7 +4,7 @@
   "username": "aarav_strongestBOT",
   "profileUrl": "https://lichess.org/@/aarav_strongestBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aarav_strongestbot\",\"username\":\"aarav_strongestBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":831,\"rd\":214,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1467,\"rd\":165,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":26,\"rating\":2181,\"rd\":92,\"prog\":141},\"kingOfTheHill\":{\"games\":2,\"rating\":1802,\"rd\":240,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1636,\"rd\":248,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1502,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2092,\"rd\":99,\"prog\":6},\"correspondence\":{\"games\":2,\"rating\":1590,\"rd\":293,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1022,\"rd\":339,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1600,\"rd\":195,\"prog\":0,\"prov\":true}},\"createdAt\":1627478223082,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi!\\r\\nI am a BOT coded by @aaravjain2012 and @Rishab1\\r\\nPlease Follow him and me\\r\\nAlso, join my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nIf you want to create a bot\\r\\ncontact me\\r\\nI will also tell u how to code it\\r\\nI'm a really strong BOT\\r\\nI also beat stockfish level 8  in standard chess\\r\\nIf you want to check then https://lichess.org/PD351mHY\"},\"seenAt\":1627896085459,\"playTime\":{\"total\":23053,\"tv\":199},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/aarav_strongestBOT\",\"nbFollowing\":3,\"nbFollowers\":15,\"count\":{\"all\":124,\"rated\":80,\"ai\":16,\"draw\":6,\"drawH\":5,\"loss\":44,\"lossH\":33,\"win\":74,\"winH\":70,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aarav_strongestbot\",\"username\":\"aarav_strongestBOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":831,\"rd\":214,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1467,\"rd\":166,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":39,\"rating\":2268,\"rd\":73,\"prog\":77},\"kingOfTheHill\":{\"games\":2,\"rating\":1802,\"rd\":241,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1636,\"rd\":248,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1502,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":2235,\"rd\":80,\"prog\":90},\"correspondence\":{\"games\":2,\"rating\":1590,\"rd\":293,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1628,\"rd\":290,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2065,\"rd\":124,\"prog\":74,\"prov\":true}},\"createdAt\":1627478223082,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi!\\r\\nI am a BOT coded by @aaravjain2012 and @Rishab1\\r\\nPlease Follow him and me\\r\\nAlso, join my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nIf you want to create a bot contact me\\r\\n\\r\\nI'm a really strong BOT\\r\\nI also beat stockfish level 8 many times in standard  chess\"},\"seenAt\":1628051538093,\"playTime\":{\"total\":46251,\"tv\":1034},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/aarav_strongestBOT\",\"playing\":\"https://lichess.org/KVcPrq9M/white\",\"nbFollowing\":6,\"nbFollowers\":24,\"count\":{\"all\":171,\"rated\":114,\"ai\":24,\"draw\":13,\"drawH\":12,\"loss\":54,\"lossH\":38,\"win\":104,\"winH\":97,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aarav_strongestbot",
     "username": "aarav_strongestBOT",
@@ -20,20 +20,20 @@
       "atomic": {
         "games": 6,
         "rating": 1467,
-        "rd": 165,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 26,
-        "rating": 2181,
-        "rd": 92,
-        "prog": 141
+        "games": 39,
+        "rating": 2268,
+        "rd": 73,
+        "prog": 77
       },
       "kingOfTheHill": {
         "games": 2,
         "rating": 1802,
-        "rd": 240,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
@@ -52,10 +52,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 24,
-        "rating": 2092,
-        "rd": 99,
-        "prog": 6
+        "games": 34,
+        "rating": 2235,
+        "rd": 80,
+        "prog": 90
       },
       "correspondence": {
         "games": 2,
@@ -65,47 +65,48 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 1022,
-        "rd": 339,
+        "games": 4,
+        "rating": 1628,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 1600,
-        "rd": 195,
-        "prog": 0,
+        "games": 15,
+        "rating": 2065,
+        "rd": 124,
+        "prog": 74,
         "prov": true
       }
     },
     "createdAt": 1627478223082,
     "profile": {
       "country": "IN",
-      "bio": "Hi!\r\nI am a BOT coded by @aaravjain2012 and @Rishab1\r\nPlease Follow him and me\r\nAlso, join my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nIf you want to create a bot\r\ncontact me\r\nI will also tell u how to code it\r\nI'm a really strong BOT\r\nI also beat stockfish level 8  in standard chess\r\nIf you want to check then https://lichess.org/PD351mHY"
+      "bio": "Hi!\r\nI am a BOT coded by @aaravjain2012 and @Rishab1\r\nPlease Follow him and me\r\nAlso, join my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nIf you want to create a bot contact me\r\n\r\nI'm a really strong BOT\r\nI also beat stockfish level 8 many times in standard  chess"
     },
-    "seenAt": 1627896085459,
+    "seenAt": 1628051538093,
     "playTime": {
-      "total": 23053,
-      "tv": 199
+      "total": 46251,
+      "tv": 1034
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/aarav_strongestBOT",
-    "nbFollowing": 3,
-    "nbFollowers": 15,
+    "playing": "https://lichess.org/KVcPrq9M/white",
+    "nbFollowing": 6,
+    "nbFollowers": 24,
     "count": {
-      "all": 124,
-      "rated": 80,
-      "ai": 16,
-      "draw": 6,
-      "drawH": 5,
-      "loss": 44,
-      "lossH": 33,
-      "win": 74,
-      "winH": 70,
+      "all": 171,
+      "rated": 114,
+      "ai": 24,
+      "draw": 13,
+      "drawH": 12,
+      "loss": 54,
+      "lossH": 38,
+      "win": 104,
+      "winH": 97,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
