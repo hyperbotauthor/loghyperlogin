@@ -4,7 +4,7 @@
   "username": "Parth304",
   "profileUrl": "https://lichess.org/@/Parth304",
   "provider": "lichess",
-  "_raw": "{\"id\":\"parth304\",\"username\":\"Parth304\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":55,\"rating\":1033,\"rd\":95,\"prog\":-20},\"atomic\":{\"games\":751,\"rating\":1200,\"rd\":47,\"prog\":17},\"racingKings\":{\"games\":56,\"rating\":1326,\"rd\":69,\"prog\":10},\"ultraBullet\":{\"games\":1,\"rating\":1284,\"rd\":289,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":347,\"rating\":914,\"rd\":59,\"prog\":-6},\"kingOfTheHill\":{\"games\":21,\"rating\":1354,\"rd\":110,\"prog\":43,\"prov\":true},\"crazyhouse\":{\"games\":7,\"rating\":1157,\"rd\":192,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":168,\"rating\":1159,\"rd\":65,\"prog\":-19},\"bullet\":{\"games\":101,\"rating\":629,\"rd\":89,\"prog\":-13},\"correspondence\":{\"games\":9,\"rating\":958,\"rd\":196,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":891,\"rd\":305,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1742,\"rating\":1452,\"rd\":87,\"prog\":0},\"classical\":{\"games\":104,\"rating\":1055,\"rd\":67,\"prog\":36},\"rapid\":{\"games\":12,\"rating\":952,\"rd\":128,\"prog\":-11,\"prov\":true},\"storm\":{\"runs\":8,\"score\":8},\"racer\":{\"runs\":137,\"score\":21},\"streak\":{\"runs\":10,\"score\":4}},\"createdAt\":1607009131429,\"profile\":{\"bio\":\"Hi Everyone  if You like me you can join my team https://lichess.org/team/harry-potter-akz-fan-club we will have many tournaments\"},\"seenAt\":1628086714433,\"playTime\":{\"total\":443021,\"tv\":2178},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Parth304\",\"nbFollowing\":54,\"nbFollowers\":30,\"completionRate\":80,\"count\":{\"all\":2423,\"rated\":1657,\"ai\":254,\"draw\":91,\"drawH\":79,\"loss\":1707,\"lossH\":1531,\"win\":625,\"winH\":559,\"bookmark\":0,\"playing\":0,\"import\":19,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"parth304\",\"username\":\"Parth304\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":55,\"rating\":1033,\"rd\":96,\"prog\":-20},\"atomic\":{\"games\":753,\"rating\":1199,\"rd\":47,\"prog\":9},\"racingKings\":{\"games\":56,\"rating\":1326,\"rd\":69,\"prog\":10},\"ultraBullet\":{\"games\":1,\"rating\":1284,\"rd\":290,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":348,\"rating\":914,\"rd\":59,\"prog\":-6},\"kingOfTheHill\":{\"games\":21,\"rating\":1354,\"rd\":110,\"prog\":43,\"prov\":true},\"crazyhouse\":{\"games\":7,\"rating\":1157,\"rd\":192,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":168,\"rating\":1159,\"rd\":66,\"prog\":-19},\"bullet\":{\"games\":101,\"rating\":629,\"rd\":89,\"prog\":-13},\"correspondence\":{\"games\":9,\"rating\":958,\"rd\":196,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":891,\"rd\":305,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1742,\"rating\":1452,\"rd\":87,\"prog\":0},\"classical\":{\"games\":106,\"rating\":1071,\"rd\":66,\"prog\":39},\"rapid\":{\"games\":12,\"rating\":952,\"rd\":129,\"prog\":-11,\"prov\":true},\"storm\":{\"runs\":8,\"score\":8},\"racer\":{\"runs\":137,\"score\":21},\"streak\":{\"runs\":10,\"score\":4}},\"createdAt\":1607009131429,\"profile\":{\"bio\":\"Hi Everyone  if You like me you can join my team https://lichess.org/team/harry-potter-akz-fan-club we will have many tournaments\"},\"seenAt\":1628149506749,\"playTime\":{\"total\":445238,\"tv\":2178},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Parth304\",\"nbFollowing\":56,\"nbFollowers\":30,\"completionRate\":80,\"count\":{\"all\":2428,\"rated\":1662,\"ai\":254,\"draw\":91,\"drawH\":79,\"loss\":1711,\"lossH\":1535,\"win\":626,\"winH\":560,\"bookmark\":0,\"playing\":0,\"import\":19,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "parth304",
     "username": "Parth304",
@@ -13,14 +13,14 @@
       "antichess": {
         "games": 55,
         "rating": 1033,
-        "rd": 95,
+        "rd": 96,
         "prog": -20
       },
       "atomic": {
-        "games": 751,
-        "rating": 1200,
+        "games": 753,
+        "rating": 1199,
         "rd": 47,
-        "prog": 17
+        "prog": 9
       },
       "racingKings": {
         "games": 56,
@@ -31,12 +31,12 @@
       "ultraBullet": {
         "games": 1,
         "rating": 1284,
-        "rd": 289,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 347,
+        "games": 348,
         "rating": 914,
         "rd": 59,
         "prog": -6
@@ -58,7 +58,7 @@
       "threeCheck": {
         "games": 168,
         "rating": 1159,
-        "rd": 65,
+        "rd": 66,
         "prog": -19
       },
       "bullet": {
@@ -88,15 +88,15 @@
         "prog": 0
       },
       "classical": {
-        "games": 104,
-        "rating": 1055,
-        "rd": 67,
-        "prog": 36
+        "games": 106,
+        "rating": 1071,
+        "rd": 66,
+        "prog": 39
       },
       "rapid": {
         "games": 12,
         "rating": 952,
-        "rd": 128,
+        "rd": 129,
         "prog": -11,
         "prov": true
       },
@@ -117,26 +117,26 @@
     "profile": {
       "bio": "Hi Everyone  if You like me you can join my team https://lichess.org/team/harry-potter-akz-fan-club we will have many tournaments"
     },
-    "seenAt": 1628086714433,
+    "seenAt": 1628149506749,
     "playTime": {
-      "total": 443021,
+      "total": 445238,
       "tv": 2178
     },
     "language": "en-US",
     "url": "https://lichess.org/@/Parth304",
-    "nbFollowing": 54,
+    "nbFollowing": 56,
     "nbFollowers": 30,
     "completionRate": 80,
     "count": {
-      "all": 2423,
-      "rated": 1657,
+      "all": 2428,
+      "rated": 1662,
       "ai": 254,
       "draw": 91,
       "drawH": 79,
-      "loss": 1707,
-      "lossH": 1531,
-      "win": 625,
-      "winH": 559,
+      "loss": 1711,
+      "lossH": 1535,
+      "win": 626,
+      "winH": 560,
       "bookmark": 0,
       "playing": 0,
       "import": 19,
