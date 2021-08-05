@@ -4,23 +4,23 @@
   "username": "SL_Red_King_BOT2",
   "profileUrl": "https://lichess.org/@/SL_Red_King_BOT2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sl_red_king_bot2\",\"username\":\"SL_Red_King_BOT2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628148996886,\"seenAt\":1628149007919,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/SL_Red_King_BOT2\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sl_red_king_bot2\",\"username\":\"SL_Red_King_BOT2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2259,\"rd\":277,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2252,\"rd\":198,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628148996886,\"profile\":{\"country\":\"LK\",\"bio\":\"Hi there! I am a BOT, I only play standard chess, Currently accept Rated or Casual, Bullet, Blitz, Rapid, Classical Challenge Me.\\r\\nMy sibling - @SL_Red_King_BOT \\r\\nOperator: @ThArInDu-1212\",\"firstName\":\"SriLankan Red King\"},\"seenAt\":1628154115045,\"playTime\":{\"total\":1872,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SL_Red_King_BOT2\",\"nbFollowing\":3,\"nbFollowers\":8,\"count\":{\"all\":18,\"rated\":12,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":18,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sl_red_king_bot2",
     "username": "SL_Red_King_BOT2",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 2259,
+        "rd": 277,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2252,
+        "rd": 198,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,31 @@
       }
     },
     "createdAt": 1628148996886,
-    "seenAt": 1628149007919,
+    "profile": {
+      "country": "LK",
+      "bio": "Hi there! I am a BOT, I only play standard chess, Currently accept Rated or Casual, Bullet, Blitz, Rapid, Classical Challenge Me.\r\nMy sibling - @SL_Red_King_BOT \r\nOperator: @ThArInDu-1212",
+      "firstName": "SriLankan Red King"
+    },
+    "seenAt": 1628154115045,
     "playTime": {
-      "total": 0,
+      "total": 1872,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/SL_Red_King_BOT2",
-    "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowing": 3,
+    "nbFollowers": 8,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 18,
+      "rated": 12,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 18,
+      "winH": 17,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
