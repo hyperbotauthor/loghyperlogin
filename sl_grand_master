@@ -4,7 +4,7 @@
   "username": "SL_GRAND_MASTER",
   "profileUrl": "https://lichess.org/@/SL_GRAND_MASTER",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sl_grand_master\",\"username\":\"SL_GRAND_MASTER\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628083926274,\"seenAt\":1628125593710,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/SL_GRAND_MASTER\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sl_grand_master\",\"username\":\"SL_GRAND_MASTER\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628083926274,\"seenAt\":1628125593710,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SL_GRAND_MASTER\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sl_grand_master",
     "username": "SL_GRAND_MASTER",
@@ -53,6 +53,7 @@
       "tv": 0
     },
     "language": "en-GB",
+    "title": "BOT",
     "url": "https://lichess.org/@/SL_GRAND_MASTER",
     "nbFollowing": 0,
     "nbFollowers": 1,
