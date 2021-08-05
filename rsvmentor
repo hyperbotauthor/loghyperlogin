@@ -4,7 +4,7 @@
   "username": "RSVMentor",
   "profileUrl": "https://lichess.org/@/RSVMentor",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":31,\"rating\":2168,\"rd\":89,\"prog\":-25},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":309,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":388,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2130,\"rd\":79,\"prog\":-21},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1262,\"rd\":349,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Developed By @Illusion_RSV, Feel Free To Challnge... https://imgur.com/dbowPnN\",\"firstName\":\"BOT RSV\",\"lastName\":\"Mentor\",\"fideRating\":3000},\"seenAt\":1624780720624,\"playTime\":{\"total\":22570,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":136,\"rated\":102,\"ai\":21,\"draw\":12,\"drawH\":9,\"loss\":33,\"lossH\":29,\"win\":91,\"winH\":77,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":469,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":31,\"rating\":2168,\"rd\":100,\"prog\":-25},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":312,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":391,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2130,\"rd\":91,\"prog\":-21},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1262,\"rd\":352,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"BGM - Bot Grand Master...All Ratings 3000\\r\\nDeveloped By @Illusion_RSV, Feel Free To Challenge... https://imgur.com/dbowPnN\",\"firstName\":\"BGM RSVMentor\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1628161370615,\"playTime\":{\"total\":22570,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":7,\"count\":{\"all\":136,\"rated\":102,\"ai\":21,\"draw\":12,\"drawH\":9,\"loss\":33,\"lossH\":29,\"win\":91,\"winH\":77,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rsvmentor",
     "username": "RSVMentor",
@@ -13,34 +13,34 @@
       "atomic": {
         "games": 1,
         "rating": 1476,
-        "rd": 466,
+        "rd": 469,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 31,
         "rating": 2168,
-        "rd": 89,
+        "rd": 100,
         "prog": -25
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1196,
-        "rd": 309,
+        "rd": 312,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 862,
-        "rd": 388,
+        "rd": 391,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 48,
         "rating": 2130,
-        "rd": 79,
+        "rd": 91,
         "prog": -21
       },
       "correspondence": {
@@ -60,7 +60,7 @@
       "rapid": {
         "games": 1,
         "rating": 1262,
-        "rd": 349,
+        "rd": 352,
         "prog": 0,
         "prov": true
       }
@@ -69,12 +69,16 @@
     "profile": {
       "country": "_lichess",
       "location": "BOT",
-      "bio": "Developed By @Illusion_RSV, Feel Free To Challnge... https://imgur.com/dbowPnN",
-      "firstName": "BOT RSV",
-      "lastName": "Mentor",
-      "fideRating": 3000
+      "bio": "BGM - Bot Grand Master...All Ratings 3000\r\nDeveloped By @Illusion_RSV, Feel Free To Challenge... https://imgur.com/dbowPnN",
+      "firstName": "BGM RSVMentor",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000,
+      "rcfRating": 3000,
+      "cfcRating": 3000,
+      "dsbRating": 3000
     },
-    "seenAt": 1624780720624,
+    "seenAt": 1628161370615,
     "playTime": {
       "total": 22570,
       "tv": 3400
@@ -83,7 +87,7 @@
     "title": "BOT",
     "url": "https://lichess.org/@/RSVMentor",
     "nbFollowing": 1,
-    "nbFollowers": 4,
+    "nbFollowers": 7,
     "count": {
       "all": 136,
       "rated": 102,
@@ -94,7 +98,7 @@
       "lossH": 29,
       "win": 91,
       "winH": 77,
-      "bookmark": 0,
+      "bookmark": 2,
       "playing": 0,
       "import": 0,
       "me": 0
