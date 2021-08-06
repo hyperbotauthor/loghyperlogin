@@ -4,7 +4,7 @@
   "username": "RSVMentor",
   "profileUrl": "https://lichess.org/@/RSVMentor",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1464,\"rd\":447,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":469,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":31,\"rating\":2168,\"rd\":100,\"prog\":-25},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":312,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":391,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":2106,\"rd\":88,\"prog\":-39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1262,\"rd\":352,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"BGM - Bot Grand Master...All Ratings 3000\\r\\nDeveloped By @Illusion_RSV, Feel Free To Challenge... https://imgur.com/dbowPnN\",\"firstName\":\"BGM RSVMentor\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1628162596345,\"playTime\":{\"total\":22830,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":7,\"count\":{\"all\":138,\"rated\":104,\"ai\":21,\"draw\":12,\"drawH\":9,\"loss\":35,\"lossH\":31,\"win\":91,\"winH\":77,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rsvmentor\",\"username\":\"RSVMentor\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1464,\"rd\":447,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1476,\"rd\":469,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":31,\"rating\":2168,\"rd\":100,\"prog\":-25},\"kingOfTheHill\":{\"games\":1,\"rating\":1196,\"rd\":312,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":862,\"rd\":391,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":2106,\"rd\":89,\"prog\":-39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1262,\"rd\":352,\"prog\":0,\"prov\":true}},\"createdAt\":1623040916785,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"[Challenge](lichess.org/?user=RSVMentor#friend),\\r\\n[Developer](https://lichess.org/@Illusion_RSV), https://imgur.com/dbowPnN\",\"firstName\":\"BOT RSVMentor\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000,\"links\":\"https://lichess.org/@Illusion_RSV\"},\"seenAt\":1628256374079,\"playTime\":{\"total\":22830,\"tv\":3400},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RSVMentor\",\"nbFollowing\":1,\"nbFollowers\":7,\"count\":{\"all\":138,\"rated\":104,\"ai\":21,\"draw\":12,\"drawH\":9,\"loss\":35,\"lossH\":31,\"win\":91,\"winH\":77,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rsvmentor",
     "username": "RSVMentor",
@@ -47,7 +47,7 @@
       "bullet": {
         "games": 49,
         "rating": 2106,
-        "rd": 88,
+        "rd": 89,
         "prog": -39
       },
       "correspondence": {
@@ -76,16 +76,17 @@
     "profile": {
       "country": "_lichess",
       "location": "BOT",
-      "bio": "BGM - Bot Grand Master...All Ratings 3000\r\nDeveloped By @Illusion_RSV, Feel Free To Challenge... https://imgur.com/dbowPnN",
-      "firstName": "BGM RSVMentor",
+      "bio": "[Challenge](lichess.org/?user=RSVMentor#friend),\r\n[Developer](https://lichess.org/@Illusion_RSV), https://imgur.com/dbowPnN",
+      "firstName": "BOT RSVMentor",
       "fideRating": 3000,
       "uscfRating": 3000,
       "ecfRating": 3000,
       "rcfRating": 3000,
       "cfcRating": 3000,
-      "dsbRating": 3000
+      "dsbRating": 3000,
+      "links": "https://lichess.org/@Illusion_RSV"
     },
-    "seenAt": 1628162596345,
+    "seenAt": 1628256374079,
     "playTime": {
       "total": 22830,
       "tv": 3400
