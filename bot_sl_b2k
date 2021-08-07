@@ -4,7 +4,7 @@
   "username": "bot_sl_b2k",
   "profileUrl": "https://lichess.org/@/bot_sl_b2k",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_sl_b2k\",\"username\":\"bot_sl_b2k\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2251,\"rd\":99,\"prog\":211},\"bullet\":{\"games\":20,\"rating\":1756,\"rd\":116,\"prog\":368,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":72,\"rating\":1958,\"rd\":66,\"prog\":127}},\"createdAt\":1626188031953,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lichess.org\",\"bio\":\"Hi\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\r\\njoin for my best team,\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\",\"fideRating\":2600},\"seenAt\":1628335328344,\"playTime\":{\"total\":34916,\"tv\":1922},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bot_sl_b2k\",\"nbFollowing\":11,\"nbFollowers\":41,\"count\":{\"all\":135,\"rated\":120,\"ai\":7,\"draw\":6,\"drawH\":6,\"loss\":42,\"lossH\":39,\"win\":87,\"winH\":83,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_sl_b2k\",\"username\":\"bot_sl_b2k\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2251,\"rd\":99,\"prog\":211},\"bullet\":{\"games\":20,\"rating\":1756,\"rd\":116,\"prog\":368,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":83,\"rating\":1873,\"rd\":58,\"prog\":-85}},\"createdAt\":1626188031953,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lichess.org\",\"bio\":\"Hi\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\r\\njoin for my best team,\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\",\"fideRating\":2600},\"seenAt\":1628352897250,\"playTime\":{\"total\":36214,\"tv\":2213},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bot_sl_b2k\",\"nbFollowing\":31,\"nbFollowers\":47,\"count\":{\"all\":146,\"rated\":131,\"ai\":7,\"draw\":6,\"drawH\":6,\"loss\":51,\"lossH\":48,\"win\":89,\"winH\":85,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_sl_b2k",
     "username": "bot_sl_b2k",
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 72,
-        "rating": 1958,
-        "rd": 66,
-        "prog": 127
+        "games": 83,
+        "rating": 1873,
+        "rd": 58,
+        "prog": -85
       }
     },
     "createdAt": 1626188031953,
@@ -51,26 +51,26 @@
       "bio": "Hi🙂🙂🙂🙂🙂🙂🙂🙂\r\njoin for my best team,\r\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club",
       "fideRating": 2600
     },
-    "seenAt": 1628335328344,
+    "seenAt": 1628352897250,
     "playTime": {
-      "total": 34916,
-      "tv": 1922
+      "total": 36214,
+      "tv": 2213
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/bot_sl_b2k",
-    "nbFollowing": 11,
-    "nbFollowers": 41,
+    "nbFollowing": 31,
+    "nbFollowers": 47,
     "count": {
-      "all": 135,
-      "rated": 120,
+      "all": 146,
+      "rated": 131,
       "ai": 7,
       "draw": 6,
       "drawH": 6,
-      "loss": 42,
-      "lossH": 39,
-      "win": 87,
-      "winH": 83,
+      "loss": 51,
+      "lossH": 48,
+      "win": 89,
+      "winH": 85,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
