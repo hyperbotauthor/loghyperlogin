@@ -1,0 +1,87 @@
+{
+  "id": "grandvariantk",
+  "displayName": "GrandVariantK",
+  "username": "GrandVariantK",
+  "profileUrl": "https://lichess.org/@/GrandVariantK",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"grandvariantk\",\"username\":\"GrandVariantK\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":42,\"rating\":1810,\"rd\":59,\"prog\":-4},\"bullet\":{\"games\":1,\"rating\":2214,\"rd\":398,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628409218352,\"seenAt\":1628412940560,\"playTime\":{\"total\":1637,\"tv\":106},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/GrandVariantK\",\"nbFollowing\":1,\"nbFollowers\":1,\"completionRate\":84,\"count\":{\"all\":43,\"rated\":43,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":16,\"lossH\":16,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "grandvariantk",
+    "username": "GrandVariantK",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 42,
+        "rating": 1810,
+        "rd": 59,
+        "prog": -4
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 2214,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1628409218352,
+    "seenAt": 1628412940560,
+    "playTime": {
+      "total": 1637,
+      "tv": 106
+    },
+    "language": "ru-RU",
+    "url": "https://lichess.org/@/GrandVariantK",
+    "nbFollowing": 1,
+    "nbFollowers": 1,
+    "completionRate": 84,
+    "count": {
+      "all": 43,
+      "rated": 43,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 16,
+      "lossH": 16,
+      "win": 25,
+      "winH": 25,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
