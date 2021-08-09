@@ -4,29 +4,29 @@
   "username": "ProRaPid-BOT",
   "profileUrl": "https://lichess.org/@/ProRaPid-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":76,\"rating\":2580,\"rd\":93,\"prog\":14},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":478,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1919,\"rd\":189,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1968,\"rd\":269,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2037,\"rd\":201,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi Follow me pls!\"},\"seenAt\":1627628213604,\"playTime\":{\"total\":21043,\"tv\":3422},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"playing\":\"https://lichess.org/iVyohUeU/white\",\"nbFollowing\":22,\"nbFollowers\":9,\"count\":{\"all\":127,\"rated\":89,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":23,\"lossH\":23,\"win\":93,\"winH\":93,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prorapid-bot\",\"username\":\"ProRaPid-BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":79,\"rating\":2445,\"rd\":94,\"prog\":-108},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":479,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1919,\"rd\":190,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1968,\"rd\":270,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2037,\"rd\":202,\"prog\":0,\"prov\":true}},\"createdAt\":1626683416565,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi Follow me pls!\"},\"seenAt\":1628519763858,\"playTime\":{\"total\":21302,\"tv\":3422},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/ProRaPid-BOT\",\"nbFollowing\":22,\"nbFollowers\":9,\"count\":{\"all\":130,\"rated\":92,\"ai\":0,\"draw\":11,\"drawH\":11,\"loss\":26,\"lossH\":26,\"win\":93,\"winH\":93,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prorapid-bot",
     "username": "ProRaPid-BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 76,
-        "rating": 2580,
-        "rd": 93,
-        "prog": 14
+        "games": 79,
+        "rating": 2445,
+        "rd": 94,
+        "prog": -108
       },
       "racingKings": {
         "games": 1,
         "rating": 2200,
-        "rd": 478,
+        "rd": 479,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 5,
         "rating": 1919,
-        "rd": 189,
+        "rd": 190,
         "prog": 0,
         "prov": true
       },
@@ -40,14 +40,14 @@
       "classical": {
         "games": 2,
         "rating": 1968,
-        "rd": 269,
+        "rd": 270,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 5,
         "rating": 2037,
-        "rd": 201,
+        "rd": 202,
         "prog": 0,
         "prov": true
       }
@@ -57,29 +57,28 @@
       "country": "_earth",
       "bio": "Hi Follow me pls!"
     },
-    "seenAt": 1627628213604,
+    "seenAt": 1628519763858,
     "playTime": {
-      "total": 21043,
+      "total": 21302,
       "tv": 3422
     },
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/ProRaPid-BOT",
-    "playing": "https://lichess.org/iVyohUeU/white",
     "nbFollowing": 22,
     "nbFollowers": 9,
     "count": {
-      "all": 127,
-      "rated": 89,
+      "all": 130,
+      "rated": 92,
       "ai": 0,
       "draw": 11,
       "drawH": 11,
-      "loss": 23,
-      "lossH": 23,
+      "loss": 26,
+      "lossH": 26,
       "win": 93,
       "winH": 93,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
