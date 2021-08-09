@@ -1,0 +1,81 @@
+{
+  "id": "brianytbot",
+  "displayName": "Brianytbot",
+  "username": "Brianytbot",
+  "profileUrl": "https://lichess.org/@/Brianytbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"brianytbot\",\"username\":\"Brianytbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626866058899,\"seenAt\":1628489124758,\"playTime\":{\"total\":1774,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Brianytbot\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":41,\"rated\":1,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":18,\"lossH\":16,\"win\":22,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "brianytbot",
+    "username": "Brianytbot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1626866058899,
+    "seenAt": 1628489124758,
+    "playTime": {
+      "total": 1774,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "title": "BOT",
+    "url": "https://lichess.org/@/Brianytbot",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 41,
+      "rated": 1,
+      "ai": 4,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 18,
+      "lossH": 16,
+      "win": 22,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
