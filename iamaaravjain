@@ -4,146 +4,156 @@
   "username": "IamaaravJain",
   "profileUrl": "https://lichess.org/@/IamaaravJain",
   "provider": "lichess",
-  "_raw": "{\"id\":\"iamaaravjain\",\"username\":\"IamaaravJain\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":11,\"rating\":989,\"rd\":159,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":85,\"rating\":1139,\"rd\":71,\"prog\":-21},\"atomic\":{\"games\":942,\"rating\":1459,\"rd\":47,\"prog\":-18},\"racingKings\":{\"games\":123,\"rating\":1443,\"rd\":65,\"prog\":29},\"ultraBullet\":{\"games\":5001,\"rating\":1751,\"rd\":45,\"prog\":-25},\"blitz\":{\"games\":1064,\"rating\":1512,\"rd\":46,\"prog\":10},\"kingOfTheHill\":{\"games\":17,\"rating\":1353,\"rd\":115,\"prog\":16,\"prov\":true},\"crazyhouse\":{\"games\":48,\"rating\":1300,\"rd\":97,\"prog\":-2},\"threeCheck\":{\"games\":77,\"rating\":1226,\"rd\":79,\"prog\":22},\"bullet\":{\"games\":1816,\"rating\":1854,\"rd\":46,\"prog\":-13},\"correspondence\":{\"games\":5,\"rating\":1274,\"rd\":194,\"prog\":0,\"prov\":true},\"horde\":{\"games\":9,\"rating\":1383,\"rd\":164,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":5821,\"rating\":1880,\"rd\":66,\"prog\":0},\"classical\":{\"games\":8,\"rating\":1138,\"rd\":177,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":794,\"rating\":1627,\"rd\":45,\"prog\":10},\"storm\":{\"runs\":80,\"score\":37}},\"createdAt\":1595436101280,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram\",\"bio\":\"My Name Is Aarav Jain, I am An Intermediate Player.. \\r\\nHelp Me By Joining My Team \\r\\nhttps://lichess.org/team/we-are-the-chess-champions-team-new-team\\r\\n\\r\\nMy Goal(2): 1. Become A GM In Chess\\r\\n2. Get 2000+ Rating In All Chess Variants Including Standard Chess.\\r\\nPls follow my BOT @aaravbot20\",\"firstName\":\"Aarav\",\"lastName\":\"Jain\",\"fideRating\":1691,\"uscfRating\":1670,\"ecfRating\":1722,\"links\":\"Lichess.Org  \\r\\n\\r\\nChess.Com\\r\\n\\r\\n\\r\\nchesskid.com\"},\"seenAt\":1617700205556,\"playTime\":{\"total\":882138,\"tv\":4625},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/IamaaravJain\",\"nbFollowing\":62,\"nbFollowers\":55,\"completionRate\":87,\"count\":{\"all\":10826,\"rated\":10031,\"ai\":199,\"draw\":278,\"drawH\":271,\"loss\":5389,\"lossH\":5275,\"win\":5159,\"winH\":5081,\"bookmark\":6,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"iamaaravjain\",\"username\":\"IamaaravJain\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":13,\"rating\":976,\"rd\":163,\"prog\":-19,\"prov\":true},\"antichess\":{\"games\":93,\"rating\":1118,\"rd\":85,\"prog\":-45},\"atomic\":{\"games\":996,\"rating\":1515,\"rd\":56,\"prog\":-33},\"racingKings\":{\"games\":125,\"rating\":1425,\"rd\":82,\"prog\":-2},\"ultraBullet\":{\"games\":7204,\"rating\":1787,\"rd\":46,\"prog\":-13},\"blitz\":{\"games\":1280,\"rating\":1759,\"rd\":49,\"prog\":-6},\"kingOfTheHill\":{\"games\":24,\"rating\":1422,\"rd\":110,\"prog\":43,\"prov\":true},\"crazyhouse\":{\"games\":48,\"rating\":1300,\"rd\":111,\"prog\":-2,\"prov\":true},\"threeCheck\":{\"games\":157,\"rating\":1536,\"rd\":53,\"prog\":10},\"bullet\":{\"games\":2850,\"rating\":1993,\"rd\":49,\"prog\":-11},\"correspondence\":{\"games\":5,\"rating\":1274,\"rd\":210,\"prog\":0,\"prov\":true},\"horde\":{\"games\":11,\"rating\":1386,\"rd\":161,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":7065,\"rating\":1756,\"rd\":65,\"prog\":0},\"classical\":{\"games\":8,\"rating\":1138,\"rd\":185,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1003,\"rating\":1685,\"rd\":50,\"prog\":34},\"storm\":{\"runs\":89,\"score\":38},\"racer\":{\"runs\":66,\"score\":57},\"streak\":{\"runs\":10,\"score\":20}},\"createdAt\":1595436101280,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram\",\"bio\":\"My Name Is Aarav , I am An Intermediate Player.. \\r\\nhttps://imgur.com/bL84imC\\r\\nhttps://i.imgur.com/ESD4Nlg.jpg\\r\\nI won't join teams unless you make me leader\\r\\n\\r\\nPls follow my BOT @aarav_strongestBOT\\r\\n\\r\\n\\r\\nPlease Join my team - https://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\",\"firstName\":\"Aarav\",\"fideRating\":1896,\"uscfRating\":1670,\"ecfRating\":1722,\"links\":\"Lichess.org\\r\\n\\r\\naccount.chessbase.en\\r\\n\\r\\nChess.com\\r\\n\\r\\nChesskid.com\"},\"seenAt\":1628579391286,\"patron\":true,\"playTime\":{\"total\":1179612,\"tv\":6705},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/IamaaravJain\",\"playing\":\"https://lichess.org/d42muuW3/black\",\"nbFollowing\":72,\"nbFollowers\":66,\"completionRate\":87,\"count\":{\"all\":14794,\"rated\":13863,\"ai\":244,\"draw\":378,\"drawH\":371,\"loss\":6922,\"lossH\":6769,\"win\":7494,\"winH\":7410,\"bookmark\":6,\"playing\":1,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "iamaaravjain",
     "username": "IamaaravJain",
     "online": true,
     "perfs": {
       "chess960": {
-        "games": 11,
-        "rating": 989,
-        "rd": 159,
-        "prog": 0,
+        "games": 13,
+        "rating": 976,
+        "rd": 163,
+        "prog": -19,
         "prov": true
       },
       "antichess": {
-        "games": 85,
-        "rating": 1139,
-        "rd": 71,
-        "prog": -21
+        "games": 93,
+        "rating": 1118,
+        "rd": 85,
+        "prog": -45
       },
       "atomic": {
-        "games": 942,
-        "rating": 1459,
-        "rd": 47,
-        "prog": -18
+        "games": 996,
+        "rating": 1515,
+        "rd": 56,
+        "prog": -33
       },
       "racingKings": {
-        "games": 123,
-        "rating": 1443,
-        "rd": 65,
-        "prog": 29
+        "games": 125,
+        "rating": 1425,
+        "rd": 82,
+        "prog": -2
       },
       "ultraBullet": {
-        "games": 5001,
-        "rating": 1751,
-        "rd": 45,
-        "prog": -25
+        "games": 7204,
+        "rating": 1787,
+        "rd": 46,
+        "prog": -13
       },
       "blitz": {
-        "games": 1064,
-        "rating": 1512,
-        "rd": 46,
-        "prog": 10
+        "games": 1280,
+        "rating": 1759,
+        "rd": 49,
+        "prog": -6
       },
       "kingOfTheHill": {
-        "games": 17,
-        "rating": 1353,
-        "rd": 115,
-        "prog": 16,
+        "games": 24,
+        "rating": 1422,
+        "rd": 110,
+        "prog": 43,
         "prov": true
       },
       "crazyhouse": {
         "games": 48,
         "rating": 1300,
-        "rd": 97,
-        "prog": -2
+        "rd": 111,
+        "prog": -2,
+        "prov": true
       },
       "threeCheck": {
-        "games": 77,
-        "rating": 1226,
-        "rd": 79,
-        "prog": 22
+        "games": 157,
+        "rating": 1536,
+        "rd": 53,
+        "prog": 10
       },
       "bullet": {
-        "games": 1816,
-        "rating": 1854,
-        "rd": 46,
-        "prog": -13
+        "games": 2850,
+        "rating": 1993,
+        "rd": 49,
+        "prog": -11
       },
       "correspondence": {
         "games": 5,
         "rating": 1274,
-        "rd": 194,
+        "rd": 210,
         "prog": 0,
         "prov": true
       },
       "horde": {
-        "games": 9,
-        "rating": 1383,
-        "rd": 164,
+        "games": 11,
+        "rating": 1386,
+        "rd": 161,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 5821,
-        "rating": 1880,
-        "rd": 66,
+        "games": 7065,
+        "rating": 1756,
+        "rd": 65,
         "prog": 0
       },
       "classical": {
         "games": 8,
         "rating": 1138,
-        "rd": 177,
+        "rd": 185,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 794,
-        "rating": 1627,
-        "rd": 45,
-        "prog": 10
+        "games": 1003,
+        "rating": 1685,
+        "rd": 50,
+        "prog": 34
       },
       "storm": {
-        "runs": 80,
-        "score": 37
+        "runs": 89,
+        "score": 38
+      },
+      "racer": {
+        "runs": 66,
+        "score": 57
+      },
+      "streak": {
+        "runs": 10,
+        "score": 20
       }
     },
     "createdAt": 1595436101280,
     "profile": {
       "country": "IN",
       "location": "Gurugram",
-      "bio": "My Name Is Aarav Jain, I am An Intermediate Player.. \r\nHelp Me By Joining My Team \r\nhttps://lichess.org/team/we-are-the-chess-champions-team-new-team\r\n\r\nMy Goal(2): 1. Become A GM In Chess\r\n2. Get 2000+ Rating In All Chess Variants Including Standard Chess.\r\nPls follow my BOT @aaravbot20",
+      "bio": "My Name Is Aarav , I am An Intermediate Player.. \r\nhttps://imgur.com/bL84imC\r\nhttps://i.imgur.com/ESD4Nlg.jpg\r\nI won't join teams unless you make me leader\r\n\r\nPls follow my BOT @aarav_strongestBOT\r\n\r\n\r\nPlease Join my team - https://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team",
       "firstName": "Aarav",
-      "lastName": "Jain",
-      "fideRating": 1691,
+      "fideRating": 1896,
       "uscfRating": 1670,
       "ecfRating": 1722,
-      "links": "Lichess.Org  \r\n\r\nChess.Com\r\n\r\n\r\nchesskid.com"
+      "links": "Lichess.org\r\n\r\naccount.chessbase.en\r\n\r\nChess.com\r\n\r\nChesskid.com"
     },
-    "seenAt": 1617700205556,
+    "seenAt": 1628579391286,
+    "patron": true,
     "playTime": {
-      "total": 882138,
-      "tv": 4625
+      "total": 1179612,
+      "tv": 6705
     },
     "language": "en-US",
     "url": "https://lichess.org/@/IamaaravJain",
-    "nbFollowing": 62,
-    "nbFollowers": 55,
+    "playing": "https://lichess.org/d42muuW3/black",
+    "nbFollowing": 72,
+    "nbFollowers": 66,
     "completionRate": 87,
     "count": {
-      "all": 10826,
-      "rated": 10031,
-      "ai": 199,
-      "draw": 278,
-      "drawH": 271,
-      "loss": 5389,
-      "lossH": 5275,
-      "win": 5159,
-      "winH": 5081,
+      "all": 14794,
+      "rated": 13863,
+      "ai": 244,
+      "draw": 378,
+      "drawH": 371,
+      "loss": 6922,
+      "lossH": 6769,
+      "win": 7494,
+      "winH": 7410,
       "bookmark": 6,
-      "playing": 0,
+      "playing": 1,
       "import": 1,
       "me": 0
     },
