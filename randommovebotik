@@ -4,7 +4,7 @@
   "username": "RandomMoveBotik",
   "profileUrl": "https://lichess.org/@/RandomMoveBotik",
   "provider": "lichess",
-  "_raw": "{\"id\":\"randommovebotik\",\"username\":\"RandomMoveBotik\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628590624392,\"seenAt\":1628590708540,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/RandomMoveBotik\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"randommovebotik\",\"username\":\"RandomMoveBotik\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628590624392,\"seenAt\":1628590708540,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RandomMoveBotik\",\"playing\":\"https://lichess.org/1y0BVvzT/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "randommovebotik",
     "username": "RandomMoveBotik",
@@ -53,7 +53,9 @@
       "tv": 0
     },
     "language": "ru-RU",
+    "title": "BOT",
     "url": "https://lichess.org/@/RandomMoveBotik",
+    "playing": "https://lichess.org/1y0BVvzT/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
@@ -67,7 +69,7 @@
       "win": 0,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
