@@ -1,0 +1,97 @@
+{
+  "id": "drnykterstein_1234",
+  "displayName": "DrNykterstein_1234",
+  "username": "DrNykterstein_1234",
+  "profileUrl": "https://lichess.org/@/DrNykterstein_1234",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"drnykterstein_1234\",\"username\":\"DrNykterstein_1234\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":70,\"rating\":1845,\"rd\":75,\"prog\":0},\"blitz\":{\"games\":21,\"rating\":1886,\"rd\":79,\"prog\":-71},\"threeCheck\":{\"games\":2,\"rating\":1697,\"rd\":237,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1668,\"rd\":131,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2065,\"rd\":116,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":3,\"score\":15}},\"createdAt\":1628081172755,\"seenAt\":1628686780317,\"playTime\":{\"total\":13649,\"tv\":135},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/DrNykterstein_1234\",\"nbFollowing\":6,\"nbFollowers\":0,\"completionRate\":92,\"count\":{\"all\":42,\"rated\":42,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":23,\"lossH\":23,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "drnykterstein_1234",
+    "username": "DrNykterstein_1234",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 70,
+        "rating": 1845,
+        "rd": 75,
+        "prog": 0
+      },
+      "blitz": {
+        "games": 21,
+        "rating": 1886,
+        "rd": 79,
+        "prog": -71
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1697,
+        "rd": 237,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 1668,
+        "rd": 131,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 10,
+        "rating": 2065,
+        "rd": 116,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 3,
+        "score": 15
+      }
+    },
+    "createdAt": 1628081172755,
+    "seenAt": 1628686780317,
+    "playTime": {
+      "total": 13649,
+      "tv": 135
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/DrNykterstein_1234",
+    "nbFollowing": 6,
+    "nbFollowers": 0,
+    "completionRate": 92,
+    "count": {
+      "all": 42,
+      "rated": 42,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 23,
+      "lossH": 23,
+      "win": 18,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
