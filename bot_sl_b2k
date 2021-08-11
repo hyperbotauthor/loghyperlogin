@@ -4,7 +4,7 @@
   "username": "bot_sl_b2k",
   "profileUrl": "https://lichess.org/@/bot_sl_b2k",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_sl_b2k\",\"username\":\"bot_sl_b2k\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2155,\"rd\":98,\"prog\":21},\"bullet\":{\"games\":21,\"rating\":1699,\"rd\":113,\"prog\":312,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":89,\"rating\":1824,\"rd\":54,\"prog\":-116}},\"createdAt\":1626188031953,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lichess.org\",\"bio\":\"Hi\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\r\\njoin for my best team,\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\",\"fideRating\":2600},\"seenAt\":1628493727490,\"playTime\":{\"total\":36627,\"tv\":2213},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bot_sl_b2k\",\"nbFollowing\":40,\"nbFollowers\":57,\"count\":{\"all\":155,\"rated\":140,\"ai\":7,\"draw\":6,\"drawH\":6,\"loss\":60,\"lossH\":57,\"win\":89,\"winH\":85,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_sl_b2k\",\"username\":\"bot_sl_b2k\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":26,\"rating\":2155,\"rd\":98,\"prog\":21},\"bullet\":{\"games\":25,\"rating\":1527,\"rd\":101,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":89,\"rating\":1824,\"rd\":55,\"prog\":-116}},\"createdAt\":1626188031953,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lichess.org\",\"bio\":\"Hi\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\uD83D\\uDE42\\r\\njoin for my best team,\\r\\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\\r\\nif you want to get me to your team i will give you 5 members to your team and make me as a leader.\",\"fideRating\":2600},\"seenAt\":1628671099464,\"playTime\":{\"total\":36728,\"tv\":2213},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/bot_sl_b2k\",\"nbFollowing\":1,\"nbFollowers\":61,\"count\":{\"all\":159,\"rated\":144,\"ai\":7,\"draw\":6,\"drawH\":6,\"loss\":64,\"lossH\":61,\"win\":89,\"winH\":85,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_sl_b2k",
     "username": "bot_sl_b2k",
@@ -17,11 +17,10 @@
         "prog": 21
       },
       "bullet": {
-        "games": 21,
-        "rating": 1699,
-        "rd": 113,
-        "prog": 312,
-        "prov": true
+        "games": 25,
+        "rating": 1527,
+        "rd": 101,
+        "prog": 15
       },
       "correspondence": {
         "games": 0,
@@ -40,7 +39,7 @@
       "rapid": {
         "games": 89,
         "rating": 1824,
-        "rd": 54,
+        "rd": 55,
         "prog": -116
       }
     },
@@ -48,27 +47,27 @@
     "profile": {
       "country": "_pirate",
       "location": "Lichess.org",
-      "bio": "Hi🙂🙂🙂🙂🙂🙂🙂🙂\r\njoin for my best team,\r\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club",
+      "bio": "Hi🙂🙂🙂🙂🙂🙂🙂🙂\r\njoin for my best team,\r\nhttps://lichess.org/team/garena-free-fire-b2k-fan-club\r\nif you want to get me to your team i will give you 5 members to your team and make me as a leader.",
       "fideRating": 2600
     },
-    "seenAt": 1628493727490,
+    "seenAt": 1628671099464,
     "playTime": {
-      "total": 36627,
+      "total": 36728,
       "tv": 2213
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/bot_sl_b2k",
-    "nbFollowing": 40,
-    "nbFollowers": 57,
+    "nbFollowing": 1,
+    "nbFollowers": 61,
     "count": {
-      "all": 155,
-      "rated": 140,
+      "all": 159,
+      "rated": 144,
       "ai": 7,
       "draw": 6,
       "drawH": 6,
-      "loss": 60,
-      "lossH": 57,
+      "loss": 64,
+      "lossH": 61,
       "win": 89,
       "winH": 85,
       "bookmark": 0,
