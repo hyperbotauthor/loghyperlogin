@@ -4,7 +4,7 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":34,\"rating\":2199,\"rd\":114,\"prog\":-62,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1574,\"rd\":333,\"prog\":0,\"prov\":true}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"RU\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\"},\"seenAt\":1628663232048,\"playTime\":{\"total\":3595,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":43,\"rated\":37,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":7,\"win\":35,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":34,\"rating\":2199,\"rd\":114,\"prog\":-62,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1574,\"rd\":333,\"prog\":0,\"prov\":true}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"RU\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\"},\"seenAt\":1628667116293,\"playTime\":{\"total\":3654,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":44,\"rated\":37,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":7,\"win\":35,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
@@ -51,9 +51,9 @@
       "country": "RU",
       "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team"
     },
-    "seenAt": 1628663232048,
+    "seenAt": 1628667116293,
     "playTime": {
-      "total": 3595,
+      "total": 3654,
       "tv": 0
     },
     "language": "en-US",
@@ -62,12 +62,12 @@
     "nbFollowing": 0,
     "nbFollowers": 3,
     "count": {
-      "all": 43,
+      "all": 44,
       "rated": 37,
-      "ai": 3,
+      "ai": 4,
       "draw": 0,
       "drawH": 0,
-      "loss": 8,
+      "loss": 9,
       "lossH": 7,
       "win": 35,
       "winH": 33,
