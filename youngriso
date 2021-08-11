@@ -4,7 +4,7 @@
   "username": "youngRiso",
   "profileUrl": "https://lichess.org/@/youngRiso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614365266091,\"seenAt\":1618930934168,\"playTime\":{\"total\":1116,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youngRiso\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":62,\"rated\":0,\"ai\":55,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":5,\"win\":46,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1493,\"rd\":496,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614365266091,\"seenAt\":1628709252669,\"playTime\":{\"total\":3485,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youngRiso\",\"playing\":\"https://lichess.org/eqSDR6HH/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":68,\"rated\":1,\"ai\":58,\"draw\":0,\"drawH\":0,\"loss\":22,\"lossH\":8,\"win\":46,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "youngriso",
     "username": "youngRiso",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1493,
+        "rd": 496,
         "prog": 0,
         "prov": true
       },
@@ -47,28 +47,29 @@
       }
     },
     "createdAt": 1614365266091,
-    "seenAt": 1618930934168,
+    "seenAt": 1628709252669,
     "playTime": {
-      "total": 1116,
+      "total": 3485,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/youngRiso",
+    "playing": "https://lichess.org/eqSDR6HH/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 62,
-      "rated": 0,
-      "ai": 55,
+      "all": 68,
+      "rated": 1,
+      "ai": 58,
       "draw": 0,
       "drawH": 0,
-      "loss": 16,
-      "lossH": 5,
+      "loss": 22,
+      "lossH": 8,
       "win": 46,
       "winH": 2,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
