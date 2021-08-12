@@ -4,22 +4,22 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":44,\"rating\":2183,\"rd\":82,\"prog\":-36},\"bullet\":{\"games\":4,\"rating\":1371,\"rd\":336,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2277,\"rd\":234,\"prog\":0,\"prov\":true}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"RU\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\"},\"seenAt\":1628696406313,\"playTime\":{\"total\":17400,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":62,\"rated\":55,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":19,\"lossH\":17,\"win\":43,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":2155,\"rd\":78,\"prog\":-26},\"bullet\":{\"games\":5,\"rating\":1350,\"rd\":317,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2277,\"rd\":234,\"prog\":0,\"prov\":true}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"RU\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\"},\"seenAt\":1628732823151,\"playTime\":{\"total\":18921,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/ZwBFMjvS/white\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":65,\"rated\":58,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":21,\"lossH\":19,\"win\":43,\"winH\":41,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 44,
-        "rating": 2183,
-        "rd": 82,
-        "prog": -36
+        "games": 46,
+        "rating": 2155,
+        "rd": 78,
+        "prog": -26
       },
       "bullet": {
-        "games": 4,
-        "rating": 1371,
-        "rd": 336,
+        "games": 5,
+        "rating": 1350,
+        "rd": 317,
         "prog": 0,
         "prov": true
       },
@@ -50,28 +50,29 @@
       "country": "RU",
       "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team"
     },
-    "seenAt": 1628696406313,
+    "seenAt": 1628732823151,
     "playTime": {
-      "total": 17400,
+      "total": 18921,
       "tv": 0
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
+    "playing": "https://lichess.org/ZwBFMjvS/white",
     "nbFollowing": 0,
     "nbFollowers": 3,
     "count": {
-      "all": 62,
-      "rated": 55,
+      "all": 65,
+      "rated": 58,
       "ai": 4,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 19,
-      "lossH": 17,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 21,
+      "lossH": 19,
       "win": 43,
       "winH": 41,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
