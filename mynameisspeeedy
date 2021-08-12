@@ -4,7 +4,7 @@
   "username": "MyNameIsSpeeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":2426,\"rd\":92,\"prog\":59},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":134,\"rating\":2485,\"rd\":60,\"prog\":-27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":138,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2403,\"rd\":140,\"prog\":0,\"prov\":true}},\"createdAt\":1625684055061,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1628773573844,\"playTime\":{\"total\":92561,\"tv\":13526},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/FdHeDma5/black\",\"nbFollowing\":150,\"nbFollowers\":22,\"count\":{\"all\":451,\"rated\":194,\"ai\":205,\"draw\":25,\"drawH\":19,\"loss\":144,\"lossH\":52,\"win\":282,\"winH\":175,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":32,\"rating\":2426,\"rd\":92,\"prog\":59},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":134,\"rating\":2485,\"rd\":60,\"prog\":-27},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":138,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2403,\"rd\":140,\"prog\":0,\"prov\":true}},\"createdAt\":1625684055061,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1628787531338,\"playTime\":{\"total\":98283,\"tv\":14417},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"nbFollowing\":150,\"nbFollowers\":22,\"count\":{\"all\":480,\"rated\":194,\"ai\":231,\"draw\":26,\"drawH\":19,\"loss\":153,\"lossH\":52,\"win\":301,\"winH\":178,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeeedy",
     "username": "MyNameIsSpeeedy",
@@ -57,29 +57,28 @@
       "location": "Riga",
       "bio": "Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\r\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!"
     },
-    "seenAt": 1628773573844,
+    "seenAt": 1628787531338,
     "playTime": {
-      "total": 92561,
-      "tv": 13526
+      "total": 98283,
+      "tv": 14417
     },
     "language": "de-DE",
     "title": "BOT",
     "url": "https://lichess.org/@/MyNameIsSpeeedy",
-    "playing": "https://lichess.org/FdHeDma5/black",
     "nbFollowing": 150,
     "nbFollowers": 22,
     "count": {
-      "all": 451,
+      "all": 480,
       "rated": 194,
-      "ai": 205,
-      "draw": 25,
+      "ai": 231,
+      "draw": 26,
       "drawH": 19,
-      "loss": 144,
+      "loss": 153,
       "lossH": 52,
-      "win": 282,
-      "winH": 175,
+      "win": 301,
+      "winH": 178,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
