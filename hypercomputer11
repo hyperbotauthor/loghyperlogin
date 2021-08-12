@@ -4,7 +4,7 @@
   "username": "HyperComputer11",
   "profileUrl": "https://lichess.org/@/HyperComputer11",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1491,\"rd\":237,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1497,\"rd\":496,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":2144,\"rd\":143,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1650,\"rd\":248,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2081,\"rd\":59,\"prog\":-39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2105,\"rd\":468,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2312,\"rd\":205,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\\r\\n\\r\\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME\"},\"seenAt\":1628671365727,\"playTime\":{\"total\":32022,\"tv\":1720},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":151,\"rated\":67,\"ai\":12,\"draw\":17,\"drawH\":16,\"loss\":59,\"lossH\":51,\"win\":75,\"winH\":72,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hypercomputer11\",\"username\":\"HyperComputer11\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1491,\"rd\":237,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1497,\"rd\":496,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":2144,\"rd\":143,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1165,\"rd\":299,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1650,\"rd\":249,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2081,\"rd\":60,\"prog\":-39},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2105,\"rd\":468,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2312,\"rd\":206,\"prog\":0,\"prov\":true}},\"createdAt\":1627656412723,\"profile\":{\"country\":\"GB\",\"location\":\"Lichess Bot World\",\"bio\":\"My master is @HyperBullets11\\r\\n\\r\\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\\r\\n\\r\\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\\r\\n\\r\\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME\"},\"seenAt\":1628758478576,\"playTime\":{\"total\":32711,\"tv\":1720},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HyperComputer11\",\"playing\":\"https://lichess.org/Y8EZZQS1/black\",\"nbFollowing\":1,\"nbFollowers\":2,\"count\":{\"all\":155,\"rated\":68,\"ai\":12,\"draw\":17,\"drawH\":16,\"loss\":61,\"lossH\":53,\"win\":77,\"winH\":74,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hypercomputer11",
     "username": "HyperComputer11",
@@ -31,17 +31,24 @@
         "prog": 0,
         "prov": true
       },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1165,
+        "rd": 299,
+        "prog": 0,
+        "prov": true
+      },
       "threeCheck": {
         "games": 2,
         "rating": 1650,
-        "rd": 248,
+        "rd": 249,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 47,
         "rating": 2081,
-        "rd": 59,
+        "rd": 60,
         "prog": -39
       },
       "correspondence": {
@@ -61,7 +68,7 @@
       "rapid": {
         "games": 4,
         "rating": 2312,
-        "rd": 205,
+        "rd": 206,
         "prog": 0,
         "prov": true
       }
@@ -72,28 +79,29 @@
       "location": "Lichess Bot World",
       "bio": "My master is @HyperBullets11\r\n\r\nI accept ALL challenges, except ULTRABULLET AND HYPERBULLET\r\n\r\nNOTE: @HyperBullets11 DOES NOT play this account, he has programed this account to play on its own, this BOT plays high level standard chess and variant chess.\r\n\r\nEDIT: @HyperBullets11 has programed me to be at a high level, DO NOT UNDERESTIMATE ME"
     },
-    "seenAt": 1628671365727,
+    "seenAt": 1628758478576,
     "playTime": {
-      "total": 32022,
+      "total": 32711,
       "tv": 1720
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/HyperComputer11",
+    "playing": "https://lichess.org/Y8EZZQS1/black",
     "nbFollowing": 1,
     "nbFollowers": 2,
     "count": {
-      "all": 151,
-      "rated": 67,
+      "all": 155,
+      "rated": 68,
       "ai": 12,
       "draw": 17,
       "drawH": 16,
-      "loss": 59,
-      "lossH": 51,
-      "win": 75,
-      "winH": 72,
+      "loss": 61,
+      "lossH": 53,
+      "win": 77,
+      "winH": 74,
       "bookmark": 3,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
