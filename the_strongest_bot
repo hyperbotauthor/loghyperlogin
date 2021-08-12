@@ -4,17 +4,17 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":61,\"rating\":2213,\"rd\":61,\"prog\":47},\"antichess\":{\"games\":2,\"rating\":1442,\"rd\":419,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1345,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1643,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2117,\"rd\":106,\"prog\":-157}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\\r\\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\"},\"seenAt\":1628758844488,\"playTime\":{\"total\":37827,\"tv\":4558},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":102,\"rated\":90,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":41,\"lossH\":39,\"win\":59,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":67,\"rating\":2228,\"rd\":57,\"prog\":25},\"antichess\":{\"games\":2,\"rating\":1442,\"rd\":419,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1345,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1643,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2117,\"rd\":106,\"prog\":-157}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"ES\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\\r\\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\\r\\nI speak, spanish and english, but mostly spanish so talk to me in spanish.\"},\"seenAt\":1628766052389,\"playTime\":{\"total\":41831,\"tv\":4558},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/OqEtmTiK/white\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":108,\"rated\":96,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":42,\"lossH\":40,\"win\":64,\"winH\":62,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 61,
-        "rating": 2213,
-        "rd": 61,
-        "prog": 47
+        "games": 67,
+        "rating": 2228,
+        "rd": 57,
+        "prog": 25
       },
       "antichess": {
         "games": 2,
@@ -53,31 +53,32 @@
     },
     "createdAt": 1628600394088,
     "profile": {
-      "country": "IN",
-      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\r\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)"
+      "country": "ES",
+      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\r\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\r\nI speak, spanish and english, but mostly spanish so talk to me in spanish."
     },
-    "seenAt": 1628758844488,
+    "seenAt": 1628766052389,
     "playTime": {
-      "total": 37827,
+      "total": 41831,
       "tv": 4558
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
+    "playing": "https://lichess.org/OqEtmTiK/white",
     "nbFollowing": 0,
     "nbFollowers": 4,
     "count": {
-      "all": 102,
-      "rated": 90,
+      "all": 108,
+      "rated": 96,
       "ai": 4,
       "draw": 2,
       "drawH": 2,
-      "loss": 41,
-      "lossH": 39,
-      "win": 59,
-      "winH": 57,
+      "loss": 42,
+      "lossH": 40,
+      "win": 64,
+      "winH": 62,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
