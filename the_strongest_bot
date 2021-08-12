@@ -4,29 +4,36 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":46,\"rating\":2155,\"rd\":78,\"prog\":-26},\"bullet\":{\"games\":5,\"rating\":1350,\"rd\":317,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2277,\"rd\":234,\"prog\":0,\"prov\":true}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"RU\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\"},\"seenAt\":1628732823151,\"playTime\":{\"total\":18921,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/ZwBFMjvS/white\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":65,\"rated\":58,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":21,\"lossH\":19,\"win\":43,\"winH\":41,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":61,\"rating\":2213,\"rd\":61,\"prog\":47},\"antichess\":{\"games\":2,\"rating\":1442,\"rd\":419,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1345,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1643,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2117,\"rd\":106,\"prog\":-157}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\\r\\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\"},\"seenAt\":1628758844488,\"playTime\":{\"total\":37827,\"tv\":4558},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":102,\"rated\":90,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":41,\"lossH\":39,\"win\":59,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 46,
-        "rating": 2155,
-        "rd": 78,
-        "prog": -26
+        "games": 61,
+        "rating": 2213,
+        "rd": 61,
+        "prog": 47
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1442,
+        "rd": 419,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 1350,
-        "rd": 317,
+        "games": 7,
+        "rating": 1345,
+        "rd": 311,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1643,
+        "rd": 355,
         "prog": 0,
         "prov": true
       },
@@ -38,41 +45,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 7,
-        "rating": 2277,
-        "rd": 234,
-        "prog": 0,
-        "prov": true
+        "games": 19,
+        "rating": 2117,
+        "rd": 106,
+        "prog": -157
       }
     },
     "createdAt": 1628600394088,
     "profile": {
-      "country": "RU",
-      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team"
+      "country": "IN",
+      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\r\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)"
     },
-    "seenAt": 1628732823151,
+    "seenAt": 1628758844488,
     "playTime": {
-      "total": 18921,
-      "tv": 0
+      "total": 37827,
+      "tv": 4558
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
-    "playing": "https://lichess.org/ZwBFMjvS/white",
     "nbFollowing": 0,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
-      "all": 65,
-      "rated": 58,
+      "all": 102,
+      "rated": 90,
       "ai": 4,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 21,
-      "lossH": 19,
-      "win": 43,
-      "winH": 41,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 41,
+      "lossH": 39,
+      "win": 59,
+      "winH": 57,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
