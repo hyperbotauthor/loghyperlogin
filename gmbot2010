@@ -4,7 +4,7 @@
   "username": "gmbot2010",
   "profileUrl": "https://lichess.org/@/gmbot2010",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gmbot2010\",\"username\":\"gmbot2010\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628687623425,\"seenAt\":1628687632839,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/gmbot2010\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gmbot2010\",\"username\":\"gmbot2010\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1622,\"rd\":333,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628687623425,\"profile\":{\"country\":\"IN\",\"location\":\"lichess\",\"bio\":\"I am a bot , you can challenge me when I am online . I am invented by the great Tanay Joshi ( https://lichess.org/@/Drunkenstien_2010 )  . Hope you enjoy playing with me . Thnx\",\"fideRating\":3000,\"uscfRating\":2222,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000,\"links\":\"https://lichess.org/@/Drunkenstien_2010\"},\"seenAt\":1628768224701,\"playTime\":{\"total\":122,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/gmbot2010\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gmbot2010",
     "username": "gmbot2010",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1622,
+        "rd": 333,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,38 @@
       }
     },
     "createdAt": 1628687623425,
-    "seenAt": 1628687632839,
+    "profile": {
+      "country": "IN",
+      "location": "lichess",
+      "bio": "I am a bot , you can challenge me when I am online . I am invented by the great Tanay Joshi ( https://lichess.org/@/Drunkenstien_2010 )  . Hope you enjoy playing with me . Thnx",
+      "fideRating": 3000,
+      "uscfRating": 2222,
+      "ecfRating": 3000,
+      "rcfRating": 3000,
+      "cfcRating": 3000,
+      "dsbRating": 3000,
+      "links": "https://lichess.org/@/Drunkenstien_2010"
+    },
+    "seenAt": 1628768224701,
     "playTime": {
-      "total": 0,
+      "total": 122,
       "tv": 0
     },
     "language": "en-US",
+    "title": "BOT",
     "url": "https://lichess.org/@/gmbot2010",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 1,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 1,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
