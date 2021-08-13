@@ -4,25 +4,38 @@
   "username": "SuperBoyflash",
   "profileUrl": "https://lichess.org/@/SuperBoyflash",
   "provider": "lichess",
-  "_raw": "{\"id\":\"superboyflash\",\"username\":\"SuperBoyflash\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628796017632,\"profile\":{\"country\":\"_pirate\",\"location\":\"lichess.org – the internet\",\"bio\":\"Created by AjedrezChessClub, Using the easy-chess program. If i don't work, please message me. i am probably better than you.\"},\"seenAt\":1628796057903,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SuperBoyflash\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"superboyflash\",\"username\":\"SuperBoyflash\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":2299,\"rd\":304,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":1927,\"rd\":152,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1016,\"rd\":331,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":2265,\"rd\":101,\"prog\":273},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2134,\"rd\":257,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2457,\"rd\":163,\"prog\":0,\"prov\":true}},\"createdAt\":1628796017632,\"profile\":{\"country\":\"_pirate\",\"location\":\"lichess.org – the internet\",\"bio\":\"Created by AjedrezChessClub, Using the easy-chess program. If i don't work, please message me. i am probably better than you.\"},\"seenAt\":1628859594309,\"playTime\":{\"total\":11480,\"tv\":1586},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SuperBoyflash\",\"nbFollowing\":12,\"nbFollowers\":4,\"count\":{\"all\":62,\"rated\":47,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":16,\"lossH\":10,\"win\":44,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "superboyflash",
     "username": "SuperBoyflash",
     "online": true,
     "perfs": {
+      "atomic": {
+        "games": 2,
+        "rating": 2299,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 9,
+        "rating": 1927,
+        "rd": 152,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1016,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 26,
+        "rating": 2265,
+        "rd": 101,
+        "prog": 273
       },
       "correspondence": {
         "games": 0,
@@ -32,16 +45,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2134,
+        "rd": 257,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 7,
+        "rating": 2457,
+        "rd": 163,
         "prog": 0,
         "prov": true
       }
@@ -52,26 +65,26 @@
       "location": "lichess.org – the internet",
       "bio": "Created by AjedrezChessClub, Using the easy-chess program. If i don't work, please message me. i am probably better than you."
     },
-    "seenAt": 1628796057903,
+    "seenAt": 1628859594309,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 11480,
+      "tv": 1586
     },
     "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/SuperBoyflash",
-    "nbFollowing": 2,
-    "nbFollowers": 0,
+    "nbFollowing": 12,
+    "nbFollowers": 4,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 62,
+      "rated": 47,
+      "ai": 8,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 16,
+      "lossH": 10,
+      "win": 44,
+      "winH": 42,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
