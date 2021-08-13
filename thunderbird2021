@@ -1,0 +1,138 @@
+{
+  "id": "thunderbird2021",
+  "displayName": "thunderbird2021",
+  "username": "thunderbird2021",
+  "profileUrl": "https://lichess.org/@/thunderbird2021",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thunderbird2021\",\"username\":\"thunderbird2021\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1583,\"rd\":298,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":4,\"rating\":1386,\"rd\":261,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":937,\"rd\":177,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1635,\"rd\":330,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":4,\"rating\":1260,\"rd\":249,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":120,\"rating\":1082,\"rd\":46,\"prog\":-37},\"threeCheck\":{\"games\":2,\"rating\":1230,\"rd\":395,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1185,\"rd\":304,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":993,\"rd\":273,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1244,\"rd\":248,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":1,\"score\":10},\"racer\":{\"runs\":5,\"score\":14}},\"createdAt\":1626864801989,\"profile\":{\"country\":\"LK\",\"location\":\"Ethul Kotte Kotte\",\"bio\":\"https://media.giphy.com/media/Vl4iJQgGmE28k1dLOo/giphy.gif\\r\\nhttps://media.giphy.com/media/SsBhuG6Ih1y7JM456f/giphy.gif\",\"firstName\":\"Yonal\",\"lastName\":\"Batuwita\",\"links\":\"https://www.chess.com/member/yonalg\\r\\nhttps://lichess.org/@/thunderbird2021\"},\"seenAt\":1628852734843,\"playTime\":{\"total\":24071,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/thunderbird2021\",\"nbFollowing\":15,\"nbFollowers\":10,\"completionRate\":67,\"count\":{\"all\":180,\"rated\":149,\"ai\":4,\"draw\":7,\"drawH\":7,\"loss\":108,\"lossH\":105,\"win\":65,\"winH\":64,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thunderbird2021",
+    "username": "thunderbird2021",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1583,
+        "rd": 298,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 4,
+        "rating": 1386,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 7,
+        "rating": 937,
+        "rd": 177,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1635,
+        "rd": 330,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 4,
+        "rating": 1260,
+        "rd": 249,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 120,
+        "rating": 1082,
+        "rd": 46,
+        "prog": -37
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1230,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1185,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 993,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1244,
+        "rd": 248,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 1,
+        "score": 10
+      },
+      "racer": {
+        "runs": 5,
+        "score": 14
+      }
+    },
+    "createdAt": 1626864801989,
+    "profile": {
+      "country": "LK",
+      "location": "Ethul Kotte Kotte",
+      "bio": "https://media.giphy.com/media/Vl4iJQgGmE28k1dLOo/giphy.gif\r\nhttps://media.giphy.com/media/SsBhuG6Ih1y7JM456f/giphy.gif",
+      "firstName": "Yonal",
+      "lastName": "Batuwita",
+      "links": "https://www.chess.com/member/yonalg\r\nhttps://lichess.org/@/thunderbird2021"
+    },
+    "seenAt": 1628852734843,
+    "playTime": {
+      "total": 24071,
+      "tv": 0
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/thunderbird2021",
+    "nbFollowing": 15,
+    "nbFollowers": 10,
+    "completionRate": 67,
+    "count": {
+      "all": 180,
+      "rated": 149,
+      "ai": 4,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 108,
+      "lossH": 105,
+      "win": 65,
+      "winH": 64,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
