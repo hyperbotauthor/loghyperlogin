@@ -1,0 +1,97 @@
+{
+  "id": "v_gandhi_bot",
+  "displayName": "v_gandhi_bot",
+  "username": "v_gandhi_bot",
+  "profileUrl": "https://lichess.org/@/v_gandhi_bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"v_gandhi_bot\",\"username\":\"v_gandhi_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":25,\"rating\":1714,\"rd\":131,\"prog\":328,\"prov\":true},\"antichess\":{\"games\":12,\"rating\":2579,\"rd\":163,\"prog\":9,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1864,\"rd\":311,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1983,\"rd\":253,\"prog\":0,\"prov\":true}},\"createdAt\":1625737871823,\"profile\":{\"country\":\"IN\",\"location\":\"Gujarat\",\"bio\":\"I'm Vedant - the chess engine, aspiring to be the strongest one written in Python. I accept standard chess with blitz,  rapid, and correspondence  time control (up to 3 games at the same time). Operator: @v_gandhi, @chess_vedant, Homepage and source code: github.com/VeduChess/lichess-bot.\",\"firstName\":\"Vedant\",\"lastName\":\"Gandhi\",\"fideRating\":2016,\"links\":\"https://lichess.org/@/v_gandhi\"},\"seenAt\":1628849743107,\"playTime\":{\"total\":9593,\"tv\":25},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/v_gandhi_bot\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":50,\"rated\":47,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":23,\"lossH\":23,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "v_gandhi_bot",
+    "username": "v_gandhi_bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 25,
+        "rating": 1714,
+        "rd": 131,
+        "prog": 328,
+        "prov": true
+      },
+      "antichess": {
+        "games": 12,
+        "rating": 2579,
+        "rd": 163,
+        "prog": 9,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1864,
+        "rd": 311,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1983,
+        "rd": 253,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1625737871823,
+    "profile": {
+      "country": "IN",
+      "location": "Gujarat",
+      "bio": "I'm Vedant - the chess engine, aspiring to be the strongest one written in Python. I accept standard chess with blitz,  rapid, and correspondence  time control (up to 3 games at the same time). Operator: @v_gandhi, @chess_vedant, Homepage and source code: github.com/VeduChess/lichess-bot.",
+      "firstName": "Vedant",
+      "lastName": "Gandhi",
+      "fideRating": 2016,
+      "links": "https://lichess.org/@/v_gandhi"
+    },
+    "seenAt": 1628849743107,
+    "playTime": {
+      "total": 9593,
+      "tv": 25
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/v_gandhi_bot",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
+    "count": {
+      "all": 50,
+      "rated": 47,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 23,
+      "lossH": 23,
+      "win": 21,
+      "winH": 21,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
