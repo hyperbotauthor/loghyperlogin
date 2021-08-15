@@ -4,7 +4,7 @@
   "username": "TrickyTraxlerBot",
   "profileUrl": "https://lichess.org/@/TrickyTraxlerBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"trickytraxlerbot\",\"username\":\"TrickyTraxlerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2327,\"rd\":208,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":51,\"rating\":1980,\"rd\":51,\"prog\":-33},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628943061761,\"seenAt\":1628990093760,\"playTime\":{\"total\":4206,\"tv\":622},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TrickyTraxlerBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":55,\"rated\":55,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":18,\"lossH\":18,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"trickytraxlerbot\",\"username\":\"TrickyTraxlerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2327,\"rd\":208,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":56,\"rating\":1943,\"rd\":49,\"prog\":-51},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628943061761,\"seenAt\":1629029362184,\"playTime\":{\"total\":4595,\"tv\":698},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TrickyTraxlerBot\",\"playing\":\"https://lichess.org/DUHJAhhQ/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":60,\"rated\":60,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":23,\"lossH\":23,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "trickytraxlerbot",
     "username": "TrickyTraxlerBot",
@@ -18,10 +18,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 51,
-        "rating": 1980,
-        "rd": 51,
-        "prog": -33
+        "games": 56,
+        "rating": 1943,
+        "rd": 49,
+        "prog": -51
       },
       "correspondence": {
         "games": 0,
@@ -46,28 +46,29 @@
       }
     },
     "createdAt": 1628943061761,
-    "seenAt": 1628990093760,
+    "seenAt": 1629029362184,
     "playTime": {
-      "total": 4206,
-      "tv": 622
+      "total": 4595,
+      "tv": 698
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/TrickyTraxlerBot",
+    "playing": "https://lichess.org/DUHJAhhQ/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 55,
-      "rated": 55,
+      "all": 60,
+      "rated": 60,
       "ai": 0,
       "draw": 6,
       "drawH": 6,
-      "loss": 18,
-      "lossH": 18,
+      "loss": 23,
+      "lossH": 23,
       "win": 31,
       "winH": 31,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
