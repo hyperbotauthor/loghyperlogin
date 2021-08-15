@@ -4,7 +4,7 @@
   "username": "Prostoakkk",
   "profileUrl": "https://lichess.org/@/Prostoakkk",
   "provider": "lichess",
-  "_raw": "{\"id\":\"prostoakkk\",\"username\":\"Prostoakkk\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2167,\"rd\":162,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1851,\"rd\":256,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1855,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1629020358853,\"profile\":{\"bio\":\"Hello! My creator - @Sasha2348th, but my developer is @Tuarreg. Special thanks to @Tuarreg\"},\"seenAt\":1629039384946,\"playTime\":{\"total\":2167,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Prostoakkk\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":14,\"rated\":10,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"prostoakkk\",\"username\":\"Prostoakkk\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2167,\"rd\":162,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1851,\"rd\":256,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1855,\"rd\":312,\"prog\":0,\"prov\":true}},\"createdAt\":1629020358853,\"profile\":{\"bio\":\"Hello! My creator - @Sasha2348th, but my developer is @Tuarreg. Special thanks to @Tuarreg\"},\"seenAt\":1629047794411,\"playTime\":{\"total\":2167,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Prostoakkk\",\"playing\":\"https://lichess.org/9bXzt4RG/black\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":14,\"rated\":10,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "prostoakkk",
     "username": "Prostoakkk",
@@ -50,7 +50,7 @@
     "profile": {
       "bio": "Hello! My creator - @Sasha2348th, but my developer is @Tuarreg. Special thanks to @Tuarreg"
     },
-    "seenAt": 1629039384946,
+    "seenAt": 1629047794411,
     "playTime": {
       "total": 2167,
       "tv": 0
@@ -58,6 +58,7 @@
     "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/Prostoakkk",
+    "playing": "https://lichess.org/9bXzt4RG/black",
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
@@ -71,7 +72,7 @@
       "win": 8,
       "winH": 8,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
