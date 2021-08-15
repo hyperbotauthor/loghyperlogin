@@ -4,7 +4,7 @@
   "username": "donteat",
   "profileUrl": "https://lichess.org/@/donteat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"donteat\",\"username\":\"donteat\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2511,\"rd\":104,\"prog\":76},\"atomic\":{\"games\":1,\"rating\":1471,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2186,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628950298211,\"profile\":{\"bio\":\"Hello! My creator - @fish224, but my developer is @Tuarreg.\\r\\n\\r\\nSpecial thanks to @Tuarreg\"},\"seenAt\":1629032650761,\"playTime\":{\"total\":6828,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/donteat\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":46,\"rated\":21,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":7,\"lossH\":3,\"win\":34,\"winH\":33,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"donteat\",\"username\":\"donteat\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2511,\"rd\":104,\"prog\":76},\"atomic\":{\"games\":1,\"rating\":1471,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2186,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628950298211,\"profile\":{\"bio\":\"Hello! My creator - @fish224, but my developer is @Tuarreg.\\r\\n\\r\\nSpecial thanks to @Tuarreg\"},\"seenAt\":1629038329353,\"playTime\":{\"total\":7893,\"tv\":282},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/donteat\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":50,\"rated\":21,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":10,\"lossH\":6,\"win\":35,\"winH\":34,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "donteat",
     "username": "donteat",
@@ -56,10 +56,10 @@
     "profile": {
       "bio": "Hello! My creator - @fish224, but my developer is @Tuarreg.\r\n\r\nSpecial thanks to @Tuarreg"
     },
-    "seenAt": 1629032650761,
+    "seenAt": 1629038329353,
     "playTime": {
-      "total": 6828,
-      "tv": 0
+      "total": 7893,
+      "tv": 282
     },
     "language": "ru-RU",
     "title": "BOT",
@@ -67,15 +67,15 @@
     "nbFollowing": 1,
     "nbFollowers": 4,
     "count": {
-      "all": 46,
+      "all": 50,
       "rated": 21,
       "ai": 5,
       "draw": 5,
       "drawH": 5,
-      "loss": 7,
-      "lossH": 3,
-      "win": 34,
-      "winH": 33,
+      "loss": 10,
+      "lossH": 6,
+      "win": 35,
+      "winH": 34,
       "bookmark": 1,
       "playing": 0,
       "import": 0,
