@@ -4,31 +4,37 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":67,\"rating\":2228,\"rd\":57,\"prog\":25},\"antichess\":{\"games\":2,\"rating\":1442,\"rd\":419,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1345,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1643,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2117,\"rd\":106,\"prog\":-157}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"ES\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\\r\\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\\r\\nI speak, spanish and english, but mostly spanish so talk to me in spanish.\"},\"seenAt\":1628766052389,\"playTime\":{\"total\":41831,\"tv\":4558},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/OqEtmTiK/white\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":108,\"rated\":96,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":42,\"lossH\":40,\"win\":64,\"winH\":62,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":83,\"rating\":2254,\"rd\":52,\"prog\":26},\"antichess\":{\"games\":3,\"rating\":1434,\"rd\":410,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1485,\"rd\":381,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":75,\"rating\":2347,\"rd\":52,\"prog\":21},\"correspondence\":{\"games\":1,\"rating\":1643,\"rd\":355,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2418,\"rd\":277,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":51,\"rating\":2342,\"rd\":61,\"prog\":-14}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"ES\",\"location\":\"Lichess.Org\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nrunning on stockfish 13.5 powered by https://easychess.herokuapp.com/ \\r\\n---\\r\\nAccepts standard, variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\\r\\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!\",\"firstName\":\"THE BEST\",\"lastName\":\"BOT OF THE WORLD\"},\"seenAt\":1629002664542,\"playTime\":{\"total\":97074,\"tv\":15344},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/yiAOD5Ad/black\",\"nbFollowing\":11,\"nbFollowers\":22,\"count\":{\"all\":265,\"rated\":226,\"ai\":8,\"draw\":13,\"drawH\":13,\"loss\":63,\"lossH\":60,\"win\":189,\"winH\":184,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 67,
-        "rating": 2228,
-        "rd": 57,
-        "prog": 25
+        "games": 83,
+        "rating": 2254,
+        "rd": 52,
+        "prog": 26
       },
       "antichess": {
-        "games": 2,
-        "rating": 1442,
-        "rd": 419,
+        "games": 3,
+        "rating": 1434,
+        "rd": 410,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 5,
+        "rating": 1485,
+        "rd": 381,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 1345,
-        "rd": 311,
-        "prog": 0,
-        "prov": true
+        "games": 75,
+        "rating": 2347,
+        "rd": 52,
+        "prog": 21
       },
       "correspondence": {
         "games": 1,
@@ -38,47 +44,50 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2418,
+        "rd": 277,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 19,
-        "rating": 2117,
-        "rd": 106,
-        "prog": -157
+        "games": 51,
+        "rating": 2342,
+        "rd": 61,
+        "prog": -14
       }
     },
     "createdAt": 1628600394088,
     "profile": {
       "country": "ES",
-      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nI use heroku server, stockfish 12 and powered by https://hypereasy.herokuapp.com\r\nAccepts standard, variants, rapid, blitz, classical, and Bullet (1+2 or 2+1)\r\nI speak, spanish and english, but mostly spanish so talk to me in spanish."
+      "location": "Lichess.Org",
+      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nrunning on stockfish 13.5 powered by https://easychess.herokuapp.com/ \r\n---\r\nAccepts standard, variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\r\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!",
+      "firstName": "THE BEST",
+      "lastName": "BOT OF THE WORLD"
     },
-    "seenAt": 1628766052389,
+    "seenAt": 1629002664542,
     "playTime": {
-      "total": 41831,
-      "tv": 4558
+      "total": 97074,
+      "tv": 15344
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
-    "playing": "https://lichess.org/OqEtmTiK/white",
-    "nbFollowing": 0,
-    "nbFollowers": 4,
+    "playing": "https://lichess.org/yiAOD5Ad/black",
+    "nbFollowing": 11,
+    "nbFollowers": 22,
     "count": {
-      "all": 108,
-      "rated": 96,
-      "ai": 4,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 42,
-      "lossH": 40,
-      "win": 64,
-      "winH": 62,
+      "all": 265,
+      "rated": 226,
+      "ai": 8,
+      "draw": 13,
+      "drawH": 13,
+      "loss": 63,
+      "lossH": 60,
+      "win": 189,
+      "winH": 184,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
