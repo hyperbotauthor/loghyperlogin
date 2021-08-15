@@ -4,25 +4,24 @@
   "username": "TrickyTraxlerBot",
   "profileUrl": "https://lichess.org/@/TrickyTraxlerBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"trickytraxlerbot\",\"username\":\"TrickyTraxlerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628943061761,\"seenAt\":1628943257274,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TrickyTraxlerBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"trickytraxlerbot\",\"username\":\"TrickyTraxlerBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2327,\"rd\":208,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":51,\"rating\":1980,\"rd\":51,\"prog\":-33},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628943061761,\"seenAt\":1628990093760,\"playTime\":{\"total\":4206,\"tv\":622},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/TrickyTraxlerBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":55,\"rated\":55,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":18,\"lossH\":18,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "trickytraxlerbot",
     "username": "TrickyTraxlerBot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 4,
+        "rating": 2327,
+        "rd": 208,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 51,
+        "rating": 1980,
+        "rd": 51,
+        "prog": -33
       },
       "correspondence": {
         "games": 0,
@@ -47,10 +46,10 @@
       }
     },
     "createdAt": 1628943061761,
-    "seenAt": 1628943257274,
+    "seenAt": 1628990093760,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 4206,
+      "tv": 622
     },
     "language": "en-US",
     "title": "BOT",
@@ -58,15 +57,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 55,
+      "rated": 55,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 18,
+      "lossH": 18,
+      "win": 31,
+      "winH": 31,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
