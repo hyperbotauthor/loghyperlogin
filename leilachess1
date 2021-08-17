@@ -1,39 +1,46 @@
 {
   "id": "leilachess1",
-  "displayName": "Leilachess1",
-  "username": "Leilachess1",
-  "profileUrl": "https://lichess.org/@/Leilachess1",
+  "displayName": "LEILACHESS1",
+  "username": "LEILACHESS1",
+  "profileUrl": "https://lichess.org/@/LEILACHESS1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"leilachess1\",\"username\":\"Leilachess1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":892,\"rd\":167,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1440,\"rd\":413,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":48,\"rating\":1254,\"rd\":61,\"prog\":-28},\"bullet\":{\"games\":1,\"rating\":1273,\"rd\":287,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":396,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627543468186,\"profile\":{\"bio\":\"Like https://lichess.org/study/gqrLiwMU\\r\\nhttps://media.giphy.com/media/xK29UkxpyTeR5njKbU/giphy.gif\\r\\nhttps://i.imgur.com/0EqZ6TJ.jpg\"},\"seenAt\":1628009952829,\"playTime\":{\"total\":4484,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Leilachess1\",\"nbFollowing\":26,\"nbFollowers\":25,\"completionRate\":90,\"count\":{\"all\":74,\"rated\":58,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":41,\"lossH\":39,\"win\":31,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"leilachess1\",\"username\":\"LEILACHESS1\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":892,\"rd\":169,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":40,\"rating\":1768,\"rd\":133,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1440,\"rd\":414,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":49,\"rating\":1235,\"rd\":66,\"prog\":-34},\"bullet\":{\"games\":3,\"rating\":1252,\"rd\":280,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1627543468186,\"profile\":{\"country\":\"_lichess\",\"firstName\":\"Leilachess1\"},\"seenAt\":1629194862580,\"playTime\":{\"total\":5179,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/LEILACHESS1\",\"nbFollowing\":37,\"nbFollowers\":35,\"completionRate\":90,\"count\":{\"all\":84,\"rated\":61,\"ai\":7,\"draw\":2,\"drawH\":2,\"loss\":51,\"lossH\":49,\"win\":31,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "leilachess1",
-    "username": "Leilachess1",
+    "username": "LEILACHESS1",
     "online": true,
     "perfs": {
       "blitz": {
         "games": 5,
         "rating": 892,
-        "rd": 167,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 40,
+        "rating": 1768,
+        "rd": 133,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1440,
-        "rd": 413,
+        "rd": 414,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
-        "games": 48,
-        "rating": 1254,
-        "rd": 61,
-        "prog": -28
+        "games": 49,
+        "rating": 1235,
+        "rd": 66,
+        "prog": -34
       },
       "bullet": {
-        "games": 1,
-        "rating": 1273,
-        "rd": 287,
+        "games": 3,
+        "rating": 1252,
+        "rd": 280,
         "prog": 0,
         "prov": true
       },
@@ -47,7 +54,7 @@
       "classical": {
         "games": 1,
         "rating": 1258,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
@@ -61,26 +68,27 @@
     },
     "createdAt": 1627543468186,
     "profile": {
-      "bio": "Like https://lichess.org/study/gqrLiwMU\r\nhttps://media.giphy.com/media/xK29UkxpyTeR5njKbU/giphy.gif\r\nhttps://i.imgur.com/0EqZ6TJ.jpg"
+      "country": "_lichess",
+      "firstName": "Leilachess1"
     },
-    "seenAt": 1628009952829,
+    "seenAt": 1629194862580,
     "playTime": {
-      "total": 4484,
+      "total": 5179,
       "tv": 0
     },
     "language": "en-US",
-    "url": "https://lichess.org/@/Leilachess1",
-    "nbFollowing": 26,
-    "nbFollowers": 25,
+    "url": "https://lichess.org/@/LEILACHESS1",
+    "nbFollowing": 37,
+    "nbFollowers": 35,
     "completionRate": 90,
     "count": {
-      "all": 74,
-      "rated": 58,
+      "all": 84,
+      "rated": 61,
       "ai": 7,
       "draw": 2,
       "drawH": 2,
-      "loss": 41,
-      "lossH": 39,
+      "loss": 51,
+      "lossH": 49,
       "win": 31,
       "winH": 26,
       "bookmark": 0,
