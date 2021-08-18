@@ -4,7 +4,7 @@
   "username": "chekmatechess",
   "profileUrl": "https://lichess.org/@/chekmatechess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1530,\"rd\":149,\"prog\":-129,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2091,\"rd\":354,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":2044,\"rd\":118,\"prog\":21,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":2037,\"rd\":117,\"prog\":117,\"prov\":true},\"blitz\":{\"games\":61,\"rating\":2187,\"rd\":84,\"prog\":31},\"kingOfTheHill\":{\"games\":9,\"rating\":2015,\"rd\":154,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1034,\"rd\":323,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":332,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":103,\"rating\":2051,\"rd\":61,\"prog\":5},\"correspondence\":{\"games\":2,\"rating\":1659,\"rd\":295,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2240,\"rd\":264,\"prog\":-354,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i am pro in atomic see https://lichess.org/P7lWmxyroxY8 https://lichess.org/ktnfSgTaxp5w and in rk https://lichess.org/glI5FZTK810B\"},\"seenAt\":1629171818272,\"playTime\":{\"total\":55011,\"tv\":9316},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"playing\":\"https://lichess.org/SY10T2Jw/white\",\"nbFollowing\":18,\"nbFollowers\":80,\"count\":{\"all\":397,\"rated\":254,\"ai\":42,\"draw\":31,\"drawH\":22,\"loss\":115,\"lossH\":103,\"win\":251,\"winH\":230,\"bookmark\":0,\"playing\":10,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1530,\"rd\":149,\"prog\":-129,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2091,\"rd\":354,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":2044,\"rd\":118,\"prog\":21,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":2037,\"rd\":118,\"prog\":117,\"prov\":true},\"blitz\":{\"games\":61,\"rating\":2187,\"rd\":84,\"prog\":31},\"kingOfTheHill\":{\"games\":9,\"rating\":2015,\"rd\":155,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1034,\"rd\":323,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":332,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":103,\"rating\":2051,\"rd\":62,\"prog\":5},\"correspondence\":{\"games\":2,\"rating\":1659,\"rd\":295,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2240,\"rd\":264,\"prog\":-354,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"bio\":\"Hello everyone i am chekmatechess the bot. i am pro in atomic see https://lichess.org/P7lWmxyroxY8 https://lichess.org/ktnfSgTaxp5w and in rk https://lichess.org/glI5FZTK810B\"},\"seenAt\":1629259288348,\"playTime\":{\"total\":55011,\"tv\":9316},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"playing\":\"https://lichess.org/SY10T2Jw/white\",\"nbFollowing\":18,\"nbFollowers\":80,\"count\":{\"all\":397,\"rated\":254,\"ai\":42,\"draw\":31,\"drawH\":22,\"loss\":115,\"lossH\":103,\"win\":251,\"winH\":230,\"bookmark\":0,\"playing\":10,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chekmatechess",
     "username": "chekmatechess",
@@ -34,7 +34,7 @@
       "racingKings": {
         "games": 23,
         "rating": 2037,
-        "rd": 117,
+        "rd": 118,
         "prog": 117,
         "prov": true
       },
@@ -47,7 +47,7 @@
       "kingOfTheHill": {
         "games": 9,
         "rating": 2015,
-        "rd": 154,
+        "rd": 155,
         "prog": 0,
         "prov": true
       },
@@ -68,7 +68,7 @@
       "bullet": {
         "games": 103,
         "rating": 2051,
-        "rd": 61,
+        "rd": 62,
         "prog": 5
       },
       "correspondence": {
@@ -97,7 +97,7 @@
     "profile": {
       "bio": "Hello everyone i am chekmatechess the bot. i am pro in atomic see https://lichess.org/P7lWmxyroxY8 https://lichess.org/ktnfSgTaxp5w and in rk https://lichess.org/glI5FZTK810B"
     },
-    "seenAt": 1629171818272,
+    "seenAt": 1629259288348,
     "playTime": {
       "total": 55011,
       "tv": 9316
