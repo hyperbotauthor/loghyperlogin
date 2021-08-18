@@ -4,7 +4,7 @@
   "username": "BOT-RED-KING_NIRINDU",
   "profileUrl": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1037,\"rd\":249,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1942,\"rd\":215,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1852,\"rd\":73,\"prog\":-58},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1177,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1683,\"rd\":297,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1628180436758,\"playTime\":{\"total\":13493,\"tv\":99},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"nbFollowing\":26,\"nbFollowers\":24,\"count\":{\"all\":99,\"rated\":51,\"ai\":21,\"draw\":5,\"drawH\":5,\"loss\":39,\"lossH\":23,\"win\":55,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1037,\"rd\":251,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1942,\"rd\":216,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":54,\"rating\":1771,\"rd\":69,\"prog\":-42},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1177,\"rd\":388,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1683,\"rd\":298,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1629296484691,\"playTime\":{\"total\":15514,\"tv\":99},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"nbFollowing\":66,\"nbFollowers\":29,\"count\":{\"all\":116,\"rated\":66,\"ai\":23,\"draw\":5,\"drawH\":5,\"loss\":56,\"lossH\":38,\"win\":55,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot-red-king_nirindu",
     "username": "BOT-RED-KING_NIRINDU",
@@ -13,29 +13,29 @@
       "antichess": {
         "games": 4,
         "rating": 1037,
-        "rd": 249,
+        "rd": 251,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 4,
         "rating": 1942,
-        "rd": 215,
+        "rd": 216,
         "prog": 0,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1741,
-        "rd": 396,
+        "rd": 397,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 39,
-        "rating": 1852,
-        "rd": 73,
-        "prog": -58
+        "games": 54,
+        "rating": 1771,
+        "rd": 69,
+        "prog": -42
       },
       "correspondence": {
         "games": 0,
@@ -47,14 +47,14 @@
       "classical": {
         "games": 1,
         "rating": 1177,
-        "rd": 387,
+        "rd": 388,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 2,
         "rating": 1683,
-        "rd": 297,
+        "rd": 298,
         "prog": 0,
         "prov": true
       }
@@ -63,24 +63,24 @@
     "profile": {
       "bio": "I AM NIRINDU"
     },
-    "seenAt": 1628180436758,
+    "seenAt": 1629296484691,
     "playTime": {
-      "total": 13493,
+      "total": 15514,
       "tv": 99
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
-    "nbFollowing": 26,
-    "nbFollowers": 24,
+    "nbFollowing": 66,
+    "nbFollowers": 29,
     "count": {
-      "all": 99,
-      "rated": 51,
-      "ai": 21,
+      "all": 116,
+      "rated": 66,
+      "ai": 23,
       "draw": 5,
       "drawH": 5,
-      "loss": 39,
-      "lossH": 23,
+      "loss": 56,
+      "lossH": 38,
       "win": 55,
       "winH": 50,
       "bookmark": 0,
