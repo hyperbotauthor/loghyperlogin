@@ -1,0 +1,83 @@
+{
+  "id": "vinithbot",
+  "displayName": "VinithBot",
+  "username": "VinithBot",
+  "profileUrl": "https://lichess.org/@/VinithBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"vinithbot\",\"username\":\"VinithBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":22,\"rating\":2552,\"rd\":83,\"prog\":112},\"bullet\":{\"games\":209,\"rating\":2767,\"rd\":45,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2335,\"rd\":387,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2527,\"rd\":162,\"prog\":0,\"prov\":true}},\"createdAt\":1628857006936,\"profile\":{\"country\":\"DE\",\"bio\":\"Using Stockfish 14\\r\\n\\r\\nChallenge me to:\\r\\nBullet \\r\\nBlitz\\r\\nRapid\"},\"seenAt\":1629386043828,\"playTime\":{\"total\":35746,\"tv\":12401},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/VinithBot\",\"nbFollowing\":5,\"nbFollowers\":10,\"count\":{\"all\":296,\"rated\":263,\"ai\":7,\"draw\":84,\"drawH\":84,\"loss\":16,\"lossH\":14,\"win\":196,\"winH\":191,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "vinithbot",
+    "username": "VinithBot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 22,
+        "rating": 2552,
+        "rd": 83,
+        "prog": 112
+      },
+      "bullet": {
+        "games": 209,
+        "rating": 2767,
+        "rd": 45,
+        "prog": 9
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 2335,
+        "rd": 387,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 2527,
+        "rd": 162,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1628857006936,
+    "profile": {
+      "country": "DE",
+      "bio": "Using Stockfish 14\r\n\r\nChallenge me to:\r\nBullet \r\nBlitz\r\nRapid"
+    },
+    "seenAt": 1629386043828,
+    "playTime": {
+      "total": 35746,
+      "tv": 12401
+    },
+    "language": "de-DE",
+    "title": "BOT",
+    "url": "https://lichess.org/@/VinithBot",
+    "nbFollowing": 5,
+    "nbFollowers": 10,
+    "count": {
+      "all": 296,
+      "rated": 263,
+      "ai": 7,
+      "draw": 84,
+      "drawH": 84,
+      "loss": 16,
+      "lossH": 14,
+      "win": 196,
+      "winH": 191,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
