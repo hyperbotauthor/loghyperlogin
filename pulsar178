@@ -1,0 +1,86 @@
+{
+  "id": "pulsar178",
+  "displayName": "pulsar178",
+  "username": "pulsar178",
+  "profileUrl": "https://lichess.org/@/pulsar178",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"pulsar178\",\"username\":\"pulsar178\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1814,\"rd\":293,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1796,\"rd\":275,\"prog\":0,\"prov\":true}},\"createdAt\":1628896131889,\"profile\":{\"country\":\"_earth\",\"location\":\"Lichess (Online)\",\"bio\":\"Hello there! I am pulsar178, or rather known as the bot that chooses random moves! I accept challenges above 5 minutes with/without increment!\\r\\n\\r\\nAs of now, my current version is V1.0 Alpha and my developer has more updates coming soon, so please stay tuned!\"},\"seenAt\":1629413081934,\"playTime\":{\"total\":1002,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/pulsar178\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":5,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "pulsar178",
+    "username": "pulsar178",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1814,
+        "rd": 293,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1796,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1628896131889,
+    "profile": {
+      "country": "_earth",
+      "location": "Lichess (Online)",
+      "bio": "Hello there! I am pulsar178, or rather known as the bot that chooses random moves! I accept challenges above 5 minutes with/without increment!\r\n\r\nAs of now, my current version is V1.0 Alpha and my developer has more updates coming soon, so please stay tuned!"
+    },
+    "seenAt": 1629413081934,
+    "playTime": {
+      "total": 1002,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/pulsar178",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 5,
+      "rated": 3,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
