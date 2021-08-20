@@ -1,0 +1,90 @@
+{
+  "id": "jshsjsbsj",
+  "displayName": "Jshsjsbsj",
+  "username": "Jshsjsbsj",
+  "profileUrl": "https://lichess.org/@/Jshsjsbsj",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jshsjsbsj\",\"username\":\"Jshsjsbsj\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":18,\"rating\":2054,\"rd\":102,\"prog\":0},\"bullet\":{\"games\":27,\"rating\":1628,\"rd\":88,\"prog\":52},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1361,\"rd\":318,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":2,\"score\":13}},\"createdAt\":1622211648028,\"seenAt\":1629441378804,\"playTime\":{\"total\":2778,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/Jshsjsbsj\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":74,\"count\":{\"all\":28,\"rated\":28,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":16,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jshsjsbsj",
+    "username": "Jshsjsbsj",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 18,
+        "rating": 2054,
+        "rd": 102,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 27,
+        "rating": 1628,
+        "rd": 88,
+        "prog": 52
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1361,
+        "rd": 318,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 2,
+        "score": 13
+      }
+    },
+    "createdAt": 1622211648028,
+    "seenAt": 1629441378804,
+    "playTime": {
+      "total": 2778,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/Jshsjsbsj",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 74,
+    "count": {
+      "all": 28,
+      "rated": 28,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 16,
+      "lossH": 16,
+      "win": 12,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
