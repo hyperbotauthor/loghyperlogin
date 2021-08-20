@@ -4,7 +4,7 @@
   "username": "OrcaBOT",
   "profileUrl": "https://lichess.org/@/OrcaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"orcabot\",\"username\":\"OrcaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1865,\"rd\":354,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629399460308,\"seenAt\":1629423902604,\"playTime\":{\"total\":460,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OrcaBOT\",\"playing\":\"https://lichess.org/PQsRCZco/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":18,\"rated\":2,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":2,\"lossH\":1,\"win\":13,\"winH\":12,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"orcabot\",\"username\":\"OrcaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1865,\"rd\":354,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629399460308,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1629480093271,\"playTime\":{\"total\":460,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OrcaBOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":50,\"rated\":2,\"ai\":12,\"draw\":5,\"drawH\":5,\"loss\":21,\"lossH\":13,\"win\":24,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "orcabot",
     "username": "OrcaBOT",
@@ -47,7 +47,10 @@
       }
     },
     "createdAt": 1629399460308,
-    "seenAt": 1629423902604,
+    "profile": {
+      "country": "_lichess"
+    },
+    "seenAt": 1629480093271,
     "playTime": {
       "total": 460,
       "tv": 0
@@ -55,21 +58,20 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/OrcaBOT",
-    "playing": "https://lichess.org/PQsRCZco/black",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 18,
+      "all": 50,
       "rated": 2,
-      "ai": 2,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 2,
-      "lossH": 1,
-      "win": 13,
-      "winH": 12,
+      "ai": 12,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 21,
+      "lossH": 13,
+      "win": 24,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
