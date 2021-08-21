@@ -4,7 +4,7 @@
   "username": "AishikCCA",
   "profileUrl": "https://lichess.org/@/AishikCCA",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aishikcca\",\"username\":\"AishikCCA\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1457,\"rd\":231,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1404,\"rd\":375,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":34,\"rating\":1402,\"rd\":106,\"prog\":-7},\"ultraBullet\":{\"games\":215,\"rating\":1339,\"rd\":52,\"prog\":22},\"blitz\":{\"games\":320,\"rating\":1560,\"rd\":47,\"prog\":-14},\"crazyhouse\":{\"games\":6,\"rating\":1515,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1961,\"rating\":1617,\"rd\":45,\"prog\":-29},\"correspondence\":{\"games\":11,\"rating\":2033,\"rd\":256,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1221,\"rd\":275,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":987,\"rating\":1815,\"rd\":94,\"prog\":0},\"classical\":{\"games\":19,\"rating\":1603,\"rd\":102,\"prog\":42},\"rapid\":{\"games\":530,\"rating\":1660,\"rd\":51,\"prog\":6},\"storm\":{\"runs\":3,\"score\":23},\"racer\":{\"runs\":5,\"score\":31},\"streak\":{\"runs\":12,\"score\":12}},\"createdAt\":1611929765324,\"profile\":{\"country\":\"IN\",\"location\":\"West Bengal\",\"bio\":\"I love to play chess and listen to music \\uD83C\\uDFB5\",\"firstName\":\"Aishik\",\"lastName\":\"Sadhukhan\"},\"seenAt\":1629337980645,\"playTime\":{\"total\":595175,\"tv\":515},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/AishikCCA\",\"nbFollowing\":5,\"nbFollowers\":9,\"completionRate\":97,\"count\":{\"all\":3354,\"rated\":3109,\"ai\":88,\"draw\":168,\"drawH\":159,\"loss\":1713,\"lossH\":1672,\"win\":1473,\"winH\":1435,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aishikcca\",\"username\":\"AishikCCA\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1457,\"rd\":231,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1404,\"rd\":376,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":34,\"rating\":1402,\"rd\":107,\"prog\":-7},\"ultraBullet\":{\"games\":215,\"rating\":1339,\"rd\":53,\"prog\":22},\"blitz\":{\"games\":327,\"rating\":1556,\"rd\":47,\"prog\":2},\"crazyhouse\":{\"games\":6,\"rating\":1515,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1995,\"rating\":1647,\"rd\":45,\"prog\":11},\"correspondence\":{\"games\":11,\"rating\":2033,\"rd\":256,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1221,\"rd\":276,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":987,\"rating\":1815,\"rd\":94,\"prog\":0},\"classical\":{\"games\":19,\"rating\":1603,\"rd\":102,\"prog\":42},\"rapid\":{\"games\":533,\"rating\":1646,\"rd\":52,\"prog\":-2},\"storm\":{\"runs\":3,\"score\":23},\"racer\":{\"runs\":5,\"score\":31},\"streak\":{\"runs\":12,\"score\":12}},\"createdAt\":1611929765324,\"profile\":{\"country\":\"IN\",\"location\":\"West Bengal\",\"bio\":\"I love to play chess and listen to music \\uD83C\\uDFB5\\r\\nBOT -  @Crazy_Tactician24\",\"firstName\":\"Aishik\",\"lastName\":\"Sadhukhan\"},\"seenAt\":1629541496895,\"playTime\":{\"total\":600588,\"tv\":742},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/AishikCCA\",\"nbFollowing\":4,\"nbFollowers\":10,\"completionRate\":93,\"count\":{\"all\":3403,\"rated\":3153,\"ai\":88,\"draw\":172,\"drawH\":163,\"loss\":1742,\"lossH\":1701,\"win\":1489,\"winH\":1451,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aishikcca",
     "username": "AishikCCA",
@@ -20,40 +20,40 @@
       "antichess": {
         "games": 1,
         "rating": 1404,
-        "rd": 375,
+        "rd": 376,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 34,
         "rating": 1402,
-        "rd": 106,
+        "rd": 107,
         "prog": -7
       },
       "ultraBullet": {
         "games": 215,
         "rating": 1339,
-        "rd": 52,
+        "rd": 53,
         "prog": 22
       },
       "blitz": {
-        "games": 320,
-        "rating": 1560,
+        "games": 327,
+        "rating": 1556,
         "rd": 47,
-        "prog": -14
+        "prog": 2
       },
       "crazyhouse": {
         "games": 6,
         "rating": 1515,
-        "rd": 196,
+        "rd": 197,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1961,
-        "rating": 1617,
+        "games": 1995,
+        "rating": 1647,
         "rd": 45,
-        "prog": -29
+        "prog": 11
       },
       "correspondence": {
         "games": 11,
@@ -65,7 +65,7 @@
       "horde": {
         "games": 4,
         "rating": 1221,
-        "rd": 275,
+        "rd": 276,
         "prog": 0,
         "prov": true
       },
@@ -82,10 +82,10 @@
         "prog": 42
       },
       "rapid": {
-        "games": 530,
-        "rating": 1660,
-        "rd": 51,
-        "prog": 6
+        "games": 533,
+        "rating": 1646,
+        "rd": 52,
+        "prog": -2
       },
       "storm": {
         "runs": 3,
@@ -104,30 +104,30 @@
     "profile": {
       "country": "IN",
       "location": "West Bengal",
-      "bio": "I love to play chess and listen to music 🎵",
+      "bio": "I love to play chess and listen to music 🎵\r\nBOT -  @Crazy_Tactician24",
       "firstName": "Aishik",
       "lastName": "Sadhukhan"
     },
-    "seenAt": 1629337980645,
+    "seenAt": 1629541496895,
     "playTime": {
-      "total": 595175,
-      "tv": 515
+      "total": 600588,
+      "tv": 742
     },
     "language": "en-US",
     "url": "https://lichess.org/@/AishikCCA",
-    "nbFollowing": 5,
-    "nbFollowers": 9,
-    "completionRate": 97,
+    "nbFollowing": 4,
+    "nbFollowers": 10,
+    "completionRate": 93,
     "count": {
-      "all": 3354,
-      "rated": 3109,
+      "all": 3403,
+      "rated": 3153,
       "ai": 88,
-      "draw": 168,
-      "drawH": 159,
-      "loss": 1713,
-      "lossH": 1672,
-      "win": 1473,
-      "winH": 1435,
+      "draw": 172,
+      "drawH": 163,
+      "loss": 1742,
+      "lossH": 1701,
+      "win": 1489,
+      "winH": 1451,
       "bookmark": 5,
       "playing": 0,
       "import": 0,
