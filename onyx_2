@@ -4,16 +4,16 @@
   "username": "onyx_2",
   "profileUrl": "https://lichess.org/@/onyx_2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"onyx_2\",\"username\":\"onyx_2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1863,\"rd\":104,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2103,\"rd\":219,\"prog\":0,\"prov\":true}},\"createdAt\":1627615038310,\"seenAt\":1629608459641,\"playTime\":{\"total\":8900,\"tv\":108},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/onyx_2\",\"playing\":\"https://lichess.org/uufVDqrX/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":72,\"rated\":20,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":24,\"lossH\":24,\"win\":44,\"winH\":44,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"onyx_2\",\"username\":\"onyx_2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1786,\"rd\":284,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1863,\"rd\":104,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2079,\"rd\":344,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2103,\"rd\":219,\"prog\":0,\"prov\":true}},\"createdAt\":1627615038310,\"seenAt\":1629611145075,\"playTime\":{\"total\":10239,\"tv\":108},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/onyx_2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":75,\"rated\":23,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":25,\"lossH\":25,\"win\":46,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "onyx_2",
     "username": "onyx_2",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 1786,
+        "rd": 284,
         "prog": 0,
         "prov": true
       },
@@ -31,9 +31,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2079,
+        "rd": 344,
         "prog": 0,
         "prov": true
       },
@@ -46,29 +46,28 @@
       }
     },
     "createdAt": 1627615038310,
-    "seenAt": 1629608459641,
+    "seenAt": 1629611145075,
     "playTime": {
-      "total": 8900,
+      "total": 10239,
       "tv": 108
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/onyx_2",
-    "playing": "https://lichess.org/uufVDqrX/white",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 72,
-      "rated": 20,
+      "all": 75,
+      "rated": 23,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 24,
-      "lossH": 24,
-      "win": 44,
-      "winH": 44,
+      "loss": 25,
+      "lossH": 25,
+      "win": 46,
+      "winH": 46,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
