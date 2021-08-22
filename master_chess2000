@@ -1,0 +1,94 @@
+{
+  "id": "master_chess2000",
+  "displayName": "master_chess2000",
+  "username": "master_chess2000",
+  "profileUrl": "https://lichess.org/@/master_chess2000",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"master_chess2000\",\"username\":\"master_chess2000\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1332,\"rd\":183,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":1451,\"rd\":113,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":45,\"rating\":1731,\"rd\":64,\"prog\":-20},\"bullet\":{\"games\":9,\"rating\":1628,\"rd\":145,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1653,\"rd\":165,\"prog\":0,\"prov\":true}},\"createdAt\":1629223678378,\"seenAt\":1629615790836,\"playTime\":{\"total\":6831,\"tv\":0},\"language\":\"fa-IR\",\"url\":\"https://lichess.org/@/master_chess2000\",\"nbFollowing\":0,\"nbFollowers\":1,\"completionRate\":70,\"count\":{\"all\":65,\"rated\":64,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":22,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "master_chess2000",
+    "username": "master_chess2000",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1332,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 12,
+        "rating": 1451,
+        "rd": 113,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 45,
+        "rating": 1731,
+        "rd": 64,
+        "prog": -20
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 1628,
+        "rd": 145,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 1653,
+        "rd": 165,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1629223678378,
+    "seenAt": 1629615790836,
+    "playTime": {
+      "total": 6831,
+      "tv": 0
+    },
+    "language": "fa-IR",
+    "url": "https://lichess.org/@/master_chess2000",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "completionRate": 70,
+    "count": {
+      "all": 65,
+      "rated": 64,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 22,
+      "lossH": 22,
+      "win": 40,
+      "winH": 40,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
