@@ -4,37 +4,36 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":83,\"rating\":2254,\"rd\":53,\"prog\":26},\"antichess\":{\"games\":3,\"rating\":1434,\"rd\":410,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1809,\"rd\":281,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":95,\"rating\":2358,\"rd\":49,\"prog\":-3},\"correspondence\":{\"games\":3,\"rating\":1932,\"rd\":249,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2462,\"rd\":246,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":65,\"rating\":2401,\"rd\":55,\"prog\":46}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram, Haryana\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\nrunning on stockfish 13.5 powered by https://easychess.herokuapp.com/\\r\\n\\r\\nFOLLOW ME NOW!\\r\\nhttps://i.imgur.com/R98X49z.jpg \\r\\n---\\r\\nAccepts standard, variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\\r\\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!\",\"firstName\":\"THE BEST\",\"lastName\":\"BOT OF THE WORLD\"},\"seenAt\":1629179824311,\"playTime\":{\"total\":129310,\"tv\":27036},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":13,\"nbFollowers\":26,\"count\":{\"all\":318,\"rated\":266,\"ai\":8,\"draw\":15,\"drawH\":15,\"loss\":70,\"lossH\":67,\"win\":233,\"winH\":228,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":95,\"rating\":2306,\"rd\":51,\"prog\":47},\"antichess\":{\"games\":3,\"rating\":1434,\"rd\":411,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":37,\"rating\":2053,\"rd\":74,\"prog\":129},\"bullet\":{\"games\":115,\"rating\":2402,\"rd\":47,\"prog\":16},\"correspondence\":{\"games\":3,\"rating\":1932,\"rd\":249,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2462,\"rd\":247,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":67,\"rating\":2409,\"rd\":57,\"prog\":48}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram, Haryana\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\\r\\n\\r\\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\\r\\nFOLLOW ME NOW!\\r\\nhttps://i.imgur.com/R98X49z.jpg \\r\\n---\\r\\nAccepts atomic, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\\r\\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!\",\"firstName\":\"THE BEST\",\"lastName\":\"BOT OF THE WORLD\"},\"seenAt\":1629693103423,\"playTime\":{\"total\":142558,\"tv\":31786},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":14,\"nbFollowers\":27,\"count\":{\"all\":407,\"rated\":333,\"ai\":11,\"draw\":19,\"drawH\":19,\"loss\":94,\"lossH\":91,\"win\":294,\"winH\":286,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 83,
-        "rating": 2254,
-        "rd": 53,
-        "prog": 26
+        "games": 95,
+        "rating": 2306,
+        "rd": 51,
+        "prog": 47
       },
       "antichess": {
         "games": 3,
         "rating": 1434,
-        "rd": 410,
+        "rd": 411,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 6,
-        "rating": 1809,
-        "rd": 281,
-        "prog": 0,
-        "prov": true
+        "games": 37,
+        "rating": 2053,
+        "rd": 74,
+        "prog": 129
       },
       "bullet": {
-        "games": 95,
-        "rating": 2358,
-        "rd": 49,
-        "prog": -3
+        "games": 115,
+        "rating": 2402,
+        "rd": 47,
+        "prog": 16
       },
       "correspondence": {
         "games": 3,
@@ -46,45 +45,45 @@
       "classical": {
         "games": 5,
         "rating": 2462,
-        "rd": 246,
+        "rd": 247,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 65,
-        "rating": 2401,
-        "rd": 55,
-        "prog": 46
+        "games": 67,
+        "rating": 2409,
+        "rd": 57,
+        "prog": 48
       }
     },
     "createdAt": 1628600394088,
     "profile": {
       "country": "IN",
       "location": "Gurugram, Haryana",
-      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\nrunning on stockfish 13.5 powered by https://easychess.herokuapp.com/\r\n\r\nFOLLOW ME NOW!\r\nhttps://i.imgur.com/R98X49z.jpg \r\n---\r\nAccepts standard, variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\r\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!",
+      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/ultrabullet--blitz-and-hyperbullet-team\r\n\r\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\r\nFOLLOW ME NOW!\r\nhttps://i.imgur.com/R98X49z.jpg \r\n---\r\nAccepts atomic, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\r\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!",
       "firstName": "THE BEST",
       "lastName": "BOT OF THE WORLD"
     },
-    "seenAt": 1629179824311,
+    "seenAt": 1629693103423,
     "playTime": {
-      "total": 129310,
-      "tv": 27036
+      "total": 142558,
+      "tv": 31786
     },
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
-    "nbFollowing": 13,
-    "nbFollowers": 26,
+    "nbFollowing": 14,
+    "nbFollowers": 27,
     "count": {
-      "all": 318,
-      "rated": 266,
-      "ai": 8,
-      "draw": 15,
-      "drawH": 15,
-      "loss": 70,
-      "lossH": 67,
-      "win": 233,
-      "winH": 228,
+      "all": 407,
+      "rated": 333,
+      "ai": 11,
+      "draw": 19,
+      "drawH": 19,
+      "loss": 94,
+      "lossH": 91,
+      "win": 294,
+      "winH": 286,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
