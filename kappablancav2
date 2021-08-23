@@ -1,0 +1,87 @@
+{
+  "id": "kappablancav2",
+  "displayName": "KappaBlancaV2",
+  "username": "KappaBlancaV2",
+  "profileUrl": "https://lichess.org/@/KappaBlancaV2",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kappablancav2\",\"username\":\"KappaBlancaV2\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1281,\"rd\":275,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1027,\"rd\":324,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1175,\"rd\":299,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629736728813,\"seenAt\":1629740121020,\"playTime\":{\"total\":881,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/KappaBlancaV2\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kappablancav2",
+    "username": "KappaBlancaV2",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 2,
+        "rating": 1281,
+        "rd": 275,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1027,
+        "rd": 324,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1175,
+        "rd": 299,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1629736728813,
+    "seenAt": 1629740121020,
+    "playTime": {
+      "total": 881,
+      "tv": 0
+    },
+    "language": "en-US",
+    "url": "https://lichess.org/@/KappaBlancaV2",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 2,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
