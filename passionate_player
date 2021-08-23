@@ -1,0 +1,154 @@
+{
+  "id": "passionate_player",
+  "displayName": "passionate_player",
+  "username": "passionate_player",
+  "profileUrl": "https://lichess.org/@/passionate_player",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"passionate_player\",\"username\":\"passionate_player\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":75,\"rating\":1585,\"rd\":76,\"prog\":12},\"antichess\":{\"games\":968,\"rating\":1797,\"rd\":55,\"prog\":-5},\"atomic\":{\"games\":1480,\"rating\":1731,\"rd\":67,\"prog\":8},\"racingKings\":{\"games\":74,\"rating\":1531,\"rd\":99,\"prog\":2},\"ultraBullet\":{\"games\":1318,\"rating\":1434,\"rd\":76,\"prog\":-31},\"blitz\":{\"games\":530,\"rating\":1801,\"rd\":45,\"prog\":15},\"kingOfTheHill\":{\"games\":51,\"rating\":1642,\"rd\":102,\"prog\":57},\"crazyhouse\":{\"games\":209,\"rating\":1610,\"rd\":68,\"prog\":-27},\"threeCheck\":{\"games\":242,\"rating\":1723,\"rd\":75,\"prog\":-18},\"bullet\":{\"games\":354,\"rating\":1669,\"rd\":62,\"prog\":-14},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1492,\"rd\":169,\"prog\":-9,\"prov\":true},\"puzzle\":{\"games\":540,\"rating\":1956,\"rd\":78,\"prog\":0},\"classical\":{\"games\":10,\"rating\":1736,\"rd\":169,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":360,\"rating\":1801,\"rd\":60,\"prog\":77},\"storm\":{\"runs\":3,\"score\":31},\"racer\":{\"runs\":3,\"score\":38}},\"createdAt\":1597556358983,\"profile\":{\"country\":\"IN\",\"location\":\"Maharashtra\",\"bio\":\"Dreaming ain't winning.\\r\\nWe fight for victory. Like the Allies did in WWII.\\r\\nhttp://imgur.com/gallery/DfWe4s6\",\"firstName\":\"Harshit\",\"lastName\":\"Patil\"},\"seenAt\":1629694673294,\"playTime\":{\"total\":885194,\"tv\":15498},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/passionate_player\",\"nbFollowing\":265,\"nbFollowers\":70,\"completionRate\":100,\"count\":{\"all\":6186,\"rated\":5687,\"ai\":10,\"draw\":118,\"drawH\":118,\"loss\":3200,\"lossH\":3193,\"win\":2868,\"winH\":2865,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "passionate_player",
+    "username": "passionate_player",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 75,
+        "rating": 1585,
+        "rd": 76,
+        "prog": 12
+      },
+      "antichess": {
+        "games": 968,
+        "rating": 1797,
+        "rd": 55,
+        "prog": -5
+      },
+      "atomic": {
+        "games": 1480,
+        "rating": 1731,
+        "rd": 67,
+        "prog": 8
+      },
+      "racingKings": {
+        "games": 74,
+        "rating": 1531,
+        "rd": 99,
+        "prog": 2
+      },
+      "ultraBullet": {
+        "games": 1318,
+        "rating": 1434,
+        "rd": 76,
+        "prog": -31
+      },
+      "blitz": {
+        "games": 530,
+        "rating": 1801,
+        "rd": 45,
+        "prog": 15
+      },
+      "kingOfTheHill": {
+        "games": 51,
+        "rating": 1642,
+        "rd": 102,
+        "prog": 57
+      },
+      "crazyhouse": {
+        "games": 209,
+        "rating": 1610,
+        "rd": 68,
+        "prog": -27
+      },
+      "threeCheck": {
+        "games": 242,
+        "rating": 1723,
+        "rd": 75,
+        "prog": -18
+      },
+      "bullet": {
+        "games": 354,
+        "rating": 1669,
+        "rd": 62,
+        "prog": -14
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 12,
+        "rating": 1492,
+        "rd": 169,
+        "prog": -9,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 540,
+        "rating": 1956,
+        "rd": 78,
+        "prog": 0
+      },
+      "classical": {
+        "games": 10,
+        "rating": 1736,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 360,
+        "rating": 1801,
+        "rd": 60,
+        "prog": 77
+      },
+      "storm": {
+        "runs": 3,
+        "score": 31
+      },
+      "racer": {
+        "runs": 3,
+        "score": 38
+      }
+    },
+    "createdAt": 1597556358983,
+    "profile": {
+      "country": "IN",
+      "location": "Maharashtra",
+      "bio": "Dreaming ain't winning.\r\nWe fight for victory. Like the Allies did in WWII.\r\nhttp://imgur.com/gallery/DfWe4s6",
+      "firstName": "Harshit",
+      "lastName": "Patil"
+    },
+    "seenAt": 1629694673294,
+    "playTime": {
+      "total": 885194,
+      "tv": 15498
+    },
+    "language": "en-GB",
+    "url": "https://lichess.org/@/passionate_player",
+    "nbFollowing": 265,
+    "nbFollowers": 70,
+    "completionRate": 100,
+    "count": {
+      "all": 6186,
+      "rated": 5687,
+      "ai": 10,
+      "draw": 118,
+      "drawH": 118,
+      "loss": 3200,
+      "lossH": 3193,
+      "win": 2868,
+      "winH": 2865,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
