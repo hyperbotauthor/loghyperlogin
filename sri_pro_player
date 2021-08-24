@@ -4,7 +4,7 @@
   "username": "SRI_Pro_Player",
   "profileUrl": "https://lichess.org/@/SRI_Pro_Player",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sri_pro_player\",\"username\":\"SRI_Pro_Player\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2174,\"rd\":160,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2477,\"rd\":235,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616599881094,\"profile\":{\"country\":\"LK\",\"bio\":\"@The-Charlie-Chaplin is my master\\r\\nI CANOT SLAY HIM!!\",\"firstName\":\"follow\",\"lastName\":\"me to followed\\uD83D\\uDE42\\uD83D\\uDE0C\"},\"seenAt\":1627366021267,\"playTime\":{\"total\":6244,\"tv\":890},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SRI_Pro_Player\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":24,\"rated\":14,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":5,\"win\":15,\"winH\":12,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sri_pro_player\",\"username\":\"SRI_Pro_Player\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2174,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2477,\"rd\":238,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1616599881094,\"profile\":{\"country\":\"LK\",\"bio\":\"@The-Charlie-Chaplin is my master\\r\\nI CANOT SLAY HIM!!\",\"firstName\":\"follow\",\"lastName\":\"me to followed\\uD83D\\uDE42\\uD83D\\uDE0C\"},\"seenAt\":1629785602424,\"playTime\":{\"total\":6244,\"tv\":890},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SRI_Pro_Player\",\"nbFollowing\":1,\"nbFollowers\":5,\"count\":{\"all\":24,\"rated\":14,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":5,\"win\":15,\"winH\":12,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sri_pro_player",
     "username": "SRI_Pro_Player",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 10,
         "rating": 2174,
-        "rd": 160,
+        "rd": 165,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 4,
         "rating": 2477,
-        "rd": 235,
+        "rd": 238,
         "prog": 0,
         "prov": true
       },
@@ -53,7 +53,7 @@
       "firstName": "follow",
       "lastName": "me to followed🙂😌"
     },
-    "seenAt": 1627366021267,
+    "seenAt": 1629785602424,
     "playTime": {
       "total": 6244,
       "tv": 890
@@ -61,8 +61,8 @@
     "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/SRI_Pro_Player",
-    "nbFollowing": 0,
-    "nbFollowers": 2,
+    "nbFollowing": 1,
+    "nbFollowers": 5,
     "count": {
       "all": 24,
       "rated": 14,
