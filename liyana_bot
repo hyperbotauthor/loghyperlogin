@@ -1,0 +1,81 @@
+{
+  "id": "liyana_bot",
+  "displayName": "liyana_bot",
+  "username": "liyana_bot",
+  "profileUrl": "https://lichess.org/@/liyana_bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"liyana_bot\",\"username\":\"liyana_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1936,\"rd\":414,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1915,\"rd\":308,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2015,\"rd\":214,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2074,\"rd\":405,\"prog\":0,\"prov\":true}},\"createdAt\":1629706244023,\"seenAt\":1629793219915,\"playTime\":{\"total\":1855,\"tv\":135},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/liyana_bot\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":33,\"rated\":12,\"ai\":6,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":5,\"win\":25,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "liyana_bot",
+    "username": "liyana_bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1936,
+        "rd": 414,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 1915,
+        "rd": 308,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 4,
+        "rating": 2015,
+        "rd": 214,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2074,
+        "rd": 405,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1629706244023,
+    "seenAt": 1629793219915,
+    "playTime": {
+      "total": 1855,
+      "tv": 135
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/liyana_bot",
+    "nbFollowing": 0,
+    "nbFollowers": 1,
+    "count": {
+      "all": 33,
+      "rated": 12,
+      "ai": 6,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 7,
+      "lossH": 5,
+      "win": 25,
+      "winH": 21,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
