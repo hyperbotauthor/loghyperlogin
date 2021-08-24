@@ -1,0 +1,106 @@
+{
+  "id": "hikaruhakris",
+  "displayName": "HikaruHakris",
+  "username": "HikaruHakris",
+  "profileUrl": "https://lichess.org/@/HikaruHakris",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hikaruhakris\",\"username\":\"HikaruHakris\",\"online\":true,\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1679,\"rd\":364,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1406,\"rd\":365,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":2205,\"rd\":279,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1424,\"rd\":166,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1898,\"rd\":121,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629822755234,\"profile\":{\"country\":\"GB\",\"bio\":\"Self Made Bot started playing from today Not playing much bullet !!\"},\"seenAt\":1629832363995,\"playTime\":{\"total\":2187,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HikaruHakris\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":21,\"rated\":20,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":10,\"win\":8,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hikaruhakris",
+    "username": "HikaruHakris",
+    "online": true,
+    "perfs": {
+      "atomic": {
+        "games": 2,
+        "rating": 1679,
+        "rd": 364,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1406,
+        "rd": 365,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 2205,
+        "rd": 279,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1424,
+        "rd": 166,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 10,
+        "rating": 1898,
+        "rd": 121,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1629822755234,
+    "profile": {
+      "country": "GB",
+      "bio": "Self Made Bot started playing from today Not playing much bullet !!"
+    },
+    "seenAt": 1629832363995,
+    "playTime": {
+      "total": 2187,
+      "tv": 0
+    },
+    "language": "en-US",
+    "title": "BOT",
+    "url": "https://lichess.org/@/HikaruHakris",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 21,
+      "rated": 20,
+      "ai": 1,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 10,
+      "lossH": 10,
+      "win": 8,
+      "winH": 7,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
