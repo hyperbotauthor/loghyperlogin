@@ -4,17 +4,17 @@
   "username": "KuBalDa",
   "profileUrl": "https://lichess.org/@/KuBalDa",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kubalda\",\"username\":\"KuBalDa\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2450,\"rd\":148,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629285347625,\"seenAt\":1629791805930,\"playTime\":{\"total\":1070,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KuBalDa\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":0,\"lossH\":0,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kubalda\",\"username\":\"KuBalDa\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2497,\"rd\":134,\"prog\":11,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629285347625,\"seenAt\":1629793320357,\"playTime\":{\"total\":2136,\"tv\":0},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KuBalDa\",\"nbFollowing\":0,\"nbFollowers\":2,\"count\":{\"all\":12,\"rated\":12,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":0,\"lossH\":0,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kubalda",
     "username": "KuBalDa",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 9,
-        "rating": 2450,
-        "rd": 148,
-        "prog": 0,
+        "games": 12,
+        "rating": 2497,
+        "rd": 134,
+        "prog": 11,
         "prov": true
       },
       "bullet": {
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1629285347625,
-    "seenAt": 1629791805930,
+    "seenAt": 1629793320357,
     "playTime": {
-      "total": 1070,
+      "total": 2136,
       "tv": 0
     },
     "language": "ru-RU",
@@ -58,15 +58,15 @@
     "nbFollowing": 0,
     "nbFollowers": 2,
     "count": {
-      "all": 9,
-      "rated": 9,
+      "all": 12,
+      "rated": 12,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
       "loss": 0,
       "lossH": 0,
-      "win": 7,
-      "winH": 7,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
