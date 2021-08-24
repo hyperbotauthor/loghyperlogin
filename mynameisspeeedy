@@ -4,7 +4,7 @@
   "username": "MyNameIsSpeeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":34,\"rating\":2407,\"rd\":89,\"prog\":64},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":175,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":155,\"rating\":2394,\"rd\":54,\"prog\":-54},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":138,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2407,\"rd\":139,\"prog\":5,\"prov\":true}},\"createdAt\":1625684055061,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1628924775053,\"playTime\":{\"total\":125052,\"tv\":15074},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/Ilp2p7jq/black\",\"nbFollowing\":150,\"nbFollowers\":21,\"count\":{\"all\":555,\"rated\":218,\"ai\":253,\"draw\":29,\"drawH\":21,\"loss\":189,\"lossH\":72,\"win\":337,\"winH\":209,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":34,\"rating\":2407,\"rd\":92,\"prog\":64},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":177,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":163,\"rating\":2339,\"rd\":56,\"prog\":-67},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":140,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2407,\"rd\":141,\"prog\":5,\"prov\":true}},\"createdAt\":1625684055061,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1629830254577,\"playTime\":{\"total\":130211,\"tv\":16565},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"nbFollowing\":150,\"nbFollowers\":24,\"count\":{\"all\":614,\"rated\":226,\"ai\":304,\"draw\":30,\"drawH\":21,\"loss\":224,\"lossH\":78,\"win\":360,\"winH\":211,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeeedy",
     "username": "MyNameIsSpeeedy",
@@ -13,21 +13,21 @@
       "blitz": {
         "games": 34,
         "rating": 2407,
-        "rd": 89,
+        "rd": 92,
         "prog": 64
       },
       "threeCheck": {
         "games": 8,
         "rating": 1147,
-        "rd": 175,
+        "rd": 177,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 155,
-        "rating": 2394,
-        "rd": 54,
-        "prog": -54
+        "games": 163,
+        "rating": 2339,
+        "rd": 56,
+        "prog": -67
       },
       "correspondence": {
         "games": 0,
@@ -39,14 +39,14 @@
       "classical": {
         "games": 8,
         "rating": 2223,
-        "rd": 138,
+        "rd": 140,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 12,
         "rating": 2407,
-        "rd": 139,
+        "rd": 141,
         "prog": 5,
         "prov": true
       }
@@ -57,29 +57,28 @@
       "location": "Riga",
       "bio": "Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\r\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!"
     },
-    "seenAt": 1628924775053,
+    "seenAt": 1629830254577,
     "playTime": {
-      "total": 125052,
-      "tv": 15074
+      "total": 130211,
+      "tv": 16565
     },
     "language": "de-DE",
     "title": "BOT",
     "url": "https://lichess.org/@/MyNameIsSpeeedy",
-    "playing": "https://lichess.org/Ilp2p7jq/black",
     "nbFollowing": 150,
-    "nbFollowers": 21,
+    "nbFollowers": 24,
     "count": {
-      "all": 555,
-      "rated": 218,
-      "ai": 253,
-      "draw": 29,
+      "all": 614,
+      "rated": 226,
+      "ai": 304,
+      "draw": 30,
       "drawH": 21,
-      "loss": 189,
-      "lossH": 72,
-      "win": 337,
-      "winH": 209,
+      "loss": 224,
+      "lossH": 78,
+      "win": 360,
+      "winH": 211,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
