@@ -4,7 +4,7 @@
   "username": "MyNameIsSpeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeedy\",\"username\":\"MyNameIsSpeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2188,\"rd\":138,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1959,\"rd\":190,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":1725,\"rd\":116,\"prog\":4,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2100,\"rd\":207,\"prog\":0,\"prov\":true}},\"createdAt\":1628934719750,\"seenAt\":1629786655546,\"playTime\":{\"total\":16881,\"tv\":0},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeedy\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":80,\"rated\":40,\"ai\":31,\"draw\":3,\"drawH\":3,\"loss\":25,\"lossH\":18,\"win\":52,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeedy\",\"username\":\"MyNameIsSpeedy\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2188,\"rd\":138,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1959,\"rd\":190,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":1725,\"rd\":116,\"prog\":4,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2100,\"rd\":207,\"prog\":0,\"prov\":true}},\"createdAt\":1628934719750,\"seenAt\":1629786655546,\"playTime\":{\"total\":16881,\"tv\":0},\"language\":\"de-DE\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeedy\",\"playing\":\"https://lichess.org/eXpuCE8x/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":80,\"rated\":40,\"ai\":31,\"draw\":3,\"drawH\":3,\"loss\":25,\"lossH\":18,\"win\":52,\"winH\":28,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeedy",
     "username": "MyNameIsSpeedy",
@@ -62,6 +62,7 @@
     "language": "de-DE",
     "title": "BOT",
     "url": "https://lichess.org/@/MyNameIsSpeedy",
+    "playing": "https://lichess.org/eXpuCE8x/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
@@ -75,7 +76,7 @@
       "win": 52,
       "winH": 28,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
