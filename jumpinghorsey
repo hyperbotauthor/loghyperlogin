@@ -1,0 +1,112 @@
+{
+  "id": "jumpinghorsey",
+  "displayName": "JumpingHorsey",
+  "username": "JumpingHorsey",
+  "profileUrl": "https://lichess.org/@/JumpingHorsey",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jumpinghorsey\",\"username\":\"JumpingHorsey\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1536,\"rd\":454,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":31,\"rating\":1916,\"rd\":99,\"prog\":0},\"atomic\":{\"games\":17,\"rating\":1614,\"rd\":134,\"prog\":-59,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":11,\"rating\":2119,\"rd\":173,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":1,\"score\":16},\"racer\":{\"runs\":3,\"score\":21},\"streak\":{\"runs\":2,\"score\":24}},\"createdAt\":1623848577434,\"tosViolation\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi guys, welcome to my profile. Check out my studies:\\r\\nhttps://lichess.org/study/by/JumpingHorsey\",\"firstName\":\"Still trying to\",\"lastName\":\"know why ⤴️\"},\"seenAt\":1629902196376,\"playTime\":{\"total\":17492,\"tv\":0},\"url\":\"https://lichess.org/@/JumpingHorsey\",\"nbFollowing\":60,\"nbFollowers\":40,\"completionRate\":53,\"count\":{\"all\":78,\"rated\":39,\"ai\":6,\"draw\":2,\"drawH\":2,\"loss\":20,\"lossH\":18,\"win\":56,\"winH\":52,\"bookmark\":7,\"playing\":0,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jumpinghorsey",
+    "username": "JumpingHorsey",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1536,
+        "rd": 454,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 31,
+        "rating": 1916,
+        "rd": 99,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 17,
+        "rating": 1614,
+        "rd": 134,
+        "prog": -59,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 11,
+        "rating": 2119,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "storm": {
+        "runs": 1,
+        "score": 16
+      },
+      "racer": {
+        "runs": 3,
+        "score": 21
+      },
+      "streak": {
+        "runs": 2,
+        "score": 24
+      }
+    },
+    "createdAt": 1623848577434,
+    "tosViolation": true,
+    "profile": {
+      "country": "_earth",
+      "bio": "Hi guys, welcome to my profile. Check out my studies:\r\nhttps://lichess.org/study/by/JumpingHorsey",
+      "firstName": "Still trying to",
+      "lastName": "know why ⤴️"
+    },
+    "seenAt": 1629902196376,
+    "playTime": {
+      "total": 17492,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/JumpingHorsey",
+    "nbFollowing": 60,
+    "nbFollowers": 40,
+    "completionRate": 53,
+    "count": {
+      "all": 78,
+      "rated": 39,
+      "ai": 6,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 20,
+      "lossH": 18,
+      "win": 56,
+      "winH": 52,
+      "bookmark": 7,
+      "playing": 0,
+      "import": 2,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
