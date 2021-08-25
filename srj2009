@@ -1,0 +1,87 @@
+{
+  "id": "srj2009",
+  "displayName": "SRJ2009",
+  "username": "SRJ2009",
+  "profileUrl": "https://lichess.org/@/SRJ2009",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"srj2009\",\"username\":\"SRJ2009\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":41,\"rating\":1193,\"rd\":140,\"prog\":-75,\"prov\":true},\"puzzle\":{\"games\":3,\"rating\":1582,\"rd\":215,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":1133,\"rd\":147,\"prog\":39,\"prov\":true}},\"createdAt\":1572951363046,\"seenAt\":1629904324024,\"playTime\":{\"total\":16135,\"tv\":0},\"url\":\"https://lichess.org/@/SRJ2009\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":73,\"count\":{\"all\":74,\"rated\":62,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":55,\"lossH\":55,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "srj2009",
+    "username": "SRJ2009",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 41,
+        "rating": 1193,
+        "rd": 140,
+        "prog": -75,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 3,
+        "rating": 1582,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 21,
+        "rating": 1133,
+        "rd": 147,
+        "prog": 39,
+        "prov": true
+      }
+    },
+    "createdAt": 1572951363046,
+    "seenAt": 1629904324024,
+    "playTime": {
+      "total": 16135,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/SRJ2009",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 73,
+    "count": {
+      "all": 74,
+      "rated": 62,
+      "ai": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 55,
+      "lossH": 55,
+      "win": 12,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
