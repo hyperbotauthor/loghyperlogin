@@ -1,0 +1,104 @@
+{
+  "id": "differntchess-bot",
+  "displayName": "DifferntChess-BOT",
+  "username": "DifferntChess-BOT",
+  "profileUrl": "https://lichess.org/@/DifferntChess-BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"differntchess-bot\",\"username\":\"DifferntChess-BOT\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1654,\"rd\":328,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1619,\"rd\":279,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":2062,\"rd\":370,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1482,\"rd\":474,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1961,\"rd\":330,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":2008,\"rd\":206,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":844,\"rd\":406,\"prog\":0,\"prov\":true}},\"createdAt\":1628347015092,\"profile\":{\"bio\":\"Hi! Im the standard version of https://lichess.org/@/Powercoderbot\\r\\nI m equal strenght to it but different engines and faster\\r\\nI dont play variant except chess960 for other variants go to my other bot\"},\"seenAt\":1629989356908,\"playTime\":{\"total\":11497,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/DifferntChess-BOT\",\"nbFollowing\":16,\"nbFollowers\":14,\"count\":{\"all\":32,\"rated\":18,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":13,\"lossH\":13,\"win\":13,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "differntchess-bot",
+    "username": "DifferntChess-BOT",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 4,
+        "rating": 1654,
+        "rd": 328,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 4,
+        "rating": 1619,
+        "rd": 279,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 2062,
+        "rd": 370,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1482,
+        "rd": 474,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1961,
+        "rd": 330,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 2008,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 844,
+        "rd": 406,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1628347015092,
+    "profile": {
+      "bio": "Hi! Im the standard version of https://lichess.org/@/Powercoderbot\r\nI m equal strenght to it but different engines and faster\r\nI dont play variant except chess960 for other variants go to my other bot"
+    },
+    "seenAt": 1629989356908,
+    "playTime": {
+      "total": 11497,
+      "tv": 0
+    },
+    "title": "BOT",
+    "url": "https://lichess.org/@/DifferntChess-BOT",
+    "nbFollowing": 16,
+    "nbFollowers": 14,
+    "count": {
+      "all": 32,
+      "rated": 18,
+      "ai": 1,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 13,
+      "lossH": 13,
+      "win": 13,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
