@@ -4,7 +4,7 @@
   "username": "BishoP-BOT",
   "profileUrl": "https://lichess.org/@/BishoP-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bishop-bot\",\"username\":\"BishoP-BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":9,\"rating\":1727,\"rd\":147,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":62,\"rating\":2255,\"rd\":75,\"prog\":0},\"antichess\":{\"games\":2,\"rating\":1475,\"rd\":303,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":182,\"rating\":2163,\"rd\":48,\"prog\":28},\"bullet\":{\"games\":226,\"rating\":2265,\"rd\":49,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":22,\"rating\":2706,\"rd\":137,\"prog\":63,\"prov\":true},\"rapid\":{\"games\":59,\"rating\":2819,\"rd\":92,\"prog\":18}},\"createdAt\":1625220040444,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/6rkTZPG.png\\r\\n@Illegal_no-1 is my owner, someone hacked my owners ID :(\\r\\n\\r\\n  @BishoP-BOT plays standard and atomic.\\r\\n\\r\\n{ System: apple macbook pro i9 ( 9th gen ) WHO WANT TO PLAY WITH ME PLEASE SAY IN THE CHAT BECAUSE MY BOT WON'T ACCEPT CHLLENGE\"},\"seenAt\":1629863480946,\"playTime\":{\"total\":128549,\"tv\":30286},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BishoP-BOT\",\"nbFollowing\":10,\"nbFollowers\":24,\"count\":{\"all\":842,\"rated\":580,\"ai\":29,\"draw\":51,\"drawH\":51,\"loss\":147,\"lossH\":129,\"win\":644,\"winH\":633,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bishop-bot\",\"username\":\"BishoP-BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":9,\"rating\":1727,\"rd\":147,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":62,\"rating\":2255,\"rd\":75,\"prog\":0},\"antichess\":{\"games\":2,\"rating\":1475,\"rd\":303,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":182,\"rating\":2163,\"rd\":49,\"prog\":28},\"bullet\":{\"games\":226,\"rating\":2265,\"rd\":50,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":22,\"rating\":2706,\"rd\":138,\"prog\":63,\"prov\":true},\"rapid\":{\"games\":59,\"rating\":2819,\"rd\":92,\"prog\":18}},\"createdAt\":1625220040444,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/6rkTZPG.png\\r\\n@Illegal_no-1 is my owner, someone hacked my owners ID :(\\r\\n\\r\\n  @BishoP-BOT plays standard and atomic.\\r\\n\\r\\n{ System: apple macbook pro i9 ( 9th gen ) WHO WANT TO PLAY WITH ME PLEASE SAY IN THE CHAT BECAUSE MY BOT WON'T ACCEPT CHLLENGE\"},\"seenAt\":1629954992104,\"playTime\":{\"total\":128549,\"tv\":30286},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BishoP-BOT\",\"nbFollowing\":10,\"nbFollowers\":25,\"count\":{\"all\":842,\"rated\":580,\"ai\":29,\"draw\":51,\"drawH\":51,\"loss\":147,\"lossH\":129,\"win\":644,\"winH\":633,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bishop-bot",
     "username": "BishoP-BOT",
@@ -33,13 +33,13 @@
       "atomic": {
         "games": 182,
         "rating": 2163,
-        "rd": 48,
+        "rd": 49,
         "prog": 28
       },
       "bullet": {
         "games": 226,
         "rating": 2265,
-        "rd": 49,
+        "rd": 50,
         "prog": -13
       },
       "correspondence": {
@@ -52,7 +52,7 @@
       "classical": {
         "games": 22,
         "rating": 2706,
-        "rd": 137,
+        "rd": 138,
         "prog": 63,
         "prov": true
       },
@@ -68,16 +68,15 @@
       "country": "IN",
       "bio": "https://i.imgur.com/6rkTZPG.png\r\n@Illegal_no-1 is my owner, someone hacked my owners ID :(\r\n\r\n  @BishoP-BOT plays standard and atomic.\r\n\r\n{ System: apple macbook pro i9 ( 9th gen ) WHO WANT TO PLAY WITH ME PLEASE SAY IN THE CHAT BECAUSE MY BOT WON'T ACCEPT CHLLENGE"
     },
-    "seenAt": 1629863480946,
+    "seenAt": 1629954992104,
     "playTime": {
       "total": 128549,
       "tv": 30286
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BishoP-BOT",
     "nbFollowing": 10,
-    "nbFollowers": 24,
+    "nbFollowers": 25,
     "count": {
       "all": 842,
       "rated": 580,
