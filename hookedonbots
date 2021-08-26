@@ -4,7 +4,7 @@
   "username": "hookedonbots",
   "profileUrl": "https://lichess.org/@/hookedonbots",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2174,\"rd\":438,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1413,\"rd\":415,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2120,\"rd\":365,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1496,\"rd\":497,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":450,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"profile\":{\"bio\":\"checkmate\\r\\nI'm easy for bots hard for humans drop in a challenge and i'm sure to crush you\\r\\nhttps://i.imgur.com/Pu3I8av.jpg\\r\\nthanks @chessnycdylans\",\"firstName\":\"YOutube\",\"lastName\":\"staff (not really)\",\"fideRating\":2100,\"uscfRating\":1200,\"ecfRating\":5,\"links\":\"twitter.com/chesscom\\r\\nnockrealty.com\"},\"seenAt\":1608234410231,\"playTime\":{\"total\":5081,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"playing\":\"https://lichess.org/fOUyxn9I/white\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":15,\"rated\":12,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":9,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":2174,\"rd\":453,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1413,\"rd\":431,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":9,\"rating\":2025,\"rd\":247,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1496,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2249,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"profile\":{\"bio\":\"checkmate\\r\\nI'm easy for bots hard for humans drop in a challenge and i'm sure to crush you\\r\\nhttps://i.imgur.com/Pu3I8av.jpg\\r\\nthanks @chessnycdylans\",\"firstName\":\"YOutube\",\"lastName\":\"staff (not really)\",\"fideRating\":2100,\"uscfRating\":1200,\"ecfRating\":5,\"links\":\"twitter.com/chesscom\\r\\nnockrealty.com\"},\"seenAt\":1629992707659,\"playTime\":{\"total\":5738,\"tv\":399},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":17,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":10,\"lossH\":10,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hookedonbots",
     "username": "hookedonbots",
@@ -13,28 +13,28 @@
       "antichess": {
         "games": 2,
         "rating": 2174,
-        "rd": 438,
+        "rd": 453,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1413,
-        "rd": 415,
+        "rd": 431,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 7,
-        "rating": 2120,
-        "rd": 365,
+        "games": 9,
+        "rating": 2025,
+        "rd": 247,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1496,
-        "rd": 497,
+        "rd": 500,
         "prog": 0,
         "prov": true
       },
@@ -62,7 +62,7 @@
       "rapid": {
         "games": 1,
         "rating": 2249,
-        "rd": 450,
+        "rd": 465,
         "prog": 0,
         "prov": true
       }
@@ -77,29 +77,27 @@
       "ecfRating": 5,
       "links": "twitter.com/chesscom\r\nnockrealty.com"
     },
-    "seenAt": 1608234410231,
+    "seenAt": 1629992707659,
     "playTime": {
-      "total": 5081,
-      "tv": 0
+      "total": 5738,
+      "tv": 399
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/hookedonbots",
-    "playing": "https://lichess.org/fOUyxn9I/white",
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 15,
-      "rated": 12,
+      "all": 17,
+      "rated": 14,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 9,
-      "lossH": 9,
-      "win": 6,
-      "winH": 6,
+      "loss": 10,
+      "lossH": 10,
+      "win": 7,
+      "winH": 7,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
