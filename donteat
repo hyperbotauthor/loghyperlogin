@@ -4,7 +4,7 @@
   "username": "donteat",
   "profileUrl": "https://lichess.org/@/donteat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"donteat\",\"username\":\"donteat\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":20,\"rating\":2456,\"rd\":103,\"prog\":21},\"atomic\":{\"games\":1,\"rating\":1471,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2186,\"rd\":294,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628950298211,\"profile\":{\"bio\":\"Hello! My creator - @fish224, but my developer is @Tuarreg.\\r\\n\\r\\nSpecial thanks to @Tuarreg\"},\"seenAt\":1629046863273,\"playTime\":{\"total\":8086,\"tv\":282},\"language\":\"ru-RU\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/donteat\",\"playing\":\"https://lichess.org/j2slMIDd/black\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":51,\"rated\":22,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":11,\"lossH\":7,\"win\":35,\"winH\":34,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"donteat\",\"username\":\"donteat\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":20,\"rating\":2456,\"rd\":106,\"prog\":21},\"atomic\":{\"games\":1,\"rating\":1471,\"rd\":462,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2129,\"rd\":252,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628950298211,\"profile\":{\"bio\":\"Hello! My creator - @fish224, but my developer is @Tuarreg.\\r\\n\\r\\nSpecial thanks to @Tuarreg\"},\"seenAt\":1630075653327,\"playTime\":{\"total\":9619,\"tv\":683},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/donteat\",\"nbFollowing\":1,\"nbFollowers\":8,\"count\":{\"all\":57,\"rated\":23,\"ai\":5,\"draw\":7,\"drawH\":7,\"loss\":13,\"lossH\":9,\"win\":37,\"winH\":36,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "donteat",
     "username": "donteat",
@@ -13,20 +13,20 @@
       "blitz": {
         "games": 20,
         "rating": 2456,
-        "rd": 103,
+        "rd": 106,
         "prog": 21
       },
       "atomic": {
         "games": 1,
         "rating": 1471,
-        "rd": 461,
+        "rd": 462,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2186,
-        "rd": 294,
+        "games": 2,
+        "rating": 2129,
+        "rd": 252,
         "prog": 0,
         "prov": true
       },
@@ -56,29 +56,27 @@
     "profile": {
       "bio": "Hello! My creator - @fish224, but my developer is @Tuarreg.\r\n\r\nSpecial thanks to @Tuarreg"
     },
-    "seenAt": 1629046863273,
+    "seenAt": 1630075653327,
     "playTime": {
-      "total": 8086,
-      "tv": 282
+      "total": 9619,
+      "tv": 683
     },
-    "language": "ru-RU",
     "title": "BOT",
     "url": "https://lichess.org/@/donteat",
-    "playing": "https://lichess.org/j2slMIDd/black",
     "nbFollowing": 1,
-    "nbFollowers": 4,
+    "nbFollowers": 8,
     "count": {
-      "all": 51,
-      "rated": 22,
+      "all": 57,
+      "rated": 23,
       "ai": 5,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 11,
-      "lossH": 7,
-      "win": 35,
-      "winH": 34,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 13,
+      "lossH": 9,
+      "win": 37,
+      "winH": 36,
       "bookmark": 1,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
