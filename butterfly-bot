@@ -4,25 +4,38 @@
   "username": "butterfly-bot",
   "profileUrl": "https://lichess.org/@/butterfly-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"butterfly-bot\",\"username\":\"butterfly-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628245041477,\"seenAt\":1628245043503,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/butterfly-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"butterfly-bot\",\"username\":\"butterfly-bot\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1291,\"rd\":284,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":2430,\"rd\":219,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":48,\"rating\":2273,\"rd\":157,\"prog\":-126,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":2317,\"rd\":82,\"prog\":29},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2652,\"rd\":179,\"prog\":0,\"prov\":true}},\"createdAt\":1628245041477,\"profile\":{\"country\":\"IN\",\"bio\":\"o=[]::::::::> <::::::::[]=o o=[]::::::::> <::::::::[]=o the person who are challenging me say your username in private chat \\r\\nhttps://i.imgur.com/2EeaQWM.jpg\",\"firstName\":\"priya\",\"fideRating\":3000},\"seenAt\":1630087936856,\"playTime\":{\"total\":22934,\"tv\":2888},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/butterfly-bot\",\"nbFollowing\":5,\"nbFollowers\":3,\"count\":{\"all\":175,\"rated\":115,\"ai\":11,\"draw\":17,\"drawH\":12,\"loss\":33,\"lossH\":27,\"win\":125,\"winH\":125,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "butterfly-bot",
     "username": "butterfly-bot",
     "online": true,
     "perfs": {
-      "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+      "chess960": {
+        "games": 2,
+        "rating": 1291,
+        "rd": 284,
         "prog": 0,
         "prov": true
       },
-      "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+      "blitz": {
+        "games": 7,
+        "rating": 2430,
+        "rd": 219,
         "prog": 0,
         "prov": true
+      },
+      "atomic": {
+        "games": 48,
+        "rating": 2273,
+        "rd": 157,
+        "prog": -126,
+        "prov": true
+      },
+      "bullet": {
+        "games": 49,
+        "rating": 2317,
+        "rd": 82,
+        "prog": 29
       },
       "correspondence": {
         "games": 0,
@@ -39,33 +52,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 2652,
+        "rd": 179,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1628245041477,
-    "seenAt": 1628245043503,
-    "playTime": {
-      "total": 0,
-      "tv": 0
+    "profile": {
+      "country": "IN",
+      "bio": "o=[]::::::::> <::::::::[]=o o=[]::::::::> <::::::::[]=o the person who are challenging me say your username in private chat \r\nhttps://i.imgur.com/2EeaQWM.jpg",
+      "firstName": "priya",
+      "fideRating": 3000
     },
-    "language": "en-US",
+    "seenAt": 1630087936856,
+    "playTime": {
+      "total": 22934,
+      "tv": 2888
+    },
+    "title": "BOT",
     "url": "https://lichess.org/@/butterfly-bot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 5,
+    "nbFollowers": 3,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 175,
+      "rated": 115,
+      "ai": 11,
+      "draw": 17,
+      "drawH": 12,
+      "loss": 33,
+      "lossH": 27,
+      "win": 125,
+      "winH": 125,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
