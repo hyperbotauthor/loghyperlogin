@@ -4,7 +4,7 @@
   "username": "MyNameIsSpeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeedy\",\"username\":\"MyNameIsSpeedy\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1773,\"rd\":286,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1108,\"rd\":293,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":1935,\"rd\":182,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2131,\"rd\":111,\"prog\":-78,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1226,\"rd\":380,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":12,\"rating\":1459,\"rd\":236,\"prog\":215,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":1789,\"rd\":70,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1698,\"rd\":293,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":40,\"rating\":2322,\"rd\":75,\"prog\":-79}},\"createdAt\":1628934719750,\"profile\":{\"country\":\"LV\",\"bio\":\"please standard,correspondence,atomic or Racing Kings only or BLOCK and REPORT!!!\"},\"seenAt\":1630140390194,\"playTime\":{\"total\":43551,\"tv\":4214},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeedy\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":225,\"rated\":125,\"ai\":68,\"draw\":6,\"drawH\":5,\"loss\":87,\"lossH\":62,\"win\":132,\"winH\":90,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeedy\",\"username\":\"MyNameIsSpeedy\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1773,\"rd\":286,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1108,\"rd\":293,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":1935,\"rd\":182,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":15,\"rating\":2159,\"rd\":106,\"prog\":-51},\"kingOfTheHill\":{\"games\":1,\"rating\":1226,\"rd\":380,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":12,\"rating\":1459,\"rd\":236,\"prog\":215,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":1789,\"rd\":70,\"prog\":-26},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1698,\"rd\":293,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":41,\"rating\":2332,\"rd\":74,\"prog\":-77}},\"createdAt\":1628934719750,\"profile\":{\"country\":\"LV\",\"bio\":\"please standard,correspondence,atomic or Racing Kings only or BLOCK and REPORT!!!\"},\"seenAt\":1630152890790,\"playTime\":{\"total\":45246,\"tv\":4890},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/MyNameIsSpeedy\",\"playing\":\"https://lichess.org/Jx5aXV96/white\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":237,\"rated\":127,\"ai\":70,\"draw\":6,\"drawH\":5,\"loss\":88,\"lossH\":62,\"win\":143,\"winH\":100,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeedy",
     "username": "MyNameIsSpeedy",
@@ -32,11 +32,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 14,
-        "rating": 2131,
-        "rd": 111,
-        "prog": -78,
-        "prov": true
+        "games": 15,
+        "rating": 2159,
+        "rd": 106,
+        "prog": -51
       },
       "kingOfTheHill": {
         "games": 1,
@@ -73,10 +72,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 40,
-        "rating": 2322,
-        "rd": 75,
-        "prog": -79
+        "games": 41,
+        "rating": 2332,
+        "rd": 74,
+        "prog": -77
       }
     },
     "createdAt": 1628934719750,
@@ -84,27 +83,28 @@
       "country": "LV",
       "bio": "please standard,correspondence,atomic or Racing Kings only or BLOCK and REPORT!!!"
     },
-    "seenAt": 1630140390194,
+    "seenAt": 1630152890790,
     "playTime": {
-      "total": 43551,
-      "tv": 4214
+      "total": 45246,
+      "tv": 4890
     },
     "title": "BOT",
     "url": "https://lichess.org/@/MyNameIsSpeedy",
+    "playing": "https://lichess.org/Jx5aXV96/white",
     "nbFollowing": 0,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
-      "all": 225,
-      "rated": 125,
-      "ai": 68,
+      "all": 237,
+      "rated": 127,
+      "ai": 70,
       "draw": 6,
       "drawH": 5,
-      "loss": 87,
+      "loss": 88,
       "lossH": 62,
-      "win": 132,
-      "winH": 90,
+      "win": 143,
+      "winH": 100,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
