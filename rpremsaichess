@@ -1,0 +1,94 @@
+{
+  "id": "rpremsaichess",
+  "displayName": "RPREMSAICHESS",
+  "username": "RPREMSAICHESS",
+  "profileUrl": "https://lichess.org/@/RPREMSAICHESS",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rpremsaichess\",\"username\":\"RPREMSAICHESS\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1705,\"rd\":322,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1500,\"rd\":399,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":34,\"rating\":1937,\"rd\":91,\"prog\":-18},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":1799,\"rd\":289,\"prog\":0,\"prov\":true}},\"createdAt\":1625829676130,\"profile\":{},\"seenAt\":1630151200863,\"playTime\":{\"total\":5281,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RPREMSAICHESS\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":54,\"rated\":44,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":32,\"lossH\":31,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rpremsaichess",
+    "username": "RPREMSAICHESS",
+    "online": true,
+    "perfs": {
+      "antichess": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1705,
+        "rd": 322,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 399,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 34,
+        "rating": 1937,
+        "rd": 91,
+        "prog": -18
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 1799,
+        "rd": 289,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1625829676130,
+    "profile": {},
+    "seenAt": 1630151200863,
+    "playTime": {
+      "total": 5281,
+      "tv": 0
+    },
+    "title": "BOT",
+    "url": "https://lichess.org/@/RPREMSAICHESS",
+    "nbFollowing": 4,
+    "nbFollowers": 1,
+    "count": {
+      "all": 54,
+      "rated": 44,
+      "ai": 1,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 32,
+      "lossH": 31,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
