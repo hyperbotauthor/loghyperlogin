@@ -4,7 +4,7 @@
   "username": "passionate_bot",
   "profileUrl": "https://lichess.org/@/passionate_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"passionate_bot\",\"username\":\"passionate_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629695434739,\"profile\":{\"country\":\"_rainbow\",\"location\":\"Lichess\",\"bio\":\"@passionate_player 's bot.\"},\"seenAt\":1629702559788,\"playTime\":{\"total\":56,\"tv\":0},\"language\":\"en-GB\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/passionate_bot\",\"nbFollowing\":0,\"nbFollowers\":3,\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"passionate_bot\",\"username\":\"passionate_bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2011,\"rd\":281,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2099,\"rd\":398,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2298,\"rd\":227,\"prog\":0,\"prov\":true}},\"createdAt\":1629695434739,\"profile\":{\"country\":\"_rainbow\",\"location\":\"Lichess\",\"bio\":\"@passionate_player 's bot.\"},\"seenAt\":1630215103406,\"playTime\":{\"total\":1669,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/passionate_bot\",\"nbFollowing\":0,\"nbFollowers\":4,\"count\":{\"all\":13,\"rated\":9,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":3,\"lossH\":3,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "passionate_bot",
     "username": "passionate_bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 5,
+        "rating": 2011,
+        "rd": 281,
         "prog": 0,
         "prov": true
       },
@@ -32,16 +32,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2099,
+        "rd": 398,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 2298,
+        "rd": 227,
         "prog": 0,
         "prov": true
       }
@@ -52,26 +52,25 @@
       "location": "Lichess",
       "bio": "@passionate_player 's bot."
     },
-    "seenAt": 1629702559788,
+    "seenAt": 1630215103406,
     "playTime": {
-      "total": 56,
+      "total": 1669,
       "tv": 0
     },
-    "language": "en-GB",
     "title": "BOT",
     "url": "https://lichess.org/@/passionate_bot",
     "nbFollowing": 0,
-    "nbFollowers": 3,
+    "nbFollowers": 4,
     "count": {
-      "all": 1,
-      "rated": 0,
+      "all": 13,
+      "rated": 9,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 1,
-      "winH": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 3,
+      "lossH": 3,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
