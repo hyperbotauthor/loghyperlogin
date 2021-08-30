@@ -4,7 +4,7 @@
   "username": "doruuk",
   "profileUrl": "https://lichess.org/@/doruuk",
   "provider": "lichess",
-  "_raw": "{\"id\":\"doruuk\",\"username\":\"doruuk\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1102,\"rd\":329,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1781,\"rd\":232,\"prog\":0,\"prov\":true}},\"createdAt\":1630142816057,\"seenAt\":1630326075686,\"playTime\":{\"total\":4441,\"tv\":0},\"url\":\"https://lichess.org/@/doruuk\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":7,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"doruuk\",\"username\":\"doruuk\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1102,\"rd\":329,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1781,\"rd\":232,\"prog\":0,\"prov\":true}},\"createdAt\":1630142816057,\"seenAt\":1630326818192,\"playTime\":{\"total\":4581,\"tv\":0},\"url\":\"https://lichess.org/@/doruuk\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":8,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "doruuk",
     "username": "doruuk",
@@ -47,22 +47,22 @@
       }
     },
     "createdAt": 1630142816057,
-    "seenAt": 1630326075686,
+    "seenAt": 1630326818192,
     "playTime": {
-      "total": 4441,
+      "total": 4581,
       "tv": 0
     },
     "url": "https://lichess.org/@/doruuk",
     "nbFollowing": 1,
     "nbFollowers": 0,
     "count": {
-      "all": 7,
+      "all": 8,
       "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
+      "loss": 5,
+      "lossH": 5,
       "win": 3,
       "winH": 3,
       "bookmark": 0,
