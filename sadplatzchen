@@ -1,0 +1,94 @@
+{
+  "id": "sadplatzchen",
+  "displayName": "sadplatzchen",
+  "username": "sadplatzchen",
+  "profileUrl": "https://lichess.org/@/sadplatzchen",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sadplatzchen\",\"username\":\"sadplatzchen\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1361,\"rd\":360,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":47,\"rating\":1854,\"rd\":116,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1514,\"rd\":160,\"prog\":-219,\"prov\":true}},\"createdAt\":1619435657958,\"profile\":{},\"seenAt\":1630326274259,\"playTime\":{\"total\":29120,\"tv\":0},\"url\":\"https://lichess.org/@/sadplatzchen\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":47,\"rated\":16,\"ai\":10,\"draw\":2,\"drawH\":2,\"loss\":10,\"lossH\":8,\"win\":35,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sadplatzchen",
+    "username": "sadplatzchen",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1361,
+        "rd": 360,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 47,
+        "rating": 1854,
+        "rd": 116,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 14,
+        "rating": 1514,
+        "rd": 160,
+        "prog": -219,
+        "prov": true
+      }
+    },
+    "createdAt": 1619435657958,
+    "profile": {},
+    "seenAt": 1630326274259,
+    "playTime": {
+      "total": 29120,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/sadplatzchen",
+    "nbFollowing": 4,
+    "nbFollowers": 1,
+    "count": {
+      "all": 47,
+      "rated": 16,
+      "ai": 10,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 10,
+      "lossH": 8,
+      "win": 35,
+      "winH": 27,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
