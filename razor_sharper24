@@ -1,13 +1,13 @@
 {
   "id": "razor_sharper24",
-  "displayName": "Razor_Sharper24",
-  "username": "Razor_Sharper24",
-  "profileUrl": "https://lichess.org/@/Razor_Sharper24",
+  "displayName": "RaZor_SharPer24",
+  "username": "RaZor_SharPer24",
+  "profileUrl": "https://lichess.org/@/RaZor_SharPer24",
   "provider": "lichess",
-  "_raw": "{\"id\":\"razor_sharper24\",\"username\":\"Razor_Sharper24\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629772931511,\"seenAt\":1629773002541,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Razor_Sharper24\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"razor_sharper24\",\"username\":\"RaZor_SharPer24\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2076,\"rd\":390,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2357,\"rd\":135,\"prog\":0,\"prov\":true}},\"createdAt\":1629772931511,\"profile\":{\"location\":\"Earth,Solar System,\\uD83C\\uDF0F\",\"bio\":\"I live in a world of absurd tactics, please don't mess with me,as I have a lot of experience of those dirty things . Got upgraded from stockfish 12 to 14 NNUE.All except bullet and blitz .My creator - @AishikCCA\",\"firstName\":\"Stockfish\",\"lastName\":\"14 NNUE\"},\"seenAt\":1630371794893,\"playTime\":{\"total\":6274,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RaZor_SharPer24\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":10,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "razor_sharper24",
-    "username": "Razor_Sharper24",
+    "username": "RaZor_SharPer24",
     "online": true,
     "perfs": {
       "blitz": {
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2076,
+        "rd": 390,
         "prog": 0,
         "prov": true
       },
@@ -39,34 +39,39 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 9,
+        "rating": 2357,
+        "rd": 135,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1629772931511,
-    "seenAt": 1629773002541,
+    "profile": {
+      "location": "Earth,Solar System,🌏",
+      "bio": "I live in a world of absurd tactics, please don't mess with me,as I have a lot of experience of those dirty things . Got upgraded from stockfish 12 to 14 NNUE.All except bullet and blitz .My creator - @AishikCCA",
+      "firstName": "Stockfish",
+      "lastName": "14 NNUE"
+    },
+    "seenAt": 1630371794893,
     "playTime": {
-      "total": 0,
+      "total": 6274,
       "tv": 0
     },
-    "language": "en-US",
     "title": "BOT",
-    "url": "https://lichess.org/@/Razor_Sharper24",
+    "url": "https://lichess.org/@/RaZor_SharPer24",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 10,
+      "rated": 10,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
