@@ -4,23 +4,22 @@
   "username": "KingB0t",
   "profileUrl": "https://lichess.org/@/KingB0t",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kingb0t\",\"username\":\"KingB0t\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630397945557,\"seenAt\":1630402759618,\"playTime\":{\"total\":275,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KingB0t\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kingb0t\",\"username\":\"KingB0t\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":17,\"rating\":2308,\"rd\":93,\"prog\":-154},\"bullet\":{\"games\":7,\"rating\":2343,\"rd\":148,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630397945557,\"seenAt\":1630521293432,\"playTime\":{\"total\":7247,\"tv\":1914},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/KingB0t\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":30,\"rated\":24,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":14,\"lossH\":13,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kingb0t",
     "username": "KingB0t",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 17,
+        "rating": 2308,
+        "rd": 93,
+        "prog": -154
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 7,
+        "rating": 2343,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +46,25 @@
       }
     },
     "createdAt": 1630397945557,
-    "seenAt": 1630402759618,
+    "seenAt": 1630521293432,
     "playTime": {
-      "total": 275,
-      "tv": 0
+      "total": 7247,
+      "tv": 1914
     },
     "title": "BOT",
     "url": "https://lichess.org/@/KingB0t",
     "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowers": 1,
     "count": {
-      "all": 2,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 2,
-      "winH": 2,
+      "all": 30,
+      "rated": 24,
+      "ai": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 14,
+      "lossH": 13,
+      "win": 14,
+      "winH": 14,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
