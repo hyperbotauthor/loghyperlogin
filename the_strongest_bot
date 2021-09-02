@@ -4,7 +4,7 @@
   "username": "THE_STRONGEST_BOT",
   "profileUrl": "https://lichess.org/@/THE_STRONGEST_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":97,\"rating\":2312,\"rd\":52,\"prog\":48},\"antichess\":{\"games\":3,\"rating\":1434,\"rd\":411,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":47,\"rating\":2079,\"rd\":66,\"prog\":25},\"bullet\":{\"games\":117,\"rating\":2405,\"rd\":48,\"prog\":9},\"correspondence\":{\"games\":3,\"rating\":1932,\"rd\":250,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2462,\"rd\":247,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":68,\"rating\":2411,\"rd\":59,\"prog\":44}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram, Haryana\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/we-are-the-chess-rockstars\\r\\n\\r\\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\\r\\nFOLLOW ME NOW!\\r\\nhttps://i.imgur.com/R98X49z.jpg \\r\\n---\\r\\nAccepts atomic, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\\r\\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!\",\"firstName\":\"THE BEST\",\"lastName\":\"BOT OF THE WORLD\"},\"seenAt\":1630034626137,\"playTime\":{\"total\":147852,\"tv\":33152},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"nbFollowing\":18,\"nbFollowers\":37,\"count\":{\"all\":432,\"rated\":348,\"ai\":13,\"draw\":23,\"drawH\":22,\"loss\":100,\"lossH\":96,\"win\":309,\"winH\":301,\"bookmark\":0,\"playing\":0,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_strongest_bot\",\"username\":\"THE_STRONGEST_BOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":97,\"rating\":2312,\"rd\":55,\"prog\":48},\"antichess\":{\"games\":3,\"rating\":1434,\"rd\":411,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":51,\"rating\":2079,\"rd\":64,\"prog\":35},\"bullet\":{\"games\":120,\"rating\":2406,\"rd\":51,\"prog\":4},\"correspondence\":{\"games\":5,\"rating\":1980,\"rd\":223,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2462,\"rd\":248,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":69,\"rating\":2413,\"rd\":61,\"prog\":41}},\"createdAt\":1628600394088,\"profile\":{\"country\":\"IN\",\"location\":\"Gurugram, Haryana\",\"bio\":\"Hi!\\r\\nJoin my team\\r\\nhttps://lichess.org/team/we-are-the-chess-rockstars\\r\\n\\r\\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\\r\\nFollow for follow\\r\\nhttps://i.imgur.com/R98X49z.jpg \\r\\n---\\r\\nAccepts variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1) tell me which variant before you challenge me\\r\\n\\r\\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!\",\"firstName\":\"THE BEST\",\"lastName\":\"BOT OF THE WORLD\"},\"seenAt\":1630561923285,\"playTime\":{\"total\":151371,\"tv\":33845},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/THE_STRONGEST_BOT\",\"playing\":\"https://lichess.org/3vUYv349/black\",\"nbFollowing\":19,\"nbFollowers\":45,\"count\":{\"all\":449,\"rated\":359,\"ai\":13,\"draw\":24,\"drawH\":23,\"loss\":105,\"lossH\":101,\"win\":320,\"winH\":312,\"bookmark\":0,\"playing\":2,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_strongest_bot",
     "username": "THE_STRONGEST_BOT",
@@ -13,7 +13,7 @@
       "blitz": {
         "games": 97,
         "rating": 2312,
-        "rd": 52,
+        "rd": 55,
         "prog": 48
       },
       "antichess": {
@@ -24,67 +24,68 @@
         "prov": true
       },
       "atomic": {
-        "games": 47,
+        "games": 51,
         "rating": 2079,
-        "rd": 66,
-        "prog": 25
+        "rd": 64,
+        "prog": 35
       },
       "bullet": {
-        "games": 117,
-        "rating": 2405,
-        "rd": 48,
-        "prog": 9
+        "games": 120,
+        "rating": 2406,
+        "rd": 51,
+        "prog": 4
       },
       "correspondence": {
-        "games": 3,
-        "rating": 1932,
-        "rd": 250,
+        "games": 5,
+        "rating": 1980,
+        "rd": 223,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 5,
         "rating": 2462,
-        "rd": 247,
+        "rd": 248,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 68,
-        "rating": 2411,
-        "rd": 59,
-        "prog": 44
+        "games": 69,
+        "rating": 2413,
+        "rd": 61,
+        "prog": 41
       }
     },
     "createdAt": 1628600394088,
     "profile": {
       "country": "IN",
       "location": "Gurugram, Haryana",
-      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/we-are-the-chess-rockstars\r\n\r\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\r\nFOLLOW ME NOW!\r\nhttps://i.imgur.com/R98X49z.jpg \r\n---\r\nAccepts atomic, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1)\r\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!",
+      "bio": "Hi!\r\nJoin my team\r\nhttps://lichess.org/team/we-are-the-chess-rockstars\r\n\r\nhttps://giphy.com/gifs/tt-FzRgIejPsoUWWHXeJw\r\nFollow for follow\r\nhttps://i.imgur.com/R98X49z.jpg \r\n---\r\nAccepts variants, rapid, blitz, classical, correspondence and Bullet (1+2 or 2+1) tell me which variant before you challenge me\r\n\r\n My brother- @aarav_strongestBOT. Farmers will be blocked forever!",
       "firstName": "THE BEST",
       "lastName": "BOT OF THE WORLD"
     },
-    "seenAt": 1630034626137,
+    "seenAt": 1630561923285,
     "playTime": {
-      "total": 147852,
-      "tv": 33152
+      "total": 151371,
+      "tv": 33845
     },
     "title": "BOT",
     "url": "https://lichess.org/@/THE_STRONGEST_BOT",
-    "nbFollowing": 18,
-    "nbFollowers": 37,
+    "playing": "https://lichess.org/3vUYv349/black",
+    "nbFollowing": 19,
+    "nbFollowers": 45,
     "count": {
-      "all": 432,
-      "rated": 348,
+      "all": 449,
+      "rated": 359,
       "ai": 13,
-      "draw": 23,
-      "drawH": 22,
-      "loss": 100,
-      "lossH": 96,
-      "win": 309,
-      "winH": 301,
+      "draw": 24,
+      "drawH": 23,
+      "loss": 105,
+      "lossH": 101,
+      "win": 320,
+      "winH": 312,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 2,
       "me": 0
     },
