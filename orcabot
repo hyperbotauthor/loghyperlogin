@@ -4,7 +4,7 @@
   "username": "OrcaBOT",
   "profileUrl": "https://lichess.org/@/OrcaBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"orcabot\",\"username\":\"OrcaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1893,\"rd\":327,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1942,\"rd\":416,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629399460308,\"profile\":{\"bio\":\"This bot utilizes the website hypereasy.herokuapp.com\"},\"seenAt\":1629737366222,\"playTime\":{\"total\":841,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OrcaBOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":60,\"rated\":4,\"ai\":13,\"draw\":6,\"drawH\":6,\"loss\":28,\"lossH\":19,\"win\":26,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"orcabot\",\"username\":\"OrcaBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1893,\"rd\":328,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1942,\"rd\":417,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1544,\"rd\":322,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629399460308,\"profile\":{\"bio\":\"This bot is powered by the website hypereasy.herokuapp.com\"},\"seenAt\":1630698359695,\"playTime\":{\"total\":4134,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/OrcaBOT\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":64,\"rated\":5,\"ai\":14,\"draw\":7,\"drawH\":7,\"loss\":30,\"lossH\":20,\"win\":27,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "orcabot",
     "username": "OrcaBOT",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 3,
         "rating": 1893,
-        "rd": 327,
+        "rd": 328,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1942,
-        "rd": 416,
+        "rd": 417,
         "prog": 0,
         "prov": true
       },
@@ -32,9 +32,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1544,
+        "rd": 322,
         "prog": 0,
         "prov": true
       },
@@ -48,28 +48,27 @@
     },
     "createdAt": 1629399460308,
     "profile": {
-      "bio": "This bot utilizes the website hypereasy.herokuapp.com"
+      "bio": "This bot is powered by the website hypereasy.herokuapp.com"
     },
-    "seenAt": 1629737366222,
+    "seenAt": 1630698359695,
     "playTime": {
-      "total": 841,
+      "total": 4134,
       "tv": 0
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/OrcaBOT",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 60,
-      "rated": 4,
-      "ai": 13,
-      "draw": 6,
-      "drawH": 6,
-      "loss": 28,
-      "lossH": 19,
-      "win": 26,
-      "winH": 22,
+      "all": 64,
+      "rated": 5,
+      "ai": 14,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 30,
+      "lossH": 20,
+      "win": 27,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
