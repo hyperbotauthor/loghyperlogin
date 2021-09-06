@@ -4,7 +4,7 @@
   "username": "BOT-RED-KING_NIRINDU",
   "profileUrl": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1037,\"rd\":251,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1942,\"rd\":216,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":65,\"rating\":1738,\"rd\":64,\"prog\":-33},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1177,\"rd\":388,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1683,\"rd\":298,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1629299706793,\"playTime\":{\"total\":16275,\"tv\":99},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"playing\":\"https://lichess.org/rGXjcCZv/white\",\"nbFollowing\":66,\"nbFollowers\":29,\"count\":{\"all\":128,\"rated\":77,\"ai\":23,\"draw\":5,\"drawH\":5,\"loss\":67,\"lossH\":49,\"win\":56,\"winH\":51,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot-red-king_nirindu\",\"username\":\"BOT-RED-KING_NIRINDU\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1037,\"rd\":253,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1887,\"rd\":199,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1741,\"rd\":399,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":13,\"rating\":1868,\"rd\":135,\"prog\":-35,\"prov\":true},\"bullet\":{\"games\":98,\"rating\":1603,\"rd\":62,\"prog\":-69},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1177,\"rd\":389,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1683,\"rd\":299,\"prog\":0,\"prov\":true}},\"createdAt\":1627641476226,\"profile\":{\"bio\":\"I AM NIRINDU\"},\"seenAt\":1630925872264,\"playTime\":{\"total\":19137,\"tv\":99},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOT-RED-KING_NIRINDU\",\"nbFollowing\":82,\"nbFollowers\":32,\"count\":{\"all\":176,\"rated\":125,\"ai\":23,\"draw\":5,\"drawH\":5,\"loss\":113,\"lossH\":95,\"win\":58,\"winH\":53,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot-red-king_nirindu",
     "username": "BOT-RED-KING_NIRINDU",
@@ -13,29 +13,36 @@
       "antichess": {
         "games": 4,
         "rating": 1037,
-        "rd": 251,
+        "rd": 253,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 4,
-        "rating": 1942,
-        "rd": 216,
+        "games": 6,
+        "rating": 1887,
+        "rd": 199,
         "prog": 0,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 1741,
-        "rd": 397,
+        "rd": 399,
         "prog": 0,
         "prov": true
       },
+      "threeCheck": {
+        "games": 13,
+        "rating": 1868,
+        "rd": 135,
+        "prog": -35,
+        "prov": true
+      },
       "bullet": {
-        "games": 65,
-        "rating": 1738,
-        "rd": 64,
-        "prog": -33
+        "games": 98,
+        "rating": 1603,
+        "rd": 62,
+        "prog": -69
       },
       "correspondence": {
         "games": 0,
@@ -47,14 +54,14 @@
       "classical": {
         "games": 1,
         "rating": 1177,
-        "rd": 388,
+        "rd": 389,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 2,
         "rating": 1683,
-        "rd": 298,
+        "rd": 299,
         "prog": 0,
         "prov": true
       }
@@ -63,29 +70,27 @@
     "profile": {
       "bio": "I AM NIRINDU"
     },
-    "seenAt": 1629299706793,
+    "seenAt": 1630925872264,
     "playTime": {
-      "total": 16275,
+      "total": 19137,
       "tv": 99
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/BOT-RED-KING_NIRINDU",
-    "playing": "https://lichess.org/rGXjcCZv/white",
-    "nbFollowing": 66,
-    "nbFollowers": 29,
+    "nbFollowing": 82,
+    "nbFollowers": 32,
     "count": {
-      "all": 128,
-      "rated": 77,
+      "all": 176,
+      "rated": 125,
       "ai": 23,
       "draw": 5,
       "drawH": 5,
-      "loss": 67,
-      "lossH": 49,
-      "win": 56,
-      "winH": 51,
+      "loss": 113,
+      "lossH": 95,
+      "win": 58,
+      "winH": 53,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
