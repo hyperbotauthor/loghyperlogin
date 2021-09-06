@@ -4,47 +4,47 @@
   "username": "sasuke_2021",
   "profileUrl": "https://lichess.org/@/sasuke_2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sasuke_2021\",\"username\":\"sasuke_2021\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":23,\"rating\":1943,\"rd\":105,\"prog\":0},\"atomic\":{\"games\":28,\"rating\":1332,\"rd\":79,\"prog\":-8},\"ultraBullet\":{\"games\":41,\"rating\":1736,\"rd\":86,\"prog\":-23},\"blitz\":{\"games\":321,\"rating\":1844,\"rd\":45,\"prog\":20},\"threeCheck\":{\"games\":3,\"rating\":1271,\"rd\":259,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1767,\"rd\":87,\"prog\":-60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2172,\"rd\":363,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":49,\"score\":54}},\"createdAt\":1623927045824,\"profile\":{},\"seenAt\":1630067049378,\"playTime\":{\"total\":81997,\"tv\":225},\"url\":\"https://lichess.org/@/sasuke_2021\",\"nbFollowing\":0,\"nbFollowers\":16,\"completionRate\":87,\"count\":{\"all\":581,\"rated\":419,\"ai\":0,\"draw\":22,\"drawH\":22,\"loss\":238,\"lossH\":238,\"win\":321,\"winH\":321,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sasuke_2021\",\"username\":\"sasuke_2021\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":29,\"rating\":1984,\"rd\":107,\"prog\":0},\"atomic\":{\"games\":28,\"rating\":1332,\"rd\":82,\"prog\":-8},\"ultraBullet\":{\"games\":44,\"rating\":1725,\"rd\":84,\"prog\":-60},\"blitz\":{\"games\":372,\"rating\":1879,\"rd\":45,\"prog\":17},\"threeCheck\":{\"games\":3,\"rating\":1271,\"rd\":260,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1767,\"rd\":90,\"prog\":-60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2172,\"rd\":364,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":49,\"score\":54}},\"createdAt\":1623927045824,\"profile\":{},\"seenAt\":1630962894333,\"playTime\":{\"total\":93858,\"tv\":225},\"url\":\"https://lichess.org/@/sasuke_2021\",\"nbFollowing\":1,\"nbFollowers\":17,\"completionRate\":83,\"count\":{\"all\":645,\"rated\":473,\"ai\":0,\"draw\":26,\"drawH\":26,\"loss\":264,\"lossH\":264,\"win\":355,\"winH\":355,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sasuke_2021",
     "username": "sasuke_2021",
     "online": true,
     "perfs": {
       "puzzle": {
-        "games": 23,
-        "rating": 1943,
-        "rd": 105,
+        "games": 29,
+        "rating": 1984,
+        "rd": 107,
         "prog": 0
       },
       "atomic": {
         "games": 28,
         "rating": 1332,
-        "rd": 79,
+        "rd": 82,
         "prog": -8
       },
       "ultraBullet": {
-        "games": 41,
-        "rating": 1736,
-        "rd": 86,
-        "prog": -23
+        "games": 44,
+        "rating": 1725,
+        "rd": 84,
+        "prog": -60
       },
       "blitz": {
-        "games": 321,
-        "rating": 1844,
+        "games": 372,
+        "rating": 1879,
         "rd": 45,
-        "prog": 20
+        "prog": 17
       },
       "threeCheck": {
         "games": 3,
         "rating": 1271,
-        "rd": 259,
+        "rd": 260,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 25,
         "rating": 1767,
-        "rd": 87,
+        "rd": 90,
         "prog": -60
       },
       "correspondence": {
@@ -64,7 +64,7 @@
       "rapid": {
         "games": 1,
         "rating": 2172,
-        "rd": 363,
+        "rd": 364,
         "prog": 0,
         "prov": true
       },
@@ -75,25 +75,25 @@
     },
     "createdAt": 1623927045824,
     "profile": {},
-    "seenAt": 1630067049378,
+    "seenAt": 1630962894333,
     "playTime": {
-      "total": 81997,
+      "total": 93858,
       "tv": 225
     },
     "url": "https://lichess.org/@/sasuke_2021",
-    "nbFollowing": 0,
-    "nbFollowers": 16,
-    "completionRate": 87,
+    "nbFollowing": 1,
+    "nbFollowers": 17,
+    "completionRate": 83,
     "count": {
-      "all": 581,
-      "rated": 419,
+      "all": 645,
+      "rated": 473,
       "ai": 0,
-      "draw": 22,
-      "drawH": 22,
-      "loss": 238,
-      "lossH": 238,
-      "win": 321,
-      "winH": 321,
+      "draw": 26,
+      "drawH": 26,
+      "loss": 264,
+      "lossH": 264,
+      "win": 355,
+      "winH": 355,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
