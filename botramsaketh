@@ -4,7 +4,7 @@
   "username": "BOTRamSaketh",
   "profileUrl": "https://lichess.org/@/BOTRamSaketh",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botramsaketh\",\"username\":\"BOTRamSaketh\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2045,\"rd\":434,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1683,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2153,\"rd\":331,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630925172209,\"profile\":{\"country\":\"IN\",\"location\":\"telengana\"},\"seenAt\":1630995236700,\"playTime\":{\"total\":2295,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOTRamSaketh\",\"playing\":\"https://lichess.org/n97xxON0/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":17,\"rated\":4,\"ai\":10,\"draw\":1,\"drawH\":0,\"loss\":3,\"lossH\":2,\"win\":13,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botramsaketh\",\"username\":\"BOTRamSaketh\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2045,\"rd\":434,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1683,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2153,\"rd\":331,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630925172209,\"profile\":{\"country\":\"IN\",\"location\":\"telengana\"},\"seenAt\":1631005299291,\"playTime\":{\"total\":2782,\"tv\":146},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOTRamSaketh\",\"nbFollowing\":4,\"nbFollowers\":1,\"count\":{\"all\":25,\"rated\":4,\"ai\":12,\"draw\":1,\"drawH\":0,\"loss\":9,\"lossH\":8,\"win\":15,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botramsaketh",
     "username": "BOTRamSaketh",
@@ -58,28 +58,27 @@
       "country": "IN",
       "location": "telengana"
     },
-    "seenAt": 1630995236700,
+    "seenAt": 1631005299291,
     "playTime": {
-      "total": 2295,
-      "tv": 0
+      "total": 2782,
+      "tv": 146
     },
     "title": "BOT",
     "url": "https://lichess.org/@/BOTRamSaketh",
-    "playing": "https://lichess.org/n97xxON0/white",
-    "nbFollowing": 2,
+    "nbFollowing": 4,
     "nbFollowers": 1,
     "count": {
-      "all": 17,
+      "all": 25,
       "rated": 4,
-      "ai": 10,
+      "ai": 12,
       "draw": 1,
       "drawH": 0,
-      "loss": 3,
-      "lossH": 2,
-      "win": 13,
+      "loss": 9,
+      "lossH": 8,
+      "win": 15,
       "winH": 5,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
