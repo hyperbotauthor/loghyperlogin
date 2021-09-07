@@ -1,0 +1,92 @@
+{
+  "id": "pcarc",
+  "displayName": "PCARC",
+  "username": "PCARC",
+  "profileUrl": "https://lichess.org/@/PCARC",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"pcarc\",\"username\":\"PCARC\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":17,\"rating\":970,\"rd\":103,\"prog\":0},\"blitz\":{\"games\":5,\"rating\":839,\"rd\":168,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1327,\"rd\":351,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":67,\"rating\":999,\"rd\":60,\"prog\":3}},\"createdAt\":1624541822458,\"seenAt\":1630996261138,\"playTime\":{\"total\":28290,\"tv\":0},\"url\":\"https://lichess.org/@/PCARC\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":90,\"count\":{\"all\":80,\"rated\":76,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":49,\"lossH\":49,\"win\":25,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "pcarc",
+    "username": "PCARC",
+    "online": true,
+    "perfs": {
+      "puzzle": {
+        "games": 17,
+        "rating": 970,
+        "rd": 103,
+        "prog": 0
+      },
+      "blitz": {
+        "games": 5,
+        "rating": 839,
+        "rd": 168,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1327,
+        "rd": 351,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 67,
+        "rating": 999,
+        "rd": 60,
+        "prog": 3
+      }
+    },
+    "createdAt": 1624541822458,
+    "seenAt": 1630996261138,
+    "playTime": {
+      "total": 28290,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/PCARC",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 90,
+    "count": {
+      "all": 80,
+      "rated": 76,
+      "ai": 1,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 49,
+      "lossH": 49,
+      "win": 25,
+      "winH": 24,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
