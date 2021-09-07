@@ -4,7 +4,7 @@
   "username": "sasuke_2021",
   "profileUrl": "https://lichess.org/@/sasuke_2021",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sasuke_2021\",\"username\":\"sasuke_2021\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":29,\"rating\":1984,\"rd\":107,\"prog\":0},\"atomic\":{\"games\":28,\"rating\":1332,\"rd\":82,\"prog\":-8},\"ultraBullet\":{\"games\":44,\"rating\":1725,\"rd\":84,\"prog\":-60},\"blitz\":{\"games\":372,\"rating\":1879,\"rd\":45,\"prog\":17},\"threeCheck\":{\"games\":3,\"rating\":1271,\"rd\":260,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1767,\"rd\":90,\"prog\":-60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2172,\"rd\":364,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":49,\"score\":54}},\"createdAt\":1623927045824,\"profile\":{},\"seenAt\":1630962894333,\"playTime\":{\"total\":93858,\"tv\":225},\"url\":\"https://lichess.org/@/sasuke_2021\",\"nbFollowing\":1,\"nbFollowers\":17,\"completionRate\":83,\"count\":{\"all\":645,\"rated\":473,\"ai\":0,\"draw\":26,\"drawH\":26,\"loss\":264,\"lossH\":264,\"win\":355,\"winH\":355,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sasuke_2021\",\"username\":\"sasuke_2021\",\"online\":true,\"perfs\":{\"puzzle\":{\"games\":29,\"rating\":1984,\"rd\":107,\"prog\":0},\"atomic\":{\"games\":28,\"rating\":1332,\"rd\":82,\"prog\":-8},\"ultraBullet\":{\"games\":46,\"rating\":1714,\"rd\":80,\"prog\":-88},\"blitz\":{\"games\":386,\"rating\":1889,\"rd\":45,\"prog\":10},\"threeCheck\":{\"games\":3,\"rating\":1271,\"rd\":260,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1767,\"rd\":90,\"prog\":-60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2172,\"rd\":364,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":49,\"score\":54}},\"createdAt\":1623927045824,\"profile\":{\"bio\":\"https://i.imgur.com/xX005ri.jpg\\r\\nhttps://i.imgur.com/xX005ri.jpg\\r\\nhttps://i.imgur.com/xX005ri.jpg\\r\\nhttps://i.imgur.com/xX005ri.jpg\\r\\nhttps://i.imgur.com/xX005ri.jpg\\r\\nhttps://i.imgur.com/1GRAVGu.gif\\r\\nhttps://i.imgur.com/fAMcNFl.jpg\"},\"seenAt\":1631042328376,\"playTime\":{\"total\":96657,\"tv\":225},\"url\":\"https://lichess.org/@/sasuke_2021\",\"nbFollowing\":1,\"nbFollowers\":18,\"completionRate\":90,\"count\":{\"all\":661,\"rated\":489,\"ai\":0,\"draw\":27,\"drawH\":27,\"loss\":270,\"lossH\":270,\"win\":364,\"winH\":364,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sasuke_2021",
     "username": "sasuke_2021",
@@ -23,16 +23,16 @@
         "prog": -8
       },
       "ultraBullet": {
-        "games": 44,
-        "rating": 1725,
-        "rd": 84,
-        "prog": -60
+        "games": 46,
+        "rating": 1714,
+        "rd": 80,
+        "prog": -88
       },
       "blitz": {
-        "games": 372,
-        "rating": 1879,
+        "games": 386,
+        "rating": 1889,
         "rd": 45,
-        "prog": 17
+        "prog": 10
       },
       "threeCheck": {
         "games": 3,
@@ -74,26 +74,28 @@
       }
     },
     "createdAt": 1623927045824,
-    "profile": {},
-    "seenAt": 1630962894333,
+    "profile": {
+      "bio": "https://i.imgur.com/xX005ri.jpg\r\nhttps://i.imgur.com/xX005ri.jpg\r\nhttps://i.imgur.com/xX005ri.jpg\r\nhttps://i.imgur.com/xX005ri.jpg\r\nhttps://i.imgur.com/xX005ri.jpg\r\nhttps://i.imgur.com/1GRAVGu.gif\r\nhttps://i.imgur.com/fAMcNFl.jpg"
+    },
+    "seenAt": 1631042328376,
     "playTime": {
-      "total": 93858,
+      "total": 96657,
       "tv": 225
     },
     "url": "https://lichess.org/@/sasuke_2021",
     "nbFollowing": 1,
-    "nbFollowers": 17,
-    "completionRate": 83,
+    "nbFollowers": 18,
+    "completionRate": 90,
     "count": {
-      "all": 645,
-      "rated": 473,
+      "all": 661,
+      "rated": 489,
       "ai": 0,
-      "draw": 26,
-      "drawH": 26,
-      "loss": 264,
-      "lossH": 264,
-      "win": 355,
-      "winH": 355,
+      "draw": 27,
+      "drawH": 27,
+      "loss": 270,
+      "lossH": 270,
+      "win": 364,
+      "winH": 364,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
