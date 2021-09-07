@@ -4,7 +4,7 @@
   "username": "HJPKulathilaka",
   "profileUrl": "https://lichess.org/@/HJPKulathilaka",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hjpkulathilaka\",\"username\":\"HJPKulathilaka\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":18,\"rating\":1402,\"rd\":97,\"prog\":29},\"atomic\":{\"games\":5,\"rating\":2211,\"rd\":176,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":17,\"rating\":1691,\"rd\":103,\"prog\":-127},\"ultraBullet\":{\"games\":113,\"rating\":1615,\"rd\":45,\"prog\":37},\"blitz\":{\"games\":78,\"rating\":1887,\"rd\":45,\"prog\":-16},\"crazyhouse\":{\"games\":10,\"rating\":1572,\"rd\":135,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":15,\"rating\":1803,\"rd\":104,\"prog\":14},\"bullet\":{\"games\":94,\"rating\":1933,\"rd\":45,\"prog\":7},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1854,\"rd\":123,\"prog\":77,\"prov\":true},\"puzzle\":{\"games\":89,\"rating\":2236,\"rd\":88,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":1673,\"rd\":85,\"prog\":128},\"racer\":{\"runs\":2,\"score\":41},\"streak\":{\"runs\":6,\"score\":20}},\"createdAt\":1630471066211,\"profile\":{\"country\":\"LK\",\"location\":\"Kaluthara,Panadura\",\"bio\":\"https://imgur.com/iYdQiZN\\r\\nHello!\"},\"seenAt\":1631002597816,\"playTime\":{\"total\":54996,\"tv\":1352},\"url\":\"https://lichess.org/@/HJPKulathilaka\",\"playing\":\"https://lichess.org/dXe1DPiz/black\",\"nbFollowing\":1,\"nbFollowers\":26,\"completionRate\":83,\"count\":{\"all\":442,\"rated\":386,\"ai\":0,\"draw\":17,\"drawH\":17,\"loss\":228,\"lossH\":228,\"win\":197,\"winH\":197,\"bookmark\":2,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hjpkulathilaka\",\"username\":\"HJPKulathilaka\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":18,\"rating\":1402,\"rd\":97,\"prog\":29},\"atomic\":{\"games\":5,\"rating\":2211,\"rd\":176,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":17,\"rating\":1691,\"rd\":103,\"prog\":-127},\"ultraBullet\":{\"games\":113,\"rating\":1615,\"rd\":45,\"prog\":37},\"blitz\":{\"games\":79,\"rating\":1881,\"rd\":45,\"prog\":-16},\"crazyhouse\":{\"games\":10,\"rating\":1572,\"rd\":135,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":15,\"rating\":1803,\"rd\":104,\"prog\":14},\"bullet\":{\"games\":94,\"rating\":1933,\"rd\":45,\"prog\":7},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1854,\"rd\":123,\"prog\":77,\"prov\":true},\"puzzle\":{\"games\":89,\"rating\":2236,\"rd\":88,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":1673,\"rd\":85,\"prog\":128},\"racer\":{\"runs\":2,\"score\":41},\"streak\":{\"runs\":6,\"score\":20}},\"createdAt\":1630471066211,\"profile\":{\"country\":\"LK\",\"location\":\"Kaluthara,Panadura\",\"bio\":\"https://imgur.com/iYdQiZN\\r\\nHello!\"},\"seenAt\":1631002597816,\"playTime\":{\"total\":55126,\"tv\":1352},\"url\":\"https://lichess.org/@/HJPKulathilaka\",\"nbFollowing\":1,\"nbFollowers\":26,\"completionRate\":83,\"count\":{\"all\":443,\"rated\":387,\"ai\":0,\"draw\":17,\"drawH\":17,\"loss\":229,\"lossH\":229,\"win\":197,\"winH\":197,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hjpkulathilaka",
     "username": "HJPKulathilaka",
@@ -36,8 +36,8 @@
         "prog": 37
       },
       "blitz": {
-        "games": 78,
-        "rating": 1887,
+        "games": 79,
+        "rating": 1881,
         "rd": 45,
         "prog": -16
       },
@@ -110,26 +110,25 @@
     },
     "seenAt": 1631002597816,
     "playTime": {
-      "total": 54996,
+      "total": 55126,
       "tv": 1352
     },
     "url": "https://lichess.org/@/HJPKulathilaka",
-    "playing": "https://lichess.org/dXe1DPiz/black",
     "nbFollowing": 1,
     "nbFollowers": 26,
     "completionRate": 83,
     "count": {
-      "all": 442,
-      "rated": 386,
+      "all": 443,
+      "rated": 387,
       "ai": 0,
       "draw": 17,
       "drawH": 17,
-      "loss": 228,
-      "lossH": 228,
+      "loss": 229,
+      "lossH": 229,
       "win": 197,
       "winH": 197,
       "bookmark": 2,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
