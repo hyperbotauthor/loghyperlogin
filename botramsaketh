@@ -4,69 +4,82 @@
   "username": "BOTRamSaketh",
   "profileUrl": "https://lichess.org/@/BOTRamSaketh",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botramsaketh\",\"username\":\"BOTRamSaketh\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630925172209,\"seenAt\":1630925198621,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/BOTRamSaketh\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botramsaketh\",\"username\":\"BOTRamSaketh\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2045,\"rd\":434,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1683,\"rd\":297,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2153,\"rd\":331,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1630925172209,\"profile\":{\"country\":\"IN\",\"location\":\"telengana\"},\"seenAt\":1630995236700,\"playTime\":{\"total\":2295,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/BOTRamSaketh\",\"playing\":\"https://lichess.org/n97xxON0/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":17,\"rated\":4,\"ai\":10,\"draw\":1,\"drawH\":0,\"loss\":3,\"lossH\":2,\"win\":13,\"winH\":5,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botramsaketh",
     "username": "BOTRamSaketh",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2045,
+        "rd": 434,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1683,
+        "rd": 297,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2153,
+        "rd": 331,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1630925172209,
-    "seenAt": 1630925198621,
+    "profile": {
+      "country": "IN",
+      "location": "telengana"
+    },
+    "seenAt": 1630995236700,
     "playTime": {
-      "total": 0,
+      "total": 2295,
       "tv": 0
     },
+    "title": "BOT",
     "url": "https://lichess.org/@/BOTRamSaketh",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "playing": "https://lichess.org/n97xxON0/white",
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
+      "all": 17,
+      "rated": 4,
+      "ai": 10,
+      "draw": 1,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 3,
+      "lossH": 2,
+      "win": 13,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
