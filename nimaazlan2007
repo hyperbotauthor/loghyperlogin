@@ -4,95 +4,98 @@
   "username": "nimaazlan2007",
   "profileUrl": "https://lichess.org/@/nimaazlan2007",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nimaazlan2007\",\"username\":\"nimaazlan2007\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":42,\"rating\":1412,\"rd\":98,\"prog\":-27},\"puzzle\":{\"games\":12742,\"rating\":2019,\"rd\":73,\"prog\":-2},\"atomic\":{\"games\":4,\"rating\":1596,\"rd\":224,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1324,\"rd\":257,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1232,\"rd\":233,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1382,\"rd\":291,\"prog\":0,\"prov\":true},\"classical\":{\"games\":489,\"rating\":1647,\"rd\":46,\"prog\":-4},\"rapid\":{\"games\":605,\"rating\":1609,\"rd\":61,\"prog\":-24}},\"createdAt\":1558222800354,\"profile\":{\"country\":\"MY\",\"location\":\"Ampang,Selangor\",\"bio\":\"Hello everyone, this year (2021) is road 100 followers for me so if you all want to support me pls follow me.\",\"firstName\":\"Muhammad Amin\",\"lastName\":\"Mohd Azlan\",\"links\":\"Chess.com\"},\"seenAt\":1610627595138,\"playTime\":{\"total\":843772,\"tv\":1373},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/nimaazlan2007\",\"nbFollowing\":38,\"nbFollowers\":69,\"completionRate\":83,\"count\":{\"all\":1230,\"rated\":1150,\"ai\":3,\"draw\":62,\"drawH\":62,\"loss\":625,\"lossH\":623,\"win\":543,\"winH\":542,\"bookmark\":1,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nimaazlan2007\",\"username\":\"nimaazlan2007\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":60,\"rating\":1484,\"rd\":100,\"prog\":18},\"puzzle\":{\"games\":20935,\"rating\":2154,\"rd\":73,\"prog\":0},\"atomic\":{\"games\":4,\"rating\":1596,\"rd\":236,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1324,\"rd\":268,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1202,\"rd\":226,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1382,\"rd\":300,\"prog\":0,\"prov\":true},\"classical\":{\"games\":687,\"rating\":1790,\"rd\":45,\"prog\":-33},\"rapid\":{\"games\":654,\"rating\":1650,\"rd\":77,\"prog\":60},\"storm\":{\"runs\":13,\"score\":38}},\"createdAt\":1558222800354,\"profile\":{\"country\":\"MY\",\"location\":\"❔❔❔\",\"bio\":\"Fun fact: Reading this means that you're EPIC❕❕❕\\uD83D\\uDE0E\\uD83D\\uDE0E\\uD83D\\uDE0E\",\"firstName\":\"Muhammad Amin\",\"lastName\":\"Mohd Azlan\",\"links\":\"Aimchess.com\\r\\nTornelo.com\\r\\nChess24.com\\r\\nChess.com\\r\\nSraitkchess.club\"},\"seenAt\":1631105774603,\"playTime\":{\"total\":1503991,\"tv\":1373},\"url\":\"https://lichess.org/@/nimaazlan2007\",\"nbFollowing\":67,\"nbFollowers\":99,\"completionRate\":77,\"count\":{\"all\":1574,\"rated\":1421,\"ai\":3,\"draw\":79,\"drawH\":79,\"loss\":759,\"lossH\":757,\"win\":736,\"winH\":735,\"bookmark\":0,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nimaazlan2007",
     "username": "nimaazlan2007",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 42,
-        "rating": 1412,
-        "rd": 98,
-        "prog": -27
+        "games": 60,
+        "rating": 1484,
+        "rd": 100,
+        "prog": 18
       },
       "puzzle": {
-        "games": 12742,
-        "rating": 2019,
+        "games": 20935,
+        "rating": 2154,
         "rd": 73,
-        "prog": -2
+        "prog": 0
       },
       "atomic": {
         "games": 4,
         "rating": 1596,
-        "rd": 224,
+        "rd": 236,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
         "games": 2,
         "rating": 1324,
-        "rd": 257,
+        "rd": 268,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 1232,
-        "rd": 233,
+        "games": 4,
+        "rating": 1202,
+        "rd": 226,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 1,
         "rating": 1382,
-        "rd": 291,
+        "rd": 300,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 489,
-        "rating": 1647,
-        "rd": 46,
-        "prog": -4
+        "games": 687,
+        "rating": 1790,
+        "rd": 45,
+        "prog": -33
       },
       "rapid": {
-        "games": 605,
-        "rating": 1609,
-        "rd": 61,
-        "prog": -24
+        "games": 654,
+        "rating": 1650,
+        "rd": 77,
+        "prog": 60
+      },
+      "storm": {
+        "runs": 13,
+        "score": 38
       }
     },
     "createdAt": 1558222800354,
     "profile": {
       "country": "MY",
-      "location": "Ampang,Selangor",
-      "bio": "Hello everyone, this year (2021) is road 100 followers for me so if you all want to support me pls follow me.",
+      "location": "❔❔❔",
+      "bio": "Fun fact: Reading this means that you're EPIC❕❕❕😎😎😎",
       "firstName": "Muhammad Amin",
       "lastName": "Mohd Azlan",
-      "links": "Chess.com"
+      "links": "Aimchess.com\r\nTornelo.com\r\nChess24.com\r\nChess.com\r\nSraitkchess.club"
     },
-    "seenAt": 1610627595138,
+    "seenAt": 1631105774603,
     "playTime": {
-      "total": 843772,
+      "total": 1503991,
       "tv": 1373
     },
-    "language": "en-US",
     "url": "https://lichess.org/@/nimaazlan2007",
-    "nbFollowing": 38,
-    "nbFollowers": 69,
-    "completionRate": 83,
+    "nbFollowing": 67,
+    "nbFollowers": 99,
+    "completionRate": 77,
     "count": {
-      "all": 1230,
-      "rated": 1150,
+      "all": 1574,
+      "rated": 1421,
       "ai": 3,
-      "draw": 62,
-      "drawH": 62,
-      "loss": 625,
-      "lossH": 623,
-      "win": 543,
-      "winH": 542,
-      "bookmark": 1,
+      "draw": 79,
+      "drawH": 79,
+      "loss": 759,
+      "lossH": 757,
+      "win": 736,
+      "winH": 735,
+      "bookmark": 0,
       "playing": 0,
       "import": 1,
       "me": 0
