@@ -4,7 +4,7 @@
   "username": "hookedonbots",
   "profileUrl": "https://lichess.org/@/hookedonbots",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1965,\"rd\":277,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1413,\"rd\":431,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":14,\"rating\":2096,\"rd\":158,\"prog\":-97,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1496,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2436,\"rd\":285,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"profile\":{\"country\":\"_earth\",\"location\":\"lichess.org\",\"bio\":\"checkmate\\r\\nI'm easy for bots hard for humans drop in a challenge and i'm sure to crush you\\r\\nhttps://i.imgur.com/Pu3I8av.jpg\\r\\nthanks @chessnycdylans\\r\\nOnly plays blitz \\r\\n2500 rating\",\"firstName\":\"YOutube\",\"lastName\":\"staff (not really)\"},\"seenAt\":1630077770309,\"playTime\":{\"total\":8208,\"tv\":747},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":25,\"rated\":21,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hookedonbots\",\"username\":\"hookedonbots\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":3,\"rating\":1965,\"rd\":279,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1413,\"rd\":432,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":2093,\"rd\":145,\"prog\":-100,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1496,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2503,\"rd\":242,\"prog\":0,\"prov\":true}},\"createdAt\":1605910417016,\"profile\":{\"country\":\"_earth\",\"location\":\"lichess.org\",\"bio\":\"checkmate\\r\\nI'm easy for bots hard for humans drop in a challenge and i'm sure to crush you\\r\\nhttps://i.imgur.com/Pu3I8av.jpg\\r\\nthanks @chessnycdylans\\r\\nOnly plays blitz \\r\\n2500 rating\",\"firstName\":\"YOutube\",\"lastName\":\"staff (not really)\"},\"seenAt\":1631231578936,\"playTime\":{\"total\":9272,\"tv\":747},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/hookedonbots\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":28,\"rated\":24,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":15,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hookedonbots",
     "username": "hookedonbots",
@@ -13,22 +13,22 @@
       "antichess": {
         "games": 3,
         "rating": 1965,
-        "rd": 277,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1413,
-        "rd": 431,
+        "rd": 432,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 14,
-        "rating": 2096,
-        "rd": 158,
-        "prog": -97,
+        "games": 16,
+        "rating": 2093,
+        "rd": 145,
+        "prog": -100,
         "prov": true
       },
       "threeCheck": {
@@ -60,9 +60,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2436,
-        "rd": 285,
+        "games": 3,
+        "rating": 2503,
+        "rd": 242,
         "prog": 0,
         "prov": true
       }
@@ -75,9 +75,9 @@
       "firstName": "YOutube",
       "lastName": "staff (not really)"
     },
-    "seenAt": 1630077770309,
+    "seenAt": 1631231578936,
     "playTime": {
-      "total": 8208,
+      "total": 9272,
       "tv": 747
     },
     "title": "BOT",
@@ -85,15 +85,15 @@
     "nbFollowing": 0,
     "nbFollowers": 1,
     "count": {
-      "all": 25,
-      "rated": 21,
+      "all": 28,
+      "rated": 24,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 14,
-      "lossH": 14,
-      "win": 10,
-      "winH": 10,
+      "loss": 15,
+      "lossH": 15,
+      "win": 12,
+      "winH": 12,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
