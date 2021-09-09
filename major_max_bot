@@ -1,0 +1,87 @@
+{
+  "id": "major_max_bot",
+  "displayName": "Major_Max_Bot",
+  "username": "Major_Max_Bot",
+  "profileUrl": "https://lichess.org/@/Major_Max_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"major_max_bot\",\"username\":\"Major_Max_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":33,\"rating\":2708,\"rd\":122,\"prog\":-2,\"prov\":true},\"bullet\":{\"games\":126,\"rating\":2614,\"rd\":45,\"prog\":-14},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2712,\"rd\":257,\"prog\":0,\"prov\":true}},\"createdAt\":1630940379537,\"profile\":{\"country\":\"LK\",\"location\":\"Kandy\",\"bio\":\"Major_Max_Bot is a human-like neural network chess engine. This version was trained by learning from over 10 million Lichess games between 1100s. Owner and Developed by https://lichess.org/@/VenujaTBS  Accepts rated & casual, bullet to classical.\\r\\nFollow me.........\",\"firstName\":\"VENUJA\",\"lastName\":\"THILAKARATHNA\",\"fideRating\":3000},\"seenAt\":1631170684224,\"playTime\":{\"total\":19960,\"tv\":2925},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Major_Max_Bot\",\"nbFollowing\":1,\"nbFollowers\":3,\"count\":{\"all\":178,\"rated\":166,\"ai\":3,\"draw\":27,\"drawH\":27,\"loss\":18,\"lossH\":16,\"win\":133,\"winH\":132,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "major_max_bot",
+    "username": "Major_Max_Bot",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 33,
+        "rating": 2708,
+        "rd": 122,
+        "prog": -2,
+        "prov": true
+      },
+      "bullet": {
+        "games": 126,
+        "rating": 2614,
+        "rd": 45,
+        "prog": -14
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2712,
+        "rd": 257,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1630940379537,
+    "profile": {
+      "country": "LK",
+      "location": "Kandy",
+      "bio": "Major_Max_Bot is a human-like neural network chess engine. This version was trained by learning from over 10 million Lichess games between 1100s. Owner and Developed by https://lichess.org/@/VenujaTBS  Accepts rated & casual, bullet to classical.\r\nFollow me.........",
+      "firstName": "VENUJA",
+      "lastName": "THILAKARATHNA",
+      "fideRating": 3000
+    },
+    "seenAt": 1631170684224,
+    "playTime": {
+      "total": 19960,
+      "tv": 2925
+    },
+    "title": "BOT",
+    "url": "https://lichess.org/@/Major_Max_Bot",
+    "nbFollowing": 1,
+    "nbFollowers": 3,
+    "count": {
+      "all": 178,
+      "rated": 166,
+      "ai": 3,
+      "draw": 27,
+      "drawH": 27,
+      "loss": 18,
+      "lossH": 16,
+      "win": 133,
+      "winH": 132,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
