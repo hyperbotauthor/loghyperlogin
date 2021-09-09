@@ -4,7 +4,7 @@
   "username": "Hjpkulathilaka-bot",
   "profileUrl": "https://lichess.org/@/Hjpkulathilaka-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hjpkulathilaka-bot\",\"username\":\"Hjpkulathilaka-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1883,\"rd\":337,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1859,\"rd\":316,\"prog\":0,\"prov\":true}},\"createdAt\":1630926141063,\"seenAt\":1631016412302,\"playTime\":{\"total\":1780,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Hjpkulathilaka-bot\",\"playing\":\"https://lichess.org/lNO0rSK6/white\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hjpkulathilaka-bot\",\"username\":\"Hjpkulathilaka-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1724,\"rd\":221,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2239,\"rd\":269,\"prog\":0,\"prov\":true}},\"createdAt\":1630926141063,\"seenAt\":1631182492425,\"playTime\":{\"total\":2638,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Hjpkulathilaka-bot\",\"nbFollowing\":2,\"nbFollowers\":2,\"count\":{\"all\":6,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hjpkulathilaka-bot",
     "username": "Hjpkulathilaka-bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1883,
-        "rd": 337,
+        "games": 3,
+        "rating": 1724,
+        "rd": 221,
         "prog": 0,
         "prov": true
       },
@@ -39,36 +39,35 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1859,
-        "rd": 316,
+        "games": 3,
+        "rating": 2239,
+        "rd": 269,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1630926141063,
-    "seenAt": 1631016412302,
+    "seenAt": 1631182492425,
     "playTime": {
-      "total": 1780,
+      "total": 2638,
       "tv": 0
     },
     "title": "BOT",
     "url": "https://lichess.org/@/Hjpkulathilaka-bot",
-    "playing": "https://lichess.org/lNO0rSK6/white",
     "nbFollowing": 2,
-    "nbFollowers": 1,
+    "nbFollowers": 2,
     "count": {
-      "all": 3,
-      "rated": 3,
+      "all": 6,
+      "rated": 6,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 0,
-      "winH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
