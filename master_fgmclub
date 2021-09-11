@@ -4,23 +4,23 @@
   "username": "Master_FGMClub",
   "profileUrl": "https://lichess.org/@/Master_FGMClub",
   "provider": "lichess",
-  "_raw": "{\"id\":\"master_fgmclub\",\"username\":\"Master_FGMClub\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2077,\"rd\":296,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631072698451,\"seenAt\":1631074155495,\"playTime\":{\"total\":152,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Master_FGMClub\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"master_fgmclub\",\"username\":\"Master_FGMClub\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2106,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1797,\"rd\":201,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631072698451,\"seenAt\":1631333225202,\"playTime\":{\"total\":2045,\"tv\":238},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Master_FGMClub\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":9,\"rated\":7,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":3,\"lossH\":3,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "master_fgmclub",
     "username": "Master_FGMClub",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2077,
-        "rd": 296,
+        "games": 4,
+        "rating": 2106,
+        "rd": 171,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 1797,
+        "rd": 201,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,25 @@
       }
     },
     "createdAt": 1631072698451,
-    "seenAt": 1631074155495,
+    "seenAt": 1631333225202,
     "playTime": {
-      "total": 152,
-      "tv": 0
+      "total": 2045,
+      "tv": 238
     },
     "title": "BOT",
     "url": "https://lichess.org/@/Master_FGMClub",
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 1,
-      "rated": 1,
-      "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 9,
+      "rated": 7,
+      "ai": 1,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 3,
+      "lossH": 3,
+      "win": 3,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
