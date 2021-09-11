@@ -1,0 +1,87 @@
+{
+  "id": "creisinger",
+  "displayName": "creisinger",
+  "username": "creisinger",
+  "profileUrl": "https://lichess.org/@/creisinger",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"creisinger\",\"username\":\"creisinger\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":156,\"rating\":890,\"rd\":132,\"prog\":17,\"prov\":true},\"puzzle\":{\"games\":216,\"rating\":1458,\"rd\":207,\"prog\":13,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1076,\"rd\":232,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1544,\"rd\":240,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1146,\"rd\":169,\"prog\":0,\"prov\":true}},\"createdAt\":1517424645609,\"seenAt\":1631354035968,\"playTime\":{\"total\":79446,\"tv\":0},\"url\":\"https://lichess.org/@/creisinger\",\"nbFollowing\":0,\"nbFollowers\":0,\"completionRate\":100,\"count\":{\"all\":247,\"rated\":172,\"ai\":71,\"draw\":5,\"drawH\":3,\"loss\":167,\"lossH\":110,\"win\":75,\"winH\":63,\"bookmark\":0,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "creisinger",
+    "username": "creisinger",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 156,
+        "rating": 890,
+        "rd": 132,
+        "prog": 17,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 216,
+        "rating": 1458,
+        "rd": 207,
+        "prog": 13,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1076,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1544,
+        "rd": 240,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 10,
+        "rating": 1146,
+        "rd": 169,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1517424645609,
+    "seenAt": 1631354035968,
+    "playTime": {
+      "total": 79446,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/creisinger",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "completionRate": 100,
+    "count": {
+      "all": 247,
+      "rated": 172,
+      "ai": 71,
+      "draw": 5,
+      "drawH": 3,
+      "loss": 167,
+      "lossH": 110,
+      "win": 75,
+      "winH": 63,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
