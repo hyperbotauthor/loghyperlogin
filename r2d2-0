@@ -1,0 +1,80 @@
+{
+  "id": "r2d2-0",
+  "displayName": "R2D2-0",
+  "username": "R2D2-0",
+  "profileUrl": "https://lichess.org/@/R2D2-0",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"r2d2-0\",\"username\":\"R2D2-0\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":15,\"rating\":1268,\"rd\":158,\"prog\":-74,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1612630406173,\"seenAt\":1631351399358,\"playTime\":{\"total\":3800,\"tv\":0},\"url\":\"https://lichess.org/@/R2D2-0\",\"nbFollowing\":7,\"nbFollowers\":2,\"completionRate\":82,\"count\":{\"all\":22,\"rated\":22,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":15,\"lossH\":15,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "r2d2-0",
+    "username": "R2D2-0",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 15,
+        "rating": 1268,
+        "rd": 158,
+        "prog": -74,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1612630406173,
+    "seenAt": 1631351399358,
+    "playTime": {
+      "total": 3800,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/R2D2-0",
+    "nbFollowing": 7,
+    "nbFollowers": 2,
+    "completionRate": 82,
+    "count": {
+      "all": 22,
+      "rated": 22,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 15,
+      "lossH": 15,
+      "win": 6,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
