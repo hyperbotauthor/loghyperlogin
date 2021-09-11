@@ -4,25 +4,31 @@
   "username": "kindabadbot",
   "profileUrl": "https://lichess.org/@/kindabadbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kindabadbot\",\"username\":\"kindabadbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631253324099,\"profile\":{\"bio\":\"Bot of @Pro1234Player\"},\"seenAt\":1631254003332,\"playTime\":{\"total\":110,\"tv\":26},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kindabadbot\",\"nbFollowing\":1,\"nbFollowers\":0,\"count\":{\"all\":3,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kindabadbot\",\"username\":\"kindabadbot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2015,\"rd\":146,\"prog\":29,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1432,\"rd\":403,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":121,\"rating\":1974,\"rd\":47,\"prog\":-40},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2007,\"rd\":491,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631253324099,\"profile\":{\"bio\":\"Bot of @Pro1234Player\\r\\nI beat stockfish level 8 in atomic: https://lichess.org/88ebyG0M\"},\"seenAt\":1631359528189,\"playTime\":{\"total\":14333,\"tv\":726},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/kindabadbot\",\"nbFollowing\":6,\"nbFollowers\":3,\"count\":{\"all\":152,\"rated\":140,\"ai\":3,\"draw\":9,\"drawH\":9,\"loss\":33,\"lossH\":32,\"win\":110,\"winH\":108,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kindabadbot",
     "username": "kindabadbot",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 14,
+        "rating": 2015,
+        "rd": 146,
+        "prog": 29,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1432,
+        "rd": 403,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 121,
+        "rating": 1974,
+        "rd": 47,
+        "prog": -40
       },
       "correspondence": {
         "games": 0,
@@ -32,9 +38,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2007,
+        "rd": 491,
         "prog": 0,
         "prov": true
       },
@@ -48,27 +54,27 @@
     },
     "createdAt": 1631253324099,
     "profile": {
-      "bio": "Bot of @Pro1234Player"
+      "bio": "Bot of @Pro1234Player\r\nI beat stockfish level 8 in atomic: https://lichess.org/88ebyG0M"
     },
-    "seenAt": 1631254003332,
+    "seenAt": 1631359528189,
     "playTime": {
-      "total": 110,
-      "tv": 26
+      "total": 14333,
+      "tv": 726
     },
     "title": "BOT",
     "url": "https://lichess.org/@/kindabadbot",
-    "nbFollowing": 1,
-    "nbFollowers": 0,
+    "nbFollowing": 6,
+    "nbFollowers": 3,
     "count": {
-      "all": 3,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 0,
-      "winH": 0,
+      "all": 152,
+      "rated": 140,
+      "ai": 3,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 33,
+      "lossH": 32,
+      "win": 110,
+      "winH": 108,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
