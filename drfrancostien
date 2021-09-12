@@ -1,0 +1,93 @@
+{
+  "id": "drfrancostien",
+  "displayName": "DrFrancostien",
+  "username": "DrFrancostien",
+  "profileUrl": "https://lichess.org/@/DrFrancostien",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"drfrancostien\",\"username\":\"DrFrancostien\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":13,\"rating\":2230,\"rd\":122,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2021,\"rd\":156,\"prog\":140,\"prov\":true}},\"createdAt\":1631409251799,\"profile\":{\"country\":\"LK\",\"bio\":\"https://lichess.org/team/the-chess-bombers\\r\\njoin for my team and get new follower\",\"firstName\":\"sl\",\"lastName\":\"b2k\",\"fideRating\":2175},\"seenAt\":1631450491801,\"playTime\":{\"total\":12027,\"tv\":0},\"url\":\"https://lichess.org/@/DrFrancostien\",\"nbFollowing\":22,\"nbFollowers\":11,\"count\":{\"all\":18,\"rated\":15,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "drfrancostien",
+    "username": "DrFrancostien",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 13,
+        "rating": 2230,
+        "rd": 122,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 15,
+        "rating": 2021,
+        "rd": 156,
+        "prog": 140,
+        "prov": true
+      }
+    },
+    "createdAt": 1631409251799,
+    "profile": {
+      "country": "LK",
+      "bio": "https://lichess.org/team/the-chess-bombers\r\njoin for my team and get new follower",
+      "firstName": "sl",
+      "lastName": "b2k",
+      "fideRating": 2175
+    },
+    "seenAt": 1631450491801,
+    "playTime": {
+      "total": 12027,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/DrFrancostien",
+    "nbFollowing": 22,
+    "nbFollowers": 11,
+    "count": {
+      "all": 18,
+      "rated": 15,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 14,
+      "winH": 14,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
