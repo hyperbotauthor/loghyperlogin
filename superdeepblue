@@ -1,0 +1,84 @@
+{
+  "id": "superdeepblue",
+  "displayName": "SuperDeepBlue",
+  "username": "SuperDeepBlue",
+  "profileUrl": "https://lichess.org/@/SuperDeepBlue",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"superdeepblue\",\"username\":\"SuperDeepBlue\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2015,\"rd\":477,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2032,\"rd\":461,\"prog\":0,\"prov\":true}},\"createdAt\":1631516617895,\"profile\":{\"country\":\"_earth\",\"bio\":\"I am the BOT of @Cyrus0101\"},\"seenAt\":1631615653437,\"playTime\":{\"total\":15897,\"tv\":1882},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/SuperDeepBlue\",\"nbFollowing\":9,\"nbFollowers\":8,\"count\":{\"all\":62,\"rated\":2,\"ai\":46,\"draw\":3,\"drawH\":2,\"loss\":19,\"lossH\":4,\"win\":40,\"winH\":10,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "superdeepblue",
+    "username": "SuperDeepBlue",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2015,
+        "rd": 477,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2032,
+        "rd": 461,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1631516617895,
+    "profile": {
+      "country": "_earth",
+      "bio": "I am the BOT of @Cyrus0101"
+    },
+    "seenAt": 1631615653437,
+    "playTime": {
+      "total": 15897,
+      "tv": 1882
+    },
+    "title": "BOT",
+    "url": "https://lichess.org/@/SuperDeepBlue",
+    "nbFollowing": 9,
+    "nbFollowers": 8,
+    "count": {
+      "all": 62,
+      "rated": 2,
+      "ai": 46,
+      "draw": 3,
+      "drawH": 2,
+      "loss": 19,
+      "lossH": 4,
+      "win": 40,
+      "winH": 10,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
