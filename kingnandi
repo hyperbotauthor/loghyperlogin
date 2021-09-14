@@ -1,0 +1,164 @@
+{
+  "id": "kingnandi",
+  "displayName": "Kingnandi",
+  "username": "Kingnandi",
+  "profileUrl": "https://lichess.org/@/Kingnandi",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kingnandi\",\"username\":\"Kingnandi\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":13,\"rating\":998,\"rd\":183,\"prog\":-48,\"prov\":true},\"antichess\":{\"games\":26,\"rating\":1067,\"rd\":125,\"prog\":137,\"prov\":true},\"atomic\":{\"games\":63,\"rating\":1085,\"rd\":108,\"prog\":29},\"racingKings\":{\"games\":32,\"rating\":1062,\"rd\":136,\"prog\":-29,\"prov\":true},\"ultraBullet\":{\"games\":454,\"rating\":1296,\"rd\":74,\"prog\":-51},\"blitz\":{\"games\":403,\"rating\":1611,\"rd\":79,\"prog\":-16},\"kingOfTheHill\":{\"games\":68,\"rating\":1434,\"rd\":106,\"prog\":-2},\"crazyhouse\":{\"games\":42,\"rating\":1484,\"rd\":112,\"prog\":16,\"prov\":true},\"threeCheck\":{\"games\":19,\"rating\":1445,\"rd\":152,\"prog\":14,\"prov\":true},\"bullet\":{\"games\":523,\"rating\":1510,\"rd\":60,\"prog\":3},\"correspondence\":{\"games\":16,\"rating\":1548,\"rd\":157,\"prog\":70,\"prov\":true},\"horde\":{\"games\":8,\"rating\":1591,\"rd\":208,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":405,\"rating\":1954,\"rd\":104,\"prog\":0},\"classical\":{\"games\":20,\"rating\":1473,\"rd\":134,\"prog\":89,\"prov\":true},\"rapid\":{\"games\":187,\"rating\":1729,\"rd\":93,\"prog\":12},\"storm\":{\"runs\":20,\"score\":32},\"racer\":{\"runs\":16,\"score\":47},\"streak\":{\"runs\":8,\"score\":18}},\"createdAt\":1603871481269,\"profile\":{\"country\":\"IN\",\"location\":\"West bengal\",\"bio\":\"hi i am vignesh. I love to code lichess bots and play chess. Follow my best bots who are @Kingnandiinfinitebot and @Strongestkingnandbot . THEY ARE THE STRONGEST AND BEST OF MY BOTS. My old bots are closed .anyway follow me too and if you want any help in makig bots ask me and all my bots are coded by me in c++, python and java.have nice day\",\"firstName\":\"Vignesh\",\"lastName\":\"legend\",\"fideRating\":1424,\"links\":\"Chess.com,lichess,github\"},\"seenAt\":1631621482003,\"playTime\":{\"total\":386092,\"tv\":4082},\"url\":\"https://lichess.org/@/Kingnandi\",\"nbFollowing\":6,\"nbFollowers\":43,\"completionRate\":83,\"count\":{\"all\":2128,\"rated\":1889,\"ai\":16,\"draw\":84,\"drawH\":83,\"loss\":1236,\"lossH\":1229,\"win\":808,\"winH\":800,\"bookmark\":13,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kingnandi",
+    "username": "Kingnandi",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 13,
+        "rating": 998,
+        "rd": 183,
+        "prog": -48,
+        "prov": true
+      },
+      "antichess": {
+        "games": 26,
+        "rating": 1067,
+        "rd": 125,
+        "prog": 137,
+        "prov": true
+      },
+      "atomic": {
+        "games": 63,
+        "rating": 1085,
+        "rd": 108,
+        "prog": 29
+      },
+      "racingKings": {
+        "games": 32,
+        "rating": 1062,
+        "rd": 136,
+        "prog": -29,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 454,
+        "rating": 1296,
+        "rd": 74,
+        "prog": -51
+      },
+      "blitz": {
+        "games": 403,
+        "rating": 1611,
+        "rd": 79,
+        "prog": -16
+      },
+      "kingOfTheHill": {
+        "games": 68,
+        "rating": 1434,
+        "rd": 106,
+        "prog": -2
+      },
+      "crazyhouse": {
+        "games": 42,
+        "rating": 1484,
+        "rd": 112,
+        "prog": 16,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 19,
+        "rating": 1445,
+        "rd": 152,
+        "prog": 14,
+        "prov": true
+      },
+      "bullet": {
+        "games": 523,
+        "rating": 1510,
+        "rd": 60,
+        "prog": 3
+      },
+      "correspondence": {
+        "games": 16,
+        "rating": 1548,
+        "rd": 157,
+        "prog": 70,
+        "prov": true
+      },
+      "horde": {
+        "games": 8,
+        "rating": 1591,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 405,
+        "rating": 1954,
+        "rd": 104,
+        "prog": 0
+      },
+      "classical": {
+        "games": 20,
+        "rating": 1473,
+        "rd": 134,
+        "prog": 89,
+        "prov": true
+      },
+      "rapid": {
+        "games": 187,
+        "rating": 1729,
+        "rd": 93,
+        "prog": 12
+      },
+      "storm": {
+        "runs": 20,
+        "score": 32
+      },
+      "racer": {
+        "runs": 16,
+        "score": 47
+      },
+      "streak": {
+        "runs": 8,
+        "score": 18
+      }
+    },
+    "createdAt": 1603871481269,
+    "profile": {
+      "country": "IN",
+      "location": "West bengal",
+      "bio": "hi i am vignesh. I love to code lichess bots and play chess. Follow my best bots who are @Kingnandiinfinitebot and @Strongestkingnandbot . THEY ARE THE STRONGEST AND BEST OF MY BOTS. My old bots are closed .anyway follow me too and if you want any help in makig bots ask me and all my bots are coded by me in c++, python and java.have nice day",
+      "firstName": "Vignesh",
+      "lastName": "legend",
+      "fideRating": 1424,
+      "links": "Chess.com,lichess,github"
+    },
+    "seenAt": 1631621482003,
+    "playTime": {
+      "total": 386092,
+      "tv": 4082
+    },
+    "url": "https://lichess.org/@/Kingnandi",
+    "nbFollowing": 6,
+    "nbFollowers": 43,
+    "completionRate": 83,
+    "count": {
+      "all": 2128,
+      "rated": 1889,
+      "ai": 16,
+      "draw": 84,
+      "drawH": 83,
+      "loss": 1236,
+      "lossH": 1229,
+      "win": 808,
+      "winH": 800,
+      "bookmark": 13,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": false,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
