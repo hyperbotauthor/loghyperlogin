@@ -4,7 +4,7 @@
   "username": "Av_Aj_Ka",
   "profileUrl": "https://lichess.org/@/Av_Aj_Ka",
   "provider": "lichess",
-  "_raw": "{\"id\":\"av_aj_ka\",\"username\":\"Av_Aj_Ka\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2249,\"rd\":188,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1976,\"rd\":335,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2467,\"rd\":244,\"prog\":0,\"prov\":true}},\"createdAt\":1625239642347,\"seenAt\":1629948377604,\"playTime\":{\"total\":7291,\"tv\":911},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Av_Aj_Ka\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":22,\"rated\":17,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":8,\"win\":9,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"av_aj_ka\",\"username\":\"Av_Aj_Ka\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2249,\"rd\":191,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1976,\"rd\":337,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2467,\"rd\":247,\"prog\":0,\"prov\":true}},\"createdAt\":1625239642347,\"seenAt\":1631698377936,\"playTime\":{\"total\":7291,\"tv\":911},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Av_Aj_Ka\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":22,\"rated\":17,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":8,\"win\":9,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "av_aj_ka",
     "username": "Av_Aj_Ka",
@@ -13,14 +13,14 @@
       "blitz": {
         "games": 6,
         "rating": 2249,
-        "rd": 188,
+        "rd": 191,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 7,
         "rating": 1976,
-        "rd": 335,
+        "rd": 337,
         "prog": 0,
         "prov": true
       },
@@ -41,13 +41,13 @@
       "rapid": {
         "games": 3,
         "rating": 2467,
-        "rd": 244,
+        "rd": 247,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1625239642347,
-    "seenAt": 1629948377604,
+    "seenAt": 1631698377936,
     "playTime": {
       "total": 7291,
       "tv": 911
