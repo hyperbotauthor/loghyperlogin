@@ -1,0 +1,110 @@
+{
+  "id": "chessmaster_n",
+  "displayName": "Chessmaster_N",
+  "username": "Chessmaster_N",
+  "profileUrl": "https://lichess.org/@/Chessmaster_N",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessmaster_n\",\"username\":\"Chessmaster_N\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":19,\"rating\":1880,\"rd\":105,\"prog\":51},\"antichess\":{\"games\":1,\"rating\":1666,\"rd\":361,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":447,\"rating\":1757,\"rd\":45,\"prog\":16},\"bullet\":{\"games\":167,\"rating\":2036,\"rd\":72,\"prog\":130},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1680,\"rd\":270,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":149,\"rating\":2109,\"rd\":93,\"prog\":0},\"classical\":{\"games\":3,\"rating\":1990,\"rd\":210,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":62,\"rating\":1696,\"rd\":79,\"prog\":-35},\"storm\":{\"runs\":7,\"score\":26}},\"createdAt\":1623310416627,\"profile\":{\"country\":\"IT\"},\"seenAt\":1631689167672,\"playTime\":{\"total\":173073,\"tv\":754},\"url\":\"https://lichess.org/@/Chessmaster_N\",\"nbFollowing\":11,\"nbFollowers\":3,\"completionRate\":77,\"count\":{\"all\":1160,\"rated\":701,\"ai\":400,\"draw\":45,\"drawH\":21,\"loss\":651,\"lossH\":302,\"win\":464,\"winH\":437,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessmaster_n",
+    "username": "Chessmaster_N",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 1880,
+        "rd": 105,
+        "prog": 51
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1666,
+        "rd": 361,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 447,
+        "rating": 1757,
+        "rd": 45,
+        "prog": 16
+      },
+      "bullet": {
+        "games": 167,
+        "rating": 2036,
+        "rd": 72,
+        "prog": 130
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1680,
+        "rd": 270,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 149,
+        "rating": 2109,
+        "rd": 93,
+        "prog": 0
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1990,
+        "rd": 210,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 62,
+        "rating": 1696,
+        "rd": 79,
+        "prog": -35
+      },
+      "storm": {
+        "runs": 7,
+        "score": 26
+      }
+    },
+    "createdAt": 1623310416627,
+    "profile": {
+      "country": "IT"
+    },
+    "seenAt": 1631689167672,
+    "playTime": {
+      "total": 173073,
+      "tv": 754
+    },
+    "url": "https://lichess.org/@/Chessmaster_N",
+    "nbFollowing": 11,
+    "nbFollowers": 3,
+    "completionRate": 77,
+    "count": {
+      "all": 1160,
+      "rated": 701,
+      "ai": 400,
+      "draw": 45,
+      "drawH": 21,
+      "loss": 651,
+      "lossH": 302,
+      "win": 464,
+      "winH": 437,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
