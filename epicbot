@@ -4,16 +4,16 @@
   "username": "EpicBOT",
   "profileUrl": "https://lichess.org/@/EpicBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"epicbot\",\"username\":\"EpicBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2153,\"rd\":356,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629402118119,\"seenAt\":1631652713589,\"playTime\":{\"total\":1756,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EpicBOT\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":85,\"rated\":2,\"ai\":35,\"draw\":8,\"drawH\":6,\"loss\":24,\"lossH\":15,\"win\":53,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"epicbot\",\"username\":\"EpicBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2221,\"rd\":277,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629402118119,\"seenAt\":1631825960453,\"playTime\":{\"total\":2235,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EpicBOT\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":98,\"rated\":3,\"ai\":35,\"draw\":11,\"drawH\":9,\"loss\":26,\"lossH\":17,\"win\":61,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "epicbot",
     "username": "EpicBOT",
     "online": true,
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 2153,
-        "rd": 356,
+        "games": 3,
+        "rating": 2221,
+        "rd": 277,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1629402118119,
-    "seenAt": 1631652713589,
+    "seenAt": 1631825960453,
     "playTime": {
-      "total": 1756,
+      "total": 2235,
       "tv": 0
     },
     "title": "BOT",
@@ -57,15 +57,15 @@
     "nbFollowing": 2,
     "nbFollowers": 0,
     "count": {
-      "all": 85,
-      "rated": 2,
+      "all": 98,
+      "rated": 3,
       "ai": 35,
-      "draw": 8,
-      "drawH": 6,
-      "loss": 24,
-      "lossH": 15,
-      "win": 53,
-      "winH": 29,
+      "draw": 11,
+      "drawH": 9,
+      "loss": 26,
+      "lossH": 17,
+      "win": 61,
+      "winH": 37,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
