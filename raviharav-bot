@@ -1,0 +1,105 @@
+{
+  "id": "raviharav-bot",
+  "displayName": "RaviharaV-BOT",
+  "username": "RaviharaV-BOT",
+  "profileUrl": "https://lichess.org/@/RaviharaV-BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"raviharav-bot\",\"username\":\"RaviharaV-BOT\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1712,\"rd\":339,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2304,\"rd\":165,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1461,\"rd\":447,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2177,\"rd\":417,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2589,\"rd\":109,\"prog\":38},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2370,\"rd\":385,\"prog\":0,\"prov\":true}},\"createdAt\":1631792165405,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Bot of @RaviharaV\"},\"seenAt\":1631864582831,\"playTime\":{\"total\":20598,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/RaviharaV-BOT\",\"playing\":\"https://lichess.org/TBarRFoI/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":54,\"rated\":29,\"ai\":17,\"draw\":13,\"drawH\":13,\"loss\":23,\"lossH\":10,\"win\":18,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "raviharav-bot",
+    "username": "RaviharaV-BOT",
+    "online": true,
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1712,
+        "rd": 339,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 6,
+        "rating": 2304,
+        "rd": 165,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1461,
+        "rd": 447,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 2177,
+        "rd": 417,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 15,
+        "rating": 2589,
+        "rd": 109,
+        "prog": 38
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2370,
+        "rd": 385,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1631792165405,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Bot of @RaviharaV"
+    },
+    "seenAt": 1631864582831,
+    "playTime": {
+      "total": 20598,
+      "tv": 0
+    },
+    "title": "BOT",
+    "url": "https://lichess.org/@/RaviharaV-BOT",
+    "playing": "https://lichess.org/TBarRFoI/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 54,
+      "rated": 29,
+      "ai": 17,
+      "draw": 13,
+      "drawH": 13,
+      "loss": 23,
+      "lossH": 10,
+      "win": 18,
+      "winH": 14,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
