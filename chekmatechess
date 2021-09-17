@@ -4,7 +4,7 @@
   "username": "chekmatechess",
   "profileUrl": "https://lichess.org/@/chekmatechess",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1530,\"rd\":153,\"prog\":-129,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2091,\"rd\":356,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":2044,\"rd\":123,\"prog\":21,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":2037,\"rd\":122,\"prog\":117,\"prov\":true},\"blitz\":{\"games\":62,\"rating\":2173,\"rd\":90,\"prog\":9},\"kingOfTheHill\":{\"games\":9,\"rating\":2015,\"rd\":158,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1034,\"rd\":325,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":334,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":104,\"rating\":2052,\"rd\":71,\"prog\":4},\"correspondence\":{\"games\":2,\"rating\":1659,\"rd\":297,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2240,\"rd\":266,\"prog\":-354,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello everyone i am chekmatechess the bot. i am pro in atomic see https://lichess.org/P7lWmxyroxY8 https://lichess.org/ktnfSgTaxp5w and in rk https://lichess.org/glI5FZTK810B\"},\"seenAt\":1631176609187,\"playTime\":{\"total\":55494,\"tv\":9316},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"playing\":\"https://lichess.org/1Oip4npO/black\",\"nbFollowing\":18,\"nbFollowers\":75,\"count\":{\"all\":402,\"rated\":256,\"ai\":45,\"draw\":31,\"drawH\":22,\"loss\":119,\"lossH\":104,\"win\":252,\"winH\":231,\"bookmark\":0,\"playing\":10,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chekmatechess\",\"username\":\"chekmatechess\",\"online\":true,\"perfs\":{\"antichess\":{\"games\":15,\"rating\":1530,\"rd\":154,\"prog\":-129,\"prov\":true},\"horde\":{\"games\":1,\"rating\":2091,\"rd\":357,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":17,\"rating\":2044,\"rd\":124,\"prog\":21,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":2037,\"rd\":124,\"prog\":117,\"prov\":true},\"blitz\":{\"games\":62,\"rating\":2173,\"rd\":92,\"prog\":9},\"kingOfTheHill\":{\"games\":9,\"rating\":2015,\"rd\":160,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1034,\"rd\":326,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1088,\"rd\":335,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":104,\"rating\":2052,\"rd\":73,\"prog\":4},\"correspondence\":{\"games\":2,\"rating\":1659,\"rd\":297,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2240,\"rd\":267,\"prog\":-354,\"prov\":true}},\"createdAt\":1602568593277,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1631846070728,\"playTime\":{\"total\":55665,\"tv\":9316},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/chekmatechess\",\"playing\":\"https://lichess.org/1Oip4npO/black\",\"nbFollowing\":18,\"nbFollowers\":73,\"count\":{\"all\":403,\"rated\":256,\"ai\":46,\"draw\":31,\"drawH\":22,\"loss\":119,\"lossH\":104,\"win\":253,\"winH\":231,\"bookmark\":0,\"playing\":10,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chekmatechess",
     "username": "chekmatechess",
@@ -13,62 +13,62 @@
       "antichess": {
         "games": 15,
         "rating": 1530,
-        "rd": 153,
+        "rd": 154,
         "prog": -129,
         "prov": true
       },
       "horde": {
         "games": 1,
         "rating": 2091,
-        "rd": 356,
+        "rd": 357,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 17,
         "rating": 2044,
-        "rd": 123,
+        "rd": 124,
         "prog": 21,
         "prov": true
       },
       "racingKings": {
         "games": 23,
         "rating": 2037,
-        "rd": 122,
+        "rd": 124,
         "prog": 117,
         "prov": true
       },
       "blitz": {
         "games": 62,
         "rating": 2173,
-        "rd": 90,
+        "rd": 92,
         "prog": 9
       },
       "kingOfTheHill": {
         "games": 9,
         "rating": 2015,
-        "rd": 158,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 3,
         "rating": 1034,
-        "rd": 325,
+        "rd": 326,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1088,
-        "rd": 334,
+        "rd": 335,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 104,
         "rating": 2052,
-        "rd": 71,
+        "rd": 73,
         "prog": 4
       },
       "correspondence": {
@@ -88,35 +88,34 @@
       "rapid": {
         "games": 13,
         "rating": 2240,
-        "rd": 266,
+        "rd": 267,
         "prog": -354,
         "prov": true
       }
     },
     "createdAt": 1602568593277,
     "profile": {
-      "country": "_lichess",
-      "bio": "Hello everyone i am chekmatechess the bot. i am pro in atomic see https://lichess.org/P7lWmxyroxY8 https://lichess.org/ktnfSgTaxp5w and in rk https://lichess.org/glI5FZTK810B"
+      "country": "_lichess"
     },
-    "seenAt": 1631176609187,
+    "seenAt": 1631846070728,
     "playTime": {
-      "total": 55494,
+      "total": 55665,
       "tv": 9316
     },
     "title": "BOT",
     "url": "https://lichess.org/@/chekmatechess",
     "playing": "https://lichess.org/1Oip4npO/black",
     "nbFollowing": 18,
-    "nbFollowers": 75,
+    "nbFollowers": 73,
     "count": {
-      "all": 402,
+      "all": 403,
       "rated": 256,
-      "ai": 45,
+      "ai": 46,
       "draw": 31,
       "drawH": 22,
       "loss": 119,
       "lossH": 104,
-      "win": 252,
+      "win": 253,
       "winH": 231,
       "bookmark": 0,
       "playing": 10,
