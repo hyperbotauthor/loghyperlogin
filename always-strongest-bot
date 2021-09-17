@@ -4,7 +4,7 @@
   "username": "always-strongest-bot",
   "profileUrl": "https://lichess.org/@/always-strongest-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"always-strongest-bot\",\"username\":\"always-strongest-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631291707780,\"seenAt\":1631644252719,\"playTime\":{\"total\":166,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/always-strongest-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":2,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"always-strongest-bot\",\"username\":\"always-strongest-bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2348,\"rd\":125,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631291707780,\"seenAt\":1631843741125,\"playTime\":{\"total\":1660,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/always-strongest-bot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":15,\"rated\":10,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":8,\"lossH\":8,\"win\":2,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "always-strongest-bot",
     "username": "always-strongest-bot",
@@ -18,9 +18,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 10,
+        "rating": 2348,
+        "rd": 125,
         "prog": 0,
         "prov": true
       },
@@ -47,9 +47,9 @@
       }
     },
     "createdAt": 1631291707780,
-    "seenAt": 1631644252719,
+    "seenAt": 1631843741125,
     "playTime": {
-      "total": 166,
+      "total": 1660,
       "tv": 0
     },
     "title": "BOT",
@@ -57,15 +57,15 @@
     "nbFollowing": 0,
     "nbFollowers": 0,
     "count": {
-      "all": 2,
-      "rated": 0,
+      "all": 15,
+      "rated": 10,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 1,
-      "winH": 0,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 8,
+      "lossH": 8,
+      "win": 2,
+      "winH": 1,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
