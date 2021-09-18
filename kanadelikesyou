@@ -1,0 +1,88 @@
+{
+  "id": "kanadelikesyou",
+  "displayName": "KanadeLIKESYOU",
+  "username": "KanadeLIKESYOU",
+  "profileUrl": "https://lichess.org/@/KanadeLIKESYOU",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kanadelikesyou\",\"username\":\"KanadeLIKESYOU\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2,\"rating\":1440,\"rd\":276,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1283,\"rd\":311,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1165,\"rd\":345,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1636,\"rd\":395,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1636,\"rd\":236,\"prog\":0,\"prov\":true}},\"createdAt\":1507243517321,\"tosViolation\":true,\"seenAt\":1631929050598,\"playTime\":{\"total\":5072,\"tv\":0},\"url\":\"https://lichess.org/@/KanadeLIKESYOU\",\"playing\":\"https://lichess.org/nc8aedoW/black\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":111,\"rated\":14,\"ai\":76,\"draw\":3,\"drawH\":2,\"loss\":88,\"lossH\":20,\"win\":20,\"winH\":13,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kanadelikesyou",
+    "username": "KanadeLIKESYOU",
+    "online": true,
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 2,
+        "rating": 1440,
+        "rd": 276,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1283,
+        "rd": 311,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1165,
+        "rd": 345,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1636,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 9,
+        "rating": 1636,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1507243517321,
+    "tosViolation": true,
+    "seenAt": 1631929050598,
+    "playTime": {
+      "total": 5072,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/KanadeLIKESYOU",
+    "playing": "https://lichess.org/nc8aedoW/black",
+    "nbFollowing": 0,
+    "nbFollowers": 0,
+    "count": {
+      "all": 111,
+      "rated": 14,
+      "ai": 76,
+      "draw": 3,
+      "drawH": 2,
+      "loss": 88,
+      "lossH": 20,
+      "win": 20,
+      "winH": 13,
+      "bookmark": 0,
+      "playing": 2,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
