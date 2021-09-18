@@ -4,7 +4,7 @@
   "username": "Bot8888",
   "profileUrl": "https://lichess.org/@/Bot8888",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot8888\",\"username\":\"Bot8888\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1631432096091,\"seenAt\":1631432115894,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Bot8888\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot8888\",\"username\":\"Bot8888\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2217,\"rd\":288,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1670,\"rd\":204,\"prog\":0,\"prov\":true}},\"createdAt\":1631432096091,\"profile\":{\"country\":\"DE\",\"bio\":\"I am a bot pls challenge me to games\",\"firstName\":\"Bot\",\"lastName\":\"8888\"},\"seenAt\":1631953285633,\"playTime\":{\"total\":1712,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Bot8888\",\"nbFollowing\":2,\"nbFollowers\":1,\"count\":{\"all\":9,\"rated\":4,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":7,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot8888",
     "username": "Bot8888",
@@ -12,59 +12,66 @@
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2217,
+        "rd": 288,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1670,
+        "rd": 204,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1631432096091,
-    "seenAt": 1631432115894,
+    "profile": {
+      "country": "DE",
+      "bio": "I am a bot pls challenge me to games",
+      "firstName": "Bot",
+      "lastName": "8888"
+    },
+    "seenAt": 1631953285633,
     "playTime": {
-      "total": 0,
+      "total": 1712,
       "tv": 0
     },
+    "title": "BOT",
     "url": "https://lichess.org/@/Bot8888",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
+    "nbFollowing": 2,
+    "nbFollowers": 1,
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 9,
+      "rated": 4,
+      "ai": 4,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 1,
+      "lossH": 1,
+      "win": 7,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
