@@ -4,31 +4,30 @@
   "username": "LAVANYARESHMA01",
   "profileUrl": "https://lichess.org/@/LAVANYARESHMA01",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lavanyareshma01\",\"username\":\"LAVANYARESHMA01\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1919,\"rd\":221,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2304,\"rd\":248,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":2561,\"rd\":62,\"prog\":20},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2287,\"rd\":287,\"prog\":0,\"prov\":true}},\"createdAt\":1619248156997,\"profile\":{\"country\":\"AU\"},\"seenAt\":1623739177203,\"playTime\":{\"total\":9856,\"tv\":2156},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LAVANYARESHMA01\",\"playing\":\"https://lichess.org/3FUOHiOz/black\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":79,\"rated\":54,\"ai\":3,\"draw\":38,\"drawH\":38,\"loss\":6,\"lossH\":4,\"win\":35,\"winH\":34,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lavanyareshma01\",\"username\":\"LAVANYARESHMA01\",\"perfs\":{\"chess960\":{\"games\":7,\"rating\":2047,\"rd\":179,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2304,\"rd\":258,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":45,\"rating\":2539,\"rd\":91,\"prog\":-5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2287,\"rd\":296,\"prog\":0,\"prov\":true}},\"createdAt\":1619248156997,\"online\":true,\"profile\":{\"country\":\"AU\"},\"seenAt\":1632307387192,\"playTime\":{\"total\":10500,\"tv\":2220},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/LAVANYARESHMA01\",\"count\":{\"all\":91,\"rated\":61,\"ai\":7,\"draw\":39,\"drawH\":39,\"loss\":11,\"lossH\":5,\"win\":41,\"winH\":40,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lavanyareshma01",
     "username": "LAVANYARESHMA01",
-    "online": true,
     "perfs": {
       "chess960": {
-        "games": 3,
-        "rating": 1919,
-        "rd": 221,
+        "games": 7,
+        "rating": 2047,
+        "rd": 179,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 3,
         "rating": 2304,
-        "rd": 248,
+        "rd": 258,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 43,
-        "rating": 2561,
-        "rd": 62,
-        "prog": 20
+        "games": 45,
+        "rating": 2539,
+        "rd": 91,
+        "prog": -5
       },
       "correspondence": {
         "games": 0,
@@ -47,38 +46,35 @@
       "rapid": {
         "games": 2,
         "rating": 2287,
-        "rd": 287,
+        "rd": 296,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1619248156997,
+    "online": true,
     "profile": {
       "country": "AU"
     },
-    "seenAt": 1623739177203,
+    "seenAt": 1632307387192,
     "playTime": {
-      "total": 9856,
-      "tv": 2156
+      "total": 10500,
+      "tv": 2220
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/LAVANYARESHMA01",
-    "playing": "https://lichess.org/3FUOHiOz/black",
-    "nbFollowing": 0,
-    "nbFollowers": 1,
     "count": {
-      "all": 79,
-      "rated": 54,
-      "ai": 3,
-      "draw": 38,
-      "drawH": 38,
-      "loss": 6,
-      "lossH": 4,
-      "win": 35,
-      "winH": 34,
+      "all": 91,
+      "rated": 61,
+      "ai": 7,
+      "draw": 39,
+      "drawH": 39,
+      "loss": 11,
+      "lossH": 5,
+      "win": 41,
+      "winH": 40,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
