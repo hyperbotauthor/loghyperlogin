@@ -4,75 +4,70 @@
   "username": "HeronBot",
   "profileUrl": "https://lichess.org/@/HeronBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"heronbot\",\"username\":\"HeronBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":44,\"rating\":2175,\"rd\":61,\"prog\":-14},\"bullet\":{\"games\":106,\"rating\":2025,\"rd\":45,\"prog\":-17},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2375,\"rd\":303,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2378,\"rd\":153,\"prog\":0,\"prov\":true}},\"createdAt\":1629151135571,\"profile\":{\"country\":\"AQ\",\"bio\":\"Accepts hyperbullet, bullet, blitz, rapid and classical time controls\\r\\nI  can play any amount of games at a time, feel free to challenge me!\\r\\nRunning on easychessherokuapp\\r\\nhttps://imgur.com/MHyyQ2F\\r\\n\\r\\nI am made by @huh_2\",\"fideRating\":2100},\"seenAt\":1629306876860,\"playTime\":{\"total\":46364,\"tv\":7519},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HeronBot\",\"playing\":\"https://lichess.org/iioVBMJY/black\",\"nbFollowing\":0,\"nbFollowers\":5,\"count\":{\"all\":270,\"rated\":164,\"ai\":1,\"draw\":26,\"drawH\":26,\"loss\":118,\"lossH\":117,\"win\":126,\"winH\":126,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"heronbot\",\"username\":\"HeronBot\",\"perfs\":{\"blitz\":{\"games\":52,\"rating\":2168,\"rd\":73,\"prog\":-16},\"bullet\":{\"games\":115,\"rating\":2017,\"rd\":65,\"prog\":-13},\"correspondence\":{\"games\":2,\"rating\":2156,\"rd\":398,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2375,\"rd\":307,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2386,\"rd\":99,\"prog\":-47}},\"createdAt\":1629151135571,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"Accepts hyperbullet, bullet, blitz, rapid and classical time controls\\r\\nI  can play any amount of games at a time, feel free to challenge me!\\r\\nDon't forget to check out my little sister @Flamingo-AI!\\r\\nRunning on hypereasyherokuapp\\r\\nhttps://imgur.com/MHyyQ2F\\r\\n\\r\\n\\r\\nI am made by @huh_2\",\"fideRating\":2100},\"seenAt\":1633191312508,\"playTime\":{\"total\":80133,\"tv\":20551},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/HeronBot\",\"count\":{\"all\":373,\"rated\":196,\"ai\":2,\"draw\":43,\"drawH\":43,\"loss\":174,\"lossH\":173,\"win\":156,\"winH\":155,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "heronbot",
     "username": "HeronBot",
-    "online": true,
     "perfs": {
       "blitz": {
-        "games": 44,
-        "rating": 2175,
-        "rd": 61,
-        "prog": -14
+        "games": 52,
+        "rating": 2168,
+        "rd": 73,
+        "prog": -16
       },
       "bullet": {
-        "games": 106,
-        "rating": 2025,
-        "rd": 45,
-        "prog": -17
+        "games": 115,
+        "rating": 2017,
+        "rd": 65,
+        "prog": -13
       },
       "correspondence": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2156,
+        "rd": 398,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 1,
         "rating": 2375,
-        "rd": 303,
+        "rd": 307,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 9,
-        "rating": 2378,
-        "rd": 153,
-        "prog": 0,
-        "prov": true
+        "games": 22,
+        "rating": 2386,
+        "rd": 99,
+        "prog": -47
       }
     },
     "createdAt": 1629151135571,
+    "online": true,
     "profile": {
       "country": "AQ",
-      "bio": "Accepts hyperbullet, bullet, blitz, rapid and classical time controls\r\nI  can play any amount of games at a time, feel free to challenge me!\r\nRunning on easychessherokuapp\r\nhttps://imgur.com/MHyyQ2F\r\n\r\nI am made by @huh_2",
+      "bio": "Accepts hyperbullet, bullet, blitz, rapid and classical time controls\r\nI  can play any amount of games at a time, feel free to challenge me!\r\nDon't forget to check out my little sister @Flamingo-AI!\r\nRunning on hypereasyherokuapp\r\nhttps://imgur.com/MHyyQ2F\r\n\r\n\r\nI am made by @huh_2",
       "fideRating": 2100
     },
-    "seenAt": 1629306876860,
+    "seenAt": 1633191312508,
     "playTime": {
-      "total": 46364,
-      "tv": 7519
+      "total": 80133,
+      "tv": 20551
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/HeronBot",
-    "playing": "https://lichess.org/iioVBMJY/black",
-    "nbFollowing": 0,
-    "nbFollowers": 5,
     "count": {
-      "all": 270,
-      "rated": 164,
-      "ai": 1,
-      "draw": 26,
-      "drawH": 26,
-      "loss": 118,
-      "lossH": 117,
-      "win": 126,
-      "winH": 126,
+      "all": 373,
+      "rated": 196,
+      "ai": 2,
+      "draw": 43,
+      "drawH": 43,
+      "loss": 174,
+      "lossH": 173,
+      "win": 156,
+      "winH": 155,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
