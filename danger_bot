@@ -4,49 +4,49 @@
   "username": "Danger_Bot",
   "profileUrl": "https://lichess.org/@/Danger_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"danger_bot\",\"username\":\"Danger_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2075,\"rd\":217,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1491,\"rd\":488,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":13,\"rating\":1857,\"rd\":142,\"prog\":22,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1530,\"rd\":473,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1799,\"rd\":125,\"prog\":-43,\"prov\":true}},\"createdAt\":1606200834490,\"profile\":{\"country\":\"_pirate\",\"location\":\"NOwhere, NOWhere\",\"bio\":\"My owner is DangerSheriff. \\r\\nChallenge me!\",\"firstName\":\"Bot\",\"lastName\":\"BotBot\"},\"seenAt\":1613292442888,\"playTime\":{\"total\":13590,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Danger_Bot\",\"nbFollowing\":1,\"nbFollowers\":4,\"count\":{\"all\":61,\"rated\":36,\"ai\":12,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":8,\"win\":45,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"danger_bot\",\"username\":\"Danger_Bot\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2075,\"rd\":243,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1491,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":16,\"rating\":1873,\"rd\":175,\"prog\":38,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1530,\"rd\":485,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":1808,\"rd\":164,\"prog\":-31,\"prov\":true}},\"createdAt\":1606200834490,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"location\":\"NOwhere, NOWhere\",\"bio\":\"My owner is DangerSheriff. \\r\\nChallenge me!\",\"firstName\":\"Bot\",\"lastName\":\"BotBot\"},\"seenAt\":1633249558762,\"playTime\":{\"total\":13914,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Danger_Bot\",\"count\":{\"all\":66,\"rated\":41,\"ai\":12,\"draw\":3,\"drawH\":3,\"loss\":13,\"lossH\":8,\"win\":50,\"winH\":43,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "danger_bot",
     "username": "Danger_Bot",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 5,
         "rating": 2075,
-        "rd": 217,
+        "rd": 243,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1491,
-        "rd": 488,
+        "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 13,
-        "rating": 1857,
-        "rd": 142,
-        "prog": 22,
+        "games": 16,
+        "rating": 1873,
+        "rd": 175,
+        "prog": 38,
         "prov": true
       },
       "classical": {
         "games": 1,
         "rating": 1530,
-        "rd": 473,
+        "rd": 485,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 15,
-        "rating": 1799,
-        "rd": 125,
-        "prog": -43,
+        "games": 17,
+        "rating": 1808,
+        "rd": 164,
+        "prog": -31,
         "prov": true
       }
     },
     "createdAt": 1606200834490,
+    "online": true,
     "profile": {
       "country": "_pirate",
       "location": "NOwhere, NOWhere",
@@ -54,26 +54,23 @@
       "firstName": "Bot",
       "lastName": "BotBot"
     },
-    "seenAt": 1613292442888,
+    "seenAt": 1633249558762,
     "playTime": {
-      "total": 13590,
+      "total": 13914,
       "tv": 0
     },
-    "language": "en-US",
     "title": "BOT",
     "url": "https://lichess.org/@/Danger_Bot",
-    "nbFollowing": 1,
-    "nbFollowers": 4,
     "count": {
-      "all": 61,
-      "rated": 36,
+      "all": 66,
+      "rated": 41,
       "ai": 12,
       "draw": 3,
       "drawH": 3,
       "loss": 13,
       "lossH": 8,
-      "win": 45,
-      "winH": 38,
+      "win": 50,
+      "winH": 43,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
