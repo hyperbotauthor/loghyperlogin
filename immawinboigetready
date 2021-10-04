@@ -1,0 +1,76 @@
+{
+  "id": "immawinboigetready",
+  "displayName": "ImmaWInBoIGetReady",
+  "username": "ImmaWInBoIGetReady",
+  "profileUrl": "https://lichess.org/@/ImmaWInBoIGetReady",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"immawinboigetready\",\"username\":\"ImmaWInBoIGetReady\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2003,\"rd\":96,\"prog\":-55},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":28,\"rating\":2141,\"rd\":71,\"prog\":-32}},\"createdAt\":1632269826119,\"online\":false,\"seenAt\":1633327474119,\"playTime\":{\"total\":18346,\"tv\":0},\"url\":\"https://lichess.org/@/ImmaWInBoIGetReady\",\"completionRate\":72,\"count\":{\"all\":41,\"rated\":41,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":19,\"lossH\":19,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "immawinboigetready",
+    "username": "ImmaWInBoIGetReady",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 13,
+        "rating": 2003,
+        "rd": 96,
+        "prog": -55
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 28,
+        "rating": 2141,
+        "rd": 71,
+        "prog": -32
+      }
+    },
+    "createdAt": 1632269826119,
+    "online": false,
+    "seenAt": 1633327474119,
+    "playTime": {
+      "total": 18346,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/ImmaWInBoIGetReady",
+    "completionRate": 72,
+    "count": {
+      "all": 41,
+      "rated": 41,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 19,
+      "lossH": 19,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
