@@ -4,23 +4,30 @@
   "username": "CatBot329",
   "profileUrl": "https://lichess.org/@/CatBot329",
   "provider": "lichess",
-  "_raw": "{\"id\":\"catbot329\",\"username\":\"CatBot329\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2172,\"rd\":269,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633353335245,\"online\":true,\"seenAt\":1633396839527,\"playTime\":{\"total\":1011,\"tv\":0},\"url\":\"https://lichess.org/@/CatBot329\",\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"catbot329\",\"username\":\"CatBot329\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2119,\"rd\":145,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":1378,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2106,\"rd\":111,\"prog\":16,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633353335245,\"online\":true,\"profile\":{\"country\":\"DK\",\"bio\":\"I'm a 2400 rated lichess bot that accepts all variants and time controls whenever I'm free. Created by https://lichess.org/@/Cyncko-3000.  Make sure to follow https://lichess.org/@/RBR34117 , https://lichess.org/@/RasalBasuru2009 , https://lichess.org/@/Cyncko-3000 https://i.imgur.com/FnCKmyn.jpg\",\"firstName\":\"Cat\",\"lastName\":\"Bot\",\"fideRating\":2400},\"seenAt\":1633448982668,\"playTime\":{\"total\":5088,\"tv\":0},\"url\":\"https://lichess.org/@/CatBot329\",\"playing\":\"https://lichess.org/tUeBzgv6/black\",\"count\":{\"all\":28,\"rated\":26,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":11,\"lossH\":11,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "catbot329",
     "username": "CatBot329",
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 2172,
-        "rd": 269,
+        "games": 7,
+        "rating": 2119,
+        "rd": 145,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 4,
+        "rating": 1378,
+        "rd": 345,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
+        "games": 13,
+        "rating": 2106,
+        "rd": 111,
+        "prog": 16,
         "prov": true
       },
       "correspondence": {
@@ -48,24 +55,32 @@
     "title": "BOT",
     "createdAt": 1633353335245,
     "online": true,
-    "seenAt": 1633396839527,
+    "profile": {
+      "country": "DK",
+      "bio": "I'm a 2400 rated lichess bot that accepts all variants and time controls whenever I'm free. Created by https://lichess.org/@/Cyncko-3000.  Make sure to follow https://lichess.org/@/RBR34117 , https://lichess.org/@/RasalBasuru2009 , https://lichess.org/@/Cyncko-3000 https://i.imgur.com/FnCKmyn.jpg",
+      "firstName": "Cat",
+      "lastName": "Bot",
+      "fideRating": 2400
+    },
+    "seenAt": 1633448982668,
     "playTime": {
-      "total": 1011,
+      "total": 5088,
       "tv": 0
     },
     "url": "https://lichess.org/@/CatBot329",
+    "playing": "https://lichess.org/tUeBzgv6/black",
     "count": {
-      "all": 2,
-      "rated": 2,
+      "all": 28,
+      "rated": 26,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 1,
-      "winH": 1,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 11,
+      "lossH": 11,
+      "win": 16,
+      "winH": 16,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
