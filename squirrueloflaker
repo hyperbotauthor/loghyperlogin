@@ -4,7 +4,7 @@
   "username": "squirrueloflaker",
   "profileUrl": "https://lichess.org/@/squirrueloflaker",
   "provider": "lichess",
-  "_raw": "{\"id\":\"squirrueloflaker\",\"username\":\"squirrueloflaker\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2380,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2407,\"rd\":122,\"prog\":12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1477,\"rd\":476,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1617436928329,\"online\":true,\"seenAt\":1633351292263,\"playTime\":{\"total\":7207,\"tv\":1278},\"url\":\"https://lichess.org/@/squirrueloflaker\",\"count\":{\"all\":67,\"rated\":34,\"ai\":33,\"draw\":14,\"drawH\":14,\"loss\":42,\"lossH\":9,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"squirrueloflaker\",\"username\":\"squirrueloflaker\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2380,\"rd\":221,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2407,\"rd\":123,\"prog\":12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1477,\"rd\":476,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1617436928329,\"online\":true,\"seenAt\":1633506836507,\"playTime\":{\"total\":7207,\"tv\":1278},\"url\":\"https://lichess.org/@/squirrueloflaker\",\"count\":{\"all\":67,\"rated\":34,\"ai\":33,\"draw\":14,\"drawH\":14,\"loss\":42,\"lossH\":9,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "squirrueloflaker",
     "username": "squirrueloflaker",
@@ -19,7 +19,7 @@
       "bullet": {
         "games": 27,
         "rating": 2407,
-        "rd": 122,
+        "rd": 123,
         "prog": 12,
         "prov": true
       },
@@ -48,7 +48,7 @@
     "title": "BOT",
     "createdAt": 1617436928329,
     "online": true,
-    "seenAt": 1633351292263,
+    "seenAt": 1633506836507,
     "playTime": {
       "total": 7207,
       "tv": 1278
