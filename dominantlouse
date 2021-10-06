@@ -1,0 +1,90 @@
+{
+  "id": "dominantlouse",
+  "displayName": "DominantLouse",
+  "username": "DominantLouse",
+  "profileUrl": "https://lichess.org/@/DominantLouse",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dominantlouse\",\"username\":\"DominantLouse\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1714,\"rd\":288,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":23,\"rating\":2095,\"rd\":82,\"prog\":-92},\"ultraBullet\":{\"games\":1,\"rating\":1329,\"rd\":298,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":1867,\"rd\":68,\"prog\":-60},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1708,\"rd\":120,\"prog\":0,\"prov\":true}},\"createdAt\":1633444689503,\"online\":true,\"seenAt\":1633520318731,\"playTime\":{\"total\":9485,\"tv\":502},\"url\":\"https://lichess.org/@/DominantLouse\",\"completionRate\":90,\"count\":{\"all\":61,\"rated\":61,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":32,\"lossH\":32,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dominantlouse",
+    "username": "DominantLouse",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1714,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 23,
+        "rating": 2095,
+        "rd": 82,
+        "prog": -92
+      },
+      "ultraBullet": {
+        "games": 1,
+        "rating": 1329,
+        "rd": 298,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 26,
+        "rating": 1867,
+        "rd": 68,
+        "prog": -60
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 10,
+        "rating": 1708,
+        "rd": 120,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1633444689503,
+    "online": true,
+    "seenAt": 1633520318731,
+    "playTime": {
+      "total": 9485,
+      "tv": 502
+    },
+    "url": "https://lichess.org/@/DominantLouse",
+    "completionRate": 90,
+    "count": {
+      "all": 61,
+      "rated": 61,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 32,
+      "lossH": 32,
+      "win": 27,
+      "winH": 27,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
