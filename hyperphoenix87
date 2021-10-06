@@ -4,7 +4,7 @@
   "username": "HyperPhoenix87",
   "profileUrl": "https://lichess.org/@/HyperPhoenix87",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2124,\"rd\":343,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"seenAt\":1633448120318,\"playTime\":{\"total\":3720,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"playing\":\"https://lichess.org/9aH6Cdz2/white\",\"count\":{\"all\":14,\"rated\":3,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":5,\"win\":6,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2274,\"rd\":229,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"seenAt\":1633531378392,\"playTime\":{\"total\":6542,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":22,\"rated\":10,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":6,\"win\":13,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperphoenix87",
     "username": "HyperPhoenix87",
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2124,
-        "rd": 343,
+        "games": 8,
+        "rating": 2274,
+        "rd": 229,
         "prog": 0,
         "prov": true
       }
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1633271697454,
     "online": true,
-    "seenAt": 1633448120318,
+    "seenAt": 1633531378392,
     "playTime": {
-      "total": 3720,
+      "total": 6542,
       "tv": 0
     },
     "url": "https://lichess.org/@/HyperPhoenix87",
-    "playing": "https://lichess.org/9aH6Cdz2/white",
     "count": {
-      "all": 14,
-      "rated": 3,
+      "all": 22,
+      "rated": 10,
       "ai": 6,
       "draw": 0,
       "drawH": 0,
-      "loss": 8,
-      "lossH": 5,
-      "win": 6,
-      "winH": 3,
+      "loss": 9,
+      "lossH": 6,
+      "win": 13,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
