@@ -4,7 +4,7 @@
   "username": "SatrancbazYT",
   "profileUrl": "https://lichess.org/@/SatrancbazYT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"satrancbazyt\",\"username\":\"SatrancbazYT\",\"perfs\":{\"blitz\":{\"games\":32,\"rating\":2526,\"rd\":197,\"prog\":-260,\"prov\":true},\"bullet\":{\"games\":93,\"rating\":2335,\"rd\":79,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2625,\"rd\":185,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1604750998663,\"online\":true,\"profile\":{\"country\":\"TR\",\"location\":\"Lichess\",\"bio\":\"I accept all time controls in standard mode. Engine: Stockfish 13\"},\"seenAt\":1633541810720,\"playTime\":{\"total\":37591,\"tv\":5429},\"url\":\"https://lichess.org/@/SatrancbazYT\",\"count\":{\"all\":305,\"rated\":134,\"ai\":54,\"draw\":18,\"drawH\":14,\"loss\":61,\"lossH\":38,\"win\":226,\"winH\":199,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"satrancbazyt\",\"username\":\"SatrancbazYT\",\"perfs\":{\"blitz\":{\"games\":32,\"rating\":2526,\"rd\":197,\"prog\":-260,\"prov\":true},\"bullet\":{\"games\":93,\"rating\":2335,\"rd\":80,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2625,\"rd\":185,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1604750998663,\"online\":true,\"profile\":{\"country\":\"TR\",\"location\":\"Lichess\",\"bio\":\"I accept all time controls in standard mode. Engine: Stockfish 13\"},\"seenAt\":1633621631659,\"playTime\":{\"total\":37591,\"tv\":5429},\"url\":\"https://lichess.org/@/SatrancbazYT\",\"playing\":\"https://lichess.org/Zt67k3yk/black\",\"count\":{\"all\":305,\"rated\":134,\"ai\":54,\"draw\":18,\"drawH\":14,\"loss\":61,\"lossH\":38,\"win\":226,\"winH\":199,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "satrancbazyt",
     "username": "SatrancbazYT",
@@ -19,7 +19,7 @@
       "bullet": {
         "games": 93,
         "rating": 2335,
-        "rd": 79,
+        "rd": 80,
         "prog": 9
       },
       "correspondence": {
@@ -52,12 +52,13 @@
       "location": "Lichess",
       "bio": "I accept all time controls in standard mode. Engine: Stockfish 13"
     },
-    "seenAt": 1633541810720,
+    "seenAt": 1633621631659,
     "playTime": {
       "total": 37591,
       "tv": 5429
     },
     "url": "https://lichess.org/@/SatrancbazYT",
+    "playing": "https://lichess.org/Zt67k3yk/black",
     "count": {
       "all": 305,
       "rated": 134,
@@ -69,7 +70,7 @@
       "win": 226,
       "winH": 199,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
