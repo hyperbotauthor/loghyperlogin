@@ -4,22 +4,29 @@
   "username": "HyperPhoenix87",
   "profileUrl": "https://lichess.org/@/HyperPhoenix87",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2274,\"rd\":229,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"seenAt\":1633531378392,\"playTime\":{\"total\":6542,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":22,\"rated\":10,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":6,\"win\":13,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2088,\"rd\":216,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1498,\"rd\":497,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1921,\"rd\":130,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2232,\"rd\":210,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Watford\",\"bio\":\"This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.\",\"firstName\":\"Hyper\",\"lastName\":\"SpeedX\"},\"seenAt\":1633618596543,\"playTime\":{\"total\":8814,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":42,\"rated\":30,\"ai\":6,\"draw\":1,\"drawH\":1,\"loss\":16,\"lossH\":13,\"win\":25,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperphoenix87",
     "username": "HyperPhoenix87",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 6,
+        "rating": 2088,
+        "rd": 216,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1498,
+        "rd": 497,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 11,
+        "rating": 1921,
+        "rd": 130,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +45,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 8,
-        "rating": 2274,
-        "rd": 229,
+        "games": 9,
+        "rating": 2232,
+        "rd": 210,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +55,29 @@
     "title": "BOT",
     "createdAt": 1633271697454,
     "online": true,
-    "seenAt": 1633531378392,
+    "profile": {
+      "country": "GB-ENG",
+      "location": "Watford",
+      "bio": "This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.",
+      "firstName": "Hyper",
+      "lastName": "SpeedX"
+    },
+    "seenAt": 1633618596543,
     "playTime": {
-      "total": 6542,
+      "total": 8814,
       "tv": 0
     },
     "url": "https://lichess.org/@/HyperPhoenix87",
     "count": {
-      "all": 22,
-      "rated": 10,
+      "all": 42,
+      "rated": 30,
       "ai": 6,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 9,
-      "lossH": 6,
-      "win": 13,
-      "winH": 10,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 16,
+      "lossH": 13,
+      "win": 25,
+      "winH": 22,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
