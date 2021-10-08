@@ -4,16 +4,15 @@
   "username": "EpicBOT",
   "profileUrl": "https://lichess.org/@/EpicBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"epicbot\",\"username\":\"EpicBOT\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2221,\"rd\":277,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1629402118119,\"seenAt\":1631825960453,\"playTime\":{\"total\":2235,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/EpicBOT\",\"nbFollowing\":2,\"nbFollowers\":0,\"count\":{\"all\":98,\"rated\":3,\"ai\":35,\"draw\":11,\"drawH\":9,\"loss\":26,\"lossH\":17,\"win\":61,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"epicbot\",\"username\":\"EpicBOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2221,\"rd\":279,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1629402118119,\"online\":true,\"seenAt\":1633723712264,\"playTime\":{\"total\":2235,\"tv\":0},\"url\":\"https://lichess.org/@/EpicBOT\",\"count\":{\"all\":109,\"rated\":3,\"ai\":46,\"draw\":14,\"drawH\":9,\"loss\":27,\"lossH\":17,\"win\":68,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "epicbot",
     "username": "EpicBOT",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 3,
         "rating": 2221,
-        "rd": 277,
+        "rd": 279,
         "prog": 0,
         "prov": true
       },
@@ -46,25 +45,24 @@
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1629402118119,
-    "seenAt": 1631825960453,
+    "online": true,
+    "seenAt": 1633723712264,
     "playTime": {
       "total": 2235,
       "tv": 0
     },
-    "title": "BOT",
     "url": "https://lichess.org/@/EpicBOT",
-    "nbFollowing": 2,
-    "nbFollowers": 0,
     "count": {
-      "all": 98,
+      "all": 109,
       "rated": 3,
-      "ai": 35,
-      "draw": 11,
+      "ai": 46,
+      "draw": 14,
       "drawH": 9,
-      "loss": 26,
+      "loss": 27,
       "lossH": 17,
-      "win": 61,
+      "win": 68,
       "winH": 37,
       "bookmark": 0,
       "playing": 0,
