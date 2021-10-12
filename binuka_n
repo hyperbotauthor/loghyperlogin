@@ -1,0 +1,85 @@
+{
+  "id": "binuka_n",
+  "displayName": "Binuka_N",
+  "username": "Binuka_N",
+  "profileUrl": "https://lichess.org/@/Binuka_N",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"binuka_n\",\"username\":\"Binuka_N\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1315,\"rd\":138,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1182,\"rd\":225,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":32,\"rating\":1576,\"rd\":67,\"prog\":-28},\"streak\":{\"runs\":6,\"score\":18}},\"createdAt\":1633681341362,\"online\":true,\"profile\":{\"bio\":\"I was made by Binuka2010\",\"firstName\":\"Binuka_N\"},\"seenAt\":1634019173476,\"playTime\":{\"total\":17885,\"tv\":0},\"url\":\"https://lichess.org/@/Binuka_N\",\"completionRate\":96,\"count\":{\"all\":46,\"rated\":43,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":27,\"lossH\":27,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "binuka_n",
+    "username": "Binuka_N",
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 1315,
+        "rd": 138,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1182,
+        "rd": 225,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 32,
+        "rating": 1576,
+        "rd": 67,
+        "prog": -28
+      },
+      "streak": {
+        "runs": 6,
+        "score": 18
+      }
+    },
+    "createdAt": 1633681341362,
+    "online": true,
+    "profile": {
+      "bio": "I was made by Binuka2010",
+      "firstName": "Binuka_N"
+    },
+    "seenAt": 1634019173476,
+    "playTime": {
+      "total": 17885,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Binuka_N",
+    "completionRate": 96,
+    "count": {
+      "all": 46,
+      "rated": 43,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 27,
+      "lossH": 27,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
