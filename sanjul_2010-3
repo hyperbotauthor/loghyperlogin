@@ -1,0 +1,79 @@
+{
+  "id": "sanjul_2010-3",
+  "displayName": "Sanjul_2010-3",
+  "username": "Sanjul_2010-3",
+  "profileUrl": "https://lichess.org/@/Sanjul_2010-3",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sanjul_2010-3\",\"username\":\"Sanjul_2010-3\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1800,\"rd\":166,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":2259,\"rd\":113,\"prog\":-74,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633863519099,\"online\":true,\"seenAt\":1634199988657,\"playTime\":{\"total\":3709,\"tv\":0},\"url\":\"https://lichess.org/@/Sanjul_2010-3\",\"playing\":\"https://lichess.org/dlU2dPRN/white\",\"count\":{\"all\":26,\"rated\":26,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":9,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sanjul_2010-3",
+    "username": "Sanjul_2010-3",
+    "perfs": {
+      "blitz": {
+        "games": 7,
+        "rating": 1800,
+        "rd": 166,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 19,
+        "rating": 2259,
+        "rd": 113,
+        "prog": -74,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1633863519099,
+    "online": true,
+    "seenAt": 1634199988657,
+    "playTime": {
+      "total": 3709,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Sanjul_2010-3",
+    "playing": "https://lichess.org/dlU2dPRN/white",
+    "count": {
+      "all": 26,
+      "rated": 26,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 9,
+      "lossH": 9,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
