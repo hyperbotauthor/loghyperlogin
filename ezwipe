@@ -4,66 +4,75 @@
   "username": "EZWipe",
   "profileUrl": "https://lichess.org/@/EZWipe",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ezwipe\",\"username\":\"EZWipe\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1633769806210,\"online\":true,\"seenAt\":1633769823371,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/EZWipe\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ezwipe\",\"username\":\"EZWipe\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2137,\"rd\":179,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":1726,\"rd\":81,\"prog\":23},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2160,\"rd\":120,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633769806210,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Belgrade\",\"bio\":\"https://imgur.com/FFiUluc                                                                                                                                                                                                                  \\r\\n  I am a Lichess bot made by @Makisha123 and @bumblebee_2009\",\"firstName\":\"EZWipe\",\"lastName\":\"Bee\",\"fideRating\":3000,\"links\":\"https://www.youtube.com/channel/UCtdknNpCJ1VQBlmH4d6V_Kg?view_as=subscriber\\r\\nhttps://www.twitch.tv/yoboy3748 https://imgur.com/4M2L4Zq\"},\"seenAt\":1634328755716,\"playTime\":{\"total\":18908,\"tv\":0},\"url\":\"https://lichess.org/@/EZWipe\",\"count\":{\"all\":88,\"rated\":54,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":35,\"lossH\":35,\"win\":49,\"winH\":49,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ezwipe",
     "username": "EZWipe",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 11,
+        "rating": 2137,
+        "rd": 179,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 29,
+        "rating": 1726,
+        "rd": 81,
+        "prog": 23
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 11,
+        "rating": 2160,
+        "rd": 120,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1633769806210,
     "online": true,
-    "seenAt": 1633769823371,
+    "profile": {
+      "country": "_lichess",
+      "location": "Belgrade",
+      "bio": "https://imgur.com/FFiUluc                                                                                                                                                                                                                  \r\n  I am a Lichess bot made by @Makisha123 and @bumblebee_2009",
+      "firstName": "EZWipe",
+      "lastName": "Bee",
+      "fideRating": 3000,
+      "links": "https://www.youtube.com/channel/UCtdknNpCJ1VQBlmH4d6V_Kg?view_as=subscriber\r\nhttps://www.twitch.tv/yoboy3748 https://imgur.com/4M2L4Zq"
+    },
+    "seenAt": 1634328755716,
     "playTime": {
-      "total": 0,
+      "total": 18908,
       "tv": 0
     },
     "url": "https://lichess.org/@/EZWipe",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 88,
+      "rated": 54,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
-      "bookmark": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 35,
+      "lossH": 35,
+      "win": 49,
+      "winH": 49,
+      "bookmark": 1,
       "playing": 0,
       "import": 0,
       "me": 0
