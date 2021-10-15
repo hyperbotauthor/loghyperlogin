@@ -4,7 +4,7 @@
   "username": "BotAcademy5",
   "profileUrl": "https://lichess.org/@/BotAcademy5",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botacademy5\",\"username\":\"BotAcademy5\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2389,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":349,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2008,\"rd\":489,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633423824744,\"online\":true,\"profile\":{\"bio\":\"Want play with me? - https://lichess.org/DcLpuDHL\\r\\nЛюбите бота? https://lichess.org/team/botacademy5-fun-club Хотите играть так же как он? Присоеденяйтесь к академии высших шахмат, ссылка - https://classroom.google.com/c/MTcyOTE1MzE3ODE2?cjc=co4av2y . Я буду учить вас играть по медленным шахматам и учится сам. Формат выбираете вы сами!\"},\"seenAt\":1633538750428,\"playTime\":{\"total\":3057,\"tv\":0},\"url\":\"https://lichess.org/@/BotAcademy5\",\"playing\":\"https://lichess.org/DcLpuDHL/white\",\"count\":{\"all\":35,\"rated\":10,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":10,\"lossH\":9,\"win\":20,\"winH\":20,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botacademy5\",\"username\":\"BotAcademy5\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2389,\"rd\":167,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1615,\"rd\":349,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2008,\"rd\":489,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633423824744,\"online\":true,\"profile\":{\"bio\":\"Want play with me? - https://lichess.org/DcLpuDHL\\r\\nЛюбите бота? https://lichess.org/team/botacademy5-fun-club Хотите играть так же как он? Присоеденяйтесь к академии высших шахмат, ссылка - https://classroom.google.com/c/MTcyOTE1MzE3ODE2?cjc=co4av2y . Я буду учить вас играть по медленным шахматам и учится сам. Формат выбираете вы сами!\"},\"seenAt\":1634303636222,\"playTime\":{\"total\":4485,\"tv\":0},\"url\":\"https://lichess.org/@/BotAcademy5\",\"playing\":\"https://lichess.org/ChpmHIKu/white\",\"count\":{\"all\":60,\"rated\":10,\"ai\":2,\"draw\":6,\"drawH\":6,\"loss\":14,\"lossH\":12,\"win\":40,\"winH\":40,\"bookmark\":1,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botacademy5",
     "username": "BotAcademy5",
@@ -12,7 +12,7 @@
       "blitz": {
         "games": 7,
         "rating": 2389,
-        "rd": 166,
+        "rd": 167,
         "prog": 0,
         "prov": true
       },
@@ -58,25 +58,25 @@
     "profile": {
       "bio": "Want play with me? - https://lichess.org/DcLpuDHL\r\nЛюбите бота? https://lichess.org/team/botacademy5-fun-club Хотите играть так же как он? Присоеденяйтесь к академии высших шахмат, ссылка - https://classroom.google.com/c/MTcyOTE1MzE3ODE2?cjc=co4av2y . Я буду учить вас играть по медленным шахматам и учится сам. Формат выбираете вы сами!"
     },
-    "seenAt": 1633538750428,
+    "seenAt": 1634303636222,
     "playTime": {
-      "total": 3057,
+      "total": 4485,
       "tv": 0
     },
     "url": "https://lichess.org/@/BotAcademy5",
-    "playing": "https://lichess.org/DcLpuDHL/white",
+    "playing": "https://lichess.org/ChpmHIKu/white",
     "count": {
-      "all": 35,
+      "all": 60,
       "rated": 10,
-      "ai": 1,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 10,
-      "lossH": 9,
-      "win": 20,
-      "winH": 20,
+      "ai": 2,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 14,
+      "lossH": 12,
+      "win": 40,
+      "winH": 40,
       "bookmark": 1,
-      "playing": 2,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
