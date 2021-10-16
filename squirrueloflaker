@@ -4,7 +4,7 @@
   "username": "squirrueloflaker",
   "profileUrl": "https://lichess.org/@/squirrueloflaker",
   "provider": "lichess",
-  "_raw": "{\"id\":\"squirrueloflaker\",\"username\":\"squirrueloflaker\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2380,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2407,\"rd\":124,\"prog\":12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1477,\"rd\":476,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1617436928329,\"online\":true,\"seenAt\":1634125939098,\"playTime\":{\"total\":7207,\"tv\":1278},\"url\":\"https://lichess.org/@/squirrueloflaker\",\"playing\":\"https://lichess.org/T6xNm4M9/black\",\"count\":{\"all\":67,\"rated\":34,\"ai\":33,\"draw\":14,\"drawH\":14,\"loss\":42,\"lossH\":9,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"squirrueloflaker\",\"username\":\"squirrueloflaker\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2380,\"rd\":222,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1473,\"rd\":462,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2407,\"rd\":125,\"prog\":12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1477,\"rd\":476,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1617436928329,\"online\":true,\"seenAt\":1634383301124,\"playTime\":{\"total\":7688,\"tv\":1278},\"url\":\"https://lichess.org/@/squirrueloflaker\",\"count\":{\"all\":70,\"rated\":35,\"ai\":35,\"draw\":14,\"drawH\":14,\"loss\":45,\"lossH\":10,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "squirrueloflaker",
     "username": "squirrueloflaker",
@@ -16,10 +16,17 @@
         "prog": 0,
         "prov": true
       },
+      "atomic": {
+        "games": 1,
+        "rating": 1473,
+        "rd": 462,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
         "games": 27,
         "rating": 2407,
-        "rd": 124,
+        "rd": 125,
         "prog": 12,
         "prov": true
       },
@@ -48,25 +55,24 @@
     "title": "BOT",
     "createdAt": 1617436928329,
     "online": true,
-    "seenAt": 1634125939098,
+    "seenAt": 1634383301124,
     "playTime": {
-      "total": 7207,
+      "total": 7688,
       "tv": 1278
     },
     "url": "https://lichess.org/@/squirrueloflaker",
-    "playing": "https://lichess.org/T6xNm4M9/black",
     "count": {
-      "all": 67,
-      "rated": 34,
-      "ai": 33,
+      "all": 70,
+      "rated": 35,
+      "ai": 35,
       "draw": 14,
       "drawH": 14,
-      "loss": 42,
-      "lossH": 9,
+      "loss": 45,
+      "lossH": 10,
       "win": 11,
       "winH": 11,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
