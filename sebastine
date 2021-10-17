@@ -1,0 +1,89 @@
+{
+  "id": "sebastine",
+  "displayName": "Sebastine",
+  "username": "Sebastine",
+  "profileUrl": "https://lichess.org/@/Sebastine",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sebastine\",\"username\":\"Sebastine\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":2080,\"rd\":354,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1632143027701,\"online\":true,\"profile\":{\"country\":\"AE\",\"location\":\"Abu Dhabi\",\"bio\":\"hi everyone !\"},\"seenAt\":1634493439689,\"playTime\":{\"total\":28,\"tv\":0},\"url\":\"https://lichess.org/@/Sebastine\",\"count\":{\"all\":5,\"rated\":0,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sebastine",
+    "username": "Sebastine",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 2080,
+        "rd": 354,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1632143027701,
+    "online": true,
+    "profile": {
+      "country": "AE",
+      "location": "Abu Dhabi",
+      "bio": "hi everyone !"
+    },
+    "seenAt": 1634493439689,
+    "playTime": {
+      "total": 28,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Sebastine",
+    "count": {
+      "all": 5,
+      "rated": 0,
+      "ai": 4,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 4,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
