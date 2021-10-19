@@ -4,27 +4,27 @@
   "username": "hyperchessbotauthor",
   "profileUrl": "https://lichess.org/@/hyperchessbotauthor",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperchessbotauthor\",\"username\":\"hyperchessbotauthor\",\"perfs\":{\"blitz\":{\"games\":1246,\"rating\":2034,\"rd\":48,\"prog\":29},\"atomic\":{\"games\":3330,\"rating\":2118,\"rd\":47,\"prog\":26},\"bullet\":{\"games\":3852,\"rating\":1901,\"rd\":51,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":494,\"rating\":1801,\"rd\":52,\"prog\":20},\"puzzle\":{\"games\":958,\"rating\":2321,\"rd\":122,\"prog\":0,\"prov\":true},\"classical\":{\"games\":49,\"rating\":2019,\"rd\":92,\"prog\":-108},\"rapid\":{\"games\":436,\"rating\":2336,\"rd\":45,\"prog\":-1}},\"createdAt\":1603109931581,\"online\":true,\"profile\":{\"bio\":\"author of https://lichess.org/@/chesshyperbot Hyper Bot https://github.com/hyperchessbot/hyperbot#create-your-own-hyper-bot Hyper Easy https://hypereasy.herokuapp.com  discussion /feedback https://discord.gg/8m3Muay blog https://hyperchessbotsramblings.netlify.app/your2600bot/ polls https://listrawpoll.herokuapp.com/\"},\"seenAt\":1634012326250,\"playTime\":{\"total\":1902836,\"tv\":220013},\"url\":\"https://lichess.org/@/hyperchessbotauthor\",\"completionRate\":97,\"count\":{\"all\":9413,\"rated\":9408,\"ai\":2,\"draw\":493,\"drawH\":493,\"loss\":4064,\"lossH\":4062,\"win\":4856,\"winH\":4856,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperchessbotauthor\",\"username\":\"hyperchessbotauthor\",\"perfs\":{\"blitz\":{\"games\":1325,\"rating\":2087,\"rd\":45,\"prog\":-10},\"atomic\":{\"games\":3436,\"rating\":2073,\"rd\":45,\"prog\":9},\"bullet\":{\"games\":3875,\"rating\":1903,\"rd\":45,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":494,\"rating\":1801,\"rd\":55,\"prog\":20},\"puzzle\":{\"games\":958,\"rating\":2321,\"rd\":124,\"prog\":0,\"prov\":true},\"classical\":{\"games\":49,\"rating\":2019,\"rd\":94,\"prog\":-108},\"rapid\":{\"games\":523,\"rating\":2326,\"rd\":45,\"prog\":24}},\"createdAt\":1603109931581,\"online\":true,\"profile\":{\"bio\":\"author of https://lichess.org/@/chesshyperbot Hyper Bot https://github.com/hyperchessbot/hyperbot#create-your-own-hyper-bot Hyper Easy https://hypereasy.herokuapp.com  discussion /feedback https://discord.gg/8m3Muay blog https://hyperchessbotsramblings.netlify.app/your2600bot/ polls https://listrawpoll.herokuapp.com/\"},\"seenAt\":1634632270081,\"playTime\":{\"total\":2029057,\"tv\":231958},\"url\":\"https://lichess.org/@/hyperchessbotauthor\",\"completionRate\":90,\"count\":{\"all\":9708,\"rated\":9703,\"ai\":2,\"draw\":518,\"drawH\":518,\"loss\":4181,\"lossH\":4179,\"win\":5009,\"winH\":5009,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperchessbotauthor",
     "username": "hyperchessbotauthor",
     "perfs": {
       "blitz": {
-        "games": 1246,
-        "rating": 2034,
-        "rd": 48,
-        "prog": 29
+        "games": 1325,
+        "rating": 2087,
+        "rd": 45,
+        "prog": -10
       },
       "atomic": {
-        "games": 3330,
-        "rating": 2118,
-        "rd": 47,
-        "prog": 26
+        "games": 3436,
+        "rating": 2073,
+        "rd": 45,
+        "prog": 9
       },
       "bullet": {
-        "games": 3852,
-        "rating": 1901,
-        "rd": 51,
+        "games": 3875,
+        "rating": 1903,
+        "rd": 45,
         "prog": 17
       },
       "correspondence": {
@@ -37,27 +37,27 @@
       "horde": {
         "games": 494,
         "rating": 1801,
-        "rd": 52,
+        "rd": 55,
         "prog": 20
       },
       "puzzle": {
         "games": 958,
         "rating": 2321,
-        "rd": 122,
+        "rd": 124,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 49,
         "rating": 2019,
-        "rd": 92,
+        "rd": 94,
         "prog": -108
       },
       "rapid": {
-        "games": 436,
-        "rating": 2336,
+        "games": 523,
+        "rating": 2326,
         "rd": 45,
-        "prog": -1
+        "prog": 24
       }
     },
     "createdAt": 1603109931581,
@@ -65,23 +65,23 @@
     "profile": {
       "bio": "author of https://lichess.org/@/chesshyperbot Hyper Bot https://github.com/hyperchessbot/hyperbot#create-your-own-hyper-bot Hyper Easy https://hypereasy.herokuapp.com  discussion /feedback https://discord.gg/8m3Muay blog https://hyperchessbotsramblings.netlify.app/your2600bot/ polls https://listrawpoll.herokuapp.com/"
     },
-    "seenAt": 1634012326250,
+    "seenAt": 1634632270081,
     "playTime": {
-      "total": 1902836,
-      "tv": 220013
+      "total": 2029057,
+      "tv": 231958
     },
     "url": "https://lichess.org/@/hyperchessbotauthor",
-    "completionRate": 97,
+    "completionRate": 90,
     "count": {
-      "all": 9413,
-      "rated": 9408,
+      "all": 9708,
+      "rated": 9703,
       "ai": 2,
-      "draw": 493,
-      "drawH": 493,
-      "loss": 4064,
-      "lossH": 4062,
-      "win": 4856,
-      "winH": 4856,
+      "draw": 518,
+      "drawH": 518,
+      "loss": 4181,
+      "lossH": 4179,
+      "win": 5009,
+      "winH": 5009,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
