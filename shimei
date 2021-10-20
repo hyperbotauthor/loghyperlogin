@@ -4,7 +4,7 @@
   "username": "Shimei",
   "profileUrl": "https://lichess.org/@/Shimei",
   "provider": "lichess",
-  "_raw": "{\"id\":\"shimei\",\"username\":\"Shimei\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1634659335984,\"online\":true,\"seenAt\":1634659983263,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Shimei\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"shimei\",\"username\":\"Shimei\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":38,\"rating\":2135,\"rd\":61,\"prog\":37},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1634659335984,\"online\":true,\"profile\":{\"country\":\"JP\",\"firstName\":\"Shimei\",\"lastName\":\"Version 2.0\",\"fideRating\":2500},\"seenAt\":1634739772785,\"playTime\":{\"total\":7116,\"tv\":599},\"url\":\"https://lichess.org/@/Shimei\",\"count\":{\"all\":41,\"rated\":39,\"ai\":2,\"draw\":3,\"drawH\":3,\"loss\":14,\"lossH\":13,\"win\":24,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "shimei",
     "username": "Shimei",
@@ -17,11 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 38,
+        "rating": 2135,
+        "rd": 61,
+        "prog": 37
       },
       "correspondence": {
         "games": 0,
@@ -48,28 +47,34 @@
     "title": "BOT",
     "createdAt": 1634659335984,
     "online": true,
-    "seenAt": 1634659983263,
+    "profile": {
+      "country": "JP",
+      "firstName": "Shimei",
+      "lastName": "Version 2.0",
+      "fideRating": 2500
+    },
+    "seenAt": 1634739772785,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 7116,
+      "tv": 599
     },
     "url": "https://lichess.org/@/Shimei",
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 41,
+      "rated": 39,
+      "ai": 2,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 14,
+      "lossH": 13,
+      "win": 24,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
       "me": 0
     },
-    "followable": true,
+    "followable": false,
     "following": false,
     "blocking": false,
     "followsYou": false
