@@ -1,0 +1,134 @@
+{
+  "id": "samyayt",
+  "displayName": "SamyaYt",
+  "username": "SamyaYt",
+  "profileUrl": "https://lichess.org/@/SamyaYt",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"samyayt\",\"username\":\"SamyaYt\",\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1232,\"rd\":230,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1290,\"rd\":292,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":846,\"rating\":1993,\"rd\":80,\"prog\":0},\"atomic\":{\"games\":5,\"rating\":1006,\"rd\":188,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":23,\"rating\":1025,\"rd\":98,\"prog\":-100},\"blitz\":{\"games\":30,\"rating\":1885,\"rd\":89,\"prog\":77},\"threeCheck\":{\"games\":4,\"rating\":1518,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":138,\"rating\":1524,\"rd\":66,\"prog\":-8},\"correspondence\":{\"games\":3,\"rating\":1541,\"rd\":235,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1626,\"rd\":203,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1773,\"rd\":106,\"prog\":-23},\"storm\":{\"runs\":3,\"score\":28},\"racer\":{\"runs\":22,\"score\":45},\"streak\":{\"runs\":12,\"score\":17}},\"createdAt\":1624364621043,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"firstName\":\"Samya\",\"lastName\":\"Chakrabarti\",\"fideRating\":1236,\"links\":\"https://youtube.com/channel/UCuEYUAiFWLEl62B8QBM_t1g\"},\"seenAt\":1634715178278,\"playTime\":{\"total\":63168,\"tv\":0},\"url\":\"https://lichess.org/@/SamyaYt\",\"completionRate\":93,\"count\":{\"all\":343,\"rated\":237,\"ai\":25,\"draw\":12,\"drawH\":12,\"loss\":204,\"lossH\":181,\"win\":127,\"winH\":125,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "samyayt",
+    "username": "SamyaYt",
+    "perfs": {
+      "chess960": {
+        "games": 4,
+        "rating": 1232,
+        "rd": 230,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1290,
+        "rd": 292,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 846,
+        "rating": 1993,
+        "rd": 80,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 5,
+        "rating": 1006,
+        "rd": 188,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 23,
+        "rating": 1025,
+        "rd": 98,
+        "prog": -100
+      },
+      "blitz": {
+        "games": 30,
+        "rating": 1885,
+        "rd": 89,
+        "prog": 77
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1518,
+        "rd": 209,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 138,
+        "rating": 1524,
+        "rd": 66,
+        "prog": -8
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1541,
+        "rd": 235,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1626,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 22,
+        "rating": 1773,
+        "rd": 106,
+        "prog": -23
+      },
+      "storm": {
+        "runs": 3,
+        "score": 28
+      },
+      "racer": {
+        "runs": 22,
+        "score": 45
+      },
+      "streak": {
+        "runs": 12,
+        "score": 17
+      }
+    },
+    "createdAt": 1624364621043,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "firstName": "Samya",
+      "lastName": "Chakrabarti",
+      "fideRating": 1236,
+      "links": "https://youtube.com/channel/UCuEYUAiFWLEl62B8QBM_t1g"
+    },
+    "seenAt": 1634715178278,
+    "playTime": {
+      "total": 63168,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/SamyaYt",
+    "completionRate": 93,
+    "count": {
+      "all": 343,
+      "rated": 237,
+      "ai": 25,
+      "draw": 12,
+      "drawH": 12,
+      "loss": 204,
+      "lossH": 181,
+      "win": 127,
+      "winH": 125,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
