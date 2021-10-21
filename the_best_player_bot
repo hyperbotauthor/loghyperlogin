@@ -1,0 +1,95 @@
+{
+  "id": "the_best_player_bot",
+  "displayName": "The_Best_Player_Bot",
+  "username": "The_Best_Player_Bot",
+  "profileUrl": "https://lichess.org/@/The_Best_Player_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"the_best_player_bot\",\"username\":\"The_Best_Player_Bot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1438,\"rd\":421,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1786,\"rd\":250,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":876,\"rd\":362,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1679,\"rd\":259,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1481,\"rd\":484,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2157,\"rd\":150,\"prog\":-49,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1628168349949,\"online\":true,\"profile\":{\"bio\":\"Very dumb bot............... (Owner:@Varshanchess123\"},\"seenAt\":1634798048761,\"playTime\":{\"total\":19030,\"tv\":0},\"url\":\"https://lichess.org/@/The_Best_Player_Bot\",\"count\":{\"all\":52,\"rated\":29,\"ai\":12,\"draw\":2,\"drawH\":2,\"loss\":29,\"lossH\":26,\"win\":21,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "the_best_player_bot",
+    "username": "The_Best_Player_Bot",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1438,
+        "rd": 421,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1786,
+        "rd": 250,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 876,
+        "rd": 362,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 1679,
+        "rd": 259,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1481,
+        "rd": 484,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 15,
+        "rating": 2157,
+        "rd": 150,
+        "prog": -49,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1628168349949,
+    "online": true,
+    "profile": {
+      "bio": "Very dumb bot............... (Owner:@Varshanchess123"
+    },
+    "seenAt": 1634798048761,
+    "playTime": {
+      "total": 19030,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/The_Best_Player_Bot",
+    "count": {
+      "all": 52,
+      "rated": 29,
+      "ai": 12,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 29,
+      "lossH": 26,
+      "win": 21,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
