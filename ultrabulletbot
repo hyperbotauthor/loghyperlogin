@@ -1,0 +1,79 @@
+{
+  "id": "ultrabulletbot",
+  "displayName": "UltraBulletBot",
+  "username": "UltraBulletBot",
+  "profileUrl": "https://lichess.org/@/UltraBulletBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ultrabulletbot\",\"username\":\"UltraBulletBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2130,\"rd\":227,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1524543084661,\"online\":true,\"profile\":{},\"seenAt\":1634803495661,\"playTime\":{\"total\":28059,\"tv\":12459},\"url\":\"https://lichess.org/@/UltraBulletBot\",\"count\":{\"all\":486,\"rated\":484,\"ai\":0,\"draw\":169,\"drawH\":169,\"loss\":120,\"lossH\":120,\"win\":197,\"winH\":197,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ultrabulletbot",
+    "username": "UltraBulletBot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 13,
+        "rating": 2130,
+        "rd": 227,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1524543084661,
+    "online": true,
+    "profile": {},
+    "seenAt": 1634803495661,
+    "playTime": {
+      "total": 28059,
+      "tv": 12459
+    },
+    "url": "https://lichess.org/@/UltraBulletBot",
+    "count": {
+      "all": 486,
+      "rated": 484,
+      "ai": 0,
+      "draw": 169,
+      "drawH": 169,
+      "loss": 120,
+      "lossH": 120,
+      "win": 197,
+      "winH": 197,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
