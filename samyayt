@@ -4,7 +4,7 @@
   "username": "SamyaYt",
   "profileUrl": "https://lichess.org/@/SamyaYt",
   "provider": "lichess",
-  "_raw": "{\"id\":\"samyayt\",\"username\":\"SamyaYt\",\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1232,\"rd\":230,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1290,\"rd\":292,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":846,\"rating\":1993,\"rd\":80,\"prog\":0},\"atomic\":{\"games\":5,\"rating\":1006,\"rd\":188,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":23,\"rating\":1025,\"rd\":98,\"prog\":-100},\"blitz\":{\"games\":30,\"rating\":1885,\"rd\":89,\"prog\":77},\"threeCheck\":{\"games\":4,\"rating\":1518,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":138,\"rating\":1524,\"rd\":66,\"prog\":-8},\"correspondence\":{\"games\":3,\"rating\":1541,\"rd\":235,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1626,\"rd\":203,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1773,\"rd\":106,\"prog\":-23},\"storm\":{\"runs\":3,\"score\":28},\"racer\":{\"runs\":22,\"score\":45},\"streak\":{\"runs\":12,\"score\":17}},\"createdAt\":1624364621043,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"firstName\":\"Samya\",\"lastName\":\"Chakrabarti\",\"fideRating\":1236,\"links\":\"https://youtube.com/channel/UCuEYUAiFWLEl62B8QBM_t1g\"},\"seenAt\":1634715799970,\"playTime\":{\"total\":63168,\"tv\":0},\"url\":\"https://lichess.org/@/SamyaYt\",\"completionRate\":93,\"count\":{\"all\":343,\"rated\":237,\"ai\":25,\"draw\":12,\"drawH\":12,\"loss\":204,\"lossH\":181,\"win\":127,\"winH\":125,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"samyayt\",\"username\":\"SamyaYt\",\"perfs\":{\"chess960\":{\"games\":4,\"rating\":1232,\"rd\":230,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1290,\"rd\":292,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":849,\"rating\":2007,\"rd\":79,\"prog\":0},\"atomic\":{\"games\":5,\"rating\":1006,\"rd\":189,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":23,\"rating\":1025,\"rd\":98,\"prog\":-100},\"blitz\":{\"games\":30,\"rating\":1885,\"rd\":90,\"prog\":77},\"threeCheck\":{\"games\":4,\"rating\":1518,\"rd\":209,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":139,\"rating\":1538,\"rd\":65,\"prog\":1},\"correspondence\":{\"games\":3,\"rating\":1541,\"rd\":235,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1626,\"rd\":203,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1773,\"rd\":106,\"prog\":-23},\"storm\":{\"runs\":3,\"score\":28},\"racer\":{\"runs\":22,\"score\":45},\"streak\":{\"runs\":14,\"score\":26}},\"createdAt\":1624364621043,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"firstName\":\"Samya\",\"lastName\":\"Chakrabarti\",\"fideRating\":1236,\"links\":\"https://youtube.com/channel/UCuEYUAiFWLEl62B8QBM_t1g\"},\"seenAt\":1634816274175,\"playTime\":{\"total\":63502,\"tv\":0},\"url\":\"https://lichess.org/@/SamyaYt\",\"completionRate\":93,\"count\":{\"all\":346,\"rated\":238,\"ai\":27,\"draw\":12,\"drawH\":12,\"loss\":206,\"lossH\":181,\"win\":128,\"winH\":126,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "samyayt",
     "username": "SamyaYt",
@@ -24,15 +24,15 @@
         "prov": true
       },
       "puzzle": {
-        "games": 846,
-        "rating": 1993,
-        "rd": 80,
+        "games": 849,
+        "rating": 2007,
+        "rd": 79,
         "prog": 0
       },
       "atomic": {
         "games": 5,
         "rating": 1006,
-        "rd": 188,
+        "rd": 189,
         "prog": 0,
         "prov": true
       },
@@ -45,7 +45,7 @@
       "blitz": {
         "games": 30,
         "rating": 1885,
-        "rd": 89,
+        "rd": 90,
         "prog": 77
       },
       "threeCheck": {
@@ -56,10 +56,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 138,
-        "rating": 1524,
-        "rd": 66,
-        "prog": -8
+        "games": 139,
+        "rating": 1538,
+        "rd": 65,
+        "prog": 1
       },
       "correspondence": {
         "games": 3,
@@ -90,8 +90,8 @@
         "score": 45
       },
       "streak": {
-        "runs": 12,
-        "score": 17
+        "runs": 14,
+        "score": 26
       }
     },
     "createdAt": 1624364621043,
@@ -103,23 +103,23 @@
       "fideRating": 1236,
       "links": "https://youtube.com/channel/UCuEYUAiFWLEl62B8QBM_t1g"
     },
-    "seenAt": 1634715799970,
+    "seenAt": 1634816274175,
     "playTime": {
-      "total": 63168,
+      "total": 63502,
       "tv": 0
     },
     "url": "https://lichess.org/@/SamyaYt",
     "completionRate": 93,
     "count": {
-      "all": 343,
-      "rated": 237,
-      "ai": 25,
+      "all": 346,
+      "rated": 238,
+      "ai": 27,
       "draw": 12,
       "drawH": 12,
-      "loss": 204,
+      "loss": 206,
       "lossH": 181,
-      "win": 127,
-      "winH": 125,
+      "win": 128,
+      "winH": 126,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
