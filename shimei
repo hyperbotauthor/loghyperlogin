@@ -4,7 +4,7 @@
   "username": "Shimei",
   "profileUrl": "https://lichess.org/@/Shimei",
   "provider": "lichess",
-  "_raw": "{\"id\":\"shimei\",\"username\":\"Shimei\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2334,\"rd\":224,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":74,\"rating\":2228,\"rd\":45,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2704,\"rd\":109,\"prog\":60}},\"title\":\"BOT\",\"createdAt\":1634659335984,\"online\":true,\"profile\":{\"country\":\"JP\",\"bio\":\"Multi-Variant Stockfish 12\",\"firstName\":\"Shimei\",\"lastName\":\"Version 2.0\",\"fideRating\":2500},\"seenAt\":1634914542189,\"playTime\":{\"total\":24835,\"tv\":4616},\"url\":\"https://lichess.org/@/Shimei\",\"count\":{\"all\":109,\"rated\":98,\"ai\":2,\"draw\":5,\"drawH\":5,\"loss\":30,\"lossH\":29,\"win\":74,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"shimei\",\"username\":\"Shimei\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2334,\"rd\":224,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":74,\"rating\":2228,\"rd\":45,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2704,\"rd\":109,\"prog\":60}},\"title\":\"BOT\",\"createdAt\":1634659335984,\"online\":true,\"profile\":{\"country\":\"JP\",\"bio\":\"Multi-Variant Stockfish 12\",\"firstName\":\"Shimei\",\"lastName\":\"Version 2.0\",\"fideRating\":2500},\"seenAt\":1634928459927,\"playTime\":{\"total\":25655,\"tv\":4616},\"url\":\"https://lichess.org/@/Shimei\",\"count\":{\"all\":110,\"rated\":98,\"ai\":2,\"draw\":6,\"drawH\":6,\"loss\":30,\"lossH\":29,\"win\":74,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "shimei",
     "username": "Shimei",
@@ -53,18 +53,18 @@
       "lastName": "Version 2.0",
       "fideRating": 2500
     },
-    "seenAt": 1634914542189,
+    "seenAt": 1634928459927,
     "playTime": {
-      "total": 24835,
+      "total": 25655,
       "tv": 4616
     },
     "url": "https://lichess.org/@/Shimei",
     "count": {
-      "all": 109,
+      "all": 110,
       "rated": 98,
       "ai": 2,
-      "draw": 5,
-      "drawH": 5,
+      "draw": 6,
+      "drawH": 6,
       "loss": 30,
       "lossH": 29,
       "win": 74,
