@@ -1,0 +1,146 @@
+{
+  "id": "dm_jeronimo_1234",
+  "displayName": "DM_JERONIMO_1234",
+  "username": "DM_JERONIMO_1234",
+  "profileUrl": "https://lichess.org/@/DM_JERONIMO_1234",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dm_jeronimo_1234\",\"username\":\"DM_JERONIMO_1234\",\"perfs\":{\"antichess\":{\"games\":27,\"rating\":1824,\"rd\":199,\"prog\":-154,\"prov\":true},\"atomic\":{\"games\":15,\"rating\":1944,\"rd\":202,\"prog\":51,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":1763,\"rd\":203,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1808,\"rd\":355,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":14,\"rating\":1253,\"rd\":131,\"prog\":74,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":397,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1868,\"rd\":317,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1663,\"rd\":83,\"prog\":-14},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1700,\"rd\":199,\"prog\":30,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1391,\"rd\":353,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1748,\"rd\":398,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1967,\"rd\":216,\"prog\":0,\"prov\":true}},\"createdAt\":1633099425254,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Bogota\",\"firstName\":\"JERONIMO\",\"lastName\":\"PINEDA TORRES\"},\"seenAt\":1636041076461,\"playTime\":{\"total\":50112,\"tv\":172},\"url\":\"https://lichess.org/@/DM_JERONIMO_1234\",\"completionRate\":70,\"count\":{\"all\":273,\"rated\":131,\"ai\":5,\"draw\":10,\"drawH\":10,\"loss\":117,\"lossH\":116,\"win\":146,\"winH\":142,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dm_jeronimo_1234",
+    "username": "DM_JERONIMO_1234",
+    "perfs": {
+      "antichess": {
+        "games": 27,
+        "rating": 1824,
+        "rd": 199,
+        "prog": -154,
+        "prov": true
+      },
+      "atomic": {
+        "games": 15,
+        "rating": 1944,
+        "rd": 202,
+        "prog": 51,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 10,
+        "rating": 1763,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1808,
+        "rd": 355,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 14,
+        "rating": 1253,
+        "rd": 131,
+        "prog": 74,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1868,
+        "rd": 317,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 39,
+        "rating": 1663,
+        "rd": 83,
+        "prog": -14
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 12,
+        "rating": 1700,
+        "rd": 199,
+        "prog": 30,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 1391,
+        "rd": 353,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1748,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 1967,
+        "rd": 216,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1633099425254,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "location": "Bogota",
+      "firstName": "JERONIMO",
+      "lastName": "PINEDA TORRES"
+    },
+    "seenAt": 1636041076461,
+    "playTime": {
+      "total": 50112,
+      "tv": 172
+    },
+    "url": "https://lichess.org/@/DM_JERONIMO_1234",
+    "completionRate": 70,
+    "count": {
+      "all": 273,
+      "rated": 131,
+      "ai": 5,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 117,
+      "lossH": 116,
+      "win": 146,
+      "winH": 142,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
