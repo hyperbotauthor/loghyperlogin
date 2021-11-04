@@ -1,0 +1,106 @@
+{
+  "id": "iosibot",
+  "displayName": "iosiBOT",
+  "username": "iosiBOT",
+  "profileUrl": "https://lichess.org/@/iosiBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"iosibot\",\"username\":\"iosiBOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2318,\"rd\":232,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1497,\"rd\":496,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":1813,\"rd\":137,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1338,\"rd\":302,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1753,\"rd\":287,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2179,\"rd\":192,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":28,\"rating\":2494,\"rd\":73,\"prog\":-33}},\"title\":\"BOT\",\"createdAt\":1635865322971,\"online\":true,\"profile\":{\"country\":\"AR\",\"location\":\"Buenos Aires, Argentina\",\"bio\":\"Owner: @iosi_2010.\\r\\n\\r\\nThis bot is created with easychess.herokuapp.com. If you know a best system and want to help to play with a bot bullet games, send me a private message!\",\"firstName\":\"Iosi\",\"lastName\":\"---\",\"links\":\"lichess.org/@/iosi_2010\"},\"seenAt\":1636036650688,\"playTime\":{\"total\":16726,\"tv\":3683},\"url\":\"https://lichess.org/@/iosiBOT\",\"count\":{\"all\":63,\"rated\":46,\"ai\":5,\"draw\":10,\"drawH\":10,\"loss\":23,\"lossH\":19,\"win\":30,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "iosibot",
+    "username": "iosiBOT",
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 2318,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1497,
+        "rd": 496,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 7,
+        "rating": 1813,
+        "rd": 137,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1338,
+        "rd": 302,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1753,
+        "rd": 287,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 5,
+        "rating": 2179,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 28,
+        "rating": 2494,
+        "rd": 73,
+        "prog": -33
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1635865322971,
+    "online": true,
+    "profile": {
+      "country": "AR",
+      "location": "Buenos Aires, Argentina",
+      "bio": "Owner: @iosi_2010.\r\n\r\nThis bot is created with easychess.herokuapp.com. If you know a best system and want to help to play with a bot bullet games, send me a private message!",
+      "firstName": "Iosi",
+      "lastName": "---",
+      "links": "lichess.org/@/iosi_2010"
+    },
+    "seenAt": 1636036650688,
+    "playTime": {
+      "total": 16726,
+      "tv": 3683
+    },
+    "url": "https://lichess.org/@/iosiBOT",
+    "count": {
+      "all": 63,
+      "rated": 46,
+      "ai": 5,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 23,
+      "lossH": 19,
+      "win": 30,
+      "winH": 29,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
