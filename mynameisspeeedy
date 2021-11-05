@@ -4,7 +4,7 @@
   "username": "MyNameIsSpeeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"perfs\":{\"blitz\":{\"games\":40,\"rating\":2384,\"rd\":104,\"prog\":-21},\"crazyhouse\":{\"games\":2,\"rating\":1861,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":2278,\"rd\":79,\"prog\":-75},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":153,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2490,\"rd\":117,\"prog\":88,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1625684055061,\"online\":true,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1636025268301,\"playTime\":{\"total\":171145,\"tv\":17094},\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/O1gzhzvp/black\",\"count\":{\"all\":724,\"rated\":251,\"ai\":375,\"draw\":44,\"drawH\":26,\"loss\":249,\"lossH\":87,\"win\":431,\"winH\":236,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"perfs\":{\"blitz\":{\"games\":40,\"rating\":2384,\"rd\":104,\"prog\":-21},\"crazyhouse\":{\"games\":2,\"rating\":1861,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":2278,\"rd\":80,\"prog\":-75},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":153,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2490,\"rd\":117,\"prog\":88,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1625684055061,\"online\":true,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1636094268802,\"playTime\":{\"total\":183939,\"tv\":19636},\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/KaljDvrS/white\",\"count\":{\"all\":857,\"rated\":251,\"ai\":382,\"draw\":55,\"drawH\":37,\"loss\":292,\"lossH\":130,\"win\":510,\"winH\":308,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeeedy",
     "username": "MyNameIsSpeeedy",
@@ -32,7 +32,7 @@
       "bullet": {
         "games": 172,
         "rating": 2278,
-        "rd": 79,
+        "rd": 80,
         "prog": -75
       },
       "correspondence": {
@@ -65,23 +65,23 @@
       "location": "Riga",
       "bio": "Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\r\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!"
     },
-    "seenAt": 1636025268301,
+    "seenAt": 1636094268802,
     "playTime": {
-      "total": 171145,
-      "tv": 17094
+      "total": 183939,
+      "tv": 19636
     },
     "url": "https://lichess.org/@/MyNameIsSpeeedy",
-    "playing": "https://lichess.org/O1gzhzvp/black",
+    "playing": "https://lichess.org/KaljDvrS/white",
     "count": {
-      "all": 724,
+      "all": 857,
       "rated": 251,
-      "ai": 375,
-      "draw": 44,
-      "drawH": 26,
-      "loss": 249,
-      "lossH": 87,
-      "win": 431,
-      "winH": 236,
+      "ai": 382,
+      "draw": 55,
+      "drawH": 37,
+      "loss": 292,
+      "lossH": 130,
+      "win": 510,
+      "winH": 308,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
