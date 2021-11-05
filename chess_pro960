@@ -1,0 +1,102 @@
+{
+  "id": "chess_pro960",
+  "displayName": "Chess_pro960",
+  "username": "Chess_pro960",
+  "profileUrl": "https://lichess.org/@/Chess_pro960",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_pro960\",\"username\":\"Chess_pro960\",\"perfs\":{\"blitz\":{\"games\":54,\"rating\":2128,\"rd\":60,\"prog\":93},\"antichess\":{\"games\":1,\"rating\":1465,\"rd\":449,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1792,\"rd\":291,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1423,\"rd\":398,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1689,\"rd\":173,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1916,\"rd\":378,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1635537464350,\"online\":true,\"profile\":{\"country\":\"US\",\"bio\":\"Play me in a game of bullet, blitz, or rapid. I am the king of speed. When it comes to winning on time I am your guy. I am made by @D-Grandmaster.\"},\"seenAt\":1636151881267,\"playTime\":{\"total\":17294,\"tv\":916},\"url\":\"https://lichess.org/@/Chess_pro960\",\"count\":{\"all\":96,\"rated\":74,\"ai\":6,\"draw\":1,\"drawH\":1,\"loss\":38,\"lossH\":36,\"win\":57,\"winH\":53,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_pro960",
+    "username": "Chess_pro960",
+    "perfs": {
+      "blitz": {
+        "games": 54,
+        "rating": 2128,
+        "rd": 60,
+        "prog": 93
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1465,
+        "rd": 449,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1792,
+        "rd": 291,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1423,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 1689,
+        "rd": 173,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1916,
+        "rd": 378,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1635537464350,
+    "online": true,
+    "profile": {
+      "country": "US",
+      "bio": "Play me in a game of bullet, blitz, or rapid. I am the king of speed. When it comes to winning on time I am your guy. I am made by @D-Grandmaster."
+    },
+    "seenAt": 1636151881267,
+    "playTime": {
+      "total": 17294,
+      "tv": 916
+    },
+    "url": "https://lichess.org/@/Chess_pro960",
+    "count": {
+      "all": 96,
+      "rated": 74,
+      "ai": 6,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 38,
+      "lossH": 36,
+      "win": 57,
+      "winH": 53,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
