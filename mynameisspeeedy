@@ -4,11 +4,18 @@
   "username": "MyNameIsSpeeedy",
   "profileUrl": "https://lichess.org/@/MyNameIsSpeeedy",
   "provider": "lichess",
-  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"perfs\":{\"blitz\":{\"games\":40,\"rating\":2384,\"rd\":104,\"prog\":-21},\"crazyhouse\":{\"games\":2,\"rating\":1861,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":2278,\"rd\":80,\"prog\":-75},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":153,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2490,\"rd\":117,\"prog\":88,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1625684055061,\"online\":true,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\\r\\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!\"},\"seenAt\":1636094268802,\"playTime\":{\"total\":183939,\"tv\":19636},\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/KaljDvrS/white\",\"count\":{\"all\":857,\"rated\":251,\"ai\":382,\"draw\":55,\"drawH\":37,\"loss\":292,\"lossH\":130,\"win\":510,\"winH\":308,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"mynameisspeeedy\",\"username\":\"MyNameIsSpeeedy\",\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1453,\"rd\":432,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":40,\"rating\":2384,\"rd\":104,\"prog\":-21},\"crazyhouse\":{\"games\":2,\"rating\":1861,\"rd\":242,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":8,\"rating\":1147,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":2278,\"rd\":80,\"prog\":-75},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2223,\"rd\":153,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2511,\"rd\":111,\"prog\":110,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1625684055061,\"online\":true,\"profile\":{\"country\":\"LV\",\"location\":\"Riga\",\"bio\":\"Hyperbot made by @striker2211 running on Heroku 550h/p month can ́t fall asleep because it drinks coffee:D Inspiration by @hyperbotauthor Feel free to play with me as much as you want (no farming pls!) all possible variants:) pls don ́t play Bullet under 1 minute\\r\\nThanks!\",\"firstName\":\"BOT\",\"lastName\":\"MyNameIsSpeeedy\",\"fideRating\":2000,\"links\":\"https://kaffeine.herokuapp.com/\\r\\nhttps://github.com/hyperchessbot/hyperbot/wiki/Creating-and-configuring-your-app-on-Heroku#creating-and-configuring-your-app-on-heroku\"},\"seenAt\":1636127609510,\"playTime\":{\"total\":207693,\"tv\":26021},\"url\":\"https://lichess.org/@/MyNameIsSpeeedy\",\"playing\":\"https://lichess.org/fRdrfNSy/white\",\"count\":{\"all\":954,\"rated\":254,\"ai\":449,\"draw\":75,\"drawH\":56,\"loss\":316,\"lossH\":136,\"win\":563,\"winH\":313,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "mynameisspeeedy",
     "username": "MyNameIsSpeeedy",
     "perfs": {
+      "atomic": {
+        "games": 1,
+        "rating": 1453,
+        "rd": 432,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 40,
         "rating": 2384,
@@ -50,10 +57,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 20,
-        "rating": 2490,
-        "rd": 117,
-        "prog": 88,
+        "games": 22,
+        "rating": 2511,
+        "rd": 111,
+        "prog": 110,
         "prov": true
       }
     },
@@ -63,27 +70,31 @@
     "profile": {
       "country": "LV",
       "location": "Riga",
-      "bio": "Hey guy! If you are an developer of Bots or an programer please help me...If you can solve the problem of my Bot and programe him completly to a stockfish Bot and send me all the dates then you will receive a reward\r\nReward:You get follow from me and my developer @striker2211, you can play with me so much how you want and also a big Thanks!"
+      "bio": "Hyperbot made by @striker2211 running on Heroku 550h/p month can ́t fall asleep because it drinks coffee:D Inspiration by @hyperbotauthor Feel free to play with me as much as you want (no farming pls!) all possible variants:) pls don ́t play Bullet under 1 minute\r\nThanks!",
+      "firstName": "BOT",
+      "lastName": "MyNameIsSpeeedy",
+      "fideRating": 2000,
+      "links": "https://kaffeine.herokuapp.com/\r\nhttps://github.com/hyperchessbot/hyperbot/wiki/Creating-and-configuring-your-app-on-Heroku#creating-and-configuring-your-app-on-heroku"
     },
-    "seenAt": 1636094268802,
+    "seenAt": 1636127609510,
     "playTime": {
-      "total": 183939,
-      "tv": 19636
+      "total": 207693,
+      "tv": 26021
     },
     "url": "https://lichess.org/@/MyNameIsSpeeedy",
-    "playing": "https://lichess.org/KaljDvrS/white",
+    "playing": "https://lichess.org/fRdrfNSy/white",
     "count": {
-      "all": 857,
-      "rated": 251,
-      "ai": 382,
-      "draw": 55,
-      "drawH": 37,
-      "loss": 292,
-      "lossH": 130,
-      "win": 510,
-      "winH": 308,
+      "all": 954,
+      "rated": 254,
+      "ai": 449,
+      "draw": 75,
+      "drawH": 56,
+      "loss": 316,
+      "lossH": 136,
+      "win": 563,
+      "winH": 313,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
