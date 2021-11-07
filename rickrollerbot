@@ -4,67 +4,69 @@
   "username": "RickRollerBOT",
   "profileUrl": "https://lichess.org/@/RickRollerBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rickrollerbot\",\"username\":\"RickRollerBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1628169705900,\"online\":true,\"seenAt\":1636209885161,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/RickRollerBOT\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rickrollerbot\",\"username\":\"RickRollerBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2428,\"rd\":194,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1628169705900,\"online\":true,\"seenAt\":1636297612322,\"playTime\":{\"total\":1664,\"tv\":0},\"url\":\"https://lichess.org/@/RickRollerBOT\",\"playing\":\"https://lichess.org/k7r1NVyE/white\",\"count\":{\"all\":10,\"rated\":7,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":2,\"lossH\":2,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rickrollerbot",
     "username": "RickRollerBOT",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2428,
+        "rd": 194,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1628169705900,
     "online": true,
-    "seenAt": 1636209885161,
+    "seenAt": 1636297612322,
     "playTime": {
-      "total": 0,
+      "total": 1664,
       "tv": 0
     },
     "url": "https://lichess.org/@/RickRollerBOT",
+    "playing": "https://lichess.org/k7r1NVyE/white",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 10,
+      "rated": 7,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 2,
+      "lossH": 2,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
