@@ -1,0 +1,84 @@
+{
+  "id": "simpledevilbot",
+  "displayName": "SimpleDevilBot",
+  "username": "SimpleDevilBot",
+  "profileUrl": "https://lichess.org/@/SimpleDevilBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"simpledevilbot\",\"username\":\"SimpleDevilBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2900,\"rd\":255,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636208833633,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Lichess's strongest bot ever existed .Human Pilot @MadHog_Rider .No Bullet can have any other variant\\r\\nSpecial Thanks to Komodo.\",\"fideRating\":2700,\"uscfRating\":2600},\"seenAt\":1636253572374,\"playTime\":{\"total\":1934,\"tv\":0},\"url\":\"https://lichess.org/@/SimpleDevilBot\",\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "simpledevilbot",
+    "username": "SimpleDevilBot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2900,
+        "rd": 255,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1636208833633,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Lichess's strongest bot ever existed .Human Pilot @MadHog_Rider .No Bullet can have any other variant\r\nSpecial Thanks to Komodo.",
+      "fideRating": 2700,
+      "uscfRating": 2600
+    },
+    "seenAt": 1636253572374,
+    "playTime": {
+      "total": 1934,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/SimpleDevilBot",
+    "count": {
+      "all": 3,
+      "rated": 3,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
