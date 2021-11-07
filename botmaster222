@@ -1,0 +1,79 @@
+{
+  "id": "botmaster222",
+  "displayName": "BOTMASTER222",
+  "username": "BOTMASTER222",
+  "profileUrl": "https://lichess.org/@/BOTMASTER222",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"botmaster222\",\"username\":\"BOTMASTER222\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2602,\"rd\":192,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2427,\"rd\":164,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636195718596,\"online\":true,\"seenAt\":1636255037750,\"playTime\":{\"total\":2791,\"tv\":0},\"url\":\"https://lichess.org/@/BOTMASTER222\",\"playing\":\"https://lichess.org/UDZWLxr2/white\",\"count\":{\"all\":18,\"rated\":10,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":0,\"win\":16,\"winH\":12,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "botmaster222",
+    "username": "BOTMASTER222",
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 2602,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 6,
+        "rating": 2427,
+        "rd": 164,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1636195718596,
+    "online": true,
+    "seenAt": 1636255037750,
+    "playTime": {
+      "total": 2791,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/BOTMASTER222",
+    "playing": "https://lichess.org/UDZWLxr2/white",
+    "count": {
+      "all": 18,
+      "rated": 10,
+      "ai": 6,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 0,
+      "win": 16,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
