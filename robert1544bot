@@ -4,65 +4,78 @@
   "username": "robert1544bot",
   "profileUrl": "https://lichess.org/@/robert1544bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"robert1544bot\",\"username\":\"robert1544bot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1636053696924,\"online\":true,\"seenAt\":1636053724074,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/robert1544bot\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"robert1544bot\",\"username\":\"robert1544bot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1617,\"rd\":368,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1957,\"rd\":222,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2052,\"rd\":443,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636053696924,\"online\":true,\"profile\":{\"country\":\"AU\",\"bio\":\"i play casual,rated, standard,crazyhouse, chess960 , three check ,and atomic.\\r\\n\\r\\n(i don't join teams that have in the title. \\\"fan club\\\")\\r\\nhttps://media.giphy.com/media/eNk8J83tpqR7skRyyT/giphy.gif\\r\\nhttps://media.giphy.com/media/dkzi3gDq2ZEbl40n9r/giphy.gif\\r\\nhttps://media.giphy.com/media/xtILFJqcmShDnhQi1p/giphy.gif\\r\\nhttps://media.giphy.com/media/iyE6vCXiabCEZIgCb8/giphy.gif\",\"fideRating\":2000},\"seenAt\":1636489518123,\"playTime\":{\"total\":5180,\"tv\":0},\"url\":\"https://lichess.org/@/robert1544bot\",\"count\":{\"all\":52,\"rated\":10,\"ai\":10,\"draw\":1,\"drawH\":1,\"loss\":13,\"lossH\":13,\"win\":38,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "robert1544bot",
     "username": "robert1544bot",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1617,
+        "rd": 368,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1957,
+        "rd": 222,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2052,
+        "rd": 443,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1636053696924,
     "online": true,
-    "seenAt": 1636053724074,
+    "profile": {
+      "country": "AU",
+      "bio": "i play casual,rated, standard,crazyhouse, chess960 , three check ,and atomic.\r\n\r\n(i don't join teams that have in the title. \"fan club\")\r\nhttps://media.giphy.com/media/eNk8J83tpqR7skRyyT/giphy.gif\r\nhttps://media.giphy.com/media/dkzi3gDq2ZEbl40n9r/giphy.gif\r\nhttps://media.giphy.com/media/xtILFJqcmShDnhQi1p/giphy.gif\r\nhttps://media.giphy.com/media/iyE6vCXiabCEZIgCb8/giphy.gif",
+      "fideRating": 2000
+    },
+    "seenAt": 1636489518123,
     "playTime": {
-      "total": 0,
+      "total": 5180,
       "tv": 0
     },
     "url": "https://lichess.org/@/robert1544bot",
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "all": 52,
+      "rated": 10,
+      "ai": 10,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 13,
+      "lossH": 13,
+      "win": 38,
+      "winH": 28,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
