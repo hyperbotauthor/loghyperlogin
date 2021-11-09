@@ -4,62 +4,63 @@
   "username": "Andy_Roid",
   "profileUrl": "https://lichess.org/@/Andy_Roid",
   "provider": "lichess",
-  "_raw": "{\"id\":\"andy_roid\",\"username\":\"Andy_Roid\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1626472310266,\"profile\":{\"country\":\"_lichess\",\"bio\":\"testing bot made by @odw\",\"firstName\":\"Andy\"},\"seenAt\":1629936716070,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Andy_Roid\",\"nbFollowing\":0,\"nbFollowers\":1,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"andy_roid\",\"username\":\"Andy_Roid\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1626472310266,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Online\",\"bio\":\"bot made by @thisismyrealname\",\"firstName\":\"Andy\",\"lastName\":\"v.26.8.21\"},\"seenAt\":1636416531004,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Andy_Roid\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "andy_roid",
     "username": "Andy_Roid",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1626472310266,
+    "online": true,
     "profile": {
       "country": "_lichess",
-      "bio": "testing bot made by @odw",
-      "firstName": "Andy"
+      "location": "Online",
+      "bio": "bot made by @thisismyrealname",
+      "firstName": "Andy",
+      "lastName": "v.26.8.21"
     },
-    "seenAt": 1629936716070,
+    "seenAt": 1636416531004,
     "playTime": {
       "total": 0,
       "tv": 0
     },
     "url": "https://lichess.org/@/Andy_Roid",
-    "nbFollowing": 0,
-    "nbFollowers": 1,
     "count": {
       "all": 0,
       "rated": 0,
