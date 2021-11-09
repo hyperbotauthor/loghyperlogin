@@ -4,7 +4,7 @@
   "username": "Gaviru-Rehan",
   "profileUrl": "https://lichess.org/@/Gaviru-Rehan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"gaviru-rehan\",\"username\":\"Gaviru-Rehan\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1318,\"rd\":298,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1926,\"rd\":243,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":25,\"rating\":2001,\"rd\":96,\"prog\":20},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1415,\"rd\":385,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":51,\"rating\":2007,\"rd\":64,\"prog\":-18},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2006,\"rd\":113,\"prog\":-24,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633238902657,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"Colombo\",\"bio\":\"I am chess bot maded by @Gambit-Crusher if you want to play with me massege to my owner @Gambit-Crusher\\r\\nPlease follow me and my owner\",\"firstName\":\"GAMBIT\",\"lastName\":\"BOT\",\"fideRating\":2765},\"seenAt\":1636182103994,\"playTime\":{\"total\":28977,\"tv\":1020},\"url\":\"https://lichess.org/@/Gaviru-Rehan\",\"count\":{\"all\":115,\"rated\":98,\"ai\":3,\"draw\":9,\"drawH\":9,\"loss\":50,\"lossH\":49,\"win\":56,\"winH\":54,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"gaviru-rehan\",\"username\":\"Gaviru-Rehan\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1318,\"rd\":298,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1926,\"rd\":243,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1476,\"rd\":466,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":27,\"rating\":2041,\"rd\":91,\"prog\":80},\"kingOfTheHill\":{\"games\":1,\"rating\":1635,\"rd\":388,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1415,\"rd\":385,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":56,\"rating\":1963,\"rd\":60,\"prog\":-63},\"correspondence\":{\"games\":2,\"rating\":2156,\"rd\":396,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2006,\"rd\":114,\"prog\":-24,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633238902657,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"Colombo\",\"bio\":\"I am chess bot maded by @Gambit-Crusher if you want to play with me massege to my owner @Gambit-Crusher\\r\\nPlease follow me and my owner\",\"firstName\":\"GAMBIT\",\"lastName\":\"BOT\",\"fideRating\":2765},\"seenAt\":1636440853237,\"playTime\":{\"total\":31164,\"tv\":1020},\"url\":\"https://lichess.org/@/Gaviru-Rehan\",\"playing\":\"https://lichess.org/c3pl699q/black\",\"count\":{\"all\":128,\"rated\":108,\"ai\":3,\"draw\":10,\"drawH\":10,\"loss\":57,\"lossH\":56,\"win\":61,\"winH\":59,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "gaviru-rehan",
     "username": "Gaviru-Rehan",
@@ -31,10 +31,17 @@
         "prov": true
       },
       "blitz": {
-        "games": 25,
-        "rating": 2001,
-        "rd": 96,
-        "prog": 20
+        "games": 27,
+        "rating": 2041,
+        "rd": 91,
+        "prog": 80
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1635,
+        "rd": 388,
+        "prog": 0,
+        "prov": true
       },
       "crazyhouse": {
         "games": 1,
@@ -51,15 +58,15 @@
         "prov": true
       },
       "bullet": {
-        "games": 51,
-        "rating": 2007,
-        "rd": 64,
-        "prog": -18
+        "games": 56,
+        "rating": 1963,
+        "rd": 60,
+        "prog": -63
       },
       "correspondence": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2156,
+        "rd": 396,
         "prog": 0,
         "prov": true
       },
@@ -73,7 +80,7 @@
       "rapid": {
         "games": 13,
         "rating": 2006,
-        "rd": 113,
+        "rd": 114,
         "prog": -24,
         "prov": true
       }
@@ -89,24 +96,25 @@
       "lastName": "BOT",
       "fideRating": 2765
     },
-    "seenAt": 1636182103994,
+    "seenAt": 1636440853237,
     "playTime": {
-      "total": 28977,
+      "total": 31164,
       "tv": 1020
     },
     "url": "https://lichess.org/@/Gaviru-Rehan",
+    "playing": "https://lichess.org/c3pl699q/black",
     "count": {
-      "all": 115,
-      "rated": 98,
+      "all": 128,
+      "rated": 108,
       "ai": 3,
-      "draw": 9,
-      "drawH": 9,
-      "loss": 50,
-      "lossH": 49,
-      "win": 56,
-      "winH": 54,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 57,
+      "lossH": 56,
+      "win": 61,
+      "winH": 59,
       "bookmark": 1,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
