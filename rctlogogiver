@@ -1,0 +1,99 @@
+{
+  "id": "rctlogogiver",
+  "displayName": "RCTLOGOGIVER",
+  "username": "RCTLOGOGIVER",
+  "profileUrl": "https://lichess.org/@/RCTLOGOGIVER",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rctlogogiver\",\"username\":\"RCTLOGOGIVER\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1689,\"rd\":213,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":923,\"rd\":353,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":44,\"rating\":1264,\"rd\":60,\"prog\":-25},\"bullet\":{\"games\":14,\"rating\":1640,\"rd\":116,\"prog\":-12,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1808,\"rd\":213,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":1,\"score\":32}},\"createdAt\":1634796503147,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Team Link https://lichess.org/team/revengers-chess-team\\r\\n\\r\\n\\r\\nTournament Link https://lichess.org/swiss/AzP0wLv9\"},\"seenAt\":1636530168450,\"playTime\":{\"total\":7065,\"tv\":0},\"url\":\"https://lichess.org/@/RCTLOGOGIVER\",\"completionRate\":93,\"count\":{\"all\":99,\"rated\":71,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":48,\"lossH\":43,\"win\":48,\"winH\":48,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rctlogogiver",
+    "username": "RCTLOGOGIVER",
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1689,
+        "rd": 213,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 923,
+        "rd": 353,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 44,
+        "rating": 1264,
+        "rd": 60,
+        "prog": -25
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 1640,
+        "rd": 116,
+        "prog": -12,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 8,
+        "rating": 1808,
+        "rd": 213,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 1,
+        "score": 32
+      }
+    },
+    "createdAt": 1634796503147,
+    "online": true,
+    "profile": {
+      "country": "_earth",
+      "bio": "Team Link https://lichess.org/team/revengers-chess-team\r\n\r\n\r\nTournament Link https://lichess.org/swiss/AzP0wLv9"
+    },
+    "seenAt": 1636530168450,
+    "playTime": {
+      "total": 7065,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/RCTLOGOGIVER",
+    "completionRate": 93,
+    "count": {
+      "all": 99,
+      "rated": 71,
+      "ai": 5,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 48,
+      "lossH": 43,
+      "win": 48,
+      "winH": 48,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": false,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
