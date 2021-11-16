@@ -4,7 +4,7 @@
   "username": "REVENGERS-CHESS-TEAM",
   "profileUrl": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
   "provider": "lichess",
-  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"seenAt\":1636530201146,\"playTime\":{\"total\":903,\"tv\":0},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"count\":{\"all\":3,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2396,\"rd\":254,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1544,\"rd\":322,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":1797,\"rd\":159,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"MY BROTHER @REVENGERSCHESSTEAM2\\r\\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE\"},\"seenAt\":1637057116297,\"playTime\":{\"total\":13334,\"tv\":690},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"count\":{\"all\":52,\"rated\":15,\"ai\":12,\"draw\":3,\"drawH\":3,\"loss\":19,\"lossH\":14,\"win\":30,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "revengers-chess-team",
     "username": "REVENGERS-CHESS-TEAM",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 5,
+        "rating": 2396,
+        "rd": 254,
         "prog": 0,
         "prov": true
       },
@@ -31,16 +31,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1544,
+        "rd": 322,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 9,
+        "rating": 1797,
+        "rd": 159,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,26 @@
     "title": "BOT",
     "createdAt": 1636455601761,
     "online": true,
-    "seenAt": 1636530201146,
+    "profile": {
+      "country": "IN",
+      "bio": "MY BROTHER @REVENGERSCHESSTEAM2\r\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE"
+    },
+    "seenAt": 1637057116297,
     "playTime": {
-      "total": 903,
-      "tv": 0
+      "total": 13334,
+      "tv": 690
     },
     "url": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
     "count": {
-      "all": 3,
-      "rated": 0,
-      "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
-      "win": 1,
-      "winH": 1,
+      "all": 52,
+      "rated": 15,
+      "ai": 12,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 19,
+      "lossH": 14,
+      "win": 30,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
