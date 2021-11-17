@@ -1,0 +1,78 @@
+{
+  "id": "jonamama",
+  "displayName": "Jonamama",
+  "username": "Jonamama",
+  "profileUrl": "https://lichess.org/@/Jonamama",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jonamama\",\"username\":\"Jonamama\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2222,\"rd\":179,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1833,\"rd\":179,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2033,\"rd\":455,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636968580187,\"online\":true,\"seenAt\":1637166948749,\"playTime\":{\"total\":3899,\"tv\":386},\"url\":\"https://lichess.org/@/Jonamama\",\"count\":{\"all\":14,\"rated\":14,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jonamama",
+    "username": "Jonamama",
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 2222,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 8,
+        "rating": 1833,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2033,
+        "rd": 455,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1636968580187,
+    "online": true,
+    "seenAt": 1637166948749,
+    "playTime": {
+      "total": 3899,
+      "tv": 386
+    },
+    "url": "https://lichess.org/@/Jonamama",
+    "count": {
+      "all": 14,
+      "rated": 14,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 8,
+      "lossH": 8,
+      "win": 5,
+      "winH": 5,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
