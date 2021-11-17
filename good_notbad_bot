@@ -1,0 +1,82 @@
+{
+  "id": "good_notbad_bot",
+  "displayName": "Good_NotBad_Bot",
+  "username": "Good_NotBad_Bot",
+  "profileUrl": "https://lichess.org/@/Good_NotBad_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"good_notbad_bot\",\"username\":\"Good_NotBad_Bot\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1713,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1469,\"rd\":131,\"prog\":-14,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1681,\"rd\":295,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":9,\"rating\":2273,\"rd\":145,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636955321250,\"online\":true,\"profile\":{\"bio\":\"https://lichess1.org/assets/_Pd8Jec/images/icons/bot.png\"},\"seenAt\":1637123343202,\"playTime\":{\"total\":8949,\"tv\":201},\"url\":\"https://lichess.org/@/Good_NotBad_Bot\",\"playing\":\"https://lichess.org/o3tC1w4Q/white\",\"count\":{\"all\":45,\"rated\":26,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":21,\"lossH\":21,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "good_notbad_bot",
+    "username": "Good_NotBad_Bot",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1713,
+        "rd": 290,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 13,
+        "rating": 1469,
+        "rd": 131,
+        "prog": -14,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1681,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 9,
+        "rating": 2273,
+        "rd": 145,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1636955321250,
+    "online": true,
+    "profile": {
+      "bio": "https://lichess1.org/assets/_Pd8Jec/images/icons/bot.png"
+    },
+    "seenAt": 1637123343202,
+    "playTime": {
+      "total": 8949,
+      "tv": 201
+    },
+    "url": "https://lichess.org/@/Good_NotBad_Bot",
+    "playing": "https://lichess.org/o3tC1w4Q/white",
+    "count": {
+      "all": 45,
+      "rated": 26,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 21,
+      "lossH": 21,
+      "win": 23,
+      "winH": 23,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
