@@ -4,30 +4,29 @@
   "username": "PewDiePieorMrbeast",
   "profileUrl": "https://lichess.org/@/PewDiePieorMrbeast",
   "provider": "lichess",
-  "_raw": "{\"id\":\"pewdiepieormrbeast\",\"username\":\"PewDiePieorMrbeast\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2051,\"rd\":198,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":2183,\"rd\":197,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1841,\"rd\":132,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2168,\"rd\":361,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1850,\"rd\":225,\"prog\":0,\"prov\":true}},\"createdAt\":1619429160234,\"profile\":{\"bio\":\"which one?\"},\"seenAt\":1619667118034,\"playTime\":{\"total\":6110,\"tv\":107},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/PewDiePieorMrbeast\",\"nbFollowing\":1,\"nbFollowers\":1,\"count\":{\"all\":34,\"rated\":25,\"ai\":2,\"draw\":1,\"drawH\":1,\"loss\":11,\"lossH\":11,\"win\":22,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"pewdiepieormrbeast\",\"username\":\"PewDiePieorMrbeast\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2160,\"rd\":196,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":2183,\"rd\":222,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1841,\"rd\":167,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2230,\"rd\":319,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1929,\"rd\":218,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1619429160234,\"online\":true,\"profile\":{\"bio\":\"which one?\"},\"seenAt\":1637217420427,\"playTime\":{\"total\":8059,\"tv\":107},\"url\":\"https://lichess.org/@/PewDiePieorMrbeast\",\"count\":{\"all\":41,\"rated\":29,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":12,\"win\":26,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "pewdiepieormrbeast",
     "username": "PewDiePieorMrbeast",
-    "online": true,
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2051,
-        "rd": 198,
+        "games": 6,
+        "rating": 2160,
+        "rd": 196,
         "prog": 0,
         "prov": true
       },
       "horde": {
         "games": 6,
         "rating": 2183,
-        "rd": 197,
+        "rd": 222,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 11,
         "rating": 1841,
-        "rd": 132,
+        "rd": 167,
         "prog": 0,
         "prov": true
       },
@@ -39,44 +38,42 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 2168,
-        "rd": 361,
+        "games": 2,
+        "rating": 2230,
+        "rd": 319,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 1850,
-        "rd": 225,
+        "games": 4,
+        "rating": 1929,
+        "rd": 218,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1619429160234,
+    "online": true,
     "profile": {
       "bio": "which one?"
     },
-    "seenAt": 1619667118034,
+    "seenAt": 1637217420427,
     "playTime": {
-      "total": 6110,
+      "total": 8059,
       "tv": 107
     },
-    "language": "en-US",
-    "title": "BOT",
     "url": "https://lichess.org/@/PewDiePieorMrbeast",
-    "nbFollowing": 1,
-    "nbFollowers": 1,
     "count": {
-      "all": 34,
-      "rated": 25,
-      "ai": 2,
+      "all": 41,
+      "rated": 29,
+      "ai": 4,
       "draw": 1,
       "drawH": 1,
-      "loss": 11,
-      "lossH": 11,
-      "win": 22,
-      "winH": 20,
+      "loss": 14,
+      "lossH": 12,
+      "win": 26,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
