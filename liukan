@@ -1,0 +1,80 @@
+{
+  "id": "liukan",
+  "displayName": "LiuKan",
+  "username": "LiuKan",
+  "profileUrl": "https://lichess.org/@/LiuKan",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"liukan\",\"username\":\"LiuKan\",\"perfs\":{\"blitz\":{\"games\":146,\"rating\":2021,\"rd\":45,\"prog\":-25},\"bullet\":{\"games\":811,\"rating\":1876,\"rd\":45,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":8,\"score\":10}},\"createdAt\":1549780106897,\"online\":true,\"seenAt\":1637249918178,\"playTime\":{\"total\":131740,\"tv\":0},\"url\":\"https://lichess.org/@/LiuKan\",\"completionRate\":100,\"count\":{\"all\":968,\"rated\":957,\"ai\":0,\"draw\":40,\"drawH\":40,\"loss\":445,\"lossH\":445,\"win\":483,\"winH\":483,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "liukan",
+    "username": "LiuKan",
+    "perfs": {
+      "blitz": {
+        "games": 146,
+        "rating": 2021,
+        "rd": 45,
+        "prog": -25
+      },
+      "bullet": {
+        "games": 811,
+        "rating": 1876,
+        "rd": 45,
+        "prog": -3
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 8,
+        "score": 10
+      }
+    },
+    "createdAt": 1549780106897,
+    "online": true,
+    "seenAt": 1637249918178,
+    "playTime": {
+      "total": 131740,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/LiuKan",
+    "completionRate": 100,
+    "count": {
+      "all": 968,
+      "rated": 957,
+      "ai": 0,
+      "draw": 40,
+      "drawH": 40,
+      "loss": 445,
+      "lossH": 445,
+      "win": 483,
+      "winH": 483,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
