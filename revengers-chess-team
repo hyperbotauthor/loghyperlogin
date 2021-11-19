@@ -4,7 +4,7 @@
   "username": "REVENGERS-CHESS-TEAM",
   "profileUrl": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
   "provider": "lichess",
-  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2339,\"rd\":210,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1489,\"rd\":299,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1900,\"rd\":129,\"prog\":206,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"KERALA\",\"bio\":\"MY BROTHER @REVENGERSCHESSTEAM1\\r\\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE\"},\"seenAt\":1637229025131,\"playTime\":{\"total\":28534,\"tv\":690},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"count\":{\"all\":139,\"rated\":28,\"ai\":12,\"draw\":8,\"drawH\":8,\"loss\":51,\"lossH\":46,\"win\":80,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2305,\"rd\":166,\"prog\":63,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1489,\"rd\":299,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":1944,\"rd\":110,\"prog\":252,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"KERALA\",\"bio\":\"MY BROTHER @REVENGERSCHESSTEAM1\\r\\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE\"},\"seenAt\":1637306356345,\"playTime\":{\"total\":33425,\"tv\":1795},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"playing\":\"https://lichess.org/OOJxETKq/white\",\"count\":{\"all\":171,\"rated\":39,\"ai\":12,\"draw\":11,\"drawH\":11,\"loss\":63,\"lossH\":58,\"win\":97,\"winH\":90,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "revengers-chess-team",
     "username": "REVENGERS-CHESS-TEAM",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 2339,
-        "rd": 210,
-        "prog": 0,
+        "games": 16,
+        "rating": 2305,
+        "rd": 166,
+        "prog": 63,
         "prov": true
       },
       "correspondence": {
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 15,
-        "rating": 1900,
-        "rd": 129,
-        "prog": 206,
+        "games": 19,
+        "rating": 1944,
+        "rd": 110,
+        "prog": 252,
         "prov": true
       }
     },
@@ -53,24 +53,25 @@
       "location": "KERALA",
       "bio": "MY BROTHER @REVENGERSCHESSTEAM1\r\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE"
     },
-    "seenAt": 1637229025131,
+    "seenAt": 1637306356345,
     "playTime": {
-      "total": 28534,
-      "tv": 690
+      "total": 33425,
+      "tv": 1795
     },
     "url": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
+    "playing": "https://lichess.org/OOJxETKq/white",
     "count": {
-      "all": 139,
-      "rated": 28,
+      "all": 171,
+      "rated": 39,
       "ai": 12,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 51,
-      "lossH": 46,
-      "win": 80,
-      "winH": 73,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 63,
+      "lossH": 58,
+      "win": 97,
+      "winH": 90,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
