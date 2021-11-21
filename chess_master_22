@@ -1,0 +1,77 @@
+{
+  "id": "chess_master_22",
+  "displayName": "Chess_Master_22",
+  "username": "Chess_Master_22",
+  "profileUrl": "https://lichess.org/@/Chess_Master_22",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_master_22\",\"username\":\"Chess_Master_22\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1637505092505,\"online\":true,\"seenAt\":1637505118330,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Chess_Master_22\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_master_22",
+    "username": "Chess_Master_22",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1637505092505,
+    "online": true,
+    "seenAt": 1637505118330,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Chess_Master_22",
+    "count": {
+      "all": 0,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
