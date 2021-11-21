@@ -4,7 +4,7 @@
   "username": "CrazyDog5892912",
   "profileUrl": "https://lichess.org/@/CrazyDog5892912",
   "provider": "lichess",
-  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"seenAt\":1637507559178,\"playTime\":{\"total\":265,\"tv\":0},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":3,\"rated\":0,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2766,\"rd\":178,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid!\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637512774440,\"playTime\":{\"total\":3779,\"tv\":0},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":17,\"rated\":10,\"ai\":6,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":1,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "crazydog5892912",
     "username": "CrazyDog5892912",
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 10,
+        "rating": 2766,
+        "rd": 178,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,29 @@
     "title": "BOT",
     "createdAt": 1637506264960,
     "online": true,
-    "seenAt": 1637507559178,
+    "profile": {
+      "country": "NZ",
+      "bio": "Try me in Rapid!",
+      "firstName": "CrazyDog",
+      "lastName": "5892912",
+      "fideRating": 3000
+    },
+    "seenAt": 1637512774440,
     "playTime": {
-      "total": 265,
+      "total": 3779,
       "tv": 0
     },
     "url": "https://lichess.org/@/CrazyDog5892912",
     "count": {
-      "all": 3,
-      "rated": 0,
-      "ai": 2,
+      "all": 17,
+      "rated": 10,
+      "ai": 6,
       "draw": 0,
       "drawH": 0,
-      "loss": 3,
+      "loss": 7,
       "lossH": 1,
-      "win": 0,
-      "winH": 0,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
