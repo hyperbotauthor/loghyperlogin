@@ -4,22 +4,22 @@
   "username": "Jonamama",
   "profileUrl": "https://lichess.org/@/Jonamama",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jonamama\",\"username\":\"Jonamama\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2222,\"rd\":179,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1833,\"rd\":179,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2033,\"rd\":455,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636968580187,\"online\":true,\"seenAt\":1637166948749,\"playTime\":{\"total\":3899,\"tv\":386},\"url\":\"https://lichess.org/@/Jonamama\",\"count\":{\"all\":14,\"rated\":14,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jonamama\",\"username\":\"Jonamama\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2277,\"rd\":161,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":1833,\"rd\":180,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2489,\"rd\":103,\"prog\":69}},\"title\":\"BOT\",\"createdAt\":1636968580187,\"online\":true,\"profile\":{\"country\":\"KE\",\"location\":\"Nairobi\",\"bio\":\"I am there kenya bot under 12 national champion  and the bot  to kenya under 12 national champion  also known as  paul olando @jinakubwa\",\"firstName\":\"Jona\",\"lastName\":\"Mama\",\"fideRating\":2087},\"seenAt\":1637579494458,\"playTime\":{\"total\":15256,\"tv\":386},\"url\":\"https://lichess.org/@/Jonamama\",\"playing\":\"https://lichess.org/oTxuzaSP/white\",\"count\":{\"all\":30,\"rated\":30,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":12,\"lossH\":12,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jonamama",
     "username": "Jonamama",
     "perfs": {
       "blitz": {
-        "games": 5,
-        "rating": 2222,
-        "rd": 179,
+        "games": 6,
+        "rating": 2277,
+        "rd": 161,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 8,
         "rating": 1833,
-        "rd": 179,
+        "rd": 180,
         "prog": 0,
         "prov": true
       },
@@ -38,34 +38,42 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2033,
-        "rd": 455,
-        "prog": 0,
-        "prov": true
+        "games": 16,
+        "rating": 2489,
+        "rd": 103,
+        "prog": 69
       }
     },
     "title": "BOT",
     "createdAt": 1636968580187,
     "online": true,
-    "seenAt": 1637166948749,
+    "profile": {
+      "country": "KE",
+      "location": "Nairobi",
+      "bio": "I am there kenya bot under 12 national champion  and the bot  to kenya under 12 national champion  also known as  paul olando @jinakubwa",
+      "firstName": "Jona",
+      "lastName": "Mama",
+      "fideRating": 2087
+    },
+    "seenAt": 1637579494458,
     "playTime": {
-      "total": 3899,
+      "total": 15256,
       "tv": 386
     },
     "url": "https://lichess.org/@/Jonamama",
+    "playing": "https://lichess.org/oTxuzaSP/white",
     "count": {
-      "all": 14,
-      "rated": 14,
+      "all": 30,
+      "rated": 30,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 8,
-      "lossH": 8,
-      "win": 5,
-      "winH": 5,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 12,
+      "lossH": 12,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
