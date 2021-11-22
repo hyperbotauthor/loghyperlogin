@@ -4,7 +4,7 @@
   "username": "CrazyDog5892912",
   "profileUrl": "https://lichess.org/@/CrazyDog5892912",
   "provider": "lichess",
-  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":2687,\"rd\":130,\"prog\":-88,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid!\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637558976954,\"playTime\":{\"total\":11658,\"tv\":0},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"playing\":\"https://lichess.org/PoQUoGOM/white\",\"count\":{\"all\":39,\"rated\":30,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":5,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":28,\"rating\":2690,\"rd\":109,\"prog\":-133}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid!\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637581452874,\"playTime\":{\"total\":15742,\"tv\":0},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":45,\"rated\":36,\"ai\":7,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":6,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "crazydog5892912",
     "username": "CrazyDog5892912",
@@ -38,11 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 22,
-        "rating": 2687,
-        "rd": 130,
-        "prog": -88,
-        "prov": true
+        "games": 28,
+        "rating": 2690,
+        "rd": 109,
+        "prog": -133
       }
     },
     "title": "BOT",
@@ -55,25 +54,24 @@
       "lastName": "5892912",
       "fideRating": 3000
     },
-    "seenAt": 1637558976954,
+    "seenAt": 1637581452874,
     "playTime": {
-      "total": 11658,
+      "total": 15742,
       "tv": 0
     },
     "url": "https://lichess.org/@/CrazyDog5892912",
-    "playing": "https://lichess.org/PoQUoGOM/white",
     "count": {
-      "all": 39,
-      "rated": 30,
+      "all": 45,
+      "rated": 36,
       "ai": 7,
       "draw": 0,
       "drawH": 0,
-      "loss": 12,
-      "lossH": 5,
-      "win": 27,
-      "winH": 27,
+      "loss": 13,
+      "lossH": 6,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
