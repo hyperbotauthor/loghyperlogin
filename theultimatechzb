@@ -4,7 +4,7 @@
   "username": "TheUltimateChzB",
   "profileUrl": "https://lichess.org/@/TheUltimateChzB",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theultimatechzb\",\"username\":\"TheUltimateChzB\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636214382113,\"online\":true,\"seenAt\":1637127029797,\"playTime\":{\"total\":956,\"tv\":0},\"url\":\"https://lichess.org/@/TheUltimateChzB\",\"count\":{\"all\":12,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":9,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theultimatechzb\",\"username\":\"TheUltimateChzB\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1456,\"rd\":304,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636214382113,\"online\":true,\"seenAt\":1637665914923,\"playTime\":{\"total\":1056,\"tv\":0},\"url\":\"https://lichess.org/@/TheUltimateChzB\",\"count\":{\"all\":14,\"rated\":2,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":11,\"lossH\":11,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theultimatechzb",
     "username": "TheUltimateChzB",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 1456,
+        "rd": 304,
         "prog": 0,
         "prov": true
       },
@@ -48,20 +48,20 @@
     "title": "BOT",
     "createdAt": 1636214382113,
     "online": true,
-    "seenAt": 1637127029797,
+    "seenAt": 1637665914923,
     "playTime": {
-      "total": 956,
+      "total": 1056,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheUltimateChzB",
     "count": {
-      "all": 12,
-      "rated": 0,
+      "all": 14,
+      "rated": 2,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 9,
-      "lossH": 9,
+      "loss": 11,
+      "lossH": 11,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
