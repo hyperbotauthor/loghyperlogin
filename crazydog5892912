@@ -4,7 +4,7 @@
   "username": "CrazyDog5892912",
   "profileUrl": "https://lichess.org/@/CrazyDog5892912",
   "provider": "lichess",
-  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":35,\"rating\":2678,\"rd\":91,\"prog\":-34}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid! you can only put +5 increment or no increment! choose your own TIME CONTROL! i will accept any challenge and any VARIANT! I don't accept 15 sec time control. I play to slow but strong! so watch out every move! Casual or Rated, choose what do you want! Play on and no offers of draw! MY GAME AGAINST THE GREAT Boris-Trapsky https://lichess.org/study/vjWZywB3/vvA67QWZ\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637642040756,\"playTime\":{\"total\":21581,\"tv\":1513},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"playing\":\"https://lichess.org/Z9qOqJJd/black\",\"count\":{\"all\":58,\"rated\":43,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":20,\"lossH\":8,\"win\":37,\"winH\":37,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":40,\"rating\":2712,\"rd\":83,\"prog\":76}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid! you can only put +5 increment or no increment! choose your own TIME CONTROL! i will accept any challenge and any VARIANT! I don't accept 15 sec time control. I play to slow but strong! so watch out every move! Casual or Rated, choose what do you want! Play on and no offers of draw! MY GAME AGAINST THE GREAT Boris-Trapsky https://lichess.org/study/vjWZywB3/vvA67QWZ\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637653526942,\"playTime\":{\"total\":27724,\"tv\":4055},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":63,\"rated\":48,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":20,\"lossH\":8,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "crazydog5892912",
     "username": "CrazyDog5892912",
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 35,
-        "rating": 2678,
-        "rd": 91,
-        "prog": -34
+        "games": 40,
+        "rating": 2712,
+        "rd": 83,
+        "prog": 76
       }
     },
     "title": "BOT",
@@ -54,25 +54,24 @@
       "lastName": "5892912",
       "fideRating": 3000
     },
-    "seenAt": 1637642040756,
+    "seenAt": 1637653526942,
     "playTime": {
-      "total": 21581,
-      "tv": 1513
+      "total": 27724,
+      "tv": 4055
     },
     "url": "https://lichess.org/@/CrazyDog5892912",
-    "playing": "https://lichess.org/Z9qOqJJd/black",
     "count": {
-      "all": 58,
-      "rated": 43,
+      "all": 63,
+      "rated": 48,
       "ai": 12,
       "draw": 1,
       "drawH": 1,
       "loss": 20,
       "lossH": 8,
-      "win": 37,
-      "winH": 37,
+      "win": 42,
+      "winH": 42,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
