@@ -4,21 +4,21 @@
   "username": "YTGBot",
   "profileUrl": "https://lichess.org/@/YTGBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ytgbot\",\"username\":\"YTGBot\",\"perfs\":{\"blitz\":{\"games\":23,\"rating\":1718,\"rd\":88,\"prog\":-11},\"bullet\":{\"games\":5,\"rating\":1475,\"rd\":193,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636770350623,\"online\":true,\"seenAt\":1637546523619,\"playTime\":{\"total\":6636,\"tv\":471},\"url\":\"https://lichess.org/@/YTGBot\",\"count\":{\"all\":36,\"rated\":30,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":20,\"lossH\":20,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ytgbot\",\"username\":\"YTGBot\",\"perfs\":{\"blitz\":{\"games\":24,\"rating\":1711,\"rd\":87,\"prog\":-11},\"bullet\":{\"games\":5,\"rating\":1475,\"rd\":194,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1636770350623,\"online\":true,\"seenAt\":1637633537827,\"playTime\":{\"total\":7139,\"tv\":974},\"url\":\"https://lichess.org/@/YTGBot\",\"count\":{\"all\":37,\"rated\":31,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":21,\"lossH\":21,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ytgbot",
     "username": "YTGBot",
     "perfs": {
       "blitz": {
-        "games": 23,
-        "rating": 1718,
-        "rd": 88,
+        "games": 24,
+        "rating": 1711,
+        "rd": 87,
         "prog": -11
       },
       "bullet": {
         "games": 5,
         "rating": 1475,
-        "rd": 193,
+        "rd": 194,
         "prog": 0,
         "prov": true
       },
@@ -47,20 +47,20 @@
     "title": "BOT",
     "createdAt": 1636770350623,
     "online": true,
-    "seenAt": 1637546523619,
+    "seenAt": 1637633537827,
     "playTime": {
-      "total": 6636,
-      "tv": 471
+      "total": 7139,
+      "tv": 974
     },
     "url": "https://lichess.org/@/YTGBot",
     "count": {
-      "all": 36,
-      "rated": 30,
+      "all": 37,
+      "rated": 31,
       "ai": 0,
       "draw": 5,
       "drawH": 5,
-      "loss": 20,
-      "lossH": 20,
+      "loss": 21,
+      "lossH": 21,
       "win": 11,
       "winH": 11,
       "bookmark": 0,
