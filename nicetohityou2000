@@ -1,0 +1,82 @@
+{
+  "id": "nicetohityou2000",
+  "displayName": "NiceToHitYou2000",
+  "username": "NiceToHitYou2000",
+  "profileUrl": "https://lichess.org/@/NiceToHitYou2000",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"nicetohityou2000\",\"username\":\"NiceToHitYou2000\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1734,\"rd\":196,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":410,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1462,\"rd\":445,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1615467378846,\"online\":true,\"profile\":{\"bio\":\"https://i.imgur.com/vRPWH7w.jpg\"},\"seenAt\":1637649022375,\"playTime\":{\"total\":6223,\"tv\":0},\"url\":\"https://lichess.org/@/NiceToHitYou2000\",\"playing\":\"https://lichess.org/G5XqiRY6/black\",\"count\":{\"all\":23,\"rated\":12,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":8,\"win\":10,\"winH\":8,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "nicetohityou2000",
+    "username": "NiceToHitYou2000",
+    "perfs": {
+      "blitz": {
+        "games": 8,
+        "rating": 1734,
+        "rd": 196,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 410,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1462,
+        "rd": 445,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1615467378846,
+    "online": true,
+    "profile": {
+      "bio": "https://i.imgur.com/vRPWH7w.jpg"
+    },
+    "seenAt": 1637649022375,
+    "playTime": {
+      "total": 6223,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/NiceToHitYou2000",
+    "playing": "https://lichess.org/G5XqiRY6/black",
+    "count": {
+      "all": 23,
+      "rated": 12,
+      "ai": 5,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 11,
+      "lossH": 8,
+      "win": 10,
+      "winH": 8,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
