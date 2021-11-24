@@ -4,7 +4,7 @@
   "username": "REVENGERS-CHESS-TEAM",
   "profileUrl": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
   "provider": "lichess",
-  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":2029,\"rd\":137,\"prog\":-247,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1774,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1977,\"rd\":103,\"prog\":285}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"KERALA\",\"bio\":\"MOSTLY LIKE TO PLAY CASUAL NO MATTER CHALLENGE.MY BROTHER @REVENGERSCHESSTEAM1\\r\\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE\"},\"seenAt\":1637564487237,\"playTime\":{\"total\":44259,\"tv\":3802},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"playing\":\"https://lichess.org/KEXt7gcg/black\",\"count\":{\"all\":213,\"rated\":53,\"ai\":16,\"draw\":14,\"drawH\":14,\"loss\":81,\"lossH\":74,\"win\":118,\"winH\":109,\"bookmark\":0,\"playing\":2,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"revengers-chess-team\",\"username\":\"REVENGERS-CHESS-TEAM\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":2029,\"rd\":137,\"prog\":-247,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2076,\"rd\":404,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1774,\"rd\":199,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1977,\"rd\":104,\"prog\":285}},\"title\":\"BOT\",\"createdAt\":1636455601761,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"KERALA\",\"bio\":\"MOSTLY LIKE TO PLAY CASUAL NO MATTER CHALLENGE.MY BROTHER @REVENGERSCHESSTEAM1\\r\\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE\"},\"seenAt\":1637738848619,\"playTime\":{\"total\":45770,\"tv\":3944},\"url\":\"https://lichess.org/@/REVENGERS-CHESS-TEAM\",\"playing\":\"https://lichess.org/KVDZaFk4/black\",\"count\":{\"all\":231,\"rated\":54,\"ai\":16,\"draw\":15,\"drawH\":15,\"loss\":87,\"lossH\":80,\"win\":129,\"winH\":120,\"bookmark\":0,\"playing\":1,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "revengers-chess-team",
     "username": "REVENGERS-CHESS-TEAM",
@@ -24,9 +24,9 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2076,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 22,
         "rating": 1977,
-        "rd": 103,
+        "rd": 104,
         "prog": 285
       }
     },
@@ -52,25 +52,25 @@
       "location": "KERALA",
       "bio": "MOSTLY LIKE TO PLAY CASUAL NO MATTER CHALLENGE.MY BROTHER @REVENGERSCHESSTEAM1\r\nhttps://lichess.org/team/revengers-chess-team MY TEAM . FEEL FREE TO CHALLENGE ME I WILL ACCEPT CHALLENGES WHEN I AM ONLINE"
     },
-    "seenAt": 1637564487237,
+    "seenAt": 1637738848619,
     "playTime": {
-      "total": 44259,
-      "tv": 3802
+      "total": 45770,
+      "tv": 3944
     },
     "url": "https://lichess.org/@/REVENGERS-CHESS-TEAM",
-    "playing": "https://lichess.org/KEXt7gcg/black",
+    "playing": "https://lichess.org/KVDZaFk4/black",
     "count": {
-      "all": 213,
-      "rated": 53,
+      "all": 231,
+      "rated": 54,
       "ai": 16,
-      "draw": 14,
-      "drawH": 14,
-      "loss": 81,
-      "lossH": 74,
-      "win": 118,
-      "winH": 109,
+      "draw": 15,
+      "drawH": 15,
+      "loss": 87,
+      "lossH": 80,
+      "win": 129,
+      "winH": 120,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 1,
       "import": 1,
       "me": 0
     },
