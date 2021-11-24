@@ -4,7 +4,7 @@
   "username": "CrazyDog5892912",
   "profileUrl": "https://lichess.org/@/CrazyDog5892912",
   "provider": "lichess",
-  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":41,\"rating\":2679,\"rd\":82,\"prog\":60}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid! you can only put +5 increment or no increment! choose your own TIME CONTROL! i will accept any challenge and any VARIANT! I don't accept 15 sec time control. I play to slow but strong! so watch out every move! Casual or Rated, choose what do you want! Play on and no offers of draw! MY GAME AGAINST THE GREAT Boris-Trapsky https://lichess.org/study/vjWZywB3/vvA67QWZ\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637660699930,\"playTime\":{\"total\":30157,\"tv\":4055},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":65,\"rated\":49,\"ai\":13,\"draw\":1,\"drawH\":1,\"loss\":22,\"lossH\":9,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"crazydog5892912\",\"username\":\"CrazyDog5892912\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2110,\"rd\":258,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2305,\"rd\":208,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":42,\"rating\":2682,\"rd\":82,\"prog\":48}},\"title\":\"BOT\",\"createdAt\":1637506264960,\"online\":true,\"profile\":{\"country\":\"NZ\",\"bio\":\"Try me in Rapid! you can only put +5 increment or no increment! choose your own TIME CONTROL! i will accept any challenge and any VARIANT! I don't accept 15 sec time control. I play to slow but strong! so watch out every move! Casual or Rated, choose what do you want! Play on and no offers of draw! MY GAME AGAINST THE GREAT Boris-Trapsky https://lichess.org/study/vjWZywB3/vvA67QWZ\",\"firstName\":\"CrazyDog\",\"lastName\":\"5892912\",\"fideRating\":3000},\"seenAt\":1637732991411,\"playTime\":{\"total\":31788,\"tv\":4055},\"url\":\"https://lichess.org/@/CrazyDog5892912\",\"count\":{\"all\":69,\"rated\":53,\"ai\":13,\"draw\":1,\"drawH\":1,\"loss\":23,\"lossH\":10,\"win\":45,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "crazydog5892912",
     "username": "CrazyDog5892912",
@@ -31,17 +31,17 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 2305,
+        "rd": 208,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 41,
-        "rating": 2679,
+        "games": 42,
+        "rating": 2682,
         "rd": 82,
-        "prog": 60
+        "prog": 48
       }
     },
     "title": "BOT",
@@ -54,22 +54,22 @@
       "lastName": "5892912",
       "fideRating": 3000
     },
-    "seenAt": 1637660699930,
+    "seenAt": 1637732991411,
     "playTime": {
-      "total": 30157,
+      "total": 31788,
       "tv": 4055
     },
     "url": "https://lichess.org/@/CrazyDog5892912",
     "count": {
-      "all": 65,
-      "rated": 49,
+      "all": 69,
+      "rated": 53,
       "ai": 13,
       "draw": 1,
       "drawH": 1,
-      "loss": 22,
-      "lossH": 9,
-      "win": 42,
-      "winH": 42,
+      "loss": 23,
+      "lossH": 10,
+      "win": 45,
+      "winH": 45,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
