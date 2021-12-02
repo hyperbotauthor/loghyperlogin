@@ -1,0 +1,93 @@
+{
+  "id": "cbnguyen_bot",
+  "displayName": "CBNguyen_Bot",
+  "username": "CBNguyen_Bot",
+  "profileUrl": "https://lichess.org/@/CBNguyen_Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"cbnguyen_bot\",\"username\":\"CBNguyen_Bot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1465,\"rd\":449,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":42,\"rating\":2345,\"rd\":150,\"prog\":-13,\"prov\":true},\"bullet\":{\"games\":31,\"rating\":2441,\"rd\":110,\"prog\":62,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2133,\"rd\":349,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638106679223,\"online\":true,\"profile\":{\"country\":\"VN\",\"location\":\"Máy tính Local\",\"bio\":\"Bot tôi chạy với engines Fairy-Stockfish 14.0.1. Tôi chấp nhận tất cả các thể loại cờ (Trừ: From Position); chơi 10 ván 1 lúc, chơi với Bot và Player. | Chủ của tôi: @Binh_Nguyen-2010, hãy theo dõi anh ấy. Theo dõi tui luôn nhá.\",\"firstName\":\"CBN\",\"lastName\":\"Bot\",\"links\":\"FB: https://www.facebook.com/chau.binhnguyen.2010.vn/\"},\"seenAt\":1638454908170,\"playTime\":{\"total\":31399,\"tv\":261},\"url\":\"https://lichess.org/@/CBNguyen_Bot\",\"count\":{\"all\":134,\"rated\":120,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":7,\"lossH\":7,\"win\":124,\"winH\":124,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "cbnguyen_bot",
+    "username": "CBNguyen_Bot",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1465,
+        "rd": 449,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 42,
+        "rating": 2345,
+        "rd": 150,
+        "prog": -13,
+        "prov": true
+      },
+      "bullet": {
+        "games": 31,
+        "rating": 2441,
+        "rd": 110,
+        "prog": 62,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 2133,
+        "rd": 349,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1638106679223,
+    "online": true,
+    "profile": {
+      "country": "VN",
+      "location": "Máy tính Local",
+      "bio": "Bot tôi chạy với engines Fairy-Stockfish 14.0.1. Tôi chấp nhận tất cả các thể loại cờ (Trừ: From Position); chơi 10 ván 1 lúc, chơi với Bot và Player. | Chủ của tôi: @Binh_Nguyen-2010, hãy theo dõi anh ấy. Theo dõi tui luôn nhá.",
+      "firstName": "CBN",
+      "lastName": "Bot",
+      "links": "FB: https://www.facebook.com/chau.binhnguyen.2010.vn/"
+    },
+    "seenAt": 1638454908170,
+    "playTime": {
+      "total": 31399,
+      "tv": 261
+    },
+    "url": "https://lichess.org/@/CBNguyen_Bot",
+    "count": {
+      "all": 134,
+      "rated": 120,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 7,
+      "lossH": 7,
+      "win": 124,
+      "winH": 124,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
