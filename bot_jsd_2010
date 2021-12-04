@@ -1,0 +1,78 @@
+{
+  "id": "bot_jsd_2010",
+  "displayName": "BOT_JSD_2010",
+  "username": "BOT_JSD_2010",
+  "profileUrl": "https://lichess.org/@/BOT_JSD_2010",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bot_jsd_2010\",\"username\":\"BOT_JSD_2010\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":1896,\"rd\":174,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638598856310,\"online\":true,\"seenAt\":1638601076504,\"playTime\":{\"total\":358,\"tv\":0},\"url\":\"https://lichess.org/@/BOT_JSD_2010\",\"count\":{\"all\":10,\"rated\":10,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bot_jsd_2010",
+    "username": "BOT_JSD_2010",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 10,
+        "rating": 1896,
+        "rd": 174,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1638598856310,
+    "online": true,
+    "seenAt": 1638601076504,
+    "playTime": {
+      "total": 358,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/BOT_JSD_2010",
+    "count": {
+      "all": 10,
+      "rated": 10,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 4,
+      "lossH": 4,
+      "win": 5,
+      "winH": 5,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
