@@ -4,7 +4,7 @@
   "username": "JSD_201O",
   "profileUrl": "https://lichess.org/@/JSD_201O",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jsd_201o\",\"username\":\"JSD_201O\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1925,\"rd\":410,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638601239553,\"online\":true,\"seenAt\":1638602160617,\"playTime\":{\"total\":278,\"tv\":0},\"url\":\"https://lichess.org/@/JSD_201O\",\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jsd_201o\",\"username\":\"JSD_201O\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1914,\"rd\":398,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638601239553,\"online\":true,\"seenAt\":1638604855371,\"playTime\":{\"total\":418,\"tv\":0},\"url\":\"https://lichess.org/@/JSD_201O\",\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jsd_201o",
     "username": "JSD_201O",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 1925,
-        "rd": 410,
+        "games": 5,
+        "rating": 1914,
+        "rd": 398,
         "prog": 0,
         "prov": true
       },
@@ -48,20 +48,20 @@
     "title": "BOT",
     "createdAt": 1638601239553,
     "online": true,
-    "seenAt": 1638602160617,
+    "seenAt": 1638604855371,
     "playTime": {
-      "total": 278,
+      "total": 418,
       "tv": 0
     },
     "url": "https://lichess.org/@/JSD_201O",
     "count": {
-      "all": 4,
-      "rated": 4,
+      "all": 5,
+      "rated": 5,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
+      "loss": 5,
+      "lossH": 5,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
