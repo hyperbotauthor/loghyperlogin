@@ -1,0 +1,78 @@
+{
+  "id": "humanbot_1",
+  "displayName": "HumanBot_1",
+  "username": "HumanBot_1",
+  "profileUrl": "https://lichess.org/@/HumanBot_1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"humanbot_1\",\"username\":\"HumanBot_1\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2568,\"rd\":231,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638263121193,\"online\":true,\"seenAt\":1638624142317,\"playTime\":{\"total\":4119,\"tv\":0},\"url\":\"https://lichess.org/@/HumanBot_1\",\"count\":{\"all\":22,\"rated\":3,\"ai\":15,\"draw\":4,\"drawH\":1,\"loss\":6,\"lossH\":0,\"win\":12,\"winH\":6,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "humanbot_1",
+    "username": "HumanBot_1",
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 2568,
+        "rd": 231,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1638263121193,
+    "online": true,
+    "seenAt": 1638624142317,
+    "playTime": {
+      "total": 4119,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/HumanBot_1",
+    "count": {
+      "all": 22,
+      "rated": 3,
+      "ai": 15,
+      "draw": 4,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 0,
+      "win": 12,
+      "winH": 6,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
