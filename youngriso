@@ -4,11 +4,10 @@
   "username": "youngRiso",
   "profileUrl": "https://lichess.org/@/youngRiso",
   "provider": "lichess",
-  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1493,\"rd\":496,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1614365266091,\"seenAt\":1630327902428,\"playTime\":{\"total\":3485,\"tv\":0},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/youngRiso\",\"playing\":\"https://lichess.org/09ZBahVM/white\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":71,\"rated\":1,\"ai\":61,\"draw\":0,\"drawH\":0,\"loss\":24,\"lossH\":8,\"win\":47,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"youngriso\",\"username\":\"youngRiso\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1493,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1614365266091,\"online\":true,\"seenAt\":1638664733806,\"playTime\":{\"total\":3485,\"tv\":0},\"url\":\"https://lichess.org/@/youngRiso\",\"count\":{\"all\":82,\"rated\":1,\"ai\":72,\"draw\":0,\"drawH\":0,\"loss\":25,\"lossH\":8,\"win\":57,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "youngriso",
     "username": "youngRiso",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -20,7 +19,7 @@
       "bullet": {
         "games": 1,
         "rating": 1493,
-        "rd": 496,
+        "rd": 500,
         "prog": 0,
         "prov": true
       },
@@ -46,29 +45,27 @@
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1614365266091,
-    "seenAt": 1630327902428,
+    "online": true,
+    "seenAt": 1638664733806,
     "playTime": {
       "total": 3485,
       "tv": 0
     },
-    "title": "BOT",
     "url": "https://lichess.org/@/youngRiso",
-    "playing": "https://lichess.org/09ZBahVM/white",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
     "count": {
-      "all": 71,
+      "all": 82,
       "rated": 1,
-      "ai": 61,
+      "ai": 72,
       "draw": 0,
       "drawH": 0,
-      "loss": 24,
+      "loss": 25,
       "lossH": 8,
-      "win": 47,
+      "win": 57,
       "winH": 2,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
