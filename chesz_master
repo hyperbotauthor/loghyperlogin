@@ -1,0 +1,119 @@
+{
+  "id": "chesz_master",
+  "displayName": "Chesz_Master",
+  "username": "Chesz_Master",
+  "profileUrl": "https://lichess.org/@/Chesz_Master",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chesz_master\",\"username\":\"Chesz_Master\",\"perfs\":{\"antichess\":{\"games\":83,\"rating\":1369,\"rd\":46,\"prog\":-18},\"puzzle\":{\"games\":181,\"rating\":2050,\"rd\":111,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":41,\"rating\":1334,\"rd\":69,\"prog\":63},\"racingKings\":{\"games\":21,\"rating\":1509,\"rd\":97,\"prog\":60},\"blitz\":{\"games\":6,\"rating\":1746,\"rd\":236,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":4,\"rating\":1267,\"rd\":188,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":87,\"rating\":1628,\"rd\":53,\"prog\":15},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1429,\"rd\":136,\"prog\":-76,\"prov\":true}},\"createdAt\":1635997955905,\"online\":true,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1638690309745,\"playTime\":{\"total\":63116,\"tv\":5394},\"url\":\"https://lichess.org/@/Chesz_Master\",\"completionRate\":87,\"count\":{\"all\":281,\"rated\":256,\"ai\":1,\"draw\":10,\"drawH\":10,\"loss\":102,\"lossH\":101,\"win\":169,\"winH\":169,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chesz_master",
+    "username": "Chesz_Master",
+    "perfs": {
+      "antichess": {
+        "games": 83,
+        "rating": 1369,
+        "rd": 46,
+        "prog": -18
+      },
+      "puzzle": {
+        "games": 181,
+        "rating": 2050,
+        "rd": 111,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 41,
+        "rating": 1334,
+        "rd": 69,
+        "prog": 63
+      },
+      "racingKings": {
+        "games": 21,
+        "rating": 1509,
+        "rd": 97,
+        "prog": 60
+      },
+      "blitz": {
+        "games": 6,
+        "rating": 1746,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 4,
+        "rating": 1267,
+        "rd": 188,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 87,
+        "rating": 1628,
+        "rd": 53,
+        "prog": 15
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 14,
+        "rating": 1429,
+        "rd": 136,
+        "prog": -76,
+        "prov": true
+      }
+    },
+    "createdAt": 1635997955905,
+    "online": true,
+    "profile": {
+      "country": "_lichess"
+    },
+    "seenAt": 1638690309745,
+    "playTime": {
+      "total": 63116,
+      "tv": 5394
+    },
+    "url": "https://lichess.org/@/Chesz_Master",
+    "completionRate": 87,
+    "count": {
+      "all": 281,
+      "rated": 256,
+      "ai": 1,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 102,
+      "lossH": 101,
+      "win": 169,
+      "winH": 169,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
