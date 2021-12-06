@@ -4,36 +4,35 @@
   "username": "Variants_champ_bot",
   "profileUrl": "https://lichess.org/@/Variants_champ_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2385,\"rd\":272,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":2120,\"rd\":122,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2569,\"rd\":417,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1638704583089,\"playTime\":{\"total\":3198,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":22,\"rated\":16,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":5,\"lossH\":5,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":240,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2385,\"rd\":273,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":18,\"rating\":2184,\"rd\":96,\"prog\":52},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1638803155831,\"playTime\":{\"total\":5842,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":38,\"rated\":29,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":8,\"lossH\":8,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "variants_champ_bot",
     "username": "Variants_champ_bot",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 1750,
+        "rd": 240,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 3,
         "rating": 2385,
-        "rd": 272,
+        "rd": 273,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 10,
-        "rating": 2120,
-        "rd": 122,
-        "prog": 0,
-        "prov": true
+        "games": 18,
+        "rating": 2184,
+        "rd": 96,
+        "prog": 52
       },
       "bullet": {
-        "games": 2,
-        "rating": 2569,
-        "rd": 417,
+        "games": 3,
+        "rating": 2582,
+        "rd": 401,
         "prog": 0,
         "prov": true
       },
@@ -66,22 +65,22 @@
       "country": "_pirate",
       "bio": "Hello! @Variants_champ_bot here! Accepts all challenges!"
     },
-    "seenAt": 1638704583089,
+    "seenAt": 1638803155831,
     "playTime": {
-      "total": 3198,
+      "total": 5842,
       "tv": 0
     },
     "url": "https://lichess.org/@/Variants_champ_bot",
     "count": {
-      "all": 22,
-      "rated": 16,
+      "all": 38,
+      "rated": 29,
       "ai": 0,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 5,
-      "lossH": 5,
-      "win": 12,
-      "winH": 12,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 8,
+      "lossH": 8,
+      "win": 21,
+      "winH": 21,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
