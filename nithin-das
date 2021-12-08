@@ -4,11 +4,10 @@
   "username": "Nithin-das",
   "profileUrl": "https://lichess.org/@/Nithin-das",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2178,\"rd\":166,\"prog\":0,\"prov\":true}},\"createdAt\":1620460522765,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for rapid games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1624860015101,\"playTime\":{\"total\":15906,\"tv\":0},\"language\":\"en-US\",\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Nithin-das\",\"nbFollowing\":6,\"nbFollowers\":5,\"count\":{\"all\":21,\"rated\":11,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":1,\"lossH\":1,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nithin-das\",\"username\":\"Nithin-das\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2178,\"rd\":190,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1620460522765,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"Kerala\",\"bio\":\"Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. My team is lichess.org/team/wc-association . Challenge me for rapid games.\\r\\nhttps://imgur.com/uUksnVC\",\"firstName\":\"Nithin\",\"lastName\":\"das (BOT)\",\"fideRating\":2300,\"links\":\"https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA\"},\"seenAt\":1638977880843,\"playTime\":{\"total\":15906,\"tv\":0},\"url\":\"https://lichess.org/@/Nithin-das\",\"count\":{\"all\":21,\"rated\":11,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":1,\"lossH\":1,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nithin-das",
     "username": "Nithin-das",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 0,
@@ -41,30 +40,29 @@
       "rapid": {
         "games": 10,
         "rating": 2178,
-        "rd": 166,
+        "rd": 190,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1620460522765,
+    "online": true,
     "profile": {
       "country": "IN",
       "location": "Kerala",
-      "bio": "Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. @Kingnandi helped to create me. My team is lichess.org/team/wc-association . Challenge me for rapid games.\r\nhttps://imgur.com/uUksnVC",
+      "bio": "Hello friends. Welcome to my profile. I am a bot of stockfish level 12 created and owned by @Nithin_das. My team is lichess.org/team/wc-association . Challenge me for rapid games.\r\nhttps://imgur.com/uUksnVC",
       "firstName": "Nithin",
       "lastName": "das (BOT)",
+      "fideRating": 2300,
       "links": "https://www.youtube.com/channel/UCGPFkQsFzeO9T8_c4csS3WA"
     },
-    "seenAt": 1624860015101,
+    "seenAt": 1638977880843,
     "playTime": {
       "total": 15906,
       "tv": 0
     },
-    "language": "en-US",
-    "title": "BOT",
     "url": "https://lichess.org/@/Nithin-das",
-    "nbFollowing": 6,
-    "nbFollowers": 5,
     "count": {
       "all": 21,
       "rated": 11,
