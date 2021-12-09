@@ -4,48 +4,48 @@
   "username": "HyperKiller153",
   "profileUrl": "https://lichess.org/@/HyperKiller153",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperkiller153\",\"username\":\"HyperKiller153\",\"perfs\":{\"puzzle\":{\"games\":292,\"rating\":1314,\"rd\":78,\"prog\":0},\"racingKings\":{\"games\":1,\"rating\":1264,\"rd\":329,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":71,\"rating\":1389,\"rd\":64,\"prog\":50},\"threeCheck\":{\"games\":1,\"rating\":1345,\"rd\":334,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1436,\"rd\":414,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1316,\"rd\":322,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":11,\"score\":18},\"streak\":{\"runs\":2,\"score\":7}},\"createdAt\":1624553760998,\"online\":true,\"profile\":{\"country\":\"GB\",\"location\":\"Watford\",\"bio\":\"I like Magnus Carlson, my favourite openings are Hyper Accelerated dragon for black and Italian Game for white.\",\"firstName\":\"Ethan\",\"lastName\":\"G.\",\"fideRating\":1259,\"uscfRating\":1321,\"ecfRating\":1435,\"rcfRating\":1596,\"cfcRating\":1500,\"dsbRating\":1432,\"links\":\"https://chessable.com\\r\\nhttps://lichess.org\"},\"seenAt\":1636046102504,\"playTime\":{\"total\":16010,\"tv\":0},\"url\":\"https://lichess.org/@/HyperKiller153\",\"completionRate\":100,\"count\":{\"all\":114,\"rated\":75,\"ai\":36,\"draw\":4,\"drawH\":3,\"loss\":64,\"lossH\":45,\"win\":46,\"winH\":30,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperkiller153\",\"username\":\"HyperKiller153\",\"perfs\":{\"puzzle\":{\"games\":345,\"rating\":1281,\"rd\":100,\"prog\":0},\"racingKings\":{\"games\":1,\"rating\":1264,\"rd\":332,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":96,\"rating\":1432,\"rd\":64,\"prog\":33},\"threeCheck\":{\"games\":1,\"rating\":1345,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1436,\"rd\":416,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1316,\"rd\":325,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"storm\":{\"runs\":1,\"score\":8},\"racer\":{\"runs\":16,\"score\":19},\"streak\":{\"runs\":15,\"score\":7}},\"createdAt\":1624553760998,\"online\":true,\"profile\":{\"country\":\"GB\",\"location\":\"Watford\",\"bio\":\"I like Magnus Carlson, my favourite openings are Hyper Accelerated dragon for black and Italian Game for white.\",\"firstName\":\"Ethan\",\"lastName\":\"G.\",\"fideRating\":1259,\"uscfRating\":1321,\"ecfRating\":1435,\"rcfRating\":1596,\"cfcRating\":1500,\"dsbRating\":1432,\"links\":\"https://chessable.com\\r\\nhttps://lichess.org\"},\"seenAt\":1639065349860,\"playTime\":{\"total\":22323,\"tv\":0},\"url\":\"https://lichess.org/@/HyperKiller153\",\"completionRate\":100,\"count\":{\"all\":139,\"rated\":100,\"ai\":36,\"draw\":8,\"drawH\":7,\"loss\":73,\"lossH\":54,\"win\":58,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperkiller153",
     "username": "HyperKiller153",
     "perfs": {
       "puzzle": {
-        "games": 292,
-        "rating": 1314,
-        "rd": 78,
+        "games": 345,
+        "rating": 1281,
+        "rd": 100,
         "prog": 0
       },
       "racingKings": {
         "games": 1,
         "rating": 1264,
-        "rd": 329,
+        "rd": 332,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 71,
-        "rating": 1389,
+        "games": 96,
+        "rating": 1432,
         "rd": 64,
-        "prog": 50
+        "prog": 33
       },
       "threeCheck": {
         "games": 1,
         "rating": 1345,
-        "rd": 334,
+        "rd": 337,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1436,
-        "rd": 414,
+        "rd": 416,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 1,
         "rating": 1316,
-        "rd": 322,
+        "rd": 325,
         "prog": 0,
         "prov": true
       },
@@ -63,12 +63,16 @@
         "prog": 0,
         "prov": true
       },
+      "storm": {
+        "runs": 1,
+        "score": 8
+      },
       "racer": {
-        "runs": 11,
-        "score": 18
+        "runs": 16,
+        "score": 19
       },
       "streak": {
-        "runs": 2,
+        "runs": 15,
         "score": 7
       }
     },
@@ -88,23 +92,23 @@
       "dsbRating": 1432,
       "links": "https://chessable.com\r\nhttps://lichess.org"
     },
-    "seenAt": 1636046102504,
+    "seenAt": 1639065349860,
     "playTime": {
-      "total": 16010,
+      "total": 22323,
       "tv": 0
     },
     "url": "https://lichess.org/@/HyperKiller153",
     "completionRate": 100,
     "count": {
-      "all": 114,
-      "rated": 75,
+      "all": 139,
+      "rated": 100,
       "ai": 36,
-      "draw": 4,
-      "drawH": 3,
-      "loss": 64,
-      "lossH": 45,
-      "win": 46,
-      "winH": 30,
+      "draw": 8,
+      "drawH": 7,
+      "loss": 73,
+      "lossH": 54,
+      "win": 58,
+      "winH": 42,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
