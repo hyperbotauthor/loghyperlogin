@@ -4,11 +4,24 @@
   "username": "Variants_champ_bot",
   "profileUrl": "https://lichess.org/@/Variants_champ_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":240,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2385,\"rd\":273,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":18,\"rating\":2184,\"rd\":96,\"prog\":52},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1638803155831,\"playTime\":{\"total\":5842,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":38,\"rated\":29,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":8,\"lossH\":8,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":4,\"rating\":2447,\"rd\":232,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":20,\"rating\":2200,\"rd\":91,\"prog\":68},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":240,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1639126626828,\"playTime\":{\"total\":6855,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":43,\"rated\":33,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":9,\"lossH\":9,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "variants_champ_bot",
     "username": "Variants_champ_bot",
     "perfs": {
+      "antichess": {
+        "games": 4,
+        "rating": 2447,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 20,
+        "rating": 2200,
+        "rd": 91,
+        "prog": 68
+      },
       "blitz": {
         "games": 3,
         "rating": 1750,
@@ -16,18 +29,12 @@
         "prog": 0,
         "prov": true
       },
-      "antichess": {
-        "games": 3,
-        "rating": 2385,
-        "rd": 273,
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1445,
+        "rd": 452,
         "prog": 0,
         "prov": true
-      },
-      "racingKings": {
-        "games": 18,
-        "rating": 2184,
-        "rd": 96,
-        "prog": 52
       },
       "bullet": {
         "games": 3,
@@ -65,22 +72,22 @@
       "country": "_pirate",
       "bio": "Hello! @Variants_champ_bot here! Accepts all challenges!"
     },
-    "seenAt": 1638803155831,
+    "seenAt": 1639126626828,
     "playTime": {
-      "total": 5842,
+      "total": 6855,
       "tv": 0
     },
     "url": "https://lichess.org/@/Variants_champ_bot",
     "count": {
-      "all": 38,
-      "rated": 29,
+      "all": 43,
+      "rated": 33,
       "ai": 0,
-      "draw": 9,
-      "drawH": 9,
-      "loss": 8,
-      "lossH": 8,
-      "win": 21,
-      "winH": 21,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 9,
+      "lossH": 9,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
