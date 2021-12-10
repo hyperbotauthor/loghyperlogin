@@ -1,0 +1,80 @@
+{
+  "id": "heirsofchessbot",
+  "displayName": "HeirsOfChessBot",
+  "username": "HeirsOfChessBot",
+  "profileUrl": "https://lichess.org/@/HeirsOfChessBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"heirsofchessbot\",\"username\":\"HeirsOfChessBot\",\"perfs\":{\"blitz\":{\"games\":40,\"rating\":2377,\"rd\":74,\"prog\":21},\"bullet\":{\"games\":7,\"rating\":1999,\"rd\":141,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2136,\"rd\":389,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2345,\"rd\":382,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638946905486,\"online\":true,\"profile\":{\"bio\":\"https://imgur.com/WopPKX7\\r\\nAccepting Standard-Rated/Casual- Bullet, Blitz, Rapid, Classical, Correspondence games.\\r\\nChallenge for me and Try to Win. Owner- @HeirsOfChess Developing by- Herokuapp.com\\r\\nhttps://imgur.com/OYto4wR\"},\"seenAt\":1639120811507,\"playTime\":{\"total\":13679,\"tv\":546},\"url\":\"https://lichess.org/@/HeirsOfChessBot\",\"count\":{\"all\":51,\"rated\":51,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":10,\"lossH\":10,\"win\":34,\"winH\":34,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "heirsofchessbot",
+    "username": "HeirsOfChessBot",
+    "perfs": {
+      "blitz": {
+        "games": 40,
+        "rating": 2377,
+        "rd": 74,
+        "prog": 21
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 1999,
+        "rd": 141,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 2136,
+        "rd": 389,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2345,
+        "rd": 382,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1638946905486,
+    "online": true,
+    "profile": {
+      "bio": "https://imgur.com/WopPKX7\r\nAccepting Standard-Rated/Casual- Bullet, Blitz, Rapid, Classical, Correspondence games.\r\nChallenge for me and Try to Win. Owner- @HeirsOfChess Developing by- Herokuapp.com\r\nhttps://imgur.com/OYto4wR"
+    },
+    "seenAt": 1639120811507,
+    "playTime": {
+      "total": 13679,
+      "tv": 546
+    },
+    "url": "https://lichess.org/@/HeirsOfChessBot",
+    "count": {
+      "all": 51,
+      "rated": 51,
+      "ai": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 10,
+      "lossH": 10,
+      "win": 34,
+      "winH": 34,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
