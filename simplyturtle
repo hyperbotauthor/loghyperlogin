@@ -4,7 +4,7 @@
   "username": "SimplyTurtle",
   "profileUrl": "https://lichess.org/@/SimplyTurtle",
   "provider": "lichess",
-  "_raw": "{\"id\":\"simplyturtle\",\"username\":\"SimplyTurtle\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1632673951668,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"In side my beautiful shell\",\"bio\":\"Undergoing more than a 2 week maintinance.\",\"firstName\":\"Simply (Piano)\",\"lastName\":\"Turtle\",\"fideRating\":2000},\"seenAt\":1639109035732,\"playTime\":{\"total\":2758,\"tv\":0},\"url\":\"https://lichess.org/@/SimplyTurtle\",\"count\":{\"all\":15,\"rated\":0,\"ai\":10,\"draw\":1,\"drawH\":1,\"loss\":7,\"lossH\":3,\"win\":7,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"simplyturtle\",\"username\":\"SimplyTurtle\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1632673951668,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"In side my beautiful shell\",\"bio\":\"This is an average BOT that uses a very weak engine. I like to eat veggies.\",\"firstName\":\"Simply (Piano)\",\"lastName\":\"Turtle\",\"fideRating\":600},\"seenAt\":1639195178592,\"playTime\":{\"total\":3070,\"tv\":0},\"url\":\"https://lichess.org/@/SimplyTurtle\",\"count\":{\"all\":17,\"rated\":0,\"ai\":11,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":4,\"win\":8,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "simplyturtle",
     "username": "SimplyTurtle",
@@ -51,26 +51,26 @@
     "profile": {
       "country": "_lichess",
       "location": "In side my beautiful shell",
-      "bio": "Undergoing more than a 2 week maintinance.",
+      "bio": "This is an average BOT that uses a very weak engine. I like to eat veggies.",
       "firstName": "Simply (Piano)",
       "lastName": "Turtle",
-      "fideRating": 2000
+      "fideRating": 600
     },
-    "seenAt": 1639109035732,
+    "seenAt": 1639195178592,
     "playTime": {
-      "total": 2758,
+      "total": 3070,
       "tv": 0
     },
     "url": "https://lichess.org/@/SimplyTurtle",
     "count": {
-      "all": 15,
+      "all": 17,
       "rated": 0,
-      "ai": 10,
+      "ai": 11,
       "draw": 1,
       "drawH": 1,
-      "loss": 7,
-      "lossH": 3,
-      "win": 7,
+      "loss": 8,
+      "lossH": 4,
+      "win": 8,
       "winH": 1,
       "bookmark": 0,
       "playing": 0,
