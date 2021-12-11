@@ -4,15 +4,15 @@
   "username": "Variants_champ_bot",
   "profileUrl": "https://lichess.org/@/Variants_champ_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":4,\"rating\":2447,\"rd\":232,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":22,\"rating\":2218,\"rd\":88,\"prog\":86},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":240,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1639210787826,\"playTime\":{\"total\":7369,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":45,\"rated\":35,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":9,\"lossH\":9,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":5,\"rating\":2493,\"rd\":206,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":22,\"rating\":2218,\"rd\":88,\"prog\":86},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":240,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\"},\"seenAt\":1639212107530,\"playTime\":{\"total\":7716,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":50,\"rated\":36,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":10,\"lossH\":10,\"win\":30,\"winH\":30,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "variants_champ_bot",
     "username": "Variants_champ_bot",
     "perfs": {
       "antichess": {
-        "games": 4,
-        "rating": 2447,
-        "rd": 232,
+        "games": 5,
+        "rating": 2493,
+        "rd": 206,
         "prog": 0,
         "prov": true
       },
@@ -72,22 +72,22 @@
       "country": "_pirate",
       "bio": "Hello! @Variants_champ_bot here! Accepts all challenges!"
     },
-    "seenAt": 1639210787826,
+    "seenAt": 1639212107530,
     "playTime": {
-      "total": 7369,
+      "total": 7716,
       "tv": 0
     },
     "url": "https://lichess.org/@/Variants_champ_bot",
     "count": {
-      "all": 45,
-      "rated": 35,
+      "all": 50,
+      "rated": 36,
       "ai": 0,
       "draw": 10,
       "drawH": 10,
-      "loss": 9,
-      "lossH": 9,
-      "win": 26,
-      "winH": 26,
+      "loss": 10,
+      "lossH": 10,
+      "win": 30,
+      "winH": 30,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
