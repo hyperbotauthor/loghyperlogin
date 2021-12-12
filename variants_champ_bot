@@ -4,7 +4,7 @@
   "username": "Variants_champ_bot",
   "profileUrl": "https://lichess.org/@/Variants_champ_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":5,\"rating\":2493,\"rd\":206,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":26,\"rating\":2239,\"rd\":84,\"prog\":24},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":241,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2582,\"rd\":401,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":425,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\\r\\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif\"},\"seenAt\":1639272192024,\"playTime\":{\"total\":8046,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"playing\":\"https://lichess.org/Xd8k56w5/black\",\"count\":{\"all\":54,\"rated\":40,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":10,\"lossH\":10,\"win\":34,\"winH\":34,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":5,\"rating\":2493,\"rd\":206,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":27,\"rating\":2244,\"rd\":83,\"prog\":50},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":241,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2600,\"rd\":382,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":425,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges!\\r\\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif\"},\"seenAt\":1639290783916,\"playTime\":{\"total\":8348,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"playing\":\"https://lichess.org/Z4P4qzON/black\",\"count\":{\"all\":56,\"rated\":42,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":10,\"lossH\":10,\"win\":36,\"winH\":36,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "variants_champ_bot",
     "username": "Variants_champ_bot",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "racingKings": {
-        "games": 26,
-        "rating": 2239,
-        "rd": 84,
-        "prog": 24
+        "games": 27,
+        "rating": 2244,
+        "rd": 83,
+        "prog": 50
       },
       "blitz": {
         "games": 3,
@@ -37,9 +37,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 2582,
-        "rd": 401,
+        "games": 4,
+        "rating": 2600,
+        "rd": 382,
         "prog": 0,
         "prov": true
       },
@@ -72,23 +72,23 @@
       "country": "_pirate",
       "bio": "Hello! @Variants_champ_bot here! Accepts all challenges!\r\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif"
     },
-    "seenAt": 1639272192024,
+    "seenAt": 1639290783916,
     "playTime": {
-      "total": 8046,
+      "total": 8348,
       "tv": 0
     },
     "url": "https://lichess.org/@/Variants_champ_bot",
-    "playing": "https://lichess.org/Xd8k56w5/black",
+    "playing": "https://lichess.org/Z4P4qzON/black",
     "count": {
-      "all": 54,
-      "rated": 40,
+      "all": 56,
+      "rated": 42,
       "ai": 0,
       "draw": 10,
       "drawH": 10,
       "loss": 10,
       "lossH": 10,
-      "win": 34,
-      "winH": 34,
+      "win": 36,
+      "winH": 36,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
