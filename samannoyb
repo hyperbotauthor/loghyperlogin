@@ -1,0 +1,156 @@
+{
+  "id": "samannoyb",
+  "displayName": "SamannOyB",
+  "username": "SamannOyB",
+  "profileUrl": "https://lichess.org/@/SamannOyB",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"samannoyb\",\"username\":\"SamannOyB\",\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1102,\"rd\":161,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":108,\"rating\":1239,\"rd\":80,\"prog\":40},\"atomic\":{\"games\":243,\"rating\":1136,\"rd\":84,\"prog\":-55},\"racingKings\":{\"games\":68,\"rating\":1287,\"rd\":86,\"prog\":-45},\"ultraBullet\":{\"games\":5865,\"rating\":1647,\"rd\":45,\"prog\":-17},\"blitz\":{\"games\":1793,\"rating\":1683,\"rd\":51,\"prog\":-19},\"kingOfTheHill\":{\"games\":7,\"rating\":1259,\"rd\":164,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":10,\"rating\":1070,\"rd\":177,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":125,\"rating\":1316,\"rd\":83,\"prog\":-82},\"bullet\":{\"games\":4388,\"rating\":1915,\"rd\":45,\"prog\":-33},\"correspondence\":{\"games\":9,\"rating\":1523,\"rd\":188,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1221,\"rd\":348,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":785,\"rating\":1821,\"rd\":72,\"prog\":0},\"classical\":{\"games\":3,\"rating\":1573,\"rd\":237,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":70,\"rating\":1497,\"rd\":71,\"prog\":45},\"storm\":{\"runs\":76,\"score\":36},\"racer\":{\"runs\":20,\"score\":42},\"streak\":{\"runs\":22,\"score\":33}},\"createdAt\":1587102035196,\"online\":true,\"profile\":{\"country\":\"CA\",\"bio\":\"\\\"I have different names for my pieces. David for King, Eliza for Queen, Bruno for Rook, Chris for Bishop, and Charles for Knight. Oh, and all my pawns are named Andy\\\" -- SB from https://lichess.org/team/hello-coding-fans\",\"links\":\"Github.com\\r\\nHeroku.com\\r\\nwww.chess.com/member/SB_MASTER\\r\\nhttps://youtube.com/channel/UCh_Wic_ukfne7xIiIGwNEJg\"},\"seenAt\":1639471032096,\"playTime\":{\"total\":1246287,\"tv\":7218},\"url\":\"https://lichess.org/@/SamannOyB\",\"completionRate\":90,\"count\":{\"all\":14300,\"rated\":12765,\"ai\":306,\"draw\":502,\"drawH\":444,\"loss\":6705,\"lossH\":6503,\"win\":7093,\"winH\":7047,\"bookmark\":6,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "samannoyb",
+    "username": "SamannOyB",
+    "perfs": {
+      "chess960": {
+        "games": 8,
+        "rating": 1102,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 108,
+        "rating": 1239,
+        "rd": 80,
+        "prog": 40
+      },
+      "atomic": {
+        "games": 243,
+        "rating": 1136,
+        "rd": 84,
+        "prog": -55
+      },
+      "racingKings": {
+        "games": 68,
+        "rating": 1287,
+        "rd": 86,
+        "prog": -45
+      },
+      "ultraBullet": {
+        "games": 5865,
+        "rating": 1647,
+        "rd": 45,
+        "prog": -17
+      },
+      "blitz": {
+        "games": 1793,
+        "rating": 1683,
+        "rd": 51,
+        "prog": -19
+      },
+      "kingOfTheHill": {
+        "games": 7,
+        "rating": 1259,
+        "rd": 164,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 10,
+        "rating": 1070,
+        "rd": 177,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 125,
+        "rating": 1316,
+        "rd": 83,
+        "prog": -82
+      },
+      "bullet": {
+        "games": 4388,
+        "rating": 1915,
+        "rd": 45,
+        "prog": -33
+      },
+      "correspondence": {
+        "games": 9,
+        "rating": 1523,
+        "rd": 188,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1221,
+        "rd": 348,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 785,
+        "rating": 1821,
+        "rd": 72,
+        "prog": 0
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1573,
+        "rd": 237,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 70,
+        "rating": 1497,
+        "rd": 71,
+        "prog": 45
+      },
+      "storm": {
+        "runs": 76,
+        "score": 36
+      },
+      "racer": {
+        "runs": 20,
+        "score": 42
+      },
+      "streak": {
+        "runs": 22,
+        "score": 33
+      }
+    },
+    "createdAt": 1587102035196,
+    "online": true,
+    "profile": {
+      "country": "CA",
+      "bio": "\"I have different names for my pieces. David for King, Eliza for Queen, Bruno for Rook, Chris for Bishop, and Charles for Knight. Oh, and all my pawns are named Andy\" -- SB from https://lichess.org/team/hello-coding-fans",
+      "links": "Github.com\r\nHeroku.com\r\nwww.chess.com/member/SB_MASTER\r\nhttps://youtube.com/channel/UCh_Wic_ukfne7xIiIGwNEJg"
+    },
+    "seenAt": 1639471032096,
+    "playTime": {
+      "total": 1246287,
+      "tv": 7218
+    },
+    "url": "https://lichess.org/@/SamannOyB",
+    "completionRate": 90,
+    "count": {
+      "all": 14300,
+      "rated": 12765,
+      "ai": 306,
+      "draw": 502,
+      "drawH": 444,
+      "loss": 6705,
+      "lossH": 6503,
+      "win": 7093,
+      "winH": 7047,
+      "bookmark": 6,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
