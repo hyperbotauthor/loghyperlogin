@@ -4,7 +4,7 @@
   "username": "EmoRobot",
   "profileUrl": "https://lichess.org/@/EmoRobot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"emorobot\",\"username\":\"EmoRobot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639405419841,\"online\":true,\"profile\":{\"bio\":\"Emo Robot!\"},\"seenAt\":1639406064865,\"playTime\":{\"total\":64,\"tv\":0},\"url\":\"https://lichess.org/@/EmoRobot\",\"count\":{\"all\":3,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"emorobot\",\"username\":\"EmoRobot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2262,\"rd\":244,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639405419841,\"online\":true,\"profile\":{\"bio\":\"Hello, I am @EmoRobot created by @SamannOyB using https://hypereasy.herokuapp.com ..log in here -- https://hypereasy.herokuapp.com/?lichessbotlogin=ok    accept only rapid and classical     low strength   high strength towards 2000! Beware!  Challenge me to casual\"},\"seenAt\":1639572073890,\"playTime\":{\"total\":473,\"tv\":0},\"url\":\"https://lichess.org/@/EmoRobot\",\"count\":{\"all\":8,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "emorobot",
     "username": "EmoRobot",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2262,
+        "rd": 244,
         "prog": 0,
         "prov": true
       },
@@ -49,24 +49,24 @@
     "createdAt": 1639405419841,
     "online": true,
     "profile": {
-      "bio": "Emo Robot!"
+      "bio": "Hello, I am @EmoRobot created by @SamannOyB using https://hypereasy.herokuapp.com ..log in here -- https://hypereasy.herokuapp.com/?lichessbotlogin=ok    accept only rapid and classical     low strength   high strength towards 2000! Beware!  Challenge me to casual"
     },
-    "seenAt": 1639406064865,
+    "seenAt": 1639572073890,
     "playTime": {
-      "total": 64,
+      "total": 473,
       "tv": 0
     },
     "url": "https://lichess.org/@/EmoRobot",
     "count": {
-      "all": 3,
-      "rated": 0,
+      "all": 8,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 3,
-      "winH": 3,
+      "loss": 2,
+      "lossH": 2,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
