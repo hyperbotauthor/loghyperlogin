@@ -4,7 +4,7 @@
   "username": "drag0ndeagua",
   "profileUrl": "https://lichess.org/@/drag0ndeagua",
   "provider": "lichess",
-  "_raw": "{\"id\":\"drag0ndeagua\",\"username\":\"drag0ndeagua\",\"perfs\":{\"chess960\":{\"games\":24,\"rating\":1280,\"rd\":111,\"prog\":-106,\"prov\":true},\"antichess\":{\"games\":114,\"rating\":1210,\"rd\":63,\"prog\":17},\"atomic\":{\"games\":164,\"rating\":1226,\"rd\":57,\"prog\":31},\"racingKings\":{\"games\":32,\"rating\":1430,\"rd\":94,\"prog\":38},\"ultraBullet\":{\"games\":161,\"rating\":1299,\"rd\":59,\"prog\":-33},\"blitz\":{\"games\":753,\"rating\":1442,\"rd\":47,\"prog\":-4},\"kingOfTheHill\":{\"games\":35,\"rating\":1382,\"rd\":94,\"prog\":6},\"crazyhouse\":{\"games\":30,\"rating\":1395,\"rd\":98,\"prog\":1},\"threeCheck\":{\"games\":70,\"rating\":1404,\"rd\":74,\"prog\":64},\"bullet\":{\"games\":636,\"rating\":1598,\"rd\":45,\"prog\":14},\"correspondence\":{\"games\":13,\"rating\":1404,\"rd\":147,\"prog\":-52,\"prov\":true},\"horde\":{\"games\":29,\"rating\":1309,\"rd\":106,\"prog\":168},\"puzzle\":{\"games\":1529,\"rating\":2030,\"rd\":92,\"prog\":0},\"classical\":{\"games\":34,\"rating\":1539,\"rd\":103,\"prog\":35},\"rapid\":{\"games\":252,\"rating\":1541,\"rd\":52,\"prog\":26},\"storm\":{\"runs\":32,\"score\":24},\"racer\":{\"runs\":11,\"score\":31},\"streak\":{\"runs\":52,\"score\":23}},\"createdAt\":1623073160520,\"online\":true,\"profile\":{\"country\":\"ES\",\"location\":\"Granada\",\"bio\":\"My goal was 1100 bullet, 1200 blitz and 1300 rapid.\",\"links\":\"https://chess24.com/en/profile/drag0ndeagua\"},\"seenAt\":1639665213039,\"playTime\":{\"total\":510620,\"tv\":268},\"url\":\"https://lichess.org/@/drag0ndeagua\",\"playing\":\"https://lichess.org/ita49ax9/white\",\"completionRate\":90,\"count\":{\"all\":3064,\"rated\":2376,\"ai\":241,\"draw\":195,\"drawH\":193,\"loss\":1271,\"lossH\":1219,\"win\":1598,\"winH\":1411,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"drag0ndeagua\",\"username\":\"drag0ndeagua\",\"perfs\":{\"chess960\":{\"games\":24,\"rating\":1280,\"rd\":111,\"prog\":-106,\"prov\":true},\"antichess\":{\"games\":114,\"rating\":1210,\"rd\":63,\"prog\":17},\"atomic\":{\"games\":164,\"rating\":1226,\"rd\":57,\"prog\":31},\"racingKings\":{\"games\":32,\"rating\":1430,\"rd\":94,\"prog\":38},\"ultraBullet\":{\"games\":161,\"rating\":1299,\"rd\":59,\"prog\":-33},\"blitz\":{\"games\":753,\"rating\":1442,\"rd\":47,\"prog\":-4},\"kingOfTheHill\":{\"games\":35,\"rating\":1382,\"rd\":94,\"prog\":6},\"crazyhouse\":{\"games\":30,\"rating\":1395,\"rd\":98,\"prog\":1},\"threeCheck\":{\"games\":70,\"rating\":1404,\"rd\":74,\"prog\":64},\"bullet\":{\"games\":640,\"rating\":1613,\"rd\":45,\"prog\":23},\"correspondence\":{\"games\":13,\"rating\":1404,\"rd\":147,\"prog\":-52,\"prov\":true},\"horde\":{\"games\":29,\"rating\":1309,\"rd\":106,\"prog\":168},\"puzzle\":{\"games\":1529,\"rating\":2030,\"rd\":92,\"prog\":0},\"classical\":{\"games\":34,\"rating\":1539,\"rd\":103,\"prog\":35},\"rapid\":{\"games\":252,\"rating\":1541,\"rd\":52,\"prog\":26},\"storm\":{\"runs\":32,\"score\":24},\"racer\":{\"runs\":11,\"score\":31},\"streak\":{\"runs\":52,\"score\":23}},\"createdAt\":1623073160520,\"online\":true,\"profile\":{\"country\":\"ES\",\"location\":\"Granada\",\"bio\":\"My goal was 1100 bullet, 1200 blitz and 1300 rapid.\",\"links\":\"https://chess24.com/en/profile/drag0ndeagua\"},\"seenAt\":1639667015393,\"playTime\":{\"total\":510927,\"tv\":268},\"url\":\"https://lichess.org/@/drag0ndeagua\",\"playing\":\"https://lichess.org/ita49ax9/white\",\"completionRate\":90,\"count\":{\"all\":3068,\"rated\":2380,\"ai\":241,\"draw\":195,\"drawH\":193,\"loss\":1273,\"lossH\":1221,\"win\":1600,\"winH\":1413,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "drag0ndeagua",
     "username": "drag0ndeagua",
@@ -65,10 +65,10 @@
         "prog": 64
       },
       "bullet": {
-        "games": 636,
-        "rating": 1598,
+        "games": 640,
+        "rating": 1613,
         "rd": 45,
-        "prog": 14
+        "prog": 23
       },
       "correspondence": {
         "games": 13,
@@ -122,24 +122,24 @@
       "bio": "My goal was 1100 bullet, 1200 blitz and 1300 rapid.",
       "links": "https://chess24.com/en/profile/drag0ndeagua"
     },
-    "seenAt": 1639665213039,
+    "seenAt": 1639667015393,
     "playTime": {
-      "total": 510620,
+      "total": 510927,
       "tv": 268
     },
     "url": "https://lichess.org/@/drag0ndeagua",
     "playing": "https://lichess.org/ita49ax9/white",
     "completionRate": 90,
     "count": {
-      "all": 3064,
-      "rated": 2376,
+      "all": 3068,
+      "rated": 2380,
       "ai": 241,
       "draw": 195,
       "drawH": 193,
-      "loss": 1271,
-      "lossH": 1219,
-      "win": 1598,
-      "winH": 1411,
+      "loss": 1273,
+      "lossH": 1221,
+      "win": 1600,
+      "winH": 1413,
       "bookmark": 3,
       "playing": 1,
       "import": 0,
