@@ -4,7 +4,7 @@
   "username": "Variants_champ_bot",
   "profileUrl": "https://lichess.org/@/Variants_champ_bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":5,\"rating\":2493,\"rd\":207,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":30,\"rating\":2280,\"rd\":79,\"prog\":100},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":241,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2103,\"rd\":108,\"prog\":55},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":425,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges! Minimum time control 1+0 time controls below 1+0 will not be accepted\\r\\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif\"},\"seenAt\":1639648811792,\"playTime\":{\"total\":10458,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":76,\"rated\":58,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":16,\"lossH\":16,\"win\":50,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"variants_champ_bot\",\"username\":\"Variants_champ_bot\",\"perfs\":{\"antichess\":{\"games\":5,\"rating\":2493,\"rd\":207,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":30,\"rating\":2280,\"rd\":79,\"prog\":100},\"blitz\":{\"games\":3,\"rating\":1750,\"rd\":241,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1445,\"rd\":452,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2103,\"rd\":109,\"prog\":55},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1948,\"rd\":425,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638687030783,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hello! @Variants_champ_bot here! Accepts all challenges! Minimum time control 1+0 time controls below 1+0 will not be accepted\\r\\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif\"},\"seenAt\":1639728392589,\"playTime\":{\"total\":10458,\"tv\":0},\"url\":\"https://lichess.org/@/Variants_champ_bot\",\"count\":{\"all\":76,\"rated\":58,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":16,\"lossH\":16,\"win\":50,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "variants_champ_bot",
     "username": "Variants_champ_bot",
@@ -39,7 +39,7 @@
       "bullet": {
         "games": 17,
         "rating": 2103,
-        "rd": 108,
+        "rd": 109,
         "prog": 55
       },
       "correspondence": {
@@ -71,7 +71,7 @@
       "country": "_pirate",
       "bio": "Hello! @Variants_champ_bot here! Accepts all challenges! Minimum time control 1+0 time controls below 1+0 will not be accepted\r\nhttps://media.giphy.com/media/VH1CMVvHHIr9Mrp4Q3/giphy.gif"
     },
-    "seenAt": 1639648811792,
+    "seenAt": 1639728392589,
     "playTime": {
       "total": 10458,
       "tv": 0
