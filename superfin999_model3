@@ -4,7 +4,7 @@
   "username": "SuperFin999_Model3",
   "profileUrl": "https://lichess.org/@/SuperFin999_Model3",
   "provider": "lichess",
-  "_raw": "{\"id\":\"superfin999_model3\",\"username\":\"SuperFin999_Model3\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":1929,\"rd\":149,\"prog\":-108,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1017,\"rd\":409,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1739,\"rd\":298,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1621604741677,\"online\":true,\"profile\":{\"country\":\"GB\",\"location\":\"The Internet\",\"bio\":\"I am a bullet bot coded by @SuperFin999 who will smash you in a 1+0 time control but accepts Blitz and Rapid too. As white I like to play the English and Queen's Pawn but as black the Sicilian, French, Caro-Kann and Scandinavian.\",\"firstName\":\"Finley\",\"lastName\":\"Poole\"},\"seenAt\":1640087777318,\"playTime\":{\"total\":5700,\"tv\":0},\"url\":\"https://lichess.org/@/SuperFin999_Model3\",\"count\":{\"all\":91,\"rated\":36,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":26,\"lossH\":25,\"win\":64,\"winH\":62,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"superfin999_model3\",\"username\":\"SuperFin999_Model3\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":1929,\"rd\":149,\"prog\":-108,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1017,\"rd\":409,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":1373,\"rd\":266,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1621604741677,\"online\":true,\"profile\":{\"country\":\"GB\",\"location\":\"The Internet\",\"bio\":\"I am a bullet bot coded by @SuperFin999 who will smash you in a 1+0 time control but accepts Blitz and Rapid too. As white I like to play the English and Queen's Pawn but as black the Sicilian, French, Caro-Kann and Scandinavian.\",\"firstName\":\"Finley\",\"lastName\":\"Poole\"},\"seenAt\":1640170614364,\"playTime\":{\"total\":7022,\"tv\":0},\"url\":\"https://lichess.org/@/SuperFin999_Model3\",\"count\":{\"all\":94,\"rated\":37,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":28,\"lossH\":26,\"win\":65,\"winH\":63,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "superfin999_model3",
     "username": "SuperFin999_Model3",
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 7,
-        "rating": 1739,
-        "rd": 298,
+        "games": 8,
+        "rating": 1373,
+        "rd": 266,
         "prog": 0,
         "prov": true
       }
@@ -55,22 +55,22 @@
       "firstName": "Finley",
       "lastName": "Poole"
     },
-    "seenAt": 1640087777318,
+    "seenAt": 1640170614364,
     "playTime": {
-      "total": 5700,
+      "total": 7022,
       "tv": 0
     },
     "url": "https://lichess.org/@/SuperFin999_Model3",
     "count": {
-      "all": 91,
-      "rated": 36,
-      "ai": 3,
+      "all": 94,
+      "rated": 37,
+      "ai": 4,
       "draw": 1,
       "drawH": 1,
-      "loss": 26,
-      "lossH": 25,
-      "win": 64,
-      "winH": 62,
+      "loss": 28,
+      "lossH": 26,
+      "win": 65,
+      "winH": 63,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
