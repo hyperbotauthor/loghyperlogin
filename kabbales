@@ -4,35 +4,70 @@
   "username": "Kabbales",
   "profileUrl": "https://lichess.org/@/Kabbales",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kabbales\",\"username\":\"Kabbales\",\"perfs\":{\"blitz\":{\"games\":23,\"rating\":1155,\"rd\":88,\"prog\":28},\"puzzle\":{\"games\":21,\"rating\":3004,\"rd\":97,\"prog\":0},\"ultraBullet\":{\"games\":2,\"rating\":1136,\"rd\":223,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":68,\"rating\":1206,\"rd\":53,\"prog\":-28},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2222,\"rd\":269,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1502,\"rd\":148,\"prog\":0,\"prov\":true}},\"createdAt\":1639536056500,\"online\":true,\"seenAt\":1639820408471,\"playTime\":{\"total\":33293,\"tv\":0},\"url\":\"https://lichess.org/@/Kabbales\",\"completionRate\":93,\"count\":{\"all\":135,\"rated\":102,\"ai\":0,\"draw\":14,\"drawH\":14,\"loss\":79,\"lossH\":79,\"win\":42,\"winH\":42,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kabbales\",\"username\":\"Kabbales\",\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1746,\"rd\":396,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":21,\"rating\":3004,\"rd\":98,\"prog\":0},\"racingKings\":{\"games\":8,\"rating\":1312,\"rd\":156,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":6,\"rating\":861,\"rd\":143,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":33,\"rating\":1226,\"rd\":78,\"prog\":71},\"kingOfTheHill\":{\"games\":5,\"rating\":1611,\"rd\":203,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":4,\"rating\":1769,\"rd\":237,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1440,\"rd\":153,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":86,\"rating\":1226,\"rd\":50,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1921,\"rd\":166,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1350,\"rd\":126,\"prog\":0,\"prov\":true}},\"createdAt\":1639536056500,\"online\":true,\"seenAt\":1640231439228,\"playTime\":{\"total\":57343,\"tv\":299},\"url\":\"https://lichess.org/@/Kabbales\",\"playing\":\"https://lichess.org/9em1PQfT/black\",\"completionRate\":90,\"count\":{\"all\":247,\"rated\":170,\"ai\":0,\"draw\":19,\"drawH\":19,\"loss\":135,\"lossH\":135,\"win\":93,\"winH\":93,\"bookmark\":3,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kabbales",
     "username": "Kabbales",
     "perfs": {
-      "blitz": {
-        "games": 23,
-        "rating": 1155,
-        "rd": 88,
-        "prog": 28
+      "antichess": {
+        "games": 1,
+        "rating": 1746,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
       },
       "puzzle": {
         "games": 21,
         "rating": 3004,
-        "rd": 97,
+        "rd": 98,
         "prog": 0
       },
+      "racingKings": {
+        "games": 8,
+        "rating": 1312,
+        "rd": 156,
+        "prog": 0,
+        "prov": true
+      },
       "ultraBullet": {
-        "games": 2,
-        "rating": 1136,
-        "rd": 223,
+        "games": 6,
+        "rating": 861,
+        "rd": 143,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 33,
+        "rating": 1226,
+        "rd": 78,
+        "prog": 71
+      },
+      "kingOfTheHill": {
+        "games": 5,
+        "rating": 1611,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 4,
+        "rating": 1769,
+        "rd": 237,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 10,
+        "rating": 1440,
+        "rd": 153,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 68,
-        "rating": 1206,
-        "rd": 53,
-        "prog": -28
+        "games": 86,
+        "rating": 1226,
+        "rd": 50,
+        "prog": 0
       },
       "correspondence": {
         "games": 0,
@@ -42,41 +77,42 @@
         "prov": true
       },
       "classical": {
-        "games": 3,
-        "rating": 2222,
-        "rd": 269,
+        "games": 6,
+        "rating": 1921,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 1502,
-        "rd": 148,
+        "games": 10,
+        "rating": 1350,
+        "rd": 126,
         "prog": 0,
         "prov": true
       }
     },
     "createdAt": 1639536056500,
     "online": true,
-    "seenAt": 1639820408471,
+    "seenAt": 1640231439228,
     "playTime": {
-      "total": 33293,
-      "tv": 0
+      "total": 57343,
+      "tv": 299
     },
     "url": "https://lichess.org/@/Kabbales",
-    "completionRate": 93,
+    "playing": "https://lichess.org/9em1PQfT/black",
+    "completionRate": 90,
     "count": {
-      "all": 135,
-      "rated": 102,
+      "all": 247,
+      "rated": 170,
       "ai": 0,
-      "draw": 14,
-      "drawH": 14,
-      "loss": 79,
-      "lossH": 79,
-      "win": 42,
-      "winH": 42,
+      "draw": 19,
+      "drawH": 19,
+      "loss": 135,
+      "lossH": 135,
+      "win": 93,
+      "winH": 93,
       "bookmark": 3,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
