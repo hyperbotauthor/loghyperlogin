@@ -1,0 +1,80 @@
+{
+  "id": "utsa-super-bot",
+  "displayName": "Utsa-Super-Bot",
+  "username": "Utsa-Super-Bot",
+  "profileUrl": "https://lichess.org/@/Utsa-Super-Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"utsa-super-bot\",\"username\":\"Utsa-Super-Bot\",\"perfs\":{\"blitz\":{\"games\":25,\"rating\":1815,\"rd\":95,\"prog\":-236},\"bullet\":{\"games\":48,\"rating\":2025,\"rd\":63,\"prog\":3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2119,\"rd\":347,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2368,\"rd\":153,\"prog\":-19,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639973128837,\"online\":false,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/nOG2nXO\\r\\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\\r\\nHello I am @Utsa-Bot\\r\\nAnd my master is @Utsa2009\\r\\nU can Challenge me standard except  UB\\r\\nAnd variant\\r\\nJoin my Team fantasy reborn \\r\\nhttps://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640243215622,\"playTime\":{\"total\":31791,\"tv\":668},\"url\":\"https://lichess.org/@/Utsa-Super-Bot\",\"count\":{\"all\":220,\"rated\":107,\"ai\":23,\"draw\":20,\"drawH\":20,\"loss\":72,\"lossH\":60,\"win\":128,\"winH\":117,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "utsa-super-bot",
+    "username": "Utsa-Super-Bot",
+    "perfs": {
+      "blitz": {
+        "games": 25,
+        "rating": 1815,
+        "rd": 95,
+        "prog": -236
+      },
+      "bullet": {
+        "games": 48,
+        "rating": 2025,
+        "rd": 63,
+        "prog": 3
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 2119,
+        "rd": 347,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 2368,
+        "rd": 153,
+        "prog": -19,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1639973128837,
+    "online": false,
+    "profile": {
+      "country": "_lichess",
+      "bio": "https://imgur.com/nOG2nXO\r\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\r\nHello I am @Utsa-Bot\r\nAnd my master is @Utsa2009\r\nU can Challenge me standard except  UB\r\nAnd variant\r\nJoin my Team fantasy reborn \r\nhttps://lichess.org/team/fantasty-reborn"
+    },
+    "seenAt": 1640243215622,
+    "playTime": {
+      "total": 31791,
+      "tv": 668
+    },
+    "url": "https://lichess.org/@/Utsa-Super-Bot",
+    "count": {
+      "all": 220,
+      "rated": 107,
+      "ai": 23,
+      "draw": 20,
+      "drawH": 20,
+      "loss": 72,
+      "lossH": 60,
+      "win": 128,
+      "winH": 117,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
