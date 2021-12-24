@@ -1,0 +1,81 @@
+{
+  "id": "utsa-bot",
+  "displayName": "Utsa-Bot",
+  "username": "Utsa-Bot",
+  "profileUrl": "https://lichess.org/@/Utsa-Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"utsa-bot\",\"username\":\"Utsa-Bot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1830,\"rd\":204,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2107,\"rd\":351,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2192,\"rd\":206,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639826283472,\"online\":true,\"profile\":{\"bio\":\"https://i.imgur.com/JwiHYmU.jpg\\r\\nhello this bot is made by @aakash23legend23 and used by @Utsa2009 \\r\\n\\r\\nthis is the link of our team https://lichess.org/team/abhinav-chornoor--friends  and https://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640332053953,\"playTime\":{\"total\":8569,\"tv\":191},\"url\":\"https://lichess.org/@/Utsa-Bot\",\"count\":{\"all\":61,\"rated\":16,\"ai\":26,\"draw\":1,\"drawH\":1,\"loss\":18,\"lossH\":9,\"win\":42,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "utsa-bot",
+    "username": "Utsa-Bot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 1830,
+        "rd": 204,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 2107,
+        "rd": 351,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2192,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1639826283472,
+    "online": true,
+    "profile": {
+      "bio": "https://i.imgur.com/JwiHYmU.jpg\r\nhello this bot is made by @aakash23legend23 and used by @Utsa2009 \r\n\r\nthis is the link of our team https://lichess.org/team/abhinav-chornoor--friends  and https://lichess.org/team/fantasty-reborn"
+    },
+    "seenAt": 1640332053953,
+    "playTime": {
+      "total": 8569,
+      "tv": 191
+    },
+    "url": "https://lichess.org/@/Utsa-Bot",
+    "count": {
+      "all": 61,
+      "rated": 16,
+      "ai": 26,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 18,
+      "lossH": 9,
+      "win": 42,
+      "winH": 25,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
