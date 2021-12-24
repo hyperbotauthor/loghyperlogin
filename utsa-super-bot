@@ -4,7 +4,7 @@
   "username": "Utsa-Super-Bot",
   "profileUrl": "https://lichess.org/@/Utsa-Super-Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"utsa-super-bot\",\"username\":\"Utsa-Super-Bot\",\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1847,\"rd\":89,\"prog\":-33},\"bullet\":{\"games\":53,\"rating\":2019,\"rd\":63,\"prog\":35},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2119,\"rd\":347,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2375,\"rd\":150,\"prog\":-12,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639973128837,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/nOG2nXO\\r\\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\\r\\nHello I am @Utsa-Bot\\r\\nAnd my master is @Utsa2009\\r\\nU can Challenge me standard except  UB\\r\\nAnd variant\\r\\nJoin my Team fantasy reborn \\r\\nhttps://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640337844081,\"playTime\":{\"total\":41138,\"tv\":1925},\"url\":\"https://lichess.org/@/Utsa-Super-Bot\",\"playing\":\"https://lichess.org/w3vYNaVh/black\",\"count\":{\"all\":277,\"rated\":120,\"ai\":34,\"draw\":22,\"drawH\":21,\"loss\":103,\"lossH\":84,\"win\":152,\"winH\":138,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"utsa-super-bot\",\"username\":\"Utsa-Super-Bot\",\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1847,\"rd\":89,\"prog\":-33},\"bullet\":{\"games\":53,\"rating\":2019,\"rd\":63,\"prog\":35},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2119,\"rd\":347,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2375,\"rd\":150,\"prog\":-12,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639973128837,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/nOG2nXO\\r\\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\\r\\nHello I am @Utsa-Bot brother \\r\\nAnd my master is @Utsa2009\\r\\nU can Challenge me standard except  UB\\r\\nAnd variant\\r\\nJoin my Team fantasy reborn \\r\\nhttps://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640350674626,\"playTime\":{\"total\":42001,\"tv\":2228},\"url\":\"https://lichess.org/@/Utsa-Super-Bot\",\"playing\":\"https://lichess.org/R29S9Vbb/black\",\"count\":{\"all\":283,\"rated\":120,\"ai\":35,\"draw\":22,\"drawH\":21,\"loss\":104,\"lossH\":85,\"win\":157,\"winH\":142,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "utsa-super-bot",
     "username": "Utsa-Super-Bot",
@@ -48,27 +48,27 @@
     "online": true,
     "profile": {
       "country": "_lichess",
-      "bio": "https://imgur.com/nOG2nXO\r\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\r\nHello I am @Utsa-Bot\r\nAnd my master is @Utsa2009\r\nU can Challenge me standard except  UB\r\nAnd variant\r\nJoin my Team fantasy reborn \r\nhttps://lichess.org/team/fantasty-reborn"
+      "bio": "https://imgur.com/nOG2nXO\r\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\r\nHello I am @Utsa-Bot brother \r\nAnd my master is @Utsa2009\r\nU can Challenge me standard except  UB\r\nAnd variant\r\nJoin my Team fantasy reborn \r\nhttps://lichess.org/team/fantasty-reborn"
     },
-    "seenAt": 1640337844081,
+    "seenAt": 1640350674626,
     "playTime": {
-      "total": 41138,
-      "tv": 1925
+      "total": 42001,
+      "tv": 2228
     },
     "url": "https://lichess.org/@/Utsa-Super-Bot",
-    "playing": "https://lichess.org/w3vYNaVh/black",
+    "playing": "https://lichess.org/R29S9Vbb/black",
     "count": {
-      "all": 277,
+      "all": 283,
       "rated": 120,
-      "ai": 34,
+      "ai": 35,
       "draw": 22,
       "drawH": 21,
-      "loss": 103,
-      "lossH": 84,
-      "win": 152,
-      "winH": 138,
+      "loss": 104,
+      "lossH": 85,
+      "win": 157,
+      "winH": 142,
       "bookmark": 1,
-      "playing": 1,
+      "playing": 2,
       "import": 0,
       "me": 0
     },
