@@ -4,22 +4,22 @@
   "username": "Utsa-Super-Bot",
   "profileUrl": "https://lichess.org/@/Utsa-Super-Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"utsa-super-bot\",\"username\":\"Utsa-Super-Bot\",\"perfs\":{\"blitz\":{\"games\":28,\"rating\":1818,\"rd\":94,\"prog\":-181},\"bullet\":{\"games\":50,\"rating\":2025,\"rd\":63,\"prog\":47},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2119,\"rd\":347,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2375,\"rd\":150,\"prog\":-12,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639973128837,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/nOG2nXO\\r\\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\\r\\nHello I am @Utsa-Bot\\r\\nAnd my master is @Utsa2009\\r\\nU can Challenge me standard except  UB\\r\\nAnd variant\\r\\nJoin my Team fantasy reborn \\r\\nhttps://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640317365627,\"playTime\":{\"total\":35456,\"tv\":668},\"url\":\"https://lichess.org/@/Utsa-Super-Bot\",\"count\":{\"all\":243,\"rated\":113,\"ai\":26,\"draw\":20,\"drawH\":20,\"loss\":84,\"lossH\":70,\"win\":139,\"winH\":127,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"utsa-super-bot\",\"username\":\"Utsa-Super-Bot\",\"perfs\":{\"blitz\":{\"games\":32,\"rating\":1847,\"rd\":89,\"prog\":-33},\"bullet\":{\"games\":53,\"rating\":2019,\"rd\":63,\"prog\":35},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2119,\"rd\":347,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":2375,\"rd\":150,\"prog\":-12,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1639973128837,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/nOG2nXO\\r\\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\\r\\nHello I am @Utsa-Bot\\r\\nAnd my master is @Utsa2009\\r\\nU can Challenge me standard except  UB\\r\\nAnd variant\\r\\nJoin my Team fantasy reborn \\r\\nhttps://lichess.org/team/fantasty-reborn\"},\"seenAt\":1640337844081,\"playTime\":{\"total\":41138,\"tv\":1925},\"url\":\"https://lichess.org/@/Utsa-Super-Bot\",\"playing\":\"https://lichess.org/w3vYNaVh/black\",\"count\":{\"all\":277,\"rated\":120,\"ai\":34,\"draw\":22,\"drawH\":21,\"loss\":103,\"lossH\":84,\"win\":152,\"winH\":138,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "utsa-super-bot",
     "username": "Utsa-Super-Bot",
     "perfs": {
       "blitz": {
-        "games": 28,
-        "rating": 1818,
-        "rd": 94,
-        "prog": -181
+        "games": 32,
+        "rating": 1847,
+        "rd": 89,
+        "prog": -33
       },
       "bullet": {
-        "games": 50,
-        "rating": 2025,
+        "games": 53,
+        "rating": 2019,
         "rd": 63,
-        "prog": 47
+        "prog": 35
       },
       "correspondence": {
         "games": 0,
@@ -50,24 +50,25 @@
       "country": "_lichess",
       "bio": "https://imgur.com/nOG2nXO\r\nhttps://giphy.com/gifs/HCLioDfrOGXHSXprsj\r\nHello I am @Utsa-Bot\r\nAnd my master is @Utsa2009\r\nU can Challenge me standard except  UB\r\nAnd variant\r\nJoin my Team fantasy reborn \r\nhttps://lichess.org/team/fantasty-reborn"
     },
-    "seenAt": 1640317365627,
+    "seenAt": 1640337844081,
     "playTime": {
-      "total": 35456,
-      "tv": 668
+      "total": 41138,
+      "tv": 1925
     },
     "url": "https://lichess.org/@/Utsa-Super-Bot",
+    "playing": "https://lichess.org/w3vYNaVh/black",
     "count": {
-      "all": 243,
-      "rated": 113,
-      "ai": 26,
-      "draw": 20,
-      "drawH": 20,
-      "loss": 84,
-      "lossH": 70,
-      "win": 139,
-      "winH": 127,
+      "all": 277,
+      "rated": 120,
+      "ai": 34,
+      "draw": 22,
+      "drawH": 21,
+      "loss": 103,
+      "lossH": 84,
+      "win": 152,
+      "winH": 138,
       "bookmark": 1,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
