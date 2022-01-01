@@ -4,7 +4,7 @@
   "username": "HumanBot_1",
   "profileUrl": "https://lichess.org/@/HumanBot_1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_1\",\"username\":\"HumanBot_1\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2592,\"rd\":144,\"prog\":-66,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638263121193,\"online\":true,\"seenAt\":1639848146063,\"playTime\":{\"total\":11813,\"tv\":0},\"url\":\"https://lichess.org/@/HumanBot_1\",\"count\":{\"all\":42,\"rated\":13,\"ai\":22,\"draw\":8,\"drawH\":3,\"loss\":12,\"lossH\":2,\"win\":22,\"winH\":15,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_1\",\"username\":\"HumanBot_1\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2592,\"rd\":146,\"prog\":-66,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638263121193,\"online\":true,\"profile\":{\"bio\":\"f20431aa672311ec84af3eb5ee26c102\"},\"seenAt\":1641064019391,\"playTime\":{\"total\":14610,\"tv\":0},\"url\":\"https://lichess.org/@/HumanBot_1\",\"playing\":\"https://lichess.org/HHHguwd5/white\",\"count\":{\"all\":57,\"rated\":13,\"ai\":33,\"draw\":9,\"drawH\":4,\"loss\":21,\"lossH\":4,\"win\":27,\"winH\":16,\"bookmark\":2,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_1",
     "username": "HumanBot_1",
@@ -12,7 +12,7 @@
       "blitz": {
         "games": 13,
         "rating": 2592,
-        "rd": 144,
+        "rd": 146,
         "prog": -66,
         "prov": true
       },
@@ -48,24 +48,28 @@
     "title": "BOT",
     "createdAt": 1638263121193,
     "online": true,
-    "seenAt": 1639848146063,
+    "profile": {
+      "bio": "f20431aa672311ec84af3eb5ee26c102"
+    },
+    "seenAt": 1641064019391,
     "playTime": {
-      "total": 11813,
+      "total": 14610,
       "tv": 0
     },
     "url": "https://lichess.org/@/HumanBot_1",
+    "playing": "https://lichess.org/HHHguwd5/white",
     "count": {
-      "all": 42,
+      "all": 57,
       "rated": 13,
-      "ai": 22,
-      "draw": 8,
-      "drawH": 3,
-      "loss": 12,
-      "lossH": 2,
-      "win": 22,
-      "winH": 15,
-      "bookmark": 1,
-      "playing": 0,
+      "ai": 33,
+      "draw": 9,
+      "drawH": 4,
+      "loss": 21,
+      "lossH": 4,
+      "win": 27,
+      "winH": 16,
+      "bookmark": 2,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
