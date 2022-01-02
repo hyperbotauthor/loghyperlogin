@@ -1,0 +1,77 @@
+{
+  "id": "dr_monster_bot",
+  "displayName": "Dr_mOnStEr_BoT",
+  "username": "Dr_mOnStEr_BoT",
+  "profileUrl": "https://lichess.org/@/Dr_mOnStEr_BoT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dr_monster_bot\",\"username\":\"Dr_mOnStEr_BoT\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2229,\"rd\":285,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2060,\"rd\":108,\"prog\":-214},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640934225152,\"online\":true,\"seenAt\":1641110970277,\"playTime\":{\"total\":2619,\"tv\":97},\"url\":\"https://lichess.org/@/Dr_mOnStEr_BoT\",\"count\":{\"all\":30,\"rated\":29,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":4,\"lossH\":4,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dr_monster_bot",
+    "username": "Dr_mOnStEr_BoT",
+    "perfs": {
+      "blitz": {
+        "games": 2,
+        "rating": 2229,
+        "rd": 285,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 27,
+        "rating": 2060,
+        "rd": 108,
+        "prog": -214
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1640934225152,
+    "online": true,
+    "seenAt": 1641110970277,
+    "playTime": {
+      "total": 2619,
+      "tv": 97
+    },
+    "url": "https://lichess.org/@/Dr_mOnStEr_BoT",
+    "count": {
+      "all": 30,
+      "rated": 29,
+      "ai": 0,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 4,
+      "lossH": 4,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
