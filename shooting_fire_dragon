@@ -4,65 +4,66 @@
   "username": "Shooting_Fire_Dragon",
   "profileUrl": "https://lichess.org/@/Shooting_Fire_Dragon",
   "provider": "lichess",
-  "_raw": "{\"id\":\"shooting_fire_dragon\",\"username\":\"Shooting_Fire_Dragon\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1641106254094,\"online\":true,\"seenAt\":1641110262377,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Shooting_Fire_Dragon\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"shooting_fire_dragon\",\"username\":\"Shooting_Fire_Dragon\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2055,\"rd\":418,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641106254094,\"online\":true,\"seenAt\":1641129134672,\"playTime\":{\"total\":1625,\"tv\":376},\"url\":\"https://lichess.org/@/Shooting_Fire_Dragon\",\"count\":{\"all\":6,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "shooting_fire_dragon",
     "username": "Shooting_Fire_Dragon",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2055,
+        "rd": 418,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1641106254094,
     "online": true,
-    "seenAt": 1641110262377,
+    "seenAt": 1641129134672,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 1625,
+      "tv": 376
     },
     "url": "https://lichess.org/@/Shooting_Fire_Dragon",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 6,
+      "rated": 1,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 1,
+      "lossH": 1,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
