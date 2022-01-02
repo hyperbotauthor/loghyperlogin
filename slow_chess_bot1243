@@ -1,0 +1,94 @@
+{
+  "id": "slow_chess_bot1243",
+  "displayName": "Slow_Chess_Bot1243",
+  "username": "Slow_Chess_Bot1243",
+  "profileUrl": "https://lichess.org/@/Slow_Chess_Bot1243",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"slow_chess_bot1243\",\"username\":\"Slow_Chess_Bot1243\",\"perfs\":{\"blitz\":{\"games\":21,\"rating\":2546,\"rd\":139,\"prog\":76,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":1253,\"rd\":176,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":9,\"rating\":1146,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":2072,\"rd\":78,\"prog\":-75},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2492,\"rd\":105,\"prog\":213}},\"title\":\"BOT\",\"createdAt\":1641026177637,\"online\":true,\"profile\":{\"country\":\"VN\",\"bio\":\"I'm a very slow bot so I'm really weak at Bullet. :)))\\r\\nI only play normal chess like Bullet, Rapid and Blitz only. :))\\r\\nI will very happy if someone send me challenges. :)))\\r\\nSometine I will be lagging and need a lot of time to move, so pls be Patient. Thanks.\\r\\nGood luck if you play with me :)))\"},\"seenAt\":1641129578385,\"playTime\":{\"total\":22679,\"tv\":1298},\"url\":\"https://lichess.org/@/Slow_Chess_Bot1243\",\"count\":{\"all\":130,\"rated\":98,\"ai\":25,\"draw\":8,\"drawH\":5,\"loss\":32,\"lossH\":23,\"win\":90,\"winH\":77,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "slow_chess_bot1243",
+    "username": "Slow_Chess_Bot1243",
+    "perfs": {
+      "blitz": {
+        "games": 21,
+        "rating": 2546,
+        "rd": 139,
+        "prog": 76,
+        "prov": true
+      },
+      "antichess": {
+        "games": 6,
+        "rating": 1253,
+        "rd": 176,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 9,
+        "rating": 1146,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 32,
+        "rating": 2072,
+        "rd": 78,
+        "prog": -75
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 2492,
+        "rd": 105,
+        "prog": 213
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641026177637,
+    "online": true,
+    "profile": {
+      "country": "VN",
+      "bio": "I'm a very slow bot so I'm really weak at Bullet. :)))\r\nI only play normal chess like Bullet, Rapid and Blitz only. :))\r\nI will very happy if someone send me challenges. :)))\r\nSometine I will be lagging and need a lot of time to move, so pls be Patient. Thanks.\r\nGood luck if you play with me :)))"
+    },
+    "seenAt": 1641129578385,
+    "playTime": {
+      "total": 22679,
+      "tv": 1298
+    },
+    "url": "https://lichess.org/@/Slow_Chess_Bot1243",
+    "count": {
+      "all": 130,
+      "rated": 98,
+      "ai": 25,
+      "draw": 8,
+      "drawH": 5,
+      "loss": 32,
+      "lossH": 23,
+      "win": 90,
+      "winH": 77,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
