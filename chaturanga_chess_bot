@@ -1,0 +1,76 @@
+{
+  "id": "chaturanga_chess_bot",
+  "displayName": "Chaturanga_Chess_BOT",
+  "username": "Chaturanga_Chess_BOT",
+  "profileUrl": "https://lichess.org/@/Chaturanga_Chess_BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chaturanga_chess_bot\",\"username\":\"Chaturanga_Chess_BOT\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1337,\"rd\":289,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":2106,\"rd\":106,\"prog\":-84},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":40,\"rating\":2029,\"rd\":108,\"prog\":20}},\"title\":\"BOT\",\"createdAt\":1640785243524,\"online\":true,\"seenAt\":1641216912556,\"playTime\":{\"total\":8076,\"tv\":0},\"url\":\"https://lichess.org/@/Chaturanga_Chess_BOT\",\"count\":{\"all\":99,\"rated\":76,\"ai\":6,\"draw\":7,\"drawH\":7,\"loss\":27,\"lossH\":21,\"win\":65,\"winH\":65,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chaturanga_chess_bot",
+    "username": "Chaturanga_Chess_BOT",
+    "perfs": {
+      "blitz": {
+        "games": 5,
+        "rating": 1337,
+        "rd": 289,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 30,
+        "rating": 2106,
+        "rd": 106,
+        "prog": -84
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 40,
+        "rating": 2029,
+        "rd": 108,
+        "prog": 20
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1640785243524,
+    "online": true,
+    "seenAt": 1641216912556,
+    "playTime": {
+      "total": 8076,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Chaturanga_Chess_BOT",
+    "count": {
+      "all": 99,
+      "rated": 76,
+      "ai": 6,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 27,
+      "lossH": 21,
+      "win": 65,
+      "winH": 65,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
