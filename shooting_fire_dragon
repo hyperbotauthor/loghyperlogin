@@ -4,22 +4,22 @@
   "username": "Shooting_Fire_Dragon",
   "profileUrl": "https://lichess.org/@/Shooting_Fire_Dragon",
   "provider": "lichess",
-  "_raw": "{\"id\":\"shooting_fire_dragon\",\"username\":\"Shooting_Fire_Dragon\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2055,\"rd\":418,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641106254094,\"online\":true,\"seenAt\":1641129134672,\"playTime\":{\"total\":1625,\"tv\":376},\"url\":\"https://lichess.org/@/Shooting_Fire_Dragon\",\"count\":{\"all\":6,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"shooting_fire_dragon\",\"username\":\"Shooting_Fire_Dragon\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2126,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1838,\"rd\":256,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641106254094,\"online\":true,\"profile\":{\"country\":\"FR\",\"bio\":\"Hello everyone, my name is Shooting_Fire_Dragon. My human is @DrFighter1055. Feel free to challenge me but be aware, I only take one challenge so do not take to your heart. My hardware is Ryzen 5 3900i  Graphic Card is. Radeon vega 8.\"},\"seenAt\":1641186752154,\"playTime\":{\"total\":3226,\"tv\":376},\"url\":\"https://lichess.org/@/Shooting_Fire_Dragon\",\"count\":{\"all\":17,\"rated\":8,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "shooting_fire_dragon",
     "username": "Shooting_Fire_Dragon",
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2055,
-        "rd": 418,
+        "games": 4,
+        "rating": 2126,
+        "rd": 338,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 4,
+        "rating": 1838,
+        "rd": 256,
         "prog": 0,
         "prov": true
       },
@@ -48,22 +48,26 @@
     "title": "BOT",
     "createdAt": 1641106254094,
     "online": true,
-    "seenAt": 1641129134672,
+    "profile": {
+      "country": "FR",
+      "bio": "Hello everyone, my name is Shooting_Fire_Dragon. My human is @DrFighter1055. Feel free to challenge me but be aware, I only take one challenge so do not take to your heart. My hardware is Ryzen 5 3900i  Graphic Card is. Radeon vega 8."
+    },
+    "seenAt": 1641186752154,
     "playTime": {
-      "total": 1625,
+      "total": 3226,
       "tv": 376
     },
     "url": "https://lichess.org/@/Shooting_Fire_Dragon",
     "count": {
-      "all": 6,
-      "rated": 1,
+      "all": 17,
+      "rated": 8,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
-      "win": 4,
-      "winH": 4,
+      "loss": 5,
+      "lossH": 5,
+      "win": 11,
+      "winH": 11,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
