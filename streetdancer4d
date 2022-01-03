@@ -4,160 +4,159 @@
   "username": "StreetDancer4d",
   "profileUrl": "https://lichess.org/@/StreetDancer4d",
   "provider": "lichess",
-  "_raw": "{\"id\":\"streetdancer4d\",\"username\":\"StreetDancer4d\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1284,\"rd\":148,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":797,\"rd\":260,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":4,\"rating\":669,\"rd\":219,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1727,\"rd\":269,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":57,\"rating\":1165,\"rd\":75,\"prog\":-21},\"blitz\":{\"games\":738,\"rating\":1538,\"rd\":45,\"prog\":26},\"kingOfTheHill\":{\"games\":3,\"rating\":1533,\"rd\":235,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":14,\"rating\":1206,\"rd\":117,\"prog\":-109,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1270,\"rd\":135,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":802,\"rating\":1303,\"rd\":45,\"prog\":-22},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":11,\"rating\":1345,\"rd\":143,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1755,\"rating\":1680,\"rd\":87,\"prog\":0},\"classical\":{\"games\":5,\"rating\":1330,\"rd\":200,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":53,\"rating\":1462,\"rd\":67,\"prog\":62},\"storm\":{\"runs\":11,\"score\":23},\"racer\":{\"runs\":1,\"score\":22},\"streak\":{\"runs\":2,\"score\":13}},\"createdAt\":1623567487686,\"profile\":{\"country\":\"IN\",\"location\":\"Barasat\",\"bio\":\"I am Junaid Hoque.I learn in MGCA academy.You can watch my games and send me messages anytime.My favourite players are Mikhail Tal,Magnus Carlsen and Anatoly Karbov and Bobby Fisher.My favourite openings are Sicilian Defence,Sicilian Accerlated Dragon and Queen's Gambit and Ruy Lopez\",\"firstName\":\"Junaid\",\"lastName\":\"Hoque\",\"fideRating\":1500},\"seenAt\":1629048890839,\"playTime\":{\"total\":273497,\"tv\":29},\"language\":\"en-US\",\"url\":\"https://lichess.org/@/StreetDancer4d\",\"nbFollowing\":25,\"nbFollowers\":1,\"completionRate\":50,\"count\":{\"all\":1794,\"rated\":1712,\"ai\":3,\"draw\":76,\"drawH\":76,\"loss\":903,\"lossH\":901,\"win\":815,\"winH\":814,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"streetdancer4d\",\"username\":\"StreetDancer4d\",\"perfs\":{\"chess960\":{\"games\":13,\"rating\":1289,\"rd\":150,\"prog\":-50,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":797,\"rd\":274,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":635,\"rd\":218,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1707,\"rd\":267,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":62,\"rating\":1166,\"rd\":111,\"prog\":-22,\"prov\":true},\"blitz\":{\"games\":1692,\"rating\":1641,\"rd\":45,\"prog\":10},\"kingOfTheHill\":{\"games\":3,\"rating\":1533,\"rd\":250,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":14,\"rating\":1206,\"rd\":145,\"prog\":-109,\"prov\":true},\"threeCheck\":{\"games\":17,\"rating\":1212,\"rd\":146,\"prog\":-24,\"prov\":true},\"bullet\":{\"games\":2017,\"rating\":1599,\"rd\":45,\"prog\":10},\"correspondence\":{\"games\":3,\"rating\":1844,\"rd\":341,\"prog\":0,\"prov\":true},\"horde\":{\"games\":11,\"rating\":1345,\"rd\":166,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":3685,\"rating\":2478,\"rd\":78,\"prog\":0},\"classical\":{\"games\":8,\"rating\":1411,\"rd\":186,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":148,\"rating\":1621,\"rd\":75,\"prog\":29},\"storm\":{\"runs\":21,\"score\":25},\"racer\":{\"runs\":1,\"score\":22},\"streak\":{\"runs\":7,\"score\":15}},\"createdAt\":1623567487686,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"Barasat\",\"bio\":\"I am Junaid Hoque.My favourite players are Mikhail Tal,Magnus Carlsen and Anatoly Karbov and Bobby Fisher.My favourite openings are Sicilian Defence,Sicilian Accerlated Dragon and Queen's Gambit and Ruy Lopez.I am from the Country .I like all the members of lichess(Less Rated from 600+ to Higher Rated 3000+)My bestfriend is @SubhayanBhattacharya and @MGCA2009\",\"firstName\":\"Junaid\",\"lastName\":\"Hoque\",\"fideRating\":1650},\"seenAt\":1641200526767,\"playTime\":{\"total\":707161,\"tv\":29},\"url\":\"https://lichess.org/@/StreetDancer4d\",\"playing\":\"https://lichess.org/3DTcVxtj/white\",\"completionRate\":90,\"count\":{\"all\":4375,\"rated\":4001,\"ai\":30,\"draw\":207,\"drawH\":202,\"loss\":2197,\"lossH\":2186,\"win\":1971,\"winH\":1957,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "streetdancer4d",
     "username": "StreetDancer4d",
-    "online": true,
     "perfs": {
       "chess960": {
-        "games": 8,
-        "rating": 1284,
-        "rd": 148,
-        "prog": 0,
+        "games": 13,
+        "rating": 1289,
+        "rd": 150,
+        "prog": -50,
         "prov": true
       },
       "antichess": {
         "games": 3,
         "rating": 797,
-        "rd": 260,
+        "rd": 274,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 4,
-        "rating": 669,
-        "rd": 219,
+        "games": 5,
+        "rating": 635,
+        "rd": 218,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 2,
-        "rating": 1727,
-        "rd": 269,
+        "games": 3,
+        "rating": 1707,
+        "rd": 267,
         "prog": 0,
         "prov": true
       },
       "ultraBullet": {
-        "games": 57,
-        "rating": 1165,
-        "rd": 75,
-        "prog": -21
+        "games": 62,
+        "rating": 1166,
+        "rd": 111,
+        "prog": -22,
+        "prov": true
       },
       "blitz": {
-        "games": 738,
-        "rating": 1538,
+        "games": 1692,
+        "rating": 1641,
         "rd": 45,
-        "prog": 26
+        "prog": 10
       },
       "kingOfTheHill": {
         "games": 3,
         "rating": 1533,
-        "rd": 235,
+        "rd": 250,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 14,
         "rating": 1206,
-        "rd": 117,
+        "rd": 145,
         "prog": -109,
         "prov": true
       },
       "threeCheck": {
-        "games": 10,
-        "rating": 1270,
-        "rd": 135,
-        "prog": 0,
+        "games": 17,
+        "rating": 1212,
+        "rd": 146,
+        "prog": -24,
         "prov": true
       },
       "bullet": {
-        "games": 802,
-        "rating": 1303,
+        "games": 2017,
+        "rating": 1599,
         "rd": 45,
-        "prog": -22
+        "prog": 10
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 1844,
+        "rd": 341,
         "prog": 0,
         "prov": true
       },
       "horde": {
         "games": 11,
         "rating": 1345,
-        "rd": 143,
+        "rd": 166,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 1755,
-        "rating": 1680,
-        "rd": 87,
+        "games": 3685,
+        "rating": 2478,
+        "rd": 78,
         "prog": 0
       },
       "classical": {
-        "games": 5,
-        "rating": 1330,
-        "rd": 200,
+        "games": 8,
+        "rating": 1411,
+        "rd": 186,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 53,
-        "rating": 1462,
-        "rd": 67,
-        "prog": 62
+        "games": 148,
+        "rating": 1621,
+        "rd": 75,
+        "prog": 29
       },
       "storm": {
-        "runs": 11,
-        "score": 23
+        "runs": 21,
+        "score": 25
       },
       "racer": {
         "runs": 1,
         "score": 22
       },
       "streak": {
-        "runs": 2,
-        "score": 13
+        "runs": 7,
+        "score": 15
       }
     },
     "createdAt": 1623567487686,
+    "online": true,
     "profile": {
       "country": "IN",
       "location": "Barasat",
-      "bio": "I am Junaid Hoque.I learn in MGCA academy.You can watch my games and send me messages anytime.My favourite players are Mikhail Tal,Magnus Carlsen and Anatoly Karbov and Bobby Fisher.My favourite openings are Sicilian Defence,Sicilian Accerlated Dragon and Queen's Gambit and Ruy Lopez",
+      "bio": "I am Junaid Hoque.My favourite players are Mikhail Tal,Magnus Carlsen and Anatoly Karbov and Bobby Fisher.My favourite openings are Sicilian Defence,Sicilian Accerlated Dragon and Queen's Gambit and Ruy Lopez.I am from the Country .I like all the members of lichess(Less Rated from 600+ to Higher Rated 3000+)My bestfriend is @SubhayanBhattacharya and @MGCA2009",
       "firstName": "Junaid",
       "lastName": "Hoque",
-      "fideRating": 1500
+      "fideRating": 1650
     },
-    "seenAt": 1629048890839,
+    "seenAt": 1641200526767,
     "playTime": {
-      "total": 273497,
+      "total": 707161,
       "tv": 29
     },
-    "language": "en-US",
     "url": "https://lichess.org/@/StreetDancer4d",
-    "nbFollowing": 25,
-    "nbFollowers": 1,
-    "completionRate": 50,
+    "playing": "https://lichess.org/3DTcVxtj/white",
+    "completionRate": 90,
     "count": {
-      "all": 1794,
-      "rated": 1712,
-      "ai": 3,
-      "draw": 76,
-      "drawH": 76,
-      "loss": 903,
-      "lossH": 901,
-      "win": 815,
-      "winH": 814,
-      "bookmark": 0,
-      "playing": 0,
+      "all": 4375,
+      "rated": 4001,
+      "ai": 30,
+      "draw": 207,
+      "drawH": 202,
+      "loss": 2197,
+      "lossH": 2186,
+      "win": 1971,
+      "winH": 1957,
+      "bookmark": 1,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
-    "followable": false,
+    "followable": true,
     "following": false,
     "blocking": false,
     "followsYou": false
