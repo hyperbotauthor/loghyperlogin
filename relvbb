@@ -1,0 +1,77 @@
+{
+  "id": "relvbb",
+  "displayName": "relvbb",
+  "username": "relvbb",
+  "profileUrl": "https://lichess.org/@/relvbb",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"relvbb\",\"username\":\"relvbb\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1940,\"rd\":415,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":2223,\"rd\":77,\"prog\":-111},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641214606849,\"online\":true,\"seenAt\":1641303045910,\"playTime\":{\"total\":5260,\"tv\":362},\"url\":\"https://lichess.org/@/relvbb\",\"count\":{\"all\":76,\"rated\":32,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":13,\"lossH\":9,\"win\":58,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "relvbb",
+    "username": "relvbb",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1940,
+        "rd": 415,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 29,
+        "rating": 2223,
+        "rd": 77,
+        "prog": -111
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641214606849,
+    "online": true,
+    "seenAt": 1641303045910,
+    "playTime": {
+      "total": 5260,
+      "tv": 362
+    },
+    "url": "https://lichess.org/@/relvbb",
+    "count": {
+      "all": 76,
+      "rated": 32,
+      "ai": 5,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 13,
+      "lossH": 9,
+      "win": 58,
+      "winH": 57,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
