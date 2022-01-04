@@ -4,65 +4,69 @@
   "username": "PlayMePls",
   "profileUrl": "https://lichess.org/@/PlayMePls",
   "provider": "lichess",
-  "_raw": "{\"id\":\"playmepls\",\"username\":\"PlayMePls\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1641243481021,\"online\":true,\"seenAt\":1641243486090,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/PlayMePls\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"playmepls\",\"username\":\"PlayMePls\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2162,\"rd\":301,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2268,\"rd\":227,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641243481021,\"online\":true,\"profile\":{\"bio\":\"This is just a little fun project :)\\r\\nIf you want to create your own permanent bot: github.com/hyperchessbot/hyperbot by @hyperchessbotauthor Stockfish13 all variants rated real time correspondence CCRL polyglot book SYZYGY 3-4-5 piece tablebases online\"},\"seenAt\":1641290256604,\"playTime\":{\"total\":484,\"tv\":0},\"url\":\"https://lichess.org/@/PlayMePls\",\"count\":{\"all\":14,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "playmepls",
     "username": "PlayMePls",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2162,
+        "rd": 301,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 6,
+        "rating": 2268,
+        "rd": 227,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1641243481021,
     "online": true,
-    "seenAt": 1641243486090,
+    "profile": {
+      "bio": "This is just a little fun project :)\r\nIf you want to create your own permanent bot: github.com/hyperchessbot/hyperbot by @hyperchessbotauthor Stockfish13 all variants rated real time correspondence CCRL polyglot book SYZYGY 3-4-5 piece tablebases online"
+    },
+    "seenAt": 1641290256604,
     "playTime": {
-      "total": 0,
+      "total": 484,
       "tv": 0
     },
     "url": "https://lichess.org/@/PlayMePls",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 14,
+      "rated": 7,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 14,
+      "winH": 14,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
