@@ -4,17 +4,16 @@
   "username": "pengxiaozhu3",
   "profileUrl": "https://lichess.org/@/pengxiaozhu3",
   "provider": "lichess",
-  "_raw": "{\"id\":\"pengxiaozhu3\",\"username\":\"pengxiaozhu3\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2064,\"rd\":123,\"prog\":108,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1169,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":206,\"rating\":2381,\"rd\":79,\"prog\":83},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":291,\"prog\":0,\"prov\":true},\"classical\":{\"games\":22,\"rating\":2066,\"rd\":138,\"prog\":366,\"prov\":true},\"rapid\":{\"games\":37,\"rating\":2310,\"rd\":100,\"prog\":-150}},\"title\":\"BOT\",\"createdAt\":1617874109973,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Created by  @PeNgXiAo_ZhU\\r\\nhttps://i.imgur.com/KVSpH7b.jpg\\r\\nhttps://i.imgur.com/GARczCy.jpg\"},\"seenAt\":1641197030432,\"playTime\":{\"total\":82809,\"tv\":7181},\"url\":\"https://lichess.org/@/pengxiaozhu3\",\"playing\":\"https://lichess.org/KGdhH2ps/black\",\"count\":{\"all\":466,\"rated\":306,\"ai\":38,\"draw\":23,\"drawH\":21,\"loss\":107,\"lossH\":87,\"win\":336,\"winH\":320,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"pengxiaozhu3\",\"username\":\"pengxiaozhu3\",\"perfs\":{\"blitz\":{\"games\":38,\"rating\":2182,\"rd\":93,\"prog\":101},\"crazyhouse\":{\"games\":1,\"rating\":1169,\"rd\":311,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":212,\"rating\":2262,\"rd\":71,\"prog\":-90},\"correspondence\":{\"games\":3,\"rating\":2198,\"rd\":291,\"prog\":0,\"prov\":true},\"classical\":{\"games\":22,\"rating\":2066,\"rd\":138,\"prog\":366,\"prov\":true},\"rapid\":{\"games\":38,\"rating\":2304,\"rd\":99,\"prog\":-183}},\"title\":\"BOT\",\"createdAt\":1617874109973,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Created by  @PeNgXiAo_ZhU\\r\\nhttps://i.imgur.com/KVSpH7b.jpg\\r\\nhttps://i.imgur.com/GARczCy.jpg\"},\"seenAt\":1641282800265,\"playTime\":{\"total\":85454,\"tv\":7830},\"url\":\"https://lichess.org/@/pengxiaozhu3\",\"playing\":\"https://lichess.org/KGdhH2ps/black\",\"count\":{\"all\":488,\"rated\":320,\"ai\":40,\"draw\":23,\"drawH\":21,\"loss\":121,\"lossH\":101,\"win\":344,\"winH\":326,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "pengxiaozhu3",
     "username": "pengxiaozhu3",
     "perfs": {
       "blitz": {
-        "games": 31,
-        "rating": 2064,
-        "rd": 123,
-        "prog": 108,
-        "prov": true
+        "games": 38,
+        "rating": 2182,
+        "rd": 93,
+        "prog": 101
       },
       "crazyhouse": {
         "games": 1,
@@ -24,10 +23,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 206,
-        "rating": 2381,
-        "rd": 79,
-        "prog": 83
+        "games": 212,
+        "rating": 2262,
+        "rd": 71,
+        "prog": -90
       },
       "correspondence": {
         "games": 3,
@@ -44,10 +43,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 37,
-        "rating": 2310,
-        "rd": 100,
-        "prog": -150
+        "games": 38,
+        "rating": 2304,
+        "rd": 99,
+        "prog": -183
       }
     },
     "title": "BOT",
@@ -57,23 +56,23 @@
       "country": "_earth",
       "bio": "Created by  @PeNgXiAo_ZhU\r\nhttps://i.imgur.com/KVSpH7b.jpg\r\nhttps://i.imgur.com/GARczCy.jpg"
     },
-    "seenAt": 1641197030432,
+    "seenAt": 1641282800265,
     "playTime": {
-      "total": 82809,
-      "tv": 7181
+      "total": 85454,
+      "tv": 7830
     },
     "url": "https://lichess.org/@/pengxiaozhu3",
     "playing": "https://lichess.org/KGdhH2ps/black",
     "count": {
-      "all": 466,
-      "rated": 306,
-      "ai": 38,
+      "all": 488,
+      "rated": 320,
+      "ai": 40,
       "draw": 23,
       "drawH": 21,
-      "loss": 107,
-      "lossH": 87,
-      "win": 336,
-      "winH": 320,
+      "loss": 121,
+      "lossH": 101,
+      "win": 344,
+      "winH": 326,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
