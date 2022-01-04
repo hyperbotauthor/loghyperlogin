@@ -4,7 +4,7 @@
   "username": "KKKA-SA",
   "profileUrl": "https://lichess.org/@/KKKA-SA",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kkka-sa\",\"username\":\"KKKA-SA\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2281,\"rd\":213,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1443,\"rd\":434,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2476,\"rd\":119,\"prog\":-141,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1621056020443,\"online\":true,\"seenAt\":1638712671396,\"playTime\":{\"total\":29210,\"tv\":698},\"url\":\"https://lichess.org/@/KKKA-SA\",\"playing\":\"https://lichess.org/MNGYdfaS/black\",\"count\":{\"all\":37,\"rated\":29,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kkka-sa\",\"username\":\"KKKA-SA\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2281,\"rd\":217,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1443,\"rd\":436,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2476,\"rd\":125,\"prog\":-141,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1621056020443,\"online\":true,\"seenAt\":1641334239856,\"playTime\":{\"total\":32529,\"tv\":2089},\"url\":\"https://lichess.org/@/KKKA-SA\",\"count\":{\"all\":39,\"rated\":29,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kkka-sa",
     "username": "KKKA-SA",
@@ -12,14 +12,14 @@
       "blitz": {
         "games": 6,
         "rating": 2281,
-        "rd": 213,
+        "rd": 217,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 2,
         "rating": 1443,
-        "rd": 434,
+        "rd": 436,
         "prog": 0,
         "prov": true
       },
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 20,
         "rating": 2476,
-        "rd": 119,
+        "rd": 125,
         "prog": -141,
         "prov": true
       }
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1621056020443,
     "online": true,
-    "seenAt": 1638712671396,
+    "seenAt": 1641334239856,
     "playTime": {
-      "total": 29210,
-      "tv": 698
+      "total": 32529,
+      "tv": 2089
     },
     "url": "https://lichess.org/@/KKKA-SA",
-    "playing": "https://lichess.org/MNGYdfaS/black",
     "count": {
-      "all": 37,
+      "all": 39,
       "rated": 29,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
       "loss": 9,
       "lossH": 9,
-      "win": 24,
-      "winH": 24,
+      "win": 26,
+      "winH": 26,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
