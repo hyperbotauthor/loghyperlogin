@@ -4,23 +4,23 @@
   "username": "XchessXliveX",
   "profileUrl": "https://lichess.org/@/XchessXliveX",
   "provider": "lichess",
-  "_raw": "{\"id\":\"xchessxlivex\",\"username\":\"XchessXliveX\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2010,\"rd\":140,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2276,\"rd\":221,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2198,\"rd\":290,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641396086354,\"online\":true,\"seenAt\":1641468822848,\"playTime\":{\"total\":4260,\"tv\":0},\"url\":\"https://lichess.org/@/XchessXliveX\",\"count\":{\"all\":22,\"rated\":14,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":4,\"win\":17,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"xchessxlivex\",\"username\":\"XchessXliveX\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2029,\"rd\":119,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2161,\"rd\":142,\"prog\":-190,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2293,\"rd\":230,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641396086354,\"online\":true,\"seenAt\":1641477133960,\"playTime\":{\"total\":7207,\"tv\":0},\"url\":\"https://lichess.org/@/XchessXliveX\",\"count\":{\"all\":35,\"rated\":27,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":7,\"win\":27,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "xchessxlivex",
     "username": "XchessXliveX",
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2010,
-        "rd": 140,
+        "games": 11,
+        "rating": 2029,
+        "rd": 119,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 5,
-        "rating": 2276,
-        "rd": 221,
-        "prog": 0,
+        "games": 14,
+        "rating": 2161,
+        "rd": 142,
+        "prog": -190,
         "prov": true
       },
       "correspondence": {
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2198,
-        "rd": 290,
+        "games": 2,
+        "rating": 2293,
+        "rd": 230,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1641396086354,
     "online": true,
-    "seenAt": 1641468822848,
+    "seenAt": 1641477133960,
     "playTime": {
-      "total": 4260,
+      "total": 7207,
       "tv": 0
     },
     "url": "https://lichess.org/@/XchessXliveX",
     "count": {
-      "all": 22,
-      "rated": 14,
+      "all": 35,
+      "rated": 27,
       "ai": 5,
       "draw": 0,
       "drawH": 0,
-      "loss": 5,
-      "lossH": 4,
-      "win": 17,
-      "winH": 13,
+      "loss": 8,
+      "lossH": 7,
+      "win": 27,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
