@@ -4,7 +4,7 @@
   "username": "HumanBot_1",
   "profileUrl": "https://lichess.org/@/HumanBot_1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"humanbot_1\",\"username\":\"HumanBot_1\",\"perfs\":{\"blitz\":{\"games\":18,\"rating\":2637,\"rd\":131,\"prog\":-21,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2362,\"rd\":142,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638263121193,\"online\":true,\"profile\":{\"bio\":\"f20431aa672311ec84af3eb5ee26c102\"},\"seenAt\":1641537113378,\"playTime\":{\"total\":18306,\"tv\":0},\"url\":\"https://lichess.org/@/HumanBot_1\",\"count\":{\"all\":77,\"rated\":25,\"ai\":40,\"draw\":11,\"drawH\":6,\"loss\":25,\"lossH\":5,\"win\":41,\"winH\":26,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"humanbot_1\",\"username\":\"HumanBot_1\",\"perfs\":{\"blitz\":{\"games\":18,\"rating\":2637,\"rd\":131,\"prog\":-21,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":2424,\"rd\":84,\"prog\":56},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1638263121193,\"online\":true,\"profile\":{\"bio\":\"f20431aa672311ec84af3eb5ee26c102\"},\"seenAt\":1641656141165,\"playTime\":{\"total\":22832,\"tv\":1786},\"url\":\"https://lichess.org/@/HumanBot_1\",\"count\":{\"all\":101,\"rated\":37,\"ai\":52,\"draw\":15,\"drawH\":9,\"loss\":31,\"lossH\":7,\"win\":55,\"winH\":33,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "humanbot_1",
     "username": "HumanBot_1",
@@ -17,11 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 2362,
-        "rd": 142,
-        "prog": 0,
-        "prov": true
+        "games": 19,
+        "rating": 2424,
+        "rd": 84,
+        "prog": 56
       },
       "correspondence": {
         "games": 0,
@@ -51,22 +50,22 @@
     "profile": {
       "bio": "f20431aa672311ec84af3eb5ee26c102"
     },
-    "seenAt": 1641537113378,
+    "seenAt": 1641656141165,
     "playTime": {
-      "total": 18306,
-      "tv": 0
+      "total": 22832,
+      "tv": 1786
     },
     "url": "https://lichess.org/@/HumanBot_1",
     "count": {
-      "all": 77,
-      "rated": 25,
-      "ai": 40,
-      "draw": 11,
-      "drawH": 6,
-      "loss": 25,
-      "lossH": 5,
-      "win": 41,
-      "winH": 26,
+      "all": 101,
+      "rated": 37,
+      "ai": 52,
+      "draw": 15,
+      "drawH": 9,
+      "loss": 31,
+      "lossH": 7,
+      "win": 55,
+      "winH": 33,
       "bookmark": 2,
       "playing": 0,
       "import": 0,
