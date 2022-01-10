@@ -4,7 +4,7 @@
   "username": "Ardunot1000",
   "profileUrl": "https://lichess.org/@/Ardunot1000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ardunot1000\",\"username\":\"Ardunot1000\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1464,\"rd\":447,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1563,\"rd\":264,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640233892556,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/9KquqhC\\r\\n\\r\\n\\r\\nHello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @Ishan_Ghosh123. Please do not ping me on team join requests or follow request. I am still in progress so kindly challenge casual.\"},\"seenAt\":1640317009809,\"playTime\":{\"total\":1038,\"tv\":0},\"url\":\"https://lichess.org/@/Ardunot1000\",\"count\":{\"all\":11,\"rated\":3,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":4,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ardunot1000\",\"username\":\"Ardunot1000\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":5,\"rating\":2450,\"rd\":211,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1563,\"rd\":266,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640233892556,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://imgur.com/9KquqhC\\r\\n\\r\\n\\r\\nHello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @Ishan_Ghosh123. Please do not ping me on team join requests or follow request. I am still in progress so kindly challenge casual.\"},\"seenAt\":1641786163817,\"playTime\":{\"total\":1613,\"tv\":0},\"url\":\"https://lichess.org/@/Ardunot1000\",\"count\":{\"all\":16,\"rated\":7,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":5,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ardunot1000",
     "username": "Ardunot1000",
@@ -17,16 +17,16 @@
         "prov": true
       },
       "antichess": {
-        "games": 1,
-        "rating": 1464,
-        "rd": 447,
+        "games": 5,
+        "rating": 2450,
+        "rd": 211,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 2,
         "rating": 1563,
-        "rd": 264,
+        "rd": 266,
         "prog": 0,
         "prov": true
       },
@@ -59,22 +59,22 @@
       "country": "_lichess",
       "bio": "https://imgur.com/9KquqhC\r\n\r\n\r\nHello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @Ishan_Ghosh123. Please do not ping me on team join requests or follow request. I am still in progress so kindly challenge casual."
     },
-    "seenAt": 1640317009809,
+    "seenAt": 1641786163817,
     "playTime": {
-      "total": 1038,
+      "total": 1613,
       "tv": 0
     },
     "url": "https://lichess.org/@/Ardunot1000",
     "count": {
-      "all": 11,
-      "rated": 3,
+      "all": 16,
+      "rated": 7,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 6,
-      "lossH": 4,
-      "win": 5,
-      "winH": 5,
+      "loss": 7,
+      "lossH": 5,
+      "win": 9,
+      "winH": 9,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
