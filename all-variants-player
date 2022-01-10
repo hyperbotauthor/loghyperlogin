@@ -1,0 +1,106 @@
+{
+  "id": "all-variants-player",
+  "displayName": "All-Variants-Player",
+  "username": "All-Variants-Player",
+  "profileUrl": "https://lichess.org/@/All-Variants-Player",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"all-variants-player\",\"username\":\"All-Variants-Player\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1439,\"rd\":413,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":22,\"rating\":2173,\"rd\":86,\"prog\":-48},\"racingKings\":{\"games\":2,\"rating\":1465,\"rd\":451,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":16,\"rating\":2424,\"rd\":103,\"prog\":9},\"threeCheck\":{\"games\":1,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":88,\"rating\":2121,\"rd\":48,\"prog\":-16},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641461455185,\"online\":true,\"profile\":{\"bio\":\"I will play all variants and standard chess. And if you challenge me it will get automatically declined. So please send private message to me if you want to play so i will challenge you.\"},\"seenAt\":1641790195670,\"playTime\":{\"total\":13410,\"tv\":1962},\"url\":\"https://lichess.org/@/All-Variants-Player\",\"count\":{\"all\":145,\"rated\":131,\"ai\":1,\"draw\":11,\"drawH\":11,\"loss\":77,\"lossH\":76,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "all-variants-player",
+    "username": "All-Variants-Player",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1439,
+        "rd": 413,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 22,
+        "rating": 2173,
+        "rd": 86,
+        "prog": -48
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1465,
+        "rd": 451,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 16,
+        "rating": 2424,
+        "rd": 103,
+        "prog": 9
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1496,
+        "rd": 495,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 88,
+        "rating": 2121,
+        "rd": 48,
+        "prog": -16
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641461455185,
+    "online": true,
+    "profile": {
+      "bio": "I will play all variants and standard chess. And if you challenge me it will get automatically declined. So please send private message to me if you want to play so i will challenge you."
+    },
+    "seenAt": 1641790195670,
+    "playTime": {
+      "total": 13410,
+      "tv": 1962
+    },
+    "url": "https://lichess.org/@/All-Variants-Player",
+    "count": {
+      "all": 145,
+      "rated": 131,
+      "ai": 1,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 77,
+      "lossH": 76,
+      "win": 57,
+      "winH": 57,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
