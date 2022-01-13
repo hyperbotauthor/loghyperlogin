@@ -4,22 +4,21 @@
   "username": "Critez-342",
   "profileUrl": "https://lichess.org/@/Critez-342",
   "provider": "lichess",
-  "_raw": "{\"id\":\"critez-342\",\"username\":\"Critez-342\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2258,\"rd\":119,\"prog\":65,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2613,\"rd\":353,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640715570612,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"111101110011111000001101010100011100 @Critez :)\",\"firstName\":\"Critez\",\"lastName\":\"BOT 342\",\"fideRating\":2100},\"seenAt\":1641980053026,\"playTime\":{\"total\":4606,\"tv\":0},\"url\":\"https://lichess.org/@/Critez-342\",\"playing\":\"https://lichess.org/wM8wDMpy/black\",\"count\":{\"all\":18,\"rated\":18,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"critez-342\",\"username\":\"Critez-342\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2235,\"rd\":108,\"prog\":42},\"bullet\":{\"games\":7,\"rating\":2131,\"rd\":154,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2388,\"rd\":247,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640715570612,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"111101110011111000001101010100011100 @Critez :)\\r\\nMy channel - EnzoCatMax\\r\\nSubscribe :)\",\"firstName\":\"Critez\",\"lastName\":\"BOT 342\",\"fideRating\":2100},\"seenAt\":1642063484822,\"playTime\":{\"total\":7104,\"tv\":0},\"url\":\"https://lichess.org/@/Critez-342\",\"count\":{\"all\":30,\"rated\":30,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":22,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "critez-342",
     "username": "Critez-342",
     "perfs": {
       "blitz": {
-        "games": 16,
-        "rating": 2258,
-        "rd": 119,
-        "prog": 65,
-        "prov": true
+        "games": 19,
+        "rating": 2235,
+        "rd": 108,
+        "prog": 42
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 7,
+        "rating": 2131,
+        "rd": 154,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +37,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2613,
-        "rd": 353,
+        "games": 3,
+        "rating": 2388,
+        "rd": 247,
         "prog": 0,
         "prov": true
       }
@@ -50,30 +49,29 @@
     "online": true,
     "profile": {
       "country": "_lichess",
-      "bio": "111101110011111000001101010100011100 @Critez :)",
+      "bio": "111101110011111000001101010100011100 @Critez :)\r\nMy channel - EnzoCatMax\r\nSubscribe :)",
       "firstName": "Critez",
       "lastName": "BOT 342",
       "fideRating": 2100
     },
-    "seenAt": 1641980053026,
+    "seenAt": 1642063484822,
     "playTime": {
-      "total": 4606,
+      "total": 7104,
       "tv": 0
     },
     "url": "https://lichess.org/@/Critez-342",
-    "playing": "https://lichess.org/wM8wDMpy/black",
     "count": {
-      "all": 18,
-      "rated": 18,
+      "all": 30,
+      "rated": 30,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 15,
-      "winH": 15,
+      "loss": 8,
+      "lossH": 8,
+      "win": 22,
+      "winH": 22,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
