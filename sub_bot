@@ -4,37 +4,36 @@
   "username": "Sub_Bot",
   "profileUrl": "https://lichess.org/@/Sub_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":180,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":275,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2195,\"rd\":185,\"prog\":17,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":371,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":398,\"prog\":0,\"prov\":true}},\"createdAt\":1610035612982,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"Hi. Hope you had and will have a good day.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1631883473167,\"playTime\":{\"total\":11532,\"tv\":2755},\"title\":\"BOT\",\"url\":\"https://lichess.org/@/Sub_Bot\",\"nbFollowing\":9,\"nbFollowers\":4,\"count\":{\"all\":44,\"rated\":27,\"ai\":11,\"draw\":7,\"drawH\":5,\"loss\":13,\"lossH\":6,\"win\":24,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":197,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2195,\"rd\":202,\"prog\":17,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":406,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1610035612982,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"Hi. Hope you had and will have a good day.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1642275856490,\"playTime\":{\"total\":11949,\"tv\":2755},\"url\":\"https://lichess.org/@/Sub_Bot\",\"count\":{\"all\":47,\"rated\":27,\"ai\":14,\"draw\":7,\"drawH\":5,\"loss\":16,\"lossH\":6,\"win\":24,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sub_bot",
     "username": "Sub_Bot",
-    "online": true,
     "perfs": {
       "blitz": {
         "games": 10,
         "rating": 2220,
-        "rd": 180,
+        "rd": 197,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1974,
-        "rd": 275,
+        "rd": 287,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 12,
         "rating": 2195,
-        "rd": 185,
+        "rd": 202,
         "prog": 17,
         "prov": true
       },
       "correspondence": {
         "games": 2,
         "rating": 1808,
-        "rd": 371,
+        "rd": 380,
         "prog": 0,
         "prov": true
       },
@@ -48,12 +47,14 @@
       "rapid": {
         "games": 1,
         "rating": 1522,
-        "rd": 398,
+        "rd": 406,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1610035612982,
+    "online": true,
     "profile": {
       "country": "_lichess",
       "location": "I am on lichess.org",
@@ -62,22 +63,19 @@
       "lastName": "Made by Suban1",
       "links": "lichess.org"
     },
-    "seenAt": 1631883473167,
+    "seenAt": 1642275856490,
     "playTime": {
-      "total": 11532,
+      "total": 11949,
       "tv": 2755
     },
-    "title": "BOT",
     "url": "https://lichess.org/@/Sub_Bot",
-    "nbFollowing": 9,
-    "nbFollowers": 4,
     "count": {
-      "all": 44,
+      "all": 47,
       "rated": 27,
-      "ai": 11,
+      "ai": 14,
       "draw": 7,
       "drawH": 5,
-      "loss": 13,
+      "loss": 16,
       "lossH": 6,
       "win": 24,
       "winH": 22,
