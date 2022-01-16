@@ -4,7 +4,7 @@
   "username": "NotLunarXD",
   "profileUrl": "https://lichess.org/@/NotLunarXD",
   "provider": "lichess",
-  "_raw": "{\"id\":\"notlunarxd\",\"username\":\"NotLunarXD\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2354,\"rd\":103,\"prog\":39},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2377,\"rd\":178,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641960648918,\"online\":true,\"profile\":{\"country\":\"CA\",\"location\":\"Twitch.tv/ttvnotlunar\",\"bio\":\"Progress: Working \\r\\nBot made by @NotLunar\\r\\nChallenge me to Bullet, Blitz, Rapid, and Classical\",\"firstName\":\"NotLunarXD\",\"links\":\"twitch.tv/ttvnotlunar\"},\"seenAt\":1642127450036,\"playTime\":{\"total\":11614,\"tv\":0},\"url\":\"https://lichess.org/@/NotLunarXD\",\"count\":{\"all\":33,\"rated\":26,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":13,\"lossH\":10,\"win\":15,\"winH\":13,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"notlunarxd\",\"username\":\"NotLunarXD\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2354,\"rd\":104,\"prog\":39},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2377,\"rd\":178,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641960648918,\"online\":true,\"profile\":{\"country\":\"CA\",\"location\":\"Twitch.tv/ttvnotlunar\",\"bio\":\"Progress: Working \\r\\nBot made by @NotLunar\\r\\nChallenge me to Bullet, Blitz, Rapid, and Classical\",\"firstName\":\"NotLunarXD\",\"links\":\"twitch.tv/ttvnotlunar\"},\"seenAt\":1642373501512,\"playTime\":{\"total\":11614,\"tv\":0},\"url\":\"https://lichess.org/@/NotLunarXD\",\"count\":{\"all\":33,\"rated\":26,\"ai\":5,\"draw\":5,\"drawH\":5,\"loss\":13,\"lossH\":10,\"win\":15,\"winH\":13,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "notlunarxd",
     "username": "NotLunarXD",
@@ -12,7 +12,7 @@
       "blitz": {
         "games": 16,
         "rating": 2354,
-        "rd": 103,
+        "rd": 104,
         "prog": 39
       },
       "bullet": {
@@ -54,7 +54,7 @@
       "firstName": "NotLunarXD",
       "links": "twitch.tv/ttvnotlunar"
     },
-    "seenAt": 1642127450036,
+    "seenAt": 1642373501512,
     "playTime": {
       "total": 11614,
       "tv": 0
