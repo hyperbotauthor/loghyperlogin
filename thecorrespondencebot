@@ -4,16 +4,36 @@
   "username": "TheCorrespondenceBot",
   "profileUrl": "https://lichess.org/@/TheCorrespondenceBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thecorrespondencebot\",\"username\":\"TheCorrespondenceBot\",\"online\":true,\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1606581311859,\"profile\":{\"bio\":\"I play correspondence games in all variants, rated and casual\"},\"seenAt\":1606581553999,\"playTime\":{\"total\":0,\"tv\":0},\"language\":\"en-GB\",\"url\":\"https://lichess.org/@/TheCorrespondenceBot\",\"nbFollowing\":0,\"nbFollowers\":0,\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thecorrespondencebot\",\"username\":\"TheCorrespondenceBot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1579,\"rd\":418,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1769,\"rd\":277,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1575,\"rd\":417,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":2267,\"rd\":354,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2129,\"rd\":495,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2138,\"rd\":205,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1606581311859,\"online\":true,\"profile\":{\"bio\":\"I play correspondence games and slow real time games ( minimum initial time 10 minutes ) in all variants, rated and casual, human and bot, coded by @hyperchessbotauthor\"},\"seenAt\":1642450855196,\"playTime\":{\"total\":21831,\"tv\":1051},\"url\":\"https://lichess.org/@/TheCorrespondenceBot\",\"count\":{\"all\":52,\"rated\":16,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":0,\"lossH\":0,\"win\":47,\"winH\":47,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thecorrespondencebot",
     "username": "TheCorrespondenceBot",
-    "online": true,
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1579,
+        "rd": 418,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 0,
         "rating": 1500,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 1769,
+        "rd": 277,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1575,
+        "rd": 417,
         "prog": 0,
         "prov": true
       },
@@ -25,50 +45,49 @@
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2267,
+        "rd": 354,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2129,
+        "rd": 495,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 2138,
+        "rd": 205,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1606581311859,
+    "online": true,
     "profile": {
-      "bio": "I play correspondence games in all variants, rated and casual"
+      "bio": "I play correspondence games and slow real time games ( minimum initial time 10 minutes ) in all variants, rated and casual, human and bot, coded by @hyperchessbotauthor"
     },
-    "seenAt": 1606581553999,
+    "seenAt": 1642450855196,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 21831,
+      "tv": 1051
     },
-    "language": "en-GB",
     "url": "https://lichess.org/@/TheCorrespondenceBot",
-    "nbFollowing": 0,
-    "nbFollowers": 0,
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 52,
+      "rated": 16,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
+      "draw": 5,
+      "drawH": 5,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 47,
+      "winH": 47,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
