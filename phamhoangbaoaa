@@ -1,0 +1,77 @@
+{
+  "id": "phamhoangbaoaa",
+  "displayName": "phamhoangbaoaa",
+  "username": "phamhoangbaoaa",
+  "profileUrl": "https://lichess.org/@/phamhoangbaoaa",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"phamhoangbaoaa\",\"username\":\"phamhoangbaoaa\",\"perfs\":{\"blitz\":{\"games\":40,\"rating\":1972,\"rd\":60,\"prog\":-107},\"bullet\":{\"games\":133,\"rating\":2150,\"rd\":45,\"prog\":-28},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1921,\"rd\":386,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1664,\"rd\":297,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641895070108,\"online\":true,\"seenAt\":1642561890183,\"playTime\":{\"total\":85488,\"tv\":5093},\"url\":\"https://lichess.org/@/phamhoangbaoaa\",\"playing\":\"https://lichess.org/I2fxBag8/black\",\"count\":{\"all\":369,\"rated\":178,\"ai\":148,\"draw\":22,\"drawH\":14,\"loss\":168,\"lossH\":81,\"win\":179,\"winH\":126,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "phamhoangbaoaa",
+    "username": "phamhoangbaoaa",
+    "perfs": {
+      "blitz": {
+        "games": 40,
+        "rating": 1972,
+        "rd": 60,
+        "prog": -107
+      },
+      "bullet": {
+        "games": 133,
+        "rating": 2150,
+        "rd": 45,
+        "prog": -28
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1921,
+        "rd": 386,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1664,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641895070108,
+    "online": true,
+    "seenAt": 1642561890183,
+    "playTime": {
+      "total": 85488,
+      "tv": 5093
+    },
+    "url": "https://lichess.org/@/phamhoangbaoaa",
+    "playing": "https://lichess.org/I2fxBag8/black",
+    "count": {
+      "all": 369,
+      "rated": 178,
+      "ai": 148,
+      "draw": 22,
+      "drawH": 14,
+      "loss": 168,
+      "lossH": 81,
+      "win": 179,
+      "winH": 126,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
