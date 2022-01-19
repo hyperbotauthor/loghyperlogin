@@ -1,0 +1,78 @@
+{
+  "id": "the_chess_fan",
+  "displayName": "The_Chess_Fan",
+  "username": "The_Chess_Fan",
+  "profileUrl": "https://lichess.org/@/The_Chess_Fan",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"the_chess_fan\",\"username\":\"The_Chess_Fan\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642570170081,\"online\":true,\"seenAt\":1642574202412,\"playTime\":{\"total\":132,\"tv\":0},\"url\":\"https://lichess.org/@/The_Chess_Fan\",\"count\":{\"all\":4,\"rated\":0,\"ai\":4,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "the_chess_fan",
+    "username": "The_Chess_Fan",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642570170081,
+    "online": true,
+    "seenAt": 1642574202412,
+    "playTime": {
+      "total": 132,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/The_Chess_Fan",
+    "count": {
+      "all": 4,
+      "rated": 0,
+      "ai": 4,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
