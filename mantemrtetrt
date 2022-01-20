@@ -1,0 +1,78 @@
+{
+  "id": "mantemrtetrt",
+  "displayName": "mantemrtetrt",
+  "username": "mantemrtetrt",
+  "profileUrl": "https://lichess.org/@/mantemrtetrt",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"mantemrtetrt\",\"username\":\"mantemrtetrt\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1842,\"rd\":166,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2030,\"rd\":129,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1642704062918,\"online\":true,\"seenAt\":1642711238134,\"playTime\":{\"total\":1663,\"tv\":0},\"url\":\"https://lichess.org/@/mantemrtetrt\",\"playing\":\"https://lichess.org/Kd9UCthz/black\",\"count\":{\"all\":11,\"rated\":11,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":8,\"winH\":8,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "mantemrtetrt",
+    "username": "mantemrtetrt",
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1842,
+        "rd": 166,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 2030,
+        "rd": 129,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1642704062918,
+    "online": true,
+    "seenAt": 1642711238134,
+    "playTime": {
+      "total": 1663,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/mantemrtetrt",
+    "playing": "https://lichess.org/Kd9UCthz/black",
+    "count": {
+      "all": 11,
+      "rated": 11,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 8,
+      "winH": 8,
+      "bookmark": 1,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
