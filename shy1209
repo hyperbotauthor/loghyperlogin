@@ -1,0 +1,143 @@
+{
+  "id": "shy1209",
+  "displayName": "Shy1209",
+  "username": "Shy1209",
+  "profileUrl": "https://lichess.org/@/Shy1209",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"shy1209\",\"username\":\"Shy1209\",\"perfs\":{\"chess960\":{\"games\":9,\"rating\":1216,\"rd\":167,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":73,\"rating\":1489,\"rd\":52,\"prog\":-2},\"atomic\":{\"games\":81,\"rating\":1241,\"rd\":51,\"prog\":-37},\"racingKings\":{\"games\":21,\"rating\":1598,\"rd\":98,\"prog\":116},\"ultraBullet\":{\"games\":1483,\"rating\":1506,\"rd\":45,\"prog\":-20},\"blitz\":{\"games\":277,\"rating\":1469,\"rd\":45,\"prog\":25},\"kingOfTheHill\":{\"games\":22,\"rating\":1497,\"rd\":112,\"prog\":-56,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1342,\"rd\":138,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":22,\"rating\":1338,\"rd\":97,\"prog\":39},\"bullet\":{\"games\":635,\"rating\":1726,\"rd\":45,\"prog\":-2},\"correspondence\":{\"games\":1,\"rating\":1500,\"rd\":396,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1771,\"rd\":194,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":255,\"rating\":1325,\"rd\":75,\"prog\":0},\"classical\":{\"games\":15,\"rating\":1133,\"rd\":125,\"prog\":-42,\"prov\":true},\"rapid\":{\"games\":68,\"rating\":1279,\"rd\":53,\"prog\":-36},\"racer\":{\"runs\":3,\"score\":30}},\"createdAt\":1640517715566,\"online\":true,\"seenAt\":1642664290808,\"playTime\":{\"total\":204063,\"tv\":711},\"url\":\"https://lichess.org/@/Shy1209\",\"completionRate\":87,\"count\":{\"all\":2839,\"rated\":2740,\"ai\":23,\"draw\":52,\"drawH\":51,\"loss\":1418,\"lossH\":1399,\"win\":1369,\"winH\":1366,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "shy1209",
+    "username": "Shy1209",
+    "perfs": {
+      "chess960": {
+        "games": 9,
+        "rating": 1216,
+        "rd": 167,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 73,
+        "rating": 1489,
+        "rd": 52,
+        "prog": -2
+      },
+      "atomic": {
+        "games": 81,
+        "rating": 1241,
+        "rd": 51,
+        "prog": -37
+      },
+      "racingKings": {
+        "games": 21,
+        "rating": 1598,
+        "rd": 98,
+        "prog": 116
+      },
+      "ultraBullet": {
+        "games": 1483,
+        "rating": 1506,
+        "rd": 45,
+        "prog": -20
+      },
+      "blitz": {
+        "games": 277,
+        "rating": 1469,
+        "rd": 45,
+        "prog": 25
+      },
+      "kingOfTheHill": {
+        "games": 22,
+        "rating": 1497,
+        "rd": 112,
+        "prog": -56,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 8,
+        "rating": 1342,
+        "rd": 138,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 22,
+        "rating": 1338,
+        "rd": 97,
+        "prog": 39
+      },
+      "bullet": {
+        "games": 635,
+        "rating": 1726,
+        "rd": 45,
+        "prog": -2
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1500,
+        "rd": 396,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 4,
+        "rating": 1771,
+        "rd": 194,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 255,
+        "rating": 1325,
+        "rd": 75,
+        "prog": 0
+      },
+      "classical": {
+        "games": 15,
+        "rating": 1133,
+        "rd": 125,
+        "prog": -42,
+        "prov": true
+      },
+      "rapid": {
+        "games": 68,
+        "rating": 1279,
+        "rd": 53,
+        "prog": -36
+      },
+      "racer": {
+        "runs": 3,
+        "score": 30
+      }
+    },
+    "createdAt": 1640517715566,
+    "online": true,
+    "seenAt": 1642664290808,
+    "playTime": {
+      "total": 204063,
+      "tv": 711
+    },
+    "url": "https://lichess.org/@/Shy1209",
+    "completionRate": 87,
+    "count": {
+      "all": 2839,
+      "rated": 2740,
+      "ai": 23,
+      "draw": 52,
+      "drawH": 51,
+      "loss": 1418,
+      "lossH": 1399,
+      "win": 1369,
+      "winH": 1366,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
