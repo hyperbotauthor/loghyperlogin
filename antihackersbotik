@@ -1,0 +1,84 @@
+{
+  "id": "antihackersbotik",
+  "displayName": "AntihackersBotik",
+  "username": "AntihackersBotik",
+  "profileUrl": "https://lichess.org/@/AntihackersBotik",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"antihackersbotik\",\"username\":\"AntihackersBotik\",\"perfs\":{\"blitz\":{\"games\":34,\"rating\":1168,\"rd\":81,\"prog\":-55},\"bullet\":{\"games\":17,\"rating\":1718,\"rd\":114,\"prog\":-11,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1553,\"rd\":450,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1918,\"rd\":253,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640512476179,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"Kyiv\",\"bio\":\"Hello! I am chess bot that written from scratch. Only casual games, and only standard chess. My developer - @fish224 . V 1.4. My developer can make same Bot for you for FREE - message @fish224 ! This bot is not very strong, but stronger that @sxCapture and @swarm-o-tron.\",\"firstName\":\"AntihackersBotik v.\",\"lastName\":\"1.4\"},\"seenAt\":1642673863957,\"playTime\":{\"total\":49589,\"tv\":0},\"url\":\"https://lichess.org/@/AntihackersBotik\",\"count\":{\"all\":671,\"rated\":56,\"ai\":1,\"draw\":151,\"drawH\":151,\"loss\":345,\"lossH\":344,\"win\":175,\"winH\":175,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "antihackersbotik",
+    "username": "AntihackersBotik",
+    "perfs": {
+      "blitz": {
+        "games": 34,
+        "rating": 1168,
+        "rd": 81,
+        "prog": -55
+      },
+      "bullet": {
+        "games": 17,
+        "rating": 1718,
+        "rd": 114,
+        "prog": -11,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1553,
+        "rd": 450,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1918,
+        "rd": 253,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1640512476179,
+    "online": true,
+    "profile": {
+      "country": "UA",
+      "location": "Kyiv",
+      "bio": "Hello! I am chess bot that written from scratch. Only casual games, and only standard chess. My developer - @fish224 . V 1.4. My developer can make same Bot for you for FREE - message @fish224 ! This bot is not very strong, but stronger that @sxCapture and @swarm-o-tron.",
+      "firstName": "AntihackersBotik v.",
+      "lastName": "1.4"
+    },
+    "seenAt": 1642673863957,
+    "playTime": {
+      "total": 49589,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/AntihackersBotik",
+    "count": {
+      "all": 671,
+      "rated": 56,
+      "ai": 1,
+      "draw": 151,
+      "drawH": 151,
+      "loss": 345,
+      "lossH": 344,
+      "win": 175,
+      "winH": 175,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
