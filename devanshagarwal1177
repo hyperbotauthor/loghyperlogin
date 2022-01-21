@@ -4,7 +4,7 @@
   "username": "DevanshAgarwal1177",
   "profileUrl": "https://lichess.org/@/DevanshAgarwal1177",
   "provider": "lichess",
-  "_raw": "{\"id\":\"devanshagarwal1177\",\"username\":\"DevanshAgarwal1177\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2015,\"rd\":479,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1619111283482,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"Earth\",\"bio\":\"I am Devansh Agarwal. Study in IVWS.\",\"firstName\":\"Devansh\",\"lastName\":\"Agarwal\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1642644170210,\"playTime\":{\"total\":939,\"tv\":0},\"url\":\"https://lichess.org/@/DevanshAgarwal1177\",\"playing\":\"https://lichess.org/1vjXm5at/white\",\"count\":{\"all\":6,\"rated\":1,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":0,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"devanshagarwal1177\",\"username\":\"DevanshAgarwal1177\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2015,\"rd\":479,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1891,\"rd\":319,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1969,\"rd\":463,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1619111283482,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"Earth\",\"bio\":\"I am Devansh Agarwal. Study in IVWS.\",\"firstName\":\"Devansh\",\"lastName\":\"Agarwal\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1642731382759,\"playTime\":{\"total\":5108,\"tv\":0},\"url\":\"https://lichess.org/@/DevanshAgarwal1177\",\"count\":{\"all\":13,\"rated\":5,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":3,\"win\":7,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "devanshagarwal1177",
     "username": "DevanshAgarwal1177",
@@ -13,6 +13,13 @@
         "games": 1,
         "rating": 2015,
         "rd": 479,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 1891,
+        "rd": 319,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +45,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1969,
+        "rd": 463,
         "prog": 0,
         "prov": true
       }
@@ -61,25 +68,24 @@
       "cfcRating": 3000,
       "dsbRating": 3000
     },
-    "seenAt": 1642644170210,
+    "seenAt": 1642731382759,
     "playTime": {
-      "total": 939,
+      "total": 5108,
       "tv": 0
     },
     "url": "https://lichess.org/@/DevanshAgarwal1177",
-    "playing": "https://lichess.org/1vjXm5at/white",
     "count": {
-      "all": 6,
-      "rated": 1,
+      "all": 13,
+      "rated": 5,
       "ai": 3,
       "draw": 1,
       "drawH": 1,
-      "loss": 2,
-      "lossH": 0,
-      "win": 3,
-      "winH": 2,
+      "loss": 5,
+      "lossH": 3,
+      "win": 7,
+      "winH": 6,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
