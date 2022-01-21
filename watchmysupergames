@@ -4,24 +4,29 @@
   "username": "WatchMySuperGames",
   "profileUrl": "https://lichess.org/@/WatchMySuperGames",
   "provider": "lichess",
-  "_raw": "{\"id\":\"watchmysupergames\",\"username\":\"WatchMySuperGames\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393431922,\"online\":true,\"seenAt\":1642401161372,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/WatchMySuperGames\",\"playing\":\"https://lichess.org/oQwmn3UX/white\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"watchmysupergames\",\"username\":\"WatchMySuperGames\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2197,\"rd\":101,\"prog\":-48},\"atomic\":{\"games\":8,\"rating\":1160,\"rd\":237,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":50,\"rating\":1865,\"rd\":58,\"prog\":-40},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393431922,\"online\":true,\"seenAt\":1642774250361,\"playTime\":{\"total\":20181,\"tv\":101},\"url\":\"https://lichess.org/@/WatchMySuperGames\",\"playing\":\"https://lichess.org/j5tlLoSS/black\",\"count\":{\"all\":79,\"rated\":78,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":49,\"lossH\":49,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "watchmysupergames",
     "username": "WatchMySuperGames",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 19,
+        "rating": 2197,
+        "rd": 101,
+        "prog": -48
+      },
+      "atomic": {
+        "games": 8,
+        "rating": 1160,
+        "rd": 237,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 50,
+        "rating": 1865,
+        "rd": 58,
+        "prog": -40
       },
       "correspondence": {
         "games": 0,
@@ -48,23 +53,23 @@
     "title": "BOT",
     "createdAt": 1642393431922,
     "online": true,
-    "seenAt": 1642401161372,
+    "seenAt": 1642774250361,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 20181,
+      "tv": 101
     },
     "url": "https://lichess.org/@/WatchMySuperGames",
-    "playing": "https://lichess.org/oQwmn3UX/white",
+    "playing": "https://lichess.org/j5tlLoSS/black",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 79,
+      "rated": 78,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 49,
+      "lossH": 49,
+      "win": 26,
+      "winH": 26,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
