@@ -1,13 +1,13 @@
 {
   "id": "maxultratang",
-  "displayName": "maxultratang",
-  "username": "maxultratang",
-  "profileUrl": "https://lichess.org/@/maxultratang",
+  "displayName": "MaxUltraTang",
+  "username": "MaxUltraTang",
+  "profileUrl": "https://lichess.org/@/MaxUltraTang",
   "provider": "lichess",
-  "_raw": "{\"id\":\"maxultratang\",\"username\":\"maxultratang\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642861260283,\"online\":true,\"seenAt\":1642863374614,\"playTime\":{\"total\":51,\"tv\":0},\"url\":\"https://lichess.org/@/maxultratang\",\"playing\":\"https://lichess.org/gHuVoA3v/white\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"maxultratang\",\"username\":\"MaxUltraTang\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2682,\"rd\":124,\"prog\":1,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642861260283,\"online\":true,\"seenAt\":1642864588021,\"playTime\":{\"total\":745,\"tv\":0},\"url\":\"https://lichess.org/@/MaxUltraTang\",\"count\":{\"all\":27,\"rated\":24,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":2,\"lossH\":2,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "maxultratang",
-    "username": "maxultratang",
+    "username": "MaxUltraTang",
     "perfs": {
       "blitz": {
         "games": 0,
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
+        "games": 23,
+        "rating": 2682,
+        "rd": 124,
+        "prog": 1,
         "prov": true
       },
       "correspondence": {
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1642861260283,
     "online": true,
-    "seenAt": 1642863374614,
+    "seenAt": 1642864588021,
     "playTime": {
-      "total": 51,
+      "total": 745,
       "tv": 0
     },
-    "url": "https://lichess.org/@/maxultratang",
-    "playing": "https://lichess.org/gHuVoA3v/white",
+    "url": "https://lichess.org/@/MaxUltraTang",
     "count": {
-      "all": 1,
-      "rated": 0,
+      "all": 27,
+      "rated": 24,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 1,
-      "winH": 1,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 2,
+      "lossH": 2,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
