@@ -1,27 +1,38 @@
 {
   "id": "leadermygames",
-  "displayName": "LeaderMyGames",
-  "username": "LeaderMyGames",
-  "profileUrl": "https://lichess.org/@/LeaderMyGames",
+  "displayName": "LeAdErMyGaMeS",
+  "username": "LeAdErMyGaMeS",
+  "profileUrl": "https://lichess.org/@/LeAdErMyGaMeS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeaderMyGames\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1691,\"rd\":353,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1827,\"rd\":216,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"seenAt\":1642511478687,\"playTime\":{\"total\":12507,\"tv\":0},\"url\":\"https://lichess.org/@/LeaderMyGames\",\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeAdErMyGaMeS\",\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2527,\"rd\":105,\"prog\":82},\"horde\":{\"games\":22,\"rating\":1508,\"rd\":158,\"prog\":235,\"prov\":true},\"atomic\":{\"games\":30,\"rating\":2017,\"rd\":98,\"prog\":86},\"bullet\":{\"games\":58,\"rating\":2114,\"rd\":51,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":341,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2511,\"rd\":143,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"profile\":{\"bio\":\"Hello! I'm a bot. My creator is . I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.\",\"firstName\":\"BOT  LeAdErMyGaMeS\",\"fideRating\":2599,\"links\":\"https://lichess.org/@/LeAdErMyGaMeS\"},\"seenAt\":1642833511966,\"playTime\":{\"total\":84851,\"tv\":2040},\"url\":\"https://lichess.org/@/LeAdErMyGaMeS\",\"playing\":\"https://lichess.org/7IF26Uva/white\",\"count\":{\"all\":349,\"rated\":149,\"ai\":184,\"draw\":11,\"drawH\":9,\"loss\":107,\"lossH\":55,\"win\":231,\"winH\":101,\"bookmark\":20,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "leadermygames",
-    "username": "LeaderMyGames",
+    "username": "LeAdErMyGaMeS",
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1691,
-        "rd": 353,
-        "prog": 0,
+        "games": 27,
+        "rating": 2527,
+        "rd": 105,
+        "prog": 82
+      },
+      "horde": {
+        "games": 22,
+        "rating": 1508,
+        "rd": 158,
+        "prog": 235,
         "prov": true
       },
+      "atomic": {
+        "games": 30,
+        "rating": 2017,
+        "rd": 98,
+        "prog": 86
+      },
       "bullet": {
-        "games": 3,
-        "rating": 1827,
-        "rd": 216,
-        "prog": 0,
-        "prov": true
+        "games": 58,
+        "rating": 2114,
+        "rd": 51,
+        "prog": -3
       },
       "correspondence": {
         "games": 0,
@@ -31,16 +42,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2221,
+        "rd": 341,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 7,
+        "rating": 2511,
+        "rd": 143,
         "prog": 0,
         "prov": true
       }
@@ -48,28 +59,35 @@
     "title": "BOT",
     "createdAt": 1642393433495,
     "online": true,
-    "seenAt": 1642511478687,
-    "playTime": {
-      "total": 12507,
-      "tv": 0
+    "profile": {
+      "bio": "Hello! I'm a bot. My creator is . I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.",
+      "firstName": "BOT  LeAdErMyGaMeS",
+      "fideRating": 2599,
+      "links": "https://lichess.org/@/LeAdErMyGaMeS"
     },
-    "url": "https://lichess.org/@/LeaderMyGames",
+    "seenAt": 1642833511966,
+    "playTime": {
+      "total": 84851,
+      "tv": 2040
+    },
+    "url": "https://lichess.org/@/LeAdErMyGaMeS",
+    "playing": "https://lichess.org/7IF26Uva/white",
     "count": {
-      "all": 5,
-      "rated": 5,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
-      "win": 1,
-      "winH": 1,
-      "bookmark": 0,
-      "playing": 0,
+      "all": 349,
+      "rated": 149,
+      "ai": 184,
+      "draw": 11,
+      "drawH": 9,
+      "loss": 107,
+      "lossH": 55,
+      "win": 231,
+      "winH": 101,
+      "bookmark": 20,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
-    "followable": false,
+    "followable": true,
     "following": false,
     "blocking": false,
     "followsYou": false
