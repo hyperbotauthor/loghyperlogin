@@ -1,0 +1,81 @@
+{
+  "id": "panfressco",
+  "displayName": "Panfressco",
+  "username": "Panfressco",
+  "profileUrl": "https://lichess.org/@/Panfressco",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"panfressco\",\"username\":\"Panfressco\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2304,\"rd\":294,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2116,\"rd\":183,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2458,\"rd\":265,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640998766376,\"online\":true,\"profile\":{\"bio\":\"Este bot es primo de Raer\\r\\nPanchesscogod: https://discord.gg/7kpTRtp\"},\"seenAt\":1642813820746,\"playTime\":{\"total\":8676,\"tv\":0},\"url\":\"https://lichess.org/@/Panfressco\",\"count\":{\"all\":43,\"rated\":7,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":37,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "panfressco",
+    "username": "Panfressco",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2304,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 2116,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2458,
+        "rd": 265,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1640998766376,
+    "online": true,
+    "profile": {
+      "bio": "Este bot es primo de Raer\r\nPanchesscogod: https://discord.gg/7kpTRtp"
+    },
+    "seenAt": 1642813820746,
+    "playTime": {
+      "total": 8676,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Panfressco",
+    "count": {
+      "all": 43,
+      "rated": 7,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 5,
+      "win": 37,
+      "winH": 37,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
