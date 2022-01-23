@@ -1,0 +1,109 @@
+{
+  "id": "peacockmantisshrimp",
+  "displayName": "peacockmantisshrimp",
+  "username": "peacockmantisshrimp",
+  "profileUrl": "https://lichess.org/@/peacockmantisshrimp",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"peacockmantisshrimp\",\"username\":\"peacockmantisshrimp\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":947,\"rd\":361,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":261,\"rating\":1980,\"rd\":116,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":153,\"rating\":1447,\"rd\":76,\"prog\":103},\"threeCheck\":{\"games\":2,\"rating\":1691,\"rd\":343,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1430,\"rd\":234,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1743,\"rd\":397,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":22,\"rating\":1703,\"rd\":110,\"prog\":152,\"prov\":true},\"racer\":{\"runs\":3,\"score\":30},\"streak\":{\"runs\":4,\"score\":9}},\"createdAt\":1612735744595,\"online\":true,\"profile\":{\"country\":\"NZ\"},\"seenAt\":1642902617643,\"playTime\":{\"total\":71286,\"tv\":0},\"url\":\"https://lichess.org/@/peacockmantisshrimp\",\"completionRate\":93,\"count\":{\"all\":259,\"rated\":188,\"ai\":41,\"draw\":9,\"drawH\":8,\"loss\":161,\"lossH\":137,\"win\":89,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":9,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "peacockmantisshrimp",
+    "username": "peacockmantisshrimp",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 947,
+        "rd": 361,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 261,
+        "rating": 1980,
+        "rd": 116,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 153,
+        "rating": 1447,
+        "rd": 76,
+        "prog": 103
+      },
+      "threeCheck": {
+        "games": 2,
+        "rating": 1691,
+        "rd": 343,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1430,
+        "rd": 234,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1743,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 22,
+        "rating": 1703,
+        "rd": 110,
+        "prog": 152,
+        "prov": true
+      },
+      "racer": {
+        "runs": 3,
+        "score": 30
+      },
+      "streak": {
+        "runs": 4,
+        "score": 9
+      }
+    },
+    "createdAt": 1612735744595,
+    "online": true,
+    "profile": {
+      "country": "NZ"
+    },
+    "seenAt": 1642902617643,
+    "playTime": {
+      "total": 71286,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/peacockmantisshrimp",
+    "completionRate": 93,
+    "count": {
+      "all": 259,
+      "rated": 188,
+      "ai": 41,
+      "draw": 9,
+      "drawH": 8,
+      "loss": 161,
+      "lossH": 137,
+      "win": 89,
+      "winH": 73,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 9,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
