@@ -1,0 +1,77 @@
+{
+  "id": "midnight0lunatic",
+  "displayName": "Midnight0Lunatic",
+  "username": "Midnight0Lunatic",
+  "profileUrl": "https://lichess.org/@/Midnight0Lunatic",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"midnight0lunatic\",\"username\":\"Midnight0Lunatic\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":77,\"rating\":2563,\"rd\":45,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642863428597,\"online\":true,\"seenAt\":1643103200302,\"playTime\":{\"total\":19077,\"tv\":7725},\"url\":\"https://lichess.org/@/Midnight0Lunatic\",\"count\":{\"all\":90,\"rated\":88,\"ai\":2,\"draw\":56,\"drawH\":56,\"loss\":14,\"lossH\":12,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "midnight0lunatic",
+    "username": "Midnight0Lunatic",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 77,
+        "rating": 2563,
+        "rd": 45,
+        "prog": 9
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642863428597,
+    "online": true,
+    "seenAt": 1643103200302,
+    "playTime": {
+      "total": 19077,
+      "tv": 7725
+    },
+    "url": "https://lichess.org/@/Midnight0Lunatic",
+    "count": {
+      "all": 90,
+      "rated": 88,
+      "ai": 2,
+      "draw": 56,
+      "drawH": 56,
+      "loss": 14,
+      "lossH": 12,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
