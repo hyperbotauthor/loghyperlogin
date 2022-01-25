@@ -4,16 +4,16 @@
   "username": "hyperchessbot1",
   "profileUrl": "https://lichess.org/@/hyperchessbot1",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperchessbot1\",\"username\":\"hyperchessbot1\",\"perfs\":{\"blitz\":{\"games\":25,\"rating\":2192,\"rd\":86,\"prog\":-70},\"bullet\":{\"games\":2,\"rating\":1907,\"rd\":243,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":2241,\"rd\":153,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642564139614,\"online\":true,\"profile\":{\"bio\":\"MY BOT PLAY VERY SLOW\"},\"seenAt\":1643069478836,\"playTime\":{\"total\":108585,\"tv\":1390},\"url\":\"https://lichess.org/@/hyperchessbot1\",\"count\":{\"all\":172,\"rated\":34,\"ai\":115,\"draw\":14,\"drawH\":5,\"loss\":93,\"lossH\":22,\"win\":65,\"winH\":30,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperchessbot1\",\"username\":\"hyperchessbot1\",\"perfs\":{\"blitz\":{\"games\":27,\"rating\":2147,\"rd\":84,\"prog\":-77},\"bullet\":{\"games\":2,\"rating\":1907,\"rd\":243,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":9,\"rating\":2111,\"rd\":123,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1899,\"rd\":355,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642564139614,\"online\":true,\"profile\":{\"bio\":\"MY BOT PLAY VERY SLOW\"},\"seenAt\":1643082176721,\"playTime\":{\"total\":118656,\"tv\":3520},\"url\":\"https://lichess.org/@/hyperchessbot1\",\"count\":{\"all\":186,\"rated\":40,\"ai\":119,\"draw\":15,\"drawH\":6,\"loss\":103,\"lossH\":30,\"win\":68,\"winH\":31,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperchessbot1",
     "username": "hyperchessbot1",
     "perfs": {
       "blitz": {
-        "games": 25,
-        "rating": 2192,
-        "rd": 86,
-        "prog": -70
+        "games": 27,
+        "rating": 2147,
+        "rd": 84,
+        "prog": -77
       },
       "bullet": {
         "games": 2,
@@ -30,16 +30,16 @@
         "prov": true
       },
       "classical": {
-        "games": 6,
-        "rating": 2241,
-        "rd": 153,
+        "games": 9,
+        "rating": 2111,
+        "rd": 123,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1899,
+        "rd": 355,
         "prog": 0,
         "prov": true
       }
@@ -50,22 +50,22 @@
     "profile": {
       "bio": "MY BOT PLAY VERY SLOW"
     },
-    "seenAt": 1643069478836,
+    "seenAt": 1643082176721,
     "playTime": {
-      "total": 108585,
-      "tv": 1390
+      "total": 118656,
+      "tv": 3520
     },
     "url": "https://lichess.org/@/hyperchessbot1",
     "count": {
-      "all": 172,
-      "rated": 34,
-      "ai": 115,
-      "draw": 14,
-      "drawH": 5,
-      "loss": 93,
-      "lossH": 22,
-      "win": 65,
-      "winH": 30,
+      "all": 186,
+      "rated": 40,
+      "ai": 119,
+      "draw": 15,
+      "drawH": 6,
+      "loss": 103,
+      "lossH": 30,
+      "win": 68,
+      "winH": 31,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
