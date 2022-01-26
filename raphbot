@@ -4,7 +4,7 @@
   "username": "Raphbot",
   "profileUrl": "https://lichess.org/@/Raphbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"raphbot\",\"username\":\"Raphbot\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2417,\"rd\":70,\"prog\":-52},\"bullet\":{\"games\":64,\"rating\":2424,\"rd\":49,\"prog\":-1},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641744088235,\"online\":true,\"profile\":{\"bio\":\"BOT by @DeusDoppelschach\"},\"seenAt\":1643181703387,\"playTime\":{\"total\":12664,\"tv\":3427},\"url\":\"https://lichess.org/@/Raphbot\",\"count\":{\"all\":101,\"rated\":95,\"ai\":0,\"draw\":22,\"drawH\":22,\"loss\":31,\"lossH\":31,\"win\":48,\"winH\":48,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"raphbot\",\"username\":\"Raphbot\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2417,\"rd\":70,\"prog\":-52},\"bullet\":{\"games\":65,\"rating\":2417,\"rd\":48,\"prog\":-15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641744088235,\"online\":true,\"profile\":{\"bio\":\"BOT by @DeusDoppelschach\"},\"seenAt\":1643181703387,\"playTime\":{\"total\":12742,\"tv\":3427},\"url\":\"https://lichess.org/@/Raphbot\",\"count\":{\"all\":102,\"rated\":96,\"ai\":0,\"draw\":22,\"drawH\":22,\"loss\":32,\"lossH\":32,\"win\":48,\"winH\":48,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "raphbot",
     "username": "Raphbot",
@@ -16,10 +16,10 @@
         "prog": -52
       },
       "bullet": {
-        "games": 64,
-        "rating": 2424,
-        "rd": 49,
-        "prog": -1
+        "games": 65,
+        "rating": 2417,
+        "rd": 48,
+        "prog": -15
       },
       "correspondence": {
         "games": 0,
@@ -51,18 +51,18 @@
     },
     "seenAt": 1643181703387,
     "playTime": {
-      "total": 12664,
+      "total": 12742,
       "tv": 3427
     },
     "url": "https://lichess.org/@/Raphbot",
     "count": {
-      "all": 101,
-      "rated": 95,
+      "all": 102,
+      "rated": 96,
       "ai": 0,
       "draw": 22,
       "drawH": 22,
-      "loss": 31,
-      "lossH": 31,
+      "loss": 32,
+      "lossH": 32,
       "win": 48,
       "winH": 48,
       "bookmark": 0,
