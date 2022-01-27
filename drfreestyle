@@ -4,15 +4,15 @@
   "username": "DrFreestyle",
   "profileUrl": "https://lichess.org/@/DrFreestyle",
   "provider": "lichess",
-  "_raw": "{\"id\":\"drfreestyle\",\"username\":\"DrFreestyle\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1915,\"rd\":261,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1433,\"rd\":405,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1859,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2058,\"rd\":420,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1980,\"rd\":250,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637423430099,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"New Delhi\",\"firstName\":\"IM GOBINDJEET\",\"lastName\":\"SINGH\",\"fideRating\":1600},\"seenAt\":1643271872186,\"playTime\":{\"total\":11605,\"tv\":0},\"url\":\"https://lichess.org/@/DrFreestyle\",\"count\":{\"all\":20,\"rated\":14,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":13,\"lossH\":8,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"drfreestyle\",\"username\":\"DrFreestyle\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":1906,\"rd\":255,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1433,\"rd\":405,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1859,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2035,\"rd\":355,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2058,\"rd\":420,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1980,\"rd\":250,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637423430099,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"New Delhi\",\"firstName\":\"IM GOBINDJEET\",\"lastName\":\"SINGH\",\"fideRating\":1600},\"seenAt\":1643273388125,\"playTime\":{\"total\":12301,\"tv\":0},\"url\":\"https://lichess.org/@/DrFreestyle\",\"count\":{\"all\":24,\"rated\":18,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":16,\"lossH\":11,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "drfreestyle",
     "username": "DrFreestyle",
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 1915,
-        "rd": 261,
+        "games": 5,
+        "rating": 1906,
+        "rd": 255,
         "prog": 0,
         "prov": true
       },
@@ -31,9 +31,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 2035,
+        "rd": 355,
         "prog": 0,
         "prov": true
       },
@@ -69,22 +69,22 @@
       "lastName": "SINGH",
       "fideRating": 1600
     },
-    "seenAt": 1643271872186,
+    "seenAt": 1643273388125,
     "playTime": {
-      "total": 11605,
+      "total": 12301,
       "tv": 0
     },
     "url": "https://lichess.org/@/DrFreestyle",
     "count": {
-      "all": 20,
-      "rated": 14,
+      "all": 24,
+      "rated": 18,
       "ai": 5,
       "draw": 0,
       "drawH": 0,
-      "loss": 13,
-      "lossH": 8,
-      "win": 7,
-      "winH": 7,
+      "loss": 16,
+      "lossH": 11,
+      "win": 8,
+      "winH": 8,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
