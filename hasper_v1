@@ -1,0 +1,82 @@
+{
+  "id": "hasper_v1",
+  "displayName": "Hasper_V1",
+  "username": "Hasper_V1",
+  "profileUrl": "https://lichess.org/@/Hasper_V1",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hasper_v1\",\"username\":\"Hasper_V1\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2801,\"rd\":294,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2262,\"rd\":118,\"prog\":65,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2819,\"rd\":254,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642158250844,\"online\":true,\"profile\":{\"country\":\"VN\",\"bio\":\"I'm trying to make it stronger :)))))))\\r\\nMy weaker version: @The_Clown132\\r\\n My favourite opponent is @InanisBot. thanks for playing with me\"},\"seenAt\":1643251430538,\"playTime\":{\"total\":18599,\"tv\":271},\"url\":\"https://lichess.org/@/Hasper_V1\",\"count\":{\"all\":136,\"rated\":22,\"ai\":35,\"draw\":42,\"drawH\":38,\"loss\":23,\"lossH\":22,\"win\":71,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hasper_v1",
+    "username": "Hasper_V1",
+    "perfs": {
+      "blitz": {
+        "games": 6,
+        "rating": 2801,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 12,
+        "rating": 2262,
+        "rd": 118,
+        "prog": 65,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 2819,
+        "rd": 254,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642158250844,
+    "online": true,
+    "profile": {
+      "country": "VN",
+      "bio": "I'm trying to make it stronger :)))))))\r\nMy weaker version: @The_Clown132\r\n My favourite opponent is @InanisBot. thanks for playing with me"
+    },
+    "seenAt": 1643251430538,
+    "playTime": {
+      "total": 18599,
+      "tv": 271
+    },
+    "url": "https://lichess.org/@/Hasper_V1",
+    "count": {
+      "all": 136,
+      "rated": 22,
+      "ai": 35,
+      "draw": 42,
+      "drawH": 38,
+      "loss": 23,
+      "lossH": 22,
+      "win": 71,
+      "winH": 41,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
