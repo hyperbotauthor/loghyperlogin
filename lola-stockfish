@@ -4,7 +4,7 @@
   "username": "lola-stockfish",
   "profileUrl": "https://lichess.org/@/lola-stockfish",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lola-stockfish\",\"username\":\"lola-stockfish\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643189427556,\"online\":true,\"seenAt\":1643242008638,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/lola-stockfish\",\"playing\":\"https://lichess.org/nTJOhQRU/white\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lola-stockfish\",\"username\":\"lola-stockfish\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2720,\"rd\":123,\"prog\":11,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643189427556,\"online\":true,\"seenAt\":1643286265935,\"playTime\":{\"total\":2051,\"tv\":0},\"url\":\"https://lichess.org/@/lola-stockfish\",\"count\":{\"all\":17,\"rated\":13,\"ai\":4,\"draw\":2,\"drawH\":2,\"loss\":1,\"lossH\":0,\"win\":14,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lola-stockfish",
     "username": "lola-stockfish",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
+        "games": 13,
+        "rating": 2720,
+        "rd": 123,
+        "prog": 11,
         "prov": true
       },
       "correspondence": {
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1643189427556,
     "online": true,
-    "seenAt": 1643242008638,
+    "seenAt": 1643286265935,
     "playTime": {
-      "total": 0,
+      "total": 2051,
       "tv": 0
     },
     "url": "https://lichess.org/@/lola-stockfish",
-    "playing": "https://lichess.org/nTJOhQRU/white",
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
+      "all": 17,
+      "rated": 13,
+      "ai": 4,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 1,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 14,
+      "winH": 11,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
