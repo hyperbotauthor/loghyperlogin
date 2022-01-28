@@ -1,0 +1,160 @@
+{
+  "id": "sabbeli",
+  "displayName": "SABBEli",
+  "username": "SABBEli",
+  "profileUrl": "https://lichess.org/@/SABBEli",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sabbeli\",\"username\":\"SABBEli\",\"perfs\":{\"chess960\":{\"games\":12,\"rating\":980,\"rd\":181,\"prog\":-39,\"prov\":true},\"antichess\":{\"games\":17,\"rating\":631,\"rd\":164,\"prog\":14,\"prov\":true},\"atomic\":{\"games\":76,\"rating\":965,\"rd\":120,\"prog\":18,\"prov\":true},\"racingKings\":{\"games\":87,\"rating\":1241,\"rd\":97,\"prog\":25},\"ultraBullet\":{\"games\":37,\"rating\":813,\"rd\":128,\"prog\":-140,\"prov\":true},\"blitz\":{\"games\":257,\"rating\":1170,\"rd\":52,\"prog\":52},\"kingOfTheHill\":{\"games\":68,\"rating\":1414,\"rd\":94,\"prog\":68},\"crazyhouse\":{\"games\":32,\"rating\":1071,\"rd\":137,\"prog\":-49,\"prov\":true},\"threeCheck\":{\"games\":41,\"rating\":1151,\"rd\":126,\"prog\":-91,\"prov\":true},\"bullet\":{\"games\":92,\"rating\":957,\"rd\":99,\"prog\":-30},\"correspondence\":{\"games\":8,\"rating\":1414,\"rd\":203,\"prog\":0,\"prov\":true},\"horde\":{\"games\":9,\"rating\":939,\"rd\":211,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1053,\"rating\":1193,\"rd\":85,\"prog\":0},\"classical\":{\"games\":10,\"rating\":854,\"rd\":190,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":38,\"rating\":927,\"rd\":108,\"prog\":10},\"storm\":{\"runs\":16,\"score\":11},\"racer\":{\"runs\":1,\"score\":2}},\"createdAt\":1610213663456,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"Starrett City\",\"firstName\":\"Eli\",\"lastName\":\"Banks\",\"fideRating\":2400,\"uscfRating\":1000,\"links\":\"https://www.youtube.com/channel/UC5GL9yOkahg5l8ScL0vmJ5Q\"},\"seenAt\":1643387274767,\"playTime\":{\"total\":167128,\"tv\":1164},\"url\":\"https://lichess.org/@/SABBEli\",\"playing\":\"https://lichess.org/9yxSh6av/black\",\"completionRate\":89,\"count\":{\"all\":1150,\"rated\":790,\"ai\":18,\"draw\":57,\"drawH\":55,\"loss\":713,\"lossH\":708,\"win\":380,\"winH\":369,\"bookmark\":10,\"playing\":7,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sabbeli",
+    "username": "SABBEli",
+    "perfs": {
+      "chess960": {
+        "games": 12,
+        "rating": 980,
+        "rd": 181,
+        "prog": -39,
+        "prov": true
+      },
+      "antichess": {
+        "games": 17,
+        "rating": 631,
+        "rd": 164,
+        "prog": 14,
+        "prov": true
+      },
+      "atomic": {
+        "games": 76,
+        "rating": 965,
+        "rd": 120,
+        "prog": 18,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 87,
+        "rating": 1241,
+        "rd": 97,
+        "prog": 25
+      },
+      "ultraBullet": {
+        "games": 37,
+        "rating": 813,
+        "rd": 128,
+        "prog": -140,
+        "prov": true
+      },
+      "blitz": {
+        "games": 257,
+        "rating": 1170,
+        "rd": 52,
+        "prog": 52
+      },
+      "kingOfTheHill": {
+        "games": 68,
+        "rating": 1414,
+        "rd": 94,
+        "prog": 68
+      },
+      "crazyhouse": {
+        "games": 32,
+        "rating": 1071,
+        "rd": 137,
+        "prog": -49,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 41,
+        "rating": 1151,
+        "rd": 126,
+        "prog": -91,
+        "prov": true
+      },
+      "bullet": {
+        "games": 92,
+        "rating": 957,
+        "rd": 99,
+        "prog": -30
+      },
+      "correspondence": {
+        "games": 8,
+        "rating": 1414,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 9,
+        "rating": 939,
+        "rd": 211,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1053,
+        "rating": 1193,
+        "rd": 85,
+        "prog": 0
+      },
+      "classical": {
+        "games": 10,
+        "rating": 854,
+        "rd": 190,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 38,
+        "rating": 927,
+        "rd": 108,
+        "prog": 10
+      },
+      "storm": {
+        "runs": 16,
+        "score": 11
+      },
+      "racer": {
+        "runs": 1,
+        "score": 2
+      }
+    },
+    "createdAt": 1610213663456,
+    "online": true,
+    "profile": {
+      "country": "US",
+      "location": "Starrett City",
+      "firstName": "Eli",
+      "lastName": "Banks",
+      "fideRating": 2400,
+      "uscfRating": 1000,
+      "links": "https://www.youtube.com/channel/UC5GL9yOkahg5l8ScL0vmJ5Q"
+    },
+    "seenAt": 1643387274767,
+    "playTime": {
+      "total": 167128,
+      "tv": 1164
+    },
+    "url": "https://lichess.org/@/SABBEli",
+    "playing": "https://lichess.org/9yxSh6av/black",
+    "completionRate": 89,
+    "count": {
+      "all": 1150,
+      "rated": 790,
+      "ai": 18,
+      "draw": 57,
+      "drawH": 55,
+      "loss": 713,
+      "lossH": 708,
+      "win": 380,
+      "winH": 369,
+      "bookmark": 10,
+      "playing": 7,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
