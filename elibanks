@@ -1,0 +1,135 @@
+{
+  "id": "elibanks",
+  "displayName": "Elibanks",
+  "username": "Elibanks",
+  "profileUrl": "https://lichess.org/@/Elibanks",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"elibanks\",\"username\":\"Elibanks\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1029,\"rd\":379,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":89,\"rating\":1509,\"rd\":152,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1395,\"rd\":373,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1,\"rating\":1266,\"rd\":313,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":38,\"rating\":1361,\"rd\":140,\"prog\":-321,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1060,\"rd\":261,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":20,\"rating\":1575,\"rd\":161,\"prog\":166,\"prov\":true},\"threeCheck\":{\"games\":7,\"rating\":1078,\"rd\":191,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":638,\"rd\":302,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1355,\"rd\":298,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":1355,\"rd\":169,\"prog\":-361,\"prov\":true},\"storm\":{\"runs\":2,\"score\":6},\"racer\":{\"runs\":1,\"score\":9}},\"createdAt\":1617214763720,\"online\":true,\"seenAt\":1643412789994,\"playTime\":{\"total\":25514,\"tv\":0},\"url\":\"https://lichess.org/@/Elibanks\",\"completionRate\":87,\"count\":{\"all\":166,\"rated\":99,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":57,\"lossH\":57,\"win\":99,\"winH\":99,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "elibanks",
+    "username": "Elibanks",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1029,
+        "rd": 379,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 89,
+        "rating": 1509,
+        "rd": 152,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1395,
+        "rd": 373,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 1,
+        "rating": 1266,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 38,
+        "rating": 1361,
+        "rd": 140,
+        "prog": -321,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1060,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 20,
+        "rating": 1575,
+        "rd": 161,
+        "prog": 166,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 7,
+        "rating": 1078,
+        "rd": 191,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 638,
+        "rd": 302,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1355,
+        "rd": 298,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 21,
+        "rating": 1355,
+        "rd": 169,
+        "prog": -361,
+        "prov": true
+      },
+      "storm": {
+        "runs": 2,
+        "score": 6
+      },
+      "racer": {
+        "runs": 1,
+        "score": 9
+      }
+    },
+    "createdAt": 1617214763720,
+    "online": true,
+    "seenAt": 1643412789994,
+    "playTime": {
+      "total": 25514,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Elibanks",
+    "completionRate": 87,
+    "count": {
+      "all": 166,
+      "rated": 99,
+      "ai": 0,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 57,
+      "lossH": 57,
+      "win": 99,
+      "winH": 99,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
