@@ -4,22 +4,22 @@
   "username": "Rowina_8_E",
   "profileUrl": "https://lichess.org/@/Rowina_8_E",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rowina_8_e\",\"username\":\"Rowina_8_E\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2233,\"rd\":262,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643057260950,\"online\":true,\"profile\":{\"country\":\"MX\",\"bio\":\"Me resigno de mi cuenta @rowina_8\",\"links\":\"https://www.instagram.com/rowina_2815/\"},\"seenAt\":1643136910643,\"playTime\":{\"total\":1237,\"tv\":0},\"url\":\"https://lichess.org/@/Rowina_8_E\",\"count\":{\"all\":5,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rowina_8_e\",\"username\":\"Rowina_8_E\",\"perfs\":{\"blitz\":{\"games\":12,\"rating\":1838,\"rd\":143,\"prog\":-16,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1966,\"rd\":178,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643057260950,\"online\":true,\"profile\":{\"country\":\"MX\",\"bio\":\"Me resigno de mi cuenta @rowina_8\",\"links\":\"https://www.instagram.com/rowina_2815/\"},\"seenAt\":1643423985103,\"playTime\":{\"total\":4522,\"tv\":0},\"url\":\"https://lichess.org/@/Rowina_8_E\",\"playing\":\"https://lichess.org/67Y8c7l5/white\",\"count\":{\"all\":18,\"rated\":16,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":6,\"lossH\":6,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rowina_8_e",
     "username": "Rowina_8_E",
     "perfs": {
       "blitz": {
-        "games": 4,
-        "rating": 2233,
-        "rd": 262,
-        "prog": 0,
+        "games": 12,
+        "rating": 1838,
+        "rd": 143,
+        "prog": -16,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 4,
+        "rating": 1966,
+        "rd": 178,
         "prog": 0,
         "prov": true
       },
@@ -53,24 +53,25 @@
       "bio": "Me resigno de mi cuenta @rowina_8",
       "links": "https://www.instagram.com/rowina_2815/"
     },
-    "seenAt": 1643136910643,
+    "seenAt": 1643423985103,
     "playTime": {
-      "total": 1237,
+      "total": 4522,
       "tv": 0
     },
     "url": "https://lichess.org/@/Rowina_8_E",
+    "playing": "https://lichess.org/67Y8c7l5/white",
     "count": {
-      "all": 5,
-      "rated": 4,
+      "all": 18,
+      "rated": 16,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 5,
-      "winH": 5,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 6,
+      "lossH": 6,
+      "win": 10,
+      "winH": 10,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
