@@ -4,67 +4,72 @@
   "username": "Dong_Xiao_Yuan",
   "profileUrl": "https://lichess.org/@/Dong_Xiao_Yuan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1643547454192,\"online\":true,\"seenAt\":1643547477397,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":445,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2001,\"rd\":343,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643547454192,\"online\":true,\"profile\":{\"country\":\"VN\"},\"seenAt\":1643559731033,\"playTime\":{\"total\":182,\"tv\":0},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"playing\":\"https://lichess.org/VFtd0tRz/black\",\"count\":{\"all\":15,\"rated\":4,\"ai\":10,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":2,\"win\":8,\"winH\":2,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dong_xiao_yuan",
     "username": "Dong_Xiao_Yuan",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1962,
+        "rd": 445,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2001,
+        "rd": 343,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1643547454192,
     "online": true,
-    "seenAt": 1643547477397,
+    "profile": {
+      "country": "VN"
+    },
+    "seenAt": 1643559731033,
     "playTime": {
-      "total": 0,
+      "total": 182,
       "tv": 0
     },
     "url": "https://lichess.org/@/Dong_Xiao_Yuan",
+    "playing": "https://lichess.org/VFtd0tRz/black",
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
-      "bookmark": 0,
-      "playing": 0,
+      "all": 15,
+      "rated": 4,
+      "ai": 10,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 2,
+      "win": 8,
+      "winH": 2,
+      "bookmark": 1,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
