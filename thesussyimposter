@@ -4,7 +4,7 @@
   "username": "TheSussyImposter",
   "profileUrl": "https://lichess.org/@/TheSussyImposter",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thesussyimposter\",\"username\":\"TheSussyImposter\",\"perfs\":{\"antichess\":{\"games\":9,\"rating\":2284,\"rd\":145,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1497,\"rd\":497,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":2321,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":20,\"rating\":2205,\"rd\":93,\"prog\":-88},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":499,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2225,\"rd\":262,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642994021121,\"online\":true,\"profile\":{\"bio\":\"All variants bot\",\"firstName\":\"Under Construction!!\"},\"seenAt\":1643508073178,\"playTime\":{\"total\":6747,\"tv\":0},\"url\":\"https://lichess.org/@/TheSussyImposter\",\"count\":{\"all\":44,\"rated\":40,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":12,\"lossH\":12,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thesussyimposter\",\"username\":\"TheSussyImposter\",\"perfs\":{\"antichess\":{\"games\":9,\"rating\":2284,\"rd\":145,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1497,\"rd\":497,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":2321,\"rd\":175,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":23,\"rating\":2181,\"rd\":85,\"prog\":-95},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":499,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2225,\"rd\":262,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642994021121,\"online\":true,\"profile\":{\"bio\":\"All variants bot\",\"firstName\":\"Under Construction!!\"},\"seenAt\":1643528728087,\"playTime\":{\"total\":6976,\"tv\":0},\"url\":\"https://lichess.org/@/TheSussyImposter\",\"count\":{\"all\":48,\"rated\":44,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":13,\"lossH\":13,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thesussyimposter",
     "username": "TheSussyImposter",
@@ -31,10 +31,10 @@
         "prov": true
       },
       "racingKings": {
-        "games": 20,
-        "rating": 2205,
-        "rd": 93,
-        "prog": -88
+        "games": 23,
+        "rating": 2181,
+        "rd": 85,
+        "prog": -95
       },
       "blitz": {
         "games": 0,
@@ -86,22 +86,22 @@
       "bio": "All variants bot",
       "firstName": "Under Construction!!"
     },
-    "seenAt": 1643508073178,
+    "seenAt": 1643528728087,
     "playTime": {
-      "total": 6747,
+      "total": 6976,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheSussyImposter",
     "count": {
-      "all": 44,
-      "rated": 40,
+      "all": 48,
+      "rated": 44,
       "ai": 0,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 12,
-      "lossH": 12,
-      "win": 24,
-      "winH": 24,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 13,
+      "lossH": 13,
+      "win": 25,
+      "winH": 25,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
