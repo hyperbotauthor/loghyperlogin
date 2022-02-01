@@ -1,0 +1,78 @@
+{
+  "id": "test-z",
+  "displayName": "TesT-Z",
+  "username": "TesT-Z",
+  "profileUrl": "https://lichess.org/@/TesT-Z",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"test-z\",\"username\":\"TesT-Z\",\"perfs\":{\"blitz\":{\"games\":43,\"rating\":2489,\"rd\":69,\"prog\":1},\"bullet\":{\"games\":79,\"rating\":2214,\"rd\":45,\"prog\":11},\"correspondence\":{\"games\":3,\"rating\":1655,\"rd\":330,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":2251,\"rd\":160,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":36,\"rating\":2435,\"rd\":63,\"prog\":9}},\"title\":\"BOT\",\"createdAt\":1643494278344,\"online\":true,\"profile\":{\"country\":\"_pirate\"},\"seenAt\":1643727035724,\"playTime\":{\"total\":104383,\"tv\":10746},\"url\":\"https://lichess.org/@/TesT-Z\",\"count\":{\"all\":185,\"rated\":173,\"ai\":10,\"draw\":44,\"drawH\":43,\"loss\":43,\"lossH\":42,\"win\":98,\"winH\":90,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "test-z",
+    "username": "TesT-Z",
+    "perfs": {
+      "blitz": {
+        "games": 43,
+        "rating": 2489,
+        "rd": 69,
+        "prog": 1
+      },
+      "bullet": {
+        "games": 79,
+        "rating": 2214,
+        "rd": 45,
+        "prog": 11
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1655,
+        "rd": 330,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 6,
+        "rating": 2251,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 36,
+        "rating": 2435,
+        "rd": 63,
+        "prog": 9
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1643494278344,
+    "online": true,
+    "profile": {
+      "country": "_pirate"
+    },
+    "seenAt": 1643727035724,
+    "playTime": {
+      "total": 104383,
+      "tv": 10746
+    },
+    "url": "https://lichess.org/@/TesT-Z",
+    "count": {
+      "all": 185,
+      "rated": 173,
+      "ai": 10,
+      "draw": 44,
+      "drawH": 43,
+      "loss": 43,
+      "lossH": 42,
+      "win": 98,
+      "winH": 90,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
