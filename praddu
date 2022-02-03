@@ -1,0 +1,135 @@
+{
+  "id": "praddu",
+  "displayName": "Praddu",
+  "username": "Praddu",
+  "profileUrl": "https://lichess.org/@/Praddu",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"praddu\",\"username\":\"Praddu\",\"perfs\":{\"chess960\":{\"games\":7,\"rating\":1516,\"rd\":171,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":12,\"rating\":1070,\"rd\":136,\"prog\":39,\"prov\":true},\"atomic\":{\"games\":21,\"rating\":1199,\"rd\":120,\"prog\":-199,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1254,\"rd\":215,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":7,\"rating\":975,\"rd\":175,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":176,\"rating\":1398,\"rd\":69,\"prog\":20},\"crazyhouse\":{\"games\":10,\"rating\":1212,\"rd\":147,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":978,\"rd\":155,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1197,\"rd\":263,\"prog\":0,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1304,\"rd\":215,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":461,\"rating\":1700,\"rd\":69,\"prog\":0},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":19,\"rating\":1152,\"rd\":109,\"prog\":-44},\"streak\":{\"runs\":1,\"score\":1}},\"createdAt\":1598397542440,\"online\":true,\"seenAt\":1643851356399,\"playTime\":{\"total\":79964,\"tv\":0},\"url\":\"https://lichess.org/@/Praddu\",\"completionRate\":87,\"count\":{\"all\":443,\"rated\":272,\"ai\":61,\"draw\":19,\"drawH\":16,\"loss\":226,\"lossH\":184,\"win\":198,\"winH\":182,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "praddu",
+    "username": "Praddu",
+    "perfs": {
+      "chess960": {
+        "games": 7,
+        "rating": 1516,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 12,
+        "rating": 1070,
+        "rd": 136,
+        "prog": 39,
+        "prov": true
+      },
+      "atomic": {
+        "games": 21,
+        "rating": 1199,
+        "rd": 120,
+        "prog": -199,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1254,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 7,
+        "rating": 975,
+        "rd": 175,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 176,
+        "rating": 1398,
+        "rd": 69,
+        "prog": 20
+      },
+      "crazyhouse": {
+        "games": 10,
+        "rating": 1212,
+        "rd": 147,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 978,
+        "rd": 155,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1197,
+        "rd": 263,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 4,
+        "rating": 1304,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 461,
+        "rating": 1700,
+        "rd": 69,
+        "prog": 0
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 19,
+        "rating": 1152,
+        "rd": 109,
+        "prog": -44
+      },
+      "streak": {
+        "runs": 1,
+        "score": 1
+      }
+    },
+    "createdAt": 1598397542440,
+    "online": true,
+    "seenAt": 1643851356399,
+    "playTime": {
+      "total": 79964,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Praddu",
+    "completionRate": 87,
+    "count": {
+      "all": 443,
+      "rated": 272,
+      "ai": 61,
+      "draw": 19,
+      "drawH": 16,
+      "loss": 226,
+      "lossH": 184,
+      "win": 198,
+      "winH": 182,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
