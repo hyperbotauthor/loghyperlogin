@@ -4,7 +4,7 @@
   "username": "Dong_Xiao_Yuan",
   "profileUrl": "https://lichess.org/@/Dong_Xiao_Yuan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2193,\"rd\":94,\"prog\":87},\"atomic\":{\"games\":1,\"rating\":1454,\"rd\":433,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":446,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2054,\"rd\":315,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643547454192,\"online\":true,\"profile\":{\"country\":\"VN\"},\"seenAt\":1643950169962,\"playTime\":{\"total\":12979,\"tv\":609},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"count\":{\"all\":55,\"rated\":26,\"ai\":25,\"draw\":2,\"drawH\":1,\"loss\":24,\"lossH\":11,\"win\":29,\"winH\":18,\"bookmark\":4,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2193,\"rd\":94,\"prog\":87},\"atomic\":{\"games\":1,\"rating\":1454,\"rd\":433,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":446,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2054,\"rd\":315,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643547454192,\"online\":true,\"profile\":{\"country\":\"VN\",\"bio\":\"Hello!\\r\\nI'm a weak bot that run on Hypereasy and owned by @HelongjiangDeWangjia (or LM_WangjiaOfHeilongjiang on Chess.com).\\r\\nChallenge me if you like to :>\\r\\nGood luck :>>>\",\"links\":\"Owner's Twitch: https://www.twitch.tv/dongxiaoyuan_bot\\r\\nOwner's Chess.com link: https://www.chess.com/member/lm_wangjiaofheilongjiang\\r\\nOwner's Lichess link: https://lichess.org/@/HelongjiangDeWangjia\"},\"seenAt\":1643962492788,\"playTime\":{\"total\":12979,\"tv\":609},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"count\":{\"all\":55,\"rated\":26,\"ai\":25,\"draw\":2,\"drawH\":1,\"loss\":24,\"lossH\":11,\"win\":29,\"winH\":18,\"bookmark\":4,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dong_xiao_yuan",
     "username": "Dong_Xiao_Yuan",
@@ -55,9 +55,11 @@
     "createdAt": 1643547454192,
     "online": true,
     "profile": {
-      "country": "VN"
+      "country": "VN",
+      "bio": "Hello!\r\nI'm a weak bot that run on Hypereasy and owned by @HelongjiangDeWangjia (or LM_WangjiaOfHeilongjiang on Chess.com).\r\nChallenge me if you like to :>\r\nGood luck :>>>",
+      "links": "Owner's Twitch: https://www.twitch.tv/dongxiaoyuan_bot\r\nOwner's Chess.com link: https://www.chess.com/member/lm_wangjiaofheilongjiang\r\nOwner's Lichess link: https://lichess.org/@/HelongjiangDeWangjia"
     },
-    "seenAt": 1643950169962,
+    "seenAt": 1643962492788,
     "playTime": {
       "total": 12979,
       "tv": 609
