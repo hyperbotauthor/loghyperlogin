@@ -4,65 +4,66 @@
   "username": "wumpusDragonEngi",
   "profileUrl": "https://lichess.org/@/wumpusDragonEngi",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wumpusdragonengi\",\"username\":\"wumpusDragonEngi\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1640018351487,\"online\":true,\"seenAt\":1640018387838,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/wumpusDragonEngi\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wumpusdragonengi\",\"username\":\"wumpusDragonEngi\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2309,\"rd\":240,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640018351487,\"online\":true,\"seenAt\":1644063960627,\"playTime\":{\"total\":1482,\"tv\":71},\"url\":\"https://lichess.org/@/wumpusDragonEngi\",\"count\":{\"all\":17,\"rated\":2,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":11,\"lossH\":11,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wumpusdragonengi",
     "username": "wumpusDragonEngi",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 2,
+        "rating": 2309,
+        "rd": 240,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1640018351487,
     "online": true,
-    "seenAt": 1640018387838,
+    "seenAt": 1644063960627,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 1482,
+      "tv": 71
     },
     "url": "https://lichess.org/@/wumpusDragonEngi",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 17,
+      "rated": 2,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 11,
+      "lossH": 11,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
