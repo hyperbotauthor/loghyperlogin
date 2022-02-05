@@ -1,0 +1,77 @@
+{
+  "id": "magnuscalsen123",
+  "displayName": "MagnusCalsen123",
+  "username": "MagnusCalsen123",
+  "profileUrl": "https://lichess.org/@/MagnusCalsen123",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"magnuscalsen123\",\"username\":\"MagnusCalsen123\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2424,\"rd\":129,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2300,\"rd\":96,\"prog\":-105},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2287,\"rd\":220,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643885695100,\"online\":true,\"seenAt\":1644055221282,\"playTime\":{\"total\":4975,\"tv\":0},\"url\":\"https://lichess.org/@/MagnusCalsen123\",\"count\":{\"all\":42,\"rated\":42,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":10,\"lossH\":10,\"win\":29,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "magnuscalsen123",
+    "username": "MagnusCalsen123",
+    "perfs": {
+      "blitz": {
+        "games": 10,
+        "rating": 2424,
+        "rd": 129,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 27,
+        "rating": 2300,
+        "rd": 96,
+        "prog": -105
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2287,
+        "rd": 220,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1643885695100,
+    "online": true,
+    "seenAt": 1644055221282,
+    "playTime": {
+      "total": 4975,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/MagnusCalsen123",
+    "count": {
+      "all": 42,
+      "rated": 42,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 10,
+      "lossH": 10,
+      "win": 29,
+      "winH": 29,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
