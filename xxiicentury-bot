@@ -1,0 +1,86 @@
+{
+  "id": "xxiicentury-bot",
+  "displayName": "XXIICentury-BOT",
+  "username": "XXIICentury-BOT",
+  "profileUrl": "https://lichess.org/@/XXIICentury-BOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"xxiicentury-bot\",\"username\":\"XXIICentury-BOT\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2008,\"rd\":489,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2106,\"rd\":349,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2528,\"rd\":117,\"prog\":95,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644041764719,\"online\":true,\"profile\":{\"country\":\"NO\",\"bio\":\"I am an Indo-Norwegian Chess Player with a FIDE elo of 2610 and National Chess RunnerUp of 2014, Grandmaster in 2021.\\r\\nChess Player of India and Norway\",\"firstName\":\"Sougata\",\"lastName\":\"Ghosh\",\"fideRating\":2610,\"uscfRating\":2145},\"seenAt\":1644137983138,\"playTime\":{\"total\":11985,\"tv\":0},\"url\":\"https://lichess.org/@/XXIICentury-BOT\",\"count\":{\"all\":36,\"rated\":20,\"ai\":14,\"draw\":3,\"drawH\":3,\"loss\":6,\"lossH\":2,\"win\":27,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "xxiicentury-bot",
+    "username": "XXIICentury-BOT",
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 2008,
+        "rd": 489,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 2106,
+        "rd": 349,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 15,
+        "rating": 2528,
+        "rd": 117,
+        "prog": 95,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1644041764719,
+    "online": true,
+    "profile": {
+      "country": "NO",
+      "bio": "I am an Indo-Norwegian Chess Player with a FIDE elo of 2610 and National Chess RunnerUp of 2014, Grandmaster in 2021.\r\nChess Player of India and Norway",
+      "firstName": "Sougata",
+      "lastName": "Ghosh",
+      "fideRating": 2610,
+      "uscfRating": 2145
+    },
+    "seenAt": 1644137983138,
+    "playTime": {
+      "total": 11985,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/XXIICentury-BOT",
+    "count": {
+      "all": 36,
+      "rated": 20,
+      "ai": 14,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 6,
+      "lossH": 2,
+      "win": 27,
+      "winH": 17,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
