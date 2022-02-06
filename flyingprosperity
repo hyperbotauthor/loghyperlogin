@@ -4,67 +4,69 @@
   "username": "FlyingProsperity",
   "profileUrl": "https://lichess.org/@/FlyingProsperity",
   "provider": "lichess",
-  "_raw": "{\"id\":\"flyingprosperity\",\"username\":\"FlyingProsperity\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1644115098977,\"online\":true,\"seenAt\":1644115108696,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/FlyingProsperity\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"flyingprosperity\",\"username\":\"FlyingProsperity\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2396,\"rd\":124,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644115098977,\"online\":true,\"seenAt\":1644152598482,\"playTime\":{\"total\":2459,\"tv\":0},\"url\":\"https://lichess.org/@/FlyingProsperity\",\"playing\":\"https://lichess.org/wtutg7cB/black\",\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":2,\"lossH\":2,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "flyingprosperity",
     "username": "FlyingProsperity",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 8,
+        "rating": 2396,
+        "rd": 124,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1644115098977,
     "online": true,
-    "seenAt": 1644115108696,
+    "seenAt": 1644152598482,
     "playTime": {
-      "total": 0,
+      "total": 2459,
       "tv": 0
     },
     "url": "https://lichess.org/@/FlyingProsperity",
+    "playing": "https://lichess.org/wtutg7cB/black",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 9,
+      "rated": 9,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 2,
+      "lossH": 2,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
