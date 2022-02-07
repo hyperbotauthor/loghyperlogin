@@ -4,7 +4,7 @@
   "username": "Wewillflagyou",
   "profileUrl": "https://lichess.org/@/Wewillflagyou",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wewillflagyou\",\"username\":\"Wewillflagyou\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1633,\"rd\":362,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":22,\"rating\":2169,\"rd\":93,\"prog\":-209},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1699,\"rd\":364,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1642,\"rd\":342,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2020,\"rd\":471,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644034705446,\"online\":true,\"profile\":{\"country\":\"_rainbow\",\"bio\":\"i will flag you.\\r\\n\\r\\nBeware! this bot has some time problems!\\r\\n\\r\\nIf you flag me i will flag you back haha\",\"firstName\":\"Don't farm me\"},\"seenAt\":1644202444237,\"playTime\":{\"total\":3239,\"tv\":0},\"url\":\"https://lichess.org/@/Wewillflagyou\",\"playing\":\"https://lichess.org/XsLWAIjp/black\",\"count\":{\"all\":29,\"rated\":28,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":6,\"lossH\":6,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wewillflagyou\",\"username\":\"Wewillflagyou\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1633,\"rd\":362,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2514,\"rd\":285,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":28,\"rating\":2195,\"rd\":79,\"prog\":32},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1699,\"rd\":364,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1642,\"rd\":342,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2020,\"rd\":471,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644034705446,\"online\":true,\"profile\":{\"country\":\"_rainbow\",\"bio\":\"i will flag you.\\r\\n\\r\\nBeware! this bot has some time problems!\\r\\n\\r\\nIf you flag me i will flag you back haha\",\"firstName\":\"Don't farm me\"},\"seenAt\":1644210910971,\"playTime\":{\"total\":4095,\"tv\":0},\"url\":\"https://lichess.org/@/Wewillflagyou\",\"count\":{\"all\":38,\"rated\":37,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":9,\"lossH\":9,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wewillflagyou",
     "username": "Wewillflagyou",
@@ -16,11 +16,18 @@
         "prog": 0,
         "prov": true
       },
+      "antichess": {
+        "games": 3,
+        "rating": 2514,
+        "rd": 285,
+        "prog": 0,
+        "prov": true
+      },
       "racingKings": {
-        "games": 22,
-        "rating": 2169,
-        "rd": 93,
-        "prog": -209
+        "games": 28,
+        "rating": 2195,
+        "rd": 79,
+        "prog": 32
       },
       "blitz": {
         "games": 0,
@@ -80,25 +87,24 @@
       "bio": "i will flag you.\r\n\r\nBeware! this bot has some time problems!\r\n\r\nIf you flag me i will flag you back haha",
       "firstName": "Don't farm me"
     },
-    "seenAt": 1644202444237,
+    "seenAt": 1644210910971,
     "playTime": {
-      "total": 3239,
+      "total": 4095,
       "tv": 0
     },
     "url": "https://lichess.org/@/Wewillflagyou",
-    "playing": "https://lichess.org/XsLWAIjp/black",
     "count": {
-      "all": 29,
-      "rated": 28,
+      "all": 38,
+      "rated": 37,
       "ai": 0,
-      "draw": 8,
-      "drawH": 8,
-      "loss": 6,
-      "lossH": 6,
-      "win": 15,
-      "winH": 15,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 9,
+      "lossH": 9,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
