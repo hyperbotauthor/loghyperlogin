@@ -1,0 +1,81 @@
+{
+  "id": "lakamasna",
+  "displayName": "lakamasna",
+  "username": "lakamasna",
+  "profileUrl": "https://lichess.org/@/lakamasna",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lakamasna\",\"username\":\"lakamasna\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2492,\"rd\":434,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":2424,\"rd\":109,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2613,\"rd\":163,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644245785365,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"Hi I am Lakamsana. I am a simple bot and little bit of a lazy bot.I play rapid,classical.Accepts bullet blitz with increments.My human owner is @Anonymus_Warrior\"},\"seenAt\":1644311194705,\"playTime\":{\"total\":11497,\"tv\":0},\"url\":\"https://lichess.org/@/lakamasna\",\"count\":{\"all\":27,\"rated\":22,\"ai\":5,\"draw\":4,\"drawH\":4,\"loss\":5,\"lossH\":3,\"win\":18,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lakamasna",
+    "username": "lakamasna",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2492,
+        "rd": 434,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 2424,
+        "rd": 109,
+        "prog": -3
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 7,
+        "rating": 2613,
+        "rd": 163,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1644245785365,
+    "online": true,
+    "profile": {
+      "country": "_pirate",
+      "bio": "Hi I am Lakamsana. I am a simple bot and little bit of a lazy bot.I play rapid,classical.Accepts bullet blitz with increments.My human owner is @Anonymus_Warrior"
+    },
+    "seenAt": 1644311194705,
+    "playTime": {
+      "total": 11497,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/lakamasna",
+    "count": {
+      "all": 27,
+      "rated": 22,
+      "ai": 5,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 5,
+      "lossH": 3,
+      "win": 18,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
