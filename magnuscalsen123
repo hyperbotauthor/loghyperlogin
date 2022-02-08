@@ -4,22 +4,22 @@
   "username": "MagnusCalsen123",
   "profileUrl": "https://lichess.org/@/MagnusCalsen123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"magnuscalsen123\",\"username\":\"MagnusCalsen123\",\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2472,\"rd\":115,\"prog\":28,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2300,\"rd\":96,\"prog\":-105},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2425,\"rd\":165,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643885695100,\"online\":true,\"seenAt\":1644112717263,\"playTime\":{\"total\":8392,\"tv\":0},\"url\":\"https://lichess.org/@/MagnusCalsen123\",\"playing\":\"https://lichess.org/Vc22Yyom/white\",\"count\":{\"all\":58,\"rated\":49,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":19,\"lossH\":19,\"win\":35,\"winH\":35,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"magnuscalsen123\",\"username\":\"MagnusCalsen123\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2473,\"rd\":115,\"prog\":29,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2300,\"rd\":97,\"prog\":-105},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2377,\"rd\":127,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643885695100,\"online\":true,\"seenAt\":1644292116764,\"playTime\":{\"total\":12450,\"tv\":0},\"url\":\"https://lichess.org/@/MagnusCalsen123\",\"count\":{\"all\":67,\"rated\":55,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":21,\"lossH\":21,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "magnuscalsen123",
     "username": "MagnusCalsen123",
     "perfs": {
       "blitz": {
-        "games": 14,
-        "rating": 2472,
+        "games": 15,
+        "rating": 2473,
         "rd": 115,
-        "prog": 28,
+        "prog": 29,
         "prov": true
       },
       "bullet": {
         "games": 27,
         "rating": 2300,
-        "rd": 96,
+        "rd": 97,
         "prog": -105
       },
       "correspondence": {
@@ -37,9 +37,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 2425,
-        "rd": 165,
+        "games": 11,
+        "rating": 2377,
+        "rd": 127,
         "prog": 0,
         "prov": true
       }
@@ -47,25 +47,24 @@
     "title": "BOT",
     "createdAt": 1643885695100,
     "online": true,
-    "seenAt": 1644112717263,
+    "seenAt": 1644292116764,
     "playTime": {
-      "total": 8392,
+      "total": 12450,
       "tv": 0
     },
     "url": "https://lichess.org/@/MagnusCalsen123",
-    "playing": "https://lichess.org/Vc22Yyom/white",
     "count": {
-      "all": 58,
-      "rated": 49,
+      "all": 67,
+      "rated": 55,
       "ai": 0,
-      "draw": 4,
-      "drawH": 4,
-      "loss": 19,
-      "lossH": 19,
-      "win": 35,
-      "winH": 35,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 21,
+      "lossH": 21,
+      "win": 41,
+      "winH": 41,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
