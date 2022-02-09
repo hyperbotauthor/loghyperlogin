@@ -4,7 +4,7 @@
   "username": "I_Am_a_Detective",
   "profileUrl": "https://lichess.org/@/I_Am_a_Detective",
   "provider": "lichess",
-  "_raw": "{\"id\":\"i_am_a_detective\",\"username\":\"I_Am_a_Detective\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1575,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1644309172206,\"online\":true,\"profile\":{},\"seenAt\":1644389432327,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/I_Am_a_Detective\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"i_am_a_detective\",\"username\":\"I_Am_a_Detective\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1,\"rating\":1575,\"rd\":461,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1481,\"rd\":473,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1644309172206,\"online\":true,\"profile\":{},\"seenAt\":1644403101318,\"playTime\":{\"total\":111,\"tv\":0},\"url\":\"https://lichess.org/@/I_Am_a_Detective\",\"count\":{\"all\":1,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "i_am_a_detective",
     "username": "I_Am_a_Detective",
@@ -24,9 +24,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1481,
+        "rd": 473,
         "prog": 0,
         "prov": true
       },
@@ -55,20 +55,20 @@
     "createdAt": 1644309172206,
     "online": true,
     "profile": {},
-    "seenAt": 1644389432327,
+    "seenAt": 1644403101318,
     "playTime": {
-      "total": 0,
+      "total": 111,
       "tv": 0
     },
     "url": "https://lichess.org/@/I_Am_a_Detective",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 1,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 1,
+      "lossH": 1,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
