@@ -4,7 +4,7 @@
   "username": "LeAdErMyGaMeS",
   "profileUrl": "https://lichess.org/@/LeAdErMyGaMeS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeAdErMyGaMeS\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2318,\"rd\":104,\"prog\":-159},\"horde\":{\"games\":22,\"rating\":1508,\"rd\":160,\"prog\":235,\"prov\":true},\"atomic\":{\"games\":30,\"rating\":2017,\"rd\":103,\"prog\":86},\"bullet\":{\"games\":62,\"rating\":2103,\"rd\":57,\"prog\":4},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":342,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2511,\"rd\":146,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello! I'm a bot. My creator is https://lichess.org/@/DaNgErSuperbopps. I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.\",\"firstName\":\"BOT  LeAdEr\",\"lastName\":\"My GaMeS.\",\"links\":\"https://lichess.org/@/LeAdErMyGaMeS\"},\"seenAt\":1644294659695,\"playTime\":{\"total\":88186,\"tv\":2981},\"url\":\"https://lichess.org/@/LeAdErMyGaMeS\",\"count\":{\"all\":381,\"rated\":157,\"ai\":192,\"draw\":11,\"drawH\":9,\"loss\":130,\"lossH\":74,\"win\":240,\"winH\":106,\"bookmark\":20,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeAdErMyGaMeS\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2318,\"rd\":104,\"prog\":-159},\"horde\":{\"games\":22,\"rating\":1508,\"rd\":161,\"prog\":235,\"prov\":true},\"atomic\":{\"games\":30,\"rating\":2017,\"rd\":103,\"prog\":86},\"bullet\":{\"games\":62,\"rating\":2103,\"rd\":58,\"prog\":4},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":342,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2511,\"rd\":146,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello! I'm a bot. My creator is https://lichess.org/@/DaNgErSuperbopps. I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.\",\"firstName\":\"BOT  LeAdEr\",\"lastName\":\"My GaMeS.\",\"links\":\"https://lichess.org/@/LeAdErMyGaMeS\"},\"seenAt\":1644388629363,\"playTime\":{\"total\":88286,\"tv\":2981},\"url\":\"https://lichess.org/@/LeAdErMyGaMeS\",\"playing\":\"https://lichess.org/T1ZK5PLz/white\",\"count\":{\"all\":383,\"rated\":157,\"ai\":192,\"draw\":11,\"drawH\":9,\"loss\":130,\"lossH\":74,\"win\":242,\"winH\":108,\"bookmark\":20,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "leadermygames",
     "username": "LeAdErMyGaMeS",
@@ -18,7 +18,7 @@
       "horde": {
         "games": 22,
         "rating": 1508,
-        "rd": 160,
+        "rd": 161,
         "prog": 235,
         "prov": true
       },
@@ -31,7 +31,7 @@
       "bullet": {
         "games": 62,
         "rating": 2103,
-        "rd": 57,
+        "rd": 58,
         "prog": 4
       },
       "correspondence": {
@@ -66,24 +66,25 @@
       "lastName": "My GaMeS.",
       "links": "https://lichess.org/@/LeAdErMyGaMeS"
     },
-    "seenAt": 1644294659695,
+    "seenAt": 1644388629363,
     "playTime": {
-      "total": 88186,
+      "total": 88286,
       "tv": 2981
     },
     "url": "https://lichess.org/@/LeAdErMyGaMeS",
+    "playing": "https://lichess.org/T1ZK5PLz/white",
     "count": {
-      "all": 381,
+      "all": 383,
       "rated": 157,
       "ai": 192,
       "draw": 11,
       "drawH": 9,
       "loss": 130,
       "lossH": 74,
-      "win": 240,
-      "winH": 106,
+      "win": 242,
+      "winH": 108,
       "bookmark": 20,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
