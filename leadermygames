@@ -4,7 +4,7 @@
   "username": "LeAdErMyGaMeS",
   "profileUrl": "https://lichess.org/@/LeAdErMyGaMeS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeAdErMyGaMeS\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2318,\"rd\":104,\"prog\":-159},\"horde\":{\"games\":22,\"rating\":1508,\"rd\":161,\"prog\":235,\"prov\":true},\"atomic\":{\"games\":30,\"rating\":2017,\"rd\":103,\"prog\":86},\"bullet\":{\"games\":62,\"rating\":2103,\"rd\":58,\"prog\":4},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":342,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2511,\"rd\":146,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello! I'm a bot. My creator is https://lichess.org/@/DaNgErSuperbopps. I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.\",\"firstName\":\"BOT  LeAdEr\",\"lastName\":\"My GaMeS.\",\"links\":\"https://lichess.org/@/LeAdErMyGaMeS\"},\"seenAt\":1644388629363,\"playTime\":{\"total\":88286,\"tv\":2981},\"url\":\"https://lichess.org/@/LeAdErMyGaMeS\",\"playing\":\"https://lichess.org/T1ZK5PLz/white\",\"count\":{\"all\":383,\"rated\":157,\"ai\":192,\"draw\":11,\"drawH\":9,\"loss\":130,\"lossH\":74,\"win\":242,\"winH\":108,\"bookmark\":20,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"leadermygames\",\"username\":\"LeAdErMyGaMeS\",\"perfs\":{\"blitz\":{\"games\":31,\"rating\":2318,\"rd\":104,\"prog\":-159},\"horde\":{\"games\":22,\"rating\":1508,\"rd\":161,\"prog\":235,\"prov\":true},\"atomic\":{\"games\":30,\"rating\":2017,\"rd\":103,\"prog\":86},\"bullet\":{\"games\":63,\"rating\":2104,\"rd\":58,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2221,\"rd\":342,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2511,\"rd\":146,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642393433495,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello! I'm a bot. My creator is https://lichess.org/@/DaNgErSuperbopps. I am working! Feel free to challenge me in Rapid or Blitz, standard,Atomic,Classical,Horde  chess only.\",\"firstName\":\"BOT  LeAdEr\",\"lastName\":\"My GaMeS.\",\"links\":\"https://lichess.org/@/LeAdErMyGaMeS\"},\"seenAt\":1644493516980,\"playTime\":{\"total\":88868,\"tv\":2981},\"url\":\"https://lichess.org/@/LeAdErMyGaMeS\",\"playing\":\"https://lichess.org/X58TdxHj/white\",\"count\":{\"all\":385,\"rated\":159,\"ai\":192,\"draw\":11,\"drawH\":9,\"loss\":130,\"lossH\":74,\"win\":244,\"winH\":110,\"bookmark\":20,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "leadermygames",
     "username": "LeAdErMyGaMeS",
@@ -29,10 +29,10 @@
         "prog": 86
       },
       "bullet": {
-        "games": 62,
-        "rating": 2103,
+        "games": 63,
+        "rating": 2104,
         "rd": 58,
-        "prog": 4
+        "prog": -3
       },
       "correspondence": {
         "games": 0,
@@ -49,7 +49,7 @@
         "prov": true
       },
       "rapid": {
-        "games": 7,
+        "games": 8,
         "rating": 2511,
         "rd": 146,
         "prog": 0,
@@ -66,23 +66,23 @@
       "lastName": "My GaMeS.",
       "links": "https://lichess.org/@/LeAdErMyGaMeS"
     },
-    "seenAt": 1644388629363,
+    "seenAt": 1644493516980,
     "playTime": {
-      "total": 88286,
+      "total": 88868,
       "tv": 2981
     },
     "url": "https://lichess.org/@/LeAdErMyGaMeS",
-    "playing": "https://lichess.org/T1ZK5PLz/white",
+    "playing": "https://lichess.org/X58TdxHj/white",
     "count": {
-      "all": 383,
-      "rated": 157,
+      "all": 385,
+      "rated": 159,
       "ai": 192,
       "draw": 11,
       "drawH": 9,
       "loss": 130,
       "lossH": 74,
-      "win": 242,
-      "winH": 108,
+      "win": 244,
+      "winH": 110,
       "bookmark": 20,
       "playing": 1,
       "import": 0,
