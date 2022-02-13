@@ -4,24 +4,23 @@
   "username": "BotAlpington",
   "profileUrl": "https://lichess.org/@/BotAlpington",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botalpington\",\"username\":\"BotAlpington\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2013,\"rd\":480,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1701,\"rd\":292,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2134,\"rd\":367,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644659122836,\"online\":true,\"seenAt\":1644686610875,\"playTime\":{\"total\":799,\"tv\":0},\"url\":\"https://lichess.org/@/BotAlpington\",\"count\":{\"all\":4,\"rated\":3,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botalpington\",\"username\":\"BotAlpington\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2376,\"rd\":300,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":2130,\"rd\":86,\"prog\":13},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2134,\"rd\":367,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644659122836,\"online\":true,\"profile\":{\"country\":\"_earth\",\"location\":\"Earth\",\"bio\":\"Created by:\\r\\n@alpsecil\\r\\n@secilalp\\r\\n@thefakesiralpington\\r\\n@Alp1358\\r\\n@ChessladderATK\\r\\n@BotSirAlpington\",\"firstName\":\"Sir\",\"lastName\":\"Alpington\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1644751656397,\"playTime\":{\"total\":2200,\"tv\":0},\"url\":\"https://lichess.org/@/BotAlpington\",\"count\":{\"all\":23,\"rated\":22,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":17,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botalpington",
     "username": "BotAlpington",
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2013,
-        "rd": 480,
+        "games": 2,
+        "rating": 2376,
+        "rd": 300,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1701,
-        "rd": 292,
-        "prog": 0,
-        "prov": true
+        "games": 19,
+        "rating": 2130,
+        "rd": 86,
+        "prog": 13
       },
       "correspondence": {
         "games": 0,
@@ -48,22 +47,35 @@
     "title": "BOT",
     "createdAt": 1644659122836,
     "online": true,
-    "seenAt": 1644686610875,
+    "profile": {
+      "country": "_earth",
+      "location": "Earth",
+      "bio": "Created by:\r\n@alpsecil\r\n@secilalp\r\n@thefakesiralpington\r\n@Alp1358\r\n@ChessladderATK\r\n@BotSirAlpington",
+      "firstName": "Sir",
+      "lastName": "Alpington",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000,
+      "rcfRating": 3000,
+      "cfcRating": 3000,
+      "dsbRating": 3000
+    },
+    "seenAt": 1644751656397,
     "playTime": {
-      "total": 799,
+      "total": 2200,
       "tv": 0
     },
     "url": "https://lichess.org/@/BotAlpington",
     "count": {
-      "all": 4,
-      "rated": 3,
+      "all": 23,
+      "rated": 22,
       "ai": 1,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 3,
-      "winH": 2,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 5,
+      "win": 17,
+      "winH": 16,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
