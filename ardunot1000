@@ -4,15 +4,15 @@
   "username": "Ardunot1000",
   "profileUrl": "https://lichess.org/@/Ardunot1000",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ardunot1000\",\"username\":\"Ardunot1000\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1541,\"rd\":382,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":2463,\"rd\":211,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1496,\"rd\":495,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1563,\"rd\":269,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640233892556,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @ThunderForgeOfficial. Please do not ping me on team join requests or follow request.\"},\"seenAt\":1644635969501,\"playTime\":{\"total\":2375,\"tv\":0},\"url\":\"https://lichess.org/@/Ardunot1000\",\"count\":{\"all\":23,\"rated\":13,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":11,\"lossH\":8,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ardunot1000\",\"username\":\"Ardunot1000\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1698,\"rd\":257,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":2463,\"rd\":211,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1496,\"rd\":496,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1494,\"rd\":492,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1563,\"rd\":269,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640233892556,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @ThunderForgeOfficial. Please do not ping me on team join requests or follow request.\"},\"seenAt\":1644747887750,\"playTime\":{\"total\":3381,\"tv\":0},\"url\":\"https://lichess.org/@/Ardunot1000\",\"playing\":\"https://lichess.org/TDGBlY3j/white\",\"count\":{\"all\":27,\"rated\":16,\"ai\":3,\"draw\":1,\"drawH\":1,\"loss\":13,\"lossH\":10,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ardunot1000",
     "username": "Ardunot1000",
     "perfs": {
       "blitz": {
-        "games": 2,
-        "rating": 1541,
-        "rd": 382,
+        "games": 4,
+        "rating": 1698,
+        "rd": 257,
         "prog": 0,
         "prov": true
       },
@@ -26,7 +26,14 @@
       "atomic": {
         "games": 2,
         "rating": 1496,
-        "rd": 495,
+        "rd": 496,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1494,
+        "rd": 492,
         "prog": 0,
         "prov": true
       },
@@ -66,24 +73,25 @@
       "country": "_lichess",
       "bio": "Hello, I am Ardunot1000. I am an advanced version of @Ardunot500 and I run on Heroku Server. I can play any variant against any player. Just challenge me when I am online and I will accept within 5 secs. I am developed by @ThunderForgeOfficial. Please do not ping me on team join requests or follow request."
     },
-    "seenAt": 1644635969501,
+    "seenAt": 1644747887750,
     "playTime": {
-      "total": 2375,
+      "total": 3381,
       "tv": 0
     },
     "url": "https://lichess.org/@/Ardunot1000",
+    "playing": "https://lichess.org/TDGBlY3j/white",
     "count": {
-      "all": 23,
-      "rated": 13,
+      "all": 27,
+      "rated": 16,
       "ai": 3,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 11,
-      "lossH": 8,
-      "win": 12,
-      "winH": 12,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 13,
+      "lossH": 10,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
