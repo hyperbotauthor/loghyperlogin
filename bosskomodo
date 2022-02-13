@@ -1,0 +1,96 @@
+{
+  "id": "bosskomodo",
+  "displayName": "BossKomodo",
+  "username": "BossKomodo",
+  "profileUrl": "https://lichess.org/@/BossKomodo",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bosskomodo\",\"username\":\"BossKomodo\",\"perfs\":{\"chess960\":{\"games\":28,\"rating\":1815,\"rd\":136,\"prog\":-50,\"prov\":true},\"blitz\":{\"games\":364,\"rating\":2478,\"rd\":71,\"prog\":-42},\"puzzle\":{\"games\":8,\"rating\":2097,\"rd\":211,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1012,\"rating\":2527,\"rd\":82,\"prog\":31},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2041,\"rd\":168,\"prog\":-20,\"prov\":true},\"rapid\":{\"games\":72,\"rating\":2239,\"rd\":113,\"prog\":82,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1589135048771,\"online\":true,\"profile\":{\"country\":\"TR\",\"bio\":\"Multi Threaded with its own NNUE Evaluation, Estimated 3710 ELO on Blitz (based on CCRL 40/4). \\r\\n\\r\\nhttps://i.imgur.com/0epxlvV.png\",\"firstName\":\"Dragon by Komodo 2.5\",\"lastName\":\"AVX 64-bit\"},\"seenAt\":1644794108219,\"playTime\":{\"total\":575738,\"tv\":273588},\"url\":\"https://lichess.org/@/BossKomodo\",\"count\":{\"all\":2582,\"rated\":1799,\"ai\":22,\"draw\":569,\"drawH\":566,\"loss\":594,\"lossH\":587,\"win\":1419,\"winH\":1407,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bosskomodo",
+    "username": "BossKomodo",
+    "perfs": {
+      "chess960": {
+        "games": 28,
+        "rating": 1815,
+        "rd": 136,
+        "prog": -50,
+        "prov": true
+      },
+      "blitz": {
+        "games": 364,
+        "rating": 2478,
+        "rd": 71,
+        "prog": -42
+      },
+      "puzzle": {
+        "games": 8,
+        "rating": 2097,
+        "rd": 211,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1012,
+        "rating": 2527,
+        "rd": 82,
+        "prog": 31
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 13,
+        "rating": 2041,
+        "rd": 168,
+        "prog": -20,
+        "prov": true
+      },
+      "rapid": {
+        "games": 72,
+        "rating": 2239,
+        "rd": 113,
+        "prog": 82,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1589135048771,
+    "online": true,
+    "profile": {
+      "country": "TR",
+      "bio": "Multi Threaded with its own NNUE Evaluation, Estimated 3710 ELO on Blitz (based on CCRL 40/4). \r\n\r\nhttps://i.imgur.com/0epxlvV.png",
+      "firstName": "Dragon by Komodo 2.5",
+      "lastName": "AVX 64-bit"
+    },
+    "seenAt": 1644794108219,
+    "playTime": {
+      "total": 575738,
+      "tv": 273588
+    },
+    "url": "https://lichess.org/@/BossKomodo",
+    "count": {
+      "all": 2582,
+      "rated": 1799,
+      "ai": 22,
+      "draw": 569,
+      "drawH": 566,
+      "loss": 594,
+      "lossH": 587,
+      "win": 1419,
+      "winH": 1407,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
