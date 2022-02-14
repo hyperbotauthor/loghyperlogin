@@ -1,0 +1,109 @@
+{
+  "id": "badboybadboyyo",
+  "displayName": "badboybadboyyo",
+  "username": "badboybadboyyo",
+  "profileUrl": "https://lichess.org/@/badboybadboyyo",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"badboybadboyyo\",\"username\":\"badboybadboyyo\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":2114,\"rd\":321,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1807,\"rd\":228,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":2687,\"rd\":257,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1923,\"rd\":319,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2477,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644338906964,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"bio\":\"badboy is running on a heroku server.try challenging with increments.no variants accepted\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1644833823745,\"playTime\":{\"total\":7927,\"tv\":0},\"url\":\"https://lichess.org/@/badboybadboyyo\",\"count\":{\"all\":41,\"rated\":18,\"ai\":13,\"draw\":9,\"drawH\":9,\"loss\":9,\"lossH\":1,\"win\":23,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "badboybadboyyo",
+    "username": "badboybadboyyo",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 2114,
+        "rd": 321,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1807,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 4,
+        "rating": 2687,
+        "rd": 257,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1923,
+        "rd": 319,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 2477,
+        "rd": 156,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1644338906964,
+    "online": true,
+    "profile": {
+      "country": "_pirate",
+      "bio": "badboy is running on a heroku server.try challenging with increments.no variants accepted",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000,
+      "rcfRating": 3000,
+      "cfcRating": 3000,
+      "dsbRating": 3000
+    },
+    "seenAt": 1644833823745,
+    "playTime": {
+      "total": 7927,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/badboybadboyyo",
+    "count": {
+      "all": 41,
+      "rated": 18,
+      "ai": 13,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 9,
+      "lossH": 1,
+      "win": 23,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
