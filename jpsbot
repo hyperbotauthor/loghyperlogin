@@ -4,7 +4,7 @@
   "username": "JPSBOT",
   "profileUrl": "https://lichess.org/@/JPSBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":8,\"rating\":1099,\"rd\":206,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"seenAt\":1644878510601,\"playTime\":{\"total\":2023,\"tv\":0},\"url\":\"https://lichess.org/@/JPSBOT\",\"count\":{\"all\":9,\"rated\":8,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":21,\"rating\":918,\"rd\":137,\"prog\":-96,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"seenAt\":1644882602128,\"playTime\":{\"total\":3763,\"tv\":0},\"url\":\"https://lichess.org/@/JPSBOT\",\"count\":{\"all\":23,\"rated\":21,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":22,\"lossH\":22,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jpsbot",
     "username": "JPSBOT",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "crazyhouse": {
-        "games": 8,
-        "rating": 1099,
-        "rd": 206,
-        "prog": 0,
+        "games": 21,
+        "rating": 918,
+        "rd": 137,
+        "prog": -96,
         "prov": true
       },
       "bullet": {
@@ -55,20 +55,20 @@
     "title": "BOT",
     "createdAt": 1644295571507,
     "online": true,
-    "seenAt": 1644878510601,
+    "seenAt": 1644882602128,
     "playTime": {
-      "total": 2023,
+      "total": 3763,
       "tv": 0
     },
     "url": "https://lichess.org/@/JPSBOT",
     "count": {
-      "all": 9,
-      "rated": 8,
+      "all": 23,
+      "rated": 21,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 8,
-      "lossH": 8,
+      "loss": 22,
+      "lossH": 22,
       "win": 1,
       "winH": 1,
       "bookmark": 0,
