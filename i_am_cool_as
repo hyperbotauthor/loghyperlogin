@@ -4,7 +4,7 @@
   "username": "I_Am_Cool_AS",
   "profileUrl": "https://lichess.org/@/I_Am_Cool_AS",
   "provider": "lichess",
-  "_raw": "{\"id\":\"i_am_cool_as\",\"username\":\"I_Am_Cool_AS\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1640,\"rd\":185,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2157,\"rd\":395,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2152,\"rd\":339,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644750246062,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"In a computer lab\",\"bio\":\"BEEP BOOP BOOP . Hello human, I am a cool chess engine. If you like to play with me challenge me standard chess only . I like to play rated games. BEEP BOOP BOOP. challenge me rated games. My creator is @Asinshana. BEEP BOOP BOOP.\"},\"seenAt\":1644913394472,\"playTime\":{\"total\":8270,\"tv\":0},\"url\":\"https://lichess.org/@/I_Am_Cool_AS\",\"playing\":\"https://lichess.org/QWufNufT/white\",\"count\":{\"all\":32,\"rated\":11,\"ai\":9,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":5,\"win\":22,\"winH\":17,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"i_am_cool_as\",\"username\":\"I_Am_Cool_AS\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1640,\"rd\":185,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2157,\"rd\":395,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2160,\"rd\":332,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644750246062,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"In a computer lab\",\"bio\":\"BEEP BOOP BOOP . Hello human, I am a cool chess engine. If you like to play with me challenge me standard chess only . I like to play rated games. BEEP BOOP BOOP. challenge me rated games. My creator is @Asinshana. BEEP BOOP BOOP.\"},\"seenAt\":1644917728498,\"playTime\":{\"total\":9206,\"tv\":0},\"url\":\"https://lichess.org/@/I_Am_Cool_AS\",\"playing\":\"https://lichess.org/b9m9UEWe/white\",\"count\":{\"all\":35,\"rated\":12,\"ai\":9,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":5,\"win\":25,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "i_am_cool_as",
     "username": "I_Am_Cool_AS",
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2152,
-        "rd": 339,
+        "games": 3,
+        "rating": 2160,
+        "rd": 332,
         "prog": 0,
         "prov": true
       }
@@ -53,23 +53,23 @@
       "location": "In a computer lab",
       "bio": "BEEP BOOP BOOP . Hello human, I am a cool chess engine. If you like to play with me challenge me standard chess only . I like to play rated games. BEEP BOOP BOOP. challenge me rated games. My creator is @Asinshana. BEEP BOOP BOOP."
     },
-    "seenAt": 1644913394472,
+    "seenAt": 1644917728498,
     "playTime": {
-      "total": 8270,
+      "total": 9206,
       "tv": 0
     },
     "url": "https://lichess.org/@/I_Am_Cool_AS",
-    "playing": "https://lichess.org/QWufNufT/white",
+    "playing": "https://lichess.org/b9m9UEWe/white",
     "count": {
-      "all": 32,
-      "rated": 11,
+      "all": 35,
+      "rated": 12,
       "ai": 9,
       "draw": 1,
       "drawH": 1,
       "loss": 9,
       "lossH": 5,
-      "win": 22,
-      "winH": 17,
+      "win": 25,
+      "winH": 20,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
