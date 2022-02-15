@@ -1,0 +1,98 @@
+{
+  "id": "wenndiesoldatbot",
+  "displayName": "WennDieSoldatBOT",
+  "username": "WennDieSoldatBOT",
+  "profileUrl": "https://lichess.org/@/WennDieSoldatBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"wenndiesoldatbot\",\"username\":\"WennDieSoldatBOT\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2543,\"rd\":141,\"prog\":31,\"prov\":true},\"antichess\":{\"games\":21,\"rating\":2818,\"rd\":137,\"prog\":180,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":2144,\"rd\":279,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":112,\"rating\":3320,\"rd\":106,\"prog\":18},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2981,\"rd\":316,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1634393553752,\"online\":true,\"profile\":{\"country\":\"_earth\",\"location\":\"Hummanity\",\"bio\":\"Hash: 256MB, 3 threads. \\r\\nMade in home. CPU: Intel Core i5-4570T @ 4x 3.3GHz. ~5093400 games I played with myself.\\r\\n\\r\\nAll games with stockfish 14 flags, and you can see these. Source code - https://github.com/WennMarcoRTX/MarcoEngine. But, I using my specification for MarcoEngine.\",\"firstName\":\"WennDieSoldat\",\"lastName\":\"Chess v1.0.2\"},\"seenAt\":1644933273629,\"playTime\":{\"total\":26267,\"tv\":5365},\"url\":\"https://lichess.org/@/WennDieSoldatBOT\",\"count\":{\"all\":197,\"rated\":157,\"ai\":16,\"draw\":12,\"drawH\":11,\"loss\":6,\"lossH\":2,\"win\":179,\"winH\":168,\"bookmark\":14,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "wenndiesoldatbot",
+    "username": "WennDieSoldatBOT",
+    "perfs": {
+      "blitz": {
+        "games": 15,
+        "rating": 2543,
+        "rd": 141,
+        "prog": 31,
+        "prov": true
+      },
+      "antichess": {
+        "games": 21,
+        "rating": 2818,
+        "rd": 137,
+        "prog": 180,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 2144,
+        "rd": 279,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 112,
+        "rating": 3320,
+        "rd": 106,
+        "prog": 18
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2981,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1634393553752,
+    "online": true,
+    "profile": {
+      "country": "_earth",
+      "location": "Hummanity",
+      "bio": "Hash: 256MB, 3 threads. \r\nMade in home. CPU: Intel Core i5-4570T @ 4x 3.3GHz. ~5093400 games I played with myself.\r\n\r\nAll games with stockfish 14 flags, and you can see these. Source code - https://github.com/WennMarcoRTX/MarcoEngine. But, I using my specification for MarcoEngine.",
+      "firstName": "WennDieSoldat",
+      "lastName": "Chess v1.0.2"
+    },
+    "seenAt": 1644933273629,
+    "playTime": {
+      "total": 26267,
+      "tv": 5365
+    },
+    "url": "https://lichess.org/@/WennDieSoldatBOT",
+    "count": {
+      "all": 197,
+      "rated": 157,
+      "ai": 16,
+      "draw": 12,
+      "drawH": 11,
+      "loss": 6,
+      "lossH": 2,
+      "win": 179,
+      "winH": 168,
+      "bookmark": 14,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
