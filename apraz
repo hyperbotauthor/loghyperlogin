@@ -4,7 +4,7 @@
   "username": "apraz",
   "profileUrl": "https://lichess.org/@/apraz",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apraz\",\"username\":\"apraz\",\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1482,\"rd\":477,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1432,\"rd\":407,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1849,\"rd\":161,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1383,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":35,\"rating\":1611,\"rd\":67,\"prog\":149},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2085,\"rd\":377,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644799655546,\"online\":true,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1644855695061,\"playTime\":{\"total\":9967,\"tv\":0},\"url\":\"https://lichess.org/@/apraz\",\"count\":{\"all\":62,\"rated\":46,\"ai\":8,\"draw\":2,\"drawH\":2,\"loss\":29,\"lossH\":23,\"win\":31,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apraz\",\"username\":\"apraz\",\"perfs\":{\"antichess\":{\"games\":1,\"rating\":1482,\"rd\":477,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1432,\"rd\":407,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":1849,\"rd\":161,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1383,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":67,\"rating\":1662,\"rd\":50,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1823,\"rd\":295,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1641,\"rd\":289,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644799655546,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"feel free to challenge me\"},\"seenAt\":1644905616547,\"playTime\":{\"total\":17727,\"tv\":0},\"url\":\"https://lichess.org/@/apraz\",\"count\":{\"all\":97,\"rated\":81,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":53,\"lossH\":47,\"win\":41,\"winH\":39,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apraz",
     "username": "apraz",
@@ -38,10 +38,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 35,
-        "rating": 1611,
-        "rd": 67,
-        "prog": 149
+        "games": 67,
+        "rating": 1662,
+        "rd": 50,
+        "prog": -2
       },
       "correspondence": {
         "games": 0,
@@ -51,16 +51,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1823,
+        "rd": 295,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2085,
-        "rd": 377,
+        "games": 3,
+        "rating": 1641,
+        "rd": 289,
         "prog": 0,
         "prov": true
       }
@@ -69,24 +69,25 @@
     "createdAt": 1644799655546,
     "online": true,
     "profile": {
-      "country": "_lichess"
+      "country": "_lichess",
+      "bio": "feel free to challenge me"
     },
-    "seenAt": 1644855695061,
+    "seenAt": 1644905616547,
     "playTime": {
-      "total": 9967,
+      "total": 17727,
       "tv": 0
     },
     "url": "https://lichess.org/@/apraz",
     "count": {
-      "all": 62,
-      "rated": 46,
+      "all": 97,
+      "rated": 81,
       "ai": 8,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 29,
-      "lossH": 23,
-      "win": 31,
-      "winH": 29,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 53,
+      "lossH": 47,
+      "win": 41,
+      "winH": 39,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
