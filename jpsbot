@@ -4,7 +4,7 @@
   "username": "JPSBOT",
   "profileUrl": "https://lichess.org/@/JPSBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":22,\"rating\":912,\"rd\":135,\"prog\":-102,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"profile\":{\"bio\":\"Can play standard or crazyhouse. all times allowed, draws prohibitted. sometimes will make random moves, sometimes will use book. beware it does learn from its mistakes. @JPS838898 is my account if this doesnt work pls message and tell me\"},\"seenAt\":1644891963261,\"playTime\":{\"total\":4259,\"tv\":0},\"url\":\"https://lichess.org/@/JPSBOT\",\"playing\":\"https://lichess.org/kFTQnFjo/black\",\"count\":{\"all\":29,\"rated\":22,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":27,\"lossH\":27,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":23,\"rating\":908,\"rd\":133,\"prog\":-89,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"profile\":{\"bio\":\"Can play standard or crazyhouse. all times allowed, draws prohibitted. sometimes will make random moves, sometimes will use book. beware it does learn from its mistakes. @JPS838898 is my account if this doesnt work pls message and tell me\"},\"seenAt\":1644936767150,\"playTime\":{\"total\":4701,\"tv\":0},\"url\":\"https://lichess.org/@/JPSBOT\",\"count\":{\"all\":30,\"rated\":23,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":28,\"lossH\":28,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jpsbot",
     "username": "JPSBOT",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "crazyhouse": {
-        "games": 22,
-        "rating": 912,
-        "rd": 135,
-        "prog": -102,
+        "games": 23,
+        "rating": 908,
+        "rd": 133,
+        "prog": -89,
         "prov": true
       },
       "bullet": {
@@ -58,25 +58,24 @@
     "profile": {
       "bio": "Can play standard or crazyhouse. all times allowed, draws prohibitted. sometimes will make random moves, sometimes will use book. beware it does learn from its mistakes. @JPS838898 is my account if this doesnt work pls message and tell me"
     },
-    "seenAt": 1644891963261,
+    "seenAt": 1644936767150,
     "playTime": {
-      "total": 4259,
+      "total": 4701,
       "tv": 0
     },
     "url": "https://lichess.org/@/JPSBOT",
-    "playing": "https://lichess.org/kFTQnFjo/black",
     "count": {
-      "all": 29,
-      "rated": 22,
+      "all": 30,
+      "rated": 23,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 27,
-      "lossH": 27,
+      "loss": 28,
+      "lossH": 28,
       "win": 2,
       "winH": 2,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
