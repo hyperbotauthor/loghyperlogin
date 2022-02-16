@@ -1,0 +1,83 @@
+{
+  "id": "mangnuscalsen",
+  "displayName": "Mangnuscalsen",
+  "username": "Mangnuscalsen",
+  "profileUrl": "https://lichess.org/@/Mangnuscalsen",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"mangnuscalsen\",\"username\":\"Mangnuscalsen\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":1602,\"rd\":85,\"prog\":74},\"puzzle\":{\"games\":2,\"rating\":1633,\"rd\":270,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":20,\"rating\":1788,\"rd\":83,\"prog\":-47},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1643556502323,\"online\":true,\"seenAt\":1645004569949,\"playTime\":{\"total\":6227,\"tv\":0},\"url\":\"https://lichess.org/@/Mangnuscalsen\",\"completionRate\":93,\"count\":{\"all\":39,\"rated\":39,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":14,\"lossH\":14,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "mangnuscalsen",
+    "username": "Mangnuscalsen",
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 1602,
+        "rd": 85,
+        "prog": 74
+      },
+      "puzzle": {
+        "games": 2,
+        "rating": 1633,
+        "rd": 270,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 20,
+        "rating": 1788,
+        "rd": 83,
+        "prog": -47
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1643556502323,
+    "online": true,
+    "seenAt": 1645004569949,
+    "playTime": {
+      "total": 6227,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Mangnuscalsen",
+    "completionRate": 93,
+    "count": {
+      "all": 39,
+      "rated": 39,
+      "ai": 0,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 14,
+      "lossH": 14,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
