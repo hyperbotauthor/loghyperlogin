@@ -1,0 +1,85 @@
+{
+  "id": "sussybanka",
+  "displayName": "sussybanka",
+  "username": "sussybanka",
+  "profileUrl": "https://lichess.org/@/sussybanka",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sussybanka\",\"username\":\"sussybanka\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1413,\"rd\":236,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1241,\"rd\":313,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1628,\"rd\":199,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1611,\"rd\":314,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643359217537,\"online\":true,\"seenAt\":1645005440042,\"playTime\":{\"total\":686,\"tv\":0},\"url\":\"https://lichess.org/@/sussybanka\",\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":9,\"lossH\":9,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sussybanka",
+    "username": "sussybanka",
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 1413,
+        "rd": 236,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1241,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 4,
+        "rating": 1628,
+        "rd": 199,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1611,
+        "rd": 314,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1643359217537,
+    "online": true,
+    "seenAt": 1645005440042,
+    "playTime": {
+      "total": 686,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/sussybanka",
+    "count": {
+      "all": 9,
+      "rated": 9,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 9,
+      "lossH": 9,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
