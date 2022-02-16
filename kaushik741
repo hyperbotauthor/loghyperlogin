@@ -1,0 +1,159 @@
+{
+  "id": "kaushik741",
+  "displayName": "Kaushik741",
+  "username": "Kaushik741",
+  "profileUrl": "https://lichess.org/@/Kaushik741",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kaushik741\",\"username\":\"Kaushik741\",\"perfs\":{\"chess960\":{\"games\":32,\"rating\":1237,\"rd\":110,\"prog\":82,\"prov\":true},\"antichess\":{\"games\":79,\"rating\":1162,\"rd\":64,\"prog\":36},\"atomic\":{\"games\":337,\"rating\":1400,\"rd\":45,\"prog\":-7},\"racingKings\":{\"games\":11,\"rating\":1465,\"rd\":150,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":114,\"rating\":918,\"rd\":58,\"prog\":16},\"blitz\":{\"games\":464,\"rating\":1285,\"rd\":46,\"prog\":-14},\"kingOfTheHill\":{\"games\":18,\"rating\":1631,\"rd\":111,\"prog\":29,\"prov\":true},\"crazyhouse\":{\"games\":50,\"rating\":1271,\"rd\":85,\"prog\":-48},\"threeCheck\":{\"games\":296,\"rating\":1527,\"rd\":49,\"prog\":9},\"bullet\":{\"games\":360,\"rating\":1031,\"rd\":48,\"prog\":-12},\"correspondence\":{\"games\":2,\"rating\":1190,\"rd\":311,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1331,\"rd\":214,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1241,\"rating\":1503,\"rd\":90,\"prog\":0},\"classical\":{\"games\":8,\"rating\":1415,\"rd\":149,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":264,\"rating\":1295,\"rd\":45,\"prog\":10},\"storm\":{\"runs\":9,\"score\":14},\"racer\":{\"runs\":53,\"score\":23},\"streak\":{\"runs\":11,\"score\":10}},\"createdAt\":1624800194718,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"Bangalore\",\"bio\":\"My best players are GM Vishwanath anand\",\"firstName\":\"Kaushik\",\"lastName\":\"Ramachandran\",\"links\":\"https://www.google.com/search?q=gm+viswanathan+anand&rlz=1C9BKJA_enIN962IN962&hl=en-GB&sxsrf=AOaemvLylgGM_etU9mkLoOGTQcRMNC1CVQ%3A1641897802722&ei=Sl_dYYHEK82F4-EPxpeaiA0&oq=gm+vishwanath+a&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIECAAQDTIGCAAQDRAeMgcIIRAKEKABMgcIIRAKEKABOgcIIxCwAxAnOgcIABBHELADOgYIABANEAo6CAgAEA0QChAeSgQIQRgAUMgSWMsVYIskaAFwAXgAgAGsAYgB1AKSAQMwLjKYAQCgAQHIAQnAAQE&sclient=mobile-gws-wiz-serp\"},\"seenAt\":1644984522082,\"playTime\":{\"total\":356707,\"tv\":2120},\"url\":\"https://lichess.org/@/Kaushik741\",\"completionRate\":80,\"count\":{\"all\":2439,\"rated\":2065,\"ai\":95,\"draw\":67,\"drawH\":66,\"loss\":1277,\"lossH\":1223,\"win\":1095,\"winH\":1055,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kaushik741",
+    "username": "Kaushik741",
+    "perfs": {
+      "chess960": {
+        "games": 32,
+        "rating": 1237,
+        "rd": 110,
+        "prog": 82,
+        "prov": true
+      },
+      "antichess": {
+        "games": 79,
+        "rating": 1162,
+        "rd": 64,
+        "prog": 36
+      },
+      "atomic": {
+        "games": 337,
+        "rating": 1400,
+        "rd": 45,
+        "prog": -7
+      },
+      "racingKings": {
+        "games": 11,
+        "rating": 1465,
+        "rd": 150,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 114,
+        "rating": 918,
+        "rd": 58,
+        "prog": 16
+      },
+      "blitz": {
+        "games": 464,
+        "rating": 1285,
+        "rd": 46,
+        "prog": -14
+      },
+      "kingOfTheHill": {
+        "games": 18,
+        "rating": 1631,
+        "rd": 111,
+        "prog": 29,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 50,
+        "rating": 1271,
+        "rd": 85,
+        "prog": -48
+      },
+      "threeCheck": {
+        "games": 296,
+        "rating": 1527,
+        "rd": 49,
+        "prog": 9
+      },
+      "bullet": {
+        "games": 360,
+        "rating": 1031,
+        "rd": 48,
+        "prog": -12
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1190,
+        "rd": 311,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 5,
+        "rating": 1331,
+        "rd": 214,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1241,
+        "rating": 1503,
+        "rd": 90,
+        "prog": 0
+      },
+      "classical": {
+        "games": 8,
+        "rating": 1415,
+        "rd": 149,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 264,
+        "rating": 1295,
+        "rd": 45,
+        "prog": 10
+      },
+      "storm": {
+        "runs": 9,
+        "score": 14
+      },
+      "racer": {
+        "runs": 53,
+        "score": 23
+      },
+      "streak": {
+        "runs": 11,
+        "score": 10
+      }
+    },
+    "createdAt": 1624800194718,
+    "online": true,
+    "profile": {
+      "country": "IN",
+      "location": "Bangalore",
+      "bio": "My best players are GM Vishwanath anand",
+      "firstName": "Kaushik",
+      "lastName": "Ramachandran",
+      "links": "https://www.google.com/search?q=gm+viswanathan+anand&rlz=1C9BKJA_enIN962IN962&hl=en-GB&sxsrf=AOaemvLylgGM_etU9mkLoOGTQcRMNC1CVQ%3A1641897802722&ei=Sl_dYYHEK82F4-EPxpeaiA0&oq=gm+vishwanath+a&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIECAAQDTIGCAAQDRAeMgcIIRAKEKABMgcIIRAKEKABOgcIIxCwAxAnOgcIABBHELADOgYIABANEAo6CAgAEA0QChAeSgQIQRgAUMgSWMsVYIskaAFwAXgAgAGsAYgB1AKSAQMwLjKYAQCgAQHIAQnAAQE&sclient=mobile-gws-wiz-serp"
+    },
+    "seenAt": 1644984522082,
+    "playTime": {
+      "total": 356707,
+      "tv": 2120
+    },
+    "url": "https://lichess.org/@/Kaushik741",
+    "completionRate": 80,
+    "count": {
+      "all": 2439,
+      "rated": 2065,
+      "ai": 95,
+      "draw": 67,
+      "drawH": 66,
+      "loss": 1277,
+      "lossH": 1223,
+      "win": 1095,
+      "winH": 1055,
+      "bookmark": 3,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
