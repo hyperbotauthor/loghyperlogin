@@ -1,0 +1,76 @@
+{
+  "id": "bahubali2007",
+  "displayName": "Bahubali2007",
+  "username": "Bahubali2007",
+  "profileUrl": "https://lichess.org/@/Bahubali2007",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bahubali2007\",\"username\":\"Bahubali2007\",\"perfs\":{\"blitz\":{\"games\":14,\"rating\":1902,\"rd\":93,\"prog\":6},\"bullet\":{\"games\":17,\"rating\":1954,\"rd\":84,\"prog\":-40},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1644915101282,\"online\":true,\"seenAt\":1645004404156,\"playTime\":{\"total\":5352,\"tv\":0},\"url\":\"https://lichess.org/@/Bahubali2007\",\"completionRate\":50,\"count\":{\"all\":31,\"rated\":31,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":9,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bahubali2007",
+    "username": "Bahubali2007",
+    "perfs": {
+      "blitz": {
+        "games": 14,
+        "rating": 1902,
+        "rd": 93,
+        "prog": 6
+      },
+      "bullet": {
+        "games": 17,
+        "rating": 1954,
+        "rd": 84,
+        "prog": -40
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1644915101282,
+    "online": true,
+    "seenAt": 1645004404156,
+    "playTime": {
+      "total": 5352,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Bahubali2007",
+    "completionRate": 50,
+    "count": {
+      "all": 31,
+      "rated": 31,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 9,
+      "lossH": 9,
+      "win": 20,
+      "winH": 20,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
