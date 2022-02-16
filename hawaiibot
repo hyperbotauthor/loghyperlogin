@@ -1,0 +1,79 @@
+{
+  "id": "hawaiibot",
+  "displayName": "hawaiibot",
+  "username": "hawaiibot",
+  "profileUrl": "https://lichess.org/@/hawaiibot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hawaiibot\",\"username\":\"hawaiibot\",\"perfs\":{\"blitz\":{\"games\":19,\"rating\":2272,\"rd\":106,\"prog\":-64},\"bullet\":{\"games\":64,\"rating\":2265,\"rd\":71,\"prog\":8},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640325071512,\"online\":true,\"profile\":{\"bio\":\"Decent strength bot\"},\"seenAt\":1644995587443,\"playTime\":{\"total\":22717,\"tv\":3813},\"url\":\"https://lichess.org/@/hawaiibot\",\"count\":{\"all\":131,\"rated\":83,\"ai\":22,\"draw\":8,\"drawH\":7,\"loss\":50,\"lossH\":36,\"win\":73,\"winH\":66,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hawaiibot",
+    "username": "hawaiibot",
+    "perfs": {
+      "blitz": {
+        "games": 19,
+        "rating": 2272,
+        "rd": 106,
+        "prog": -64
+      },
+      "bullet": {
+        "games": 64,
+        "rating": 2265,
+        "rd": 71,
+        "prog": 8
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1640325071512,
+    "online": true,
+    "profile": {
+      "bio": "Decent strength bot"
+    },
+    "seenAt": 1644995587443,
+    "playTime": {
+      "total": 22717,
+      "tv": 3813
+    },
+    "url": "https://lichess.org/@/hawaiibot",
+    "count": {
+      "all": 131,
+      "rated": 83,
+      "ai": 22,
+      "draw": 8,
+      "drawH": 7,
+      "loss": 50,
+      "lossH": 36,
+      "win": 73,
+      "winH": 66,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
