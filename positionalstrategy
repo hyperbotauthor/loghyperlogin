@@ -1,0 +1,85 @@
+{
+  "id": "positionalstrategy",
+  "displayName": "PositionalStrategy",
+  "username": "PositionalStrategy",
+  "profileUrl": "https://lichess.org/@/PositionalStrategy",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"positionalstrategy\",\"username\":\"PositionalStrategy\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1367,\"rd\":395,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":4,\"rating\":1634,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1679,\"rd\":297,\"prog\":0,\"prov\":true}},\"createdAt\":1643412671177,\"online\":true,\"seenAt\":1645047168841,\"playTime\":{\"total\":1848,\"tv\":0},\"url\":\"https://lichess.org/@/PositionalStrategy\",\"playing\":\"https://lichess.org/0rYaW0uA/black\",\"count\":{\"all\":5,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "positionalstrategy",
+    "username": "PositionalStrategy",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1367,
+        "rd": 395,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 4,
+        "rating": 1634,
+        "rd": 338,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1679,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1643412671177,
+    "online": true,
+    "seenAt": 1645047168841,
+    "playTime": {
+      "total": 1848,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/PositionalStrategy",
+    "playing": "https://lichess.org/0rYaW0uA/black",
+    "count": {
+      "all": 5,
+      "rated": 3,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 3,
+      "lossH": 3,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
