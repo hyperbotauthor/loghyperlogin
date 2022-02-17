@@ -1,0 +1,87 @@
+{
+  "id": "irisliberty",
+  "displayName": "irisliberty",
+  "username": "irisliberty",
+  "profileUrl": "https://lichess.org/@/irisliberty",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"irisliberty\",\"username\":\"irisliberty\",\"perfs\":{\"blitz\":{\"games\":63,\"rating\":1973,\"rd\":77,\"prog\":-8},\"puzzle\":{\"games\":124,\"rating\":2150,\"rd\":96,\"prog\":0},\"bullet\":{\"games\":1,\"rating\":1498,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":15,\"rating\":1817,\"rd\":137,\"prog\":172,\"prov\":true},\"rapid\":{\"games\":437,\"rating\":2285,\"rd\":46,\"prog\":21}},\"createdAt\":1597488969402,\"online\":true,\"profile\":{\"country\":\"AR\",\"bio\":\"Like to play chess and like to play like tal\",\"firstName\":\"Alexander Alex\"},\"seenAt\":1645096468849,\"playTime\":{\"total\":417464,\"tv\":14355},\"url\":\"https://lichess.org/@/irisliberty\",\"completionRate\":80,\"count\":{\"all\":943,\"rated\":522,\"ai\":0,\"draw\":58,\"drawH\":58,\"loss\":611,\"lossH\":611,\"win\":274,\"winH\":274,\"bookmark\":4,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "irisliberty",
+    "username": "irisliberty",
+    "perfs": {
+      "blitz": {
+        "games": 63,
+        "rating": 1973,
+        "rd": 77,
+        "prog": -8
+      },
+      "puzzle": {
+        "games": 124,
+        "rating": 2150,
+        "rd": 96,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1498,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 15,
+        "rating": 1817,
+        "rd": 137,
+        "prog": 172,
+        "prov": true
+      },
+      "rapid": {
+        "games": 437,
+        "rating": 2285,
+        "rd": 46,
+        "prog": 21
+      }
+    },
+    "createdAt": 1597488969402,
+    "online": true,
+    "profile": {
+      "country": "AR",
+      "bio": "Like to play chess and like to play like tal",
+      "firstName": "Alexander Alex"
+    },
+    "seenAt": 1645096468849,
+    "playTime": {
+      "total": 417464,
+      "tv": 14355
+    },
+    "url": "https://lichess.org/@/irisliberty",
+    "completionRate": 80,
+    "count": {
+      "all": 943,
+      "rated": 522,
+      "ai": 0,
+      "draw": 58,
+      "drawH": 58,
+      "loss": 611,
+      "lossH": 611,
+      "win": 274,
+      "winH": 274,
+      "bookmark": 4,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
