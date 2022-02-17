@@ -4,7 +4,7 @@
   "username": "Navaneeths2007",
   "profileUrl": "https://lichess.org/@/Navaneeths2007",
   "provider": "lichess",
-  "_raw": "{\"id\":\"navaneeths2007\",\"username\":\"Navaneeths2007\",\"perfs\":{\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":2140,\"rd\":84,\"prog\":82},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":1777,\"rd\":83,\"prog\":167},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2482,\"rd\":170,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645004891396,\"online\":true,\"seenAt\":1645073187604,\"playTime\":{\"total\":11421,\"tv\":714},\"url\":\"https://lichess.org/@/Navaneeths2007\",\"count\":{\"all\":53,\"rated\":52,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":22,\"lossH\":22,\"win\":28,\"winH\":28,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"navaneeths2007\",\"username\":\"Navaneeths2007\",\"perfs\":{\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":22,\"rating\":2114,\"rd\":81,\"prog\":56},\"crazyhouse\":{\"games\":1,\"rating\":1741,\"rd\":396,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":38,\"rating\":1828,\"rd\":70,\"prog\":-10},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2445,\"rd\":157,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645004891396,\"online\":true,\"seenAt\":1645092519448,\"playTime\":{\"total\":16110,\"tv\":1902},\"url\":\"https://lichess.org/@/Navaneeths2007\",\"playing\":\"https://lichess.org/thJVo6JF/black\",\"count\":{\"all\":73,\"rated\":72,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":38,\"lossH\":38,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "navaneeths2007",
     "username": "Navaneeths2007",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 19,
-        "rating": 2140,
-        "rd": 84,
-        "prog": 82
+        "games": 22,
+        "rating": 2114,
+        "rd": 81,
+        "prog": 56
       },
       "crazyhouse": {
         "games": 1,
@@ -30,10 +30,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 22,
-        "rating": 1777,
-        "rd": 83,
-        "prog": 167
+        "games": 38,
+        "rating": 1828,
+        "rd": 70,
+        "prog": -10
       },
       "correspondence": {
         "games": 0,
@@ -50,9 +50,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 4,
-        "rating": 2482,
-        "rd": 170,
+        "games": 5,
+        "rating": 2445,
+        "rd": 157,
         "prog": 0,
         "prov": true
       }
@@ -60,24 +60,25 @@
     "title": "BOT",
     "createdAt": 1645004891396,
     "online": true,
-    "seenAt": 1645073187604,
+    "seenAt": 1645092519448,
     "playTime": {
-      "total": 11421,
-      "tv": 714
+      "total": 16110,
+      "tv": 1902
     },
     "url": "https://lichess.org/@/Navaneeths2007",
+    "playing": "https://lichess.org/thJVo6JF/black",
     "count": {
-      "all": 53,
-      "rated": 52,
+      "all": 73,
+      "rated": 72,
       "ai": 0,
       "draw": 3,
       "drawH": 3,
-      "loss": 22,
-      "lossH": 22,
-      "win": 28,
-      "winH": 28,
+      "loss": 38,
+      "lossH": 38,
+      "win": 32,
+      "winH": 32,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
