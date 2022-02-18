@@ -1,0 +1,93 @@
+{
+  "id": "varient_eagle",
+  "displayName": "Varient_Eagle",
+  "username": "Varient_Eagle",
+  "profileUrl": "https://lichess.org/@/Varient_Eagle",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"varient_eagle\",\"username\":\"Varient_Eagle\",\"perfs\":{\"blitz\":{\"games\":77,\"rating\":2471,\"rd\":151,\"prog\":-31,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1741,\"rd\":416,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":186,\"rating\":2122,\"rd\":110,\"prog\":-108,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1649,\"rd\":252,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2314,\"rd\":171,\"prog\":-35,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1617894206550,\"online\":true,\"profile\":{\"country\":\"_earth\",\"location\":\"Westmont, IL\",\"bio\":\"I am a bot (Duh) My maker is @panthers498wjhs and with a little help from @YJP they made me possible. Pls feel free to challenge me to a casual game of bullet for now whenever I am on, no ultrabullet. The only way to learn is to make mistakes\",\"firstName\":\"Variant\",\"lastName\":\"Eagle\",\"fideRating\":2600},\"seenAt\":1645195277260,\"playTime\":{\"total\":72667,\"tv\":3418},\"url\":\"https://lichess.org/@/Varient_Eagle\",\"count\":{\"all\":479,\"rated\":289,\"ai\":32,\"draw\":33,\"drawH\":30,\"loss\":103,\"lossH\":89,\"win\":343,\"winH\":328,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "varient_eagle",
+    "username": "Varient_Eagle",
+    "perfs": {
+      "blitz": {
+        "games": 77,
+        "rating": 2471,
+        "rd": 151,
+        "prog": -31,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1741,
+        "rd": 416,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 186,
+        "rating": 2122,
+        "rd": 110,
+        "prog": -108,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 5,
+        "rating": 1649,
+        "rd": 252,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 13,
+        "rating": 2314,
+        "rd": 171,
+        "prog": -35,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1617894206550,
+    "online": true,
+    "profile": {
+      "country": "_earth",
+      "location": "Westmont, IL",
+      "bio": "I am a bot (Duh) My maker is @panthers498wjhs and with a little help from @YJP they made me possible. Pls feel free to challenge me to a casual game of bullet for now whenever I am on, no ultrabullet. The only way to learn is to make mistakes",
+      "firstName": "Variant",
+      "lastName": "Eagle",
+      "fideRating": 2600
+    },
+    "seenAt": 1645195277260,
+    "playTime": {
+      "total": 72667,
+      "tv": 3418
+    },
+    "url": "https://lichess.org/@/Varient_Eagle",
+    "count": {
+      "all": 479,
+      "rated": 289,
+      "ai": 32,
+      "draw": 33,
+      "drawH": 30,
+      "loss": 103,
+      "lossH": 89,
+      "win": 343,
+      "winH": 328,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
