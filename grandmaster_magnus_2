@@ -1,0 +1,123 @@
+{
+  "id": "grandmaster_magnus_2",
+  "displayName": "GRANDMASTER_MAGNUS_2",
+  "username": "GRANDMASTER_MAGNUS_2",
+  "profileUrl": "https://lichess.org/@/GRANDMASTER_MAGNUS_2",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"grandmaster_magnus_2\",\"username\":\"GRANDMASTER_MAGNUS_2\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":986,\"rd\":289,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1340,\"rating\":2031,\"rd\":74,\"prog\":0},\"ultraBullet\":{\"games\":7,\"rating\":1088,\"rd\":194,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":160,\"rating\":1510,\"rd\":70,\"prog\":55},\"crazyhouse\":{\"games\":4,\"rating\":1379,\"rd\":224,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":348,\"rating\":1740,\"rd\":60,\"prog\":-10},\"correspondence\":{\"games\":3,\"rating\":1155,\"rd\":345,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":988,\"rd\":196,\"prog\":-4,\"prov\":true},\"rapid\":{\"games\":42,\"rating\":1532,\"rd\":104,\"prog\":351},\"storm\":{\"runs\":28,\"score\":36},\"racer\":{\"runs\":21,\"score\":59},\"streak\":{\"runs\":3,\"score\":16}},\"tosViolation\":true,\"createdAt\":1625031176068,\"online\":true,\"profile\":{\"country\":\"IN\",\"location\":\"BARASAT\",\"bio\":\"HELLO!I AM JUNAID.I LEARN IN MGCA CHESS ACADEMY.YOU CAN FOLLOW ME AND MESSAGE ME ANYTIME.YOU CAN WATCH MY GAMES TOO.MY FAVORITE OPENINGS ARE FRENCH DEFENSE,LONDON SYSTEM, RUY LOPEZ-STEINIZ VARIATION.MY FAVOURITE PLAYERS ARE VISHWANATHAN ANAND,MAGNUS CARLSEN,MIKHAIL TAL,GARRY KASPAROV AND BOBBY FISHER,FABIANO CARUANA AND ANISH GIRI.\",\"firstName\":\"JUNAID HOQUE\",\"lastName\":\"JUNAID2011\",\"fideRating\":1400},\"seenAt\":1645339629567,\"playTime\":{\"total\":122744,\"tv\":0},\"url\":\"https://lichess.org/@/GRANDMASTER_MAGNUS_2\",\"completionRate\":83,\"count\":{\"all\":959,\"rated\":756,\"ai\":9,\"draw\":32,\"drawH\":31,\"loss\":462,\"lossH\":457,\"win\":465,\"winH\":462,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "grandmaster_magnus_2",
+    "username": "GRANDMASTER_MAGNUS_2",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 986,
+        "rd": 289,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1340,
+        "rating": 2031,
+        "rd": 74,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 7,
+        "rating": 1088,
+        "rd": 194,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 160,
+        "rating": 1510,
+        "rd": 70,
+        "prog": 55
+      },
+      "crazyhouse": {
+        "games": 4,
+        "rating": 1379,
+        "rd": 224,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 348,
+        "rating": 1740,
+        "rd": 60,
+        "prog": -10
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1155,
+        "rd": 345,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 13,
+        "rating": 988,
+        "rd": 196,
+        "prog": -4,
+        "prov": true
+      },
+      "rapid": {
+        "games": 42,
+        "rating": 1532,
+        "rd": 104,
+        "prog": 351
+      },
+      "storm": {
+        "runs": 28,
+        "score": 36
+      },
+      "racer": {
+        "runs": 21,
+        "score": 59
+      },
+      "streak": {
+        "runs": 3,
+        "score": 16
+      }
+    },
+    "tosViolation": true,
+    "createdAt": 1625031176068,
+    "online": true,
+    "profile": {
+      "country": "IN",
+      "location": "BARASAT",
+      "bio": "HELLO!I AM JUNAID.I LEARN IN MGCA CHESS ACADEMY.YOU CAN FOLLOW ME AND MESSAGE ME ANYTIME.YOU CAN WATCH MY GAMES TOO.MY FAVORITE OPENINGS ARE FRENCH DEFENSE,LONDON SYSTEM, RUY LOPEZ-STEINIZ VARIATION.MY FAVOURITE PLAYERS ARE VISHWANATHAN ANAND,MAGNUS CARLSEN,MIKHAIL TAL,GARRY KASPAROV AND BOBBY FISHER,FABIANO CARUANA AND ANISH GIRI.",
+      "firstName": "JUNAID HOQUE",
+      "lastName": "JUNAID2011",
+      "fideRating": 1400
+    },
+    "seenAt": 1645339629567,
+    "playTime": {
+      "total": 122744,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/GRANDMASTER_MAGNUS_2",
+    "completionRate": 83,
+    "count": {
+      "all": 959,
+      "rated": 756,
+      "ai": 9,
+      "draw": 32,
+      "drawH": 31,
+      "loss": 462,
+      "lossH": 457,
+      "win": 465,
+      "winH": 462,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
