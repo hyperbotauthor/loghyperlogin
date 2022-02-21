@@ -1,0 +1,80 @@
+{
+  "id": "alpha-zero-clone",
+  "displayName": "Alpha-Zero-Clone",
+  "username": "Alpha-Zero-Clone",
+  "profileUrl": "https://lichess.org/@/Alpha-Zero-Clone",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"alpha-zero-clone\",\"username\":\"Alpha-Zero-Clone\",\"perfs\":{\"blitz\":{\"games\":17,\"rating\":2307,\"rd\":113,\"prog\":62,\"prov\":true},\"bullet\":{\"games\":63,\"rating\":2266,\"rd\":78,\"prog\":-34},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641451375203,\"online\":true,\"profile\":{\"bio\":\"Made by @SwarnimGulhane . Please join my team- https://lichess.org/team/swarnimgulhane-team\"},\"seenAt\":1645418269261,\"playTime\":{\"total\":11654,\"tv\":366},\"url\":\"https://lichess.org/@/Alpha-Zero-Clone\",\"count\":{\"all\":95,\"rated\":83,\"ai\":8,\"draw\":3,\"drawH\":3,\"loss\":15,\"lossH\":11,\"win\":77,\"winH\":73,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "alpha-zero-clone",
+    "username": "Alpha-Zero-Clone",
+    "perfs": {
+      "blitz": {
+        "games": 17,
+        "rating": 2307,
+        "rd": 113,
+        "prog": 62,
+        "prov": true
+      },
+      "bullet": {
+        "games": 63,
+        "rating": 2266,
+        "rd": 78,
+        "prog": -34
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641451375203,
+    "online": true,
+    "profile": {
+      "bio": "Made by @SwarnimGulhane . Please join my team- https://lichess.org/team/swarnimgulhane-team"
+    },
+    "seenAt": 1645418269261,
+    "playTime": {
+      "total": 11654,
+      "tv": 366
+    },
+    "url": "https://lichess.org/@/Alpha-Zero-Clone",
+    "count": {
+      "all": 95,
+      "rated": 83,
+      "ai": 8,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 15,
+      "lossH": 11,
+      "win": 77,
+      "winH": 73,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
