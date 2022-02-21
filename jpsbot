@@ -4,31 +4,30 @@
   "username": "JPSBOT",
   "profileUrl": "https://lichess.org/@/JPSBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":23,\"rating\":908,\"rd\":134,\"prog\":-89,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2273,\"rd\":247,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":2083,\"rd\":161,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2133,\"rd\":322,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"profile\":{\"bio\":\"Can playall variations but specially built for standard. all times allowed exept bullet or hyperbullet, draws prohibitted. sometimes will make random moves, sometimes will use book. beware it does learn from its mistakes. @JPS838898 is my account if this doesnt work pls message and tell me\"},\"seenAt\":1645037091929,\"playTime\":{\"total\":32986,\"tv\":0},\"url\":\"https://lichess.org/@/JPSBOT\",\"count\":{\"all\":69,\"rated\":38,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":37,\"lossH\":34,\"win\":29,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"jpsbot\",\"username\":\"JPSBOT\",\"perfs\":{\"blitz\":{\"games\":18,\"rating\":2547,\"rd\":133,\"prog\":30,\"prov\":true},\"crazyhouse\":{\"games\":23,\"rating\":908,\"rd\":135,\"prog\":-89,\"prov\":true},\"bullet\":{\"games\":158,\"rating\":2529,\"rd\":45,\"prog\":23},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2144,\"rd\":155,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2493,\"rd\":156,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644295571507,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"location\":\"Hidden\",\"bio\":\"human form: @JPS838898\\r\\nenjoy playing this bot which plays all variants and all time controls exept bullet. runs on free heroku account so please do dm me and tell me if it doesnt work.\\r\\nhomepage: https://lichess-bot-jpsbot.herokuapp.com/\\r\\ndoes about 40-50Mn & 16Mh/s\\r\\nthats all have fun:)\",\"links\":\"https://github.com/Jps838898\"},\"seenAt\":1645474886691,\"playTime\":{\"total\":84561,\"tv\":2734},\"url\":\"https://lichess.org/@/JPSBOT\",\"playing\":\"https://lichess.org/vGcqZ72E/white\",\"count\":{\"all\":297,\"rated\":235,\"ai\":9,\"draw\":56,\"drawH\":56,\"loss\":69,\"lossH\":65,\"win\":172,\"winH\":167,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "jpsbot",
     "username": "JPSBOT",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
+        "games": 18,
+        "rating": 2547,
+        "rd": 133,
+        "prog": 30,
         "prov": true
       },
       "crazyhouse": {
         "games": 23,
         "rating": 908,
-        "rd": 134,
+        "rd": 135,
         "prog": -89,
         "prov": true
       },
       "bullet": {
-        "games": 4,
-        "rating": 2273,
-        "rd": 247,
-        "prog": 0,
-        "prov": true
+        "games": 158,
+        "rating": 2529,
+        "rd": 45,
+        "prog": 23
       },
       "correspondence": {
         "games": 0,
@@ -38,16 +37,16 @@
         "prov": true
       },
       "classical": {
-        "games": 6,
-        "rating": 2083,
-        "rd": 161,
+        "games": 8,
+        "rating": 2144,
+        "rd": 155,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2133,
-        "rd": 322,
+        "games": 10,
+        "rating": 2493,
+        "rd": 156,
         "prog": 0,
         "prov": true
       }
@@ -56,26 +55,30 @@
     "createdAt": 1644295571507,
     "online": true,
     "profile": {
-      "bio": "Can playall variations but specially built for standard. all times allowed exept bullet or hyperbullet, draws prohibitted. sometimes will make random moves, sometimes will use book. beware it does learn from its mistakes. @JPS838898 is my account if this doesnt work pls message and tell me"
+      "country": "_united-nations",
+      "location": "Hidden",
+      "bio": "human form: @JPS838898\r\nenjoy playing this bot which plays all variants and all time controls exept bullet. runs on free heroku account so please do dm me and tell me if it doesnt work.\r\nhomepage: https://lichess-bot-jpsbot.herokuapp.com/\r\ndoes about 40-50Mn & 16Mh/s\r\nthats all have fun:)",
+      "links": "https://github.com/Jps838898"
     },
-    "seenAt": 1645037091929,
+    "seenAt": 1645474886691,
     "playTime": {
-      "total": 32986,
-      "tv": 0
+      "total": 84561,
+      "tv": 2734
     },
     "url": "https://lichess.org/@/JPSBOT",
+    "playing": "https://lichess.org/vGcqZ72E/white",
     "count": {
-      "all": 69,
-      "rated": 38,
-      "ai": 5,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 37,
-      "lossH": 34,
-      "win": 29,
-      "winH": 27,
+      "all": 297,
+      "rated": 235,
+      "ai": 9,
+      "draw": 56,
+      "drawH": 56,
+      "loss": 69,
+      "lossH": 65,
+      "win": 172,
+      "winH": 167,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
