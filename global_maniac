@@ -1,68 +1,75 @@
 {
   "id": "global_maniac",
-  "displayName": "global_maniac",
-  "username": "global_maniac",
-  "profileUrl": "https://lichess.org/@/global_maniac",
+  "displayName": "Global_Maniac",
+  "username": "Global_Maniac",
+  "profileUrl": "https://lichess.org/@/Global_Maniac",
   "provider": "lichess",
-  "_raw": "{\"id\":\"global_maniac\",\"username\":\"global_maniac\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1645365136691,\"online\":true,\"seenAt\":1645366465187,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/global_maniac\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"global_maniac\",\"username\":\"Global_Maniac\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":28,\"rating\":2267,\"rd\":79,\"prog\":-38},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645365136691,\"online\":true,\"seenAt\":1645418592087,\"playTime\":{\"total\":2857,\"tv\":0},\"url\":\"https://lichess.org/@/Global_Maniac\",\"count\":{\"all\":28,\"rated\":28,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":8,\"lossH\":8,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "global_maniac",
-    "username": "global_maniac",
+    "username": "Global_Maniac",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
+      "racingKings": {
+        "games": 28,
+        "rating": 2267,
+        "rd": 79,
+        "prog": -38
+      },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1645365136691,
     "online": true,
-    "seenAt": 1645366465187,
+    "seenAt": 1645418592087,
     "playTime": {
-      "total": 0,
+      "total": 2857,
       "tv": 0
     },
-    "url": "https://lichess.org/@/global_maniac",
+    "url": "https://lichess.org/@/Global_Maniac",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 28,
+      "rated": 28,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 8,
+      "lossH": 8,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
