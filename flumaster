@@ -1,0 +1,90 @@
+{
+  "id": "flumaster",
+  "displayName": "flumaster",
+  "username": "flumaster",
+  "profileUrl": "https://lichess.org/@/flumaster",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"flumaster\",\"username\":\"flumaster\",\"perfs\":{\"blitz\":{\"games\":20,\"rating\":1348,\"rd\":89,\"prog\":17},\"puzzle\":{\"games\":240,\"rating\":2905,\"rd\":88,\"prog\":0},\"bullet\":{\"games\":16,\"rating\":919,\"rd\":97,\"prog\":-102},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":1719,\"rd\":154,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":79,\"rating\":1547,\"rd\":55,\"prog\":-22},\"storm\":{\"runs\":3,\"score\":16},\"streak\":{\"runs\":12,\"score\":8}},\"createdAt\":1634560556405,\"online\":true,\"seenAt\":1645419421761,\"playTime\":{\"total\":81307,\"tv\":0},\"url\":\"https://lichess.org/@/flumaster\",\"playing\":\"https://lichess.org/eUkCPEir/black\",\"completionRate\":90,\"count\":{\"all\":163,\"rated\":127,\"ai\":9,\"draw\":11,\"drawH\":11,\"loss\":79,\"lossH\":73,\"win\":73,\"winH\":70,\"bookmark\":0,\"playing\":7,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "flumaster",
+    "username": "flumaster",
+    "perfs": {
+      "blitz": {
+        "games": 20,
+        "rating": 1348,
+        "rd": 89,
+        "prog": 17
+      },
+      "puzzle": {
+        "games": 240,
+        "rating": 2905,
+        "rd": 88,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 16,
+        "rating": 919,
+        "rd": 97,
+        "prog": -102
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 10,
+        "rating": 1719,
+        "rd": 154,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 79,
+        "rating": 1547,
+        "rd": 55,
+        "prog": -22
+      },
+      "storm": {
+        "runs": 3,
+        "score": 16
+      },
+      "streak": {
+        "runs": 12,
+        "score": 8
+      }
+    },
+    "createdAt": 1634560556405,
+    "online": true,
+    "seenAt": 1645419421761,
+    "playTime": {
+      "total": 81307,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/flumaster",
+    "playing": "https://lichess.org/eUkCPEir/black",
+    "completionRate": 90,
+    "count": {
+      "all": 163,
+      "rated": 127,
+      "ai": 9,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 79,
+      "lossH": 73,
+      "win": 73,
+      "winH": 70,
+      "bookmark": 0,
+      "playing": 7,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
