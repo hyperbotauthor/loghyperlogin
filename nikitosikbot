@@ -4,7 +4,7 @@
   "username": "Nikitosikbot",
   "profileUrl": "https://lichess.org/@/Nikitosikbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nikitosikbot\",\"username\":\"Nikitosikbot\",\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1430,\"rd\":404,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":228,\"rating\":2271,\"rd\":45,\"prog\":-20},\"blitz\":{\"games\":7,\"rating\":2318,\"rd\":161,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":499,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":176,\"rating\":2215,\"rd\":45,\"prog\":7},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":2526,\"rd\":160,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2613,\"rd\":241,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645191783200,\"online\":true,\"profile\":{\"country\":\"RU\",\"bio\":\"Operator @Nikitosik1708                                                                                     Challenger me in standard chess and atomic  time control from 30s (0+1) to 180+180 m.\",\"fideRating\":3000},\"seenAt\":1645532553277,\"playTime\":{\"total\":136779,\"tv\":1840},\"url\":\"https://lichess.org/@/Nikitosikbot\",\"count\":{\"all\":548,\"rated\":440,\"ai\":90,\"draw\":53,\"drawH\":45,\"loss\":247,\"lossH\":196,\"win\":248,\"winH\":217,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nikitosikbot\",\"username\":\"Nikitosikbot\",\"perfs\":{\"antichess\":{\"games\":2,\"rating\":1430,\"rd\":404,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":244,\"rating\":2247,\"rd\":45,\"prog\":-22},\"blitz\":{\"games\":9,\"rating\":2349,\"rd\":148,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":499,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":178,\"rating\":2215,\"rd\":45,\"prog\":1},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":8,\"rating\":2394,\"rd\":139,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2514,\"rd\":199,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645191783200,\"online\":true,\"profile\":{\"country\":\"RU\",\"bio\":\"Operator @Nikitosik1708                                                                                     Challenger me in standard chess and atomic  time control from 30s (0+1) to 180+180 m.\",\"fideRating\":3000},\"seenAt\":1645557605793,\"playTime\":{\"total\":146408,\"tv\":1840},\"url\":\"https://lichess.org/@/Nikitosikbot\",\"count\":{\"all\":575,\"rated\":465,\"ai\":91,\"draw\":54,\"drawH\":46,\"loss\":266,\"lossH\":214,\"win\":255,\"winH\":224,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nikitosikbot",
     "username": "Nikitosikbot",
@@ -17,15 +17,15 @@
         "prov": true
       },
       "atomic": {
-        "games": 228,
-        "rating": 2271,
+        "games": 244,
+        "rating": 2247,
         "rd": 45,
-        "prog": -20
+        "prog": -22
       },
       "blitz": {
-        "games": 7,
-        "rating": 2318,
-        "rd": 161,
+        "games": 9,
+        "rating": 2349,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
@@ -37,10 +37,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 176,
+        "games": 178,
         "rating": 2215,
         "rd": 45,
-        "prog": 7
+        "prog": 1
       },
       "correspondence": {
         "games": 0,
@@ -50,16 +50,16 @@
         "prov": true
       },
       "classical": {
-        "games": 6,
-        "rating": 2526,
-        "rd": 160,
+        "games": 8,
+        "rating": 2394,
+        "rd": 139,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 2613,
-        "rd": 241,
+        "games": 4,
+        "rating": 2514,
+        "rd": 199,
         "prog": 0,
         "prov": true
       }
@@ -72,22 +72,22 @@
       "bio": "Operator @Nikitosik1708                                                                                     Challenger me in standard chess and atomic  time control from 30s (0+1) to 180+180 m.",
       "fideRating": 3000
     },
-    "seenAt": 1645532553277,
+    "seenAt": 1645557605793,
     "playTime": {
-      "total": 136779,
+      "total": 146408,
       "tv": 1840
     },
     "url": "https://lichess.org/@/Nikitosikbot",
     "count": {
-      "all": 548,
-      "rated": 440,
-      "ai": 90,
-      "draw": 53,
-      "drawH": 45,
-      "loss": 247,
-      "lossH": 196,
-      "win": 248,
-      "winH": 217,
+      "all": 575,
+      "rated": 465,
+      "ai": 91,
+      "draw": 54,
+      "drawH": 46,
+      "loss": 266,
+      "lossH": 214,
+      "win": 255,
+      "winH": 224,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
