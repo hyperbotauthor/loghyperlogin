@@ -4,7 +4,7 @@
   "username": "Saho_Maverick",
   "profileUrl": "https://lichess.org/@/Saho_Maverick",
   "provider": "lichess",
-  "_raw": "{\"id\":\"saho_maverick\",\"username\":\"Saho_Maverick\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":1385,\"rd\":113,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":15,\"rating\":1222,\"rd\":108,\"prog\":-42},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1645324342025,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"@ HoMe\",\"bio\":\"My goal is to be a Grand Master and have a cup of tea with Vishwanath Anand\",\"firstName\":\"Saharsh\",\"lastName\":\"Keerthi\",\"links\":\"https://www.chess.com/member/drsaberstark\"},\"seenAt\":1645525866397,\"playTime\":{\"total\":3750,\"tv\":0},\"url\":\"https://lichess.org/@/Saho_Maverick\",\"count\":{\"all\":26,\"rated\":15,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":16,\"lossH\":16,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"saho_maverick\",\"username\":\"Saho_Maverick\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":1385,\"rd\":113,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":15,\"rating\":1222,\"rd\":108,\"prog\":-42},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1449,\"rd\":465,\"prog\":0,\"prov\":true}},\"createdAt\":1645324342025,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"@ HoMe\",\"bio\":\"My goal is to be a Grand Master and have a cup of tea with Vishwanath Anand\",\"firstName\":\"Saharsh\",\"lastName\":\"Keerthi\",\"links\":\"https://www.chess.com/member/drsaberstark\"},\"seenAt\":1645590868700,\"playTime\":{\"total\":3967,\"tv\":0},\"url\":\"https://lichess.org/@/Saho_Maverick\",\"count\":{\"all\":27,\"rated\":16,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":17,\"lossH\":17,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "saho_maverick",
     "username": "Saho_Maverick",
@@ -51,9 +51,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1449,
+        "rd": 465,
         "prog": 0,
         "prov": true
       }
@@ -68,20 +68,20 @@
       "lastName": "Keerthi",
       "links": "https://www.chess.com/member/drsaberstark"
     },
-    "seenAt": 1645525866397,
+    "seenAt": 1645590868700,
     "playTime": {
-      "total": 3750,
+      "total": 3967,
       "tv": 0
     },
     "url": "https://lichess.org/@/Saho_Maverick",
     "count": {
-      "all": 26,
-      "rated": 15,
+      "all": 27,
+      "rated": 16,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 16,
-      "lossH": 16,
+      "loss": 17,
+      "lossH": 17,
       "win": 9,
       "winH": 9,
       "bookmark": 0,
