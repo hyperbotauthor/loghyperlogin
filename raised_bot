@@ -4,7 +4,7 @@
   "username": "Raised_Bot",
   "profileUrl": "https://lichess.org/@/Raised_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"raised_bot\",\"username\":\"Raised_Bot\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2409,\"rd\":125,\"prog\":42,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2234,\"rd\":124,\"prog\":7,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2156,\"rd\":328,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645695967850,\"online\":true,\"seenAt\":1645717880311,\"playTime\":{\"total\":6035,\"tv\":0},\"url\":\"https://lichess.org/@/Raised_Bot\",\"count\":{\"all\":42,\"rated\":29,\"ai\":5,\"draw\":7,\"drawH\":7,\"loss\":14,\"lossH\":10,\"win\":21,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"raised_bot\",\"username\":\"Raised_Bot\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2409,\"rd\":125,\"prog\":42,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2172,\"rd\":118,\"prog\":-55,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2156,\"rd\":328,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645695967850,\"online\":true,\"seenAt\":1645718509969,\"playTime\":{\"total\":6114,\"tv\":0},\"url\":\"https://lichess.org/@/Raised_Bot\",\"count\":{\"all\":44,\"rated\":30,\"ai\":5,\"draw\":7,\"drawH\":7,\"loss\":15,\"lossH\":11,\"win\":22,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "raised_bot",
     "username": "Raised_Bot",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 15,
-        "rating": 2234,
-        "rd": 124,
-        "prog": 7,
+        "games": 16,
+        "rating": 2172,
+        "rd": 118,
+        "prog": -55,
         "prov": true
       },
       "correspondence": {
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1645695967850,
     "online": true,
-    "seenAt": 1645717880311,
+    "seenAt": 1645718509969,
     "playTime": {
-      "total": 6035,
+      "total": 6114,
       "tv": 0
     },
     "url": "https://lichess.org/@/Raised_Bot",
     "count": {
-      "all": 42,
-      "rated": 29,
+      "all": 44,
+      "rated": 30,
       "ai": 5,
       "draw": 7,
       "drawH": 7,
-      "loss": 14,
-      "lossH": 10,
-      "win": 21,
-      "winH": 20,
+      "loss": 15,
+      "lossH": 11,
+      "win": 22,
+      "winH": 21,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
