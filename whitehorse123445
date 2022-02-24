@@ -1,0 +1,78 @@
+{
+  "id": "whitehorse123445",
+  "displayName": "WhiteHorse123445",
+  "username": "WhiteHorse123445",
+  "profileUrl": "https://lichess.org/@/WhiteHorse123445",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"whitehorse123445\",\"username\":\"WhiteHorse123445\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":2166,\"rd\":146,\"prog\":-197,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1820,\"rd\":294,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645674394738,\"online\":true,\"seenAt\":1645740276787,\"playTime\":{\"total\":3004,\"tv\":80},\"url\":\"https://lichess.org/@/WhiteHorse123445\",\"count\":{\"all\":35,\"rated\":19,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":18,\"lossH\":18,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "whitehorse123445",
+    "username": "WhiteHorse123445",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 18,
+        "rating": 2166,
+        "rd": 146,
+        "prog": -197,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1820,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1645674394738,
+    "online": true,
+    "seenAt": 1645740276787,
+    "playTime": {
+      "total": 3004,
+      "tv": 80
+    },
+    "url": "https://lichess.org/@/WhiteHorse123445",
+    "count": {
+      "all": 35,
+      "rated": 19,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 18,
+      "lossH": 18,
+      "win": 16,
+      "winH": 16,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
