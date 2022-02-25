@@ -4,7 +4,7 @@
   "username": "Hodi2010",
   "profileUrl": "https://lichess.org/@/Hodi2010",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hodi2010\",\"username\":\"Hodi2010\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1708,\"rd\":186,\"prog\":-219,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1668,\"rd\":335,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":2102,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1586,\"rd\":184,\"prog\":-10,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1990,\"rd\":253,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1778,\"rd\":270,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1535,\"rd\":116,\"prog\":-95,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1624022813263,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi! I am a BOT\\r\\nMy owner is Debopam Nath https://lichess.org/@/SupremeDebopam\"},\"seenAt\":1645760254809,\"playTime\":{\"total\":16146,\"tv\":0},\"url\":\"https://lichess.org/@/Hodi2010\",\"count\":{\"all\":100,\"rated\":66,\"ai\":25,\"draw\":3,\"drawH\":3,\"loss\":32,\"lossH\":22,\"win\":65,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hodi2010\",\"username\":\"Hodi2010\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1708,\"rd\":186,\"prog\":-219,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1668,\"rd\":335,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":6,\"rating\":2102,\"rd\":187,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1586,\"rd\":184,\"prog\":-10,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1990,\"rd\":253,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":1778,\"rd\":270,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1557,\"rd\":111,\"prog\":-73,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1624022813263,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"Hi! I am a BOT\\r\\nMy owner is Debopam Nath https://lichess.org/@/SupremeDebopam\"},\"seenAt\":1645791295005,\"playTime\":{\"total\":16741,\"tv\":0},\"url\":\"https://lichess.org/@/Hodi2010\",\"count\":{\"all\":101,\"rated\":67,\"ai\":25,\"draw\":3,\"drawH\":3,\"loss\":32,\"lossH\":22,\"win\":66,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hodi2010",
     "username": "Hodi2010",
@@ -52,10 +52,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 14,
-        "rating": 1535,
-        "rd": 116,
-        "prog": -95,
+        "games": 15,
+        "rating": 1557,
+        "rd": 111,
+        "prog": -73,
         "prov": true
       }
     },
@@ -66,22 +66,22 @@
       "country": "IN",
       "bio": "Hi! I am a BOT\r\nMy owner is Debopam Nath https://lichess.org/@/SupremeDebopam"
     },
-    "seenAt": 1645760254809,
+    "seenAt": 1645791295005,
     "playTime": {
-      "total": 16146,
+      "total": 16741,
       "tv": 0
     },
     "url": "https://lichess.org/@/Hodi2010",
     "count": {
-      "all": 100,
-      "rated": 66,
+      "all": 101,
+      "rated": 67,
       "ai": 25,
       "draw": 3,
       "drawH": 3,
       "loss": 32,
       "lossH": 22,
-      "win": 65,
-      "winH": 50,
+      "win": 66,
+      "winH": 51,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
