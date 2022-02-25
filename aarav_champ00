@@ -1,0 +1,111 @@
+{
+  "id": "aarav_champ00",
+  "displayName": "Aarav_Champ00",
+  "username": "Aarav_Champ00",
+  "profileUrl": "https://lichess.org/@/Aarav_Champ00",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"aarav_champ00\",\"username\":\"Aarav_Champ00\",\"perfs\":{\"puzzle\":{\"games\":159,\"rating\":1525,\"rd\":80,\"prog\":0},\"atomic\":{\"games\":1,\"rating\":1250,\"rd\":293,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":7,\"rating\":1463,\"rd\":141,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1615,\"rd\":206,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":116,\"rating\":1498,\"rd\":50,\"prog\":-33},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":30,\"rating\":1413,\"rd\":95,\"prog\":-15},\"storm\":{\"runs\":2,\"score\":20},\"racer\":{\"runs\":1,\"score\":30},\"streak\":{\"runs\":1,\"score\":4}},\"createdAt\":1639020908922,\"online\":true,\"profile\":{\"bio\":\"https://imgur.com/f7bRv1e\"},\"seenAt\":1645760039490,\"playTime\":{\"total\":22723,\"tv\":0},\"url\":\"https://lichess.org/@/Aarav_Champ00\",\"completionRate\":93,\"count\":{\"all\":170,\"rated\":159,\"ai\":2,\"draw\":7,\"drawH\":7,\"loss\":96,\"lossH\":96,\"win\":67,\"winH\":65,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "aarav_champ00",
+    "username": "Aarav_Champ00",
+    "perfs": {
+      "puzzle": {
+        "games": 159,
+        "rating": 1525,
+        "rd": 80,
+        "prog": 0
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1250,
+        "rd": 293,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 7,
+        "rating": 1463,
+        "rd": 141,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1615,
+        "rd": 206,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 116,
+        "rating": 1498,
+        "rd": 50,
+        "prog": -33
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 30,
+        "rating": 1413,
+        "rd": 95,
+        "prog": -15
+      },
+      "storm": {
+        "runs": 2,
+        "score": 20
+      },
+      "racer": {
+        "runs": 1,
+        "score": 30
+      },
+      "streak": {
+        "runs": 1,
+        "score": 4
+      }
+    },
+    "createdAt": 1639020908922,
+    "online": true,
+    "profile": {
+      "bio": "https://imgur.com/f7bRv1e"
+    },
+    "seenAt": 1645760039490,
+    "playTime": {
+      "total": 22723,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Aarav_Champ00",
+    "completionRate": 93,
+    "count": {
+      "all": 170,
+      "rated": 159,
+      "ai": 2,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 96,
+      "lossH": 96,
+      "win": 67,
+      "winH": 65,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
