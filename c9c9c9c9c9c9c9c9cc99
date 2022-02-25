@@ -4,23 +4,23 @@
   "username": "C9C9C9C9C9C9C9C9CC99",
   "profileUrl": "https://lichess.org/@/C9C9C9C9C9C9C9C9CC99",
   "provider": "lichess",
-  "_raw": "{\"id\":\"c9c9c9c9c9c9c9c9cc99\",\"username\":\"C9C9C9C9C9C9C9C9CC99\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2183,\"rd\":293,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":52,\"rating\":2062,\"rd\":85,\"prog\":29},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1259,\"rd\":368,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645586534462,\"online\":true,\"profile\":{\"bio\":\"I was created by @joseph772 you can send me a challenge and play me.\"},\"seenAt\":1645676764222,\"playTime\":{\"total\":8110,\"tv\":181},\"url\":\"https://lichess.org/@/C9C9C9C9C9C9C9C9CC99\",\"playing\":\"https://lichess.org/V6D2TgQd/white\",\"count\":{\"all\":80,\"rated\":55,\"ai\":6,\"draw\":2,\"drawH\":2,\"loss\":40,\"lossH\":35,\"win\":38,\"winH\":37,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"c9c9c9c9c9c9c9c9cc99\",\"username\":\"C9C9C9C9C9C9C9C9CC99\",\"perfs\":{\"blitz\":{\"games\":14,\"rating\":2426,\"rd\":142,\"prog\":-104,\"prov\":true},\"bullet\":{\"games\":173,\"rating\":2423,\"rd\":45,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1870,\"rd\":327,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1630,\"rd\":217,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645586534462,\"online\":true,\"profile\":{\"country\":\"AU\",\"bio\":\"I was created by @joseph772, You can join his team here https://lichess.org/team/beyond-incredible-chess-club, also you can send me a challenge and play me.\",\"fideRating\":3000},\"seenAt\":1645756594828,\"playTime\":{\"total\":39813,\"tv\":4719},\"url\":\"https://lichess.org/@/C9C9C9C9C9C9C9C9CC99\",\"count\":{\"all\":281,\"rated\":195,\"ai\":11,\"draw\":56,\"drawH\":56,\"loss\":78,\"lossH\":68,\"win\":147,\"winH\":146,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "c9c9c9c9c9c9c9c9cc99",
     "username": "C9C9C9C9C9C9C9C9CC99",
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2183,
-        "rd": 293,
-        "prog": 0,
+        "games": 14,
+        "rating": 2426,
+        "rd": 142,
+        "prog": -104,
         "prov": true
       },
       "bullet": {
-        "games": 52,
-        "rating": 2062,
-        "rd": 85,
-        "prog": 29
+        "games": 173,
+        "rating": 2423,
+        "rd": 45,
+        "prog": 0
       },
       "correspondence": {
         "games": 0,
@@ -30,16 +30,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 1870,
+        "rd": 327,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 1259,
-        "rd": 368,
+        "games": 4,
+        "rating": 1630,
+        "rd": 217,
         "prog": 0,
         "prov": true
       }
@@ -48,27 +48,28 @@
     "createdAt": 1645586534462,
     "online": true,
     "profile": {
-      "bio": "I was created by @joseph772 you can send me a challenge and play me."
+      "country": "AU",
+      "bio": "I was created by @joseph772, You can join his team here https://lichess.org/team/beyond-incredible-chess-club, also you can send me a challenge and play me.",
+      "fideRating": 3000
     },
-    "seenAt": 1645676764222,
+    "seenAt": 1645756594828,
     "playTime": {
-      "total": 8110,
-      "tv": 181
+      "total": 39813,
+      "tv": 4719
     },
     "url": "https://lichess.org/@/C9C9C9C9C9C9C9C9CC99",
-    "playing": "https://lichess.org/V6D2TgQd/white",
     "count": {
-      "all": 80,
-      "rated": 55,
-      "ai": 6,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 40,
-      "lossH": 35,
-      "win": 38,
-      "winH": 37,
+      "all": 281,
+      "rated": 195,
+      "ai": 11,
+      "draw": 56,
+      "drawH": 56,
+      "loss": 78,
+      "lossH": 68,
+      "win": 147,
+      "winH": 146,
       "bookmark": 1,
-      "playing": 2,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
