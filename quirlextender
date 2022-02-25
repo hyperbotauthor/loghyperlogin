@@ -1,0 +1,78 @@
+{
+  "id": "quirlextender",
+  "displayName": "Quirlextender",
+  "username": "Quirlextender",
+  "profileUrl": "https://lichess.org/@/Quirlextender",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"quirlextender\",\"username\":\"Quirlextender\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":22,\"rating\":2400,\"rd\":134,\"prog\":-11,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645760726465,\"online\":true,\"seenAt\":1645770190104,\"playTime\":{\"total\":3648,\"tv\":0},\"url\":\"https://lichess.org/@/Quirlextender\",\"count\":{\"all\":54,\"rated\":24,\"ai\":10,\"draw\":4,\"drawH\":3,\"loss\":12,\"lossH\":6,\"win\":38,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "quirlextender",
+    "username": "Quirlextender",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 22,
+        "rating": 2400,
+        "rd": 134,
+        "prog": -11,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1645760726465,
+    "online": true,
+    "seenAt": 1645770190104,
+    "playTime": {
+      "total": 3648,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Quirlextender",
+    "count": {
+      "all": 54,
+      "rated": 24,
+      "ai": 10,
+      "draw": 4,
+      "drawH": 3,
+      "loss": 12,
+      "lossH": 6,
+      "win": 38,
+      "winH": 35,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
