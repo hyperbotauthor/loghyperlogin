@@ -4,7 +4,7 @@
   "username": "TheWeakestBot",
   "profileUrl": "https://lichess.org/@/TheWeakestBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theweakestbot\",\"username\":\"TheWeakestBot\",\"perfs\":{\"atomic\":{\"games\":3,\"rating\":1476,\"rd\":467,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1431,\"rd\":407,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":1135,\"rd\":70,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1549,\"rd\":266,\"prog\":-6,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645654645386,\"online\":true,\"seenAt\":1645727121576,\"playTime\":{\"total\":4792,\"tv\":0},\"url\":\"https://lichess.org/@/TheWeakestBot\",\"count\":{\"all\":94,\"rated\":77,\"ai\":2,\"draw\":10,\"drawH\":10,\"loss\":74,\"lossH\":72,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theweakestbot\",\"username\":\"TheWeakestBot\",\"perfs\":{\"atomic\":{\"games\":3,\"rating\":1476,\"rd\":467,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":895,\"rd\":314,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1431,\"rd\":407,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":1135,\"rd\":71,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1549,\"rd\":266,\"prog\":-6,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645654645386,\"online\":true,\"seenAt\":1645901262770,\"playTime\":{\"total\":5602,\"tv\":0},\"url\":\"https://lichess.org/@/TheWeakestBot\",\"count\":{\"all\":99,\"rated\":79,\"ai\":2,\"draw\":10,\"drawH\":10,\"loss\":79,\"lossH\":77,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theweakestbot",
     "username": "TheWeakestBot",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 895,
+        "rd": 314,
         "prog": 0,
         "prov": true
       },
@@ -33,7 +33,7 @@
       "bullet": {
         "games": 47,
         "rating": 1135,
-        "rd": 70,
+        "rd": 71,
         "prog": 24
       },
       "correspondence": {
@@ -61,20 +61,20 @@
     "title": "BOT",
     "createdAt": 1645654645386,
     "online": true,
-    "seenAt": 1645727121576,
+    "seenAt": 1645901262770,
     "playTime": {
-      "total": 4792,
+      "total": 5602,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheWeakestBot",
     "count": {
-      "all": 94,
-      "rated": 77,
+      "all": 99,
+      "rated": 79,
       "ai": 2,
       "draw": 10,
       "drawH": 10,
-      "loss": 74,
-      "lossH": 72,
+      "loss": 79,
+      "lossH": 77,
       "win": 10,
       "winH": 10,
       "bookmark": 0,
