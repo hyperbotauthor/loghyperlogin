@@ -4,7 +4,7 @@
   "username": "lishadowapps",
   "profileUrl": "https://lichess.org/@/lishadowapps",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lishadowapps\",\"username\":\"lishadowapps\",\"perfs\":{\"blitz\":{\"games\":4296,\"rating\":2003,\"rd\":135,\"prog\":53,\"prov\":true},\"atomic\":{\"games\":3911,\"rating\":2205,\"rd\":132,\"prog\":6,\"prov\":true},\"bullet\":{\"games\":3559,\"rating\":2001,\"rd\":156,\"prog\":38,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":246,\"rating\":2070,\"rd\":168,\"prog\":-15,\"prov\":true},\"rapid\":{\"games\":1785,\"rating\":2042,\"rd\":148,\"prog\":-4,\"prov\":true}},\"createdAt\":1520345362350,\"online\":true,\"profile\":{},\"seenAt\":1644244409829,\"playTime\":{\"total\":4731768,\"tv\":530912},\"url\":\"https://lichess.org/@/lishadowapps\",\"completionRate\":97,\"count\":{\"all\":14214,\"rated\":13797,\"ai\":0,\"draw\":1132,\"drawH\":1132,\"loss\":5764,\"lossH\":5764,\"win\":7318,\"winH\":7318,\"bookmark\":0,\"playing\":0,\"import\":22,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lishadowapps\",\"username\":\"lishadowapps\",\"perfs\":{\"blitz\":{\"games\":4296,\"rating\":2003,\"rd\":136,\"prog\":53,\"prov\":true},\"atomic\":{\"games\":3911,\"rating\":2205,\"rd\":134,\"prog\":6,\"prov\":true},\"bullet\":{\"games\":3559,\"rating\":2001,\"rd\":158,\"prog\":38,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":246,\"rating\":2070,\"rd\":170,\"prog\":-15,\"prov\":true},\"rapid\":{\"games\":1785,\"rating\":2042,\"rd\":150,\"prog\":-4,\"prov\":true}},\"createdAt\":1520345362350,\"online\":true,\"profile\":{},\"seenAt\":1645869733820,\"playTime\":{\"total\":4731768,\"tv\":530912},\"url\":\"https://lichess.org/@/lishadowapps\",\"completionRate\":97,\"count\":{\"all\":14214,\"rated\":13797,\"ai\":0,\"draw\":1132,\"drawH\":1132,\"loss\":5764,\"lossH\":5764,\"win\":7318,\"winH\":7318,\"bookmark\":0,\"playing\":0,\"import\":22,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lishadowapps",
     "username": "lishadowapps",
@@ -12,21 +12,21 @@
       "blitz": {
         "games": 4296,
         "rating": 2003,
-        "rd": 135,
+        "rd": 136,
         "prog": 53,
         "prov": true
       },
       "atomic": {
         "games": 3911,
         "rating": 2205,
-        "rd": 132,
+        "rd": 134,
         "prog": 6,
         "prov": true
       },
       "bullet": {
         "games": 3559,
         "rating": 2001,
-        "rd": 156,
+        "rd": 158,
         "prog": 38,
         "prov": true
       },
@@ -40,14 +40,14 @@
       "classical": {
         "games": 246,
         "rating": 2070,
-        "rd": 168,
+        "rd": 170,
         "prog": -15,
         "prov": true
       },
       "rapid": {
         "games": 1785,
         "rating": 2042,
-        "rd": 148,
+        "rd": 150,
         "prog": -4,
         "prov": true
       }
@@ -55,7 +55,7 @@
     "createdAt": 1520345362350,
     "online": true,
     "profile": {},
-    "seenAt": 1644244409829,
+    "seenAt": 1645869733820,
     "playTime": {
       "total": 4731768,
       "tv": 530912
