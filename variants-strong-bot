@@ -1,0 +1,121 @@
+{
+  "id": "variants-strong-bot",
+  "displayName": "Variants-Strong-Bot",
+  "username": "Variants-Strong-Bot",
+  "profileUrl": "https://lichess.org/@/Variants-Strong-Bot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"variants-strong-bot\",\"username\":\"Variants-Strong-Bot\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1353,\"rd\":315,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":18,\"rating\":2489,\"rd\":99,\"prog\":72},\"atomic\":{\"games\":21,\"rating\":2339,\"rd\":114,\"prog\":423,\"prov\":true},\"racingKings\":{\"games\":8,\"rating\":2303,\"rd\":228,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2679,\"rd\":273,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1696,\"rd\":310,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1485,\"rd\":480,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":334,\"rating\":2698,\"rd\":51,\"prog\":-31},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2726,\"rd\":207,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644258671883,\"online\":true,\"profile\":{\"country\":\"LK\"},\"seenAt\":1645972242329,\"playTime\":{\"total\":56736,\"tv\":19079},\"url\":\"https://lichess.org/@/Variants-Strong-Bot\",\"count\":{\"all\":847,\"rated\":466,\"ai\":18,\"draw\":339,\"drawH\":339,\"loss\":210,\"lossH\":204,\"win\":298,\"winH\":286,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "variants-strong-bot",
+    "username": "Variants-Strong-Bot",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1353,
+        "rd": 315,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 18,
+        "rating": 2489,
+        "rd": 99,
+        "prog": 72
+      },
+      "atomic": {
+        "games": 21,
+        "rating": 2339,
+        "rd": 114,
+        "prog": 423,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 8,
+        "rating": 2303,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 3,
+        "rating": 2679,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 1,
+        "rating": 1696,
+        "rd": 310,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 2,
+        "rating": 1485,
+        "rd": 480,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 334,
+        "rating": 2698,
+        "rd": 51,
+        "prog": -31
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 5,
+        "rating": 2726,
+        "rd": 207,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1644258671883,
+    "online": true,
+    "profile": {
+      "country": "LK"
+    },
+    "seenAt": 1645972242329,
+    "playTime": {
+      "total": 56736,
+      "tv": 19079
+    },
+    "url": "https://lichess.org/@/Variants-Strong-Bot",
+    "count": {
+      "all": 847,
+      "rated": 466,
+      "ai": 18,
+      "draw": 339,
+      "drawH": 339,
+      "loss": 210,
+      "lossH": 204,
+      "win": 298,
+      "winH": 286,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
