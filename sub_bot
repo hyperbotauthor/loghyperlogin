@@ -4,7 +4,7 @@
   "username": "Sub_Bot",
   "profileUrl": "https://lichess.org/@/Sub_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":197,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":287,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2195,\"rd\":202,\"prog\":17,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":380,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":406,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1610035612982,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"bio\":\"Hi. Hope you had and will have a good day.\",\"firstName\":\"Sub_Bot\",\"lastName\":\"Made by Suban1\",\"links\":\"lichess.org\"},\"seenAt\":1642275856490,\"playTime\":{\"total\":11949,\"tv\":2755},\"url\":\"https://lichess.org/@/Sub_Bot\",\"count\":{\"all\":47,\"rated\":27,\"ai\":14,\"draw\":7,\"drawH\":5,\"loss\":16,\"lossH\":6,\"win\":24,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"sub_bot\",\"username\":\"Sub_Bot\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2220,\"rd\":202,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1974,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2195,\"rd\":207,\"prog\":17,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1808,\"rd\":383,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1522,\"rd\":409,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1610035612982,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"I am on lichess.org\",\"firstName\":\"SadBot\",\"links\":\"lichess.org\"},\"seenAt\":1646072468240,\"playTime\":{\"total\":12137,\"tv\":2755},\"url\":\"https://lichess.org/@/Sub_Bot\",\"playing\":\"https://lichess.org/ggPmExHx/white\",\"count\":{\"all\":50,\"rated\":27,\"ai\":15,\"draw\":7,\"drawH\":5,\"loss\":17,\"lossH\":6,\"win\":26,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "sub_bot",
     "username": "Sub_Bot",
@@ -12,28 +12,28 @@
       "blitz": {
         "games": 10,
         "rating": 2220,
-        "rd": 197,
+        "rd": 202,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1974,
-        "rd": 287,
+        "rd": 290,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 12,
         "rating": 2195,
-        "rd": 202,
+        "rd": 207,
         "prog": 17,
         "prov": true
       },
       "correspondence": {
         "games": 2,
         "rating": 1808,
-        "rd": 380,
+        "rd": 383,
         "prog": 0,
         "prov": true
       },
@@ -47,7 +47,7 @@
       "rapid": {
         "games": 1,
         "rating": 1522,
-        "rd": 406,
+        "rd": 409,
         "prog": 0,
         "prov": true
       }
@@ -58,29 +58,28 @@
     "profile": {
       "country": "_lichess",
       "location": "I am on lichess.org",
-      "bio": "Hi. Hope you had and will have a good day.",
-      "firstName": "Sub_Bot",
-      "lastName": "Made by Suban1",
+      "firstName": "SadBot",
       "links": "lichess.org"
     },
-    "seenAt": 1642275856490,
+    "seenAt": 1646072468240,
     "playTime": {
-      "total": 11949,
+      "total": 12137,
       "tv": 2755
     },
     "url": "https://lichess.org/@/Sub_Bot",
+    "playing": "https://lichess.org/ggPmExHx/white",
     "count": {
-      "all": 47,
+      "all": 50,
       "rated": 27,
-      "ai": 14,
+      "ai": 15,
       "draw": 7,
       "drawH": 5,
-      "loss": 16,
+      "loss": 17,
       "lossH": 6,
-      "win": 24,
-      "winH": 22,
+      "win": 26,
+      "winH": 24,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
