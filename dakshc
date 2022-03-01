@@ -1,0 +1,164 @@
+{
+  "id": "dakshc",
+  "displayName": "dakshc",
+  "username": "dakshc",
+  "profileUrl": "https://lichess.org/@/dakshc",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dakshc\",\"username\":\"dakshc\",\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1363,\"rd\":200,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":9,\"rating\":1210,\"rd\":170,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":955,\"rd\":208,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":5,\"rating\":1183,\"rd\":230,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":72,\"rating\":1012,\"rd\":113,\"prog\":104,\"prov\":true},\"blitz\":{\"games\":612,\"rating\":1386,\"rd\":70,\"prog\":-18},\"kingOfTheHill\":{\"games\":9,\"rating\":1272,\"rd\":184,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":11,\"rating\":1390,\"rd\":171,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1396,\"rd\":306,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":267,\"rating\":1338,\"rd\":73,\"prog\":-26},\"correspondence\":{\"games\":3,\"rating\":1065,\"rd\":344,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1257,\"rd\":277,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1995,\"rating\":1633,\"rd\":90,\"prog\":0},\"classical\":{\"games\":227,\"rating\":1336,\"rd\":96,\"prog\":13},\"rapid\":{\"games\":353,\"rating\":1543,\"rd\":71,\"prog\":-27},\"storm\":{\"runs\":3,\"score\":19},\"racer\":{\"runs\":16,\"score\":30},\"streak\":{\"runs\":5,\"score\":10}},\"createdAt\":1604595516228,\"online\":true,\"profile\":{\"country\":\"IN\",\"fideRating\":1559,\"uscfRating\":1788,\"ecfRating\":1459,\"rcfRating\":1234,\"cfcRating\":1333,\"dsbRating\":1445},\"seenAt\":1646129276623,\"playTime\":{\"total\":424176,\"tv\":30},\"url\":\"https://lichess.org/@/dakshc\",\"completionRate\":90,\"count\":{\"all\":1713,\"rated\":1601,\"ai\":3,\"draw\":55,\"drawH\":55,\"loss\":998,\"lossH\":995,\"win\":660,\"winH\":660,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dakshc",
+    "username": "dakshc",
+    "perfs": {
+      "chess960": {
+        "games": 6,
+        "rating": 1363,
+        "rd": 200,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 9,
+        "rating": 1210,
+        "rd": 170,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 955,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 5,
+        "rating": 1183,
+        "rd": 230,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 72,
+        "rating": 1012,
+        "rd": 113,
+        "prog": 104,
+        "prov": true
+      },
+      "blitz": {
+        "games": 612,
+        "rating": 1386,
+        "rd": 70,
+        "prog": -18
+      },
+      "kingOfTheHill": {
+        "games": 9,
+        "rating": 1272,
+        "rd": 184,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 11,
+        "rating": 1390,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1396,
+        "rd": 306,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 267,
+        "rating": 1338,
+        "rd": 73,
+        "prog": -26
+      },
+      "correspondence": {
+        "games": 3,
+        "rating": 1065,
+        "rd": 344,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1257,
+        "rd": 277,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1995,
+        "rating": 1633,
+        "rd": 90,
+        "prog": 0
+      },
+      "classical": {
+        "games": 227,
+        "rating": 1336,
+        "rd": 96,
+        "prog": 13
+      },
+      "rapid": {
+        "games": 353,
+        "rating": 1543,
+        "rd": 71,
+        "prog": -27
+      },
+      "storm": {
+        "runs": 3,
+        "score": 19
+      },
+      "racer": {
+        "runs": 16,
+        "score": 30
+      },
+      "streak": {
+        "runs": 5,
+        "score": 10
+      }
+    },
+    "createdAt": 1604595516228,
+    "online": true,
+    "profile": {
+      "country": "IN",
+      "fideRating": 1559,
+      "uscfRating": 1788,
+      "ecfRating": 1459,
+      "rcfRating": 1234,
+      "cfcRating": 1333,
+      "dsbRating": 1445
+    },
+    "seenAt": 1646129276623,
+    "playTime": {
+      "total": 424176,
+      "tv": 30
+    },
+    "url": "https://lichess.org/@/dakshc",
+    "completionRate": 90,
+    "count": {
+      "all": 1713,
+      "rated": 1601,
+      "ai": 3,
+      "draw": 55,
+      "drawH": 55,
+      "loss": 998,
+      "lossH": 995,
+      "win": 660,
+      "winH": 660,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
