@@ -1,0 +1,92 @@
+{
+  "id": "justdontflagme",
+  "displayName": "JustDontFlagMe",
+  "username": "JustDontFlagMe",
+  "profileUrl": "https://lichess.org/@/JustDontFlagMe",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"justdontflagme\",\"username\":\"JustDontFlagMe\",\"perfs\":{\"blitz\":{\"games\":17,\"rating\":2638,\"rd\":127,\"prog\":18,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1593,\"rd\":324,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":2048,\"rd\":148,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":67,\"rating\":2454,\"rd\":69,\"prog\":14},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":2487,\"rd\":201,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2709,\"rd\":239,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1641357331607,\"online\":true,\"profile\":{},\"seenAt\":1646143849980,\"playTime\":{\"total\":33254,\"tv\":4213},\"url\":\"https://lichess.org/@/JustDontFlagMe\",\"count\":{\"all\":163,\"rated\":120,\"ai\":2,\"draw\":30,\"drawH\":30,\"loss\":39,\"lossH\":37,\"win\":94,\"winH\":94,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "justdontflagme",
+    "username": "JustDontFlagMe",
+    "perfs": {
+      "blitz": {
+        "games": 17,
+        "rating": 2638,
+        "rd": 127,
+        "prog": 18,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1593,
+        "rd": 324,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 10,
+        "rating": 2048,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 67,
+        "rating": 2454,
+        "rd": 69,
+        "prog": 14
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 5,
+        "rating": 2487,
+        "rd": 201,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 2709,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1641357331607,
+    "online": true,
+    "profile": {},
+    "seenAt": 1646143849980,
+    "playTime": {
+      "total": 33254,
+      "tv": 4213
+    },
+    "url": "https://lichess.org/@/JustDontFlagMe",
+    "count": {
+      "all": 163,
+      "rated": 120,
+      "ai": 2,
+      "draw": 30,
+      "drawH": 30,
+      "loss": 39,
+      "lossH": 37,
+      "win": 94,
+      "winH": 94,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
