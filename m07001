@@ -1,0 +1,89 @@
+{
+  "id": "m07001",
+  "displayName": "M07001",
+  "username": "M07001",
+  "profileUrl": "https://lichess.org/@/M07001",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"m07001\",\"username\":\"M07001\",\"perfs\":{\"chess960\":{\"games\":10,\"rating\":1958,\"rd\":154,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":22,\"rating\":2415,\"rd\":94,\"prog\":151},\"bullet\":{\"games\":73,\"rating\":2496,\"rd\":53,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":33,\"rating\":2704,\"rd\":98,\"prog\":52}},\"title\":\"BOT\",\"createdAt\":1642426664004,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lichess.org\",\"bio\":\"https://i.imgur.com/uJWj2oU.png\\r\\nHello, I Created This Bot Using Python With Worst Mover Chess Engine. <<< Only Accepting Bullet, Blitz, Rapid, Classical and Chess960 >>> Visit M Bots Official Web Page http://mbots.movindu.ml\",\"firstName\":\"M07001\",\"links\":\"https://lichess.org/@/M07001\\r\\nhttp://mbots.movindu.ml\"},\"seenAt\":1646203339850,\"playTime\":{\"total\":62144,\"tv\":8759},\"url\":\"https://lichess.org/@/M07001\",\"count\":{\"all\":168,\"rated\":140,\"ai\":7,\"draw\":17,\"drawH\":17,\"loss\":30,\"lossH\":27,\"win\":121,\"winH\":117,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "m07001",
+    "username": "M07001",
+    "perfs": {
+      "chess960": {
+        "games": 10,
+        "rating": 1958,
+        "rd": 154,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 22,
+        "rating": 2415,
+        "rd": 94,
+        "prog": 151
+      },
+      "bullet": {
+        "games": 73,
+        "rating": 2496,
+        "rd": 53,
+        "prog": 0
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 33,
+        "rating": 2704,
+        "rd": 98,
+        "prog": 52
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642426664004,
+    "online": true,
+    "profile": {
+      "country": "_pirate",
+      "location": "Lichess.org",
+      "bio": "https://i.imgur.com/uJWj2oU.png\r\nHello, I Created This Bot Using Python With Worst Mover Chess Engine. <<< Only Accepting Bullet, Blitz, Rapid, Classical and Chess960 >>> Visit M Bots Official Web Page http://mbots.movindu.ml",
+      "firstName": "M07001",
+      "links": "https://lichess.org/@/M07001\r\nhttp://mbots.movindu.ml"
+    },
+    "seenAt": 1646203339850,
+    "playTime": {
+      "total": 62144,
+      "tv": 8759
+    },
+    "url": "https://lichess.org/@/M07001",
+    "count": {
+      "all": 168,
+      "rated": 140,
+      "ai": 7,
+      "draw": 17,
+      "drawH": 17,
+      "loss": 30,
+      "lossH": 27,
+      "win": 121,
+      "winH": 117,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
