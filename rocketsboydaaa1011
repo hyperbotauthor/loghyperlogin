@@ -4,7 +4,7 @@
   "username": "Rocketsboydaaa1011",
   "profileUrl": "https://lichess.org/@/Rocketsboydaaa1011",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rocketsboydaaa1011\",\"username\":\"Rocketsboydaaa1011\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646128922677,\"online\":true,\"seenAt\":1646129136338,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Rocketsboydaaa1011\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rocketsboydaaa1011\",\"username\":\"Rocketsboydaaa1011\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2084,\"rd\":386,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646128922677,\"online\":true,\"seenAt\":1646309983586,\"playTime\":{\"total\":150,\"tv\":0},\"url\":\"https://lichess.org/@/Rocketsboydaaa1011\",\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rocketsboydaaa1011",
     "username": "Rocketsboydaaa1011",
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2084,
+        "rd": 386,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1646128922677,
     "online": true,
-    "seenAt": 1646129136338,
+    "seenAt": 1646309983586,
     "playTime": {
-      "total": 0,
+      "total": 150,
       "tv": 0
     },
     "url": "https://lichess.org/@/Rocketsboydaaa1011",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 2,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 2,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
