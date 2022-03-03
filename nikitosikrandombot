@@ -4,7 +4,7 @@
   "username": "NikitosikRandombot",
   "profileUrl": "https://lichess.org/@/NikitosikRandombot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nikitosikrandombot\",\"username\":\"NikitosikRandombot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1482,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645730057092,\"online\":true,\"profile\":{\"country\":\"RU\",\"bio\":\"Plays Random moves\",\"fideRating\":600},\"seenAt\":1646215740090,\"playTime\":{\"total\":49304,\"tv\":0},\"url\":\"https://lichess.org/@/NikitosikRandombot\",\"count\":{\"all\":159,\"rated\":20,\"ai\":84,\"draw\":42,\"drawH\":38,\"loss\":107,\"lossH\":28,\"win\":10,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nikitosikrandombot\",\"username\":\"NikitosikRandombot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1468,\"rd\":455,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1866,\"rd\":320,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645730057092,\"online\":true,\"profile\":{\"country\":\"RU\",\"bio\":\"Plays Random moves\",\"fideRating\":600},\"seenAt\":1646293564922,\"playTime\":{\"total\":51599,\"tv\":0},\"url\":\"https://lichess.org/@/NikitosikRandombot\",\"playing\":\"https://lichess.org/7UgNucj4/black\",\"count\":{\"all\":220,\"rated\":36,\"ai\":84,\"draw\":53,\"drawH\":49,\"loss\":123,\"lossH\":44,\"win\":44,\"winH\":43,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nikitosikrandombot",
     "username": "NikitosikRandombot",
@@ -17,16 +17,16 @@
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1482,
-        "rd": 475,
+        "games": 2,
+        "rating": 1468,
+        "rd": 455,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1866,
+        "rd": 320,
         "prog": 0,
         "prov": true
       },
@@ -60,22 +60,23 @@
       "bio": "Plays Random moves",
       "fideRating": 600
     },
-    "seenAt": 1646215740090,
+    "seenAt": 1646293564922,
     "playTime": {
-      "total": 49304,
+      "total": 51599,
       "tv": 0
     },
     "url": "https://lichess.org/@/NikitosikRandombot",
+    "playing": "https://lichess.org/7UgNucj4/black",
     "count": {
-      "all": 159,
-      "rated": 20,
+      "all": 220,
+      "rated": 36,
       "ai": 84,
-      "draw": 42,
-      "drawH": 38,
-      "loss": 107,
-      "lossH": 28,
-      "win": 10,
-      "winH": 9,
+      "draw": 53,
+      "drawH": 49,
+      "loss": 123,
+      "lossH": 44,
+      "win": 44,
+      "winH": 43,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
