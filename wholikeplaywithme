@@ -1,0 +1,79 @@
+{
+  "id": "wholikeplaywithme",
+  "displayName": "wholikeplaywithme",
+  "username": "wholikeplaywithme",
+  "profileUrl": "https://lichess.org/@/wholikeplaywithme",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"wholikeplaywithme\",\"username\":\"wholikeplaywithme\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1849,\"rd\":345,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645701117967,\"online\":true,\"profile\":{},\"seenAt\":1646297794063,\"playTime\":{\"total\":459,\"tv\":0},\"url\":\"https://lichess.org/@/wholikeplaywithme\",\"count\":{\"all\":4,\"rated\":1,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "wholikeplaywithme",
+    "username": "wholikeplaywithme",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1849,
+        "rd": 345,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1645701117967,
+    "online": true,
+    "profile": {},
+    "seenAt": 1646297794063,
+    "playTime": {
+      "total": 459,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/wholikeplaywithme",
+    "count": {
+      "all": 4,
+      "rated": 1,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 3,
+      "lossH": 3,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
