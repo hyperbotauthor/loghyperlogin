@@ -4,16 +4,23 @@
   "username": "Rowina_8_E",
   "profileUrl": "https://lichess.org/@/Rowina_8_E",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rowina_8_e\",\"username\":\"Rowina_8_E\",\"perfs\":{\"blitz\":{\"games\":12,\"rating\":1838,\"rd\":149,\"prog\":-16,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1966,\"rd\":183,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643057260950,\"online\":true,\"profile\":{\"country\":\"MX\",\"bio\":\"Me resigno de mi cuenta @rowina_8\",\"links\":\"https://www.instagram.com/rowina_2815/\"},\"seenAt\":1646346780952,\"playTime\":{\"total\":4522,\"tv\":0},\"url\":\"https://lichess.org/@/Rowina_8_E\",\"count\":{\"all\":18,\"rated\":16,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":6,\"lossH\":6,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rowina_8_e\",\"username\":\"Rowina_8_E\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2045,\"rd\":128,\"prog\":191,\"prov\":true},\"atomic\":{\"games\":3,\"rating\":1802,\"rd\":210,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1966,\"rd\":183,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643057260950,\"online\":true,\"profile\":{\"country\":\"MX\",\"location\":\"Tlaxcala\",\"bio\":\"Me resigno de mi cuenta @rowina_8\",\"links\":\"https://www.instagram.com/rowina_2815/\"},\"seenAt\":1646364306420,\"playTime\":{\"total\":5361,\"tv\":0},\"url\":\"https://lichess.org/@/Rowina_8_E\",\"count\":{\"all\":26,\"rated\":23,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":9,\"lossH\":9,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rowina_8_e",
     "username": "Rowina_8_E",
     "perfs": {
       "blitz": {
-        "games": 12,
-        "rating": 1838,
-        "rd": 149,
-        "prog": -16,
+        "games": 15,
+        "rating": 2045,
+        "rd": 128,
+        "prog": 191,
+        "prov": true
+      },
+      "atomic": {
+        "games": 3,
+        "rating": 1802,
+        "rd": 210,
+        "prog": 0,
         "prov": true
       },
       "bullet": {
@@ -50,25 +57,26 @@
     "online": true,
     "profile": {
       "country": "MX",
+      "location": "Tlaxcala",
       "bio": "Me resigno de mi cuenta @rowina_8",
       "links": "https://www.instagram.com/rowina_2815/"
     },
-    "seenAt": 1646346780952,
+    "seenAt": 1646364306420,
     "playTime": {
-      "total": 4522,
+      "total": 5361,
       "tv": 0
     },
     "url": "https://lichess.org/@/Rowina_8_E",
     "count": {
-      "all": 18,
-      "rated": 16,
+      "all": 26,
+      "rated": 23,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 6,
-      "lossH": 6,
-      "win": 10,
-      "winH": 10,
+      "loss": 9,
+      "lossH": 9,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
