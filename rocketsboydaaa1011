@@ -4,22 +4,22 @@
   "username": "Rocketsboydaaa1011",
   "profileUrl": "https://lichess.org/@/Rocketsboydaaa1011",
   "provider": "lichess",
-  "_raw": "{\"id\":\"rocketsboydaaa1011\",\"username\":\"Rocketsboydaaa1011\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2405,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1675,\"rd\":258,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646128922677,\"online\":true,\"seenAt\":1646386830234,\"playTime\":{\"total\":1199,\"tv\":0},\"url\":\"https://lichess.org/@/Rocketsboydaaa1011\",\"playing\":\"https://lichess.org/LzUKkRl4/white\",\"count\":{\"all\":11,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"rocketsboydaaa1011\",\"username\":\"Rocketsboydaaa1011\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2410,\"rd\":199,\"prog\":1,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2218,\"rd\":320,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":469,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1675,\"rd\":258,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646128922677,\"online\":true,\"seenAt\":1646455824814,\"playTime\":{\"total\":1944,\"tv\":0},\"url\":\"https://lichess.org/@/Rocketsboydaaa1011\",\"count\":{\"all\":22,\"rated\":21,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "rocketsboydaaa1011",
     "username": "Rocketsboydaaa1011",
     "perfs": {
       "blitz": {
-        "games": 6,
-        "rating": 2405,
-        "rd": 202,
-        "prog": 0,
+        "games": 15,
+        "rating": 2410,
+        "rd": 199,
+        "prog": 1,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2218,
+        "rd": 320,
         "prog": 0,
         "prov": true
       },
@@ -31,9 +31,9 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1300,
+        "rd": 469,
         "prog": 0,
         "prov": true
       },
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1646128922677,
     "online": true,
-    "seenAt": 1646386830234,
+    "seenAt": 1646455824814,
     "playTime": {
-      "total": 1199,
+      "total": 1944,
       "tv": 0
     },
     "url": "https://lichess.org/@/Rocketsboydaaa1011",
-    "playing": "https://lichess.org/LzUKkRl4/white",
     "count": {
-      "all": 11,
-      "rated": 10,
+      "all": 22,
+      "rated": 21,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 10,
-      "winH": 10,
+      "loss": 2,
+      "lossH": 2,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
