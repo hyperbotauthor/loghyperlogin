@@ -1,0 +1,84 @@
+{
+  "id": "sarvakbot",
+  "displayName": "SARVAKBOT",
+  "username": "SARVAKBOT",
+  "profileUrl": "https://lichess.org/@/SARVAKBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sarvakbot\",\"username\":\"SARVAKBOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2024,\"rd\":465,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1950,\"rd\":422,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":39,\"rating\":2329,\"rd\":107,\"prog\":-19}},\"title\":\"BOT\",\"createdAt\":1646385443115,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hi, I am the bot of @Sarvakchess. I am made with this software-  https://easychess.herokuapp.com/?login-lichess-bot=ok\",\"firstName\":\"SARVAKBOT\",\"lastName\":\"SARVAKBOT\"},\"seenAt\":1646722085470,\"playTime\":{\"total\":17229,\"tv\":1041},\"url\":\"https://lichess.org/@/SARVAKBOT\",\"playing\":\"https://lichess.org/8kX3EGwr/white\",\"count\":{\"all\":54,\"rated\":47,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":7,\"lossH\":7,\"win\":45,\"winH\":45,\"bookmark\":1,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sarvakbot",
+    "username": "SARVAKBOT",
+    "perfs": {
+      "blitz": {
+        "games": 3,
+        "rating": 2024,
+        "rd": 465,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1950,
+        "rd": 422,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 39,
+        "rating": 2329,
+        "rd": 107,
+        "prog": -19
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1646385443115,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Hi, I am the bot of @Sarvakchess. I am made with this software-  https://easychess.herokuapp.com/?login-lichess-bot=ok",
+      "firstName": "SARVAKBOT",
+      "lastName": "SARVAKBOT"
+    },
+    "seenAt": 1646722085470,
+    "playTime": {
+      "total": 17229,
+      "tv": 1041
+    },
+    "url": "https://lichess.org/@/SARVAKBOT",
+    "playing": "https://lichess.org/8kX3EGwr/white",
+    "count": {
+      "all": 54,
+      "rated": 47,
+      "ai": 0,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 7,
+      "lossH": 7,
+      "win": 45,
+      "winH": 45,
+      "bookmark": 1,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
