@@ -1,0 +1,88 @@
+{
+  "id": "suhith4ever",
+  "displayName": "suhith4ever",
+  "username": "suhith4ever",
+  "profileUrl": "https://lichess.org/@/suhith4ever",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"suhith4ever\",\"username\":\"suhith4ever\",\"perfs\":{\"blitz\":{\"games\":74,\"rating\":1322,\"rd\":63,\"prog\":-20},\"puzzle\":{\"games\":6,\"rating\":961,\"rd\":161,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1382,\"rd\":158,\"prog\":27,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1435,\"rd\":418,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1386,\"rd\":346,\"prog\":0,\"prov\":true}},\"createdAt\":1628354159580,\"online\":true,\"profile\":{\"firstName\":\"Suhith\",\"lastName\":\"Revanuru\"},\"seenAt\":1646799530681,\"playTime\":{\"total\":33713,\"tv\":0},\"url\":\"https://lichess.org/@/suhith4ever\",\"completionRate\":69,\"count\":{\"all\":107,\"rated\":90,\"ai\":6,\"draw\":28,\"drawH\":28,\"loss\":47,\"lossH\":41,\"win\":32,\"winH\":32,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "suhith4ever",
+    "username": "suhith4ever",
+    "perfs": {
+      "blitz": {
+        "games": 74,
+        "rating": 1322,
+        "rd": 63,
+        "prog": -20
+      },
+      "puzzle": {
+        "games": 6,
+        "rating": 961,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 1382,
+        "rd": 158,
+        "prog": 27,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1435,
+        "rd": 418,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1386,
+        "rd": 346,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1628354159580,
+    "online": true,
+    "profile": {
+      "firstName": "Suhith",
+      "lastName": "Revanuru"
+    },
+    "seenAt": 1646799530681,
+    "playTime": {
+      "total": 33713,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/suhith4ever",
+    "completionRate": 69,
+    "count": {
+      "all": 107,
+      "rated": 90,
+      "ai": 6,
+      "draw": 28,
+      "drawH": 28,
+      "loss": 47,
+      "lossH": 41,
+      "win": 32,
+      "winH": 32,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": false,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
