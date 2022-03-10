@@ -4,7 +4,7 @@
   "username": "Asinshana",
   "profileUrl": "https://lichess.org/@/Asinshana",
   "provider": "lichess",
-  "_raw": "{\"id\":\"asinshana\",\"username\":\"Asinshana\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1402,\"rd\":298,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1040,\"rd\":156,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":18,\"rating\":1010,\"rd\":121,\"prog\":51,\"prov\":true},\"racingKings\":{\"games\":9,\"rating\":1509,\"rd\":173,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":387,\"rating\":1295,\"rd\":53,\"prog\":25},\"kingOfTheHill\":{\"games\":6,\"rating\":1725,\"rd\":150,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":6,\"rating\":1342,\"rd\":192,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1256,\"rd\":234,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1470,\"rd\":80,\"prog\":137},\"correspondence\":{\"games\":27,\"rating\":1492,\"rd\":136,\"prog\":17,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1441,\"rd\":239,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2465,\"rating\":2180,\"rd\":108,\"prog\":0},\"classical\":{\"games\":30,\"rating\":1577,\"rd\":103,\"prog\":243},\"rapid\":{\"games\":106,\"rating\":1427,\"rd\":62,\"prog\":-1},\"storm\":{\"runs\":9,\"score\":18},\"racer\":{\"runs\":7,\"score\":27},\"streak\":{\"runs\":13,\"score\":12}},\"createdAt\":1586797076336,\"online\":true,\"profile\":{\"country\":\"FI\",\"bio\":\"Play with my BOT! @I_am_cool_AS. One day I also played a game with my BOT.\"},\"seenAt\":1644854189095,\"playTime\":{\"total\":204218,\"tv\":759},\"url\":\"https://lichess.org/@/Asinshana\",\"completionRate\":73,\"count\":{\"all\":934,\"rated\":675,\"ai\":37,\"draw\":30,\"drawH\":29,\"loss\":402,\"lossH\":395,\"win\":502,\"winH\":473,\"bookmark\":6,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"asinshana\",\"username\":\"Asinshana\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1402,\"rd\":300,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1040,\"rd\":160,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":19,\"rating\":972,\"rd\":120,\"prog\":13,\"prov\":true},\"racingKings\":{\"games\":9,\"rating\":1509,\"rd\":176,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":461,\"rating\":1218,\"rd\":48,\"prog\":-44},\"kingOfTheHill\":{\"games\":6,\"rating\":1725,\"rd\":154,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":10,\"rating\":1290,\"rd\":148,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1256,\"rd\":236,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":40,\"rating\":1436,\"rd\":87,\"prog\":104},\"correspondence\":{\"games\":27,\"rating\":1492,\"rd\":140,\"prog\":17,\"prov\":true},\"horde\":{\"games\":4,\"rating\":1441,\"rd\":241,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":2483,\"rating\":2185,\"rd\":106,\"prog\":0},\"classical\":{\"games\":31,\"rating\":1528,\"rd\":108,\"prog\":184},\"rapid\":{\"games\":147,\"rating\":1399,\"rd\":50,\"prog\":9},\"storm\":{\"runs\":10,\"score\":18},\"racer\":{\"runs\":11,\"score\":27},\"streak\":{\"runs\":15,\"score\":12}},\"createdAt\":1586797076336,\"online\":true,\"profile\":{\"country\":\"UA\",\"bio\":\"https://giphy.com/gifs/5x9IzNzK6Z9V8rqGpX\"},\"seenAt\":1646918397258,\"playTime\":{\"total\":245341,\"tv\":759},\"url\":\"https://lichess.org/@/Asinshana\",\"playing\":\"https://lichess.org/ALvBwJ7j/white\",\"completionRate\":80,\"count\":{\"all\":1099,\"rated\":798,\"ai\":37,\"draw\":36,\"drawH\":35,\"loss\":483,\"lossH\":476,\"win\":580,\"winH\":551,\"bookmark\":6,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "asinshana",
     "username": "Asinshana",
@@ -12,134 +12,135 @@
       "chess960": {
         "games": 2,
         "rating": 1402,
-        "rd": 298,
+        "rd": 300,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 7,
         "rating": 1040,
-        "rd": 156,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 18,
-        "rating": 1010,
-        "rd": 121,
-        "prog": 51,
+        "games": 19,
+        "rating": 972,
+        "rd": 120,
+        "prog": 13,
         "prov": true
       },
       "racingKings": {
         "games": 9,
         "rating": 1509,
-        "rd": 173,
+        "rd": 176,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 387,
-        "rating": 1295,
-        "rd": 53,
-        "prog": 25
+        "games": 461,
+        "rating": 1218,
+        "rd": 48,
+        "prog": -44
       },
       "kingOfTheHill": {
         "games": 6,
         "rating": 1725,
-        "rd": 150,
+        "rd": 154,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
-        "games": 6,
-        "rating": 1342,
-        "rd": 192,
+        "games": 10,
+        "rating": 1290,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 5,
         "rating": 1256,
-        "rd": 234,
+        "rd": 236,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 39,
-        "rating": 1470,
-        "rd": 80,
-        "prog": 137
+        "games": 40,
+        "rating": 1436,
+        "rd": 87,
+        "prog": 104
       },
       "correspondence": {
         "games": 27,
         "rating": 1492,
-        "rd": 136,
+        "rd": 140,
         "prog": 17,
         "prov": true
       },
       "horde": {
         "games": 4,
         "rating": 1441,
-        "rd": 239,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 2465,
-        "rating": 2180,
-        "rd": 108,
+        "games": 2483,
+        "rating": 2185,
+        "rd": 106,
         "prog": 0
       },
       "classical": {
-        "games": 30,
-        "rating": 1577,
-        "rd": 103,
-        "prog": 243
+        "games": 31,
+        "rating": 1528,
+        "rd": 108,
+        "prog": 184
       },
       "rapid": {
-        "games": 106,
-        "rating": 1427,
-        "rd": 62,
-        "prog": -1
+        "games": 147,
+        "rating": 1399,
+        "rd": 50,
+        "prog": 9
       },
       "storm": {
-        "runs": 9,
+        "runs": 10,
         "score": 18
       },
       "racer": {
-        "runs": 7,
+        "runs": 11,
         "score": 27
       },
       "streak": {
-        "runs": 13,
+        "runs": 15,
         "score": 12
       }
     },
     "createdAt": 1586797076336,
     "online": true,
     "profile": {
-      "country": "FI",
-      "bio": "Play with my BOT! @I_am_cool_AS. One day I also played a game with my BOT."
+      "country": "UA",
+      "bio": "https://giphy.com/gifs/5x9IzNzK6Z9V8rqGpX"
     },
-    "seenAt": 1644854189095,
+    "seenAt": 1646918397258,
     "playTime": {
-      "total": 204218,
+      "total": 245341,
       "tv": 759
     },
     "url": "https://lichess.org/@/Asinshana",
-    "completionRate": 73,
+    "playing": "https://lichess.org/ALvBwJ7j/white",
+    "completionRate": 80,
     "count": {
-      "all": 934,
-      "rated": 675,
+      "all": 1099,
+      "rated": 798,
       "ai": 37,
-      "draw": 30,
-      "drawH": 29,
-      "loss": 402,
-      "lossH": 395,
-      "win": 502,
-      "winH": 473,
+      "draw": 36,
+      "drawH": 35,
+      "loss": 483,
+      "lossH": 476,
+      "win": 580,
+      "winH": 551,
       "bookmark": 6,
-      "playing": 0,
+      "playing": 3,
       "import": 0,
       "me": 0
     },
