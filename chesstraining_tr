@@ -1,0 +1,88 @@
+{
+  "id": "chesstraining_tr",
+  "displayName": "ChessTraining_TR",
+  "username": "ChessTraining_TR",
+  "profileUrl": "https://lichess.org/@/ChessTraining_TR",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chesstraining_tr\",\"username\":\"ChessTraining_TR\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1585,\"rd\":411,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":1,\"rating\":1307,\"rd\":321,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":1818,\"rd\":128,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1603273606766,\"online\":true,\"profile\":{\"bio\":\"Training Account for TBM: @TheBulletMaster\"},\"seenAt\":1646877383926,\"playTime\":{\"total\":4139,\"tv\":0},\"url\":\"https://lichess.org/@/ChessTraining_TR\",\"completionRate\":71,\"count\":{\"all\":107,\"rated\":13,\"ai\":90,\"draw\":1,\"drawH\":1,\"loss\":89,\"lossH\":8,\"win\":17,\"winH\":8,\"bookmark\":7,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chesstraining_tr",
+    "username": "ChessTraining_TR",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1585,
+        "rd": 411,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 1,
+        "rating": 1307,
+        "rd": 321,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 11,
+        "rating": 1818,
+        "rd": 128,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1603273606766,
+    "online": true,
+    "profile": {
+      "bio": "Training Account for TBM: @TheBulletMaster"
+    },
+    "seenAt": 1646877383926,
+    "playTime": {
+      "total": 4139,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/ChessTraining_TR",
+    "completionRate": 71,
+    "count": {
+      "all": 107,
+      "rated": 13,
+      "ai": 90,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 89,
+      "lossH": 8,
+      "win": 17,
+      "winH": 8,
+      "bookmark": 7,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
