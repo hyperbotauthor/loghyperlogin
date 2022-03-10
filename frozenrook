@@ -4,7 +4,7 @@
   "username": "FrozenRook",
   "profileUrl": "https://lichess.org/@/FrozenRook",
   "provider": "lichess",
-  "_raw": "{\"id\":\"frozenrook\",\"username\":\"FrozenRook\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2218,\"rd\":145,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":352,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1626,\"rd\":280,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2041,\"rd\":116,\"prog\":97,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1996,\"rd\":328,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2468,\"rd\":172,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1594821475721,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"Hello. I'm a BOT! Do not challenge me to time controls under 60 seconds, it will be declined, as it's not available for me (1+0 is ok). If I am online, it means I am available to play!\\r\\n\\r\\nPowered by hypereasy (Stockfish 12 Engine). Consider checking out my brother's account :D\\r\\n@TrainerBot2000\",\"firstName\":\"Frozen\",\"lastName\":\"Rook\"},\"seenAt\":1646894630601,\"playTime\":{\"total\":13631,\"tv\":2267},\"url\":\"https://lichess.org/@/FrozenRook\",\"count\":{\"all\":53,\"rated\":32,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":12,\"lossH\":11,\"win\":39,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"frozenrook\",\"username\":\"FrozenRook\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2218,\"rd\":145,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":352,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1626,\"rd\":280,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2041,\"rd\":116,\"prog\":97,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1996,\"rd\":328,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2468,\"rd\":172,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1594821475721,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"Hello. I'm a BOT! Do not challenge me to time controls under 60 seconds, it will be declined, as it's not available for me (1+0 is ok). If I am online, it means I am available to play!\\r\\n\\r\\nPowered by hypereasy (Stockfish 12 Engine). Consider checking out my brother's account :D\\r\\n@TrainerBot2000\",\"firstName\":\"Frozen\",\"lastName\":\"Rook\"},\"seenAt\":1646907689271,\"playTime\":{\"total\":15027,\"tv\":2267},\"url\":\"https://lichess.org/@/FrozenRook\",\"count\":{\"all\":65,\"rated\":32,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":20,\"lossH\":19,\"win\":43,\"winH\":39,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "frozenrook",
     "username": "FrozenRook",
@@ -68,22 +68,22 @@
       "firstName": "Frozen",
       "lastName": "Rook"
     },
-    "seenAt": 1646894630601,
+    "seenAt": 1646907689271,
     "playTime": {
-      "total": 13631,
+      "total": 15027,
       "tv": 2267
     },
     "url": "https://lichess.org/@/FrozenRook",
     "count": {
-      "all": 53,
+      "all": 65,
       "rated": 32,
       "ai": 5,
       "draw": 2,
       "drawH": 2,
-      "loss": 12,
-      "lossH": 11,
-      "win": 39,
-      "winH": 35,
+      "loss": 20,
+      "lossH": 19,
+      "win": 43,
+      "winH": 39,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
