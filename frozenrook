@@ -1,0 +1,98 @@
+{
+  "id": "frozenrook",
+  "displayName": "FrozenRook",
+  "username": "FrozenRook",
+  "profileUrl": "https://lichess.org/@/FrozenRook",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"frozenrook\",\"username\":\"FrozenRook\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":1893,\"rd\":183,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":352,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1626,\"rd\":280,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1797,\"rd\":195,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1996,\"rd\":328,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2301,\"rd\":233,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1594821475721,\"online\":true,\"profile\":{\"country\":\"IS\",\"bio\":\"Hello. I'm a BOT! I will like to play chess with you. Feel free to follow! \\r\\nI'm a bot who usually play blitz & rapid , I am still working on the bot for bullet.\\r\\nDon't expect me to go berserk! LOL\\r\\n\\r\\nWondering if u can also create a bot? Without programming it? Here: https://easychess.herokuapp.com/?login-lichess-bot=ok\",\"firstName\":\"Frozen\",\"lastName\":\"Rook\"},\"seenAt\":1646871702127,\"playTime\":{\"total\":7804,\"tv\":2267},\"url\":\"https://lichess.org/@/FrozenRook\",\"count\":{\"all\":30,\"rated\":21,\"ai\":5,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":5,\"win\":23,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "frozenrook",
+    "username": "FrozenRook",
+    "perfs": {
+      "blitz": {
+        "games": 7,
+        "rating": 1893,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1481,
+        "rd": 352,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1626,
+        "rd": 280,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 7,
+        "rating": 1797,
+        "rd": 195,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1996,
+        "rd": 328,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 2301,
+        "rd": 233,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1594821475721,
+    "online": true,
+    "profile": {
+      "country": "IS",
+      "bio": "Hello. I'm a BOT! I will like to play chess with you. Feel free to follow! \r\nI'm a bot who usually play blitz & rapid , I am still working on the bot for bullet.\r\nDon't expect me to go berserk! LOL\r\n\r\nWondering if u can also create a bot? Without programming it? Here: https://easychess.herokuapp.com/?login-lichess-bot=ok",
+      "firstName": "Frozen",
+      "lastName": "Rook"
+    },
+    "seenAt": 1646871702127,
+    "playTime": {
+      "total": 7804,
+      "tv": 2267
+    },
+    "url": "https://lichess.org/@/FrozenRook",
+    "count": {
+      "all": 30,
+      "rated": 21,
+      "ai": 5,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 6,
+      "lossH": 5,
+      "win": 23,
+      "winH": 19,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
