@@ -1,0 +1,153 @@
+{
+  "id": "jaiakashp",
+  "displayName": "JaiAkashp",
+  "username": "JaiAkashp",
+  "profileUrl": "https://lichess.org/@/JaiAkashp",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"jaiakashp\",\"username\":\"JaiAkashp\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1276,\"rd\":274,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":25,\"rating\":1115,\"rd\":113,\"prog\":-34,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1099,\"rd\":228,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1276,\"rd\":273,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":34,\"rating\":1386,\"rd\":105,\"prog\":-18},\"blitz\":{\"games\":211,\"rating\":1210,\"rd\":80,\"prog\":15},\"crazyhouse\":{\"games\":1,\"rating\":1383,\"rd\":354,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":3,\"rating\":1222,\"rd\":261,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":376,\"rating\":1293,\"rd\":82,\"prog\":-25},\"correspondence\":{\"games\":28,\"rating\":1605,\"rd\":153,\"prog\":-124,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1308,\"rd\":320,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":717,\"rating\":2195,\"rd\":114,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":1479,\"rd\":148,\"prog\":70,\"prov\":true},\"rapid\":{\"games\":1580,\"rating\":1259,\"rd\":72,\"prog\":-14},\"storm\":{\"runs\":2,\"score\":15},\"racer\":{\"runs\":11,\"score\":24},\"streak\":{\"runs\":8,\"score\":10}},\"tosViolation\":true,\"createdAt\":1591366122158,\"online\":true,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1647065937117,\"playTime\":{\"total\":548399,\"tv\":174},\"url\":\"https://lichess.org/@/JaiAkashp\",\"completionRate\":93,\"count\":{\"all\":2756,\"rated\":2291,\"ai\":168,\"draw\":90,\"drawH\":85,\"loss\":1593,\"lossH\":1505,\"win\":1073,\"winH\":998,\"bookmark\":8,\"playing\":0,\"import\":1,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "jaiakashp",
+    "username": "JaiAkashp",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1276,
+        "rd": 274,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 25,
+        "rating": 1115,
+        "rd": 113,
+        "prog": -34,
+        "prov": true
+      },
+      "atomic": {
+        "games": 5,
+        "rating": 1099,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1276,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 34,
+        "rating": 1386,
+        "rd": 105,
+        "prog": -18
+      },
+      "blitz": {
+        "games": 211,
+        "rating": 1210,
+        "rd": 80,
+        "prog": 15
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1383,
+        "rd": 354,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 3,
+        "rating": 1222,
+        "rd": 261,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 376,
+        "rating": 1293,
+        "rd": 82,
+        "prog": -25
+      },
+      "correspondence": {
+        "games": 28,
+        "rating": 1605,
+        "rd": 153,
+        "prog": -124,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1308,
+        "rd": 320,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 717,
+        "rating": 2195,
+        "rd": 114,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 13,
+        "rating": 1479,
+        "rd": 148,
+        "prog": 70,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1580,
+        "rating": 1259,
+        "rd": 72,
+        "prog": -14
+      },
+      "storm": {
+        "runs": 2,
+        "score": 15
+      },
+      "racer": {
+        "runs": 11,
+        "score": 24
+      },
+      "streak": {
+        "runs": 8,
+        "score": 10
+      }
+    },
+    "tosViolation": true,
+    "createdAt": 1591366122158,
+    "online": true,
+    "profile": {
+      "country": "_earth"
+    },
+    "seenAt": 1647065937117,
+    "playTime": {
+      "total": 548399,
+      "tv": 174
+    },
+    "url": "https://lichess.org/@/JaiAkashp",
+    "completionRate": 93,
+    "count": {
+      "all": 2756,
+      "rated": 2291,
+      "ai": 168,
+      "draw": 90,
+      "drawH": 85,
+      "loss": 1593,
+      "lossH": 1505,
+      "win": 1073,
+      "winH": 998,
+      "bookmark": 8,
+      "playing": 0,
+      "import": 1,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
