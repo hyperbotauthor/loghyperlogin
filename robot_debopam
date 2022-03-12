@@ -4,7 +4,7 @@
   "username": "ROBOT_Debopam",
   "profileUrl": "https://lichess.org/@/ROBOT_Debopam",
   "provider": "lichess",
-  "_raw": "{\"id\":\"robot_debopam\",\"username\":\"ROBOT_Debopam\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2009,\"rd\":486,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":13,\"rating\":2245,\"rd\":312,\"prog\":14,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2085,\"rd\":383,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646043669798,\"online\":true,\"seenAt\":1646913663132,\"playTime\":{\"total\":1850,\"tv\":0},\"url\":\"https://lichess.org/@/ROBOT_Debopam\",\"count\":{\"all\":17,\"rated\":17,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"robot_debopam\",\"username\":\"ROBOT_Debopam\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1973,\"rd\":436,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":19,\"rating\":2441,\"rd\":204,\"prog\":210,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1387,\"rd\":356,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646043669798,\"online\":true,\"seenAt\":1647059969299,\"playTime\":{\"total\":1955,\"tv\":0},\"url\":\"https://lichess.org/@/ROBOT_Debopam\",\"count\":{\"all\":26,\"rated\":25,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "robot_debopam",
     "username": "ROBOT_Debopam",
@@ -17,17 +17,17 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2009,
-        "rd": 486,
+        "games": 2,
+        "rating": 1973,
+        "rd": 436,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
-        "games": 13,
-        "rating": 2245,
-        "rd": 312,
-        "prog": 14,
+        "games": 19,
+        "rating": 2441,
+        "rd": 204,
+        "prog": 210,
         "prov": true
       },
       "classical": {
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2085,
-        "rd": 383,
+        "games": 3,
+        "rating": 1387,
+        "rd": 356,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1646043669798,
     "online": true,
-    "seenAt": 1646913663132,
+    "seenAt": 1647059969299,
     "playTime": {
-      "total": 1850,
+      "total": 1955,
       "tv": 0
     },
     "url": "https://lichess.org/@/ROBOT_Debopam",
     "count": {
-      "all": 17,
-      "rated": 17,
+      "all": 26,
+      "rated": 25,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 17,
-      "winH": 17,
+      "loss": 2,
+      "lossH": 2,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
