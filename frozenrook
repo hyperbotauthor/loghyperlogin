@@ -4,16 +4,16 @@
   "username": "FrozenRook",
   "profileUrl": "https://lichess.org/@/FrozenRook",
   "provider": "lichess",
-  "_raw": "{\"id\":\"frozenrook\",\"username\":\"FrozenRook\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2271,\"rd\":134,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":352,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1626,\"rd\":280,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":2041,\"rd\":116,\"prog\":97,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1996,\"rd\":328,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2431,\"rd\":158,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1594821475721,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"Hello. I'm a BOT! Do not challenge me to time controls under 60 seconds, it will be declined, as it's not available for me (1+0 is ok). If I am online, it means I am available to play!\\r\\n\\r\\nPowered by hypereasy (Stockfish 12 Engine). Consider checking out my brother's account :D\\r\\n@TrainerBot2000\",\"firstName\":\"Frozen\",\"lastName\":\"Rook\"},\"seenAt\":1646959166671,\"playTime\":{\"total\":18471,\"tv\":2267},\"url\":\"https://lichess.org/@/FrozenRook\",\"playing\":\"https://lichess.org/MD3wvaJz/white\",\"count\":{\"all\":68,\"rated\":34,\"ai\":5,\"draw\":2,\"drawH\":2,\"loss\":22,\"lossH\":21,\"win\":44,\"winH\":40,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"frozenrook\",\"username\":\"FrozenRook\",\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2338,\"rd\":127,\"prog\":67,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1481,\"rd\":352,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1626,\"rd\":280,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":2029,\"rd\":70,\"prog\":113},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1996,\"rd\":328,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2431,\"rd\":158,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1594821475721,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"Hello. I'm a BOT! Do not challenge me to time controls under 60 seconds, it will be declined, as it's not available for me (1+0 is ok). If I am online, it means I am available to play!\\r\\n\\r\\nPowered by hypereasy (Stockfish 12 Engine). Consider checking out my brother's account :D\\r\\n@TrainerBot2000\",\"firstName\":\"Frozen\",\"lastName\":\"Rook\"},\"seenAt\":1647047962324,\"playTime\":{\"total\":21556,\"tv\":2267},\"url\":\"https://lichess.org/@/FrozenRook\",\"count\":{\"all\":97,\"rated\":52,\"ai\":5,\"draw\":3,\"drawH\":3,\"loss\":34,\"lossH\":33,\"win\":60,\"winH\":56,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "frozenrook",
     "username": "FrozenRook",
     "perfs": {
       "blitz": {
-        "games": 11,
-        "rating": 2271,
-        "rd": 134,
-        "prog": 0,
+        "games": 12,
+        "rating": 2338,
+        "rd": 127,
+        "prog": 67,
         "prov": true
       },
       "antichess": {
@@ -31,11 +31,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 13,
-        "rating": 2041,
-        "rd": 116,
-        "prog": 97,
-        "prov": true
+        "games": 30,
+        "rating": 2029,
+        "rd": 70,
+        "prog": 113
       },
       "correspondence": {
         "games": 0,
@@ -68,25 +67,24 @@
       "firstName": "Frozen",
       "lastName": "Rook"
     },
-    "seenAt": 1646959166671,
+    "seenAt": 1647047962324,
     "playTime": {
-      "total": 18471,
+      "total": 21556,
       "tv": 2267
     },
     "url": "https://lichess.org/@/FrozenRook",
-    "playing": "https://lichess.org/MD3wvaJz/white",
     "count": {
-      "all": 68,
-      "rated": 34,
+      "all": 97,
+      "rated": 52,
       "ai": 5,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 22,
-      "lossH": 21,
-      "win": 44,
-      "winH": 40,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 34,
+      "lossH": 33,
+      "win": 60,
+      "winH": 56,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
