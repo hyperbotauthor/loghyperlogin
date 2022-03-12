@@ -1,0 +1,82 @@
+{
+  "id": "xdmanbot",
+  "displayName": "xDmanBOT",
+  "username": "xDmanBOT",
+  "profileUrl": "https://lichess.org/@/xDmanBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"xdmanbot\",\"username\":\"xDmanBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2078,\"rd\":393,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1647102927021,\"online\":true,\"profile\":{\"country\":\"AZ\",\"bio\":\"xDmanBOT by Aliyyiakbar\"},\"seenAt\":1647105965631,\"playTime\":{\"total\":90,\"tv\":0},\"url\":\"https://lichess.org/@/xDmanBOT\",\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "xdmanbot",
+    "username": "xDmanBOT",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 2078,
+        "rd": 393,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1647102927021,
+    "online": true,
+    "profile": {
+      "country": "AZ",
+      "bio": "xDmanBOT by Aliyyiakbar"
+    },
+    "seenAt": 1647105965631,
+    "playTime": {
+      "total": 90,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/xDmanBOT",
+    "count": {
+      "all": 2,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
