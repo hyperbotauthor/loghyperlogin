@@ -1,0 +1,77 @@
+{
+  "id": "stockfish_xxx",
+  "displayName": "stockfish_XXX",
+  "username": "stockfish_XXX",
+  "profileUrl": "https://lichess.org/@/stockfish_XXX",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stockfish_xxx\",\"username\":\"stockfish_XXX\",\"perfs\":{\"blitz\":{\"games\":37,\"rating\":1821,\"rd\":215,\"prog\":-450,\"prov\":true},\"bullet\":{\"games\":398,\"rating\":2361,\"rd\":91,\"prog\":-20},\"correspondence\":{\"games\":1,\"rating\":2119,\"rd\":348,\"prog\":0,\"prov\":true},\"classical\":{\"games\":10,\"rating\":1632,\"rd\":157,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637685777050,\"online\":true,\"seenAt\":1647270820041,\"playTime\":{\"total\":35770,\"tv\":428},\"url\":\"https://lichess.org/@/stockfish_XXX\",\"count\":{\"all\":507,\"rated\":493,\"ai\":10,\"draw\":3,\"drawH\":3,\"loss\":14,\"lossH\":11,\"win\":490,\"winH\":483,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stockfish_xxx",
+    "username": "stockfish_XXX",
+    "perfs": {
+      "blitz": {
+        "games": 37,
+        "rating": 1821,
+        "rd": 215,
+        "prog": -450,
+        "prov": true
+      },
+      "bullet": {
+        "games": 398,
+        "rating": 2361,
+        "rd": 91,
+        "prog": -20
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 2119,
+        "rd": 348,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 10,
+        "rating": 1632,
+        "rd": 157,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1637685777050,
+    "online": true,
+    "seenAt": 1647270820041,
+    "playTime": {
+      "total": 35770,
+      "tv": 428
+    },
+    "url": "https://lichess.org/@/stockfish_XXX",
+    "count": {
+      "all": 507,
+      "rated": 493,
+      "ai": 10,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 14,
+      "lossH": 11,
+      "win": 490,
+      "winH": 483,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
