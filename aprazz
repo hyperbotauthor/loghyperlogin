@@ -4,36 +4,43 @@
   "username": "aprazz",
   "profileUrl": "https://lichess.org/@/aprazz",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aprazz\",\"username\":\"aprazz\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2311,\"rd\":294,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":5,\"rating\":1824,\"rd\":179,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":2056,\"rd\":179,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":2190,\"rd\":167,\"prog\":-99,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644937258265,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"message me if you want to challenge me in another variant mode\"},\"seenAt\":1645141661544,\"playTime\":{\"total\":10243,\"tv\":0},\"url\":\"https://lichess.org/@/aprazz\",\"count\":{\"all\":79,\"rated\":39,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":29,\"lossH\":20,\"win\":49,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aprazz\",\"username\":\"aprazz\",\"perfs\":{\"atomic\":{\"games\":5,\"rating\":1824,\"rd\":183,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":2056,\"rd\":183,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":2311,\"rd\":296,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1779,\"rd\":305,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":2190,\"rd\":171,\"prog\":-99,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644937258265,\"online\":true,\"profile\":{\"country\":\"AQ\",\"bio\":\"message me if you want to challenge me in another variant mode\"},\"seenAt\":1647372482413,\"playTime\":{\"total\":11930,\"tv\":0},\"url\":\"https://lichess.org/@/aprazz\",\"count\":{\"all\":86,\"rated\":40,\"ai\":12,\"draw\":1,\"drawH\":1,\"loss\":32,\"lossH\":23,\"win\":53,\"winH\":50,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aprazz",
     "username": "aprazz",
     "perfs": {
-      "blitz": {
-        "games": 1,
-        "rating": 2311,
-        "rd": 294,
-        "prog": 0,
-        "prov": true
-      },
       "atomic": {
         "games": 5,
         "rating": 1824,
-        "rd": 179,
+        "rd": 183,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 4,
         "rating": 2056,
-        "rd": 179,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 1,
+        "rating": 2311,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 1779,
+        "rd": 305,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 29,
         "rating": 2190,
-        "rd": 167,
+        "rd": 171,
         "prog": -99,
         "prov": true
       },
@@ -66,22 +73,22 @@
       "country": "AQ",
       "bio": "message me if you want to challenge me in another variant mode"
     },
-    "seenAt": 1645141661544,
+    "seenAt": 1647372482413,
     "playTime": {
-      "total": 10243,
+      "total": 11930,
       "tv": 0
     },
     "url": "https://lichess.org/@/aprazz",
     "count": {
-      "all": 79,
-      "rated": 39,
+      "all": 86,
+      "rated": 40,
       "ai": 12,
       "draw": 1,
       "drawH": 1,
-      "loss": 29,
-      "lossH": 20,
-      "win": 49,
-      "winH": 46,
+      "loss": 32,
+      "lossH": 23,
+      "win": 53,
+      "winH": 50,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
