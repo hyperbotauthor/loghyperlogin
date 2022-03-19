@@ -4,7 +4,7 @@
   "username": "BSergey11-BOT",
   "profileUrl": "https://lichess.org/@/BSergey11-BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bsergey11-bot\",\"username\":\"BSergey11-BOT\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1774,\"rd\":203,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1149,\"rd\":310,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":800,\"rd\":444,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1626962120054,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Создатель бота: @BSergey11. Мой папа: @Mamont79.\"},\"seenAt\":1644758554596,\"playTime\":{\"total\":2197,\"tv\":160},\"url\":\"https://lichess.org/@/BSergey11-BOT\",\"count\":{\"all\":24,\"rated\":10,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":5,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bsergey11-bot\",\"username\":\"BSergey11-BOT\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1774,\"rd\":207,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1149,\"rd\":313,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1461,\"rd\":163,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1626962120054,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Создатель бота: @BSergey11. Мой папа: @Mamont79.\"},\"seenAt\":1647700646366,\"playTime\":{\"total\":2429,\"tv\":160},\"url\":\"https://lichess.org/@/BSergey11-BOT\",\"count\":{\"all\":30,\"rated\":16,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":8,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bsergey11-bot",
     "username": "BSergey11-BOT",
@@ -12,21 +12,21 @@
       "blitz": {
         "games": 4,
         "rating": 1774,
-        "rd": 203,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 2,
         "rating": 1149,
-        "rd": 310,
+        "rd": 313,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 800,
-        "rd": 444,
+        "games": 7,
+        "rating": 1461,
+        "rd": 163,
         "prog": 0,
         "prov": true
       },
@@ -59,22 +59,22 @@
       "country": "_earth",
       "bio": "Создатель бота: @BSergey11. Мой папа: @Mamont79."
     },
-    "seenAt": 1644758554596,
+    "seenAt": 1647700646366,
     "playTime": {
-      "total": 2197,
+      "total": 2429,
       "tv": 160
     },
     "url": "https://lichess.org/@/BSergey11-BOT",
     "count": {
-      "all": 24,
-      "rated": 10,
+      "all": 30,
+      "rated": 16,
       "ai": 1,
       "draw": 1,
       "drawH": 1,
-      "loss": 6,
-      "lossH": 5,
-      "win": 17,
-      "winH": 17,
+      "loss": 9,
+      "lossH": 8,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
