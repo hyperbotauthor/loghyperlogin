@@ -1,0 +1,78 @@
+{
+  "id": "learn_your_skill",
+  "displayName": "Learn_Your_Skill",
+  "username": "Learn_Your_Skill",
+  "profileUrl": "https://lichess.org/@/Learn_Your_Skill",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"learn_your_skill\",\"username\":\"Learn_Your_Skill\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2061,\"rd\":420,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2243,\"rd\":397,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1630121967701,\"online\":true,\"seenAt\":1648138055503,\"playTime\":{\"total\":234,\"tv\":0},\"url\":\"https://lichess.org/@/Learn_Your_Skill\",\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "learn_your_skill",
+    "username": "Learn_Your_Skill",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2061,
+        "rd": 420,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 2243,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1630121967701,
+    "online": true,
+    "seenAt": 1648138055503,
+    "playTime": {
+      "total": 234,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Learn_Your_Skill",
+    "count": {
+      "all": 2,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
