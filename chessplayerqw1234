@@ -1,0 +1,98 @@
+{
+  "id": "chessplayerqw1234",
+  "displayName": "ChessplayerQw1234",
+  "username": "ChessplayerQw1234",
+  "profileUrl": "https://lichess.org/@/ChessplayerQw1234",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessplayerqw1234\",\"username\":\"ChessplayerQw1234\",\"perfs\":{\"antichess\":{\"games\":11,\"rating\":1076,\"rd\":124,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1132,\"rd\":203,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1419,\"rd\":443,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":5,\"rating\":1074,\"rd\":192,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":1294,\"rd\":91,\"prog\":-8},\"correspondence\":{\"games\":4,\"rating\":1195,\"rd\":228,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1050,\"rd\":239,\"prog\":0,\"prov\":true}},\"createdAt\":1646308805587,\"online\":true,\"seenAt\":1648094562889,\"playTime\":{\"total\":2987,\"tv\":185},\"url\":\"https://lichess.org/@/ChessplayerQw1234\",\"completionRate\":88,\"count\":{\"all\":59,\"rated\":59,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":51,\"lossH\":51,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessplayerqw1234",
+    "username": "ChessplayerQw1234",
+    "perfs": {
+      "antichess": {
+        "games": 11,
+        "rating": 1076,
+        "rd": 124,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1132,
+        "rd": 203,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 2,
+        "rating": 1419,
+        "rd": 443,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 5,
+        "rating": 1074,
+        "rd": 192,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 30,
+        "rating": 1294,
+        "rd": 91,
+        "prog": -8
+      },
+      "correspondence": {
+        "games": 4,
+        "rating": 1195,
+        "rd": 228,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 3,
+        "rating": 1050,
+        "rd": 239,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1646308805587,
+    "online": true,
+    "seenAt": 1648094562889,
+    "playTime": {
+      "total": 2987,
+      "tv": 185
+    },
+    "url": "https://lichess.org/@/ChessplayerQw1234",
+    "completionRate": 88,
+    "count": {
+      "all": 59,
+      "rated": 59,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 51,
+      "lossH": 51,
+      "win": 7,
+      "winH": 7,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
