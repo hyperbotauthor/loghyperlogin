@@ -1,0 +1,156 @@
+{
+  "id": "qwtan",
+  "displayName": "QWTan",
+  "username": "QWTan",
+  "profileUrl": "https://lichess.org/@/QWTan",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"qwtan\",\"username\":\"QWTan\",\"perfs\":{\"chess960\":{\"games\":23,\"rating\":1254,\"rd\":108,\"prog\":15},\"antichess\":{\"games\":452,\"rating\":1420,\"rd\":50,\"prog\":26},\"atomic\":{\"games\":2,\"rating\":1351,\"rd\":313,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":162,\"rating\":1521,\"rd\":59,\"prog\":14},\"ultraBullet\":{\"games\":206,\"rating\":1030,\"rd\":70,\"prog\":17},\"blitz\":{\"games\":164,\"rating\":1308,\"rd\":50,\"prog\":27},\"kingOfTheHill\":{\"games\":93,\"rating\":1493,\"rd\":66,\"prog\":44},\"crazyhouse\":{\"games\":3,\"rating\":1109,\"rd\":272,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":18,\"rating\":1112,\"rd\":114,\"prog\":43,\"prov\":true},\"bullet\":{\"games\":714,\"rating\":1509,\"rd\":54,\"prog\":18},\"correspondence\":{\"games\":31,\"rating\":1607,\"rd\":102,\"prog\":1},\"horde\":{\"games\":2,\"rating\":991,\"rd\":377,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":42,\"rating\":1609,\"rd\":100,\"prog\":0},\"classical\":{\"games\":15,\"rating\":1507,\"rd\":115,\"prog\":28,\"prov\":true},\"rapid\":{\"games\":116,\"rating\":1336,\"rd\":57,\"prog\":14},\"storm\":{\"runs\":1,\"score\":6},\"racer\":{\"runs\":5,\"score\":16},\"streak\":{\"runs\":1,\"score\":6}},\"createdAt\":1628252312797,\"online\":true,\"profile\":{\"country\":\"MY\",\"bio\":\"This is my account. \\r\\nI have another bot account: https://lichess.org/@/T007_Bot\\r\\nYou can challenge my bot account because it is always online.\",\"firstName\":\"Tan\",\"lastName\":\"Qi Wei\"},\"seenAt\":1648104650083,\"playTime\":{\"total\":265718,\"tv\":2648},\"url\":\"https://lichess.org/@/QWTan\",\"completionRate\":90,\"count\":{\"all\":2068,\"rated\":2002,\"ai\":7,\"draw\":90,\"drawH\":90,\"loss\":1024,\"lossH\":1020,\"win\":954,\"winH\":951,\"bookmark\":2,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "qwtan",
+    "username": "QWTan",
+    "perfs": {
+      "chess960": {
+        "games": 23,
+        "rating": 1254,
+        "rd": 108,
+        "prog": 15
+      },
+      "antichess": {
+        "games": 452,
+        "rating": 1420,
+        "rd": 50,
+        "prog": 26
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1351,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 162,
+        "rating": 1521,
+        "rd": 59,
+        "prog": 14
+      },
+      "ultraBullet": {
+        "games": 206,
+        "rating": 1030,
+        "rd": 70,
+        "prog": 17
+      },
+      "blitz": {
+        "games": 164,
+        "rating": 1308,
+        "rd": 50,
+        "prog": 27
+      },
+      "kingOfTheHill": {
+        "games": 93,
+        "rating": 1493,
+        "rd": 66,
+        "prog": 44
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1109,
+        "rd": 272,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 18,
+        "rating": 1112,
+        "rd": 114,
+        "prog": 43,
+        "prov": true
+      },
+      "bullet": {
+        "games": 714,
+        "rating": 1509,
+        "rd": 54,
+        "prog": 18
+      },
+      "correspondence": {
+        "games": 31,
+        "rating": 1607,
+        "rd": 102,
+        "prog": 1
+      },
+      "horde": {
+        "games": 2,
+        "rating": 991,
+        "rd": 377,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 42,
+        "rating": 1609,
+        "rd": 100,
+        "prog": 0
+      },
+      "classical": {
+        "games": 15,
+        "rating": 1507,
+        "rd": 115,
+        "prog": 28,
+        "prov": true
+      },
+      "rapid": {
+        "games": 116,
+        "rating": 1336,
+        "rd": 57,
+        "prog": 14
+      },
+      "storm": {
+        "runs": 1,
+        "score": 6
+      },
+      "racer": {
+        "runs": 5,
+        "score": 16
+      },
+      "streak": {
+        "runs": 1,
+        "score": 6
+      }
+    },
+    "createdAt": 1628252312797,
+    "online": true,
+    "profile": {
+      "country": "MY",
+      "bio": "This is my account. \r\nI have another bot account: https://lichess.org/@/T007_Bot\r\nYou can challenge my bot account because it is always online.",
+      "firstName": "Tan",
+      "lastName": "Qi Wei"
+    },
+    "seenAt": 1648104650083,
+    "playTime": {
+      "total": 265718,
+      "tv": 2648
+    },
+    "url": "https://lichess.org/@/QWTan",
+    "completionRate": 90,
+    "count": {
+      "all": 2068,
+      "rated": 2002,
+      "ai": 7,
+      "draw": 90,
+      "drawH": 90,
+      "loss": 1024,
+      "lossH": 1020,
+      "win": 954,
+      "winH": 951,
+      "bookmark": 2,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
