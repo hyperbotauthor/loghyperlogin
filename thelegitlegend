@@ -4,7 +4,7 @@
   "username": "TheLegitLegend",
   "profileUrl": "https://lichess.org/@/TheLegitLegend",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thelegitlegend\",\"username\":\"TheLegitLegend\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1483,\"rd\":479,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1606,\"rd\":320,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1879,\"rd\":200,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2370,\"rd\":139,\"prog\":-135,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648125485550,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. Also join team-https://lichess.org/team/kashi89s-team-of-fun\",\"firstName\":\"Legit\",\"lastName\":\"Legend\"},\"seenAt\":1648182200804,\"playTime\":{\"total\":10169,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegitLegend\",\"playing\":\"https://lichess.org/gvs3JHUt/black\",\"count\":{\"all\":28,\"rated\":26,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":8,\"lossH\":8,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thelegitlegend\",\"username\":\"TheLegitLegend\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1476,\"rd\":471,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1786,\"rd\":246,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":1798,\"rd\":165,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2370,\"rd\":139,\"prog\":-135,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648125485550,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. Also join team-https://lichess.org/team/kashi89s-team-of-fun\",\"firstName\":\"Legit\",\"lastName\":\"Legend\"},\"seenAt\":1648183432533,\"playTime\":{\"total\":12783,\"tv\":382},\"url\":\"https://lichess.org/@/TheLegitLegend\",\"count\":{\"all\":32,\"rated\":30,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thelegitlegend",
     "username": "TheLegitLegend",
@@ -17,23 +17,23 @@
         "prov": true
       },
       "antichess": {
-        "games": 2,
-        "rating": 1483,
-        "rd": 479,
+        "games": 3,
+        "rating": 1476,
+        "rd": 471,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1606,
-        "rd": 320,
+        "games": 2,
+        "rating": 1786,
+        "rd": 246,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 7,
-        "rating": 1879,
-        "rd": 200,
+        "games": 9,
+        "rating": 1798,
+        "rd": 165,
         "prog": 0,
         "prov": true
       },
@@ -68,25 +68,24 @@
       "firstName": "Legit",
       "lastName": "Legend"
     },
-    "seenAt": 1648182200804,
+    "seenAt": 1648183432533,
     "playTime": {
-      "total": 10169,
-      "tv": 0
+      "total": 12783,
+      "tv": 382
     },
     "url": "https://lichess.org/@/TheLegitLegend",
-    "playing": "https://lichess.org/gvs3JHUt/black",
     "count": {
-      "all": 28,
-      "rated": 26,
+      "all": 32,
+      "rated": 30,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 8,
-      "lossH": 8,
-      "win": 18,
-      "winH": 18,
+      "loss": 11,
+      "lossH": 11,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
-      "playing": 4,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
