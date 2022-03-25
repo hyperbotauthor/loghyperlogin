@@ -1,0 +1,84 @@
+{
+  "id": "thelegitlegend",
+  "displayName": "TheLegitLegend",
+  "username": "TheLegitLegend",
+  "profileUrl": "https://lichess.org/@/TheLegitLegend",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thelegitlegend\",\"username\":\"TheLegitLegend\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2157,\"rd\":302,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2370,\"rd\":139,\"prog\":-135,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648125485550,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. Also join team-https://lichess.org/team/kashi89s-team-of-fun\",\"firstName\":\"Legit\",\"lastName\":\"Legend\"},\"seenAt\":1648179794273,\"playTime\":{\"total\":8754,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegitLegend\",\"count\":{\"all\":23,\"rated\":21,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thelegitlegend",
+    "username": "TheLegitLegend",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 2157,
+        "rd": 302,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 16,
+        "rating": 2370,
+        "rd": 139,
+        "prog": -135,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1648125485550,
+    "online": true,
+    "profile": {
+      "country": "_united-nations",
+      "bio": "Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. Also join team-https://lichess.org/team/kashi89s-team-of-fun",
+      "firstName": "Legit",
+      "lastName": "Legend"
+    },
+    "seenAt": 1648179794273,
+    "playTime": {
+      "total": 8754,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/TheLegitLegend",
+    "count": {
+      "all": 23,
+      "rated": 21,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 4,
+      "lossH": 4,
+      "win": 18,
+      "winH": 18,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
