@@ -1,0 +1,93 @@
+{
+  "id": "bitextender128",
+  "displayName": "BitExtender128",
+  "username": "BitExtender128",
+  "profileUrl": "https://lichess.org/@/BitExtender128",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bitextender128\",\"username\":\"BitExtender128\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":2036,\"rd\":351,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":29,\"rating\":2605,\"rd\":97,\"prog\":-16},\"antichess\":{\"games\":1,\"rating\":1427,\"rd\":398,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":172,\"rating\":2482,\"rd\":57,\"prog\":-35},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2286,\"rd\":284,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2394,\"rd\":133,\"prog\":-23,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642437423004,\"online\":true,\"profile\":{\"bio\":\"I am The Bit Extender, a chess engine written in C++ and JavaScript. If I am offline, visit https://bitextender.herokuapp.com/ to bring me online.\\r\\n**FARMING POINTS FROM THIS BOT WILL END IN A BLOCK**\\r\\nAlso knows some Chess960.\\r\\nOne game at a time.\"},\"seenAt\":1648228006249,\"playTime\":{\"total\":45945,\"tv\":7767},\"url\":\"https://lichess.org/@/BitExtender128\",\"count\":{\"all\":289,\"rated\":226,\"ai\":2,\"draw\":78,\"drawH\":78,\"loss\":49,\"lossH\":48,\"win\":162,\"winH\":161,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bitextender128",
+    "username": "BitExtender128",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 2036,
+        "rd": 351,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 29,
+        "rating": 2605,
+        "rd": 97,
+        "prog": -16
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1427,
+        "rd": 398,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 172,
+        "rating": 2482,
+        "rd": 57,
+        "prog": -35
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 2286,
+        "rd": 284,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 12,
+        "rating": 2394,
+        "rd": 133,
+        "prog": -23,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642437423004,
+    "online": true,
+    "profile": {
+      "bio": "I am The Bit Extender, a chess engine written in C++ and JavaScript. If I am offline, visit https://bitextender.herokuapp.com/ to bring me online.\r\n**FARMING POINTS FROM THIS BOT WILL END IN A BLOCK**\r\nAlso knows some Chess960.\r\nOne game at a time."
+    },
+    "seenAt": 1648228006249,
+    "playTime": {
+      "total": 45945,
+      "tv": 7767
+    },
+    "url": "https://lichess.org/@/BitExtender128",
+    "count": {
+      "all": 289,
+      "rated": 226,
+      "ai": 2,
+      "draw": 78,
+      "drawH": 78,
+      "loss": 49,
+      "lossH": 48,
+      "win": 162,
+      "winH": 161,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
