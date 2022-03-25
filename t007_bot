@@ -4,37 +4,37 @@
   "username": "T007_Bot",
   "profileUrl": "https://lichess.org/@/T007_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"t007_bot\",\"username\":\"T007_Bot\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2052,\"rd\":145,\"prog\":-27,\"prov\":true},\"antichess\":{\"games\":12,\"rating\":2473,\"rd\":166,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1653,\"rd\":199,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":2073,\"rd\":91,\"prog\":-60},\"correspondence\":{\"games\":2,\"rating\":2074,\"rd\":410,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1853,\"rd\":226,\"prog\":30,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1647573492901,\"online\":true,\"profile\":{\"country\":\"_earth\",\"bio\":\"Hi, I am made by @QWTan. I am a chess bot. I play corespondence, classical, rapid, blitz, bullet, ultrabullet and also all other varients. You can challenge me at anytime, I will accept your challenge. Please follow me @QWTan and also @T007_Bot..........................................................\\r\\n\\r\\n\\r\\n\\r\\nhttps://i.imgur.com/Gwcknzs.jpg\"},\"seenAt\":1648165182839,\"playTime\":{\"total\":18487,\"tv\":0},\"url\":\"https://lichess.org/@/T007_Bot\",\"count\":{\"all\":148,\"rated\":99,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":17,\"lossH\":17,\"win\":130,\"winH\":130,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"t007_bot\",\"username\":\"T007_Bot\",\"perfs\":{\"blitz\":{\"games\":17,\"rating\":2089,\"rd\":133,\"prog\":10,\"prov\":true},\"antichess\":{\"games\":15,\"rating\":2485,\"rd\":163,\"prog\":12,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":1606,\"rd\":140,\"prog\":22,\"prov\":true},\"bullet\":{\"games\":54,\"rating\":2089,\"rd\":82,\"prog\":0},\"correspondence\":{\"games\":2,\"rating\":2074,\"rd\":410,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2037,\"rd\":160,\"prog\":213,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1647573492901,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Hi, I am made by @QWTan. I am a chess bot. I play corespondence, classical, rapid, blitz, bullet and also all other varients, QWTan upgraded me so now I can move faster. You can challenge me at anytime. Please follow me @QWTan and also @T007_Bot..........................................................\\r\\n\\r\\n\\r\\nhttps://i.imgur.com/Gwcknzs.jpg\"},\"seenAt\":1648185092389,\"playTime\":{\"total\":28951,\"tv\":382},\"url\":\"https://lichess.org/@/T007_Bot\",\"count\":{\"all\":175,\"rated\":125,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":20,\"lossH\":20,\"win\":152,\"winH\":152,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "t007_bot",
     "username": "T007_Bot",
     "perfs": {
       "blitz": {
-        "games": 15,
-        "rating": 2052,
-        "rd": 145,
-        "prog": -27,
+        "games": 17,
+        "rating": 2089,
+        "rd": 133,
+        "prog": 10,
         "prov": true
       },
       "antichess": {
-        "games": 12,
-        "rating": 2473,
-        "rd": 166,
-        "prog": 0,
+        "games": 15,
+        "rating": 2485,
+        "rd": 163,
+        "prog": 12,
         "prov": true
       },
       "atomic": {
-        "games": 8,
-        "rating": 1653,
-        "rd": 199,
-        "prog": 0,
+        "games": 16,
+        "rating": 1606,
+        "rd": 140,
+        "prog": 22,
         "prov": true
       },
       "bullet": {
-        "games": 47,
-        "rating": 2073,
-        "rd": 91,
-        "prog": -60
+        "games": 54,
+        "rating": 2089,
+        "rd": 82,
+        "prog": 0
       },
       "correspondence": {
         "games": 2,
@@ -51,10 +51,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 15,
-        "rating": 1853,
-        "rd": 226,
-        "prog": 30,
+        "games": 20,
+        "rating": 2037,
+        "rd": 160,
+        "prog": 213,
         "prov": true
       }
     },
@@ -62,25 +62,25 @@
     "createdAt": 1647573492901,
     "online": true,
     "profile": {
-      "country": "_earth",
-      "bio": "Hi, I am made by @QWTan. I am a chess bot. I play corespondence, classical, rapid, blitz, bullet, ultrabullet and also all other varients. You can challenge me at anytime, I will accept your challenge. Please follow me @QWTan and also @T007_Bot..........................................................\r\n\r\n\r\n\r\nhttps://i.imgur.com/Gwcknzs.jpg"
+      "country": "_lichess",
+      "bio": "Hi, I am made by @QWTan. I am a chess bot. I play corespondence, classical, rapid, blitz, bullet and also all other varients, QWTan upgraded me so now I can move faster. You can challenge me at anytime. Please follow me @QWTan and also @T007_Bot..........................................................\r\n\r\n\r\nhttps://i.imgur.com/Gwcknzs.jpg"
     },
-    "seenAt": 1648165182839,
+    "seenAt": 1648185092389,
     "playTime": {
-      "total": 18487,
-      "tv": 0
+      "total": 28951,
+      "tv": 382
     },
     "url": "https://lichess.org/@/T007_Bot",
     "count": {
-      "all": 148,
-      "rated": 99,
+      "all": 175,
+      "rated": 125,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 17,
-      "lossH": 17,
-      "win": 130,
-      "winH": 130,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 20,
+      "lossH": 20,
+      "win": 152,
+      "winH": 152,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
