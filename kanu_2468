@@ -1,0 +1,163 @@
+{
+  "id": "kanu_2468",
+  "displayName": "Kanu_2468",
+  "username": "Kanu_2468",
+  "profileUrl": "https://lichess.org/@/Kanu_2468",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kanu_2468\",\"username\":\"Kanu_2468\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1342,\"rd\":304,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":17,\"rating\":1404,\"rd\":131,\"prog\":-238,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1256,\"rd\":157,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1581,\"rd\":309,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":37,\"rating\":1468,\"rd\":94,\"prog\":47},\"blitz\":{\"games\":258,\"rating\":1144,\"rd\":53,\"prog\":1},\"kingOfTheHill\":{\"games\":6,\"rating\":1589,\"rd\":210,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":9,\"rating\":1412,\"rd\":163,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1388,\"rd\":233,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":189,\"rating\":1082,\"rd\":55,\"prog\":-34},\"correspondence\":{\"games\":2,\"rating\":1227,\"rd\":249,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1569,\"rd\":302,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":512,\"rating\":1527,\"rd\":83,\"prog\":0},\"classical\":{\"games\":1,\"rating\":1371,\"rd\":333,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":482,\"rating\":1275,\"rd\":45,\"prog\":-14},\"storm\":{\"runs\":3,\"score\":14},\"racer\":{\"runs\":24,\"score\":29},\"streak\":{\"runs\":18,\"score\":14}},\"createdAt\":1639309690558,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"location\":\"Bangalore, Karnataka,\",\"bio\":\"Hello. I am Narayan Shankar and I love playing chess. I created a BOT too- @TheLegitLegend. Also, join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club.\",\"firstName\":\"Narayan\",\"lastName\":\"Shankar\",\"fideRating\":1289},\"seenAt\":1648298001174,\"playTime\":{\"total\":398454,\"tv\":29},\"url\":\"https://lichess.org/@/Kanu_2468\",\"completionRate\":87,\"count\":{\"all\":1152,\"rated\":1030,\"ai\":6,\"draw\":53,\"drawH\":53,\"loss\":604,\"lossH\":599,\"win\":495,\"winH\":494,\"bookmark\":56,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kanu_2468",
+    "username": "Kanu_2468",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1342,
+        "rd": 304,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 17,
+        "rating": 1404,
+        "rd": 131,
+        "prog": -238,
+        "prov": true
+      },
+      "atomic": {
+        "games": 11,
+        "rating": 1256,
+        "rd": 157,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1581,
+        "rd": 309,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 37,
+        "rating": 1468,
+        "rd": 94,
+        "prog": 47
+      },
+      "blitz": {
+        "games": 258,
+        "rating": 1144,
+        "rd": 53,
+        "prog": 1
+      },
+      "kingOfTheHill": {
+        "games": 6,
+        "rating": 1589,
+        "rd": 210,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 9,
+        "rating": 1412,
+        "rd": 163,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 1388,
+        "rd": 233,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 189,
+        "rating": 1082,
+        "rd": 55,
+        "prog": -34
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1227,
+        "rd": 249,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1569,
+        "rd": 302,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 512,
+        "rating": 1527,
+        "rd": 83,
+        "prog": 0
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1371,
+        "rd": 333,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 482,
+        "rating": 1275,
+        "rd": 45,
+        "prog": -14
+      },
+      "storm": {
+        "runs": 3,
+        "score": 14
+      },
+      "racer": {
+        "runs": 24,
+        "score": 29
+      },
+      "streak": {
+        "runs": 18,
+        "score": 14
+      }
+    },
+    "createdAt": 1639309690558,
+    "online": true,
+    "profile": {
+      "country": "_united-nations",
+      "location": "Bangalore, Karnataka,",
+      "bio": "Hello. I am Narayan Shankar and I love playing chess. I created a BOT too- @TheLegitLegend. Also, join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club.",
+      "firstName": "Narayan",
+      "lastName": "Shankar",
+      "fideRating": 1289
+    },
+    "seenAt": 1648298001174,
+    "playTime": {
+      "total": 398454,
+      "tv": 29
+    },
+    "url": "https://lichess.org/@/Kanu_2468",
+    "completionRate": 87,
+    "count": {
+      "all": 1152,
+      "rated": 1030,
+      "ai": 6,
+      "draw": 53,
+      "drawH": 53,
+      "loss": 604,
+      "lossH": 599,
+      "win": 495,
+      "winH": 494,
+      "bookmark": 56,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
