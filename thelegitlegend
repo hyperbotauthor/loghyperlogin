@@ -4,7 +4,7 @@
   "username": "TheLegitLegend",
   "profileUrl": "https://lichess.org/@/TheLegitLegend",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thelegitlegend\",\"username\":\"TheLegitLegend\",\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1008,\"rd\":323,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1786,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1823,\"rd\":324,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1804,\"rd\":330,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":25,\"rating\":1881,\"rd\":102,\"prog\":144},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":27,\"rating\":2371,\"rd\":105,\"prog\":1}},\"title\":\"BOT\",\"createdAt\":1648125485550,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. And I take some time to play the first move so please keep that in mind when you challenge me! Also join team-https://lichess.org/team/kashi89s-team-of-fun and my team- https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. Try challenging my upgraded verision- @TheLegitLegendv2\",\"firstName\":\"Legit\",\"lastName\":\"Legend\"},\"seenAt\":1648218460676,\"playTime\":{\"total\":21727,\"tv\":382},\"url\":\"https://lichess.org/@/TheLegitLegend\",\"count\":{\"all\":65,\"rated\":62,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":26,\"lossH\":26,\"win\":37,\"winH\":37,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thelegitlegend\",\"username\":\"TheLegitLegend\",\"perfs\":{\"antichess\":{\"games\":4,\"rating\":1008,\"rd\":323,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1786,\"rd\":246,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1731,\"rd\":253,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":1804,\"rd\":330,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1965,\"rd\":77,\"prog\":91},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":30,\"rating\":2345,\"rd\":99,\"prog\":-83}},\"title\":\"BOT\",\"createdAt\":1648125485550,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"Hello there! I am TheLegitLegend Bot. I was developed by @Kanu_2468. I use[I think I do) Stocfkish 12. And I take some time to play the first move so please keep that in mind when you challenge me! Also join team-https://lichess.org/team/kashi89s-team-of-fun and my team- https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. Try challenging my upgraded verision- @TheLegitLegendv2\",\"firstName\":\"Legit\",\"lastName\":\"Legend\"},\"seenAt\":1648269078481,\"playTime\":{\"total\":23766,\"tv\":907},\"url\":\"https://lichess.org/@/TheLegitLegend\",\"playing\":\"https://lichess.org/se8Ykk4D/white\",\"count\":{\"all\":83,\"rated\":80,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":31,\"lossH\":31,\"win\":50,\"winH\":50,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thelegitlegend",
     "username": "TheLegitLegend",
@@ -24,9 +24,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 2,
-        "rating": 1823,
-        "rd": 324,
+        "games": 3,
+        "rating": 1731,
+        "rd": 253,
         "prog": 0,
         "prov": true
       },
@@ -38,10 +38,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 25,
-        "rating": 1881,
-        "rd": 102,
-        "prog": 144
+        "games": 39,
+        "rating": 1965,
+        "rd": 77,
+        "prog": 91
       },
       "correspondence": {
         "games": 0,
@@ -58,10 +58,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 27,
-        "rating": 2371,
-        "rd": 105,
-        "prog": 1
+        "games": 30,
+        "rating": 2345,
+        "rd": 99,
+        "prog": -83
       }
     },
     "title": "BOT",
@@ -73,24 +73,25 @@
       "firstName": "Legit",
       "lastName": "Legend"
     },
-    "seenAt": 1648218460676,
+    "seenAt": 1648269078481,
     "playTime": {
-      "total": 21727,
-      "tv": 382
+      "total": 23766,
+      "tv": 907
     },
     "url": "https://lichess.org/@/TheLegitLegend",
+    "playing": "https://lichess.org/se8Ykk4D/white",
     "count": {
-      "all": 65,
-      "rated": 62,
+      "all": 83,
+      "rated": 80,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 26,
-      "lossH": 26,
-      "win": 37,
-      "winH": 37,
+      "loss": 31,
+      "lossH": 31,
+      "win": 50,
+      "winH": 50,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
