@@ -4,65 +4,71 @@
   "username": "TheLegitLegendv2",
   "profileUrl": "https://lichess.org/@/TheLegitLegendv2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thelegitlegendv2\",\"username\":\"TheLegitLegendv2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1648209794659,\"online\":true,\"seenAt\":1648209918936,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegitLegendv2\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thelegitlegendv2\",\"username\":\"TheLegitLegendv2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":1799,\"rd\":188,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648209794659,\"online\":true,\"profile\":{\"bio\":\"Hello! I am the upgraded verision of@TheLegitLegend. I play considerably better(Not quite yet). Also join team-https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. Created by Kanu_2468\",\"firstName\":\"Legit\",\"lastName\":\"Legendv2\"},\"seenAt\":1648277345785,\"playTime\":{\"total\":741,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegitLegendv2\",\"count\":{\"all\":5,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thelegitlegendv2",
     "username": "TheLegitLegendv2",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 4,
+        "rating": 1799,
+        "rd": 188,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1648209794659,
     "online": true,
-    "seenAt": 1648209918936,
+    "profile": {
+      "bio": "Hello! I am the upgraded verision of@TheLegitLegend. I play considerably better(Not quite yet). Also join team-https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. Created by Kanu_2468",
+      "firstName": "Legit",
+      "lastName": "Legendv2"
+    },
+    "seenAt": 1648277345785,
     "playTime": {
-      "total": 0,
+      "total": 741,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheLegitLegendv2",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 5,
+      "rated": 4,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 3,
+      "lossH": 3,
+      "win": 2,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
