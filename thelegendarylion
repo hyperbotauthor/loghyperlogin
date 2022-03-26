@@ -4,71 +4,79 @@
   "username": "TheLegendaryLion",
   "profileUrl": "https://lichess.org/@/TheLegendaryLion",
   "provider": "lichess",
-  "_raw": "{\"id\":\"thelegendarylion\",\"username\":\"TheLegendaryLion\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1648203418061,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"Hello everyone! I was developed by @Kashi89. I hunt my prey! Also join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. ROARRRR!\",\"firstName\":\"Legendary\",\"lastName\":\"Lion\"},\"seenAt\":1648204575403,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegendaryLion\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"thelegendarylion\",\"username\":\"TheLegendaryLion\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2376,\"rd\":272,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1621,\"rd\":337,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":1784,\"rd\":162,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2640,\"rd\":194,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648203418061,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"Hello everyone! I was developed by @Kashi89. I hunt my prey! Also join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. ROARRRR! I might play few engine perfect moves too.\",\"firstName\":\"Legendary\",\"lastName\":\"Lion\"},\"seenAt\":1648269759442,\"playTime\":{\"total\":5862,\"tv\":0},\"url\":\"https://lichess.org/@/TheLegendaryLion\",\"count\":{\"all\":21,\"rated\":19,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":5,\"lossH\":5,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "thelegendarylion",
     "username": "TheLegendaryLion",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 3,
+        "rating": 2376,
+        "rd": 272,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1621,
+        "rd": 337,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 1784,
+        "rd": 162,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 7,
+        "rating": 2640,
+        "rd": 194,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1648203418061,
     "online": true,
     "profile": {
       "country": "IN",
-      "bio": "Hello everyone! I was developed by @Kashi89. I hunt my prey! Also join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. ROARRRR!",
+      "bio": "Hello everyone! I was developed by @Kashi89. I hunt my prey! Also join team- https://lichess.org/team/kashi89s-team-of-fun and https://lichess.org/team/bot-thelegitlegend-and-t007_bot-fan-club. ROARRRR! I might play few engine perfect moves too.",
       "firstName": "Legendary",
       "lastName": "Lion"
     },
-    "seenAt": 1648204575403,
+    "seenAt": 1648269759442,
     "playTime": {
-      "total": 0,
+      "total": 5862,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheLegendaryLion",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 21,
+      "rated": 19,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 5,
+      "lossH": 5,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
