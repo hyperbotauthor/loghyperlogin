@@ -4,144 +4,141 @@
   "username": "fish224",
   "profileUrl": "https://lichess.org/@/fish224",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fish224\",\"username\":\"fish224\",\"online\":true,\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1550,\"rd\":237,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":31,\"rating\":1655,\"rd\":103,\"prog\":83},\"atomic\":{\"games\":135,\"rating\":1816,\"rd\":79,\"prog\":9},\"racingKings\":{\"games\":98,\"rating\":1913,\"rd\":75,\"prog\":70},\"blitz\":{\"games\":385,\"rating\":1863,\"rd\":45,\"prog\":-10},\"kingOfTheHill\":{\"games\":18,\"rating\":1675,\"rd\":133,\"prog\":-16,\"prov\":true},\"crazyhouse\":{\"games\":23,\"rating\":1537,\"rd\":172,\"prog\":-244,\"prov\":true},\"threeCheck\":{\"games\":57,\"rating\":1893,\"rd\":95,\"prog\":-37},\"bullet\":{\"games\":28,\"rating\":1758,\"rd\":112,\"prog\":-68,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1738,\"rd\":174,\"prog\":0,\"prov\":true},\"horde\":{\"games\":10,\"rating\":1728,\"rd\":177,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1365,\"rating\":2060,\"rd\":72,\"prog\":0},\"classical\":{\"games\":45,\"rating\":1715,\"rd\":115,\"prog\":-38,\"prov\":true},\"rapid\":{\"games\":115,\"rating\":1859,\"rd\":54,\"prog\":25},\"storm\":{\"runs\":57,\"score\":42},\"racer\":{\"runs\":7,\"score\":55},\"streak\":{\"runs\":5,\"score\":16}},\"createdAt\":1590330380850,\"profile\":{\"country\":\"_pirate\",\"bio\":\"https://upload.wikimedia.org/wikipedia/commons/1/11/A_boy_with_Down_syndrome_using_cordless_drill_to_assemble_a_book_case.jpg\\r\\nhttps://lichess.org/forum/team-bRKyB9Bk/LWs91K3k?page=7#78 https://www.youtube.com/channel/UC5ZQkrRUSdxFFiQJgIIp7EQ\\r\\nhttps://easypay.ua/moneytransfer/transfer2card?id=25407076\"},\"seenAt\":1629041027631,\"playTime\":{\"total\":315973,\"tv\":18815},\"language\":\"ru-RU\",\"url\":\"https://lichess.org/@/fish224\",\"nbFollowing\":29,\"nbFollowers\":74,\"completionRate\":100,\"count\":{\"all\":1531,\"rated\":996,\"ai\":59,\"draw\":92,\"drawH\":92,\"loss\":546,\"lossH\":517,\"win\":893,\"winH\":863,\"bookmark\":6,\"playing\":0,\"import\":3,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fish224\",\"username\":\"fish224\",\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1625,\"rd\":223,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":89,\"rating\":1670,\"rd\":69,\"prog\":-9},\"atomic\":{\"games\":204,\"rating\":1790,\"rd\":64,\"prog\":42},\"racingKings\":{\"games\":127,\"rating\":1849,\"rd\":79,\"prog\":-78},\"blitz\":{\"games\":534,\"rating\":1858,\"rd\":53,\"prog\":12},\"kingOfTheHill\":{\"games\":30,\"rating\":1627,\"rd\":102,\"prog\":-61},\"crazyhouse\":{\"games\":51,\"rating\":1532,\"rd\":86,\"prog\":110},\"threeCheck\":{\"games\":75,\"rating\":1928,\"rd\":90,\"prog\":65},\"bullet\":{\"games\":32,\"rating\":1791,\"rd\":138,\"prog\":39,\"prov\":true},\"correspondence\":{\"games\":14,\"rating\":1507,\"rd\":130,\"prog\":-53,\"prov\":true},\"horde\":{\"games\":10,\"rating\":1728,\"rd\":191,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1755,\"rating\":605,\"rd\":66,\"prog\":0},\"classical\":{\"games\":72,\"rating\":1794,\"rd\":88,\"prog\":46},\"rapid\":{\"games\":176,\"rating\":1924,\"rd\":63,\"prog\":22},\"storm\":{\"runs\":64,\"score\":42},\"racer\":{\"runs\":17,\"score\":55},\"streak\":{\"runs\":16,\"score\":24}},\"createdAt\":1590330380850,\"online\":true,\"profile\":{\"country\":\"UA\",\"bio\":\"!! 13 февраля у меня день рождения !!\\r\\nI am Ukrainian, but I travelled to Switzerland because of war..\\r\\nhttps://i.imgur.com/5iUrWGD.jpg\\r\\n\\r\\nhttps://playforukraine.live/\",\"firstName\":\"Борисюк\",\"lastName\":\"Иван, Х лет\",\"links\":\"https://root7000.neocities.org\"},\"seenAt\":1648409725103,\"playTime\":{\"total\":580172,\"tv\":21625},\"url\":\"https://lichess.org/@/fish224\",\"completionRate\":83,\"count\":{\"all\":2711,\"rated\":1486,\"ai\":73,\"draw\":206,\"drawH\":203,\"loss\":1026,\"lossH\":990,\"win\":1479,\"winH\":1445,\"bookmark\":13,\"playing\":0,\"import\":6,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fish224",
     "username": "fish224",
-    "online": true,
     "perfs": {
       "chess960": {
-        "games": 2,
-        "rating": 1550,
-        "rd": 237,
+        "games": 3,
+        "rating": 1625,
+        "rd": 223,
         "prog": 0,
         "prov": true
       },
       "antichess": {
-        "games": 31,
-        "rating": 1655,
-        "rd": 103,
-        "prog": 83
+        "games": 89,
+        "rating": 1670,
+        "rd": 69,
+        "prog": -9
       },
       "atomic": {
-        "games": 135,
-        "rating": 1816,
-        "rd": 79,
-        "prog": 9
+        "games": 204,
+        "rating": 1790,
+        "rd": 64,
+        "prog": 42
       },
       "racingKings": {
-        "games": 98,
-        "rating": 1913,
-        "rd": 75,
-        "prog": 70
+        "games": 127,
+        "rating": 1849,
+        "rd": 79,
+        "prog": -78
       },
       "blitz": {
-        "games": 385,
-        "rating": 1863,
-        "rd": 45,
-        "prog": -10
+        "games": 534,
+        "rating": 1858,
+        "rd": 53,
+        "prog": 12
       },
       "kingOfTheHill": {
-        "games": 18,
-        "rating": 1675,
-        "rd": 133,
-        "prog": -16,
-        "prov": true
+        "games": 30,
+        "rating": 1627,
+        "rd": 102,
+        "prog": -61
       },
       "crazyhouse": {
-        "games": 23,
-        "rating": 1537,
-        "rd": 172,
-        "prog": -244,
-        "prov": true
+        "games": 51,
+        "rating": 1532,
+        "rd": 86,
+        "prog": 110
       },
       "threeCheck": {
-        "games": 57,
-        "rating": 1893,
-        "rd": 95,
-        "prog": -37
+        "games": 75,
+        "rating": 1928,
+        "rd": 90,
+        "prog": 65
       },
       "bullet": {
-        "games": 28,
-        "rating": 1758,
-        "rd": 112,
-        "prog": -68,
+        "games": 32,
+        "rating": 1791,
+        "rd": 138,
+        "prog": 39,
         "prov": true
       },
       "correspondence": {
-        "games": 6,
-        "rating": 1738,
-        "rd": 174,
-        "prog": 0,
+        "games": 14,
+        "rating": 1507,
+        "rd": 130,
+        "prog": -53,
         "prov": true
       },
       "horde": {
         "games": 10,
         "rating": 1728,
-        "rd": 177,
+        "rd": 191,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
-        "games": 1365,
-        "rating": 2060,
-        "rd": 72,
+        "games": 1755,
+        "rating": 605,
+        "rd": 66,
         "prog": 0
       },
       "classical": {
-        "games": 45,
-        "rating": 1715,
-        "rd": 115,
-        "prog": -38,
-        "prov": true
+        "games": 72,
+        "rating": 1794,
+        "rd": 88,
+        "prog": 46
       },
       "rapid": {
-        "games": 115,
-        "rating": 1859,
-        "rd": 54,
-        "prog": 25
+        "games": 176,
+        "rating": 1924,
+        "rd": 63,
+        "prog": 22
       },
       "storm": {
-        "runs": 57,
+        "runs": 64,
         "score": 42
       },
       "racer": {
-        "runs": 7,
+        "runs": 17,
         "score": 55
       },
       "streak": {
-        "runs": 5,
-        "score": 16
+        "runs": 16,
+        "score": 24
       }
     },
     "createdAt": 1590330380850,
+    "online": true,
     "profile": {
-      "country": "_pirate",
-      "bio": "https://upload.wikimedia.org/wikipedia/commons/1/11/A_boy_with_Down_syndrome_using_cordless_drill_to_assemble_a_book_case.jpg\r\nhttps://lichess.org/forum/team-bRKyB9Bk/LWs91K3k?page=7#78 https://www.youtube.com/channel/UC5ZQkrRUSdxFFiQJgIIp7EQ\r\nhttps://easypay.ua/moneytransfer/transfer2card?id=25407076"
+      "country": "UA",
+      "bio": "!! 13 февраля у меня день рождения !!\r\nI am Ukrainian, but I travelled to Switzerland because of war..\r\nhttps://i.imgur.com/5iUrWGD.jpg\r\n\r\nhttps://playforukraine.live/",
+      "firstName": "Борисюк",
+      "lastName": "Иван, Х лет",
+      "links": "https://root7000.neocities.org"
     },
-    "seenAt": 1629041027631,
+    "seenAt": 1648409725103,
     "playTime": {
-      "total": 315973,
-      "tv": 18815
+      "total": 580172,
+      "tv": 21625
     },
-    "language": "ru-RU",
     "url": "https://lichess.org/@/fish224",
-    "nbFollowing": 29,
-    "nbFollowers": 74,
-    "completionRate": 100,
+    "completionRate": 83,
     "count": {
-      "all": 1531,
-      "rated": 996,
-      "ai": 59,
-      "draw": 92,
-      "drawH": 92,
-      "loss": 546,
-      "lossH": 517,
-      "win": 893,
-      "winH": 863,
-      "bookmark": 6,
+      "all": 2711,
+      "rated": 1486,
+      "ai": 73,
+      "draw": 206,
+      "drawH": 203,
+      "loss": 1026,
+      "lossH": 990,
+      "win": 1479,
+      "winH": 1445,
+      "bookmark": 13,
       "playing": 0,
-      "import": 3,
+      "import": 6,
       "me": 0
     },
     "followable": true,
