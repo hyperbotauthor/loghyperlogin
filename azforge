@@ -1,0 +1,83 @@
+{
+  "id": "azforge",
+  "displayName": "Azforge",
+  "username": "Azforge",
+  "profileUrl": "https://lichess.org/@/Azforge",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"azforge\",\"username\":\"Azforge\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2037,\"rd\":445,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2177,\"rd\":219,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648541217643,\"online\":true,\"profile\":{\"bio\":\"created by @Asforge\",\"firstName\":\"BOT\",\"lastName\":\"Azforge v1.1\"},\"seenAt\":1648716835080,\"playTime\":{\"total\":691,\"tv\":0},\"url\":\"https://lichess.org/@/Azforge\",\"count\":{\"all\":11,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":10,\"winH\":10,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "azforge",
+    "username": "Azforge",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2037,
+        "rd": 445,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 2177,
+        "rd": 219,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1648541217643,
+    "online": true,
+    "profile": {
+      "bio": "created by @Asforge",
+      "firstName": "BOT",
+      "lastName": "Azforge v1.1"
+    },
+    "seenAt": 1648716835080,
+    "playTime": {
+      "total": 691,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Azforge",
+    "count": {
+      "all": 11,
+      "rated": 10,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 10,
+      "winH": 10,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
