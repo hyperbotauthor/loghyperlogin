@@ -1,0 +1,83 @@
+{
+  "id": "manoli201",
+  "displayName": "Manoli201",
+  "username": "Manoli201",
+  "profileUrl": "https://lichess.org/@/Manoli201",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"manoli201\",\"username\":\"Manoli201\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":912,\"rating\":1102,\"rd\":74,\"prog\":0},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1647410785420,\"online\":true,\"seenAt\":1648702463277,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Manoli201\",\"count\":{\"all\":6,\"rated\":0,\"ai\":5,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":5,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "manoli201",
+    "username": "Manoli201",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 912,
+        "rating": 1102,
+        "rd": 74,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1647410785420,
+    "online": true,
+    "seenAt": 1648702463277,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Manoli201",
+    "count": {
+      "all": 6,
+      "rated": 0,
+      "ai": 5,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 5,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
