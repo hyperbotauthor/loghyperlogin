@@ -1,0 +1,77 @@
+{
+  "id": "dinoswarr",
+  "displayName": "Dinoswarr",
+  "username": "Dinoswarr",
+  "profileUrl": "https://lichess.org/@/Dinoswarr",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dinoswarr\",\"username\":\"Dinoswarr\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":1540,\"rd\":226,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1420,\"rd\":384,\"prog\":0,\"prov\":true}},\"createdAt\":1648646600830,\"online\":true,\"seenAt\":1648733975760,\"playTime\":{\"total\":1005,\"tv\":0},\"url\":\"https://lichess.org/@/Dinoswarr\",\"count\":{\"all\":4,\"rated\":3,\"ai\":1,\"draw\":1,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dinoswarr",
+    "username": "Dinoswarr",
+    "perfs": {
+      "blitz": {
+        "games": 2,
+        "rating": 1540,
+        "rd": 226,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1420,
+        "rd": 384,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1648646600830,
+    "online": true,
+    "seenAt": 1648733975760,
+    "playTime": {
+      "total": 1005,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Dinoswarr",
+    "count": {
+      "all": 4,
+      "rated": 3,
+      "ai": 1,
+      "draw": 1,
+      "drawH": 0,
+      "loss": 2,
+      "lossH": 2,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
