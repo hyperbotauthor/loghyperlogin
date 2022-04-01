@@ -4,7 +4,7 @@
   "username": "HyperPhoenix87",
   "profileUrl": "https://lichess.org/@/HyperPhoenix87",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":78,\"rating\":1921,\"rd\":92,\"prog\":34},\"antichess\":{\"games\":2,\"rating\":1469,\"rd\":464,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":61,\"rating\":1987,\"rd\":95,\"prog\":-70},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":420,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2106,\"rd\":134,\"prog\":80,\"prov\":true}},\"title\":\"BOT\",\"patron\":true,\"createdAt\":1633271697454,\"online\":true,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Watford\",\"bio\":\"This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.\",\"firstName\":\"Hyper\",\"lastName\":\"SpeedX\"},\"seenAt\":1646400434980,\"playTime\":{\"total\":33972,\"tv\":1153},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":201,\"rated\":179,\"ai\":9,\"draw\":6,\"drawH\":6,\"loss\":58,\"lossH\":53,\"win\":137,\"winH\":133,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":78,\"rating\":1921,\"rd\":99,\"prog\":34},\"antichess\":{\"games\":2,\"rating\":1469,\"rd\":465,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":19,\"rating\":1250,\"rd\":107,\"prog\":0},\"bullet\":{\"games\":61,\"rating\":1987,\"rd\":103,\"prog\":-70},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":422,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2106,\"rd\":139,\"prog\":80,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Watford\",\"bio\":\"This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.\",\"firstName\":\"Hyper\",\"lastName\":\"SpeedX\"},\"seenAt\":1648804807723,\"playTime\":{\"total\":33972,\"tv\":1153},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":201,\"rated\":179,\"ai\":9,\"draw\":6,\"drawH\":6,\"loss\":58,\"lossH\":53,\"win\":137,\"winH\":133,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperphoenix87",
     "username": "HyperPhoenix87",
@@ -12,20 +12,26 @@
       "blitz": {
         "games": 78,
         "rating": 1921,
-        "rd": 92,
+        "rd": 99,
         "prog": 34
       },
       "antichess": {
         "games": 2,
         "rating": 1469,
-        "rd": 464,
+        "rd": 465,
         "prog": 0,
         "prov": true
+      },
+      "puzzle": {
+        "games": 19,
+        "rating": 1250,
+        "rd": 107,
+        "prog": 0
       },
       "bullet": {
         "games": 61,
         "rating": 1987,
-        "rd": 95,
+        "rd": 103,
         "prog": -70
       },
       "correspondence": {
@@ -38,20 +44,19 @@
       "classical": {
         "games": 1,
         "rating": 1300,
-        "rd": 420,
+        "rd": 422,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 23,
         "rating": 2106,
-        "rd": 134,
+        "rd": 139,
         "prog": 80,
         "prov": true
       }
     },
     "title": "BOT",
-    "patron": true,
     "createdAt": 1633271697454,
     "online": true,
     "profile": {
@@ -61,7 +66,7 @@
       "firstName": "Hyper",
       "lastName": "SpeedX"
     },
-    "seenAt": 1646400434980,
+    "seenAt": 1648804807723,
     "playTime": {
       "total": 33972,
       "tv": 1153
