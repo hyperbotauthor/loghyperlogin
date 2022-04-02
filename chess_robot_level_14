@@ -1,0 +1,82 @@
+{
+  "id": "chess_robot_level_14",
+  "displayName": "chess_robot_level_14",
+  "username": "chess_robot_level_14",
+  "profileUrl": "https://lichess.org/@/chess_robot_level_14",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_robot_level_14\",\"username\":\"chess_robot_level_14\",\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1643,\"rd\":146,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":65,\"rating\":1933,\"rd\":57,\"prog\":-3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2129,\"rd\":338,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648839832696,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000,\"uscfRating\":3000},\"seenAt\":1648892999256,\"playTime\":{\"total\":4528,\"tv\":0},\"url\":\"https://lichess.org/@/chess_robot_level_14\",\"count\":{\"all\":83,\"rated\":79,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":18,\"lossH\":18,\"win\":61,\"winH\":61,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_robot_level_14",
+    "username": "chess_robot_level_14",
+    "perfs": {
+      "blitz": {
+        "games": 9,
+        "rating": 1643,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 65,
+        "rating": 1933,
+        "rd": 57,
+        "prog": -3
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 4,
+        "rating": 2129,
+        "rd": 338,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1648839832696,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "fideRating": 3000,
+      "uscfRating": 3000
+    },
+    "seenAt": 1648892999256,
+    "playTime": {
+      "total": 4528,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/chess_robot_level_14",
+    "count": {
+      "all": 83,
+      "rated": 79,
+      "ai": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 18,
+      "lossH": 18,
+      "win": 61,
+      "winH": 61,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
