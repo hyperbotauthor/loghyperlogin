@@ -4,7 +4,7 @@
   "username": "FROG778",
   "profileUrl": "https://lichess.org/@/FROG778",
   "provider": "lichess",
-  "_raw": "{\"id\":\"frog778\",\"username\":\"FROG778\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":87,\"rating\":2398,\"rd\":109,\"prog\":20},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2607,\"rd\":344,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646549654956,\"online\":true,\"seenAt\":1648880911146,\"playTime\":{\"total\":11433,\"tv\":1388},\"url\":\"https://lichess.org/@/FROG778\",\"count\":{\"all\":125,\"rated\":90,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":86,\"lossH\":86,\"win\":29,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"frog778\",\"username\":\"FROG778\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":89,\"rating\":2397,\"rd\":110,\"prog\":19,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2607,\"rd\":345,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1646549654956,\"online\":true,\"seenAt\":1649004832287,\"playTime\":{\"total\":11501,\"tv\":1456},\"url\":\"https://lichess.org/@/FROG778\",\"count\":{\"all\":127,\"rated\":92,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":88,\"lossH\":88,\"win\":29,\"winH\":29,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "frog778",
     "username": "FROG778",
@@ -17,10 +17,11 @@
         "prov": true
       },
       "bullet": {
-        "games": 87,
-        "rating": 2398,
-        "rd": 109,
-        "prog": 20
+        "games": 89,
+        "rating": 2397,
+        "rd": 110,
+        "prog": 19,
+        "prov": true
       },
       "correspondence": {
         "games": 0,
@@ -39,7 +40,7 @@
       "rapid": {
         "games": 2,
         "rating": 2607,
-        "rd": 344,
+        "rd": 345,
         "prog": 0,
         "prov": true
       }
@@ -47,20 +48,20 @@
     "title": "BOT",
     "createdAt": 1646549654956,
     "online": true,
-    "seenAt": 1648880911146,
+    "seenAt": 1649004832287,
     "playTime": {
-      "total": 11433,
-      "tv": 1388
+      "total": 11501,
+      "tv": 1456
     },
     "url": "https://lichess.org/@/FROG778",
     "count": {
-      "all": 125,
-      "rated": 90,
+      "all": 127,
+      "rated": 92,
       "ai": 0,
       "draw": 10,
       "drawH": 10,
-      "loss": 86,
-      "lossH": 86,
+      "loss": 88,
+      "lossH": 88,
       "win": 29,
       "winH": 29,
       "bookmark": 0,
