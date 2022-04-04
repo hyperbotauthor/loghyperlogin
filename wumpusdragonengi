@@ -4,7 +4,7 @@
   "username": "WumpusDragonEngi",
   "profileUrl": "https://lichess.org/@/WumpusDragonEngi",
   "provider": "lichess",
-  "_raw": "{\"id\":\"wumpusdragonengi\",\"username\":\"WumpusDragonEngi\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2404,\"rd\":145,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":2273,\"rd\":92,\"prog\":-111},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2378,\"rd\":244,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2580,\"rd\":145,\"prog\":-47,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640018351487,\"online\":true,\"profile\":{\"location\":\"Intel i5 | Stockfish 14 with NNUE\",\"firstName\":\"STOCKFISH\",\"lastName\":\"NNUE\",\"links\":\"https://hyperwumpus.herokuapp.com/\"},\"seenAt\":1647679223181,\"playTime\":{\"total\":741050,\"tv\":13411},\"url\":\"https://lichess.org/@/WumpusDragonEngi\",\"count\":{\"all\":389,\"rated\":77,\"ai\":80,\"draw\":21,\"drawH\":15,\"loss\":269,\"lossH\":251,\"win\":99,\"winH\":43,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"wumpusdragonengi\",\"username\":\"WumpusDragonEngi\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2404,\"rd\":148,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":316,\"rating\":2427,\"rd\":48,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2378,\"rd\":245,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2580,\"rd\":148,\"prog\":-47,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640018351487,\"online\":true,\"profile\":{\"location\":\"Intel i5 | Stockfish 14 with NNUE\",\"firstName\":\"STOCKFISH\",\"lastName\":\"NNUE\",\"links\":\"https://hyperwumpus.herokuapp.com/\"},\"seenAt\":1649099985000,\"playTime\":{\"total\":809987,\"tv\":41257},\"url\":\"https://lichess.org/@/WumpusDragonEngi\",\"count\":{\"all\":675,\"rated\":352,\"ai\":80,\"draw\":136,\"drawH\":130,\"loss\":349,\"lossH\":331,\"win\":190,\"winH\":134,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "wumpusdragonengi",
     "username": "WumpusDragonEngi",
@@ -12,15 +12,15 @@
       "blitz": {
         "games": 8,
         "rating": 2404,
-        "rd": 145,
+        "rd": 148,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 53,
-        "rating": 2273,
-        "rd": 92,
-        "prog": -111
+        "games": 316,
+        "rating": 2427,
+        "rd": 48,
+        "prog": 15
       },
       "correspondence": {
         "games": 0,
@@ -32,14 +32,14 @@
       "classical": {
         "games": 2,
         "rating": 2378,
-        "rd": 244,
+        "rd": 245,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 12,
         "rating": 2580,
-        "rd": 145,
+        "rd": 148,
         "prog": -47,
         "prov": true
       }
@@ -53,22 +53,22 @@
       "lastName": "NNUE",
       "links": "https://hyperwumpus.herokuapp.com/"
     },
-    "seenAt": 1647679223181,
+    "seenAt": 1649099985000,
     "playTime": {
-      "total": 741050,
-      "tv": 13411
+      "total": 809987,
+      "tv": 41257
     },
     "url": "https://lichess.org/@/WumpusDragonEngi",
     "count": {
-      "all": 389,
-      "rated": 77,
+      "all": 675,
+      "rated": 352,
       "ai": 80,
-      "draw": 21,
-      "drawH": 15,
-      "loss": 269,
-      "lossH": 251,
-      "win": 99,
-      "winH": 43,
+      "draw": 136,
+      "drawH": 130,
+      "loss": 349,
+      "lossH": 331,
+      "win": 190,
+      "winH": 134,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
