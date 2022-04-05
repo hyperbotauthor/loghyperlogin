@@ -4,7 +4,7 @@
   "username": "chess_robot_level_14",
   "profileUrl": "https://lichess.org/@/chess_robot_level_14",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chess_robot_level_14\",\"username\":\"chess_robot_level_14\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1743,\"rd\":99,\"prog\":27},\"atomic\":{\"games\":2,\"rating\":1767,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":207,\"rating\":1971,\"rd\":45,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1898,\"rd\":355,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2278,\"rd\":188,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648839832696,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000,\"uscfRating\":3000},\"seenAt\":1649158421234,\"playTime\":{\"total\":30707,\"tv\":232},\"url\":\"https://lichess.org/@/chess_robot_level_14\",\"playing\":\"https://lichess.org/S9HFzOGg/white\",\"count\":{\"all\":296,\"rated\":238,\"ai\":0,\"draw\":19,\"drawH\":19,\"loss\":59,\"lossH\":59,\"win\":218,\"winH\":218,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chess_robot_level_14\",\"username\":\"chess_robot_level_14\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1743,\"rd\":99,\"prog\":27},\"atomic\":{\"games\":2,\"rating\":1767,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":221,\"rating\":1955,\"rd\":45,\"prog\":-11},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1898,\"rd\":355,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2278,\"rd\":188,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648839832696,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000,\"uscfRating\":3000},\"seenAt\":1649181206568,\"playTime\":{\"total\":31992,\"tv\":232},\"url\":\"https://lichess.org/@/chess_robot_level_14\",\"playing\":\"https://lichess.org/p3JYCFk3/white\",\"count\":{\"all\":310,\"rated\":252,\"ai\":0,\"draw\":22,\"drawH\":22,\"loss\":62,\"lossH\":62,\"win\":226,\"winH\":226,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chess_robot_level_14",
     "username": "chess_robot_level_14",
@@ -23,10 +23,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 207,
-        "rating": 1971,
+        "games": 221,
+        "rating": 1955,
         "rd": 45,
-        "prog": -2
+        "prog": -11
       },
       "correspondence": {
         "games": 0,
@@ -58,23 +58,23 @@
       "fideRating": 3000,
       "uscfRating": 3000
     },
-    "seenAt": 1649158421234,
+    "seenAt": 1649181206568,
     "playTime": {
-      "total": 30707,
+      "total": 31992,
       "tv": 232
     },
     "url": "https://lichess.org/@/chess_robot_level_14",
-    "playing": "https://lichess.org/S9HFzOGg/white",
+    "playing": "https://lichess.org/p3JYCFk3/white",
     "count": {
-      "all": 296,
-      "rated": 238,
+      "all": 310,
+      "rated": 252,
       "ai": 0,
-      "draw": 19,
-      "drawH": 19,
-      "loss": 59,
-      "lossH": 59,
-      "win": 218,
-      "winH": 218,
+      "draw": 22,
+      "drawH": 22,
+      "loss": 62,
+      "lossH": 62,
+      "win": 226,
+      "winH": 226,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
