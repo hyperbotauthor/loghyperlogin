@@ -1,0 +1,86 @@
+{
+  "id": "stock_the_fish",
+  "displayName": "Stock_The_Fish",
+  "username": "Stock_The_Fish",
+  "profileUrl": "https://lichess.org/@/Stock_The_Fish",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"stock_the_fish\",\"username\":\"Stock_The_Fish\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649128754023,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess\",\"bio\":\"Hello i am just a bot made by a 9 year old @NikaJurisNicolas she developed me but im still starting to develop to a higher rating!\",\"firstName\":\"Stock\",\"lastName\":\"The Fish\",\"links\":\"https://lichess.org/@/Stock_The_Fish\"},\"seenAt\":1649207170169,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Stock_The_Fish\",\"count\":{\"all\":5,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "stock_the_fish",
+    "username": "Stock_The_Fish",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1649128754023,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "location": "Lichess",
+      "bio": "Hello i am just a bot made by a 9 year old @NikaJurisNicolas she developed me but im still starting to develop to a higher rating!",
+      "firstName": "Stock",
+      "lastName": "The Fish",
+      "links": "https://lichess.org/@/Stock_The_Fish"
+    },
+    "seenAt": 1649207170169,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Stock_The_Fish",
+    "count": {
+      "all": 5,
+      "rated": 0,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 4,
+      "lossH": 4,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
