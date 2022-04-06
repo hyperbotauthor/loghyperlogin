@@ -4,7 +4,7 @@
   "username": "chesserbot123",
   "profileUrl": "https://lichess.org/@/chesserbot123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chesserbot123\",\"username\":\"chesserbot123\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2407,\"rd\":169,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":336,\"rating\":2277,\"rd\":45,\"prog\":9},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2272,\"rd\":221,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648639231061,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"i only play bullet\"},\"seenAt\":1649259437263,\"playTime\":{\"total\":25000,\"tv\":1226},\"url\":\"https://lichess.org/@/chesserbot123\",\"count\":{\"all\":362,\"rated\":360,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":20,\"lossH\":20,\"win\":337,\"winH\":337,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chesserbot123\",\"username\":\"chesserbot123\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2407,\"rd\":169,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":337,\"rating\":2267,\"rd\":45,\"prog\":-2},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2272,\"rd\":221,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648639231061,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"i only play bullet\"},\"seenAt\":1649259437263,\"playTime\":{\"total\":25089,\"tv\":1226},\"url\":\"https://lichess.org/@/chesserbot123\",\"count\":{\"all\":363,\"rated\":361,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":21,\"lossH\":21,\"win\":337,\"winH\":337,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chesserbot123",
     "username": "chesserbot123",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 336,
-        "rating": 2277,
+        "games": 337,
+        "rating": 2267,
         "rd": 45,
-        "prog": 9
+        "prog": -2
       },
       "correspondence": {
         "games": 0,
@@ -53,18 +53,18 @@
     },
     "seenAt": 1649259437263,
     "playTime": {
-      "total": 25000,
+      "total": 25089,
       "tv": 1226
     },
     "url": "https://lichess.org/@/chesserbot123",
     "count": {
-      "all": 362,
-      "rated": 360,
+      "all": 363,
+      "rated": 361,
       "ai": 0,
       "draw": 5,
       "drawH": 5,
-      "loss": 20,
-      "lossH": 20,
+      "loss": 21,
+      "lossH": 21,
       "win": 337,
       "winH": 337,
       "bookmark": 0,
