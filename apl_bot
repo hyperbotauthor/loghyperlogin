@@ -4,7 +4,7 @@
   "username": "APL_Bot",
   "profileUrl": "https://lichess.org/@/APL_Bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"apl_bot\",\"username\":\"APL_Bot\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1700,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2053,\"rd\":156,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1370,\"rd\":365,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1620766994366,\"online\":true,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1649079325959,\"playTime\":{\"total\":1334,\"tv\":0},\"url\":\"https://lichess.org/@/APL_Bot\",\"count\":{\"all\":18,\"rated\":16,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":13,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"apl_bot\",\"username\":\"APL_Bot\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1700,\"rd\":290,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1955,\"rd\":145,\"prog\":-104,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":1370,\"rd\":365,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1620766994366,\"online\":true,\"profile\":{\"country\":\"_earth\"},\"seenAt\":1649337362669,\"playTime\":{\"total\":1798,\"tv\":0},\"url\":\"https://lichess.org/@/APL_Bot\",\"count\":{\"all\":23,\"rated\":20,\"ai\":2,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":16,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "apl_bot",
     "username": "APL_Bot",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 10,
-        "rating": 2053,
-        "rd": 156,
-        "prog": 0,
+        "games": 14,
+        "rating": 1955,
+        "rd": 145,
+        "prog": -104,
         "prov": true
       },
       "correspondence": {
@@ -51,22 +51,22 @@
     "profile": {
       "country": "_earth"
     },
-    "seenAt": 1649079325959,
+    "seenAt": 1649337362669,
     "playTime": {
-      "total": 1334,
+      "total": 1798,
       "tv": 0
     },
     "url": "https://lichess.org/@/APL_Bot",
     "count": {
-      "all": 18,
-      "rated": 16,
+      "all": 23,
+      "rated": 20,
       "ai": 2,
       "draw": 0,
       "drawH": 0,
-      "loss": 5,
-      "lossH": 5,
-      "win": 13,
-      "winH": 11,
+      "loss": 7,
+      "lossH": 7,
+      "win": 16,
+      "winH": 14,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
