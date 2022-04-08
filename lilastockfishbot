@@ -1,0 +1,78 @@
+{
+  "id": "lilastockfishbot",
+  "displayName": "lilastockfishbot",
+  "username": "lilastockfishbot",
+  "profileUrl": "https://lichess.org/@/lilastockfishbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"lilastockfishbot\",\"username\":\"lilastockfishbot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2274,\"rd\":216,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649418177573,\"online\":true,\"seenAt\":1649427862495,\"playTime\":{\"total\":643,\"tv\":0},\"url\":\"https://lichess.org/@/lilastockfishbot\",\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "lilastockfishbot",
+    "username": "lilastockfishbot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 2274,
+        "rd": 216,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1649418177573,
+    "online": true,
+    "seenAt": 1649427862495,
+    "playTime": {
+      "total": 643,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/lilastockfishbot",
+    "count": {
+      "all": 9,
+      "rated": 9,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 9,
+      "winH": 9,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
