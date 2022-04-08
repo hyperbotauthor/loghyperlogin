@@ -4,7 +4,7 @@
   "username": "lilastockfishbot",
   "profileUrl": "https://lichess.org/@/lilastockfishbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lilastockfishbot\",\"username\":\"lilastockfishbot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2274,\"rd\":216,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649418177573,\"online\":true,\"seenAt\":1649427862495,\"playTime\":{\"total\":643,\"tv\":0},\"url\":\"https://lichess.org/@/lilastockfishbot\",\"count\":{\"all\":9,\"rated\":9,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lilastockfishbot\",\"username\":\"lilastockfishbot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":2255,\"rd\":131,\"prog\":-38,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1826,\"rd\":296,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2500,\"rd\":320,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649418177573,\"online\":true,\"seenAt\":1649433531146,\"playTime\":{\"total\":2604,\"tv\":0},\"url\":\"https://lichess.org/@/lilastockfishbot\",\"count\":{\"all\":21,\"rated\":21,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lilastockfishbot",
     "username": "lilastockfishbot",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 2274,
-        "rd": 216,
-        "prog": 0,
+        "games": 18,
+        "rating": 2255,
+        "rd": 131,
+        "prog": -38,
         "prov": true
       },
       "correspondence": {
@@ -31,16 +31,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1826,
+        "rd": 296,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2500,
+        "rd": 320,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1649418177573,
     "online": true,
-    "seenAt": 1649427862495,
+    "seenAt": 1649433531146,
     "playTime": {
-      "total": 643,
+      "total": 2604,
       "tv": 0
     },
     "url": "https://lichess.org/@/lilastockfishbot",
     "count": {
-      "all": 9,
-      "rated": 9,
+      "all": 21,
+      "rated": 21,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 9,
-      "winH": 9,
+      "loss": 2,
+      "lossH": 2,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
