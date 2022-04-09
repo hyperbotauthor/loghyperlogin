@@ -1,0 +1,83 @@
+{
+  "id": "scottwozniak",
+  "displayName": "ScottWozniak",
+  "username": "ScottWozniak",
+  "profileUrl": "https://lichess.org/@/ScottWozniak",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"scottwozniak\",\"username\":\"ScottWozniak\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":17,\"rating\":1003,\"rd\":108,\"prog\":0},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1184,\"rd\":208,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1563,\"rd\":407,\"prog\":0,\"prov\":true}},\"createdAt\":1649453778775,\"online\":true,\"seenAt\":1649528263322,\"playTime\":{\"total\":2273,\"tv\":0},\"url\":\"https://lichess.org/@/ScottWozniak\",\"count\":{\"all\":5,\"rated\":4,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "scottwozniak",
+    "username": "ScottWozniak",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 17,
+        "rating": 1003,
+        "rd": 108,
+        "prog": 0
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1184,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1563,
+        "rd": 407,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1649453778775,
+    "online": true,
+    "seenAt": 1649528263322,
+    "playTime": {
+      "total": 2273,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/ScottWozniak",
+    "count": {
+      "all": 5,
+      "rated": 4,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
