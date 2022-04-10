@@ -4,22 +4,22 @@
   "username": "ILikePuzzles790890",
   "profileUrl": "https://lichess.org/@/ILikePuzzles790890",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ilikepuzzles790890\",\"username\":\"ILikePuzzles790890\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2343,\"rd\":198,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":474,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649452648968,\"online\":true,\"profile\":{\"bio\":\"just a lil bot. feel free to challenge me. run by @Maizyiscrazy\"},\"seenAt\":1649550110278,\"playTime\":{\"total\":5632,\"tv\":0},\"url\":\"https://lichess.org/@/ILikePuzzles790890\",\"count\":{\"all\":19,\"rated\":8,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ilikepuzzles790890\",\"username\":\"ILikePuzzles790890\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2378,\"rd\":119,\"prog\":6,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1338,\"rd\":364,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":475,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649452648968,\"online\":true,\"profile\":{\"bio\":\"just a lil bot. feel free to challenge me. run by @Maizyiscrazy\"},\"seenAt\":1649593951355,\"playTime\":{\"total\":13612,\"tv\":379},\"url\":\"https://lichess.org/@/ILikePuzzles790890\",\"playing\":\"https://lichess.org/IHw4iEry/black\",\"count\":{\"all\":39,\"rated\":17,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":14,\"lossH\":14,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ilikepuzzles790890",
     "username": "ILikePuzzles790890",
     "perfs": {
       "blitz": {
-        "games": 7,
-        "rating": 2343,
-        "rd": 198,
-        "prog": 0,
+        "games": 15,
+        "rating": 2378,
+        "rd": 119,
+        "prog": 6,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1338,
+        "rd": 364,
         "prog": 0,
         "prov": true
       },
@@ -33,7 +33,7 @@
       "classical": {
         "games": 1,
         "rating": 1300,
-        "rd": 474,
+        "rd": 475,
         "prog": 0,
         "prov": true
       },
@@ -51,24 +51,25 @@
     "profile": {
       "bio": "just a lil bot. feel free to challenge me. run by @Maizyiscrazy"
     },
-    "seenAt": 1649550110278,
+    "seenAt": 1649593951355,
     "playTime": {
-      "total": 5632,
-      "tv": 0
+      "total": 13612,
+      "tv": 379
     },
     "url": "https://lichess.org/@/ILikePuzzles790890",
+    "playing": "https://lichess.org/IHw4iEry/black",
     "count": {
-      "all": 19,
-      "rated": 8,
+      "all": 39,
+      "rated": 17,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 6,
-      "lossH": 6,
-      "win": 13,
-      "winH": 13,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 14,
+      "lossH": 14,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
