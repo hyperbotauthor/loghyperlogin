@@ -4,7 +4,7 @@
   "username": "KomodoFish12",
   "profileUrl": "https://lichess.org/@/KomodoFish12",
   "provider": "lichess",
-  "_raw": "{\"id\":\"komodofish12\",\"username\":\"KomodoFish12\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2440,\"rd\":118,\"prog\":37,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649207485426,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess made by @NikaJurisNicolas\",\"firstName\":\"Komodo\",\"lastName\":\"Fish\"},\"seenAt\":1649469832833,\"playTime\":{\"total\":12212,\"tv\":4569},\"url\":\"https://lichess.org/@/KomodoFish12\",\"playing\":\"https://lichess.org/DYUtnsSr/white\",\"count\":{\"all\":18,\"rated\":12,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"komodofish12\",\"username\":\"KomodoFish12\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":2440,\"rd\":118,\"prog\":37,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649207485426,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess made by @NikaJurisNicolas\",\"firstName\":\"Komodo\",\"lastName\":\"Fish\"},\"seenAt\":1649635081493,\"playTime\":{\"total\":12554,\"tv\":4569},\"url\":\"https://lichess.org/@/KomodoFish12\",\"count\":{\"all\":19,\"rated\":12,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":3,\"lossH\":3,\"win\":14,\"winH\":14,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "komodofish12",
     "username": "KomodoFish12",
@@ -55,25 +55,24 @@
       "firstName": "Komodo",
       "lastName": "Fish"
     },
-    "seenAt": 1649469832833,
+    "seenAt": 1649635081493,
     "playTime": {
-      "total": 12212,
+      "total": 12554,
       "tv": 4569
     },
     "url": "https://lichess.org/@/KomodoFish12",
-    "playing": "https://lichess.org/DYUtnsSr/white",
     "count": {
-      "all": 18,
+      "all": 19,
       "rated": 12,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
+      "draw": 2,
+      "drawH": 2,
       "loss": 3,
       "lossH": 3,
       "win": 14,
       "winH": 14,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
