@@ -1,0 +1,84 @@
+{
+  "id": "bulletgod2",
+  "displayName": "bulletgod2",
+  "username": "bulletgod2",
+  "profileUrl": "https://lichess.org/@/bulletgod2",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bulletgod2\",\"username\":\"bulletgod2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":17,\"rating\":1617,\"rd\":106,\"prog\":65},\"bullet\":{\"games\":2,\"rating\":1587,\"rd\":245,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"tosViolation\":true,\"createdAt\":1649609557943,\"online\":true,\"seenAt\":1649611300960,\"playTime\":{\"total\":681,\"tv\":0},\"url\":\"https://lichess.org/@/bulletgod2\",\"count\":{\"all\":21,\"rated\":20,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":5,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bulletgod2",
+    "username": "bulletgod2",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 17,
+        "rating": 1617,
+        "rd": 106,
+        "prog": 65
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1587,
+        "rd": 245,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "tosViolation": true,
+    "createdAt": 1649609557943,
+    "online": true,
+    "seenAt": 1649611300960,
+    "playTime": {
+      "total": 681,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/bulletgod2",
+    "count": {
+      "all": 21,
+      "rated": 20,
+      "ai": 1,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 6,
+      "lossH": 5,
+      "win": 15,
+      "winH": 15,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
