@@ -1,0 +1,77 @@
+{
+  "id": "bulletgoat22",
+  "displayName": "BulletGoat22",
+  "username": "BulletGoat22",
+  "profileUrl": "https://lichess.org/@/BulletGoat22",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bulletgoat22\",\"username\":\"BulletGoat22\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1625,\"rd\":171,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1981,\"rd\":140,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1649665792974,\"online\":true,\"seenAt\":1649666448127,\"playTime\":{\"total\":552,\"tv\":0},\"url\":\"https://lichess.org/@/BulletGoat22\",\"count\":{\"all\":10,\"rated\":10,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bulletgoat22",
+    "username": "BulletGoat22",
+    "perfs": {
+      "blitz": {
+        "games": 4,
+        "rating": 1625,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 6,
+        "rating": 1981,
+        "rd": 140,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1649665792974,
+    "online": true,
+    "seenAt": 1649666448127,
+    "playTime": {
+      "total": 552,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/BulletGoat22",
+    "count": {
+      "all": 10,
+      "rated": 10,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 3,
+      "lossH": 3,
+      "win": 7,
+      "winH": 7,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
