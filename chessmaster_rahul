@@ -1,0 +1,91 @@
+{
+  "id": "chessmaster_rahul",
+  "displayName": "chessmaster_rahul",
+  "username": "chessmaster_rahul",
+  "profileUrl": "https://lichess.org/@/chessmaster_rahul",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessmaster_rahul\",\"username\":\"chessmaster_rahul\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":16,\"rating\":1194,\"rd\":226,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1205,\"rd\":248,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1241,\"rd\":225,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1116,\"rd\":168,\"prog\":0,\"prov\":true}},\"createdAt\":1643326385842,\"online\":true,\"seenAt\":1649720613840,\"playTime\":{\"total\":2236,\"tv\":0},\"url\":\"https://lichess.org/@/chessmaster_rahul\",\"count\":{\"all\":18,\"rated\":13,\"ai\":3,\"draw\":0,\"drawH\":0,\"loss\":10,\"lossH\":9,\"win\":8,\"winH\":6,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessmaster_rahul",
+    "username": "chessmaster_rahul",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 16,
+        "rating": 1194,
+        "rd": 226,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1205,
+        "rd": 248,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 5,
+        "rating": 1241,
+        "rd": 225,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 6,
+        "rating": 1116,
+        "rd": 168,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1643326385842,
+    "online": true,
+    "seenAt": 1649720613840,
+    "playTime": {
+      "total": 2236,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/chessmaster_rahul",
+    "count": {
+      "all": 18,
+      "rated": 13,
+      "ai": 3,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 10,
+      "lossH": 9,
+      "win": 8,
+      "winH": 6,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
