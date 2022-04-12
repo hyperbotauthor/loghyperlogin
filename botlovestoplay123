@@ -4,7 +4,7 @@
   "username": "BotLovesToPlay123",
   "profileUrl": "https://lichess.org/@/BotLovesToPlay123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1300,\"rd\":498,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":486,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":748,\"rd\":265,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649736942427,\"playTime\":{\"total\":446,\"tv\":0},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1300,\"rd\":498,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":486,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":748,\"rd\":266,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649775843855,\"playTime\":{\"total\":446,\"tv\":0},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"count\":{\"all\":5,\"rated\":5,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botlovestoplay123",
     "username": "BotLovesToPlay123",
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 3,
         "rating": 748,
-        "rd": 265,
+        "rd": 266,
         "prog": 0,
         "prov": true
       }
@@ -48,7 +48,7 @@
     "title": "BOT",
     "createdAt": 1649720929012,
     "online": true,
-    "seenAt": 1649736942427,
+    "seenAt": 1649775843855,
     "playTime": {
       "total": 446,
       "tv": 0
