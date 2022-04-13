@@ -4,15 +4,15 @@
   "username": "BotLovesToPlay123",
   "profileUrl": "https://lichess.org/@/BotLovesToPlay123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":9,\"rating\":1615,\"rd\":140,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1716,\"rd\":68,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1172,\"rd\":213,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":748,\"rd\":266,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649876539805,\"playTime\":{\"total\":8321,\"tv\":0},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"playing\":\"https://lichess.org/RzoZXgoM/white\",\"count\":{\"all\":84,\"rated\":50,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":47,\"lossH\":47,\"win\":33,\"winH\":33,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":1583,\"rd\":131,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1716,\"rd\":68,\"prog\":24},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1172,\"rd\":213,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":748,\"rd\":266,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649877884195,\"playTime\":{\"total\":8503,\"tv\":0},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"count\":{\"all\":85,\"rated\":51,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":48,\"lossH\":48,\"win\":33,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botlovestoplay123",
     "username": "BotLovesToPlay123",
     "perfs": {
       "blitz": {
-        "games": 9,
-        "rating": 1615,
-        "rd": 140,
+        "games": 10,
+        "rating": 1583,
+        "rd": 131,
         "prog": 0,
         "prov": true
       },
@@ -47,25 +47,24 @@
     "title": "BOT",
     "createdAt": 1649720929012,
     "online": true,
-    "seenAt": 1649876539805,
+    "seenAt": 1649877884195,
     "playTime": {
-      "total": 8321,
+      "total": 8503,
       "tv": 0
     },
     "url": "https://lichess.org/@/BotLovesToPlay123",
-    "playing": "https://lichess.org/RzoZXgoM/white",
     "count": {
-      "all": 84,
-      "rated": 50,
+      "all": 85,
+      "rated": 51,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 47,
-      "lossH": 47,
+      "loss": 48,
+      "lossH": 48,
       "win": 33,
       "winH": 33,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
