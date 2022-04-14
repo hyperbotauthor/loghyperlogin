@@ -4,7 +4,7 @@
   "username": "BotLovesToPlay123",
   "profileUrl": "https://lichess.org/@/BotLovesToPlay123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1650,\"rd\":102,\"prog\":41},\"bullet\":{\"games\":55,\"rating\":1752,\"rd\":55,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1172,\"rd\":213,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":1554,\"rd\":157,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649965964629,\"playTime\":{\"total\":14041,\"tv\":104},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"playing\":\"https://lichess.org/PunIRAsj/white\",\"count\":{\"all\":121,\"rated\":87,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":61,\"lossH\":61,\"win\":56,\"winH\":56,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BotLovesToPlay123\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":1650,\"rd\":102,\"prog\":41},\"bullet\":{\"games\":56,\"rating\":1738,\"rd\":55,\"prog\":-5},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1172,\"rd\":213,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1532,\"rd\":134,\"prog\":-69,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1649967183909,\"playTime\":{\"total\":14762,\"tv\":104},\"url\":\"https://lichess.org/@/BotLovesToPlay123\",\"count\":{\"all\":125,\"rated\":90,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":64,\"lossH\":64,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botlovestoplay123",
     "username": "BotLovesToPlay123",
@@ -16,10 +16,10 @@
         "prog": 41
       },
       "bullet": {
-        "games": 55,
-        "rating": 1752,
+        "games": 56,
+        "rating": 1738,
         "rd": 55,
-        "prog": 15
+        "prog": -5
       },
       "correspondence": {
         "games": 0,
@@ -36,35 +36,34 @@
         "prov": true
       },
       "rapid": {
-        "games": 10,
-        "rating": 1554,
-        "rd": 157,
-        "prog": 0,
+        "games": 12,
+        "rating": 1532,
+        "rd": 134,
+        "prog": -69,
         "prov": true
       }
     },
     "title": "BOT",
     "createdAt": 1649720929012,
     "online": true,
-    "seenAt": 1649965964629,
+    "seenAt": 1649967183909,
     "playTime": {
-      "total": 14041,
+      "total": 14762,
       "tv": 104
     },
     "url": "https://lichess.org/@/BotLovesToPlay123",
-    "playing": "https://lichess.org/PunIRAsj/white",
     "count": {
-      "all": 121,
-      "rated": 87,
+      "all": 125,
+      "rated": 90,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 61,
-      "lossH": 61,
-      "win": 56,
-      "winH": 56,
+      "loss": 64,
+      "lossH": 64,
+      "win": 57,
+      "winH": 57,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
