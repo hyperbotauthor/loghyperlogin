@@ -1,0 +1,86 @@
+{
+  "id": "polinabotyay",
+  "displayName": "polinabotyay",
+  "username": "polinabotyay",
+  "profileUrl": "https://lichess.org/@/polinabotyay",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"polinabotyay\",\"username\":\"polinabotyay\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2241,\"rd\":397,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1258,\"rd\":397,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":2,\"rating\":1932,\"rd\":314,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1648496997685,\"online\":true,\"seenAt\":1649965791814,\"playTime\":{\"total\":779,\"tv\":0},\"url\":\"https://lichess.org/@/polinabotyay\",\"playing\":\"https://lichess.org/qchvfdnq/white\",\"count\":{\"all\":7,\"rated\":5,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "polinabotyay",
+    "username": "polinabotyay",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2241,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1932,
+        "rd": 314,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1648496997685,
+    "online": true,
+    "seenAt": 1649965791814,
+    "playTime": {
+      "total": 779,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/polinabotyay",
+    "playing": "https://lichess.org/qchvfdnq/white",
+    "count": {
+      "all": 7,
+      "rated": 5,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
