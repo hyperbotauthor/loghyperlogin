@@ -4,7 +4,7 @@
   "username": "robotchessmaster",
   "profileUrl": "https://lichess.org/@/robotchessmaster",
   "provider": "lichess",
-  "_raw": "{\"id\":\"robotchessmaster\",\"username\":\"robotchessmaster\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2391,\"rd\":110,\"prog\":10,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":2434,\"rd\":191,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":124,\"rating\":2163,\"rd\":53,\"prog\":20},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2354,\"rd\":300,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2299,\"rd\":207,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649262321948,\"online\":true,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1649968662445,\"playTime\":{\"total\":43585,\"tv\":349},\"url\":\"https://lichess.org/@/robotchessmaster\",\"count\":{\"all\":236,\"rated\":154,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":47,\"lossH\":47,\"win\":180,\"winH\":180,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"robotchessmaster\",\"username\":\"robotchessmaster\",\"perfs\":{\"blitz\":{\"games\":16,\"rating\":2391,\"rd\":110,\"prog\":10,\"prov\":true},\"antichess\":{\"games\":6,\"rating\":2434,\"rd\":191,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":126,\"rating\":2153,\"rd\":52,\"prog\":3},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2354,\"rd\":300,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2299,\"rd\":207,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649262321948,\"online\":true,\"profile\":{\"country\":\"_lichess\"},\"seenAt\":1649970606778,\"playTime\":{\"total\":44890,\"tv\":349},\"url\":\"https://lichess.org/@/robotchessmaster\",\"playing\":\"https://lichess.org/lZp3ThTo/white\",\"count\":{\"all\":242,\"rated\":156,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":51,\"lossH\":51,\"win\":182,\"winH\":182,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "robotchessmaster",
     "username": "robotchessmaster",
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 124,
-        "rating": 2163,
-        "rd": 53,
-        "prog": 20
+        "games": 126,
+        "rating": 2153,
+        "rd": 52,
+        "prog": 3
       },
       "correspondence": {
         "games": 0,
@@ -57,24 +57,25 @@
     "profile": {
       "country": "_lichess"
     },
-    "seenAt": 1649968662445,
+    "seenAt": 1649970606778,
     "playTime": {
-      "total": 43585,
+      "total": 44890,
       "tv": 349
     },
     "url": "https://lichess.org/@/robotchessmaster",
+    "playing": "https://lichess.org/lZp3ThTo/white",
     "count": {
-      "all": 236,
-      "rated": 154,
+      "all": 242,
+      "rated": 156,
       "ai": 0,
       "draw": 9,
       "drawH": 9,
-      "loss": 47,
-      "lossH": 47,
-      "win": 180,
-      "winH": 180,
+      "loss": 51,
+      "lossH": 51,
+      "win": 182,
+      "winH": 182,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
