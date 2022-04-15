@@ -4,28 +4,28 @@
   "username": "BoTLoveSTOPlaY123",
   "profileUrl": "https://lichess.org/@/BoTLoveSTOPlaY123",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BoTLoveSTOPlaY123\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1420,\"rd\":427,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":33,\"rating\":1817,\"rd\":70,\"prog\":100},\"bullet\":{\"games\":68,\"rating\":1751,\"rd\":51,\"prog\":10},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1156,\"rd\":205,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":1694,\"rd\":101,\"prog\":92}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1650036992561,\"playTime\":{\"total\":18571,\"tv\":104},\"url\":\"https://lichess.org/@/BoTLoveSTOPlaY123\",\"count\":{\"all\":163,\"rated\":127,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":70,\"lossH\":70,\"win\":86,\"winH\":86,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botlovestoplay123\",\"username\":\"BoTLoveSTOPlaY123\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1383,\"rd\":395,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":34,\"rating\":1823,\"rd\":69,\"prog\":90},\"bullet\":{\"games\":69,\"rating\":1755,\"rd\":50,\"prog\":10},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1156,\"rd\":205,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":1694,\"rd\":101,\"prog\":92}},\"title\":\"BOT\",\"createdAt\":1649720929012,\"online\":true,\"seenAt\":1650037599786,\"playTime\":{\"total\":18836,\"tv\":104},\"url\":\"https://lichess.org/@/BoTLoveSTOPlaY123\",\"playing\":\"https://lichess.org/a72yJIOf/white\",\"count\":{\"all\":167,\"rated\":130,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":71,\"lossH\":71,\"win\":89,\"winH\":89,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botlovestoplay123",
     "username": "BoTLoveSTOPlaY123",
     "perfs": {
       "chess960": {
-        "games": 1,
-        "rating": 1420,
-        "rd": 427,
+        "games": 2,
+        "rating": 1383,
+        "rd": 395,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 33,
-        "rating": 1817,
-        "rd": 70,
-        "prog": 100
+        "games": 34,
+        "rating": 1823,
+        "rd": 69,
+        "prog": 90
       },
       "bullet": {
-        "games": 68,
-        "rating": 1751,
-        "rd": 51,
+        "games": 69,
+        "rating": 1755,
+        "rd": 50,
         "prog": 10
       },
       "correspondence": {
@@ -52,24 +52,25 @@
     "title": "BOT",
     "createdAt": 1649720929012,
     "online": true,
-    "seenAt": 1650036992561,
+    "seenAt": 1650037599786,
     "playTime": {
-      "total": 18571,
+      "total": 18836,
       "tv": 104
     },
     "url": "https://lichess.org/@/BoTLoveSTOPlaY123",
+    "playing": "https://lichess.org/a72yJIOf/white",
     "count": {
-      "all": 163,
-      "rated": 127,
+      "all": 167,
+      "rated": 130,
       "ai": 0,
       "draw": 7,
       "drawH": 7,
-      "loss": 70,
-      "lossH": 70,
-      "win": 86,
-      "winH": 86,
+      "loss": 71,
+      "lossH": 71,
+      "win": 89,
+      "winH": 89,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
