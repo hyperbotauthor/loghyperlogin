@@ -4,63 +4,64 @@
   "username": "Bot_NguyenHAnhQuoc",
   "profileUrl": "https://lichess.org/@/Bot_NguyenHAnhQuoc",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_nguyenhanhquoc\",\"username\":\"Bot_NguyenHAnhQuoc\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1643546483391,\"online\":true,\"seenAt\":1643546481766,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_NguyenHAnhQuoc\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_nguyenhanhquoc\",\"username\":\"Bot_NguyenHAnhQuoc\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":449,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643546483391,\"online\":true,\"seenAt\":1650027705976,\"playTime\":{\"total\":77,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_NguyenHAnhQuoc\",\"count\":{\"all\":2,\"rated\":1,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_nguyenhanhquoc",
     "username": "Bot_NguyenHAnhQuoc",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1962,
+        "rd": 449,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1643546483391,
     "online": true,
-    "seenAt": 1643546481766,
+    "seenAt": 1650027705976,
     "playTime": {
-      "total": 0,
+      "total": 77,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_NguyenHAnhQuoc",
     "count": {
-      "all": 0,
-      "rated": 0,
-      "ai": 0,
+      "all": 2,
+      "rated": 1,
+      "ai": 1,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 2,
+      "lossH": 1,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
