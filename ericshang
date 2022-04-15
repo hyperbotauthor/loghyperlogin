@@ -1,0 +1,147 @@
+{
+  "id": "ericshang",
+  "displayName": "ericshang",
+  "username": "ericshang",
+  "profileUrl": "https://lichess.org/@/ericshang",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ericshang\",\"username\":\"ericshang\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1266,\"rd\":268,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":63,\"rating\":1586,\"rd\":121,\"prog\":-9,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1365,\"rd\":207,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1206,\"rd\":299,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":453,\"rating\":1521,\"rd\":47,\"prog\":-1},\"kingOfTheHill\":{\"games\":2,\"rating\":1545,\"rd\":244,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":60,\"rating\":1618,\"rd\":81,\"prog\":-32},\"threeCheck\":{\"games\":55,\"rating\":1722,\"rd\":111,\"prog\":-94,\"prov\":true},\"bullet\":{\"games\":138,\"rating\":1473,\"rd\":49,\"prog\":-30},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":8,\"rating\":1648,\"rd\":210,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":130,\"rating\":1843,\"rd\":83,\"prog\":0},\"classical\":{\"games\":3,\"rating\":1618,\"rd\":258,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":192,\"rating\":1586,\"rd\":63,\"prog\":50},\"storm\":{\"runs\":12,\"score\":26},\"racer\":{\"runs\":3,\"score\":27},\"streak\":{\"runs\":8,\"score\":10}},\"createdAt\":1585342243227,\"online\":true,\"seenAt\":1650039713716,\"playTime\":{\"total\":334289,\"tv\":581},\"url\":\"https://lichess.org/@/ericshang\",\"count\":{\"all\":1272,\"rated\":983,\"ai\":9,\"draw\":76,\"drawH\":76,\"loss\":470,\"lossH\":463,\"win\":726,\"winH\":724,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ericshang",
+    "username": "ericshang",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1266,
+        "rd": 268,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 63,
+        "rating": 1586,
+        "rd": 121,
+        "prog": -9,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1365,
+        "rd": 207,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1206,
+        "rd": 299,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 453,
+        "rating": 1521,
+        "rd": 47,
+        "prog": -1
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1545,
+        "rd": 244,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 60,
+        "rating": 1618,
+        "rd": 81,
+        "prog": -32
+      },
+      "threeCheck": {
+        "games": 55,
+        "rating": 1722,
+        "rd": 111,
+        "prog": -94,
+        "prov": true
+      },
+      "bullet": {
+        "games": 138,
+        "rating": 1473,
+        "rd": 49,
+        "prog": -30
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 8,
+        "rating": 1648,
+        "rd": 210,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 130,
+        "rating": 1843,
+        "rd": 83,
+        "prog": 0
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1618,
+        "rd": 258,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 192,
+        "rating": 1586,
+        "rd": 63,
+        "prog": 50
+      },
+      "storm": {
+        "runs": 12,
+        "score": 26
+      },
+      "racer": {
+        "runs": 3,
+        "score": 27
+      },
+      "streak": {
+        "runs": 8,
+        "score": 10
+      }
+    },
+    "createdAt": 1585342243227,
+    "online": true,
+    "seenAt": 1650039713716,
+    "playTime": {
+      "total": 334289,
+      "tv": 581
+    },
+    "url": "https://lichess.org/@/ericshang",
+    "count": {
+      "all": 1272,
+      "rated": 983,
+      "ai": 9,
+      "draw": 76,
+      "drawH": 76,
+      "loss": 470,
+      "lossH": 463,
+      "win": 726,
+      "winH": 724,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
