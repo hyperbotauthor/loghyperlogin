@@ -1,0 +1,81 @@
+{
+  "id": "onlyfasttimes",
+  "displayName": "OnlyFastTimes",
+  "username": "OnlyFastTimes",
+  "profileUrl": "https://lichess.org/@/OnlyFastTimes",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"onlyfasttimes\",\"username\":\"OnlyFastTimes\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":23,\"rating\":2033,\"rd\":103,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649950851431,\"online\":true,\"profile\":{\"country\":\"_pirate\",\"location\":\"Lost in the 7 seas!\"},\"seenAt\":1650034685208,\"playTime\":{\"total\":1548,\"tv\":0},\"url\":\"https://lichess.org/@/OnlyFastTimes\",\"count\":{\"all\":38,\"rated\":25,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":17,\"lossH\":17,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "onlyfasttimes",
+    "username": "OnlyFastTimes",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 23,
+        "rating": 2033,
+        "rd": 103,
+        "prog": 17
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1649950851431,
+    "online": true,
+    "profile": {
+      "country": "_pirate",
+      "location": "Lost in the 7 seas!"
+    },
+    "seenAt": 1650034685208,
+    "playTime": {
+      "total": 1548,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/OnlyFastTimes",
+    "count": {
+      "all": 38,
+      "rated": 25,
+      "ai": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 17,
+      "lossH": 17,
+      "win": 17,
+      "winH": 17,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
