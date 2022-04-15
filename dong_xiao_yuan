@@ -4,7 +4,7 @@
   "username": "Dong_Xiao_Yuan",
   "profileUrl": "https://lichess.org/@/Dong_Xiao_Yuan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1454,\"rd\":434,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":20,\"rating\":2187,\"rd\":97,\"prog\":81},\"crazyhouse\":{\"games\":2,\"rating\":1829,\"rd\":278,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":447,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2054,\"rd\":317,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2369,\"rd\":216,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643547454192,\"online\":true,\"profile\":{\"country\":\"VN\",\"bio\":\"Hello!\\r\\nI'm a weak bot that run on Hypereasy and owned by @HelongjiangDeWangjia (or LM_WangjiaOfHeilongjiang on Chess.com).\\r\\nChallenge me if you like to (only normal chess, plz) :>\\r\\nGood luck :>>>\",\"firstName\":\"Dong\",\"lastName\":\"Xiao Yuan\",\"links\":\"https://www.twitch.tv/dongxiaoyuan_bot\\r\\nhttps://www.chess.com/member/lm_wangjiaofheilongjiang\\r\\nhttps://lichess.org/@/HelongjiangDeWangjia\"},\"seenAt\":1645416584779,\"playTime\":{\"total\":15939,\"tv\":609},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"count\":{\"all\":65,\"rated\":32,\"ai\":29,\"draw\":2,\"drawH\":1,\"loss\":26,\"lossH\":12,\"win\":37,\"winH\":23,\"bookmark\":4,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dong_xiao_yuan\",\"username\":\"Dong_Xiao_Yuan\",\"perfs\":{\"atomic\":{\"games\":1,\"rating\":1454,\"rd\":437,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":20,\"rating\":2187,\"rd\":111,\"prog\":81,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1829,\"rd\":283,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1962,\"rd\":450,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":4,\"rating\":2054,\"rd\":321,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2339,\"rd\":302,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2369,\"rd\":223,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1643547454192,\"online\":true,\"profile\":{\"country\":\"VN\",\"bio\":\"Hello!\\r\\nI'm a weak bot that run on Hypereasy and owned by @HelongjiangDeWangjia (or LM_WangjiaOfHeilongjiang on Chess.com).\\r\\nChallenge me if you like to (only normal chess, plz) :>\\r\\nGood luck :>>>\",\"firstName\":\"Dong\",\"lastName\":\"Xiao Yuan\",\"links\":\"https://www.twitch.tv/dongxiaoyuan_bot\\r\\nhttps://www.chess.com/member/lm_wangjiaofheilongjiang\\r\\nhttps://lichess.org/@/HelongjiangDeWangjia\"},\"seenAt\":1650027761306,\"playTime\":{\"total\":19107,\"tv\":609},\"url\":\"https://lichess.org/@/Dong_Xiao_Yuan\",\"count\":{\"all\":68,\"rated\":33,\"ai\":29,\"draw\":2,\"drawH\":1,\"loss\":26,\"lossH\":12,\"win\":40,\"winH\":26,\"bookmark\":4,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dong_xiao_yuan",
     "username": "Dong_Xiao_Yuan",
@@ -12,48 +12,49 @@
       "atomic": {
         "games": 1,
         "rating": 1454,
-        "rd": 434,
+        "rd": 437,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 20,
         "rating": 2187,
-        "rd": 97,
-        "prog": 81
+        "rd": 111,
+        "prog": 81,
+        "prov": true
       },
       "crazyhouse": {
         "games": 2,
         "rating": 1829,
-        "rd": 278,
+        "rd": 283,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 1,
         "rating": 1962,
-        "rd": 447,
+        "rd": 450,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 4,
         "rating": 2054,
-        "rd": 317,
+        "rd": 321,
         "prog": 0,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2339,
+        "rd": 302,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 3,
         "rating": 2369,
-        "rd": 216,
+        "rd": 223,
         "prog": 0,
         "prov": true
       }
@@ -68,22 +69,22 @@
       "lastName": "Xiao Yuan",
       "links": "https://www.twitch.tv/dongxiaoyuan_bot\r\nhttps://www.chess.com/member/lm_wangjiaofheilongjiang\r\nhttps://lichess.org/@/HelongjiangDeWangjia"
     },
-    "seenAt": 1645416584779,
+    "seenAt": 1650027761306,
     "playTime": {
-      "total": 15939,
+      "total": 19107,
       "tv": 609
     },
     "url": "https://lichess.org/@/Dong_Xiao_Yuan",
     "count": {
-      "all": 65,
-      "rated": 32,
+      "all": 68,
+      "rated": 33,
       "ai": 29,
       "draw": 2,
       "drawH": 1,
       "loss": 26,
       "lossH": 12,
-      "win": 37,
-      "winH": 23,
+      "win": 40,
+      "winH": 26,
       "bookmark": 4,
       "playing": 0,
       "import": 0,
