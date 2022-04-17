@@ -1,0 +1,144 @@
+{
+  "id": "fahemthecm",
+  "displayName": "FAHEMTHECM",
+  "username": "FAHEMTHECM",
+  "profileUrl": "https://lichess.org/@/FAHEMTHECM",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"fahemthecm\",\"username\":\"FAHEMTHECM\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1361,\"rd\":382,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":8,\"rating\":1973,\"rd\":308,\"prog\":0,\"prov\":true},\"horde\":{\"games\":2,\"rating\":1833,\"rd\":376,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":1569,\"rd\":208,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1435,\"rd\":376,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":4,\"rating\":1595,\"rd\":296,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":11,\"rating\":1573,\"rd\":226,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":5,\"rating\":1945,\"rd\":322,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":21,\"rating\":1628,\"rd\":195,\"prog\":-15,\"prov\":true},\"bullet\":{\"games\":39,\"rating\":1484,\"rd\":165,\"prog\":64,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":1772,\"rd\":346,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1655,\"rd\":285,\"prog\":18,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1613956549532,\"online\":true,\"profile\":{\"country\":\"US\",\"bio\":\"I am Fahem's Bot I play Variants.\",\"firstName\":\"Fahem\",\"lastName\":\"Bot\",\"fideRating\":3000,\"uscfRating\":2300,\"ecfRating\":2200},\"seenAt\":1650218981307,\"playTime\":{\"total\":11896,\"tv\":313},\"url\":\"https://lichess.org/@/FAHEMTHECM\",\"playing\":\"https://lichess.org/Kr7XU8zB/white\",\"count\":{\"all\":141,\"rated\":120,\"ai\":6,\"draw\":6,\"drawH\":6,\"loss\":58,\"lossH\":54,\"win\":77,\"winH\":75,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "fahemthecm",
+    "username": "FAHEMTHECM",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1361,
+        "rd": 382,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 8,
+        "rating": 1973,
+        "rd": 308,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 2,
+        "rating": 1833,
+        "rd": 376,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 7,
+        "rating": 1569,
+        "rd": 208,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1435,
+        "rd": 376,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 4,
+        "rating": 1595,
+        "rd": 296,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 11,
+        "rating": 1573,
+        "rd": 226,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 5,
+        "rating": 1945,
+        "rd": 322,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 21,
+        "rating": 1628,
+        "rd": 195,
+        "prog": -15,
+        "prov": true
+      },
+      "bullet": {
+        "games": 39,
+        "rating": 1484,
+        "rd": 165,
+        "prog": 64,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 1772,
+        "rd": 346,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 12,
+        "rating": 1655,
+        "rd": 285,
+        "prog": 18,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1613956549532,
+    "online": true,
+    "profile": {
+      "country": "US",
+      "bio": "I am Fahem's Bot I play Variants.",
+      "firstName": "Fahem",
+      "lastName": "Bot",
+      "fideRating": 3000,
+      "uscfRating": 2300,
+      "ecfRating": 2200
+    },
+    "seenAt": 1650218981307,
+    "playTime": {
+      "total": 11896,
+      "tv": 313
+    },
+    "url": "https://lichess.org/@/FAHEMTHECM",
+    "playing": "https://lichess.org/Kr7XU8zB/white",
+    "count": {
+      "all": 141,
+      "rated": 120,
+      "ai": 6,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 58,
+      "lossH": 54,
+      "win": 77,
+      "winH": 75,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
