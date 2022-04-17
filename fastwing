@@ -4,7 +4,7 @@
   "username": "FastWing",
   "profileUrl": "https://lichess.org/@/FastWing",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fastwing\",\"username\":\"FastWing\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2018,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":2158,\"rd\":146,\"prog\":-72,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":428,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2161,\"rd\":299,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650087475239,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\\r\\n\\r\\nThanks :)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing :)\",\"links\":\"https://hypereasy.herokuapp.com\"},\"seenAt\":1650132903504,\"playTime\":{\"total\":8924,\"tv\":275},\"url\":\"https://lichess.org/@/FastWing\",\"count\":{\"all\":56,\"rated\":45,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":49,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fastwing\",\"username\":\"FastWing\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2018,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":2158,\"rd\":147,\"prog\":-72,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":428,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2161,\"rd\":299,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650087475239,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\\r\\n\\r\\nThanks :)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing :)\",\"links\":\"https://hypereasy.herokuapp.com\"},\"seenAt\":1650172159496,\"playTime\":{\"total\":8924,\"tv\":275},\"url\":\"https://lichess.org/@/FastWing\",\"count\":{\"all\":56,\"rated\":45,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":49,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fastwing",
     "username": "FastWing",
@@ -19,7 +19,7 @@
       "bullet": {
         "games": 37,
         "rating": 2158,
-        "rd": 146,
+        "rd": 147,
         "prog": -72,
         "prov": true
       },
@@ -56,7 +56,7 @@
       "lastName": "Wing :)",
       "links": "https://hypereasy.herokuapp.com"
     },
-    "seenAt": 1650132903504,
+    "seenAt": 1650172159496,
     "playTime": {
       "total": 8924,
       "tv": 275
