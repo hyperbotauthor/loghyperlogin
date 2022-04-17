@@ -4,22 +4,22 @@
   "username": "BotVic",
   "profileUrl": "https://lichess.org/@/BotVic",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botvic\",\"username\":\"BotVic\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649335774187,\"online\":true,\"seenAt\":1649337726047,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/BotVic\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botvic\",\"username\":\"BotVic\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2433,\"rd\":317,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2188,\"rd\":124,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2540,\"rd\":160,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1649335774187,\"online\":true,\"seenAt\":1650200073580,\"playTime\":{\"total\":15320,\"tv\":1282},\"url\":\"https://lichess.org/@/BotVic\",\"count\":{\"all\":45,\"rated\":17,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":25,\"lossH\":25,\"win\":19,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botvic",
     "username": "BotVic",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2433,
+        "rd": 317,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 10,
+        "rating": 2188,
+        "rd": 124,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 5,
+        "rating": 2540,
+        "rd": 160,
         "prog": 0,
         "prov": true
       }
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1649335774187,
     "online": true,
-    "seenAt": 1649337726047,
+    "seenAt": 1650200073580,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 15320,
+      "tv": 1282
     },
     "url": "https://lichess.org/@/BotVic",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 45,
+      "rated": 17,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 25,
+      "lossH": 25,
+      "win": 19,
+      "winH": 19,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
