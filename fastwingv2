@@ -4,63 +4,72 @@
   "username": "FastWingV2",
   "profileUrl": "https://lichess.org/@/FastWingV2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fastwingv2\",\"username\":\"FastWingV2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1650114706340,\"online\":true,\"seenAt\":1650114707504,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/FastWingV2\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fastwingv2\",\"username\":\"FastWingV2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650114706340,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My older brother : @FastWing\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing ;)\",\"links\":\"https://hypereasy.herokuapp.com/\"},\"seenAt\":1650172339219,\"playTime\":{\"total\":102,\"tv\":0},\"url\":\"https://lichess.org/@/FastWingV2\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fastwingv2",
     "username": "FastWingV2",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1650114706340,
     "online": true,
-    "seenAt": 1650114707504,
+    "profile": {
+      "country": "UA",
+      "location": "#ThriveTogether",
+      "bio": "I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My older brother : @FastWing",
+      "firstName": "The Fastest",
+      "lastName": "Wing ;)",
+      "links": "https://hypereasy.herokuapp.com/"
+    },
+    "seenAt": 1650172339219,
     "playTime": {
-      "total": 0,
+      "total": 102,
       "tv": 0
     },
     "url": "https://lichess.org/@/FastWingV2",
     "count": {
-      "all": 0,
+      "all": 1,
       "rated": 0,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
+      "loss": 1,
+      "lossH": 1,
       "win": 0,
       "winH": 0,
       "bookmark": 0,
