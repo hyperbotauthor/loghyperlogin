@@ -4,22 +4,22 @@
   "username": "DrFahemStylen",
   "profileUrl": "https://lichess.org/@/DrFahemStylen",
   "provider": "lichess",
-  "_raw": "{\"id\":\"drfahemstylen\",\"username\":\"DrFahemStylen\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":1925,\"rd\":398,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650060832492,\"online\":true,\"seenAt\":1650117933537,\"playTime\":{\"total\":182,\"tv\":0},\"url\":\"https://lichess.org/@/DrFahemStylen\",\"playing\":\"https://lichess.org/3kDzxRnS/white\",\"count\":{\"all\":3,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"drfahemstylen\",\"username\":\"DrFahemStylen\",\"perfs\":{\"blitz\":{\"games\":2,\"rating\":2263,\"rd\":325,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1797,\"rd\":272,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1965,\"rd\":276,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650060832492,\"online\":true,\"seenAt\":1650153778137,\"playTime\":{\"total\":5553,\"tv\":77},\"url\":\"https://lichess.org/@/DrFahemStylen\",\"playing\":\"https://lichess.org/GxDHnqRd/white\",\"count\":{\"all\":14,\"rated\":11,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":12,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "drfahemstylen",
     "username": "DrFahemStylen",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2263,
+        "rd": 325,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 1925,
-        "rd": 398,
+        "games": 5,
+        "rating": 1797,
+        "rd": 272,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 4,
+        "rating": 1965,
+        "rd": 276,
         "prog": 0,
         "prov": true
       }
@@ -48,23 +48,23 @@
     "title": "BOT",
     "createdAt": 1650060832492,
     "online": true,
-    "seenAt": 1650117933537,
+    "seenAt": 1650153778137,
     "playTime": {
-      "total": 182,
-      "tv": 0
+      "total": 5553,
+      "tv": 77
     },
     "url": "https://lichess.org/@/DrFahemStylen",
-    "playing": "https://lichess.org/3kDzxRnS/white",
+    "playing": "https://lichess.org/GxDHnqRd/white",
     "count": {
-      "all": 3,
-      "rated": 3,
+      "all": 14,
+      "rated": 11,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 3,
-      "lossH": 3,
-      "win": 0,
-      "winH": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 12,
+      "lossH": 12,
+      "win": 1,
+      "winH": 1,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
