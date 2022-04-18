@@ -4,7 +4,7 @@
   "username": "LolCheckmategg",
   "profileUrl": "https://lichess.org/@/LolCheckmategg",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lolcheckmategg\",\"username\":\"LolCheckmategg\",\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1635,\"rd\":240,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1746,\"rd\":429,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1812,\"rd\":334,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1660,\"rd\":235,\"prog\":-58,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1209,\"rd\":387,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1267,\"rd\":399,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1159,\"rd\":264,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1820,\"rd\":276,\"prog\":15,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1600810525315,\"online\":true,\"profile\":{\"bio\":\"https://github.com/ddugovic/stockfish\"},\"seenAt\":1650218037678,\"playTime\":{\"total\":30925,\"tv\":2460},\"url\":\"https://lichess.org/@/LolCheckmategg\",\"playing\":\"https://lichess.org/evKHBuKr/white\",\"count\":{\"all\":77,\"rated\":56,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":37,\"lossH\":36,\"win\":34,\"winH\":34,\"bookmark\":5,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lolcheckmategg\",\"username\":\"LolCheckmategg\",\"perfs\":{\"atomic\":{\"games\":9,\"rating\":1635,\"rd\":240,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":1746,\"rd\":429,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":6,\"rating\":1812,\"rd\":334,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":15,\"rating\":1660,\"rd\":235,\"prog\":-58,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1209,\"rd\":387,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1267,\"rd\":399,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":6,\"rating\":1159,\"rd\":264,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":14,\"rating\":1820,\"rd\":276,\"prog\":15,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1600810525315,\"online\":true,\"profile\":{\"bio\":\"https://github.com/ddugovic/stockfish\"},\"seenAt\":1650245117455,\"playTime\":{\"total\":30925,\"tv\":2460},\"url\":\"https://lichess.org/@/LolCheckmategg\",\"count\":{\"all\":81,\"rated\":56,\"ai\":1,\"draw\":6,\"drawH\":6,\"loss\":38,\"lossH\":37,\"win\":37,\"winH\":37,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lolcheckmategg",
     "username": "LolCheckmategg",
@@ -79,25 +79,24 @@
     "profile": {
       "bio": "https://github.com/ddugovic/stockfish"
     },
-    "seenAt": 1650218037678,
+    "seenAt": 1650245117455,
     "playTime": {
       "total": 30925,
       "tv": 2460
     },
     "url": "https://lichess.org/@/LolCheckmategg",
-    "playing": "https://lichess.org/evKHBuKr/white",
     "count": {
-      "all": 77,
+      "all": 81,
       "rated": 56,
       "ai": 1,
       "draw": 6,
       "drawH": 6,
-      "loss": 37,
-      "lossH": 36,
-      "win": 34,
-      "winH": 34,
+      "loss": 38,
+      "lossH": 37,
+      "win": 37,
+      "winH": 37,
       "bookmark": 5,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
