@@ -1,0 +1,82 @@
+{
+  "id": "spongebobattack",
+  "displayName": "SpongebobAttack",
+  "username": "SpongebobAttack",
+  "profileUrl": "https://lichess.org/@/SpongebobAttack",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"spongebobattack\",\"username\":\"SpongebobAttack\",\"perfs\":{\"blitz\":{\"games\":1165,\"rating\":2011,\"rd\":109,\"prog\":-71},\"puzzle\":{\"games\":43,\"rating\":1982,\"rd\":182,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":309,\"rating\":1971,\"rd\":132,\"prog\":-44,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":59,\"rating\":1880,\"rd\":107,\"prog\":-8}},\"createdAt\":1568282644689,\"online\":true,\"seenAt\":1650270143418,\"playTime\":{\"total\":368497,\"tv\":2055},\"url\":\"https://lichess.org/@/SpongebobAttack\",\"count\":{\"all\":1606,\"rated\":1533,\"ai\":25,\"draw\":70,\"drawH\":69,\"loss\":703,\"lossH\":686,\"win\":833,\"winH\":826,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "spongebobattack",
+    "username": "SpongebobAttack",
+    "perfs": {
+      "blitz": {
+        "games": 1165,
+        "rating": 2011,
+        "rd": 109,
+        "prog": -71
+      },
+      "puzzle": {
+        "games": 43,
+        "rating": 1982,
+        "rd": 182,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 309,
+        "rating": 1971,
+        "rd": 132,
+        "prog": -44,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 59,
+        "rating": 1880,
+        "rd": 107,
+        "prog": -8
+      }
+    },
+    "createdAt": 1568282644689,
+    "online": true,
+    "seenAt": 1650270143418,
+    "playTime": {
+      "total": 368497,
+      "tv": 2055
+    },
+    "url": "https://lichess.org/@/SpongebobAttack",
+    "count": {
+      "all": 1606,
+      "rated": 1533,
+      "ai": 25,
+      "draw": 70,
+      "drawH": 69,
+      "loss": 703,
+      "lossH": 686,
+      "win": 833,
+      "winH": 826,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
