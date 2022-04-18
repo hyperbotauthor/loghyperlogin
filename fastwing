@@ -4,7 +4,7 @@
   "username": "FastWing",
   "profileUrl": "https://lichess.org/@/FastWing",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fastwing\",\"username\":\"FastWing\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2018,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":37,\"rating\":2158,\"rd\":147,\"prog\":-72,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":428,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2161,\"rd\":299,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650087475239,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\\r\\n\\r\\nThanks :)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing :)\",\"links\":\"https://hypereasy.herokuapp.com\"},\"seenAt\":1650172159496,\"playTime\":{\"total\":8924,\"tv\":275},\"url\":\"https://lichess.org/@/FastWing\",\"count\":{\"all\":56,\"rated\":45,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":6,\"lossH\":6,\"win\":49,\"winH\":49,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fastwing\",\"username\":\"FastWing\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2018,\"rd\":475,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":47,\"rating\":1981,\"rd\":118,\"prog\":-181,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":428,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1816,\"rd\":266,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650087475239,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\\r\\n\\r\\nThanks :)\\r\\n\\r\\n\\r\\n(Offline)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing :)\",\"links\":\"https://hypereasy.herokuapp.com\"},\"seenAt\":1650261949293,\"playTime\":{\"total\":11440,\"tv\":275},\"url\":\"https://lichess.org/@/FastWing\",\"count\":{\"all\":76,\"rated\":56,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":63,\"winH\":63,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fastwing",
     "username": "FastWing",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 37,
-        "rating": 2158,
-        "rd": 147,
-        "prog": -72,
+        "games": 47,
+        "rating": 1981,
+        "rd": 118,
+        "prog": -181,
         "prov": true
       },
       "correspondence": {
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 5,
-        "rating": 2161,
-        "rd": 299,
+        "games": 6,
+        "rating": 1816,
+        "rd": 266,
         "prog": 0,
         "prov": true
       }
@@ -51,27 +51,27 @@
     "profile": {
       "country": "UA",
       "location": "#ThriveTogether",
-      "bio": "I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\r\n\r\nThanks :)",
+      "bio": "I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My best victory was with @maia5 Game Link : https://lichess.org/g3uM94JmM3hO. My younger brother : @FastWingV2.\r\n\r\nThanks :)\r\n\r\n\r\n(Offline)",
       "firstName": "The Fastest",
       "lastName": "Wing :)",
       "links": "https://hypereasy.herokuapp.com"
     },
-    "seenAt": 1650172159496,
+    "seenAt": 1650261949293,
     "playTime": {
-      "total": 8924,
+      "total": 11440,
       "tv": 275
     },
     "url": "https://lichess.org/@/FastWing",
     "count": {
-      "all": 56,
-      "rated": 45,
+      "all": 76,
+      "rated": 56,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 6,
-      "lossH": 6,
-      "win": 49,
-      "winH": 49,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 11,
+      "lossH": 11,
+      "win": 63,
+      "winH": 63,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
