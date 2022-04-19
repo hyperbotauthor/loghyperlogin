@@ -1,0 +1,83 @@
+{
+  "id": "zoomin13",
+  "displayName": "zOomIN13",
+  "username": "zOomIN13",
+  "profileUrl": "https://lichess.org/@/zOomIN13",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"zoomin13\",\"username\":\"zOomIN13\",\"perfs\":{\"blitz\":{\"games\":251,\"rating\":1809,\"rd\":45,\"prog\":-39},\"puzzle\":{\"games\":1,\"rating\":1405,\"rd\":369,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1648689664597,\"online\":true,\"seenAt\":1650349797140,\"playTime\":{\"total\":62695,\"tv\":0},\"url\":\"https://lichess.org/@/zOomIN13\",\"count\":{\"all\":251,\"rated\":251,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":124,\"lossH\":124,\"win\":120,\"winH\":120,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "zoomin13",
+    "username": "zOomIN13",
+    "perfs": {
+      "blitz": {
+        "games": 251,
+        "rating": 1809,
+        "rd": 45,
+        "prog": -39
+      },
+      "puzzle": {
+        "games": 1,
+        "rating": 1405,
+        "rd": 369,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1648689664597,
+    "online": true,
+    "seenAt": 1650349797140,
+    "playTime": {
+      "total": 62695,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/zOomIN13",
+    "count": {
+      "all": 251,
+      "rated": 251,
+      "ai": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 124,
+      "lossH": 124,
+      "win": 120,
+      "winH": 120,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
