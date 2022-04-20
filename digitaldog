@@ -4,7 +4,7 @@
   "username": "DigitalDog",
   "profileUrl": "https://lichess.org/@/DigitalDog",
   "provider": "lichess",
-  "_raw": "{\"id\":\"digitaldog\",\"username\":\"DigitalDog\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650354067202,\"online\":true,\"seenAt\":1650418682241,\"playTime\":{\"total\":181,\"tv\":0},\"url\":\"https://lichess.org/@/DigitalDog\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"digitaldog\",\"username\":\"DigitalDog\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650354067202,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"I am DigitalDog a bot who always has fun with my opponent. Get ready for tricky moves!\",\"firstName\":\"Digital\",\"lastName\":\"Dog\",\"links\":\"I dont have\"},\"seenAt\":1650498571939,\"playTime\":{\"total\":181,\"tv\":0},\"url\":\"https://lichess.org/@/DigitalDog\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "digitaldog",
     "username": "DigitalDog",
@@ -48,7 +48,15 @@
     "title": "BOT",
     "createdAt": 1650354067202,
     "online": true,
-    "seenAt": 1650418682241,
+    "profile": {
+      "country": "_lichess",
+      "location": "Lichess.org",
+      "bio": "I am DigitalDog a bot who always has fun with my opponent. Get ready for tricky moves!",
+      "firstName": "Digital",
+      "lastName": "Dog",
+      "links": "I dont have"
+    },
+    "seenAt": 1650498571939,
     "playTime": {
       "total": 181,
       "tv": 0
