@@ -4,15 +4,15 @@
   "username": "Nexenex",
   "profileUrl": "https://lichess.org/@/Nexenex",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nexenex\",\"username\":\"Nexenex\",\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2405,\"rd\":157,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650413526119,\"online\":true,\"seenAt\":1650461945641,\"playTime\":{\"total\":3987,\"tv\":0},\"url\":\"https://lichess.org/@/Nexenex\",\"playing\":\"https://lichess.org/ZkhZ7yip/white\",\"count\":{\"all\":13,\"rated\":9,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":1,\"lossH\":1,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nexenex\",\"username\":\"Nexenex\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2418,\"rd\":151,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2612,\"rd\":352,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650413526119,\"online\":true,\"seenAt\":1650468870475,\"playTime\":{\"total\":7151,\"tv\":1452},\"url\":\"https://lichess.org/@/Nexenex\",\"playing\":\"https://lichess.org/hkQKwlel/white\",\"count\":{\"all\":20,\"rated\":11,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":16,\"winH\":16,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nexenex",
     "username": "Nexenex",
     "perfs": {
       "blitz": {
-        "games": 9,
-        "rating": 2405,
-        "rd": 157,
+        "games": 10,
+        "rating": 2418,
+        "rd": 151,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2612,
+        "rd": 352,
         "prog": 0,
         "prov": true
       }
@@ -48,23 +48,23 @@
     "title": "BOT",
     "createdAt": 1650413526119,
     "online": true,
-    "seenAt": 1650461945641,
+    "seenAt": 1650468870475,
     "playTime": {
-      "total": 3987,
-      "tv": 0
+      "total": 7151,
+      "tv": 1452
     },
     "url": "https://lichess.org/@/Nexenex",
-    "playing": "https://lichess.org/ZkhZ7yip/white",
+    "playing": "https://lichess.org/hkQKwlel/white",
     "count": {
-      "all": 13,
-      "rated": 9,
+      "all": 20,
+      "rated": 11,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 1,
-      "lossH": 1,
-      "win": 11,
-      "winH": 11,
+      "loss": 3,
+      "lossH": 3,
+      "win": 16,
+      "winH": 16,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
