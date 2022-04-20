@@ -4,7 +4,7 @@
   "username": "stocfish_15",
   "profileUrl": "https://lichess.org/@/stocfish_15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stocfish_15\",\"username\":\"stocfish_15\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2402,\"rd\":310,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2528,\"rd\":225,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650396099203,\"online\":true,\"seenAt\":1650453187380,\"playTime\":{\"total\":1662,\"tv\":0},\"url\":\"https://lichess.org/@/stocfish_15\",\"count\":{\"all\":4,\"rated\":4,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stocfish_15\",\"username\":\"stocfish_15\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2402,\"rd\":310,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2491,\"rd\":160,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650396099203,\"online\":true,\"seenAt\":1650473104463,\"playTime\":{\"total\":3409,\"tv\":0},\"url\":\"https://lichess.org/@/stocfish_15\",\"count\":{\"all\":19,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stocfish_15",
     "username": "stocfish_15",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 3,
-        "rating": 2528,
-        "rd": 225,
+        "games": 10,
+        "rating": 2491,
+        "rd": 160,
         "prog": 0,
         "prov": true
       },
@@ -48,22 +48,22 @@
     "title": "BOT",
     "createdAt": 1650396099203,
     "online": true,
-    "seenAt": 1650453187380,
+    "seenAt": 1650473104463,
     "playTime": {
-      "total": 1662,
+      "total": 3409,
       "tv": 0
     },
     "url": "https://lichess.org/@/stocfish_15",
     "count": {
-      "all": 4,
-      "rated": 4,
+      "all": 19,
+      "rated": 11,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 4,
-      "winH": 4,
+      "loss": 6,
+      "lossH": 6,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
