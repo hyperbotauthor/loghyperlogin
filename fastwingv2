@@ -4,7 +4,7 @@
   "username": "FastWingV2",
   "profileUrl": "https://lichess.org/@/FastWingV2",
   "provider": "lichess",
-  "_raw": "{\"id\":\"fastwingv2\",\"username\":\"FastWingV2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":53,\"rating\":1954,\"rd\":81,\"prog\":-31},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1537,\"rd\":330,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650114706340,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My older brother : @FastWing. Thanks :) (Online!)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing ;)\",\"links\":\"https://hypereasy.herokuapp.com/\"},\"seenAt\":1650450031129,\"playTime\":{\"total\":7167,\"tv\":127},\"url\":\"https://lichess.org/@/FastWingV2\",\"count\":{\"all\":60,\"rated\":55,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":51,\"winH\":51,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"fastwingv2\",\"username\":\"FastWingV2\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":57,\"rating\":1973,\"rd\":78,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1537,\"rd\":330,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650114706340,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"#ThriveTogether\",\"bio\":\"I am @Alvin_mathew2011's bot. Coded by Alvin himself!. My older brother : @FastWing. Thanks :) (Online!)\",\"firstName\":\"The Fastest\",\"lastName\":\"Wing ;)\",\"links\":\"https://hypereasy.herokuapp.com/\"},\"seenAt\":1650623620184,\"playTime\":{\"total\":7668,\"tv\":127},\"url\":\"https://lichess.org/@/FastWingV2\",\"count\":{\"all\":65,\"rated\":59,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":8,\"lossH\":8,\"win\":56,\"winH\":56,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "fastwingv2",
     "username": "FastWingV2",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 53,
-        "rating": 1954,
-        "rd": 81,
-        "prog": -31
+        "games": 57,
+        "rating": 1973,
+        "rd": 78,
+        "prog": 15
       },
       "correspondence": {
         "games": 0,
@@ -55,22 +55,22 @@
       "lastName": "Wing ;)",
       "links": "https://hypereasy.herokuapp.com/"
     },
-    "seenAt": 1650450031129,
+    "seenAt": 1650623620184,
     "playTime": {
-      "total": 7167,
+      "total": 7668,
       "tv": 127
     },
     "url": "https://lichess.org/@/FastWingV2",
     "count": {
-      "all": 60,
-      "rated": 55,
+      "all": 65,
+      "rated": 59,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
       "loss": 8,
       "lossH": 8,
-      "win": 51,
-      "winH": 51,
+      "win": 56,
+      "winH": 56,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
