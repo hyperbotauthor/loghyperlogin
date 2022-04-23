@@ -4,7 +4,7 @@
   "username": "Lc-Org",
   "profileUrl": "https://lichess.org/@/Lc-Org",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lc-org\",\"username\":\"Lc-Org\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2321,\"rd\":239,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2113,\"rd\":288,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650123644380,\"online\":true,\"profile\":{\"country\":\"PE\",\"location\":\"Perú\",\"bio\":\"Hello, I'm Lc-org I guess you don't know me but you know I'm a bot programmed to beat you in every game, however there's a 50% chance you'll beat me, good luck! :)\",\"fideRating\":2800},\"seenAt\":1650413574902,\"playTime\":{\"total\":3607,\"tv\":0},\"url\":\"https://lichess.org/@/Lc-Org\",\"count\":{\"all\":11,\"rated\":7,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":2,\"lossH\":2,\"win\":9,\"winH\":9,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lc-org\",\"username\":\"Lc-Org\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2321,\"rd\":239,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":2337,\"rd\":313,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1498,\"rd\":498,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":1994,\"rd\":184,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2113,\"rd\":289,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650123644380,\"online\":true,\"profile\":{\"country\":\"PE\",\"location\":\"Perú\",\"bio\":\"Hello, I'm Lc-org I guess you don't know me but you know I'm a bot programmed to beat you in every game, however there's a 50% chance you'll beat me, good luck! :)\",\"fideRating\":2800},\"seenAt\":1650722412313,\"playTime\":{\"total\":4289,\"tv\":0},\"url\":\"https://lichess.org/@/Lc-Org\",\"count\":{\"all\":20,\"rated\":16,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lc-org",
     "username": "Lc-Org",
@@ -16,10 +16,24 @@
         "prog": 0,
         "prov": true
       },
+      "antichess": {
+        "games": 2,
+        "rating": 2337,
+        "rd": 313,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 1,
+        "rating": 1498,
+        "rd": 498,
+        "prog": 0,
+        "prov": true
+      },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 6,
+        "rating": 1994,
+        "rd": 184,
         "prog": 0,
         "prov": true
       },
@@ -40,7 +54,7 @@
       "rapid": {
         "games": 3,
         "rating": 2113,
-        "rd": 288,
+        "rd": 289,
         "prog": 0,
         "prov": true
       }
@@ -54,22 +68,22 @@
       "bio": "Hello, I'm Lc-org I guess you don't know me but you know I'm a bot programmed to beat you in every game, however there's a 50% chance you'll beat me, good luck! :)",
       "fideRating": 2800
     },
-    "seenAt": 1650413574902,
+    "seenAt": 1650722412313,
     "playTime": {
-      "total": 3607,
+      "total": 4289,
       "tv": 0
     },
     "url": "https://lichess.org/@/Lc-Org",
     "count": {
-      "all": 11,
-      "rated": 7,
+      "all": 20,
+      "rated": 16,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 2,
-      "lossH": 2,
-      "win": 9,
-      "winH": 9,
+      "loss": 7,
+      "lossH": 7,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
