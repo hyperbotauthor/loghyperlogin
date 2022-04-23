@@ -4,7 +4,7 @@
   "username": "UKBot",
   "profileUrl": "https://lichess.org/@/UKBot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ukbot\",\"username\":\"UKBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2241,\"rd\":159,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650264866400,\"online\":true,\"profile\":{\"country\":\"GB\"},\"seenAt\":1650517295514,\"playTime\":{\"total\":458,\"tv\":0},\"url\":\"https://lichess.org/@/UKBot\",\"count\":{\"all\":9,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":8,\"winH\":8,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ukbot\",\"username\":\"UKBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":11,\"rating\":2366,\"rd\":121,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650264866400,\"online\":true,\"profile\":{\"country\":\"GB\"},\"seenAt\":1650694862333,\"playTime\":{\"total\":847,\"tv\":0},\"url\":\"https://lichess.org/@/UKBot\",\"playing\":\"https://lichess.org/wO4QrwuB/black\",\"count\":{\"all\":14,\"rated\":11,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":false,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ukbot",
     "username": "UKBot",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 6,
-        "rating": 2241,
-        "rd": 159,
+        "games": 11,
+        "rating": 2366,
+        "rd": 121,
         "prog": 0,
         "prov": true
       },
@@ -51,24 +51,25 @@
     "profile": {
       "country": "GB"
     },
-    "seenAt": 1650517295514,
+    "seenAt": 1650694862333,
     "playTime": {
-      "total": 458,
+      "total": 847,
       "tv": 0
     },
     "url": "https://lichess.org/@/UKBot",
+    "playing": "https://lichess.org/wO4QrwuB/black",
     "count": {
-      "all": 9,
-      "rated": 6,
+      "all": 14,
+      "rated": 11,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 1,
       "lossH": 1,
-      "win": 8,
-      "winH": 8,
+      "win": 13,
+      "winH": 13,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
