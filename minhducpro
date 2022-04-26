@@ -4,7 +4,7 @@
   "username": "MinhDucPRO",
   "profileUrl": "https://lichess.org/@/MinhDucPRO",
   "provider": "lichess",
-  "_raw": "{\"id\":\"minhducpro\",\"username\":\"MinhDucPRO\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1189,\"rd\":297,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":39,\"rating\":1160,\"rd\":82,\"prog\":29},\"atomic\":{\"games\":180,\"rating\":1118,\"rd\":45,\"prog\":7},\"racingKings\":{\"games\":11,\"rating\":1260,\"rd\":167,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":17,\"score\":13},\"ultraBullet\":{\"games\":48,\"rating\":900,\"rd\":69,\"prog\":58},\"blitz\":{\"games\":9,\"rating\":1140,\"rd\":163,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":33,\"rating\":1184,\"rd\":102,\"prog\":-138},\"crazyhouse\":{\"games\":5,\"rating\":1001,\"rd\":185,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1208,\"rd\":217,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":12,\"score\":5},\"storm\":{\"runs\":6,\"score\":13},\"bullet\":{\"games\":71,\"rating\":1019,\"rd\":58,\"prog\":40},\"correspondence\":{\"games\":10,\"rating\":1752,\"rd\":180,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1181,\"rd\":226,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":703,\"rating\":1261,\"rd\":78,\"prog\":0},\"classical\":{\"games\":11,\"rating\":1019,\"rd\":141,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1166,\"rd\":132,\"prog\":84,\"prov\":true}},\"tosViolation\":true,\"patron\":true,\"createdAt\":1646449651188,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Hà Nội\",\"bio\":\"Xin chào mọi người trong Lichess, tôi là người Việt Nam. Nếu có gì tôi không hiểu thì mong mọi người giúp đỡ\",\"firstName\":\"Minh Đức\",\"lastName\":\"Nguyễn\",\"links\":\"Youtube: BiBo Gaming\\r\\nhttps://www.youtube.com/channel/UCjG2Hi5p6F79Qgm2JTBV7Sw\"},\"seenAt\":1650961921884,\"playTime\":{\"total\":126260,\"tv\":582},\"url\":\"https://lichess.org/@/MinhDucPRO\",\"playing\":\"https://lichess.org/pyV6eX4Q/white\",\"count\":{\"all\":957,\"rated\":446,\"ai\":155,\"draw\":20,\"drawH\":17,\"loss\":541,\"lossH\":489,\"win\":396,\"winH\":296,\"bookmark\":1,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"minhducpro\",\"username\":\"MinhDucPRO\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1189,\"rd\":297,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":39,\"rating\":1160,\"rd\":82,\"prog\":29},\"atomic\":{\"games\":180,\"rating\":1118,\"rd\":45,\"prog\":7},\"racingKings\":{\"games\":11,\"rating\":1260,\"rd\":167,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":17,\"score\":13},\"ultraBullet\":{\"games\":48,\"rating\":900,\"rd\":69,\"prog\":58},\"blitz\":{\"games\":9,\"rating\":1140,\"rd\":163,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":33,\"rating\":1184,\"rd\":102,\"prog\":-138},\"crazyhouse\":{\"games\":5,\"rating\":1001,\"rd\":185,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1208,\"rd\":217,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":14,\"score\":5},\"storm\":{\"runs\":6,\"score\":13},\"bullet\":{\"games\":71,\"rating\":1019,\"rd\":58,\"prog\":40},\"correspondence\":{\"games\":10,\"rating\":1752,\"rd\":180,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1181,\"rd\":226,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":703,\"rating\":1261,\"rd\":78,\"prog\":0},\"classical\":{\"games\":11,\"rating\":1019,\"rd\":141,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":1166,\"rd\":132,\"prog\":84,\"prov\":true}},\"tosViolation\":true,\"patron\":true,\"createdAt\":1646449651188,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Hà Nội\",\"bio\":\"Xin chào mọi người trong Lichess, tôi là người Việt Nam. Nếu có gì tôi không hiểu thì mong mọi người giúp đỡ\",\"firstName\":\"Minh Đức\",\"lastName\":\"Nguyễn\",\"links\":\"Youtube: BiBo Gaming\\r\\nhttps://www.youtube.com/channel/UCjG2Hi5p6F79Qgm2JTBV7Sw\"},\"seenAt\":1650972283591,\"playTime\":{\"total\":126260,\"tv\":582},\"url\":\"https://lichess.org/@/MinhDucPRO\",\"playing\":\"https://lichess.org/pyV6eX4Q/white\",\"count\":{\"all\":957,\"rated\":446,\"ai\":155,\"draw\":20,\"drawH\":17,\"loss\":541,\"lossH\":489,\"win\":396,\"winH\":296,\"bookmark\":1,\"playing\":3,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "minhducpro",
     "username": "MinhDucPRO",
@@ -73,7 +73,7 @@
         "prov": true
       },
       "streak": {
-        "runs": 12,
+        "runs": 14,
         "score": 5
       },
       "storm": {
@@ -133,7 +133,7 @@
       "lastName": "Nguyễn",
       "links": "Youtube: BiBo Gaming\r\nhttps://www.youtube.com/channel/UCjG2Hi5p6F79Qgm2JTBV7Sw"
     },
-    "seenAt": 1650961921884,
+    "seenAt": 1650972283591,
     "playTime": {
       "total": 126260,
       "tv": 582
