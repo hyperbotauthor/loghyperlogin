@@ -4,65 +4,66 @@
   "username": "Chrispy_9-VOLT",
   "profileUrl": "https://lichess.org/@/Chrispy_9-VOLT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chrispy_9-volt\",\"username\":\"Chrispy_9-VOLT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1650484688772,\"online\":true,\"seenAt\":1650484724194,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Chrispy_9-VOLT\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chrispy_9-volt\",\"username\":\"Chrispy_9-VOLT\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2066,\"rd\":404,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650484688772,\"online\":true,\"seenAt\":1650988212525,\"playTime\":{\"total\":710,\"tv\":0},\"url\":\"https://lichess.org/@/Chrispy_9-VOLT\",\"count\":{\"all\":3,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chrispy_9-volt",
     "username": "Chrispy_9-VOLT",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2066,
+        "rd": 404,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1650484688772,
     "online": true,
-    "seenAt": 1650484724194,
+    "seenAt": 1650988212525,
     "playTime": {
-      "total": 0,
+      "total": 710,
       "tv": 0
     },
     "url": "https://lichess.org/@/Chrispy_9-VOLT",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 3,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "win": 3,
+      "winH": 3,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
