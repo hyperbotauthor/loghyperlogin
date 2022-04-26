@@ -4,24 +4,23 @@
   "username": "botmike15",
   "profileUrl": "https://lichess.org/@/botmike15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botmike15\",\"username\":\"botmike15\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650915488762,\"online\":true,\"seenAt\":1650920634180,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/botmike15\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botmike15\",\"username\":\"botmike15\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":1752,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":144,\"rating\":2147,\"rd\":57,\"prog\":-1},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650915488762,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"I made in https://easychess.herokuapp.com/\",\"fideRating\":2000},\"seenAt\":1650988804338,\"playTime\":{\"total\":9058,\"tv\":389},\"url\":\"https://lichess.org/@/botmike15\",\"count\":{\"all\":168,\"rated\":154,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":155,\"winH\":155,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botmike15",
     "username": "botmike15",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 10,
+        "rating": 1752,
+        "rd": 241,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 144,
+        "rating": 2147,
+        "rd": 57,
+        "prog": -1
       },
       "correspondence": {
         "games": 0,
@@ -48,22 +47,27 @@
     "title": "BOT",
     "createdAt": 1650915488762,
     "online": true,
-    "seenAt": 1650920634180,
+    "profile": {
+      "country": "_lichess",
+      "bio": "I made in https://easychess.herokuapp.com/",
+      "fideRating": 2000
+    },
+    "seenAt": 1650988804338,
     "playTime": {
-      "total": 0,
-      "tv": 0
+      "total": 9058,
+      "tv": 389
     },
     "url": "https://lichess.org/@/botmike15",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 168,
+      "rated": 154,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 4,
+      "drawH": 4,
+      "loss": 9,
+      "lossH": 9,
+      "win": 155,
+      "winH": 155,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
