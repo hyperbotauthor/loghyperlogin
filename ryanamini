@@ -1,0 +1,163 @@
+{
+  "id": "ryanamini",
+  "displayName": "RyanAmini",
+  "username": "RyanAmini",
+  "profileUrl": "https://lichess.org/@/RyanAmini",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ryanamini\",\"username\":\"RyanAmini\",\"perfs\":{\"chess960\":{\"games\":28,\"rating\":1449,\"rd\":143,\"prog\":-143,\"prov\":true},\"antichess\":{\"games\":14,\"rating\":1671,\"rd\":197,\"prog\":119,\"prov\":true},\"atomic\":{\"games\":16,\"rating\":1441,\"rd\":179,\"prog\":-77,\"prov\":true},\"racingKings\":{\"games\":9,\"rating\":1696,\"rd\":215,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":71,\"score\":47},\"ultraBullet\":{\"games\":227,\"rating\":1173,\"rd\":66,\"prog\":5},\"blitz\":{\"games\":515,\"rating\":1599,\"rd\":77,\"prog\":-33},\"kingOfTheHill\":{\"games\":13,\"rating\":1535,\"rd\":232,\"prog\":17,\"prov\":true},\"crazyhouse\":{\"games\":77,\"rating\":1491,\"rd\":133,\"prog\":39,\"prov\":true},\"threeCheck\":{\"games\":17,\"rating\":1516,\"rd\":149,\"prog\":-144,\"prov\":true},\"streak\":{\"runs\":10,\"score\":27},\"storm\":{\"runs\":6,\"score\":28},\"bullet\":{\"games\":367,\"rating\":1340,\"rd\":54,\"prog\":13},\"correspondence\":{\"games\":17,\"rating\":1691,\"rd\":144,\"prog\":102,\"prov\":true},\"horde\":{\"games\":13,\"rating\":1615,\"rd\":203,\"prog\":-68,\"prov\":true},\"puzzle\":{\"games\":3595,\"rating\":2251,\"rd\":76,\"prog\":0},\"classical\":{\"games\":18,\"rating\":1549,\"rd\":141,\"prog\":-148,\"prov\":true},\"rapid\":{\"games\":897,\"rating\":1701,\"rd\":71,\"prog\":-27}},\"createdAt\":1598258983674,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000},\"seenAt\":1651199892566,\"playTime\":{\"total\":775835,\"tv\":463},\"url\":\"https://lichess.org/@/RyanAmini\",\"playing\":\"https://lichess.org/TqjlcV5j/black\",\"count\":{\"all\":2760,\"rated\":2229,\"ai\":73,\"draw\":125,\"drawH\":124,\"loss\":1028,\"lossH\":975,\"win\":1607,\"winH\":1588,\"bookmark\":273,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ryanamini",
+    "username": "RyanAmini",
+    "perfs": {
+      "chess960": {
+        "games": 28,
+        "rating": 1449,
+        "rd": 143,
+        "prog": -143,
+        "prov": true
+      },
+      "antichess": {
+        "games": 14,
+        "rating": 1671,
+        "rd": 197,
+        "prog": 119,
+        "prov": true
+      },
+      "atomic": {
+        "games": 16,
+        "rating": 1441,
+        "rd": 179,
+        "prog": -77,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 9,
+        "rating": 1696,
+        "rd": 215,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 71,
+        "score": 47
+      },
+      "ultraBullet": {
+        "games": 227,
+        "rating": 1173,
+        "rd": 66,
+        "prog": 5
+      },
+      "blitz": {
+        "games": 515,
+        "rating": 1599,
+        "rd": 77,
+        "prog": -33
+      },
+      "kingOfTheHill": {
+        "games": 13,
+        "rating": 1535,
+        "rd": 232,
+        "prog": 17,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 77,
+        "rating": 1491,
+        "rd": 133,
+        "prog": 39,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 17,
+        "rating": 1516,
+        "rd": 149,
+        "prog": -144,
+        "prov": true
+      },
+      "streak": {
+        "runs": 10,
+        "score": 27
+      },
+      "storm": {
+        "runs": 6,
+        "score": 28
+      },
+      "bullet": {
+        "games": 367,
+        "rating": 1340,
+        "rd": 54,
+        "prog": 13
+      },
+      "correspondence": {
+        "games": 17,
+        "rating": 1691,
+        "rd": 144,
+        "prog": 102,
+        "prov": true
+      },
+      "horde": {
+        "games": 13,
+        "rating": 1615,
+        "rd": 203,
+        "prog": -68,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 3595,
+        "rating": 2251,
+        "rd": 76,
+        "prog": 0
+      },
+      "classical": {
+        "games": 18,
+        "rating": 1549,
+        "rd": 141,
+        "prog": -148,
+        "prov": true
+      },
+      "rapid": {
+        "games": 897,
+        "rating": 1701,
+        "rd": 71,
+        "prog": -27
+      }
+    },
+    "createdAt": 1598258983674,
+    "online": true,
+    "profile": {
+      "country": "_lichess",
+      "fideRating": 3000,
+      "uscfRating": 3000,
+      "ecfRating": 3000,
+      "rcfRating": 3000,
+      "cfcRating": 3000
+    },
+    "seenAt": 1651199892566,
+    "playTime": {
+      "total": 775835,
+      "tv": 463
+    },
+    "url": "https://lichess.org/@/RyanAmini",
+    "playing": "https://lichess.org/TqjlcV5j/black",
+    "count": {
+      "all": 2760,
+      "rated": 2229,
+      "ai": 73,
+      "draw": 125,
+      "drawH": 124,
+      "loss": 1028,
+      "lossH": 975,
+      "win": 1607,
+      "winH": 1588,
+      "bookmark": 273,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
