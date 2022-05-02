@@ -4,7 +4,7 @@
   "username": "stockfish_Johan",
   "profileUrl": "https://lichess.org/@/stockfish_Johan",
   "provider": "lichess",
-  "_raw": "{\"id\":\"stockfish_johan\",\"username\":\"stockfish_Johan\",\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2601,\"rd\":178,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":89,\"rating\":2900,\"rd\":103,\"prog\":-29},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2409,\"rd\":316,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":5,\"rating\":2744,\"rd\":301,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637220557589,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"JohanBot\",\"bio\":\"My owner: @Johan201023\\r\\nPlease Make sure not to play many games with this bot every minute, you can play some games, and you should take a break, or the bot will not work, it needs time for a break!\",\"firstName\":\"Johan Joseph\",\"lastName\":\"Stockfish Partner\",\"links\":\"https://www.twitch.tv/johan201023\\r\\nhttps://lichess.org/@/Johan201023\"},\"seenAt\":1648527692758,\"playTime\":{\"total\":136222,\"tv\":69564},\"url\":\"https://lichess.org/@/stockfish_Johan\",\"count\":{\"all\":1292,\"rated\":106,\"ai\":3,\"draw\":442,\"drawH\":441,\"loss\":289,\"lossH\":287,\"win\":561,\"winH\":561,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"stockfish_johan\",\"username\":\"stockfish_Johan\",\"perfs\":{\"blitz\":{\"games\":9,\"rating\":2601,\"rd\":183,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":89,\"rating\":2900,\"rd\":112,\"prog\":-29,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2409,\"rd\":319,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2759,\"rd\":294,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1637220557589,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"JohanBot\",\"bio\":\"My owner: @Johan201023\\r\\nPlease Make sure not to play many games with this bot every minute, you can play some games, and you should take a break, or the bot will not work, it needs time for a break!\\r\\nUnder Maintenence, would be offline.\",\"firstName\":\"Johan Joseph\",\"lastName\":\"Stockfish Partner\",\"links\":\"https://www.twitch.tv/johan201023\\r\\nhttps://lichess.org/@/Johan201023\"},\"seenAt\":1651509425151,\"playTime\":{\"total\":172079,\"tv\":81628},\"url\":\"https://lichess.org/@/stockfish_Johan\",\"count\":{\"all\":1961,\"rated\":107,\"ai\":3,\"draw\":505,\"drawH\":504,\"loss\":523,\"lossH\":521,\"win\":933,\"winH\":933,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "stockfish_johan",
     "username": "stockfish_Johan",
@@ -12,15 +12,16 @@
       "blitz": {
         "games": 9,
         "rating": 2601,
-        "rd": 178,
+        "rd": 183,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 89,
         "rating": 2900,
-        "rd": 103,
-        "prog": -29
+        "rd": 112,
+        "prog": -29,
+        "prov": true
       },
       "correspondence": {
         "games": 0,
@@ -32,14 +33,14 @@
       "classical": {
         "games": 2,
         "rating": 2409,
-        "rd": 316,
+        "rd": 319,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 5,
-        "rating": 2744,
-        "rd": 301,
+        "games": 6,
+        "rating": 2759,
+        "rd": 294,
         "prog": 0,
         "prov": true
       }
@@ -50,27 +51,27 @@
     "profile": {
       "country": "_lichess",
       "location": "JohanBot",
-      "bio": "My owner: @Johan201023\r\nPlease Make sure not to play many games with this bot every minute, you can play some games, and you should take a break, or the bot will not work, it needs time for a break!",
+      "bio": "My owner: @Johan201023\r\nPlease Make sure not to play many games with this bot every minute, you can play some games, and you should take a break, or the bot will not work, it needs time for a break!\r\nUnder Maintenence, would be offline.",
       "firstName": "Johan Joseph",
       "lastName": "Stockfish Partner",
       "links": "https://www.twitch.tv/johan201023\r\nhttps://lichess.org/@/Johan201023"
     },
-    "seenAt": 1648527692758,
+    "seenAt": 1651509425151,
     "playTime": {
-      "total": 136222,
-      "tv": 69564
+      "total": 172079,
+      "tv": 81628
     },
     "url": "https://lichess.org/@/stockfish_Johan",
     "count": {
-      "all": 1292,
-      "rated": 106,
+      "all": 1961,
+      "rated": 107,
       "ai": 3,
-      "draw": 442,
-      "drawH": 441,
-      "loss": 289,
-      "lossH": 287,
-      "win": 561,
-      "winH": 561,
+      "draw": 505,
+      "drawH": 504,
+      "loss": 523,
+      "lossH": 521,
+      "win": 933,
+      "winH": 933,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
