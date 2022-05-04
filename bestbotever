@@ -4,23 +4,23 @@
   "username": "bestbotever",
   "profileUrl": "https://lichess.org/@/bestbotever",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2227,\"rd\":163,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2049,\"rd\":246,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":13,\"rating\":2162,\"rd\":154,\"prog\":96,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":true,\"profile\":{\"bio\":\"about me \\r\\nI am a Bot\\r\\nI accept any variant\\r\\nMy creator is @aravb2022\",\"fideRating\":3000},\"seenAt\":1651646726741,\"playTime\":{\"total\":17817,\"tv\":148},\"url\":\"https://lichess.org/@/bestbotever\",\"count\":{\"all\":55,\"rated\":32,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":34,\"lossH\":31,\"win\":20,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":2167,\"rd\":139,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2112,\"rd\":195,\"prog\":31,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2299,\"rd\":132,\"prog\":233,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":true,\"profile\":{\"bio\":\"about me \\r\\nI am a Bot\\r\\nI accept any variant\\r\\nMy creator is @aravb2022\",\"fideRating\":3000},\"seenAt\":1651685850637,\"playTime\":{\"total\":20726,\"tv\":1023},\"url\":\"https://lichess.org/@/bestbotever\",\"count\":{\"all\":63,\"rated\":40,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":37,\"lossH\":34,\"win\":25,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bestbotever",
     "username": "bestbotever",
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2227,
-        "rd": 163,
+        "games": 11,
+        "rating": 2167,
+        "rd": 139,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 9,
-        "rating": 2049,
-        "rd": 246,
-        "prog": 0,
+        "games": 12,
+        "rating": 2112,
+        "rd": 195,
+        "prog": 31,
         "prov": true
       },
       "correspondence": {
@@ -38,10 +38,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 13,
-        "rating": 2162,
-        "rd": 154,
-        "prog": 96,
+        "games": 15,
+        "rating": 2299,
+        "rd": 132,
+        "prog": 233,
         "prov": true
       }
     },
@@ -52,22 +52,22 @@
       "bio": "about me \r\nI am a Bot\r\nI accept any variant\r\nMy creator is @aravb2022",
       "fideRating": 3000
     },
-    "seenAt": 1651646726741,
+    "seenAt": 1651685850637,
     "playTime": {
-      "total": 17817,
-      "tv": 148
+      "total": 20726,
+      "tv": 1023
     },
     "url": "https://lichess.org/@/bestbotever",
     "count": {
-      "all": 55,
-      "rated": 32,
+      "all": 63,
+      "rated": 40,
       "ai": 4,
       "draw": 1,
       "drawH": 1,
-      "loss": 34,
-      "lossH": 31,
-      "win": 20,
-      "winH": 19,
+      "loss": 37,
+      "lossH": 34,
+      "win": 25,
+      "winH": 24,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
