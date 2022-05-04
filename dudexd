@@ -4,7 +4,7 @@
   "username": "dudeXD",
   "profileUrl": "https://lichess.org/@/dudeXD",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dudexd\",\"username\":\"dudeXD\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644669869732,\"online\":true,\"seenAt\":1651680086705,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/dudeXD\",\"count\":{\"all\":1,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dudexd\",\"username\":\"dudeXD\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644669869732,\"online\":true,\"seenAt\":1651683141286,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/dudeXD\",\"playing\":\"https://lichess.org/CacSe3XR/black\",\"count\":{\"all\":1,\"rated\":0,\"ai\":1,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dudexd",
     "username": "dudeXD",
@@ -48,12 +48,13 @@
     "title": "BOT",
     "createdAt": 1644669869732,
     "online": true,
-    "seenAt": 1651680086705,
+    "seenAt": 1651683141286,
     "playTime": {
       "total": 0,
       "tv": 0
     },
     "url": "https://lichess.org/@/dudeXD",
+    "playing": "https://lichess.org/CacSe3XR/black",
     "count": {
       "all": 1,
       "rated": 0,
@@ -65,7 +66,7 @@
       "win": 0,
       "winH": 0,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
