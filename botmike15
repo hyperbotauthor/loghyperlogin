@@ -4,23 +4,30 @@
   "username": "botmike15",
   "profileUrl": "https://lichess.org/@/botmike15",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botmike15\",\"username\":\"botmike15\",\"perfs\":{\"blitz\":{\"games\":24,\"rating\":2240,\"rd\":126,\"prog\":157,\"prov\":true},\"bullet\":{\"games\":201,\"rating\":2184,\"rd\":50,\"prog\":17},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2132,\"rd\":323,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650915488762,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":2000},\"seenAt\":1651664874019,\"playTime\":{\"total\":21380,\"tv\":627},\"url\":\"https://lichess.org/@/botmike15\",\"playing\":\"https://lichess.org/rzVGNCK6/black\",\"count\":{\"all\":298,\"rated\":226,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":27,\"lossH\":27,\"win\":265,\"winH\":265,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botmike15\",\"username\":\"botmike15\",\"perfs\":{\"blitz\":{\"games\":25,\"rating\":2196,\"rd\":118,\"prog\":90,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2444,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":214,\"rating\":2190,\"rd\":48,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2372,\"rd\":246,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650915488762,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"fideRating\":2000},\"seenAt\":1651751014884,\"playTime\":{\"total\":27983,\"tv\":627},\"url\":\"https://lichess.org/@/botmike15\",\"count\":{\"all\":345,\"rated\":244,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":44,\"lossH\":44,\"win\":295,\"winH\":295,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botmike15",
     "username": "botmike15",
     "perfs": {
       "blitz": {
-        "games": 24,
-        "rating": 2240,
-        "rd": 126,
-        "prog": 157,
+        "games": 25,
+        "rating": 2196,
+        "rd": 118,
+        "prog": 90,
+        "prov": true
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 2444,
+        "rd": 241,
+        "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 201,
-        "rating": 2184,
-        "rd": 50,
-        "prog": 17
+        "games": 214,
+        "rating": 2190,
+        "rd": 48,
+        "prog": 0
       },
       "correspondence": {
         "games": 0,
@@ -37,9 +44,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 1,
-        "rating": 2132,
-        "rd": 323,
+        "games": 2,
+        "rating": 2372,
+        "rd": 246,
         "prog": 0,
         "prov": true
       }
@@ -51,25 +58,24 @@
       "country": "_lichess",
       "fideRating": 2000
     },
-    "seenAt": 1651664874019,
+    "seenAt": 1651751014884,
     "playTime": {
-      "total": 21380,
+      "total": 27983,
       "tv": 627
     },
     "url": "https://lichess.org/@/botmike15",
-    "playing": "https://lichess.org/rzVGNCK6/black",
     "count": {
-      "all": 298,
-      "rated": 226,
+      "all": 345,
+      "rated": 244,
       "ai": 0,
       "draw": 6,
       "drawH": 6,
-      "loss": 27,
-      "lossH": 27,
-      "win": 265,
-      "winH": 265,
+      "loss": 44,
+      "lossH": 44,
+      "win": 295,
+      "winH": 295,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
