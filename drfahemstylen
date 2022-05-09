@@ -4,7 +4,7 @@
   "username": "DrFahemStylen",
   "profileUrl": "https://lichess.org/@/DrFahemStylen",
   "provider": "lichess",
-  "_raw": "{\"id\":\"drfahemstylen\",\"username\":\"DrFahemStylen\",\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1486,\"rd\":481,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1826,\"rd\":141,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1269,\"rd\":380,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1492,\"rd\":489,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1318,\"rd\":168,\"prog\":-5,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2279,\"rd\":208,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650060832492,\"online\":true,\"seenAt\":1650384889427,\"playTime\":{\"total\":14233,\"tv\":77},\"url\":\"https://lichess.org/@/DrFahemStylen\",\"playing\":\"https://lichess.org/2AEq2QX4/black\",\"count\":{\"all\":45,\"rated\":37,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":40,\"lossH\":40,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"drfahemstylen\",\"username\":\"DrFahemStylen\",\"perfs\":{\"atomic\":{\"games\":2,\"rating\":1486,\"rd\":482,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":11,\"rating\":1826,\"rd\":145,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1269,\"rd\":381,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1492,\"rd\":490,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":13,\"rating\":1318,\"rd\":171,\"prog\":-5,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":8,\"rating\":2279,\"rd\":211,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650060832492,\"online\":true,\"seenAt\":1652108647157,\"playTime\":{\"total\":14306,\"tv\":77},\"url\":\"https://lichess.org/@/DrFahemStylen\",\"count\":{\"all\":46,\"rated\":37,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":40,\"lossH\":40,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "drfahemstylen",
     "username": "DrFahemStylen",
@@ -12,35 +12,35 @@
       "atomic": {
         "games": 2,
         "rating": 1486,
-        "rd": 481,
+        "rd": 482,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 11,
         "rating": 1826,
-        "rd": 141,
+        "rd": 145,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 1269,
-        "rd": 380,
+        "rd": 381,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 2,
         "rating": 1492,
-        "rd": 489,
+        "rd": 490,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 13,
         "rating": 1318,
-        "rd": 168,
+        "rd": 171,
         "prog": -5,
         "prov": true
       },
@@ -61,7 +61,7 @@
       "rapid": {
         "games": 8,
         "rating": 2279,
-        "rd": 208,
+        "rd": 211,
         "prog": 0,
         "prov": true
       }
@@ -69,25 +69,24 @@
     "title": "BOT",
     "createdAt": 1650060832492,
     "online": true,
-    "seenAt": 1650384889427,
+    "seenAt": 1652108647157,
     "playTime": {
-      "total": 14233,
+      "total": 14306,
       "tv": 77
     },
     "url": "https://lichess.org/@/DrFahemStylen",
-    "playing": "https://lichess.org/2AEq2QX4/black",
     "count": {
-      "all": 45,
+      "all": 46,
       "rated": 37,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
       "loss": 40,
       "lossH": 40,
-      "win": 4,
-      "winH": 4,
+      "win": 5,
+      "winH": 5,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
