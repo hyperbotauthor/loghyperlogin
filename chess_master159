@@ -1,0 +1,85 @@
+{
+  "id": "chess_master159",
+  "displayName": "CHESS_MASTER159",
+  "username": "CHESS_MASTER159",
+  "profileUrl": "https://lichess.org/@/CHESS_MASTER159",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chess_master159\",\"username\":\"CHESS_MASTER159\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1258,\"rd\":416,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1625862358989,\"online\":true,\"profile\":{\"country\":\"PL\",\"location\":\"POLSKA\",\"bio\":\"Good in the bulet,blitz my owner is JANEK6 And Adam7\\r\\nhttps://imgur.com/2HhZd2d\",\"firstName\":\"BOT JANEK6,\",\"lastName\":\"Adam7\"},\"seenAt\":1652123248401,\"playTime\":{\"total\":8761,\"tv\":0},\"url\":\"https://lichess.org/@/CHESS_MASTER159\",\"count\":{\"all\":34,\"rated\":1,\"ai\":28,\"draw\":3,\"drawH\":1,\"loss\":10,\"lossH\":1,\"win\":21,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chess_master159",
+    "username": "CHESS_MASTER159",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1258,
+        "rd": 416,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1625862358989,
+    "online": true,
+    "profile": {
+      "country": "PL",
+      "location": "POLSKA",
+      "bio": "Good in the bulet,blitz my owner is JANEK6 And Adam7\r\nhttps://imgur.com/2HhZd2d",
+      "firstName": "BOT JANEK6,",
+      "lastName": "Adam7"
+    },
+    "seenAt": 1652123248401,
+    "playTime": {
+      "total": 8761,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/CHESS_MASTER159",
+    "count": {
+      "all": 34,
+      "rated": 1,
+      "ai": 28,
+      "draw": 3,
+      "drawH": 1,
+      "loss": 10,
+      "lossH": 1,
+      "win": 21,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
