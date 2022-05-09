@@ -1,0 +1,133 @@
+{
+  "id": "dmalaga",
+  "displayName": "DMalaga",
+  "username": "DMalaga",
+  "profileUrl": "https://lichess.org/@/DMalaga",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"dmalaga\",\"username\":\"DMalaga\",\"perfs\":{\"chess960\":{\"games\":10,\"rating\":1031,\"rd\":183,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":800,\"rd\":427,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":749,\"rating\":1516,\"rd\":126,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":74,\"rating\":1368,\"rd\":132,\"prog\":85,\"prov\":true},\"racer\":{\"runs\":99,\"score\":18},\"ultraBullet\":{\"games\":2,\"rating\":1036,\"rd\":286,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":106,\"rating\":742,\"rd\":128,\"prog\":51,\"prov\":true},\"kingOfTheHill\":{\"games\":24,\"rating\":1435,\"rd\":142,\"prog\":-102,\"prov\":true},\"streak\":{\"runs\":42,\"score\":11},\"storm\":{\"runs\":17,\"score\":10},\"bullet\":{\"games\":1268,\"rating\":823,\"rd\":104,\"prog\":65},\"correspondence\":{\"games\":1,\"rating\":1387,\"rd\":381,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1621511336894,\"online\":true,\"profile\":{\"country\":\"ES\"},\"seenAt\":1652134671872,\"playTime\":{\"total\":264556,\"tv\":232},\"url\":\"https://lichess.org/@/DMalaga\",\"count\":{\"all\":1734,\"rated\":1486,\"ai\":183,\"draw\":17,\"drawH\":17,\"loss\":1053,\"lossH\":870,\"win\":664,\"winH\":664,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "dmalaga",
+    "username": "DMalaga",
+    "perfs": {
+      "chess960": {
+        "games": 10,
+        "rating": 1031,
+        "rd": 183,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 800,
+        "rd": 427,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 749,
+        "rating": 1516,
+        "rd": 126,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 74,
+        "rating": 1368,
+        "rd": 132,
+        "prog": 85,
+        "prov": true
+      },
+      "racer": {
+        "runs": 99,
+        "score": 18
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1036,
+        "rd": 286,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 106,
+        "rating": 742,
+        "rd": 128,
+        "prog": 51,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 24,
+        "rating": 1435,
+        "rd": 142,
+        "prog": -102,
+        "prov": true
+      },
+      "streak": {
+        "runs": 42,
+        "score": 11
+      },
+      "storm": {
+        "runs": 17,
+        "score": 10
+      },
+      "bullet": {
+        "games": 1268,
+        "rating": 823,
+        "rd": 104,
+        "prog": 65
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 1387,
+        "rd": 381,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1621511336894,
+    "online": true,
+    "profile": {
+      "country": "ES"
+    },
+    "seenAt": 1652134671872,
+    "playTime": {
+      "total": 264556,
+      "tv": 232
+    },
+    "url": "https://lichess.org/@/DMalaga",
+    "count": {
+      "all": 1734,
+      "rated": 1486,
+      "ai": 183,
+      "draw": 17,
+      "drawH": 17,
+      "loss": 1053,
+      "lossH": 870,
+      "win": 664,
+      "winH": 664,
+      "bookmark": 1,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
