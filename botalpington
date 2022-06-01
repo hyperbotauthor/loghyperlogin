@@ -4,7 +4,7 @@
   "username": "BotAlpington",
   "profileUrl": "https://lichess.org/@/BotAlpington",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botalpington\",\"username\":\"BotAlpington\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1860,\"rd\":320,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1458,\"rd\":441,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1463,\"rd\":448,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2453,\"rd\":243,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":2120,\"rd\":378,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2200,\"rd\":422,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1392,\"rd\":366,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":2132,\"rd\":83,\"prog\":15},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2392,\"rd\":261,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644659122836,\"online\":true,\"profile\":{\"country\":\"_earth\",\"location\":\"Earth\",\"bio\":\"Created by:\\r\\n@alpsecil\\r\\n@secilalp\\r\\n@thefakesiralpington\\r\\n@Alp1358\\r\\n@ChessladderATK\\r\\n@BotSirAlpington\",\"firstName\":\"Sir\",\"lastName\":\"Alpington\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1644929595432,\"playTime\":{\"total\":3878,\"tv\":0},\"url\":\"https://lichess.org/@/BotAlpington\",\"count\":{\"all\":33,\"rated\":32,\"ai\":1,\"draw\":1,\"drawH\":1,\"loss\":9,\"lossH\":9,\"win\":23,\"winH\":22,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botalpington\",\"username\":\"BotAlpington\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1860,\"rd\":329,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":1,\"rating\":1458,\"rd\":448,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1463,\"rd\":454,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":2453,\"rd\":255,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":1,\"rating\":2120,\"rd\":386,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2200,\"rd\":428,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1392,\"rd\":373,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":24,\"rating\":2123,\"rd\":108,\"prog\":-20},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":2488,\"rd\":224,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1644659122836,\"online\":true,\"profile\":{\"country\":\"_earth\",\"location\":\"Earth\",\"bio\":\"Created by:\\r\\n@alpsecil\\r\\n@secilalp\\r\\n@thefakesiralpington\\r\\n@Alp1358\\r\\n@ChessladderATK\\r\\n@BotSirAlpington\",\"firstName\":\"Sir\",\"lastName\":\"Alpington\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1654109235797,\"playTime\":{\"total\":5758,\"tv\":0},\"url\":\"https://lichess.org/@/BotAlpington\",\"count\":{\"all\":37,\"rated\":36,\"ai\":1,\"draw\":2,\"drawH\":2,\"loss\":11,\"lossH\":11,\"win\":24,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botalpington",
     "username": "BotAlpington",
@@ -12,57 +12,57 @@
       "chess960": {
         "games": 1,
         "rating": 1860,
-        "rd": 320,
+        "rd": 329,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 1,
         "rating": 1458,
-        "rd": 441,
+        "rd": 448,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 1,
         "rating": 1463,
-        "rd": 448,
+        "rd": 454,
         "prog": 0,
         "prov": true
       },
       "blitz": {
         "games": 3,
         "rating": 2453,
-        "rd": 243,
+        "rd": 255,
         "prog": 0,
         "prov": true
       },
       "kingOfTheHill": {
         "games": 1,
         "rating": 2120,
-        "rd": 378,
+        "rd": 386,
         "prog": 0,
         "prov": true
       },
       "crazyhouse": {
         "games": 1,
         "rating": 2200,
-        "rd": 422,
+        "rd": 428,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 1,
         "rating": 1392,
-        "rd": 366,
+        "rd": 373,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 21,
-        "rating": 2132,
-        "rd": 83,
-        "prog": 15
+        "games": 24,
+        "rating": 2123,
+        "rd": 108,
+        "prog": -20
       },
       "correspondence": {
         "games": 0,
@@ -79,9 +79,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 2,
-        "rating": 2392,
-        "rd": 261,
+        "games": 3,
+        "rating": 2488,
+        "rd": 224,
         "prog": 0,
         "prov": true
       }
@@ -102,22 +102,22 @@
       "cfcRating": 3000,
       "dsbRating": 3000
     },
-    "seenAt": 1644929595432,
+    "seenAt": 1654109235797,
     "playTime": {
-      "total": 3878,
+      "total": 5758,
       "tv": 0
     },
     "url": "https://lichess.org/@/BotAlpington",
     "count": {
-      "all": 33,
-      "rated": 32,
+      "all": 37,
+      "rated": 36,
       "ai": 1,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 9,
-      "lossH": 9,
-      "win": 23,
-      "winH": 22,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 11,
+      "lossH": 11,
+      "win": 24,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
