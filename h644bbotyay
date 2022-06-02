@@ -4,7 +4,7 @@
   "username": "h644bbotyay",
   "profileUrl": "https://lichess.org/@/h644bbotyay",
   "provider": "lichess",
-  "_raw": "{\"id\":\"h644bbotyay\",\"username\":\"h644bbotyay\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1758,\"rd\":398,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":398,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2217,\"rd\":362,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1733,\"rd\":260,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2045,\"rd\":450,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2112,\"rd\":421,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1647632070803,\"online\":true,\"seenAt\":1650369667781,\"playTime\":{\"total\":3015,\"tv\":0},\"url\":\"https://lichess.org/@/h644bbotyay\",\"playing\":\"https://lichess.org/oYfaKwc3/white\",\"count\":{\"all\":67,\"rated\":22,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":22,\"lossH\":22,\"win\":40,\"winH\":40,\"bookmark\":0,\"playing\":4,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"h644bbotyay\",\"username\":\"h644bbotyay\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1758,\"rd\":401,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1741,\"rd\":401,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2217,\"rd\":365,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":7,\"rating\":1733,\"rd\":265,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2045,\"rd\":452,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":2112,\"rd\":424,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1647632070803,\"online\":true,\"seenAt\":1654199159443,\"playTime\":{\"total\":3015,\"tv\":0},\"url\":\"https://lichess.org/@/h644bbotyay\",\"count\":{\"all\":72,\"rated\":22,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":23,\"lossH\":23,\"win\":44,\"winH\":44,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "h644bbotyay",
     "username": "h644bbotyay",
@@ -12,42 +12,42 @@
       "blitz": {
         "games": 1,
         "rating": 1758,
-        "rd": 398,
+        "rd": 401,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1741,
-        "rd": 398,
+        "rd": 401,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 7,
         "rating": 2217,
-        "rd": 362,
+        "rd": 365,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 7,
         "rating": 1733,
-        "rd": 260,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 1,
         "rating": 2045,
-        "rd": 450,
+        "rd": 452,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 4,
         "rating": 2112,
-        "rd": 421,
+        "rd": 424,
         "prog": 0,
         "prov": true
       }
@@ -55,25 +55,24 @@
     "title": "BOT",
     "createdAt": 1647632070803,
     "online": true,
-    "seenAt": 1650369667781,
+    "seenAt": 1654199159443,
     "playTime": {
       "total": 3015,
       "tv": 0
     },
     "url": "https://lichess.org/@/h644bbotyay",
-    "playing": "https://lichess.org/oYfaKwc3/white",
     "count": {
-      "all": 67,
+      "all": 72,
       "rated": 22,
       "ai": 0,
       "draw": 5,
       "drawH": 5,
-      "loss": 22,
-      "lossH": 22,
-      "win": 40,
-      "winH": 40,
+      "loss": 23,
+      "lossH": 23,
+      "win": 44,
+      "winH": 44,
       "bookmark": 0,
-      "playing": 4,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
