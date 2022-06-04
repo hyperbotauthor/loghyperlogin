@@ -4,22 +4,22 @@
   "username": "botmike165",
   "profileUrl": "https://lichess.org/@/botmike165",
   "provider": "lichess",
-  "_raw": "{\"id\":\"botmike165\",\"username\":\"botmike165\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2329,\"rd\":239,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1654074519365,\"online\":true,\"seenAt\":1654171837400,\"playTime\":{\"total\":697,\"tv\":0},\"url\":\"https://lichess.org/@/botmike165\",\"playing\":\"https://lichess.org/mb93f5U9/black\",\"count\":{\"all\":10,\"rated\":2,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"botmike165\",\"username\":\"botmike165\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2413,\"rd\":312,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":4,\"rating\":2184,\"rd\":177,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2195,\"rd\":277,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1654074519365,\"online\":true,\"seenAt\":1654371595076,\"playTime\":{\"total\":4784,\"tv\":0},\"url\":\"https://lichess.org/@/botmike165\",\"playing\":\"https://lichess.org/1aonihkF/black\",\"count\":{\"all\":67,\"rated\":7,\"ai\":0,\"draw\":10,\"drawH\":10,\"loss\":30,\"lossH\":30,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "botmike165",
     "username": "botmike165",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2413,
+        "rd": 312,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 2329,
-        "rd": 239,
+        "games": 4,
+        "rating": 2184,
+        "rd": 177,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2195,
+        "rd": 277,
         "prog": 0,
         "prov": true
       }
@@ -48,23 +48,23 @@
     "title": "BOT",
     "createdAt": 1654074519365,
     "online": true,
-    "seenAt": 1654171837400,
+    "seenAt": 1654371595076,
     "playTime": {
-      "total": 697,
+      "total": 4784,
       "tv": 0
     },
     "url": "https://lichess.org/@/botmike165",
-    "playing": "https://lichess.org/mb93f5U9/black",
+    "playing": "https://lichess.org/1aonihkF/black",
     "count": {
-      "all": 10,
-      "rated": 2,
+      "all": 67,
+      "rated": 7,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 3,
-      "lossH": 3,
-      "win": 6,
-      "winH": 6,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 30,
+      "lossH": 30,
+      "win": 27,
+      "winH": 27,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
