@@ -1,0 +1,104 @@
+{
+  "id": "pet_simulatorx",
+  "displayName": "Pet_SimulatorX",
+  "username": "Pet_SimulatorX",
+  "profileUrl": "https://lichess.org/@/Pet_SimulatorX",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"pet_simulatorx\",\"username\":\"Pet_SimulatorX\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1427,\"rd\":146,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":1,\"score\":6},\"antichess\":{\"games\":8,\"rating\":1350,\"rd\":157,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":12,\"rating\":1383,\"rd\":131,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":6,\"score\":39},\"ultraBullet\":{\"games\":259,\"rating\":1624,\"rd\":45,\"prog\":-28},\"bullet\":{\"games\":80,\"rating\":1828,\"rd\":46,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":1587,\"rd\":117,\"prog\":-38,\"prov\":true}},\"createdAt\":1645609799095,\"online\":true,\"seenAt\":1654431406177,\"playTime\":{\"total\":28186,\"tv\":400},\"url\":\"https://lichess.org/@/Pet_SimulatorX\",\"count\":{\"all\":386,\"rated\":378,\"ai\":7,\"draw\":11,\"drawH\":11,\"loss\":189,\"lossH\":183,\"win\":186,\"winH\":185,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "pet_simulatorx",
+    "username": "Pet_SimulatorX",
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 1427,
+        "rd": 146,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 1,
+        "score": 6
+      },
+      "antichess": {
+        "games": 8,
+        "rating": 1350,
+        "rd": 157,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 12,
+        "rating": 1383,
+        "rd": 131,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 6,
+        "score": 39
+      },
+      "ultraBullet": {
+        "games": 259,
+        "rating": 1624,
+        "rd": 45,
+        "prog": -28
+      },
+      "bullet": {
+        "games": 80,
+        "rating": 1828,
+        "rd": 46,
+        "prog": -13
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 18,
+        "rating": 1587,
+        "rd": 117,
+        "prog": -38,
+        "prov": true
+      }
+    },
+    "createdAt": 1645609799095,
+    "online": true,
+    "seenAt": 1654431406177,
+    "playTime": {
+      "total": 28186,
+      "tv": 400
+    },
+    "url": "https://lichess.org/@/Pet_SimulatorX",
+    "count": {
+      "all": 386,
+      "rated": 378,
+      "ai": 7,
+      "draw": 11,
+      "drawH": 11,
+      "loss": 189,
+      "lossH": 183,
+      "win": 186,
+      "winH": 185,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
