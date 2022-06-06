@@ -4,7 +4,7 @@
   "username": "HyperPhoenix21",
   "profileUrl": "https://lichess.org/@/HyperPhoenix21",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperphoenix21\",\"username\":\"HyperPhoenix21\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":1440,\"rd\":144,\"prog\":154,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1495,\"rd\":332,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1712,\"rd\":193,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1653999554816,\"online\":true,\"seenAt\":1654429430864,\"playTime\":{\"total\":8568,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix21\",\"playing\":\"https://lichess.org/KbGgVUiI/white\",\"count\":{\"all\":25,\"rated\":20,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":8,\"lossH\":8,\"win\":17,\"winH\":17,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperphoenix21\",\"username\":\"HyperPhoenix21\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":1440,\"rd\":144,\"prog\":154,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":1881,\"rd\":210,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1668,\"rd\":215,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":1712,\"rd\":193,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1653999554816,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"New York, NY\",\"bio\":\"(<HYPERPHOENIX>=BOT/oath-=true_UPRGADE_STADUS=TRUE)\",\"firstName\":\"Hyper\",\"lastName\":\"Phoenix\",\"fideRating\":2324,\"uscfRating\":1963,\"ecfRating\":1485},\"seenAt\":1654476718261,\"playTime\":{\"total\":14000,\"tv\":0},\"url\":\"https://lichess.org/@/HyperPhoenix21\",\"playing\":\"https://lichess.org/ThRJCBDf/white\",\"count\":{\"all\":35,\"rated\":27,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":12,\"lossH\":12,\"win\":23,\"winH\":23,\"bookmark\":1,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperphoenix21",
     "username": "HyperPhoenix21",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 5,
+        "rating": 1881,
+        "rd": 210,
         "prog": 0,
         "prov": true
       },
@@ -31,9 +31,9 @@
         "prov": true
       },
       "classical": {
-        "games": 1,
-        "rating": 1495,
-        "rd": 332,
+        "games": 3,
+        "rating": 1668,
+        "rd": 215,
         "prog": 0,
         "prov": true
       },
@@ -48,23 +48,33 @@
     "title": "BOT",
     "createdAt": 1653999554816,
     "online": true,
-    "seenAt": 1654429430864,
+    "profile": {
+      "country": "US",
+      "location": "New York, NY",
+      "bio": "(<HYPERPHOENIX>=BOT/oath-=true_UPRGADE_STADUS=TRUE)",
+      "firstName": "Hyper",
+      "lastName": "Phoenix",
+      "fideRating": 2324,
+      "uscfRating": 1963,
+      "ecfRating": 1485
+    },
+    "seenAt": 1654476718261,
     "playTime": {
-      "total": 8568,
+      "total": 14000,
       "tv": 0
     },
     "url": "https://lichess.org/@/HyperPhoenix21",
-    "playing": "https://lichess.org/KbGgVUiI/white",
+    "playing": "https://lichess.org/ThRJCBDf/white",
     "count": {
-      "all": 25,
-      "rated": 20,
+      "all": 35,
+      "rated": 27,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 8,
-      "lossH": 8,
-      "win": 17,
-      "winH": 17,
+      "loss": 12,
+      "lossH": 12,
+      "win": 23,
+      "winH": 23,
       "bookmark": 1,
       "playing": 2,
       "import": 0,
