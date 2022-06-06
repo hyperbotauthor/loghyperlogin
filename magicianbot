@@ -1,0 +1,78 @@
+{
+  "id": "magicianbot",
+  "displayName": "MAGICIANBOT",
+  "username": "MAGICIANBOT",
+  "profileUrl": "https://lichess.org/@/MAGICIANBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"magicianbot\",\"username\":\"MAGICIANBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1974,\"rd\":462,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2668,\"rd\":364,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1654486548499,\"online\":true,\"seenAt\":1654487363789,\"playTime\":{\"total\":652,\"tv\":0},\"url\":\"https://lichess.org/@/MAGICIANBOT\",\"count\":{\"all\":2,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "magicianbot",
+    "username": "MAGICIANBOT",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1974,
+        "rd": 462,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 2668,
+        "rd": 364,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1654486548499,
+    "online": true,
+    "seenAt": 1654487363789,
+    "playTime": {
+      "total": 652,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/MAGICIANBOT",
+    "count": {
+      "all": 2,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
