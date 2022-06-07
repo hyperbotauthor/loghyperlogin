@@ -4,7 +4,7 @@
   "username": "KomodoFish12",
   "profileUrl": "https://lichess.org/@/KomodoFish12",
   "provider": "lichess",
-  "_raw": "{\"id\":\"komodofish12\",\"username\":\"KomodoFish12\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2394,\"rd\":96,\"prog\":-9}},\"title\":\"BOT\",\"createdAt\":1649207485426,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"I am Komodofish. Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess made by @NikaJurisNicolas\",\"firstName\":\"Komodo\",\"lastName\":\"Fish\",\"links\":\"https://lichess1.org/assets/_UC2jAu/images/icons/bot.png\"},\"seenAt\":1652001110901,\"playTime\":{\"total\":18021,\"tv\":5992},\"url\":\"https://lichess.org/@/KomodoFish12\",\"count\":{\"all\":30,\"rated\":20,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":8,\"lossH\":8,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"komodofish12\",\"username\":\"KomodoFish12\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1228,\"rd\":374,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":20,\"rating\":2394,\"rd\":104,\"prog\":-9}},\"title\":\"BOT\",\"createdAt\":1649207485426,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Lichess.org\",\"bio\":\"I am Komodofish. Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess.\",\"firstName\":\"Komodo\",\"lastName\":\"Fish\",\"links\":\"https://lichess1.org/assets/_UC2jAu/images/icons/bot.png\"},\"seenAt\":1654578440252,\"playTime\":{\"total\":18223,\"tv\":5992},\"url\":\"https://lichess.org/@/KomodoFish12\",\"count\":{\"all\":33,\"rated\":23,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":11,\"lossH\":11,\"win\":18,\"winH\":18,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "komodofish12",
     "username": "KomodoFish12",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 1228,
+        "rd": 374,
         "prog": 0,
         "prov": true
       },
@@ -40,7 +40,7 @@
       "rapid": {
         "games": 20,
         "rating": 2394,
-        "rd": 96,
+        "rd": 104,
         "prog": -9
       }
     },
@@ -50,25 +50,25 @@
     "profile": {
       "country": "_lichess",
       "location": "Lichess.org",
-      "bio": "I am Komodofish. Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess made by @NikaJurisNicolas",
+      "bio": "I am Komodofish. Komodofish is like an example of half komodo and half stockfish komodo fish is a training system of a bot named stock_the_fish but is a remake and is trying to develop a human style of playing chess.",
       "firstName": "Komodo",
       "lastName": "Fish",
       "links": "https://lichess1.org/assets/_UC2jAu/images/icons/bot.png"
     },
-    "seenAt": 1652001110901,
+    "seenAt": 1654578440252,
     "playTime": {
-      "total": 18021,
+      "total": 18223,
       "tv": 5992
     },
     "url": "https://lichess.org/@/KomodoFish12",
     "count": {
-      "all": 30,
-      "rated": 20,
+      "all": 33,
+      "rated": 23,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 8,
-      "lossH": 8,
+      "loss": 11,
+      "lossH": 11,
       "win": 18,
       "winH": 18,
       "bookmark": 0,
