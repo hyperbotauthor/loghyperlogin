@@ -1,0 +1,92 @@
+{
+  "id": "ert-gui",
+  "displayName": "Ert-GUI",
+  "username": "Ert-GUI",
+  "profileUrl": "https://lichess.org/@/Ert-GUI",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"ert-gui\",\"username\":\"Ert-GUI\",\"perfs\":{\"puzzle\":{\"games\":23,\"rating\":1497,\"rd\":89,\"prog\":0},\"blitz\":{\"games\":1,\"rating\":1291,\"rd\":293,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":982,\"rd\":338,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1213,\"rd\":295,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1743,\"rd\":399,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"tosViolation\":true,\"createdAt\":1650461930769,\"online\":true,\"seenAt\":1654712077461,\"playTime\":{\"total\":2334,\"tv\":0},\"url\":\"https://lichess.org/@/Ert-GUI\",\"playing\":\"https://lichess.org/ZJrzfkqZ/black\",\"count\":{\"all\":22,\"rated\":12,\"ai\":7,\"draw\":1,\"drawH\":1,\"loss\":12,\"lossH\":10,\"win\":9,\"winH\":4,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "ert-gui",
+    "username": "Ert-GUI",
+    "perfs": {
+      "puzzle": {
+        "games": 23,
+        "rating": 1497,
+        "rd": 89,
+        "prog": 0
+      },
+      "blitz": {
+        "games": 1,
+        "rating": 1291,
+        "rd": 293,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 982,
+        "rd": 338,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 1,
+        "rating": 1213,
+        "rd": 295,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1743,
+        "rd": 399,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "tosViolation": true,
+    "createdAt": 1650461930769,
+    "online": true,
+    "seenAt": 1654712077461,
+    "playTime": {
+      "total": 2334,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Ert-GUI",
+    "playing": "https://lichess.org/ZJrzfkqZ/black",
+    "count": {
+      "all": 22,
+      "rated": 12,
+      "ai": 7,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 12,
+      "lossH": 10,
+      "win": 9,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
