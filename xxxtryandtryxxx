@@ -4,7 +4,7 @@
   "username": "XXXTryandTryXXX",
   "profileUrl": "https://lichess.org/@/XXXTryandTryXXX",
   "provider": "lichess",
-  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1569,\"rd\":408,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1617,\"rd\":350,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1774,\"rd\":244,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":861,\"rd\":361,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1674,\"rd\":315,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":2,\"rating\":1083,\"rd\":265,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1747,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":1719,\"rd\":162,\"prog\":-179,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1727,\"rd\":254,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1925,\"rd\":262,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1616776722996,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nNever makes a Mistake.\\r\\nPlease Challenge Me!\"},\"seenAt\":1654621219870,\"playTime\":{\"total\":18272,\"tv\":0},\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"count\":{\"all\":140,\"rated\":52,\"ai\":15,\"draw\":7,\"drawH\":7,\"loss\":43,\"lossH\":38,\"win\":90,\"winH\":80,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1569,\"rd\":408,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1617,\"rd\":350,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1774,\"rd\":244,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1280,\"rd\":293,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1674,\"rd\":315,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1203,\"rd\":211,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1747,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1719,\"rd\":162,\"prog\":-171,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1727,\"rd\":254,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1925,\"rd\":263,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1616776722996,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nNever makes a Mistake.\\r\\nPlease Challenge Me!\"},\"seenAt\":1654696823581,\"playTime\":{\"total\":18632,\"tv\":0},\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"count\":{\"all\":145,\"rated\":56,\"ai\":15,\"draw\":7,\"drawH\":7,\"loss\":44,\"lossH\":39,\"win\":94,\"winH\":84,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "xxxtryandtryxxx",
     "username": "XXXTryandTryXXX",
@@ -31,9 +31,9 @@
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 861,
-        "rd": 361,
+        "games": 2,
+        "rating": 1280,
+        "rd": 293,
         "prog": 0,
         "prov": true
       },
@@ -45,9 +45,9 @@
         "prov": true
       },
       "blitz": {
-        "games": 2,
-        "rating": 1083,
-        "rd": 265,
+        "games": 3,
+        "rating": 1203,
+        "rd": 211,
         "prog": 0,
         "prov": true
       },
@@ -59,10 +59,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 30,
+        "games": 32,
         "rating": 1719,
         "rd": 162,
-        "prog": -179,
+        "prog": -171,
         "prov": true
       },
       "correspondence": {
@@ -82,7 +82,7 @@
       "rapid": {
         "games": 3,
         "rating": 1925,
-        "rd": 262,
+        "rd": 263,
         "prog": 0,
         "prov": true
       }
@@ -94,22 +94,22 @@
       "country": "_lichess",
       "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\r\n\r\nThis Bot runs on Hypereasy.\r\nNever makes a Mistake.\r\nPlease Challenge Me!"
     },
-    "seenAt": 1654621219870,
+    "seenAt": 1654696823581,
     "playTime": {
-      "total": 18272,
+      "total": 18632,
       "tv": 0
     },
     "url": "https://lichess.org/@/XXXTryandTryXXX",
     "count": {
-      "all": 140,
-      "rated": 52,
+      "all": 145,
+      "rated": 56,
       "ai": 15,
       "draw": 7,
       "drawH": 7,
-      "loss": 43,
-      "lossH": 38,
-      "win": 90,
-      "winH": 80,
+      "loss": 44,
+      "lossH": 39,
+      "win": 94,
+      "winH": 84,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
