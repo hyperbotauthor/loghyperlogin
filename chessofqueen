@@ -1,0 +1,85 @@
+{
+  "id": "chessofqueen",
+  "displayName": "CHESSOFQUEEN",
+  "username": "CHESSOFQUEEN",
+  "profileUrl": "https://lichess.org/@/CHESSOFQUEEN",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessofqueen\",\"username\":\"CHESSOFQUEEN\",\"perfs\":{\"blitz\":{\"games\":36,\"rating\":1630,\"rd\":96,\"prog\":-100},\"antichess\":{\"games\":1,\"rating\":1466,\"rd\":451,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":61,\"rating\":1898,\"rd\":62,\"prog\":54},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":4,\"rating\":1958,\"rd\":232,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":41,\"rating\":2246,\"rd\":85,\"prog\":98}},\"title\":\"BOT\",\"createdAt\":1650367950760,\"online\":true,\"profile\":{\"country\":\"IN\"},\"seenAt\":1654676444253,\"playTime\":{\"total\":26731,\"tv\":613},\"url\":\"https://lichess.org/@/CHESSOFQUEEN\",\"count\":{\"all\":147,\"rated\":147,\"ai\":0,\"draw\":15,\"drawH\":15,\"loss\":74,\"lossH\":74,\"win\":58,\"winH\":58,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessofqueen",
+    "username": "CHESSOFQUEEN",
+    "perfs": {
+      "blitz": {
+        "games": 36,
+        "rating": 1630,
+        "rd": 96,
+        "prog": -100
+      },
+      "antichess": {
+        "games": 1,
+        "rating": 1466,
+        "rd": 451,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 61,
+        "rating": 1898,
+        "rd": 62,
+        "prog": 54
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 4,
+        "rating": 1958,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 41,
+        "rating": 2246,
+        "rd": 85,
+        "prog": 98
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1650367950760,
+    "online": true,
+    "profile": {
+      "country": "IN"
+    },
+    "seenAt": 1654676444253,
+    "playTime": {
+      "total": 26731,
+      "tv": 613
+    },
+    "url": "https://lichess.org/@/CHESSOFQUEEN",
+    "count": {
+      "all": 147,
+      "rated": 147,
+      "ai": 0,
+      "draw": 15,
+      "drawH": 15,
+      "loss": 74,
+      "lossH": 74,
+      "win": 58,
+      "winH": 58,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
