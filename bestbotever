@@ -4,24 +4,22 @@
   "username": "bestbotever",
   "profileUrl": "https://lichess.org/@/bestbotever",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2161,\"rd\":121,\"prog\":-6,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1909,\"rd\":129,\"prog\":-172,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":18,\"rating\":2333,\"rd\":111,\"prog\":266,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":true,\"profile\":{\"bio\":\"My creator is @aravb2022\",\"fideRating\":2500},\"seenAt\":1651826120829,\"playTime\":{\"total\":24631,\"tv\":1102},\"url\":\"https://lichess.org/@/bestbotever\",\"count\":{\"all\":77,\"rated\":51,\"ai\":4,\"draw\":1,\"drawH\":1,\"loss\":48,\"lossH\":45,\"win\":28,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":21,\"rating\":2084,\"rd\":108,\"prog\":-83},\"bullet\":{\"games\":48,\"rating\":2003,\"rd\":93,\"prog\":97},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2270,\"rd\":282,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2379,\"rd\":108,\"prog\":211}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":true,\"profile\":{\"bio\":\"My creator is @aravb2022\\r\\nI am making the bot\\r\\nDo Not challenge me\",\"fideRating\":2500},\"seenAt\":1656672846369,\"playTime\":{\"total\":33415,\"tv\":1497},\"url\":\"https://lichess.org/@/bestbotever\",\"playing\":\"https://lichess.org/Hz8eiZ9F/black\",\"count\":{\"all\":123,\"rated\":97,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":76,\"lossH\":73,\"win\":44,\"winH\":43,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bestbotever",
     "username": "bestbotever",
     "perfs": {
       "blitz": {
-        "games": 13,
-        "rating": 2161,
-        "rd": 121,
-        "prog": -6,
-        "prov": true
+        "games": 21,
+        "rating": 2084,
+        "rd": 108,
+        "prog": -83
       },
       "bullet": {
-        "games": 18,
-        "rating": 1909,
-        "rd": 129,
-        "prog": -172,
-        "prov": true
+        "games": 48,
+        "rating": 2003,
+        "rd": 93,
+        "prog": 97
       },
       "correspondence": {
         "games": 0,
@@ -31,45 +29,45 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 2,
+        "rating": 2270,
+        "rd": 282,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 18,
-        "rating": 2333,
-        "rd": 111,
-        "prog": 266,
-        "prov": true
+        "games": 23,
+        "rating": 2379,
+        "rd": 108,
+        "prog": 211
       }
     },
     "title": "BOT",
     "createdAt": 1633953829608,
     "online": true,
     "profile": {
-      "bio": "My creator is @aravb2022",
+      "bio": "My creator is @aravb2022\r\nI am making the bot\r\nDo Not challenge me",
       "fideRating": 2500
     },
-    "seenAt": 1651826120829,
+    "seenAt": 1656672846369,
     "playTime": {
-      "total": 24631,
-      "tv": 1102
+      "total": 33415,
+      "tv": 1497
     },
     "url": "https://lichess.org/@/bestbotever",
+    "playing": "https://lichess.org/Hz8eiZ9F/black",
     "count": {
-      "all": 77,
-      "rated": 51,
+      "all": 123,
+      "rated": 97,
       "ai": 4,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 48,
-      "lossH": 45,
-      "win": 28,
-      "winH": 27,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 76,
+      "lossH": 73,
+      "win": 44,
+      "winH": 43,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
