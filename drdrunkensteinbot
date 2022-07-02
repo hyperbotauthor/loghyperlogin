@@ -1,0 +1,85 @@
+{
+  "id": "drdrunkensteinbot",
+  "displayName": "DrDrunkensteinBot",
+  "username": "DrDrunkensteinBot",
+  "profileUrl": "https://lichess.org/@/DrDrunkensteinBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"drdrunkensteinbot\",\"username\":\"DrDrunkensteinBot\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2264,\"rd\":288,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":132,\"rating\":2744,\"rd\":45,\"prog\":-13},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2381,\"rd\":397,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656672023137,\"online\":true,\"profile\":{\"country\":\"NO\",\"location\":\"Tønsberg\",\"bio\":\"Welcome you to the \\\"Magnus Carlsen\\\" bot.\\r\\nThis bot plays like Magnus Carlsen's style with some rarely blunders due to some reason\\r\\nAccepts standard + chess960 variant. (with any time control)\\r\\nNot really 24h (runs on HEROKU + PYTHON 3.10)\\r\\nGL !!!\",\"firstName\":\"Magnus\",\"lastName\":\"Carlsen\",\"fideRating\":2864},\"seenAt\":1656744267075,\"playTime\":{\"total\":22834,\"tv\":5309},\"url\":\"https://lichess.org/@/DrDrunkensteinBot\",\"count\":{\"all\":143,\"rated\":138,\"ai\":0,\"draw\":38,\"drawH\":38,\"loss\":13,\"lossH\":13,\"win\":92,\"winH\":92,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "drdrunkensteinbot",
+    "username": "DrDrunkensteinBot",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 2264,
+        "rd": 288,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 132,
+        "rating": 2744,
+        "rd": 45,
+        "prog": -13
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2381,
+        "rd": 397,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1656672023137,
+    "online": true,
+    "profile": {
+      "country": "NO",
+      "location": "Tønsberg",
+      "bio": "Welcome you to the \"Magnus Carlsen\" bot.\r\nThis bot plays like Magnus Carlsen's style with some rarely blunders due to some reason\r\nAccepts standard + chess960 variant. (with any time control)\r\nNot really 24h (runs on HEROKU + PYTHON 3.10)\r\nGL !!!",
+      "firstName": "Magnus",
+      "lastName": "Carlsen",
+      "fideRating": 2864
+    },
+    "seenAt": 1656744267075,
+    "playTime": {
+      "total": 22834,
+      "tv": 5309
+    },
+    "url": "https://lichess.org/@/DrDrunkensteinBot",
+    "count": {
+      "all": 143,
+      "rated": 138,
+      "ai": 0,
+      "draw": 38,
+      "drawH": 38,
+      "loss": 13,
+      "lossH": 13,
+      "win": 92,
+      "winH": 92,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
