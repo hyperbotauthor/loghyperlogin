@@ -1,0 +1,86 @@
+{
+  "id": "drgrekensteinbot",
+  "displayName": "DrGrekensteinBot",
+  "username": "DrGrekensteinBot",
+  "profileUrl": "https://lichess.org/@/DrGrekensteinBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"drgrekensteinbot\",\"username\":\"DrGrekensteinBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656747336572,\"online\":true,\"profile\":{\"country\":\"NO\",\"location\":\"Tønsberg\",\"bio\":\"Welcome you to the \\\"Magnus Carlsen\\\" bot.\\r\\nThis bot plays like Magnus Carlsen's style with some rarely blunders due to some reason.\\r\\nAlternative of @DrDrukensteinBot account\\r\\nAccepts all variants (with any time control)\\r\\nKinda 24h ( runs on Heroku)\\r\\nGood luck when challenging me (my strengh is not as good as my Drukenstein account, hehe)\",\"firstName\":\"Magnus\",\"lastName\":\"Carlsen\",\"fideRating\":2800},\"seenAt\":1656750706955,\"playTime\":{\"total\":59,\"tv\":0},\"url\":\"https://lichess.org/@/DrGrekensteinBot\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "drgrekensteinbot",
+    "username": "DrGrekensteinBot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1656747336572,
+    "online": true,
+    "profile": {
+      "country": "NO",
+      "location": "Tønsberg",
+      "bio": "Welcome you to the \"Magnus Carlsen\" bot.\r\nThis bot plays like Magnus Carlsen's style with some rarely blunders due to some reason.\r\nAlternative of @DrDrukensteinBot account\r\nAccepts all variants (with any time control)\r\nKinda 24h ( runs on Heroku)\r\nGood luck when challenging me (my strengh is not as good as my Drukenstein account, hehe)",
+      "firstName": "Magnus",
+      "lastName": "Carlsen",
+      "fideRating": 2800
+    },
+    "seenAt": 1656750706955,
+    "playTime": {
+      "total": 59,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/DrGrekensteinBot",
+    "count": {
+      "all": 1,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
