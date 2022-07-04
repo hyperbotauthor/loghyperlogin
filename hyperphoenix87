@@ -4,7 +4,7 @@
   "username": "HyperPhoenix87",
   "profileUrl": "https://lichess.org/@/HyperPhoenix87",
   "provider": "lichess",
-  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":78,\"rating\":1921,\"rd\":101,\"prog\":34},\"antichess\":{\"games\":2,\"rating\":1469,\"rd\":466,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":19,\"rating\":1250,\"rd\":108,\"prog\":0},\"bullet\":{\"games\":61,\"rating\":1987,\"rd\":105,\"prog\":-70},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":422,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2106,\"rd\":140,\"prog\":80,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Watford\",\"bio\":\"This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.\",\"firstName\":\"Hyper\",\"lastName\":\"SpeedX\"},\"seenAt\":1649415369341,\"playTime\":{\"total\":33972,\"tv\":1153},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":203,\"rated\":179,\"ai\":9,\"draw\":6,\"drawH\":6,\"loss\":59,\"lossH\":54,\"win\":138,\"winH\":134,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"hyperphoenix87\",\"username\":\"HyperPhoenix87\",\"perfs\":{\"blitz\":{\"games\":78,\"rating\":1921,\"rd\":122,\"prog\":34,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1469,\"rd\":470,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":19,\"rating\":1250,\"rd\":128,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":61,\"rating\":1987,\"rd\":124,\"prog\":-70,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":428,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2106,\"rd\":156,\"prog\":80,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1633271697454,\"online\":true,\"profile\":{\"country\":\"GB-ENG\",\"location\":\"Watford\",\"bio\":\"This is a bot made by @hyperkiller153. Support @hyperbullets11 and also his bot account @HyperBullets11_BOT. My favourite opening is the Hyper Accelerated Dragon.\",\"firstName\":\"Hyper\",\"lastName\":\"SpeedX\"},\"seenAt\":1656929737065,\"playTime\":{\"total\":33972,\"tv\":1153},\"url\":\"https://lichess.org/@/HyperPhoenix87\",\"count\":{\"all\":203,\"rated\":179,\"ai\":9,\"draw\":6,\"drawH\":6,\"loss\":59,\"lossH\":54,\"win\":138,\"winH\":134,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "hyperphoenix87",
     "username": "HyperPhoenix87",
@@ -12,27 +12,30 @@
       "blitz": {
         "games": 78,
         "rating": 1921,
-        "rd": 101,
-        "prog": 34
+        "rd": 122,
+        "prog": 34,
+        "prov": true
       },
       "antichess": {
         "games": 2,
         "rating": 1469,
-        "rd": 466,
+        "rd": 470,
         "prog": 0,
         "prov": true
       },
       "puzzle": {
         "games": 19,
         "rating": 1250,
-        "rd": 108,
-        "prog": 0
+        "rd": 128,
+        "prog": 0,
+        "prov": true
       },
       "bullet": {
         "games": 61,
         "rating": 1987,
-        "rd": 105,
-        "prog": -70
+        "rd": 124,
+        "prog": -70,
+        "prov": true
       },
       "correspondence": {
         "games": 0,
@@ -44,14 +47,14 @@
       "classical": {
         "games": 1,
         "rating": 1300,
-        "rd": 422,
+        "rd": 428,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 23,
         "rating": 2106,
-        "rd": 140,
+        "rd": 156,
         "prog": 80,
         "prov": true
       }
@@ -66,7 +69,7 @@
       "firstName": "Hyper",
       "lastName": "SpeedX"
     },
-    "seenAt": 1649415369341,
+    "seenAt": 1656929737065,
     "playTime": {
       "total": 33972,
       "tv": 1153
