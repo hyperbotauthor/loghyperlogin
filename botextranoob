@@ -1,0 +1,81 @@
+{
+  "id": "botextranoob",
+  "displayName": "BOTExtraNoob",
+  "username": "BOTExtraNoob",
+  "profileUrl": "https://lichess.org/@/BOTExtraNoob",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"botextranoob\",\"username\":\"BOTExtraNoob\",\"perfs\":{\"blitz\":{\"games\":11,\"rating\":1918,\"rd\":137,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":9,\"rating\":2134,\"rd\":200,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656659000345,\"online\":true,\"profile\":{\"bio\":\"Hi! there! I am a bot that runs on the EasyChess. I only play standard chess (any time control except correspondence). Challenge me! Message @LuhutMultiStandard if you have any questions or comments!\"},\"seenAt\":1656939283936,\"playTime\":{\"total\":2450,\"tv\":0},\"url\":\"https://lichess.org/@/BOTExtraNoob\",\"count\":{\"all\":20,\"rated\":20,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":2,\"lossH\":2,\"win\":17,\"winH\":17,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "botextranoob",
+    "username": "BOTExtraNoob",
+    "perfs": {
+      "blitz": {
+        "games": 11,
+        "rating": 1918,
+        "rd": 137,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 9,
+        "rating": 2134,
+        "rd": 200,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1656659000345,
+    "online": true,
+    "profile": {
+      "bio": "Hi! there! I am a bot that runs on the EasyChess. I only play standard chess (any time control except correspondence). Challenge me! Message @LuhutMultiStandard if you have any questions or comments!"
+    },
+    "seenAt": 1656939283936,
+    "playTime": {
+      "total": 2450,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/BOTExtraNoob",
+    "count": {
+      "all": 20,
+      "rated": 20,
+      "ai": 0,
+      "draw": 1,
+      "drawH": 1,
+      "loss": 2,
+      "lossH": 2,
+      "win": 17,
+      "winH": 17,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
