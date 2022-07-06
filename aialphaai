@@ -4,65 +4,66 @@
   "username": "AIAlphaAI",
   "profileUrl": "https://lichess.org/@/AIAlphaAI",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1656992802052,\"online\":true,\"seenAt\":1656996995989,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2219,\"rd\":122,\"prog\":-30,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2272,\"rd\":130,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656992802052,\"online\":true,\"seenAt\":1657069072116,\"playTime\":{\"total\":7036,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"count\":{\"all\":24,\"rated\":24,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":6,\"lossH\":6,\"win\":15,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aialphaai",
     "username": "AIAlphaAI",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
-        "prog": 0,
+        "games": 12,
+        "rating": 2219,
+        "rd": 122,
+        "prog": -30,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 10,
+        "rating": 2272,
+        "rd": 130,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1656992802052,
     "online": true,
-    "seenAt": 1656996995989,
+    "seenAt": 1657069072116,
     "playTime": {
-      "total": 0,
+      "total": 7036,
       "tv": 0
     },
     "url": "https://lichess.org/@/AIAlphaAI",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 24,
+      "rated": 24,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 6,
+      "lossH": 6,
+      "win": 15,
+      "winH": 15,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
