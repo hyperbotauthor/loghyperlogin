@@ -4,17 +4,16 @@
   "username": "AIAlphaAI",
   "profileUrl": "https://lichess.org/@/AIAlphaAI",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":13,\"rating\":2258,\"rd\":115,\"prog\":9,\"prov\":true},\"bullet\":{\"games\":16,\"rating\":2235,\"rd\":107,\"prog\":-44},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":295,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656992802052,\"online\":true,\"profile\":{\"country\":\"ID\"},\"seenAt\":1657092274644,\"playTime\":{\"total\":8769,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"playing\":\"https://lichess.org/EgONzhx7/black\",\"count\":{\"all\":32,\"rated\":32,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":8,\"lossH\":8,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2234,\"rd\":108,\"prog\":-15},\"bullet\":{\"games\":16,\"rating\":2235,\"rd\":107,\"prog\":-44},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":295,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656992802052,\"online\":true,\"profile\":{\"country\":\"ID\"},\"seenAt\":1657173779281,\"playTime\":{\"total\":9986,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"count\":{\"all\":34,\"rated\":34,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aialphaai",
     "username": "AIAlphaAI",
     "perfs": {
       "blitz": {
-        "games": 13,
-        "rating": 2258,
-        "rd": 115,
-        "prog": 9,
-        "prov": true
+        "games": 15,
+        "rating": 2234,
+        "rd": 108,
+        "prog": -15
       },
       "bullet": {
         "games": 16,
@@ -50,25 +49,24 @@
     "profile": {
       "country": "ID"
     },
-    "seenAt": 1657092274644,
+    "seenAt": 1657173779281,
     "playTime": {
-      "total": 8769,
+      "total": 9986,
       "tv": 0
     },
     "url": "https://lichess.org/@/AIAlphaAI",
-    "playing": "https://lichess.org/EgONzhx7/black",
     "count": {
-      "all": 32,
-      "rated": 32,
+      "all": 34,
+      "rated": 34,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 8,
-      "lossH": 8,
-      "win": 20,
-      "winH": 20,
+      "loss": 9,
+      "lossH": 9,
+      "win": 21,
+      "winH": 21,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
