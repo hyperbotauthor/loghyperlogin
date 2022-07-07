@@ -1,0 +1,78 @@
+{
+  "id": "emdicpaubot",
+  "displayName": "emdicpauBOT",
+  "username": "emdicpauBOT",
+  "profileUrl": "https://lichess.org/@/emdicpauBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"emdicpaubot\",\"username\":\"emdicpauBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657194734339,\"online\":true,\"seenAt\":1657197555705,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/emdicpauBOT\",\"count\":{\"all\":5,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "emdicpaubot",
+    "username": "emdicpauBOT",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1657194734339,
+    "online": true,
+    "seenAt": 1657197555705,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/emdicpauBOT",
+    "count": {
+      "all": 5,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
