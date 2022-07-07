@@ -4,15 +4,15 @@
   "username": "emdicpauBOT",
   "profileUrl": "https://lichess.org/@/emdicpauBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"emdicpaubot\",\"username\":\"emdicpauBOT\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":2138,\"rd\":173,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657194734339,\"online\":true,\"seenAt\":1657203355297,\"playTime\":{\"total\":3011,\"tv\":0},\"url\":\"https://lichess.org/@/emdicpauBOT\",\"playing\":\"https://lichess.org/MGXe3FRd/white\",\"count\":{\"all\":20,\"rated\":8,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":5,\"lossH\":5,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"emdicpaubot\",\"username\":\"emdicpauBOT\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2120,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657194734339,\"online\":true,\"seenAt\":1657232922609,\"playTime\":{\"total\":3782,\"tv\":0},\"url\":\"https://lichess.org/@/emdicpauBOT\",\"count\":{\"all\":22,\"rated\":10,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":7,\"lossH\":7,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "emdicpaubot",
     "username": "emdicpauBOT",
     "perfs": {
       "blitz": {
-        "games": 8,
-        "rating": 2138,
-        "rd": 173,
+        "games": 10,
+        "rating": 2120,
+        "rd": 165,
         "prog": 0,
         "prov": true
       },
@@ -48,25 +48,24 @@
     "title": "BOT",
     "createdAt": 1657194734339,
     "online": true,
-    "seenAt": 1657203355297,
+    "seenAt": 1657232922609,
     "playTime": {
-      "total": 3011,
+      "total": 3782,
       "tv": 0
     },
     "url": "https://lichess.org/@/emdicpauBOT",
-    "playing": "https://lichess.org/MGXe3FRd/white",
     "count": {
-      "all": 20,
-      "rated": 8,
+      "all": 22,
+      "rated": 10,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
-      "loss": 5,
-      "lossH": 5,
+      "loss": 7,
+      "lossH": 7,
       "win": 13,
       "winH": 13,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
