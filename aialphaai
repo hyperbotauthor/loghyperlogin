@@ -4,7 +4,7 @@
   "username": "AIAlphaAI",
   "profileUrl": "https://lichess.org/@/AIAlphaAI",
   "provider": "lichess",
-  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2234,\"rd\":108,\"prog\":-15},\"bullet\":{\"games\":16,\"rating\":2235,\"rd\":107,\"prog\":-44},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":295,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656992802052,\"online\":true,\"profile\":{\"country\":\"ID\"},\"seenAt\":1657173779281,\"playTime\":{\"total\":9986,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"count\":{\"all\":34,\"rated\":34,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":9,\"lossH\":9,\"win\":21,\"winH\":21,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"aialphaai\",\"username\":\"AIAlphaAI\",\"perfs\":{\"blitz\":{\"games\":15,\"rating\":2234,\"rd\":108,\"prog\":-15},\"antichess\":{\"games\":16,\"rating\":2589,\"rd\":154,\"prog\":36,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":392,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":2199,\"rd\":103,\"prog\":-80},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2256,\"rd\":295,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656992802052,\"online\":true,\"profile\":{\"country\":\"ID\"},\"seenAt\":1657254147653,\"playTime\":{\"total\":12774,\"tv\":0},\"url\":\"https://lichess.org/@/AIAlphaAI\",\"count\":{\"all\":52,\"rated\":52,\"ai\":0,\"draw\":4,\"drawH\":4,\"loss\":10,\"lossH\":10,\"win\":38,\"winH\":38,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "aialphaai",
     "username": "AIAlphaAI",
@@ -15,11 +15,25 @@
         "rd": 108,
         "prog": -15
       },
-      "bullet": {
+      "antichess": {
         "games": 16,
-        "rating": 2235,
-        "rd": 107,
-        "prog": -44
+        "rating": 2589,
+        "rd": 154,
+        "prog": 36,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 2200,
+        "rd": 392,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 17,
+        "rating": 2199,
+        "rd": 103,
+        "prog": -80
       },
       "correspondence": {
         "games": 0,
@@ -49,22 +63,22 @@
     "profile": {
       "country": "ID"
     },
-    "seenAt": 1657173779281,
+    "seenAt": 1657254147653,
     "playTime": {
-      "total": 9986,
+      "total": 12774,
       "tv": 0
     },
     "url": "https://lichess.org/@/AIAlphaAI",
     "count": {
-      "all": 34,
-      "rated": 34,
+      "all": 52,
+      "rated": 52,
       "ai": 0,
       "draw": 4,
       "drawH": 4,
-      "loss": 9,
-      "lossH": 9,
-      "win": 21,
-      "winH": 21,
+      "loss": 10,
+      "lossH": 10,
+      "win": 38,
+      "winH": 38,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
