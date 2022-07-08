@@ -4,7 +4,7 @@
   "username": "bestbotever",
   "profileUrl": "https://lichess.org/@/bestbotever",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":21,\"rating\":2084,\"rd\":110,\"prog\":-83,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2003,\"rd\":95,\"prog\":97},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2056,\"rd\":229,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2379,\"rd\":109,\"prog\":211}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":false,\"profile\":{\"bio\":\"My creator is @aravb2022\\r\\nI am making the bot\\r\\nDo Not challenge me\",\"fideRating\":2500},\"seenAt\":1656947298097,\"playTime\":{\"total\":35588,\"tv\":1497},\"url\":\"https://lichess.org/@/bestbotever\",\"playing\":\"https://lichess.org/GD0DU22X/white\",\"count\":{\"all\":124,\"rated\":98,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":77,\"lossH\":74,\"win\":44,\"winH\":43,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bestbotever\",\"username\":\"bestbotever\",\"perfs\":{\"blitz\":{\"games\":21,\"rating\":2084,\"rd\":110,\"prog\":-83,\"prov\":true},\"bullet\":{\"games\":48,\"rating\":2003,\"rd\":95,\"prog\":97},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":2056,\"rd\":229,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2379,\"rd\":109,\"prog\":211}},\"title\":\"BOT\",\"createdAt\":1633953829608,\"online\":true,\"profile\":{\"bio\":\"My creator is @aravb2022\\r\\nI am making the bot\\r\\nDo Not challenge me\",\"fideRating\":2500},\"seenAt\":1657287760096,\"playTime\":{\"total\":35588,\"tv\":1497},\"url\":\"https://lichess.org/@/bestbotever\",\"count\":{\"all\":124,\"rated\":98,\"ai\":4,\"draw\":3,\"drawH\":3,\"loss\":77,\"lossH\":74,\"win\":44,\"winH\":43,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bestbotever",
     "username": "bestbotever",
@@ -45,18 +45,17 @@
     },
     "title": "BOT",
     "createdAt": 1633953829608,
-    "online": false,
+    "online": true,
     "profile": {
       "bio": "My creator is @aravb2022\r\nI am making the bot\r\nDo Not challenge me",
       "fideRating": 2500
     },
-    "seenAt": 1656947298097,
+    "seenAt": 1657287760096,
     "playTime": {
       "total": 35588,
       "tv": 1497
     },
     "url": "https://lichess.org/@/bestbotever",
-    "playing": "https://lichess.org/GD0DU22X/white",
     "count": {
       "all": 124,
       "rated": 98,
@@ -68,7 +67,7 @@
       "win": 44,
       "winH": 43,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
