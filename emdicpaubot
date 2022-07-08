@@ -4,24 +4,22 @@
   "username": "emdicpauBOT",
   "profileUrl": "https://lichess.org/@/emdicpauBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"emdicpaubot\",\"username\":\"emdicpauBOT\",\"perfs\":{\"blitz\":{\"games\":10,\"rating\":2120,\"rd\":165,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657194734339,\"online\":true,\"seenAt\":1657232922609,\"playTime\":{\"total\":3782,\"tv\":0},\"url\":\"https://lichess.org/@/emdicpauBOT\",\"count\":{\"all\":22,\"rated\":10,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":7,\"lossH\":7,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"emdicpaubot\",\"username\":\"emdicpauBOT\",\"perfs\":{\"blitz\":{\"games\":18,\"rating\":2246,\"rd\":107,\"prog\":115},\"bullet\":{\"games\":15,\"rating\":2524,\"rd\":106,\"prog\":-144},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657194734339,\"online\":true,\"profile\":{\"country\":\"ES-CT\",\"location\":\"Barcelona\",\"bio\":\"Stockfish 14.1 hosted on herokuapp, variating between a Ryzen 7 5800x and an i7 2630QM.\\r\\nJust a little experiment to see how far this thingies can go\"},\"seenAt\":1657284927498,\"playTime\":{\"total\":8803,\"tv\":0},\"url\":\"https://lichess.org/@/emdicpauBOT\",\"count\":{\"all\":47,\"rated\":35,\"ai\":0,\"draw\":8,\"drawH\":8,\"loss\":14,\"lossH\":14,\"win\":25,\"winH\":25,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "emdicpaubot",
     "username": "emdicpauBOT",
     "perfs": {
       "blitz": {
-        "games": 10,
-        "rating": 2120,
-        "rd": 165,
-        "prog": 0,
-        "prov": true
+        "games": 18,
+        "rating": 2246,
+        "rd": 107,
+        "prog": 115
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 15,
+        "rating": 2524,
+        "rd": 106,
+        "prog": -144
       },
       "correspondence": {
         "games": 0,
@@ -48,22 +46,27 @@
     "title": "BOT",
     "createdAt": 1657194734339,
     "online": true,
-    "seenAt": 1657232922609,
+    "profile": {
+      "country": "ES-CT",
+      "location": "Barcelona",
+      "bio": "Stockfish 14.1 hosted on herokuapp, variating between a Ryzen 7 5800x and an i7 2630QM.\r\nJust a little experiment to see how far this thingies can go"
+    },
+    "seenAt": 1657284927498,
     "playTime": {
-      "total": 3782,
+      "total": 8803,
       "tv": 0
     },
     "url": "https://lichess.org/@/emdicpauBOT",
     "count": {
-      "all": 22,
-      "rated": 10,
+      "all": 47,
+      "rated": 35,
       "ai": 0,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 7,
-      "lossH": 7,
-      "win": 13,
-      "winH": 13,
+      "draw": 8,
+      "drawH": 8,
+      "loss": 14,
+      "lossH": 14,
+      "win": 25,
+      "winH": 25,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
