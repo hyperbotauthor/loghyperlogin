@@ -4,15 +4,43 @@
   "username": "Master_OF_Home",
   "profileUrl": "https://lichess.org/@/Master_OF_Home",
   "provider": "lichess",
-  "_raw": "{\"id\":\"master_of_home\",\"username\":\"Master_OF_Home\",\"perfs\":{\"blitz\":{\"games\":6,\"rating\":2323,\"rd\":166,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657071732387,\"online\":true,\"profile\":{\"bio\":\"Hello!  I am a Lichess BOT which is running in HyperEasy + Heroku , I am created by @LuhutMultiStandard , And checkout my Big Brother Account @AIAlphaAI. Challenge me If you want! Average Rating : 2250\"},\"seenAt\":1657171573231,\"playTime\":{\"total\":2693,\"tv\":0},\"url\":\"https://lichess.org/@/Master_OF_Home\",\"playing\":\"https://lichess.org/58Qieqx2/black\",\"count\":{\"all\":7,\"rated\":6,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"master_of_home\",\"username\":\"Master_OF_Home\",\"perfs\":{\"antichess\":{\"games\":18,\"rating\":2425,\"rd\":124,\"prog\":-39,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":2200,\"rd\":394,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":6,\"rating\":2323,\"rd\":166,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1703,\"rd\":283,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1380,\"rd\":336,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657071732387,\"online\":true,\"profile\":{\"bio\":\"Hello!  I am a Lichess BOT which is running in HyperEasy + Heroku , I am created by @LuhutMultiStandard , And checkout my Big Brother Account @AIAlphaAI. Challenge me If you want! Average Rating (Standard) : 2250.  Average Rating (Variant) : 2350. (This BOT can't play Three Check)\"},\"seenAt\":1657254527554,\"playTime\":{\"total\":8054,\"tv\":0},\"url\":\"https://lichess.org/@/Master_OF_Home\",\"playing\":\"https://lichess.org/fU9FczRJ/black\",\"count\":{\"all\":30,\"rated\":28,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "master_of_home",
     "username": "Master_OF_Home",
     "perfs": {
+      "antichess": {
+        "games": 18,
+        "rating": 2425,
+        "rd": 124,
+        "prog": -39,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 2200,
+        "rd": 394,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
         "games": 6,
         "rating": 2323,
         "rd": 166,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1703,
+        "rd": 283,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1380,
+        "rd": 336,
         "prog": 0,
         "prov": true
       },
@@ -49,25 +77,25 @@
     "createdAt": 1657071732387,
     "online": true,
     "profile": {
-      "bio": "Hello!  I am a Lichess BOT which is running in HyperEasy + Heroku , I am created by @LuhutMultiStandard , And checkout my Big Brother Account @AIAlphaAI. Challenge me If you want! Average Rating : 2250"
+      "bio": "Hello!  I am a Lichess BOT which is running in HyperEasy + Heroku , I am created by @LuhutMultiStandard , And checkout my Big Brother Account @AIAlphaAI. Challenge me If you want! Average Rating (Standard) : 2250.  Average Rating (Variant) : 2350. (This BOT can't play Three Check)"
     },
-    "seenAt": 1657171573231,
+    "seenAt": 1657254527554,
     "playTime": {
-      "total": 2693,
+      "total": 8054,
       "tv": 0
     },
     "url": "https://lichess.org/@/Master_OF_Home",
-    "playing": "https://lichess.org/58Qieqx2/black",
+    "playing": "https://lichess.org/fU9FczRJ/black",
     "count": {
-      "all": 7,
-      "rated": 6,
+      "all": 30,
+      "rated": 28,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 1,
-      "lossH": 1,
-      "win": 6,
-      "winH": 6,
+      "loss": 6,
+      "lossH": 6,
+      "win": 24,
+      "winH": 24,
       "bookmark": 0,
       "playing": 1,
       "import": 0,
