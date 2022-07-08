@@ -1,0 +1,85 @@
+{
+  "id": "rotomchessforme",
+  "displayName": "RotomChessForme",
+  "username": "RotomChessForme",
+  "profileUrl": "https://lichess.org/@/RotomChessForme",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"rotomchessforme\",\"username\":\"RotomChessForme\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657315968966,\"online\":true,\"profile\":{\"country\":\"JP\",\"location\":\"Sinnoh\",\"bio\":\"zzt! I am a chess-forme Rotom! My trainer is unknown, unless you PM him about me...\",\"firstName\":\"Rotom\",\"lastName\":\"Chess Forme\"},\"seenAt\":1657321886225,\"playTime\":{\"total\":418,\"tv\":0},\"url\":\"https://lichess.org/@/RotomChessForme\",\"count\":{\"all\":4,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":3,\"winH\":3,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "rotomchessforme",
+    "username": "RotomChessForme",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1657315968966,
+    "online": true,
+    "profile": {
+      "country": "JP",
+      "location": "Sinnoh",
+      "bio": "zzt! I am a chess-forme Rotom! My trainer is unknown, unless you PM him about me...",
+      "firstName": "Rotom",
+      "lastName": "Chess Forme"
+    },
+    "seenAt": 1657321886225,
+    "playTime": {
+      "total": 418,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/RotomChessForme",
+    "count": {
+      "all": 4,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 3,
+      "winH": 3,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
