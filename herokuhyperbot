@@ -4,7 +4,7 @@
   "username": "HerokuHyperBOT",
   "profileUrl": "https://lichess.org/@/HerokuHyperBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"herokuhyperbot\",\"username\":\"HerokuHyperBOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2570,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":2488,\"rd\":256,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657258861257,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Hello! Everyone, I am a BOT Which is running in Heroku+HyperEasy . My Owner : @LuhutMultiStandard . Fell free to  Challenge me !\\r\\nI am not Online 24/7 . Bye !\",\"fideRating\":2138},\"seenAt\":1657342704288,\"playTime\":{\"total\":2263,\"tv\":158},\"url\":\"https://lichess.org/@/HerokuHyperBOT\",\"count\":{\"all\":8,\"rated\":5,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":3,\"lossH\":3,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"herokuhyperbot\",\"username\":\"HerokuHyperBOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2570,\"rd\":291,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":5,\"rating\":2508,\"rd\":164,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657258861257,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"BOT\",\"bio\":\"Hello! Everyone, I am a BOT Which is running in Heroku+HyperEasy . My Owner : @LuhutMultiStandard . Fell free to  Challenge me !\\r\\nI am not Online 24/7 . Bye !\",\"fideRating\":2138},\"seenAt\":1657344691208,\"playTime\":{\"total\":2992,\"tv\":158},\"url\":\"https://lichess.org/@/HerokuHyperBOT\",\"playing\":\"https://lichess.org/9dc2S2EG/white\",\"count\":{\"all\":11,\"rated\":8,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":4,\"lossH\":4,\"win\":6,\"winH\":6,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "herokuhyperbot",
     "username": "HerokuHyperBOT",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 2,
-        "rating": 2488,
-        "rd": 256,
+        "games": 5,
+        "rating": 2508,
+        "rd": 164,
         "prog": 0,
         "prov": true
       },
@@ -54,24 +54,25 @@
       "bio": "Hello! Everyone, I am a BOT Which is running in Heroku+HyperEasy . My Owner : @LuhutMultiStandard . Fell free to  Challenge me !\r\nI am not Online 24/7 . Bye !",
       "fideRating": 2138
     },
-    "seenAt": 1657342704288,
+    "seenAt": 1657344691208,
     "playTime": {
-      "total": 2263,
+      "total": 2992,
       "tv": 158
     },
     "url": "https://lichess.org/@/HerokuHyperBOT",
+    "playing": "https://lichess.org/9dc2S2EG/white",
     "count": {
-      "all": 8,
-      "rated": 5,
+      "all": 11,
+      "rated": 8,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 3,
-      "lossH": 3,
-      "win": 4,
-      "winH": 4,
+      "loss": 4,
+      "lossH": 4,
+      "win": 6,
+      "winH": 6,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
