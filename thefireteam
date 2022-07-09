@@ -1,0 +1,91 @@
+{
+  "id": "thefireteam",
+  "displayName": "Thefireteam",
+  "username": "Thefireteam",
+  "profileUrl": "https://lichess.org/@/Thefireteam",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"thefireteam\",\"username\":\"Thefireteam\",\"perfs\":{\"blitz\":{\"games\":22,\"rating\":1646,\"rd\":105,\"prog\":105},\"puzzle\":{\"games\":37,\"rating\":1992,\"rd\":101,\"prog\":0},\"ultraBullet\":{\"games\":36,\"rating\":1306,\"rd\":83,\"prog\":7},\"bullet\":{\"games\":10,\"rating\":1587,\"rd\":160,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1745,\"rd\":294,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1698,\"rd\":297,\"prog\":0,\"prov\":true}},\"createdAt\":1653889883962,\"online\":true,\"profile\":{\"bio\":\"Open for advertisements and in search of logos\"},\"seenAt\":1657373356027,\"playTime\":{\"total\":11893,\"tv\":0},\"url\":\"https://lichess.org/@/Thefireteam\",\"count\":{\"all\":95,\"rated\":89,\"ai\":1,\"draw\":3,\"drawH\":3,\"loss\":59,\"lossH\":58,\"win\":33,\"winH\":33,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "thefireteam",
+    "username": "Thefireteam",
+    "perfs": {
+      "blitz": {
+        "games": 22,
+        "rating": 1646,
+        "rd": 105,
+        "prog": 105
+      },
+      "puzzle": {
+        "games": 37,
+        "rating": 1992,
+        "rd": 101,
+        "prog": 0
+      },
+      "ultraBullet": {
+        "games": 36,
+        "rating": 1306,
+        "rd": 83,
+        "prog": 7
+      },
+      "bullet": {
+        "games": 10,
+        "rating": 1587,
+        "rd": 160,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 1745,
+        "rd": 294,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1698,
+        "rd": 297,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1653889883962,
+    "online": true,
+    "profile": {
+      "bio": "Open for advertisements and in search of logos"
+    },
+    "seenAt": 1657373356027,
+    "playTime": {
+      "total": 11893,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Thefireteam",
+    "count": {
+      "all": 95,
+      "rated": 89,
+      "ai": 1,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 59,
+      "lossH": 58,
+      "win": 33,
+      "winH": 33,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
