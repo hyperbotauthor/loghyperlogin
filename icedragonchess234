@@ -1,0 +1,84 @@
+{
+  "id": "icedragonchess234",
+  "displayName": "IceDragonChess234",
+  "username": "IceDragonChess234",
+  "profileUrl": "https://lichess.org/@/IceDragonChess234",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"icedragonchess234\",\"username\":\"IceDragonChess234\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":10,\"rating\":2074,\"rd\":175,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":2053,\"rd\":438,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1972,\"rd\":244,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1659159629916,\"online\":true,\"profile\":{\"bio\":\"Hello There! I am a bot @PrinceArjun Created... I can play with you when I'm online.\",\"firstName\":\"IceDragon\",\"lastName\":\"Chess Bot\"},\"seenAt\":1659351699966,\"playTime\":{\"total\":3570,\"tv\":0},\"url\":\"https://lichess.org/@/IceDragonChess234\",\"playing\":\"https://lichess.org/WImAnD6q/black\",\"count\":{\"all\":19,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":13,\"winH\":13,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "icedragonchess234",
+    "username": "IceDragonChess234",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 10,
+        "rating": 2074,
+        "rd": 175,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 1,
+        "rating": 2053,
+        "rd": 438,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 1972,
+        "rd": 244,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1659159629916,
+    "online": true,
+    "profile": {
+      "bio": "Hello There! I am a bot @PrinceArjun Created... I can play with you when I'm online.",
+      "firstName": "IceDragon",
+      "lastName": "Chess Bot"
+    },
+    "seenAt": 1659351699966,
+    "playTime": {
+      "total": 3570,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/IceDragonChess234",
+    "playing": "https://lichess.org/WImAnD6q/black",
+    "count": {
+      "all": 19,
+      "rated": 14,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 6,
+      "lossH": 6,
+      "win": 13,
+      "winH": 13,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
