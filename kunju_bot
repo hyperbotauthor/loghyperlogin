@@ -4,7 +4,7 @@
   "username": "KUNJU_BOT",
   "profileUrl": "https://lichess.org/@/KUNJU_BOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"kunju_bot\",\"username\":\"KUNJU_BOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2175,\"rd\":204,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2097,\"rd\":229,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657355954765,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/zLMYR53.png\\r\\n\\r\\nMy creator is @Niranjan_G.\\r\\n\\r\\nMy brother is @dundu\"},\"seenAt\":1657520583350,\"playTime\":{\"total\":2882,\"tv\":0},\"url\":\"https://lichess.org/@/KUNJU_BOT\",\"count\":{\"all\":10,\"rated\":6,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":3,\"lossH\":3,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"kunju_bot\",\"username\":\"KUNJU_BOT\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2175,\"rd\":207,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2097,\"rd\":231,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":2338,\"rd\":314,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657355954765,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/zLMYR53.png\\r\\n\\r\\nMy creator is @Niranjan_G.\\r\\n\\r\\nMy brother is @dundu\"},\"seenAt\":1659432442444,\"playTime\":{\"total\":5017,\"tv\":0},\"url\":\"https://lichess.org/@/KUNJU_BOT\",\"count\":{\"all\":12,\"rated\":8,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":3,\"lossH\":3,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "kunju_bot",
     "username": "KUNJU_BOT",
@@ -12,14 +12,14 @@
       "blitz": {
         "games": 3,
         "rating": 2175,
-        "rd": 204,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 3,
         "rating": 2097,
-        "rd": 229,
+        "rd": 231,
         "prog": 0,
         "prov": true
       },
@@ -38,9 +38,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2338,
+        "rd": 314,
         "prog": 0,
         "prov": true
       }
@@ -52,22 +52,22 @@
       "country": "IN",
       "bio": "https://i.imgur.com/zLMYR53.png\r\n\r\nMy creator is @Niranjan_G.\r\n\r\nMy brother is @dundu"
     },
-    "seenAt": 1657520583350,
+    "seenAt": 1659432442444,
     "playTime": {
-      "total": 2882,
+      "total": 5017,
       "tv": 0
     },
     "url": "https://lichess.org/@/KUNJU_BOT",
     "count": {
-      "all": 10,
-      "rated": 6,
+      "all": 12,
+      "rated": 8,
       "ai": 0,
       "draw": 2,
       "drawH": 2,
       "loss": 3,
       "lossH": 3,
-      "win": 5,
-      "winH": 5,
+      "win": 7,
+      "winH": 7,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
