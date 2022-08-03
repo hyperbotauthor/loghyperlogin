@@ -4,23 +4,23 @@
   "username": "Dundu",
   "profileUrl": "https://lichess.org/@/Dundu",
   "provider": "lichess",
-  "_raw": "{\"id\":\"dundu\",\"username\":\"Dundu\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":2062,\"rd\":411,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2057,\"rd\":418,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1652966824266,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/1TVFBE0.jpg My creator is @Niranjan_G.\\r\\nPlays bullet blitz rapid and classic\",\"firstName\":\"BOT\",\"lastName\":\"DUNDU\"},\"seenAt\":1657355110893,\"playTime\":{\"total\":687,\"tv\":0},\"url\":\"https://lichess.org/@/Dundu\",\"count\":{\"all\":7,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"dundu\",\"username\":\"Dundu\",\"perfs\":{\"blitz\":{\"games\":5,\"rating\":2398,\"rd\":182,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2032,\"rd\":138,\"prog\":31,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1652966824266,\"online\":true,\"profile\":{\"country\":\"IN\",\"bio\":\"https://i.imgur.com/1TVFBE0.jpg \\r\\n\\r\\nMy creator is @Niranjan_G.\\r\\n\\r\\nMy brothers are  @KUNJU_BOT @BOT_ATOMIC\",\"firstName\":\"BOT\",\"lastName\":\"DUNDU\"},\"seenAt\":1659527535783,\"playTime\":{\"total\":6129,\"tv\":0},\"url\":\"https://lichess.org/@/Dundu\",\"count\":{\"all\":32,\"rated\":18,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":6,\"lossH\":6,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "dundu",
     "username": "Dundu",
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 2062,
-        "rd": 411,
+        "games": 5,
+        "rating": 2398,
+        "rd": 182,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2057,
-        "rd": 418,
-        "prog": 0,
+        "games": 12,
+        "rating": 2032,
+        "rd": 138,
+        "prog": 31,
         "prov": true
       },
       "correspondence": {
@@ -50,26 +50,26 @@
     "online": true,
     "profile": {
       "country": "IN",
-      "bio": "https://i.imgur.com/1TVFBE0.jpg My creator is @Niranjan_G.\r\nPlays bullet blitz rapid and classic",
+      "bio": "https://i.imgur.com/1TVFBE0.jpg \r\n\r\nMy creator is @Niranjan_G.\r\n\r\nMy brothers are  @KUNJU_BOT @BOT_ATOMIC",
       "firstName": "BOT",
       "lastName": "DUNDU"
     },
-    "seenAt": 1657355110893,
+    "seenAt": 1659527535783,
     "playTime": {
-      "total": 687,
+      "total": 6129,
       "tv": 0
     },
     "url": "https://lichess.org/@/Dundu",
     "count": {
-      "all": 7,
-      "rated": 2,
+      "all": 32,
+      "rated": 18,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 7,
-      "winH": 7,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 6,
+      "lossH": 6,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
