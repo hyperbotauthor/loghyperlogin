@@ -4,24 +4,29 @@
   "username": "Chessbot232456",
   "profileUrl": "https://lichess.org/@/Chessbot232456",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessbot232456\",\"username\":\"Chessbot232456\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656955235955,\"online\":true,\"seenAt\":1657025405879,\"playTime\":{\"total\":95,\"tv\":0},\"url\":\"https://lichess.org/@/Chessbot232456\",\"count\":{\"all\":1,\"rated\":0,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessbot232456\",\"username\":\"Chessbot232456\",\"perfs\":{\"blitz\":{\"games\":124,\"rating\":2649,\"rd\":45,\"prog\":11},\"antichess\":{\"games\":3,\"rating\":1359,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":515,\"rating\":2715,\"rd\":45,\"prog\":1},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2504,\"rd\":128,\"prog\":15,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2606,\"rd\":228,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656955235955,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"Chess Land\",\"bio\":\"This bot accepts challenges! Send challenges from bullet to classical.\",\"firstName\":\"Chessbot232456\",\"fideRating\":1954,\"uscfRating\":1954,\"ecfRating\":1954,\"rcfRating\":1954,\"cfcRating\":1954,\"dsbRating\":1954},\"seenAt\":1659505197808,\"playTime\":{\"total\":266872,\"tv\":53866},\"url\":\"https://lichess.org/@/Chessbot232456\",\"playing\":\"https://lichess.org/cwDUJ80g/white\",\"count\":{\"all\":963,\"rated\":735,\"ai\":0,\"draw\":400,\"drawH\":400,\"loss\":188,\"lossH\":188,\"win\":375,\"winH\":375,\"bookmark\":0,\"playing\":5,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessbot232456",
     "username": "Chessbot232456",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 124,
+        "rating": 2649,
+        "rd": 45,
+        "prog": 11
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 1359,
+        "rd": 329,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 515,
+        "rating": 2715,
+        "rd": 45,
+        "prog": 1
       },
       "correspondence": {
         "games": 0,
@@ -31,16 +36,16 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
+        "games": 13,
+        "rating": 2504,
+        "rd": 128,
+        "prog": 15,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 6,
+        "rating": 2606,
+        "rd": 228,
         "prog": 0,
         "prov": true
       }
@@ -48,25 +53,38 @@
     "title": "BOT",
     "createdAt": 1656955235955,
     "online": true,
-    "seenAt": 1657025405879,
+    "profile": {
+      "country": "US",
+      "location": "Chess Land",
+      "bio": "This bot accepts challenges! Send challenges from bullet to classical.",
+      "firstName": "Chessbot232456",
+      "fideRating": 1954,
+      "uscfRating": 1954,
+      "ecfRating": 1954,
+      "rcfRating": 1954,
+      "cfcRating": 1954,
+      "dsbRating": 1954
+    },
+    "seenAt": 1659505197808,
     "playTime": {
-      "total": 95,
-      "tv": 0
+      "total": 266872,
+      "tv": 53866
     },
     "url": "https://lichess.org/@/Chessbot232456",
+    "playing": "https://lichess.org/cwDUJ80g/white",
     "count": {
-      "all": 1,
-      "rated": 0,
+      "all": 963,
+      "rated": 735,
       "ai": 0,
-      "draw": 1,
-      "drawH": 1,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "draw": 400,
+      "drawH": 400,
+      "loss": 188,
+      "lossH": 188,
+      "win": 375,
+      "winH": 375,
       "bookmark": 0,
-      "playing": 0,
-      "import": 0,
+      "playing": 5,
+      "import": 2,
       "me": 0
     },
     "followable": true,
