@@ -1,0 +1,83 @@
+{
+  "id": "elo2650chessbot",
+  "displayName": "elo2650chessbot",
+  "username": "elo2650chessbot",
+  "profileUrl": "https://lichess.org/@/elo2650chessbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"elo2650chessbot\",\"username\":\"elo2650chessbot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1659720021841,\"online\":true,\"profile\":{\"country\":\"_united-nations\",\"bio\":\"This is a bot with the 13th development verson of Stockfish. Running github.com/hyperchessbot/hyperbot. Accepts Bullet (with increment only), Blitz, Rapid and Classical challenges from bots and humans. Accepted standard time controls: From 1 minute to 180 minutes. Accepted Variant time controls: From 20 minutes to 180 minutes Mistakes, Incurs and Blunders included.\\r\\nCheckout @Chessbotau too please\",\"fideRating\":2650,\"links\":\"stockfishchess.org\\r\\nhttps://github.com/FatFritz2/hyperbot\"},\"seenAt\":1659720035012,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/elo2650chessbot\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "elo2650chessbot",
+    "username": "elo2650chessbot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "createdAt": 1659720021841,
+    "online": true,
+    "profile": {
+      "country": "_united-nations",
+      "bio": "This is a bot with the 13th development verson of Stockfish. Running github.com/hyperchessbot/hyperbot. Accepts Bullet (with increment only), Blitz, Rapid and Classical challenges from bots and humans. Accepted standard time controls: From 1 minute to 180 minutes. Accepted Variant time controls: From 20 minutes to 180 minutes Mistakes, Incurs and Blunders included.\r\nCheckout @Chessbotau too please",
+      "fideRating": 2650,
+      "links": "stockfishchess.org\r\nhttps://github.com/FatFritz2/hyperbot"
+    },
+    "seenAt": 1659720035012,
+    "playTime": {
+      "total": 0,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/elo2650chessbot",
+    "count": {
+      "all": 0,
+      "rated": 0,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 0,
+      "lossH": 0,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
