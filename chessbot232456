@@ -4,7 +4,7 @@
   "username": "Chessbot232456",
   "profileUrl": "https://lichess.org/@/Chessbot232456",
   "provider": "lichess",
-  "_raw": "{\"id\":\"chessbot232456\",\"username\":\"Chessbot232456\",\"perfs\":{\"blitz\":{\"games\":124,\"rating\":2649,\"rd\":45,\"prog\":11},\"antichess\":{\"games\":3,\"rating\":1359,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":515,\"rating\":2715,\"rd\":45,\"prog\":1},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2504,\"rd\":128,\"prog\":15,\"prov\":true},\"rapid\":{\"games\":6,\"rating\":2606,\"rd\":228,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656955235955,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"Chess Land\",\"bio\":\"This bot accepts challenges! Send challenges from bullet to classical.\",\"firstName\":\"Chessbot232456\",\"fideRating\":1954,\"uscfRating\":1954,\"ecfRating\":1954,\"rcfRating\":1954,\"cfcRating\":1954,\"dsbRating\":1954},\"seenAt\":1659505197808,\"playTime\":{\"total\":266872,\"tv\":53866},\"url\":\"https://lichess.org/@/Chessbot232456\",\"playing\":\"https://lichess.org/cwDUJ80g/white\",\"count\":{\"all\":963,\"rated\":735,\"ai\":0,\"draw\":400,\"drawH\":400,\"loss\":188,\"lossH\":188,\"win\":375,\"winH\":375,\"bookmark\":0,\"playing\":5,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"chessbot232456\",\"username\":\"Chessbot232456\",\"perfs\":{\"blitz\":{\"games\":124,\"rating\":2649,\"rd\":46,\"prog\":11},\"antichess\":{\"games\":3,\"rating\":1359,\"rd\":329,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":541,\"rating\":2712,\"rd\":45,\"prog\":0},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":13,\"rating\":2504,\"rd\":129,\"prog\":15,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":2545,\"rd\":198,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656955235955,\"online\":true,\"profile\":{\"country\":\"US\",\"location\":\"Chess Land\",\"bio\":\"This bot accepts challenges! Send challenges from bullet to classical.\",\"firstName\":\"Chessbot232456\",\"fideRating\":1954,\"uscfRating\":1954,\"ecfRating\":1954,\"rcfRating\":1954,\"cfcRating\":1954,\"dsbRating\":1954},\"seenAt\":1659680632808,\"playTime\":{\"total\":271261,\"tv\":54252},\"url\":\"https://lichess.org/@/Chessbot232456\",\"playing\":\"https://lichess.org/cXuTJl9R/white\",\"count\":{\"all\":1002,\"rated\":762,\"ai\":0,\"draw\":407,\"drawH\":407,\"loss\":191,\"lossH\":191,\"win\":404,\"winH\":404,\"bookmark\":0,\"playing\":1,\"import\":2,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "chessbot232456",
     "username": "Chessbot232456",
@@ -12,7 +12,7 @@
       "blitz": {
         "games": 124,
         "rating": 2649,
-        "rd": 45,
+        "rd": 46,
         "prog": 11
       },
       "antichess": {
@@ -23,10 +23,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 515,
-        "rating": 2715,
+        "games": 541,
+        "rating": 2712,
         "rd": 45,
-        "prog": 1
+        "prog": 0
       },
       "correspondence": {
         "games": 0,
@@ -38,14 +38,14 @@
       "classical": {
         "games": 13,
         "rating": 2504,
-        "rd": 128,
+        "rd": 129,
         "prog": 15,
         "prov": true
       },
       "rapid": {
-        "games": 6,
-        "rating": 2606,
-        "rd": 228,
+        "games": 7,
+        "rating": 2545,
+        "rd": 198,
         "prog": 0,
         "prov": true
       }
@@ -65,25 +65,25 @@
       "cfcRating": 1954,
       "dsbRating": 1954
     },
-    "seenAt": 1659505197808,
+    "seenAt": 1659680632808,
     "playTime": {
-      "total": 266872,
-      "tv": 53866
+      "total": 271261,
+      "tv": 54252
     },
     "url": "https://lichess.org/@/Chessbot232456",
-    "playing": "https://lichess.org/cwDUJ80g/white",
+    "playing": "https://lichess.org/cXuTJl9R/white",
     "count": {
-      "all": 963,
-      "rated": 735,
+      "all": 1002,
+      "rated": 762,
       "ai": 0,
-      "draw": 400,
-      "drawH": 400,
-      "loss": 188,
-      "lossH": 188,
-      "win": 375,
-      "winH": 375,
+      "draw": 407,
+      "drawH": 407,
+      "loss": 191,
+      "lossH": 191,
+      "win": 404,
+      "winH": 404,
       "bookmark": 0,
-      "playing": 5,
+      "playing": 1,
       "import": 2,
       "me": 0
     },
