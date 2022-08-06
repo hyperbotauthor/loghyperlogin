@@ -4,65 +4,66 @@
   "username": "Lc0_Stockfish",
   "profileUrl": "https://lichess.org/@/Lc0_Stockfish",
   "provider": "lichess",
-  "_raw": "{\"id\":\"lc0_stockfish\",\"username\":\"Lc0_Stockfish\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true}},\"createdAt\":1654223273989,\"online\":true,\"seenAt\":1654223284996,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/Lc0_Stockfish\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"lc0_stockfish\",\"username\":\"Lc0_Stockfish\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2125,\"rd\":329,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1654223273989,\"online\":true,\"seenAt\":1659790499676,\"playTime\":{\"total\":401,\"tv\":0},\"url\":\"https://lichess.org/@/Lc0_Stockfish\",\"count\":{\"all\":7,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "lc0_stockfish",
     "username": "Lc0_Stockfish",
     "perfs": {
       "blitz": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 2125,
+        "rd": 329,
         "prog": 0,
         "prov": true
       },
       "correspondence": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "classical": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 0,
-        "rating": 1500,
+        "rating": 2000,
         "rd": 500,
         "prog": 0,
         "prov": true
       }
     },
+    "title": "BOT",
     "createdAt": 1654223273989,
     "online": true,
-    "seenAt": 1654223284996,
+    "seenAt": 1659790499676,
     "playTime": {
-      "total": 0,
+      "total": 401,
       "tv": 0
     },
     "url": "https://lichess.org/@/Lc0_Stockfish",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 7,
+      "rated": 1,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 2,
+      "winH": 2,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
