@@ -1,0 +1,78 @@
+{
+  "id": "blazingsky123",
+  "displayName": "BlazingSky123",
+  "username": "BlazingSky123",
+  "profileUrl": "https://lichess.org/@/BlazingSky123",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"blazingsky123\",\"username\":\"BlazingSky123\",\"perfs\":{\"blitz\":{\"games\":43,\"rating\":2413,\"rd\":102,\"prog\":-84},\"bullet\":{\"games\":17,\"rating\":2376,\"rd\":150,\"prog\":3,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":5,\"rating\":1780,\"rd\":260,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":10,\"rating\":2517,\"rd\":128,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1642299825822,\"online\":true,\"seenAt\":1659801220898,\"playTime\":{\"total\":38077,\"tv\":1202},\"url\":\"https://lichess.org/@/BlazingSky123\",\"playing\":\"https://lichess.org/2OaFSfsl/black\",\"count\":{\"all\":88,\"rated\":84,\"ai\":0,\"draw\":9,\"drawH\":9,\"loss\":22,\"lossH\":22,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "blazingsky123",
+    "username": "BlazingSky123",
+    "perfs": {
+      "blitz": {
+        "games": 43,
+        "rating": 2413,
+        "rd": 102,
+        "prog": -84
+      },
+      "bullet": {
+        "games": 17,
+        "rating": 2376,
+        "rd": 150,
+        "prog": 3,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 5,
+        "rating": 1780,
+        "rd": 260,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 10,
+        "rating": 2517,
+        "rd": 128,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1642299825822,
+    "online": true,
+    "seenAt": 1659801220898,
+    "playTime": {
+      "total": 38077,
+      "tv": 1202
+    },
+    "url": "https://lichess.org/@/BlazingSky123",
+    "playing": "https://lichess.org/2OaFSfsl/black",
+    "count": {
+      "all": 88,
+      "rated": 84,
+      "ai": 0,
+      "draw": 9,
+      "drawH": 9,
+      "loss": 22,
+      "lossH": 22,
+      "win": 57,
+      "winH": 57,
+      "bookmark": 0,
+      "playing": 1,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
