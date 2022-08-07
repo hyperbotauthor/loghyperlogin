@@ -1,0 +1,93 @@
+{
+  "id": "digi",
+  "displayName": "Digi",
+  "username": "Digi",
+  "profileUrl": "https://lichess.org/@/Digi",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"digi\",\"username\":\"Digi\",\"perfs\":{\"blitz\":{\"games\":64,\"rating\":2280,\"rd\":54,\"prog\":32},\"storm\":{\"runs\":23,\"score\":41},\"puzzle\":{\"games\":64,\"rating\":2550,\"rd\":87,\"prog\":0},\"racer\":{\"runs\":18,\"score\":63},\"bullet\":{\"games\":1510,\"rating\":2300,\"rd\":45,\"prog\":5},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":39,\"rating\":2371,\"rd\":79,\"prog\":71}},\"createdAt\":1650007241908,\"online\":true,\"profile\":{\"bio\":\"Chess content creator\\r\\n@ Digichess from instagram\",\"firstName\":\"Digi\",\"links\":\"https://twitch.tv/digichess\\r\\nhttps://instagram.com/Digichess\\r\\nhttps://discord.gg/KTdvhnZ9eM\\r\\nhttps://www.chess.com/club/digichess\"},\"seenAt\":1659904850651,\"playTime\":{\"total\":273508,\"tv\":0},\"url\":\"https://lichess.org/@/Digi\",\"count\":{\"all\":1965,\"rated\":1613,\"ai\":2,\"draw\":128,\"drawH\":128,\"loss\":876,\"lossH\":875,\"win\":961,\"winH\":960,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "digi",
+    "username": "Digi",
+    "perfs": {
+      "blitz": {
+        "games": 64,
+        "rating": 2280,
+        "rd": 54,
+        "prog": 32
+      },
+      "storm": {
+        "runs": 23,
+        "score": 41
+      },
+      "puzzle": {
+        "games": 64,
+        "rating": 2550,
+        "rd": 87,
+        "prog": 0
+      },
+      "racer": {
+        "runs": 18,
+        "score": 63
+      },
+      "bullet": {
+        "games": 1510,
+        "rating": 2300,
+        "rd": 45,
+        "prog": 5
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 39,
+        "rating": 2371,
+        "rd": 79,
+        "prog": 71
+      }
+    },
+    "createdAt": 1650007241908,
+    "online": true,
+    "profile": {
+      "bio": "Chess content creator\r\n@ Digichess from instagram",
+      "firstName": "Digi",
+      "links": "https://twitch.tv/digichess\r\nhttps://instagram.com/Digichess\r\nhttps://discord.gg/KTdvhnZ9eM\r\nhttps://www.chess.com/club/digichess"
+    },
+    "seenAt": 1659904850651,
+    "playTime": {
+      "total": 273508,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Digi",
+    "count": {
+      "all": 1965,
+      "rated": 1613,
+      "ai": 2,
+      "draw": 128,
+      "drawH": 128,
+      "loss": 876,
+      "lossH": 875,
+      "win": 961,
+      "winH": 960,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
