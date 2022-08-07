@@ -4,7 +4,7 @@
   "username": "Digi-bot",
   "profileUrl": "https://lichess.org/@/Digi-bot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"digi-bot\",\"username\":\"Digi-bot\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2264,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2088,\"rd\":132,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2192,\"rd\":372,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1659892270377,\"online\":true,\"profile\":{\"country\":\"SE\",\"bio\":\"Bullet|Blitz|Rapid|Classical, both rated and unrated. Created by @Digi\",\"firstName\":\"Digi\",\"links\":\"https://lichess.org/@/Digi\\r\\nhttps://instagram.com/digichess\\r\\nhttps://twitch.tv/digichess\"},\"seenAt\":1659902166518,\"playTime\":{\"total\":4966,\"tv\":0},\"url\":\"https://lichess.org/@/Digi-bot\",\"count\":{\"all\":47,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"digi-bot\",\"username\":\"Digi-bot\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":2264,\"rd\":241,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":8,\"rating\":2088,\"rd\":132,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":3,\"rating\":2192,\"rd\":372,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1659892270377,\"online\":true,\"profile\":{\"country\":\"SE\",\"bio\":\"Bullet|Blitz|Rapid|Classical, both rated and unrated. Created by @Digi\",\"firstName\":\"Digi\",\"links\":\"https://lichess.org/@/Digi\\r\\nhttps://instagram.com/digichess\\r\\nhttps://twitch.tv/digichess\"},\"seenAt\":1659904959307,\"playTime\":{\"total\":5633,\"tv\":0},\"url\":\"https://lichess.org/@/Digi-bot\",\"count\":{\"all\":52,\"rated\":14,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":6,\"lossH\":6,\"win\":46,\"winH\":46,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "digi-bot",
     "username": "Digi-bot",
@@ -54,22 +54,22 @@
       "firstName": "Digi",
       "links": "https://lichess.org/@/Digi\r\nhttps://instagram.com/digichess\r\nhttps://twitch.tv/digichess"
     },
-    "seenAt": 1659902166518,
+    "seenAt": 1659904959307,
     "playTime": {
-      "total": 4966,
+      "total": 5633,
       "tv": 0
     },
     "url": "https://lichess.org/@/Digi-bot",
     "count": {
-      "all": 47,
+      "all": 52,
       "rated": 14,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 6,
       "lossH": 6,
-      "win": 41,
-      "winH": 41,
+      "win": 46,
+      "winH": 46,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
