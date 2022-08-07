@@ -1,0 +1,78 @@
+{
+  "id": "digibot",
+  "displayName": "DigiBot",
+  "username": "DigiBot",
+  "profileUrl": "https://lichess.org/@/DigiBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"digibot\",\"username\":\"DigiBot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":2,\"rating\":1564,\"rd\":246,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1659864581936,\"online\":true,\"seenAt\":1659891824238,\"playTime\":{\"total\":108,\"tv\":0},\"url\":\"https://lichess.org/@/DigiBot\",\"count\":{\"all\":3,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":3,\"lossH\":3,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "digibot",
+    "username": "DigiBot",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 2,
+        "rating": 1564,
+        "rd": 246,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1659864581936,
+    "online": true,
+    "seenAt": 1659891824238,
+    "playTime": {
+      "total": 108,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/DigiBot",
+    "count": {
+      "all": 3,
+      "rated": 2,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 3,
+      "lossH": 3,
+      "win": 0,
+      "winH": 0,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
