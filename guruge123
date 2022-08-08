@@ -1,0 +1,163 @@
+{
+  "id": "guruge123",
+  "displayName": "Guruge123",
+  "username": "Guruge123",
+  "profileUrl": "https://lichess.org/@/Guruge123",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"guruge123\",\"username\":\"Guruge123\",\"perfs\":{\"chess960\":{\"games\":11,\"rating\":1364,\"rd\":168,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":10,\"rating\":966,\"rd\":162,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":918,\"rd\":217,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1237,\"rd\":271,\"prog\":0,\"prov\":true},\"racer\":{\"runs\":11,\"score\":25},\"ultraBullet\":{\"games\":10,\"rating\":953,\"rd\":171,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":117,\"rating\":1347,\"rd\":112,\"prog\":-33,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1339,\"rd\":317,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":19,\"rating\":1356,\"rd\":138,\"prog\":50,\"prov\":true},\"threeCheck\":{\"games\":5,\"rating\":1027,\"rd\":217,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":6,\"score\":8},\"storm\":{\"runs\":5,\"score\":19},\"bullet\":{\"games\":308,\"rating\":1327,\"rd\":72,\"prog\":-31},\"correspondence\":{\"games\":2,\"rating\":1783,\"rd\":379,\"prog\":0,\"prov\":true},\"horde\":{\"games\":6,\"rating\":1530,\"rd\":226,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1787,\"rating\":1703,\"rd\":84,\"prog\":0},\"classical\":{\"games\":29,\"rating\":1365,\"rd\":138,\"prog\":119,\"prov\":true},\"rapid\":{\"games\":847,\"rating\":1435,\"rd\":88,\"prog\":-19}},\"createdAt\":1635498690504,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"Matara\",\"firstName\":\"Guruge\",\"lastName\":\"123\",\"links\":\"https://lichess.org/analysis#explorer  Chess.com\"},\"seenAt\":1659951205162,\"playTime\":{\"total\":346236,\"tv\":629},\"url\":\"https://lichess.org/@/Guruge123\",\"count\":{\"all\":1432,\"rated\":1383,\"ai\":12,\"draw\":54,\"drawH\":54,\"loss\":715,\"lossH\":711,\"win\":663,\"winH\":655,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "guruge123",
+    "username": "Guruge123",
+    "perfs": {
+      "chess960": {
+        "games": 11,
+        "rating": 1364,
+        "rd": 168,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 10,
+        "rating": 966,
+        "rd": 162,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 918,
+        "rd": 217,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 2,
+        "rating": 1237,
+        "rd": 271,
+        "prog": 0,
+        "prov": true
+      },
+      "racer": {
+        "runs": 11,
+        "score": 25
+      },
+      "ultraBullet": {
+        "games": 10,
+        "rating": 953,
+        "rd": 171,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 117,
+        "rating": 1347,
+        "rd": 112,
+        "prog": -33,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1339,
+        "rd": 317,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 19,
+        "rating": 1356,
+        "rd": 138,
+        "prog": 50,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 5,
+        "rating": 1027,
+        "rd": 217,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 6,
+        "score": 8
+      },
+      "storm": {
+        "runs": 5,
+        "score": 19
+      },
+      "bullet": {
+        "games": 308,
+        "rating": 1327,
+        "rd": 72,
+        "prog": -31
+      },
+      "correspondence": {
+        "games": 2,
+        "rating": 1783,
+        "rd": 379,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 6,
+        "rating": 1530,
+        "rd": 226,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1787,
+        "rating": 1703,
+        "rd": 84,
+        "prog": 0
+      },
+      "classical": {
+        "games": 29,
+        "rating": 1365,
+        "rd": 138,
+        "prog": 119,
+        "prov": true
+      },
+      "rapid": {
+        "games": 847,
+        "rating": 1435,
+        "rd": 88,
+        "prog": -19
+      }
+    },
+    "createdAt": 1635498690504,
+    "online": true,
+    "profile": {
+      "country": "LK",
+      "location": "Matara",
+      "firstName": "Guruge",
+      "lastName": "123",
+      "links": "https://lichess.org/analysis#explorer  Chess.com"
+    },
+    "seenAt": 1659951205162,
+    "playTime": {
+      "total": 346236,
+      "tv": 629
+    },
+    "url": "https://lichess.org/@/Guruge123",
+    "count": {
+      "all": 1432,
+      "rated": 1383,
+      "ai": 12,
+      "draw": 54,
+      "drawH": 54,
+      "loss": 715,
+      "lossH": 711,
+      "win": 663,
+      "winH": 655,
+      "bookmark": 3,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
