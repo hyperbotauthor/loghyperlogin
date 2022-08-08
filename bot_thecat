@@ -4,7 +4,7 @@
   "username": "Bot_thecat",
   "profileUrl": "https://lichess.org/@/Bot_thecat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1755,\"rd\":180,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1865,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":17,\"rating\":1837,\"rd\":120,\"prog\":7,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":308,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"seenAt\":1659859295941,\"playTime\":{\"total\":4589,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":38,\"rated\":32,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":13,\"lossH\":13,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1755,\"rd\":181,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1865,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1795,\"rd\":114,\"prog\":-35,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":309,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"seenAt\":1659960727678,\"playTime\":{\"total\":4703,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":39,\"rated\":33,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_thecat",
     "username": "Bot_thecat",
@@ -12,7 +12,7 @@
       "blitz": {
         "games": 8,
         "rating": 1755,
-        "rd": 180,
+        "rd": 181,
         "prog": 0,
         "prov": true
       },
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 17,
-        "rating": 1837,
-        "rd": 120,
-        "prog": 7,
+        "games": 18,
+        "rating": 1795,
+        "rd": 114,
+        "prog": -35,
         "prov": true
       },
       "correspondence": {
@@ -47,7 +47,7 @@
       "rapid": {
         "games": 2,
         "rating": 1615,
-        "rd": 308,
+        "rd": 309,
         "prog": 0,
         "prov": true
       }
@@ -55,20 +55,20 @@
     "title": "BOT",
     "createdAt": 1657374362880,
     "online": true,
-    "seenAt": 1659859295941,
+    "seenAt": 1659960727678,
     "playTime": {
-      "total": 4589,
+      "total": 4703,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_thecat",
     "count": {
-      "all": 38,
-      "rated": 32,
+      "all": 39,
+      "rated": 33,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 13,
-      "lossH": 13,
+      "loss": 14,
+      "lossH": 14,
       "win": 24,
       "winH": 24,
       "bookmark": 0,
