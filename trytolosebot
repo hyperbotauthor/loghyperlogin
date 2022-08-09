@@ -1,0 +1,81 @@
+{
+  "id": "trytolosebot",
+  "displayName": "TryToLoseBOT",
+  "username": "TryToLoseBOT",
+  "profileUrl": "https://lichess.org/@/TryToLoseBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"trytolosebot\",\"username\":\"TryToLoseBOT\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1650379479319,\"online\":true,\"profile\":{\"bio\":\"Using HyperEasy, operator: fish224\"},\"seenAt\":1660040133729,\"playTime\":{\"total\":43411,\"tv\":87},\"url\":\"https://lichess.org/@/TryToLoseBOT\",\"count\":{\"all\":104,\"rated\":0,\"ai\":0,\"draw\":24,\"drawH\":24,\"loss\":69,\"lossH\":69,\"win\":11,\"winH\":11,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "trytolosebot",
+    "username": "TryToLoseBOT",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1650379479319,
+    "online": true,
+    "profile": {
+      "bio": "Using HyperEasy, operator: fish224"
+    },
+    "seenAt": 1660040133729,
+    "playTime": {
+      "total": 43411,
+      "tv": 87
+    },
+    "url": "https://lichess.org/@/TryToLoseBOT",
+    "count": {
+      "all": 104,
+      "rated": 0,
+      "ai": 0,
+      "draw": 24,
+      "drawH": 24,
+      "loss": 69,
+      "lossH": 69,
+      "win": 11,
+      "winH": 11,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
