@@ -4,7 +4,7 @@
   "username": "Bot_thecat",
   "profileUrl": "https://lichess.org/@/Bot_thecat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1278,\"rd\":322,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1432,\"rd\":405,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1591,\"rd\":368,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1595,\"rd\":148,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2292,\"rd\":300,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":1679,\"rd\":129,\"prog\":43,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2077,\"rd\":347,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1761,\"rd\":109,\"prog\":-69},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":309,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"seenAt\":1660054482676,\"playTime\":{\"total\":12528,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":68,\"rated\":58,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":32,\"lossH\":32,\"win\":35,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1278,\"rd\":322,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":7,\"rating\":1735,\"rd\":207,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1591,\"rd\":368,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":7,\"rating\":1626,\"rd\":138,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2144,\"rd\":216,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":21,\"rating\":1629,\"rd\":117,\"prog\":-7,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2077,\"rd\":347,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1761,\"rd\":109,\"prog\":-69},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":309,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"profile\":{\"bio\":\"I accept my all challenges \\r\\nI am online 14by 7 hours because of network\\r\\nhttps://hypereasy.herokuapp.com/?single=true\",\"rcfRating\":2196,\"cfcRating\":1568,\"dsbRating\":1689},\"seenAt\":1660063203818,\"playTime\":{\"total\":14999,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":81,\"rated\":71,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":39,\"lossH\":39,\"win\":41,\"winH\":41,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_thecat",
     "username": "Bot_thecat",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "antichess": {
-        "games": 2,
-        "rating": 1432,
-        "rd": 405,
+        "games": 7,
+        "rating": 1735,
+        "rd": 207,
         "prog": 0,
         "prov": true
       },
@@ -31,24 +31,24 @@
         "prov": true
       },
       "atomic": {
-        "games": 6,
-        "rating": 1595,
-        "rd": 148,
+        "games": 7,
+        "rating": 1626,
+        "rd": 138,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 2,
-        "rating": 2292,
-        "rd": 300,
+        "games": 7,
+        "rating": 2144,
+        "rd": 216,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 19,
-        "rating": 1679,
-        "rd": 129,
-        "prog": 43,
+        "games": 21,
+        "rating": 1629,
+        "rd": 117,
+        "prog": -7,
         "prov": true
       },
       "crazyhouse": {
@@ -89,22 +89,28 @@
     "title": "BOT",
     "createdAt": 1657374362880,
     "online": true,
-    "seenAt": 1660054482676,
+    "profile": {
+      "bio": "I accept my all challenges \r\nI am online 14by 7 hours because of network\r\nhttps://hypereasy.herokuapp.com/?single=true",
+      "rcfRating": 2196,
+      "cfcRating": 1568,
+      "dsbRating": 1689
+    },
+    "seenAt": 1660063203818,
     "playTime": {
-      "total": 12528,
+      "total": 14999,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_thecat",
     "count": {
-      "all": 68,
-      "rated": 58,
+      "all": 81,
+      "rated": 71,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 32,
-      "lossH": 32,
-      "win": 35,
-      "winH": 35,
+      "loss": 39,
+      "lossH": 39,
+      "win": 41,
+      "winH": 41,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
