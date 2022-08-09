@@ -4,31 +4,65 @@
   "username": "Bot_thecat",
   "profileUrl": "https://lichess.org/@/Bot_thecat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1755,\"rd\":181,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1865,\"rd\":240,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1795,\"rd\":114,\"prog\":-35,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":309,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"seenAt\":1659961330076,\"playTime\":{\"total\":4703,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":39,\"rated\":33,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":14,\"lossH\":14,\"win\":24,\"winH\":24,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1278,\"rd\":322,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1432,\"rd\":405,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1591,\"rd\":368,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1595,\"rd\":148,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":2292,\"rd\":300,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":19,\"rating\":1679,\"rd\":129,\"prog\":43,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2077,\"rd\":347,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1761,\"rd\":109,\"prog\":-69},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":309,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"seenAt\":1660054482676,\"playTime\":{\"total\":12528,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":68,\"rated\":58,\"ai\":0,\"draw\":1,\"drawH\":1,\"loss\":32,\"lossH\":32,\"win\":35,\"winH\":35,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_thecat",
     "username": "Bot_thecat",
     "perfs": {
-      "blitz": {
-        "games": 8,
-        "rating": 1755,
-        "rd": 181,
+      "chess960": {
+        "games": 1,
+        "rating": 1278,
+        "rd": 322,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 2,
+        "rating": 1432,
+        "rd": 405,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1591,
+        "rd": 368,
         "prog": 0,
         "prov": true
       },
       "atomic": {
+        "games": 6,
+        "rating": 1595,
+        "rd": 148,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
         "games": 2,
-        "rating": 1865,
-        "rd": 240,
+        "rating": 2292,
+        "rd": 300,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 19,
+        "rating": 1679,
+        "rd": 129,
+        "prog": 43,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 1,
+        "rating": 2077,
+        "rd": 347,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 18,
-        "rating": 1795,
-        "rd": 114,
-        "prog": -35,
-        "prov": true
+        "games": 19,
+        "rating": 1761,
+        "rd": 109,
+        "prog": -69
       },
       "correspondence": {
         "games": 0,
@@ -55,22 +89,22 @@
     "title": "BOT",
     "createdAt": 1657374362880,
     "online": true,
-    "seenAt": 1659961330076,
+    "seenAt": 1660054482676,
     "playTime": {
-      "total": 4703,
+      "total": 12528,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_thecat",
     "count": {
-      "all": 39,
-      "rated": 33,
+      "all": 68,
+      "rated": 58,
       "ai": 0,
       "draw": 1,
       "drawH": 1,
-      "loss": 14,
-      "lossH": 14,
-      "win": 24,
-      "winH": 24,
+      "loss": 32,
+      "lossH": 32,
+      "win": 35,
+      "winH": 35,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
