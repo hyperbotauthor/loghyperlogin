@@ -4,44 +4,41 @@
   "username": "AntihackersBotik",
   "profileUrl": "https://lichess.org/@/AntihackersBotik",
   "provider": "lichess",
-  "_raw": "{\"id\":\"antihackersbotik\",\"username\":\"AntihackersBotik\",\"perfs\":{\"blitz\":{\"games\":34,\"rating\":1168,\"rd\":81,\"prog\":-55},\"bullet\":{\"games\":17,\"rating\":1718,\"rd\":114,\"prog\":-11,\"prov\":true},\"correspondence\":{\"games\":1,\"rating\":1553,\"rd\":450,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1918,\"rd\":253,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1640512476179,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"Kyiv\",\"bio\":\"Hello! I am chess bot that written from scratch. Only casual games, and only standard chess. My developer - @fish224 . V 1.4. My developer can make same Bot for you for FREE - message @fish224 ! This bot is not very strong, but stronger that @sxCapture and @swarm-o-tron.\",\"firstName\":\"AntihackersBotik v.\",\"lastName\":\"1.4\"},\"seenAt\":1642673863957,\"playTime\":{\"total\":49589,\"tv\":0},\"url\":\"https://lichess.org/@/AntihackersBotik\",\"count\":{\"all\":671,\"rated\":56,\"ai\":1,\"draw\":151,\"drawH\":151,\"loss\":345,\"lossH\":344,\"win\":175,\"winH\":175,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"antihackersbotik\",\"username\":\"AntihackersBotik\",\"perfs\":{\"blitz\":{\"games\":1856,\"rating\":1061,\"rd\":46,\"prog\":-13},\"bullet\":{\"games\":1149,\"rating\":1234,\"rd\":46,\"prog\":-10},\"correspondence\":{\"games\":46,\"rating\":1318,\"rd\":118,\"prog\":313,\"prov\":true},\"classical\":{\"games\":661,\"rating\":1008,\"rd\":58,\"prog\":-3},\"rapid\":{\"games\":812,\"rating\":1111,\"rd\":50,\"prog\":14}},\"title\":\"BOT\",\"createdAt\":1640512476179,\"online\":true,\"profile\":{\"country\":\"UA\",\"location\":\"Switzerland\",\"bio\":\"Hello. I am chess bot that written from scratch by Ukrainian @fish224 (12 y. o., got banned 1 Aug 2022), that now in Switzerland. This bot accept standard chess only, casual and rated, all time controls. Try to enjoy playing with me! Upcoming bot championship, need ten bots: https://lichess.org/team/real-bot-championship.\",\"firstName\":\"AntihackersBotik v.\",\"lastName\":\"2.8 (BUG FIXED)\"},\"seenAt\":1662186162498,\"playTime\":{\"total\":1205545,\"tv\":569},\"url\":\"https://lichess.org/@/AntihackersBotik\",\"count\":{\"all\":7089,\"rated\":4741,\"ai\":1,\"draw\":377,\"drawH\":377,\"loss\":5829,\"lossH\":5828,\"win\":883,\"winH\":883,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "antihackersbotik",
     "username": "AntihackersBotik",
     "perfs": {
       "blitz": {
-        "games": 34,
-        "rating": 1168,
-        "rd": 81,
-        "prog": -55
+        "games": 1856,
+        "rating": 1061,
+        "rd": 46,
+        "prog": -13
       },
       "bullet": {
-        "games": 17,
-        "rating": 1718,
-        "rd": 114,
-        "prog": -11,
-        "prov": true
+        "games": 1149,
+        "rating": 1234,
+        "rd": 46,
+        "prog": -10
       },
       "correspondence": {
-        "games": 1,
-        "rating": 1553,
-        "rd": 450,
-        "prog": 0,
+        "games": 46,
+        "rating": 1318,
+        "rd": 118,
+        "prog": 313,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
-        "prog": 0,
-        "prov": true
+        "games": 661,
+        "rating": 1008,
+        "rd": 58,
+        "prog": -3
       },
       "rapid": {
-        "games": 2,
-        "rating": 1918,
-        "rd": 253,
-        "prog": 0,
-        "prov": true
+        "games": 812,
+        "rating": 1111,
+        "rd": 50,
+        "prog": 14
       }
     },
     "title": "BOT",
@@ -49,28 +46,28 @@
     "online": true,
     "profile": {
       "country": "UA",
-      "location": "Kyiv",
-      "bio": "Hello! I am chess bot that written from scratch. Only casual games, and only standard chess. My developer - @fish224 . V 1.4. My developer can make same Bot for you for FREE - message @fish224 ! This bot is not very strong, but stronger that @sxCapture and @swarm-o-tron.",
+      "location": "Switzerland",
+      "bio": "Hello. I am chess bot that written from scratch by Ukrainian @fish224 (12 y. o., got banned 1 Aug 2022), that now in Switzerland. This bot accept standard chess only, casual and rated, all time controls. Try to enjoy playing with me! Upcoming bot championship, need ten bots: https://lichess.org/team/real-bot-championship.",
       "firstName": "AntihackersBotik v.",
-      "lastName": "1.4"
+      "lastName": "2.8 (BUG FIXED)"
     },
-    "seenAt": 1642673863957,
+    "seenAt": 1662186162498,
     "playTime": {
-      "total": 49589,
-      "tv": 0
+      "total": 1205545,
+      "tv": 569
     },
     "url": "https://lichess.org/@/AntihackersBotik",
     "count": {
-      "all": 671,
-      "rated": 56,
+      "all": 7089,
+      "rated": 4741,
       "ai": 1,
-      "draw": 151,
-      "drawH": 151,
-      "loss": 345,
-      "lossH": 344,
-      "win": 175,
-      "winH": 175,
-      "bookmark": 1,
+      "draw": 377,
+      "drawH": 377,
+      "loss": 5829,
+      "lossH": 5828,
+      "win": 883,
+      "winH": 883,
+      "bookmark": 3,
       "playing": 0,
       "import": 0,
       "me": 0
