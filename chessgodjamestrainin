@@ -1,0 +1,92 @@
+{
+  "id": "chessgodjamestrainin",
+  "displayName": "ChessGodJamesTrainin",
+  "username": "ChessGodJamesTrainin",
+  "profileUrl": "https://lichess.org/@/ChessGodJamesTrainin",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"chessgodjamestrainin\",\"username\":\"ChessGodJamesTrainin\",\"perfs\":{\"blitz\":{\"games\":130,\"rating\":775,\"rd\":45,\"prog\":-6},\"racer\":{\"runs\":4,\"score\":4},\"bullet\":{\"games\":3,\"rating\":1089,\"rd\":205,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":24,\"rating\":1135,\"rd\":108,\"prog\":76},\"puzzle\":{\"games\":3,\"rating\":1570,\"rd\":205,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":31,\"rating\":1097,\"rd\":70,\"prog\":-132}},\"createdAt\":1660910887182,\"online\":true,\"seenAt\":1662270621086,\"playTime\":{\"total\":63152,\"tv\":0},\"url\":\"https://lichess.org/@/ChessGodJamesTrainin\",\"count\":{\"all\":189,\"rated\":188,\"ai\":1,\"draw\":5,\"drawH\":5,\"loss\":126,\"lossH\":125,\"win\":58,\"winH\":58,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "chessgodjamestrainin",
+    "username": "ChessGodJamesTrainin",
+    "perfs": {
+      "blitz": {
+        "games": 130,
+        "rating": 775,
+        "rd": 45,
+        "prog": -6
+      },
+      "racer": {
+        "runs": 4,
+        "score": 4
+      },
+      "bullet": {
+        "games": 3,
+        "rating": 1089,
+        "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 24,
+        "rating": 1135,
+        "rd": 108,
+        "prog": 76
+      },
+      "puzzle": {
+        "games": 3,
+        "rating": 1570,
+        "rd": 205,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 31,
+        "rating": 1097,
+        "rd": 70,
+        "prog": -132
+      }
+    },
+    "createdAt": 1660910887182,
+    "online": true,
+    "seenAt": 1662270621086,
+    "playTime": {
+      "total": 63152,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/ChessGodJamesTrainin",
+    "count": {
+      "all": 189,
+      "rated": 188,
+      "ai": 1,
+      "draw": 5,
+      "drawH": 5,
+      "loss": 126,
+      "lossH": 125,
+      "win": 58,
+      "winH": 58,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
