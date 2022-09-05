@@ -4,7 +4,7 @@
   "username": "Bot_thecat",
   "profileUrl": "https://lichess.org/@/Bot_thecat",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1278,\"rd\":324,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":15,\"rating\":1706,\"rd\":133,\"prog\":-79,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1591,\"rd\":370,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1624,\"rd\":142,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2144,\"rd\":219,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":25,\"rating\":1657,\"rd\":119,\"prog\":22,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":2077,\"rd\":349,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":19,\"rating\":1761,\"rd\":115,\"prog\":-69,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":311,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"profile\":{\"bio\":\"I accept my all challenges \\r\\nI am online 14by 7 hours because of network\\r\\nhttps://hypereasy.herokuapp.com/?single=true\\r\\nhttps://hypereasy.herokuapp.com/auth/lichess/bot\",\"rcfRating\":2196,\"cfcRating\":1568,\"dsbRating\":1689},\"seenAt\":1662363751478,\"playTime\":{\"total\":16017,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":94,\"rated\":84,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":50,\"lossH\":50,\"win\":42,\"winH\":42,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_thecat\",\"username\":\"Bot_thecat\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1278,\"rd\":324,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":16,\"rating\":1700,\"rd\":131,\"prog\":-85,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1591,\"rd\":370,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":8,\"rating\":1624,\"rd\":142,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":7,\"rating\":2144,\"rd\":219,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":34,\"rating\":1661,\"rd\":97,\"prog\":-2},\"crazyhouse\":{\"games\":1,\"rating\":2077,\"rd\":349,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":1754,\"rd\":106,\"prog\":-76},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1615,\"rd\":311,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657374362880,\"online\":true,\"profile\":{\"bio\":\"I accept my all challenges \\r\\nI am online 14by 7 hours because of network\\r\\nhttps://hypereasy.herokuapp.com/?single=true\\r\\nhttps://hypereasy.herokuapp.com/auth/lichess/bot\\r\\nhttps://lishogi.org/@/YoBot_v2\",\"rcfRating\":2196,\"cfcRating\":1568,\"dsbRating\":1689},\"seenAt\":1662367043866,\"playTime\":{\"total\":17892,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_thecat\",\"count\":{\"all\":107,\"rated\":96,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":59,\"lossH\":59,\"win\":45,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_thecat",
     "username": "Bot_thecat",
@@ -17,10 +17,10 @@
         "prov": true
       },
       "antichess": {
-        "games": 15,
-        "rating": 1706,
-        "rd": 133,
-        "prog": -79,
+        "games": 16,
+        "rating": 1700,
+        "rd": 131,
+        "prog": -85,
         "prov": true
       },
       "horde": {
@@ -45,11 +45,10 @@
         "prov": true
       },
       "blitz": {
-        "games": 25,
-        "rating": 1657,
-        "rd": 119,
-        "prog": 22,
-        "prov": true
+        "games": 34,
+        "rating": 1661,
+        "rd": 97,
+        "prog": -2
       },
       "crazyhouse": {
         "games": 1,
@@ -59,11 +58,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 19,
-        "rating": 1761,
-        "rd": 115,
-        "prog": -69,
-        "prov": true
+        "games": 21,
+        "rating": 1754,
+        "rd": 106,
+        "prog": -76
       },
       "correspondence": {
         "games": 0,
@@ -91,27 +89,27 @@
     "createdAt": 1657374362880,
     "online": true,
     "profile": {
-      "bio": "I accept my all challenges \r\nI am online 14by 7 hours because of network\r\nhttps://hypereasy.herokuapp.com/?single=true\r\nhttps://hypereasy.herokuapp.com/auth/lichess/bot",
+      "bio": "I accept my all challenges \r\nI am online 14by 7 hours because of network\r\nhttps://hypereasy.herokuapp.com/?single=true\r\nhttps://hypereasy.herokuapp.com/auth/lichess/bot\r\nhttps://lishogi.org/@/YoBot_v2",
       "rcfRating": 2196,
       "cfcRating": 1568,
       "dsbRating": 1689
     },
-    "seenAt": 1662363751478,
+    "seenAt": 1662367043866,
     "playTime": {
-      "total": 16017,
+      "total": 17892,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_thecat",
     "count": {
-      "all": 94,
-      "rated": 84,
+      "all": 107,
+      "rated": 96,
       "ai": 0,
-      "draw": 2,
-      "drawH": 2,
-      "loss": 50,
-      "lossH": 50,
-      "win": 42,
-      "winH": 42,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 59,
+      "lossH": 59,
+      "win": 45,
+      "winH": 45,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
