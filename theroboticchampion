@@ -4,7 +4,7 @@
   "username": "TheRoboticChampion",
   "profileUrl": "https://lichess.org/@/TheRoboticChampion",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theroboticchampion\",\"username\":\"TheRoboticChampion\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1662351336514,\"online\":true,\"profile\":{\"bio\":\"This Is A BOT Account\\r\\nSo please dont ban\"},\"seenAt\":1662351360634,\"playTime\":{\"total\":0,\"tv\":0},\"url\":\"https://lichess.org/@/TheRoboticChampion\",\"count\":{\"all\":0,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":0,\"winH\":0,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theroboticchampion\",\"username\":\"TheRoboticChampion\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1580,\"rd\":389,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":11,\"rating\":2491,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2259,\"rd\":162,\"prog\":-140,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1662351336514,\"online\":true,\"profile\":{\"location\":\"The Great Legend Of The Bot\",\"bio\":\"Player Account: https://lichess.org/@/TheFallenChampion\",\"firstName\":\"The Robotic\",\"lastName\":\"Champion\"},\"seenAt\":1662422364660,\"playTime\":{\"total\":3297,\"tv\":0},\"url\":\"https://lichess.org/@/TheRoboticChampion\",\"playing\":\"https://lichess.org/NJ3PVOAc/black\",\"count\":{\"all\":36,\"rated\":25,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":5,\"lossH\":5,\"win\":31,\"winH\":31,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theroboticchampion",
     "username": "TheRoboticChampion",
@@ -16,11 +16,25 @@
         "prog": 0,
         "prov": true
       },
-      "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+      "atomic": {
+        "games": 1,
+        "rating": 1580,
+        "rd": 389,
         "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 11,
+        "rating": 2491,
+        "rd": 170,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 12,
+        "rating": 2259,
+        "rd": 162,
+        "prog": -140,
         "prov": true
       },
       "correspondence": {
@@ -49,26 +63,30 @@
     "createdAt": 1662351336514,
     "online": true,
     "profile": {
-      "bio": "This Is A BOT Account\r\nSo please dont ban"
+      "location": "The Great Legend Of The Bot",
+      "bio": "Player Account: https://lichess.org/@/TheFallenChampion",
+      "firstName": "The Robotic",
+      "lastName": "Champion"
     },
-    "seenAt": 1662351360634,
+    "seenAt": 1662422364660,
     "playTime": {
-      "total": 0,
+      "total": 3297,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheRoboticChampion",
+    "playing": "https://lichess.org/NJ3PVOAc/black",
     "count": {
-      "all": 0,
-      "rated": 0,
+      "all": 36,
+      "rated": 25,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 0,
-      "lossH": 0,
-      "win": 0,
-      "winH": 0,
+      "loss": 5,
+      "lossH": 5,
+      "win": 31,
+      "winH": 31,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
