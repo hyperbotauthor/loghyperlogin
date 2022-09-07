@@ -1,0 +1,155 @@
+{
+  "id": "sasha-2012",
+  "displayName": "SASHA-2012",
+  "username": "SASHA-2012",
+  "profileUrl": "https://lichess.org/@/SASHA-2012",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"sasha-2012\",\"username\":\"SASHA-2012\",\"perfs\":{\"chess960\":{\"games\":164,\"rating\":1752,\"rd\":46,\"prog\":-13},\"antichess\":{\"games\":31,\"rating\":1399,\"rd\":131,\"prog\":76,\"prov\":true},\"atomic\":{\"games\":21,\"rating\":1379,\"rd\":140,\"prog\":27,\"prov\":true},\"racingKings\":{\"games\":36,\"rating\":1622,\"rd\":112,\"prog\":-63,\"prov\":true},\"racer\":{\"runs\":83,\"score\":75},\"ultraBullet\":{\"games\":147,\"rating\":1483,\"rd\":65,\"prog\":55},\"blitz\":{\"games\":2083,\"rating\":2154,\"rd\":47,\"prog\":47},\"kingOfTheHill\":{\"games\":33,\"rating\":1388,\"rd\":185,\"prog\":83,\"prov\":true},\"crazyhouse\":{\"games\":98,\"rating\":1629,\"rd\":103,\"prog\":67},\"threeCheck\":{\"games\":10,\"rating\":1268,\"rd\":209,\"prog\":0,\"prov\":true},\"streak\":{\"runs\":13,\"score\":36},\"storm\":{\"runs\":45,\"score\":50},\"bullet\":{\"games\":916,\"rating\":2101,\"rd\":45,\"prog\":8},\"correspondence\":{\"games\":10,\"rating\":1586,\"rd\":190,\"prog\":0,\"prov\":true},\"horde\":{\"games\":5,\"rating\":1608,\"rd\":212,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":7626,\"rating\":2547,\"rd\":63,\"prog\":0},\"classical\":{\"games\":663,\"rating\":1968,\"rd\":86,\"prog\":-8},\"rapid\":{\"games\":3492,\"rating\":2239,\"rd\":45,\"prog\":31}},\"createdAt\":1541006412764,\"online\":true,\"profile\":{\"country\":\"RU\",\"rcfRating\":1653},\"seenAt\":1662555181145,\"playTime\":{\"total\":3367459,\"tv\":4674},\"url\":\"https://lichess.org/@/SASHA-2012\",\"count\":{\"all\":8565,\"rated\":7758,\"ai\":166,\"draw\":602,\"drawH\":574,\"loss\":3724,\"lossH\":3651,\"win\":4239,\"winH\":4174,\"bookmark\":6,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "sasha-2012",
+    "username": "SASHA-2012",
+    "perfs": {
+      "chess960": {
+        "games": 164,
+        "rating": 1752,
+        "rd": 46,
+        "prog": -13
+      },
+      "antichess": {
+        "games": 31,
+        "rating": 1399,
+        "rd": 131,
+        "prog": 76,
+        "prov": true
+      },
+      "atomic": {
+        "games": 21,
+        "rating": 1379,
+        "rd": 140,
+        "prog": 27,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 36,
+        "rating": 1622,
+        "rd": 112,
+        "prog": -63,
+        "prov": true
+      },
+      "racer": {
+        "runs": 83,
+        "score": 75
+      },
+      "ultraBullet": {
+        "games": 147,
+        "rating": 1483,
+        "rd": 65,
+        "prog": 55
+      },
+      "blitz": {
+        "games": 2083,
+        "rating": 2154,
+        "rd": 47,
+        "prog": 47
+      },
+      "kingOfTheHill": {
+        "games": 33,
+        "rating": 1388,
+        "rd": 185,
+        "prog": 83,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 98,
+        "rating": 1629,
+        "rd": 103,
+        "prog": 67
+      },
+      "threeCheck": {
+        "games": 10,
+        "rating": 1268,
+        "rd": 209,
+        "prog": 0,
+        "prov": true
+      },
+      "streak": {
+        "runs": 13,
+        "score": 36
+      },
+      "storm": {
+        "runs": 45,
+        "score": 50
+      },
+      "bullet": {
+        "games": 916,
+        "rating": 2101,
+        "rd": 45,
+        "prog": 8
+      },
+      "correspondence": {
+        "games": 10,
+        "rating": 1586,
+        "rd": 190,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 5,
+        "rating": 1608,
+        "rd": 212,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 7626,
+        "rating": 2547,
+        "rd": 63,
+        "prog": 0
+      },
+      "classical": {
+        "games": 663,
+        "rating": 1968,
+        "rd": 86,
+        "prog": -8
+      },
+      "rapid": {
+        "games": 3492,
+        "rating": 2239,
+        "rd": 45,
+        "prog": 31
+      }
+    },
+    "createdAt": 1541006412764,
+    "online": true,
+    "profile": {
+      "country": "RU",
+      "rcfRating": 1653
+    },
+    "seenAt": 1662555181145,
+    "playTime": {
+      "total": 3367459,
+      "tv": 4674
+    },
+    "url": "https://lichess.org/@/SASHA-2012",
+    "count": {
+      "all": 8565,
+      "rated": 7758,
+      "ai": 166,
+      "draw": 602,
+      "drawH": 574,
+      "loss": 3724,
+      "lossH": 3651,
+      "win": 4239,
+      "winH": 4174,
+      "bookmark": 6,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
