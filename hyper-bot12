@@ -1,0 +1,94 @@
+{
+  "id": "hyper-bot12",
+  "displayName": "Hyper-Bot12",
+  "username": "Hyper-Bot12",
+  "profileUrl": "https://lichess.org/@/Hyper-Bot12",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"hyper-bot12\",\"username\":\"Hyper-Bot12\",\"perfs\":{\"chess960\":{\"games\":2,\"rating\":1730,\"rd\":320,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":1,\"rating\":2573,\"rd\":470,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":6,\"rating\":2719,\"rd\":161,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":8,\"rating\":2188,\"rd\":127,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2707,\"rd\":434,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":2656,\"rd\":290,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1662546124754,\"online\":true,\"profile\":{\"country\":\"_russia-wbw\",\"location\":\"Mосква\",\"bio\":\"Made by @HyperBullets11. Bots go at fast speed when it is extremely low on time, its like 20X faster than the human!\",\"firstName\":\"I am a BOT,\",\"lastName\":\"right?\",\"fideRating\":2625},\"seenAt\":1662613818734,\"playTime\":{\"total\":17588,\"tv\":0},\"url\":\"https://lichess.org/@/Hyper-Bot12\",\"playing\":\"https://lichess.org/HQYObrjZ/black\",\"count\":{\"all\":23,\"rated\":22,\"ai\":0,\"draw\":19,\"drawH\":19,\"loss\":2,\"lossH\":2,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":15,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "hyper-bot12",
+    "username": "Hyper-Bot12",
+    "perfs": {
+      "chess960": {
+        "games": 2,
+        "rating": 1730,
+        "rd": 320,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 1,
+        "rating": 2573,
+        "rd": 470,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 6,
+        "rating": 2719,
+        "rd": 161,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 8,
+        "rating": 2188,
+        "rd": 127,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 1,
+        "rating": 2707,
+        "rd": 434,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 2,
+        "rating": 2656,
+        "rd": 290,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1662546124754,
+    "online": true,
+    "profile": {
+      "country": "_russia-wbw",
+      "location": "Mосква",
+      "bio": "Made by @HyperBullets11. Bots go at fast speed when it is extremely low on time, its like 20X faster than the human!",
+      "firstName": "I am a BOT,",
+      "lastName": "right?",
+      "fideRating": 2625
+    },
+    "seenAt": 1662613818734,
+    "playTime": {
+      "total": 17588,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/Hyper-Bot12",
+    "playing": "https://lichess.org/HQYObrjZ/black",
+    "count": {
+      "all": 23,
+      "rated": 22,
+      "ai": 0,
+      "draw": 19,
+      "drawH": 19,
+      "loss": 2,
+      "lossH": 2,
+      "win": 2,
+      "winH": 2,
+      "bookmark": 0,
+      "playing": 15,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
