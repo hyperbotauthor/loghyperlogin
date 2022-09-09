@@ -4,38 +4,44 @@
   "username": "TheRoboticChampion",
   "profileUrl": "https://lichess.org/@/TheRoboticChampion",
   "provider": "lichess",
-  "_raw": "{\"id\":\"theroboticchampion\",\"username\":\"TheRoboticChampion\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1910,\"rd\":241,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1580,\"rd\":389,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":11,\"rating\":2491,\"rd\":170,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":12,\"rating\":2259,\"rd\":162,\"prog\":-140,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2114,\"rd\":341,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1652,\"rd\":300,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1662351336514,\"online\":true,\"profile\":{\"location\":\"Legend Awaits....\",\"bio\":\"Never Fear For I The Fallen Champion is Here!\\r\\nPlayer Account: https://lichess.org/@/TheFallenChampion\\r\\nhttps://i.imgur.com/0rSoqtC.gif\",\"firstName\":\"The Robotic\",\"lastName\":\"Champion\"},\"seenAt\":1662507891890,\"playTime\":{\"total\":5388,\"tv\":0},\"url\":\"https://lichess.org/@/TheRoboticChampion\",\"playing\":\"https://lichess.org/191LOAWx/black\",\"count\":{\"all\":43,\"rated\":32,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":36,\"winH\":36,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"theroboticchampion\",\"username\":\"TheRoboticChampion\",\"perfs\":{\"blitz\":{\"games\":7,\"rating\":2176,\"rd\":163,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2170,\"rd\":419,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":2037,\"rd\":124,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":15,\"rating\":2375,\"rd\":154,\"prog\":-116,\"prov\":true},\"bullet\":{\"games\":27,\"rating\":2043,\"rd\":83,\"prog\":-123},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2114,\"rd\":341,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":15,\"rating\":2088,\"rd\":126,\"prog\":-14,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1662351336514,\"online\":true,\"profile\":{\"location\":\"Legend Awaits....\",\"bio\":\"Never Fear For I The Fallen Champion is Here!\\r\\nPlayer Account: https://lichess.org/@/TheFallenChampion\\r\\nhttps://i.imgur.com/0rSoqtC.gif\",\"firstName\":\"The Robotic\",\"lastName\":\"Champion\"},\"seenAt\":1662720898718,\"playTime\":{\"total\":40232,\"tv\":0},\"url\":\"https://lichess.org/@/TheRoboticChampion\",\"count\":{\"all\":94,\"rated\":80,\"ai\":0,\"draw\":2,\"drawH\":2,\"loss\":35,\"lossH\":35,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "theroboticchampion",
     "username": "TheRoboticChampion",
     "perfs": {
       "blitz": {
+        "games": 7,
+        "rating": 2176,
+        "rd": 163,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
         "games": 3,
-        "rating": 1910,
-        "rd": 241,
+        "rating": 2170,
+        "rd": 419,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 1,
-        "rating": 1580,
-        "rd": 389,
+        "games": 11,
+        "rating": 2037,
+        "rd": 124,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
-        "games": 11,
-        "rating": 2491,
-        "rd": 170,
-        "prog": 0,
+        "games": 15,
+        "rating": 2375,
+        "rd": 154,
+        "prog": -116,
         "prov": true
       },
       "bullet": {
-        "games": 12,
-        "rating": 2259,
-        "rd": 162,
-        "prog": -140,
-        "prov": true
+        "games": 27,
+        "rating": 2043,
+        "rd": 83,
+        "prog": -123
       },
       "correspondence": {
         "games": 0,
@@ -52,10 +58,10 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 1652,
-        "rd": 300,
-        "prog": 0,
+        "games": 15,
+        "rating": 2088,
+        "rd": 126,
+        "prog": -14,
         "prov": true
       }
     },
@@ -68,25 +74,24 @@
       "firstName": "The Robotic",
       "lastName": "Champion"
     },
-    "seenAt": 1662507891890,
+    "seenAt": 1662720898718,
     "playTime": {
-      "total": 5388,
+      "total": 40232,
       "tv": 0
     },
     "url": "https://lichess.org/@/TheRoboticChampion",
-    "playing": "https://lichess.org/191LOAWx/black",
     "count": {
-      "all": 43,
-      "rated": 32,
+      "all": 94,
+      "rated": 80,
       "ai": 0,
-      "draw": 0,
-      "drawH": 0,
-      "loss": 7,
-      "lossH": 7,
-      "win": 36,
-      "winH": 36,
+      "draw": 2,
+      "drawH": 2,
+      "loss": 35,
+      "lossH": 35,
+      "win": 57,
+      "winH": 57,
       "bookmark": 0,
-      "playing": 1,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
