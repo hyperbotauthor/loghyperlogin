@@ -4,22 +4,36 @@
   "username": "Teamleaderbot",
   "profileUrl": "https://lichess.org/@/Teamleaderbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"teamleaderbot\",\"username\":\"Teamleaderbot\",\"perfs\":{\"blitz\":{\"games\":35,\"rating\":1744,\"rd\":179,\"prog\":-99,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1414,\"rd\":417,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1069,\"rd\":351,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1622443025007,\"online\":true,\"seenAt\":1662561793198,\"playTime\":{\"total\":6749,\"tv\":998},\"url\":\"https://lichess.org/@/Teamleaderbot\",\"count\":{\"all\":49,\"rated\":38,\"ai\":3,\"draw\":3,\"drawH\":3,\"loss\":30,\"lossH\":28,\"win\":16,\"winH\":15,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"teamleaderbot\",\"username\":\"Teamleaderbot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1458,\"rd\":443,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":49,\"rating\":1865,\"rd\":118,\"prog\":119,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1904,\"rd\":405,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1471,\"rd\":462,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1414,\"rd\":417,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1069,\"rd\":351,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1622443025007,\"online\":true,\"profile\":{\"bio\":\"i am a bot control by thefireteam i am not online for 24hour only 6hour i be online \\r\\ni run in hypereasy bot\"},\"seenAt\":1662722620392,\"playTime\":{\"total\":13472,\"tv\":998},\"url\":\"https://lichess.org/@/Teamleaderbot\",\"count\":{\"all\":66,\"rated\":55,\"ai\":3,\"draw\":6,\"drawH\":6,\"loss\":40,\"lossH\":38,\"win\":20,\"winH\":19,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "teamleaderbot",
     "username": "Teamleaderbot",
     "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1458,
+        "rd": 443,
+        "prog": 0,
+        "prov": true
+      },
       "blitz": {
-        "games": 35,
-        "rating": 1744,
-        "rd": 179,
-        "prog": -99,
+        "games": 49,
+        "rating": 1865,
+        "rd": 118,
+        "prog": 119,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 1,
+        "rating": 1904,
+        "rd": 405,
+        "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 1500,
-        "rd": 500,
+        "games": 1,
+        "rating": 1471,
+        "rd": 462,
         "prog": 0,
         "prov": true
       },
@@ -48,22 +62,25 @@
     "title": "BOT",
     "createdAt": 1622443025007,
     "online": true,
-    "seenAt": 1662561793198,
+    "profile": {
+      "bio": "i am a bot control by thefireteam i am not online for 24hour only 6hour i be online \r\ni run in hypereasy bot"
+    },
+    "seenAt": 1662722620392,
     "playTime": {
-      "total": 6749,
+      "total": 13472,
       "tv": 998
     },
     "url": "https://lichess.org/@/Teamleaderbot",
     "count": {
-      "all": 49,
-      "rated": 38,
+      "all": 66,
+      "rated": 55,
       "ai": 3,
-      "draw": 3,
-      "drawH": 3,
-      "loss": 30,
-      "lossH": 28,
-      "win": 16,
-      "winH": 15,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 40,
+      "lossH": 38,
+      "win": 20,
+      "winH": 19,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
