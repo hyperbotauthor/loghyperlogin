@@ -4,7 +4,7 @@
   "username": "XXXTryandTryXXX",
   "profileUrl": "https://lichess.org/@/XXXTryandTryXXX",
   "provider": "lichess",
-  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1569,\"rd\":408,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1617,\"rd\":350,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1774,\"rd\":244,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1280,\"rd\":293,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1674,\"rd\":315,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":3,\"rating\":1203,\"rd\":211,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1747,\"rd\":254,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":32,\"rating\":1719,\"rd\":162,\"prog\":-171,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1727,\"rd\":254,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":3,\"rating\":1925,\"rd\":263,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1616776722996,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nNever makes a Mistake.\\r\\nPlease Challenge Me!\"},\"seenAt\":1654696823581,\"playTime\":{\"total\":18632,\"tv\":0},\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"count\":{\"all\":145,\"rated\":56,\"ai\":15,\"draw\":7,\"drawH\":7,\"loss\":44,\"lossH\":39,\"win\":94,\"winH\":84,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"xxxtryandtryxxx\",\"username\":\"XXXTryandTryXXX\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1569,\"rd\":415,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":2,\"rating\":1617,\"rd\":358,\"prog\":0,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1774,\"rd\":257,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1280,\"rd\":303,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":1,\"rating\":1674,\"rd\":325,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":8,\"rating\":1565,\"rd\":152,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":2,\"rating\":1747,\"rd\":265,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":49,\"rating\":1885,\"rd\":110,\"prog\":44,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1727,\"rd\":265,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":4,\"rating\":1937,\"rd\":265,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1616776722996,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\\r\\n\\r\\nThis Bot runs on Hypereasy.\\r\\nNever makes a Mistake.\\r\\nPlease Challenge Me!\"},\"seenAt\":1664722064983,\"playTime\":{\"total\":21461,\"tv\":0},\"url\":\"https://lichess.org/@/XXXTryandTryXXX\",\"playing\":\"https://lichess.org/yZPwILDw/white\",\"count\":{\"all\":194,\"rated\":80,\"ai\":15,\"draw\":10,\"drawH\":10,\"loss\":60,\"lossH\":55,\"win\":124,\"winH\":114,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "xxxtryandtryxxx",
     "username": "XXXTryandTryXXX",
@@ -12,63 +12,63 @@
       "chess960": {
         "games": 1,
         "rating": 1569,
-        "rd": 408,
+        "rd": 415,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 2,
         "rating": 1617,
-        "rd": 350,
+        "rd": 358,
         "prog": 0,
         "prov": true
       },
       "horde": {
         "games": 3,
         "rating": 1774,
-        "rd": 244,
+        "rd": 257,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1280,
-        "rd": 293,
+        "rd": 303,
         "prog": 0,
         "prov": true
       },
       "racingKings": {
         "games": 1,
         "rating": 1674,
-        "rd": 315,
+        "rd": 325,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 3,
-        "rating": 1203,
-        "rd": 211,
+        "games": 8,
+        "rating": 1565,
+        "rd": 152,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
         "games": 2,
         "rating": 1747,
-        "rd": 254,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 32,
-        "rating": 1719,
-        "rd": 162,
-        "prog": -171,
+        "games": 49,
+        "rating": 1885,
+        "rd": 110,
+        "prog": 44,
         "prov": true
       },
       "correspondence": {
         "games": 5,
         "rating": 1727,
-        "rd": 254,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
@@ -80,9 +80,9 @@
         "prov": true
       },
       "rapid": {
-        "games": 3,
-        "rating": 1925,
-        "rd": 263,
+        "games": 4,
+        "rating": 1937,
+        "rd": 265,
         "prog": 0,
         "prov": true
       }
@@ -94,24 +94,25 @@
       "country": "_lichess",
       "bio": "https://media.giphy.com/media/JzIGVWVZzUas/giphy.gif\r\n\r\nThis Bot runs on Hypereasy.\r\nNever makes a Mistake.\r\nPlease Challenge Me!"
     },
-    "seenAt": 1654696823581,
+    "seenAt": 1664722064983,
     "playTime": {
-      "total": 18632,
+      "total": 21461,
       "tv": 0
     },
     "url": "https://lichess.org/@/XXXTryandTryXXX",
+    "playing": "https://lichess.org/yZPwILDw/white",
     "count": {
-      "all": 145,
-      "rated": 56,
+      "all": 194,
+      "rated": 80,
       "ai": 15,
-      "draw": 7,
-      "drawH": 7,
-      "loss": 44,
-      "lossH": 39,
-      "win": 94,
-      "winH": 84,
+      "draw": 10,
+      "drawH": 10,
+      "loss": 60,
+      "lossH": 55,
+      "win": 124,
+      "winH": 114,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
