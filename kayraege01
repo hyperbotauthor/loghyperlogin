@@ -1,0 +1,101 @@
+{
+  "id": "kayraege01",
+  "displayName": "KayraEge01",
+  "username": "KayraEge01",
+  "profileUrl": "https://lichess.org/@/KayraEge01",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"kayraege01\",\"username\":\"KayraEge01\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1477,\"rd\":494,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":21,\"rating\":2215,\"rd\":227,\"prog\":171,\"prov\":true},\"atomic\":{\"games\":40,\"rating\":1966,\"rd\":178,\"prog\":119,\"prov\":true},\"bullet\":{\"games\":117,\"rating\":2128,\"rd\":176,\"prog\":15,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":3,\"rating\":1588,\"rd\":309,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2503,\"rd\":199,\"prog\":-35,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1613838871246,\"online\":true,\"profile\":{\"country\":\"TR\",\"location\":\"Adana\",\"fideRating\":1000,\"uscfRating\":1000,\"ecfRating\":1000,\"rcfRating\":1000,\"cfcRating\":1000},\"seenAt\":1664803147709,\"playTime\":{\"total\":42757,\"tv\":4405},\"url\":\"https://lichess.org/@/KayraEge01\",\"count\":{\"all\":372,\"rated\":200,\"ai\":43,\"draw\":18,\"drawH\":17,\"loss\":120,\"lossH\":98,\"win\":234,\"winH\":214,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "kayraege01",
+    "username": "KayraEge01",
+    "perfs": {
+      "chess960": {
+        "games": 1,
+        "rating": 1477,
+        "rd": 494,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 21,
+        "rating": 2215,
+        "rd": 227,
+        "prog": 171,
+        "prov": true
+      },
+      "atomic": {
+        "games": 40,
+        "rating": 1966,
+        "rd": 178,
+        "prog": 119,
+        "prov": true
+      },
+      "bullet": {
+        "games": 117,
+        "rating": 2128,
+        "rd": 176,
+        "prog": 15,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 3,
+        "rating": 1588,
+        "rd": 309,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 16,
+        "rating": 2503,
+        "rd": 199,
+        "prog": -35,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1613838871246,
+    "online": true,
+    "profile": {
+      "country": "TR",
+      "location": "Adana",
+      "fideRating": 1000,
+      "uscfRating": 1000,
+      "ecfRating": 1000,
+      "rcfRating": 1000,
+      "cfcRating": 1000
+    },
+    "seenAt": 1664803147709,
+    "playTime": {
+      "total": 42757,
+      "tv": 4405
+    },
+    "url": "https://lichess.org/@/KayraEge01",
+    "count": {
+      "all": 372,
+      "rated": 200,
+      "ai": 43,
+      "draw": 18,
+      "drawH": 17,
+      "loss": 120,
+      "lossH": 98,
+      "win": 234,
+      "winH": 214,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
