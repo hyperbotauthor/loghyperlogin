@@ -1,0 +1,78 @@
+{
+  "id": "bobaxolotl",
+  "displayName": "BoBAxolotl",
+  "username": "BoBAxolotl",
+  "profileUrl": "https://lichess.org/@/BoBAxolotl",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"bobaxolotl\",\"username\":\"BoBAxolotl\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1300,\"rd\":418,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664920925850,\"online\":true,\"seenAt\":1664923164825,\"playTime\":{\"total\":68,\"tv\":0},\"url\":\"https://lichess.org/@/BoBAxolotl\",\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":1,\"lossH\":1,\"win\":1,\"winH\":1,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "bobaxolotl",
+    "username": "BoBAxolotl",
+    "perfs": {
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 1,
+        "rating": 1300,
+        "rd": 418,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1664920925850,
+    "online": true,
+    "seenAt": 1664923164825,
+    "playTime": {
+      "total": 68,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/BoBAxolotl",
+    "count": {
+      "all": 2,
+      "rated": 1,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 1,
+      "lossH": 1,
+      "win": 1,
+      "winH": 1,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
