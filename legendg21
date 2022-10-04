@@ -4,7 +4,7 @@
   "username": "LegendG21",
   "profileUrl": "https://lichess.org/@/LegendG21",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendg21\",\"username\":\"LegendG21\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1656,\"rd\":201,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2136,\"rd\":173,\"prog\":49,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1988,\"rd\":163,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664801309052,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Non-Of-Your-Business\",\"bio\":\"Creator: https://lichess.org/@/SAUWBradley212\\r\\n\\r\\nINFO: I am a bot, mostly playing bullet.\",\"firstName\":\"Legend\",\"lastName\":\"G\",\"links\":\"https://lichess.org/@/SAUWBradley212\"},\"seenAt\":1664888169650,\"playTime\":{\"total\":2729,\"tv\":0},\"url\":\"https://lichess.org/@/LegendG21\",\"count\":{\"all\":31,\"rated\":30,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendg21\",\"username\":\"LegendG21\",\"perfs\":{\"blitz\":{\"games\":8,\"rating\":1656,\"rd\":201,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":15,\"rating\":2136,\"rd\":173,\"prog\":49,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":7,\"rating\":1988,\"rd\":163,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664801309052,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Non-Of-Your-Business\",\"bio\":\"Creator: https://lichess.org/@/SAUWBradley212\\r\\n\\r\\nINFO: I am a bot, mostly playing bullet.\",\"firstName\":\"Legend\",\"lastName\":\"G\",\"links\":\"https://lichess.org/@/SAUWBradley212\"},\"seenAt\":1664905740266,\"playTime\":{\"total\":2729,\"tv\":0},\"url\":\"https://lichess.org/@/LegendG21\",\"playing\":\"https://lichess.org/JtTn0jtN/black\",\"count\":{\"all\":31,\"rated\":30,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":27,\"winH\":27,\"bookmark\":0,\"playing\":1,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendg21",
     "username": "LegendG21",
@@ -56,12 +56,13 @@
       "lastName": "G",
       "links": "https://lichess.org/@/SAUWBradley212"
     },
-    "seenAt": 1664888169650,
+    "seenAt": 1664905740266,
     "playTime": {
       "total": 2729,
       "tv": 0
     },
     "url": "https://lichess.org/@/LegendG21",
+    "playing": "https://lichess.org/JtTn0jtN/black",
     "count": {
       "all": 31,
       "rated": 30,
@@ -73,7 +74,7 @@
       "win": 27,
       "winH": 27,
       "bookmark": 0,
-      "playing": 0,
+      "playing": 1,
       "import": 0,
       "me": 0
     },
