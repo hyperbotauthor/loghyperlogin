@@ -1,0 +1,77 @@
+{
+  "id": "samwchess2022",
+  "displayName": "SAMWchess2022",
+  "username": "SAMWchess2022",
+  "profileUrl": "https://lichess.org/@/SAMWchess2022",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"samwchess2022\",\"username\":\"SAMWchess2022\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1568,\"rd\":316,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":21,\"rating\":1966,\"rd\":86,\"prog\":-41},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664916448620,\"online\":true,\"seenAt\":1664926845457,\"playTime\":{\"total\":1478,\"tv\":0},\"url\":\"https://lichess.org/@/SAMWchess2022\",\"count\":{\"all\":22,\"rated\":22,\"ai\":0,\"draw\":3,\"drawH\":3,\"loss\":7,\"lossH\":7,\"win\":12,\"winH\":12,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "samwchess2022",
+    "username": "SAMWchess2022",
+    "perfs": {
+      "blitz": {
+        "games": 1,
+        "rating": 1568,
+        "rd": 316,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 21,
+        "rating": 1966,
+        "rd": 86,
+        "prog": -41
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1664916448620,
+    "online": true,
+    "seenAt": 1664926845457,
+    "playTime": {
+      "total": 1478,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/SAMWchess2022",
+    "count": {
+      "all": 22,
+      "rated": 22,
+      "ai": 0,
+      "draw": 3,
+      "drawH": 3,
+      "loss": 7,
+      "lossH": 7,
+      "win": 12,
+      "winH": 12,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
