@@ -4,22 +4,29 @@
   "username": "BoBAxolotl",
   "profileUrl": "https://lichess.org/@/BoBAxolotl",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bobaxolotl\",\"username\":\"BoBAxolotl\",\"perfs\":{\"blitz\":{\"games\":1,\"rating\":1947,\"rd\":422,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":12,\"rating\":1882,\"rd\":139,\"prog\":-3,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664920925850,\"online\":true,\"seenAt\":1664966037220,\"playTime\":{\"total\":5323,\"tv\":0},\"url\":\"https://lichess.org/@/BoBAxolotl\",\"count\":{\"all\":14,\"rated\":13,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":7,\"lossH\":7,\"win\":7,\"winH\":7,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bobaxolotl\",\"username\":\"BoBAxolotl\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":1864,\"rd\":191,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":2424,\"rd\":245,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":7,\"rating\":2087,\"rd\":180,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":1,\"rating\":2105,\"rd\":351,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":16,\"rating\":2040,\"rd\":124,\"prog\":155,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664920925850,\"online\":true,\"profile\":{\"bio\":\"Hello! I am a bot made from hypereasy. Go follow my creator! @glitch404\"},\"seenAt\":1665011566963,\"playTime\":{\"total\":11024,\"tv\":0},\"url\":\"https://lichess.org/@/BoBAxolotl\",\"count\":{\"all\":34,\"rated\":33,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":14,\"lossH\":14,\"win\":20,\"winH\":20,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bobaxolotl",
     "username": "BoBAxolotl",
     "perfs": {
       "blitz": {
-        "games": 1,
-        "rating": 1947,
-        "rd": 422,
+        "games": 4,
+        "rating": 1864,
+        "rd": 191,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 2424,
+        "rd": 245,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 7,
+        "rating": 2087,
+        "rd": 180,
         "prog": 0,
         "prov": true
       },
@@ -31,39 +38,42 @@
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 2105,
+        "rd": 351,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 12,
-        "rating": 1882,
-        "rd": 139,
-        "prog": -3,
+        "games": 16,
+        "rating": 2040,
+        "rd": 124,
+        "prog": 155,
         "prov": true
       }
     },
     "title": "BOT",
     "createdAt": 1664920925850,
     "online": true,
-    "seenAt": 1664966037220,
+    "profile": {
+      "bio": "Hello! I am a bot made from hypereasy. Go follow my creator! @glitch404"
+    },
+    "seenAt": 1665011566963,
     "playTime": {
-      "total": 5323,
+      "total": 11024,
       "tv": 0
     },
     "url": "https://lichess.org/@/BoBAxolotl",
     "count": {
-      "all": 14,
-      "rated": 13,
+      "all": 34,
+      "rated": 33,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 7,
-      "lossH": 7,
-      "win": 7,
-      "winH": 7,
+      "loss": 14,
+      "lossH": 14,
+      "win": 20,
+      "winH": 20,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
