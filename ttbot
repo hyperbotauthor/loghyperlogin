@@ -4,7 +4,7 @@
   "username": "ttBOT",
   "profileUrl": "https://lichess.org/@/ttBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ttbot\",\"username\":\"ttBOT\",\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1468,\"rd\":336,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":139,\"rating\":2534,\"rd\":59,\"prog\":2},\"antichess\":{\"games\":1,\"rating\":2214,\"rd\":416,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1495,\"rd\":493,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":358,\"rating\":2378,\"rd\":53,\"prog\":0},\"correspondence\":{\"games\":14,\"rating\":2044,\"rd\":153,\"prog\":20,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2596,\"rd\":121,\"prog\":-86,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656492727599,\"online\":true,\"profile\":{\"country\":\"FR\",\"bio\":\"Created by @TheoLego and @tititogepi. Here is my best result! https://lichess.org/@/ttBOT/bookmark\\r\\nI can play bullet, blitz, rapid, classical and I can play now all the variants !!!\",\"firstName\":\"ttBOT\"},\"seenAt\":1664981338950,\"playTime\":{\"total\":107941,\"tv\":1516},\"url\":\"https://lichess.org/@/ttBOT\",\"count\":{\"all\":695,\"rated\":550,\"ai\":0,\"draw\":66,\"drawH\":66,\"loss\":188,\"lossH\":188,\"win\":441,\"winH\":441,\"bookmark\":14,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ttbot\",\"username\":\"ttBOT\",\"perfs\":{\"chess960\":{\"games\":3,\"rating\":1468,\"rd\":336,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":139,\"rating\":2534,\"rd\":59,\"prog\":2},\"antichess\":{\"games\":1,\"rating\":2214,\"rd\":416,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1495,\"rd\":493,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":358,\"rating\":2378,\"rd\":53,\"prog\":0},\"correspondence\":{\"games\":14,\"rating\":2044,\"rd\":153,\"prog\":20,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":23,\"rating\":2596,\"rd\":121,\"prog\":-86,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656492727599,\"online\":true,\"profile\":{\"country\":\"FR\",\"bio\":\"Created by @TheoLego and @tititogepi. Here is my best result! https://lichess.org/@/ttBOT/bookmark\\r\\nI can play bullet, blitz, rapid, classical and I can play now all the variants !!!\",\"firstName\":\"ttBOT\"},\"seenAt\":1664981971890,\"playTime\":{\"total\":107941,\"tv\":1516},\"url\":\"https://lichess.org/@/ttBOT\",\"count\":{\"all\":695,\"rated\":550,\"ai\":0,\"draw\":66,\"drawH\":66,\"loss\":188,\"lossH\":188,\"win\":441,\"winH\":441,\"bookmark\":14,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ttbot",
     "username": "ttBOT",
@@ -72,7 +72,7 @@
       "bio": "Created by @TheoLego and @tititogepi. Here is my best result! https://lichess.org/@/ttBOT/bookmark\r\nI can play bullet, blitz, rapid, classical and I can play now all the variants !!!",
       "firstName": "ttBOT"
     },
-    "seenAt": 1664981338950,
+    "seenAt": 1664981971890,
     "playTime": {
       "total": 107941,
       "tv": 1516
