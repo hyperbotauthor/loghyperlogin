@@ -1,0 +1,83 @@
+{
+  "id": "tapobot",
+  "displayName": "TapoBot",
+  "username": "TapoBot",
+  "profileUrl": "https://lichess.org/@/TapoBot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"tapobot\",\"username\":\"TapoBot\",\"perfs\":{\"blitz\":{\"games\":65,\"rating\":1918,\"rd\":98,\"prog\":-21},\"bullet\":{\"games\":17,\"rating\":1872,\"rd\":123,\"prog\":-124,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":2,\"rating\":2221,\"rd\":271,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":29,\"rating\":2263,\"rd\":118,\"prog\":46,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1653319743747,\"online\":true,\"profile\":{\"bio\":\"TapoBot running on much weaker hardware than @BitExtender128.\\r\\nStill getting updated, made for fun experience while playing a ~1800 lichess bot.\\r\\nStandard + Atomic (taken from BitExtender 11, more coming soon)\",\"firstName\":\"Tapo_Bot\",\"lastName\":\"Chess Computer\",\"fideRating\":1750},\"seenAt\":1665016987684,\"playTime\":{\"total\":29521,\"tv\":1258},\"url\":\"https://lichess.org/@/TapoBot\",\"count\":{\"all\":136,\"rated\":114,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":60,\"lossH\":60,\"win\":69,\"winH\":69,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "tapobot",
+    "username": "TapoBot",
+    "perfs": {
+      "blitz": {
+        "games": 65,
+        "rating": 1918,
+        "rd": 98,
+        "prog": -21
+      },
+      "bullet": {
+        "games": 17,
+        "rating": 1872,
+        "rd": 123,
+        "prog": -124,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 2,
+        "rating": 2221,
+        "rd": 271,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 29,
+        "rating": 2263,
+        "rd": 118,
+        "prog": 46,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1653319743747,
+    "online": true,
+    "profile": {
+      "bio": "TapoBot running on much weaker hardware than @BitExtender128.\r\nStill getting updated, made for fun experience while playing a ~1800 lichess bot.\r\nStandard + Atomic (taken from BitExtender 11, more coming soon)",
+      "firstName": "Tapo_Bot",
+      "lastName": "Chess Computer",
+      "fideRating": 1750
+    },
+    "seenAt": 1665016987684,
+    "playTime": {
+      "total": 29521,
+      "tv": 1258
+    },
+    "url": "https://lichess.org/@/TapoBot",
+    "count": {
+      "all": 136,
+      "rated": 114,
+      "ai": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 60,
+      "lossH": 60,
+      "win": 69,
+      "winH": 69,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
