@@ -4,7 +4,7 @@
   "username": "Araxiarc",
   "profileUrl": "https://lichess.org/@/Araxiarc",
   "provider": "lichess",
-  "_raw": "{\"id\":\"araxiarc\",\"username\":\"Araxiarc\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":2030,\"rd\":457,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664689643737,\"online\":true,\"seenAt\":1664941687551,\"playTime\":{\"total\":89,\"tv\":0},\"url\":\"https://lichess.org/@/Araxiarc\",\"count\":{\"all\":2,\"rated\":1,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":2,\"winH\":2,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"araxiarc\",\"username\":\"Araxiarc\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":3,\"rating\":2175,\"rd\":291,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664689643737,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"bio\":\"Built by @Tharul_Sanvidu\",\"firstName\":\"BOT Araxiarc\",\"lastName\":\"v1.3\"},\"seenAt\":1665317853774,\"playTime\":{\"total\":292,\"tv\":0},\"url\":\"https://lichess.org/@/Araxiarc\",\"count\":{\"all\":4,\"rated\":3,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":0,\"lossH\":0,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "araxiarc",
     "username": "Araxiarc",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 2030,
-        "rd": 457,
+        "games": 3,
+        "rating": 2175,
+        "rd": 291,
         "prog": 0,
         "prov": true
       },
@@ -48,22 +48,28 @@
     "title": "BOT",
     "createdAt": 1664689643737,
     "online": true,
-    "seenAt": 1664941687551,
+    "profile": {
+      "country": "_lichess",
+      "bio": "Built by @Tharul_Sanvidu",
+      "firstName": "BOT Araxiarc",
+      "lastName": "v1.3"
+    },
+    "seenAt": 1665317853774,
     "playTime": {
-      "total": 89,
+      "total": 292,
       "tv": 0
     },
     "url": "https://lichess.org/@/Araxiarc",
     "count": {
-      "all": 2,
-      "rated": 1,
+      "all": 4,
+      "rated": 3,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
       "loss": 0,
       "lossH": 0,
-      "win": 2,
-      "winH": 2,
+      "win": 4,
+      "winH": 4,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
