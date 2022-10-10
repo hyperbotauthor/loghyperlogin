@@ -4,7 +4,7 @@
   "username": "THE_BEST_BOT-world",
   "profileUrl": "https://lichess.org/@/THE_BEST_BOT-world",
   "provider": "lichess",
-  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":450,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1232,\"rd\":271,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":46,\"rating\":1973,\"rd\":105,\"prog\":-184},\"racingKings\":{\"games\":2,\"rating\":1910,\"rd\":304,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":37,\"rating\":2265,\"rd\":117,\"prog\":-111,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1774,\"rd\":200,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1758,\"rd\":137,\"prog\":49,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2214,\"rd\":177,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":2430,\"rd\":146,\"prog\":-54,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1627130828976,\"online\":false,\"profile\":{\"country\":\"LK\",\"location\":\"Nawala\",\"bio\":\"Hi my name is Ovin Santhosh, and my school is British collage in Colombo. My normal account is @Ovin_2890 check out that account and give a follow to it this account as well and i mos of the time use auto and some times i play by my self. Feel free to challenge me i am online most of the time.\",\"firstName\":\"Ovin\",\"lastName\":\"Santhosh\"},\"seenAt\":1632029735528,\"playTime\":{\"total\":49757,\"tv\":2584},\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"count\":{\"all\":198,\"rated\":146,\"ai\":26,\"draw\":11,\"drawH\":6,\"loss\":62,\"lossH\":48,\"win\":125,\"winH\":118,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"the_best_bot-world\",\"username\":\"THE_BEST_BOT-world\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1443,\"rd\":467,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1232,\"rd\":299,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":47,\"rating\":1972,\"rd\":163,\"prog\":-146,\"prov\":true},\"racingKings\":{\"games\":2,\"rating\":1910,\"rd\":329,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":38,\"rating\":2254,\"rd\":170,\"prog\":-136,\"prov\":true},\"threeCheck\":{\"games\":10,\"rating\":1774,\"rd\":236,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":18,\"rating\":1758,\"rd\":186,\"prog\":49,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":7,\"rating\":2214,\"rd\":217,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":21,\"rating\":2430,\"rd\":193,\"prog\":-54,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1627130828976,\"online\":true,\"profile\":{\"country\":\"LK\",\"location\":\"Nawala\",\"bio\":\"Hi my name is Ovin Santhosh, and my school is British collage in Colombo. My normal account is @Ovin_2890 check out that account and give a follow to it this account as well and i mos of the time use auto and some times i play by my self. Feel free to challenge me i am online most of the time.\",\"firstName\":\"Ovin\",\"lastName\":\"Santhosh\"},\"seenAt\":1665378619217,\"playTime\":{\"total\":49941,\"tv\":2584},\"url\":\"https://lichess.org/@/THE_BEST_BOT-world\",\"count\":{\"all\":200,\"rated\":148,\"ai\":26,\"draw\":11,\"drawH\":6,\"loss\":64,\"lossH\":50,\"win\":125,\"winH\":118,\"bookmark\":3,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "the_best_bot-world",
     "username": "THE_BEST_BOT-world",
@@ -12,48 +12,49 @@
       "chess960": {
         "games": 1,
         "rating": 1443,
-        "rd": 450,
+        "rd": 467,
         "prog": 0,
         "prov": true
       },
       "antichess": {
         "games": 3,
         "rating": 1232,
-        "rd": 271,
+        "rd": 299,
         "prog": 0,
         "prov": true
       },
       "atomic": {
-        "games": 46,
-        "rating": 1973,
-        "rd": 105,
-        "prog": -184
+        "games": 47,
+        "rating": 1972,
+        "rd": 163,
+        "prog": -146,
+        "prov": true
       },
       "racingKings": {
         "games": 2,
         "rating": 1910,
-        "rd": 304,
+        "rd": 329,
         "prog": 0,
         "prov": true
       },
       "blitz": {
-        "games": 37,
-        "rating": 2265,
-        "rd": 117,
-        "prog": -111,
+        "games": 38,
+        "rating": 2254,
+        "rd": 170,
+        "prog": -136,
         "prov": true
       },
       "threeCheck": {
         "games": 10,
         "rating": 1774,
-        "rd": 200,
+        "rd": 236,
         "prog": 0,
         "prov": true
       },
       "bullet": {
         "games": 18,
         "rating": 1758,
-        "rd": 137,
+        "rd": 186,
         "prog": 49,
         "prov": true
       },
@@ -67,21 +68,21 @@
       "classical": {
         "games": 7,
         "rating": 2214,
-        "rd": 177,
+        "rd": 217,
         "prog": 0,
         "prov": true
       },
       "rapid": {
         "games": 21,
         "rating": 2430,
-        "rd": 146,
+        "rd": 193,
         "prog": -54,
         "prov": true
       }
     },
     "title": "BOT",
     "createdAt": 1627130828976,
-    "online": false,
+    "online": true,
     "profile": {
       "country": "LK",
       "location": "Nawala",
@@ -89,20 +90,20 @@
       "firstName": "Ovin",
       "lastName": "Santhosh"
     },
-    "seenAt": 1632029735528,
+    "seenAt": 1665378619217,
     "playTime": {
-      "total": 49757,
+      "total": 49941,
       "tv": 2584
     },
     "url": "https://lichess.org/@/THE_BEST_BOT-world",
     "count": {
-      "all": 198,
-      "rated": 146,
+      "all": 200,
+      "rated": 148,
       "ai": 26,
       "draw": 11,
       "drawH": 6,
-      "loss": 62,
-      "lossH": 48,
+      "loss": 64,
+      "lossH": 50,
       "win": 125,
       "winH": 118,
       "bookmark": 3,
