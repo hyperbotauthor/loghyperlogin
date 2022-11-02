@@ -4,7 +4,7 @@
   "username": "Bot_pro_max13",
   "profileUrl": "https://lichess.org/@/Bot_pro_max13",
   "provider": "lichess",
-  "_raw": "{\"id\":\"bot_pro_max13\",\"username\":\"Bot_pro_max13\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1660648020535,\"profile\":{\"bio\":\"I am a Open bot people can play with me\"},\"seenAt\":1667313884840,\"playTime\":{\"total\":1139,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_pro_max13\",\"count\":{\"all\":9,\"rated\":0,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":5,\"winH\":5,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"bot_pro_max13\",\"username\":\"Bot_pro_max13\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"kingOfTheHill\":{\"games\":2,\"rating\":1402,\"rd\":375,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1660648020535,\"profile\":{\"bio\":\"I am a Open bot people can play with me\"},\"seenAt\":1667386329876,\"playTime\":{\"total\":4577,\"tv\":0},\"url\":\"https://lichess.org/@/Bot_pro_max13\",\"count\":{\"all\":41,\"rated\":2,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":18,\"lossH\":18,\"win\":23,\"winH\":23,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "bot_pro_max13",
     "username": "Bot_pro_max13",
@@ -13,6 +13,13 @@
         "games": 0,
         "rating": 2000,
         "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "kingOfTheHill": {
+        "games": 2,
+        "rating": 1402,
+        "rd": 375,
         "prog": 0,
         "prov": true
       },
@@ -50,22 +57,22 @@
     "profile": {
       "bio": "I am a Open bot people can play with me"
     },
-    "seenAt": 1667313884840,
+    "seenAt": 1667386329876,
     "playTime": {
-      "total": 1139,
+      "total": 4577,
       "tv": 0
     },
     "url": "https://lichess.org/@/Bot_pro_max13",
     "count": {
-      "all": 9,
-      "rated": 0,
+      "all": 41,
+      "rated": 2,
       "ai": 0,
       "draw": 0,
       "drawH": 0,
-      "loss": 4,
-      "lossH": 4,
-      "win": 5,
-      "winH": 5,
+      "loss": 18,
+      "lossH": 18,
+      "win": 23,
+      "winH": 23,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
