@@ -1,0 +1,145 @@
+{
+  "id": "snowbeardedmonkey",
+  "displayName": "snowbeardedmonkey",
+  "username": "snowbeardedmonkey",
+  "profileUrl": "https://lichess.org/@/snowbeardedmonkey",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"snowbeardedmonkey\",\"username\":\"snowbeardedmonkey\",\"perfs\":{\"chess960\":{\"games\":7,\"rating\":1196,\"rd\":189,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":3,\"rating\":1091,\"rd\":211,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1164,\"rd\":245,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":4,\"rating\":1268,\"rd\":255,\"prog\":0,\"prov\":true},\"ultraBullet\":{\"games\":2,\"rating\":1142,\"rd\":273,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":26,\"rating\":739,\"rd\":98,\"prog\":139},\"kingOfTheHill\":{\"games\":8,\"rating\":1248,\"rd\":179,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":3,\"rating\":1271,\"rd\":254,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1417,\"rd\":386,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":26,\"rating\":784,\"rd\":97,\"prog\":-157},\"correspondence\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"horde\":{\"games\":1,\"rating\":1159,\"rd\":325,\"prog\":0,\"prov\":true},\"puzzle\":{\"games\":1302,\"rating\":1878,\"rd\":76,\"prog\":0},\"classical\":{\"games\":206,\"rating\":1379,\"rd\":60,\"prog\":67},\"rapid\":{\"games\":205,\"rating\":1251,\"rd\":63,\"prog\":57}},\"createdAt\":1655423121065,\"profile\":{\"country\":\"US\",\"location\":\"San Francisco\"},\"seenAt\":1667430868338,\"playTime\":{\"total\":349678,\"tv\":796},\"url\":\"https://lichess.org/@/snowbeardedmonkey\",\"count\":{\"all\":659,\"rated\":497,\"ai\":10,\"draw\":29,\"drawH\":29,\"loss\":472,\"lossH\":464,\"win\":158,\"winH\":156,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "snowbeardedmonkey",
+    "username": "snowbeardedmonkey",
+    "perfs": {
+      "chess960": {
+        "games": 7,
+        "rating": 1196,
+        "rd": 189,
+        "prog": 0,
+        "prov": true
+      },
+      "antichess": {
+        "games": 3,
+        "rating": 1091,
+        "rd": 211,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 2,
+        "rating": 1164,
+        "rd": 245,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 4,
+        "rating": 1268,
+        "rd": 255,
+        "prog": 0,
+        "prov": true
+      },
+      "ultraBullet": {
+        "games": 2,
+        "rating": 1142,
+        "rd": 273,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 26,
+        "rating": 739,
+        "rd": 98,
+        "prog": 139
+      },
+      "kingOfTheHill": {
+        "games": 8,
+        "rating": 1248,
+        "rd": 179,
+        "prog": 0,
+        "prov": true
+      },
+      "crazyhouse": {
+        "games": 3,
+        "rating": 1271,
+        "rd": 254,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1417,
+        "rd": 386,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 26,
+        "rating": 784,
+        "rd": 97,
+        "prog": -157
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "horde": {
+        "games": 1,
+        "rating": 1159,
+        "rd": 325,
+        "prog": 0,
+        "prov": true
+      },
+      "puzzle": {
+        "games": 1302,
+        "rating": 1878,
+        "rd": 76,
+        "prog": 0
+      },
+      "classical": {
+        "games": 206,
+        "rating": 1379,
+        "rd": 60,
+        "prog": 67
+      },
+      "rapid": {
+        "games": 205,
+        "rating": 1251,
+        "rd": 63,
+        "prog": 57
+      }
+    },
+    "createdAt": 1655423121065,
+    "profile": {
+      "country": "US",
+      "location": "San Francisco"
+    },
+    "seenAt": 1667430868338,
+    "playTime": {
+      "total": 349678,
+      "tv": 796
+    },
+    "url": "https://lichess.org/@/snowbeardedmonkey",
+    "count": {
+      "all": 659,
+      "rated": 497,
+      "ai": 10,
+      "draw": 29,
+      "drawH": 29,
+      "loss": 472,
+      "lossH": 464,
+      "win": 158,
+      "winH": 156,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
