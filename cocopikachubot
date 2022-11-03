@@ -1,0 +1,80 @@
+{
+  "id": "cocopikachubot",
+  "displayName": "CocopikachuBOT",
+  "username": "CocopikachuBOT",
+  "profileUrl": "https://lichess.org/@/CocopikachuBOT",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"cocopikachubot\",\"username\":\"CocopikachuBOT\",\"perfs\":{\"blitz\":{\"games\":12,\"rating\":2265,\"rd\":131,\"prog\":50,\"prov\":true},\"bullet\":{\"games\":43,\"rating\":1882,\"rd\":91,\"prog\":17},\"correspondence\":{\"games\":5,\"rating\":2106,\"rd\":186,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1657446269567,\"profile\":{\"country\":\"FR\",\"bio\":\"I'm created by @cocopikachu. I can play chess, but no variants. I can play several games at the same time. \\r\\nhttps://i.imgur.com/aE8bAUI.jpg\"},\"seenAt\":1667474707371,\"playTime\":{\"total\":6206,\"tv\":0},\"url\":\"https://lichess.org/@/CocopikachuBOT\",\"count\":{\"all\":65,\"rated\":61,\"ai\":0,\"draw\":7,\"drawH\":7,\"loss\":32,\"lossH\":32,\"win\":26,\"winH\":26,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "cocopikachubot",
+    "username": "CocopikachuBOT",
+    "perfs": {
+      "blitz": {
+        "games": 12,
+        "rating": 2265,
+        "rd": 131,
+        "prog": 50,
+        "prov": true
+      },
+      "bullet": {
+        "games": 43,
+        "rating": 1882,
+        "rd": 91,
+        "prog": 17
+      },
+      "correspondence": {
+        "games": 5,
+        "rating": 2106,
+        "rd": 186,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1657446269567,
+    "profile": {
+      "country": "FR",
+      "bio": "I'm created by @cocopikachu. I can play chess, but no variants. I can play several games at the same time. \r\nhttps://i.imgur.com/aE8bAUI.jpg"
+    },
+    "seenAt": 1667474707371,
+    "playTime": {
+      "total": 6206,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/CocopikachuBOT",
+    "count": {
+      "all": 65,
+      "rated": 61,
+      "ai": 0,
+      "draw": 7,
+      "drawH": 7,
+      "loss": 32,
+      "lossH": 32,
+      "win": 26,
+      "winH": 26,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
