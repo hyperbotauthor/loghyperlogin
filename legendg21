@@ -4,27 +4,27 @@
   "username": "LegendG21",
   "profileUrl": "https://lichess.org/@/LegendG21",
   "provider": "lichess",
-  "_raw": "{\"id\":\"legendg21\",\"username\":\"LegendG21\",\"perfs\":{\"blitz\":{\"games\":25,\"rating\":1843,\"rd\":88,\"prog\":51},\"bullet\":{\"games\":33,\"rating\":1982,\"rd\":105,\"prog\":-149},\"correspondence\":{\"games\":1,\"rating\":1546,\"rd\":366,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":1870,\"rd\":113,\"prog\":-174,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664801309052,\"online\":true,\"profile\":{\"country\":\"_lichess\",\"location\":\"Non-Of-Your-Business\",\"bio\":\"Creator: https://lichess.org/@/SAUWBradley212\\r\\n\\r\\nINFO: I am a bot, mostly playing bullet.\",\"firstName\":\"Legend\",\"lastName\":\"G\",\"links\":\"https://lichess.org/@/SAUWBradley212\"},\"seenAt\":1665058289352,\"playTime\":{\"total\":9079,\"tv\":0},\"url\":\"https://lichess.org/@/LegendG21\",\"count\":{\"all\":77,\"rated\":76,\"ai\":0,\"draw\":5,\"drawH\":5,\"loss\":15,\"lossH\":15,\"win\":57,\"winH\":57,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"legendg21\",\"username\":\"LegendG21\",\"perfs\":{\"blitz\":{\"games\":26,\"rating\":1880,\"rd\":95,\"prog\":73},\"bullet\":{\"games\":40,\"rating\":1902,\"rd\":92,\"prog\":-49},\"correspondence\":{\"games\":1,\"rating\":1546,\"rd\":368,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":1870,\"rd\":120,\"prog\":-174,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1664801309052,\"profile\":{\"country\":\"_lichess\",\"location\":\"Non-Of-Your-Business\",\"bio\":\"Creator: https://lichess.org/@/SAUWBradley212\\r\\n\\r\\nINFO: I am a bot, mostly playing bullet.\",\"firstName\":\"Legend\",\"lastName\":\"G\",\"links\":\"https://lichess.org/@/SAUWBradley212\"},\"seenAt\":1667565991804,\"playTime\":{\"total\":10145,\"tv\":0},\"url\":\"https://lichess.org/@/LegendG21\",\"count\":{\"all\":89,\"rated\":84,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":22,\"lossH\":22,\"win\":61,\"winH\":61,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "legendg21",
     "username": "LegendG21",
     "perfs": {
       "blitz": {
-        "games": 25,
-        "rating": 1843,
-        "rd": 88,
-        "prog": 51
+        "games": 26,
+        "rating": 1880,
+        "rd": 95,
+        "prog": 73
       },
       "bullet": {
-        "games": 33,
-        "rating": 1982,
-        "rd": 105,
-        "prog": -149
+        "games": 40,
+        "rating": 1902,
+        "rd": 92,
+        "prog": -49
       },
       "correspondence": {
         "games": 1,
         "rating": 1546,
-        "rd": 366,
+        "rd": 368,
         "prog": 0,
         "prov": true
       },
@@ -38,14 +38,13 @@
       "rapid": {
         "games": 17,
         "rating": 1870,
-        "rd": 113,
+        "rd": 120,
         "prog": -174,
         "prov": true
       }
     },
     "title": "BOT",
     "createdAt": 1664801309052,
-    "online": true,
     "profile": {
       "country": "_lichess",
       "location": "Non-Of-Your-Business",
@@ -54,22 +53,22 @@
       "lastName": "G",
       "links": "https://lichess.org/@/SAUWBradley212"
     },
-    "seenAt": 1665058289352,
+    "seenAt": 1667565991804,
     "playTime": {
-      "total": 9079,
+      "total": 10145,
       "tv": 0
     },
     "url": "https://lichess.org/@/LegendG21",
     "count": {
-      "all": 77,
-      "rated": 76,
+      "all": 89,
+      "rated": 84,
       "ai": 0,
-      "draw": 5,
-      "drawH": 5,
-      "loss": 15,
-      "lossH": 15,
-      "win": 57,
-      "winH": 57,
+      "draw": 6,
+      "drawH": 6,
+      "loss": 22,
+      "lossH": 22,
+      "win": 61,
+      "winH": 61,
       "bookmark": 0,
       "playing": 0,
       "import": 0,
