@@ -4,7 +4,7 @@
   "username": "ttBOT",
   "profileUrl": "https://lichess.org/@/ttBOT",
   "provider": "lichess",
-  "_raw": "{\"id\":\"ttbot\",\"username\":\"ttBOT\",\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1134,\"rd\":216,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":22,\"rating\":2293,\"rd\":109,\"prog\":-149},\"horde\":{\"games\":3,\"rating\":1987,\"rd\":331,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1954,\"rd\":155,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":2493,\"rd\":176,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":147,\"rating\":2544,\"rd\":67,\"prog\":20},\"kingOfTheHill\":{\"games\":2,\"rating\":2673,\"rd\":372,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2241,\"rd\":281,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1376,\"rd\":230,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":375,\"rating\":2306,\"rd\":59,\"prog\":-66},\"correspondence\":{\"games\":16,\"rating\":1978,\"rd\":146,\"prog\":-46,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":26,\"rating\":2625,\"rd\":115,\"prog\":21,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656492727599,\"profile\":{\"country\":\"FR\",\"bio\":\"Here is my best result! https://lichess.org/@/ttBOT/bookmark\\r\\nI can play bullet, blitz, rapid, classical, correspondence and I can play now all the variants !!!\",\"firstName\":\"ttBOT\",\"fideRating\":2500},\"seenAt\":1667672495855,\"playTime\":{\"total\":139250,\"tv\":1516},\"url\":\"https://lichess.org/@/ttBOT\",\"count\":{\"all\":799,\"rated\":636,\"ai\":0,\"draw\":73,\"drawH\":73,\"loss\":234,\"lossH\":234,\"win\":492,\"winH\":492,\"bookmark\":10,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"ttbot\",\"username\":\"ttBOT\",\"perfs\":{\"chess960\":{\"games\":8,\"rating\":1134,\"rd\":216,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":22,\"rating\":2293,\"rd\":110,\"prog\":-149,\"prov\":true},\"horde\":{\"games\":3,\"rating\":1987,\"rd\":331,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":11,\"rating\":1954,\"rd\":155,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":10,\"rating\":2493,\"rd\":176,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":147,\"rating\":2544,\"rd\":67,\"prog\":20},\"kingOfTheHill\":{\"games\":2,\"rating\":2673,\"rd\":372,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":2241,\"rd\":281,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1376,\"rd\":231,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":376,\"rating\":2294,\"rd\":59,\"prog\":-75},\"correspondence\":{\"games\":16,\"rating\":1978,\"rd\":146,\"prog\":-46,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":26,\"rating\":2625,\"rd\":115,\"prog\":21,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1656492727599,\"profile\":{\"country\":\"FR\",\"bio\":\"Here is my best result! https://lichess.org/@/ttBOT/bookmark\\r\\nI can play bullet, blitz, rapid, classical, correspondence and I can play now all the variants !!!\",\"firstName\":\"ttBOT\",\"fideRating\":2500},\"seenAt\":1667767616339,\"playTime\":{\"total\":139443,\"tv\":1516},\"url\":\"https://lichess.org/@/ttBOT\",\"count\":{\"all\":801,\"rated\":637,\"ai\":0,\"draw\":73,\"drawH\":73,\"loss\":235,\"lossH\":235,\"win\":493,\"winH\":493,\"bookmark\":10,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "ttbot",
     "username": "ttBOT",
@@ -19,8 +19,9 @@
       "antichess": {
         "games": 22,
         "rating": 2293,
-        "rd": 109,
-        "prog": -149
+        "rd": 110,
+        "prog": -149,
+        "prov": true
       },
       "horde": {
         "games": 3,
@@ -66,15 +67,15 @@
       "threeCheck": {
         "games": 4,
         "rating": 1376,
-        "rd": 230,
+        "rd": 231,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 375,
-        "rating": 2306,
+        "games": 376,
+        "rating": 2294,
         "rd": 59,
-        "prog": -66
+        "prog": -75
       },
       "correspondence": {
         "games": 16,
@@ -106,22 +107,22 @@
       "firstName": "ttBOT",
       "fideRating": 2500
     },
-    "seenAt": 1667672495855,
+    "seenAt": 1667767616339,
     "playTime": {
-      "total": 139250,
+      "total": 139443,
       "tv": 1516
     },
     "url": "https://lichess.org/@/ttBOT",
     "count": {
-      "all": 799,
-      "rated": 636,
+      "all": 801,
+      "rated": 637,
       "ai": 0,
       "draw": 73,
       "drawH": 73,
-      "loss": 234,
-      "lossH": 234,
-      "win": 492,
-      "winH": 492,
+      "loss": 235,
+      "lossH": 235,
+      "win": 493,
+      "winH": 493,
       "bookmark": 10,
       "playing": 0,
       "import": 0,
