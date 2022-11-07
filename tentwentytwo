@@ -4,7 +4,7 @@
   "username": "TenTwentyTwo",
   "profileUrl": "https://lichess.org/@/TenTwentyTwo",
   "provider": "lichess",
-  "_raw": "{\"id\":\"tentwentytwo\",\"username\":\"TenTwentyTwo\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2240,\"rd\":244,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1479,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":29,\"rating\":2575,\"rd\":82,\"prog\":-52},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1954,\"rd\":438,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1665084054906,\"profile\":{\"country\":\"_lichess\",\"location\":\"Server\",\"bio\":\"- Bullet\\r\\n- Rapid\\r\\n- Atomic\\r\\nWork-in-progress bot\",\"fideRating\":2765},\"seenAt\":1667608712034,\"playTime\":{\"total\":5186,\"tv\":0},\"url\":\"https://lichess.org/@/TenTwentyTwo\",\"count\":{\"all\":42,\"rated\":37,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":18,\"lossH\":18,\"win\":18,\"winH\":18,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"tentwentytwo\",\"username\":\"TenTwentyTwo\",\"perfs\":{\"blitz\":{\"games\":4,\"rating\":2240,\"rd\":244,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":1,\"rating\":1479,\"rd\":474,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":30,\"rating\":2577,\"rd\":82,\"prog\":-68},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":2,\"rating\":1954,\"rd\":438,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1665084054906,\"profile\":{\"country\":\"_lichess\",\"location\":\"Server\",\"bio\":\"- Bullet\\r\\n- Rapid\\r\\n- Atomic\\r\\nWork-in-progress bot\",\"fideRating\":2765},\"seenAt\":1667829163447,\"playTime\":{\"total\":5297,\"tv\":0},\"url\":\"https://lichess.org/@/TenTwentyTwo\",\"count\":{\"all\":43,\"rated\":38,\"ai\":0,\"draw\":6,\"drawH\":6,\"loss\":18,\"lossH\":18,\"win\":19,\"winH\":19,\"bookmark\":1,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "tentwentytwo",
     "username": "TenTwentyTwo",
@@ -24,10 +24,10 @@
         "prov": true
       },
       "bullet": {
-        "games": 29,
-        "rating": 2575,
+        "games": 30,
+        "rating": 2577,
         "rd": 82,
-        "prog": -52
+        "prog": -68
       },
       "correspondence": {
         "games": 0,
@@ -59,22 +59,22 @@
       "bio": "- Bullet\r\n- Rapid\r\n- Atomic\r\nWork-in-progress bot",
       "fideRating": 2765
     },
-    "seenAt": 1667608712034,
+    "seenAt": 1667829163447,
     "playTime": {
-      "total": 5186,
+      "total": 5297,
       "tv": 0
     },
     "url": "https://lichess.org/@/TenTwentyTwo",
     "count": {
-      "all": 42,
-      "rated": 37,
+      "all": 43,
+      "rated": 38,
       "ai": 0,
       "draw": 6,
       "drawH": 6,
       "loss": 18,
       "lossH": 18,
-      "win": 18,
-      "winH": 18,
+      "win": 19,
+      "winH": 19,
       "bookmark": 1,
       "playing": 0,
       "import": 0,
