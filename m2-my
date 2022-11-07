@@ -1,0 +1,109 @@
+{
+  "id": "m2-my",
+  "displayName": "M2-MY",
+  "username": "M2-MY",
+  "profileUrl": "https://lichess.org/@/M2-MY",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"m2-my\",\"username\":\"M2-MY\",\"perfs\":{\"chess960\":{\"games\":6,\"rating\":1793,\"rd\":250,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":6,\"rating\":1603,\"rd\":222,\"prog\":0,\"prov\":true},\"racingKings\":{\"games\":3,\"rating\":1582,\"rd\":232,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":44,\"rating\":1336,\"rd\":266,\"prog\":-16,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1161,\"rd\":309,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":14,\"rating\":1528,\"rd\":182,\"prog\":-100,\"prov\":true},\"correspondence\":{\"games\":6,\"rating\":1315,\"rd\":260,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":1500,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":17,\"rating\":1285,\"rd\":244,\"prog\":-30,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1597055378370,\"profile\":{\"country\":\"_lichess\",\"links\":\"lichess.org/@/m2my\"},\"seenAt\":1667854224947,\"playTime\":{\"total\":8890,\"tv\":699},\"url\":\"https://lichess.org/@/M2-MY\",\"count\":{\"all\":165,\"rated\":102,\"ai\":52,\"draw\":7,\"drawH\":3,\"loss\":100,\"lossH\":94,\"win\":58,\"winH\":16,\"bookmark\":5,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "m2-my",
+    "username": "M2-MY",
+    "perfs": {
+      "chess960": {
+        "games": 6,
+        "rating": 1793,
+        "rd": 250,
+        "prog": 0,
+        "prov": true
+      },
+      "atomic": {
+        "games": 6,
+        "rating": 1603,
+        "rd": 222,
+        "prog": 0,
+        "prov": true
+      },
+      "racingKings": {
+        "games": 3,
+        "rating": 1582,
+        "rd": 232,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 44,
+        "rating": 1336,
+        "rd": 266,
+        "prog": -16,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 1,
+        "rating": 1161,
+        "rd": 309,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 14,
+        "rating": 1528,
+        "rd": 182,
+        "prog": -100,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 6,
+        "rating": 1315,
+        "rd": 260,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 1500,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 17,
+        "rating": 1285,
+        "rd": 244,
+        "prog": -30,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1597055378370,
+    "profile": {
+      "country": "_lichess",
+      "links": "lichess.org/@/m2my"
+    },
+    "seenAt": 1667854224947,
+    "playTime": {
+      "total": 8890,
+      "tv": 699
+    },
+    "url": "https://lichess.org/@/M2-MY",
+    "count": {
+      "all": 165,
+      "rated": 102,
+      "ai": 52,
+      "draw": 7,
+      "drawH": 3,
+      "loss": 100,
+      "lossH": 94,
+      "win": 58,
+      "winH": 16,
+      "bookmark": 5,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
