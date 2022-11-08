@@ -4,81 +4,79 @@
   "username": "NikitosikRandombot",
   "profileUrl": "https://lichess.org/@/NikitosikRandombot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nikitosikrandombot\",\"username\":\"NikitosikRandombot\",\"perfs\":{\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1468,\"rd\":455,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":1,\"rating\":1866,\"rd\":321,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":5,\"rating\":1613,\"rd\":304,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645730057092,\"online\":true,\"profile\":{\"country\":\"RU\",\"bio\":\"Plays Random moves\",\"fideRating\":600},\"seenAt\":1646548131877,\"playTime\":{\"total\":51599,\"tv\":0},\"url\":\"https://lichess.org/@/NikitosikRandombot\",\"playing\":\"https://lichess.org/JTz3LGvV/white\",\"count\":{\"all\":228,\"rated\":41,\"ai\":84,\"draw\":53,\"drawH\":49,\"loss\":131,\"lossH\":52,\"win\":44,\"winH\":43,\"bookmark\":0,\"playing\":15,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nikitosikrandombot\",\"username\":\"NikitosikRandombot\",\"perfs\":{\"blitz\":{\"games\":3,\"rating\":1019,\"rd\":265,\"prog\":0,\"prov\":true},\"atomic\":{\"games\":2,\"rating\":1468,\"rd\":469,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":41,\"rating\":875,\"rd\":134,\"prog\":-13,\"prov\":true},\"correspondence\":{\"games\":20,\"rating\":1309,\"rd\":186,\"prog\":-70,\"prov\":true},\"classical\":{\"games\":1,\"rating\":1300,\"rd\":478,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":1,\"rating\":1300,\"rd\":492,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645730057092,\"profile\":{\"country\":\"RU\",\"bio\":\"Plays Random moves\",\"fideRating\":600},\"seenAt\":1667938157703,\"playTime\":{\"total\":52241,\"tv\":0},\"url\":\"https://lichess.org/@/NikitosikRandombot\",\"count\":{\"all\":289,\"rated\":102,\"ai\":84,\"draw\":54,\"drawH\":50,\"loss\":189,\"lossH\":110,\"win\":46,\"winH\":45,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nikitosikrandombot",
     "username": "NikitosikRandombot",
     "perfs": {
       "blitz": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 3,
+        "rating": 1019,
+        "rd": 265,
         "prog": 0,
         "prov": true
       },
       "atomic": {
         "games": 2,
         "rating": 1468,
-        "rd": 455,
+        "rd": 469,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 1,
-        "rating": 1866,
-        "rd": 321,
-        "prog": 0,
+        "games": 41,
+        "rating": 875,
+        "rd": 134,
+        "prog": -13,
         "prov": true
       },
       "correspondence": {
-        "games": 5,
-        "rating": 1613,
-        "rd": 304,
-        "prog": 0,
+        "games": 20,
+        "rating": 1309,
+        "rd": 186,
+        "prog": -70,
         "prov": true
       },
       "classical": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1300,
+        "rd": 478,
         "prog": 0,
         "prov": true
       },
       "rapid": {
-        "games": 0,
-        "rating": 2000,
-        "rd": 500,
+        "games": 1,
+        "rating": 1300,
+        "rd": 492,
         "prog": 0,
         "prov": true
       }
     },
     "title": "BOT",
     "createdAt": 1645730057092,
-    "online": true,
     "profile": {
       "country": "RU",
       "bio": "Plays Random moves",
       "fideRating": 600
     },
-    "seenAt": 1646548131877,
+    "seenAt": 1667938157703,
     "playTime": {
-      "total": 51599,
+      "total": 52241,
       "tv": 0
     },
     "url": "https://lichess.org/@/NikitosikRandombot",
-    "playing": "https://lichess.org/JTz3LGvV/white",
     "count": {
-      "all": 228,
-      "rated": 41,
+      "all": 289,
+      "rated": 102,
       "ai": 84,
-      "draw": 53,
-      "drawH": 49,
-      "loss": 131,
-      "lossH": 52,
-      "win": 44,
-      "winH": 43,
+      "draw": 54,
+      "drawH": 50,
+      "loss": 189,
+      "lossH": 110,
+      "win": 46,
+      "winH": 45,
       "bookmark": 0,
-      "playing": 15,
+      "playing": 0,
       "import": 0,
       "me": 0
     },
