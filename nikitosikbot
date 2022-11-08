@@ -4,7 +4,7 @@
   "username": "Nikitosikbot",
   "profileUrl": "https://lichess.org/@/Nikitosikbot",
   "provider": "lichess",
-  "_raw": "{\"id\":\"nikitosikbot\",\"username\":\"Nikitosikbot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1293,\"rd\":312,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":9,\"rating\":2387,\"rd\":211,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1785,\"rd\":191,\"prog\":20,\"prov\":true},\"atomic\":{\"games\":577,\"rating\":2451,\"rd\":89,\"prog\":36},\"blitz\":{\"games\":35,\"rating\":2507,\"rd\":92,\"prog\":89},\"kingOfTheHill\":{\"games\":4,\"rating\":1815,\"rd\":293,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":1,\"rating\":1499,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":1,\"rating\":1499,\"rd\":500,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":266,\"rating\":2393,\"rd\":50,\"prog\":21},\"correspondence\":{\"games\":39,\"rating\":1829,\"rd\":136,\"prog\":-90,\"prov\":true},\"classical\":{\"games\":14,\"rating\":2334,\"rd\":133,\"prog\":-51,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2718,\"rd\":148,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645191783200,\"profile\":{\"country\":\"RU\",\"bio\":\"Operator @Nikitosik1708.                                                                                     Challenge me in standard and atomic chess time control from 1/2+0 (0+1) to 180+180 (14days).\\r\\n                             Club: https://lichess.org/team/nikitosik-fan-club\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1667921930698,\"playTime\":{\"total\":238242,\"tv\":3051},\"url\":\"https://lichess.org/@/Nikitosikbot\",\"playing\":\"https://lichess.org/nnAEkvyz/white\",\"count\":{\"all\":1158,\"rated\":1010,\"ai\":95,\"draw\":83,\"drawH\":75,\"loss\":382,\"lossH\":330,\"win\":693,\"winH\":658,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_raw": "{\"id\":\"nikitosikbot\",\"username\":\"Nikitosikbot\",\"perfs\":{\"chess960\":{\"games\":1,\"rating\":1293,\"rd\":312,\"prog\":0,\"prov\":true},\"antichess\":{\"games\":10,\"rating\":2389,\"rd\":210,\"prog\":0,\"prov\":true},\"horde\":{\"games\":12,\"rating\":1785,\"rd\":191,\"prog\":20,\"prov\":true},\"atomic\":{\"games\":577,\"rating\":2451,\"rd\":89,\"prog\":36},\"blitz\":{\"games\":35,\"rating\":2507,\"rd\":92,\"prog\":89},\"kingOfTheHill\":{\"games\":4,\"rating\":1815,\"rd\":293,\"prog\":0,\"prov\":true},\"crazyhouse\":{\"games\":2,\"rating\":1662,\"rd\":304,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":1581,\"rd\":202,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":267,\"rating\":2393,\"rd\":50,\"prog\":17},\"correspondence\":{\"games\":39,\"rating\":1829,\"rd\":136,\"prog\":-90,\"prov\":true},\"classical\":{\"games\":14,\"rating\":2334,\"rd\":133,\"prog\":-51,\"prov\":true},\"rapid\":{\"games\":11,\"rating\":2718,\"rd\":148,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1645191783200,\"profile\":{\"country\":\"RU\",\"bio\":\"Operator @Nikitosik1708.                                                                                     Challenge me in standard and atomic chess time control from 1/2+0 (0+1) to 180+180 (14days).\\r\\n                             Club: https://lichess.org/team/nikitosik-fan-club\",\"fideRating\":3000,\"uscfRating\":3000,\"ecfRating\":3000,\"rcfRating\":3000,\"cfcRating\":3000,\"dsbRating\":3000},\"seenAt\":1667922537153,\"playTime\":{\"total\":238566,\"tv\":3051},\"url\":\"https://lichess.org/@/Nikitosikbot\",\"playing\":\"https://lichess.org/nnAEkvyz/white\",\"count\":{\"all\":1166,\"rated\":1016,\"ai\":95,\"draw\":83,\"drawH\":75,\"loss\":383,\"lossH\":331,\"win\":700,\"winH\":665,\"bookmark\":0,\"playing\":2,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
   "_json": {
     "id": "nikitosikbot",
     "username": "Nikitosikbot",
@@ -17,9 +17,9 @@
         "prov": true
       },
       "antichess": {
-        "games": 9,
-        "rating": 2387,
-        "rd": 211,
+        "games": 10,
+        "rating": 2389,
+        "rd": 210,
         "prog": 0,
         "prov": true
       },
@@ -50,24 +50,24 @@
         "prov": true
       },
       "crazyhouse": {
-        "games": 1,
-        "rating": 1499,
-        "rd": 500,
+        "games": 2,
+        "rating": 1662,
+        "rd": 304,
         "prog": 0,
         "prov": true
       },
       "threeCheck": {
-        "games": 1,
-        "rating": 1499,
-        "rd": 500,
+        "games": 4,
+        "rating": 1581,
+        "rd": 202,
         "prog": 0,
         "prov": true
       },
       "bullet": {
-        "games": 266,
+        "games": 267,
         "rating": 2393,
         "rd": 50,
-        "prog": 21
+        "prog": 17
       },
       "correspondence": {
         "games": 39,
@@ -103,23 +103,23 @@
       "cfcRating": 3000,
       "dsbRating": 3000
     },
-    "seenAt": 1667921930698,
+    "seenAt": 1667922537153,
     "playTime": {
-      "total": 238242,
+      "total": 238566,
       "tv": 3051
     },
     "url": "https://lichess.org/@/Nikitosikbot",
     "playing": "https://lichess.org/nnAEkvyz/white",
     "count": {
-      "all": 1158,
-      "rated": 1010,
+      "all": 1166,
+      "rated": 1016,
       "ai": 95,
       "draw": 83,
       "drawH": 75,
-      "loss": 382,
-      "lossH": 330,
-      "win": 693,
-      "winH": 658,
+      "loss": 383,
+      "lossH": 331,
+      "win": 700,
+      "winH": 665,
       "bookmark": 0,
       "playing": 2,
       "import": 0,
