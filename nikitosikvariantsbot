@@ -1,0 +1,91 @@
+{
+  "id": "nikitosikvariantsbot",
+  "displayName": "NikitosikVariantsbot",
+  "username": "NikitosikVariantsbot",
+  "profileUrl": "https://lichess.org/@/NikitosikVariantsbot",
+  "provider": "lichess",
+  "_raw": "{\"id\":\"nikitosikvariantsbot\",\"username\":\"NikitosikVariantsbot\",\"perfs\":{\"atomic\":{\"games\":4,\"rating\":2643,\"rd\":243,\"prog\":0,\"prov\":true},\"blitz\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"threeCheck\":{\"games\":4,\"rating\":2196,\"rd\":487,\"prog\":0,\"prov\":true},\"bullet\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"correspondence\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"classical\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true},\"rapid\":{\"games\":0,\"rating\":2000,\"rd\":500,\"prog\":0,\"prov\":true}},\"title\":\"BOT\",\"createdAt\":1669833615498,\"seenAt\":1669917194764,\"playTime\":{\"total\":2498,\"tv\":0},\"url\":\"https://lichess.org/@/NikitosikVariantsbot\",\"count\":{\"all\":8,\"rated\":8,\"ai\":0,\"draw\":0,\"drawH\":0,\"loss\":4,\"lossH\":4,\"win\":4,\"winH\":4,\"bookmark\":0,\"playing\":0,\"import\":0,\"me\":0},\"followable\":true,\"following\":false,\"blocking\":false,\"followsYou\":false}",
+  "_json": {
+    "id": "nikitosikvariantsbot",
+    "username": "NikitosikVariantsbot",
+    "perfs": {
+      "atomic": {
+        "games": 4,
+        "rating": 2643,
+        "rd": 243,
+        "prog": 0,
+        "prov": true
+      },
+      "blitz": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "threeCheck": {
+        "games": 4,
+        "rating": 2196,
+        "rd": 487,
+        "prog": 0,
+        "prov": true
+      },
+      "bullet": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "correspondence": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "classical": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      },
+      "rapid": {
+        "games": 0,
+        "rating": 2000,
+        "rd": 500,
+        "prog": 0,
+        "prov": true
+      }
+    },
+    "title": "BOT",
+    "createdAt": 1669833615498,
+    "seenAt": 1669917194764,
+    "playTime": {
+      "total": 2498,
+      "tv": 0
+    },
+    "url": "https://lichess.org/@/NikitosikVariantsbot",
+    "count": {
+      "all": 8,
+      "rated": 8,
+      "ai": 0,
+      "draw": 0,
+      "drawH": 0,
+      "loss": 4,
+      "lossH": 4,
+      "win": 4,
+      "winH": 4,
+      "bookmark": 0,
+      "playing": 0,
+      "import": 0,
+      "me": 0
+    },
+    "followable": true,
+    "following": false,
+    "blocking": false,
+    "followsYou": false
+  },
+  "accessToken": "..."
+}
